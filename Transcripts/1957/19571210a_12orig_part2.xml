@@ -1,0 +1,47 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-24</verified>
+      </history>
+      <resources>
+        <audioFile size="375536">/xml/cases/1957/12orig/19571210a_12orig_part2.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1957/trs/12orig_19571210-2.trs</sourceFile>
+        <speaker id="earl_warren" type="justice" gender="male" path="/justices/earl_warren" image="/justices/earl_warren/thumbnail.jpg">Earl Warren</speaker>
+        <speaker id="joseph_s_kaufman" type="advocate" gender="male" path="/advocates/jk/joseph_s_kaufman" image="/advocates/jk/joseph_s_kaufman/thumbnail.jpg">Joseph S. Kaufman</speaker>
+        <speaker id="kenneth_c_patty" type="advocate" gender="male" path="/advocates/kp/kenneth_c_patty" image="/advocates/kp/kenneth_c_patty/thumbnail.jpg">Kenneth C. Patty</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="93.822">
+        <title>Virginia v. Maryland</title>
+        <section startTime="0" stopTime="17.08">
+          <heading>Argument of Joseph S. Kaufman</heading>
+          <turn speaker="earl_warren" startTime="0.000" stopTime="11.381">
+            <label>Chief Justice Earl Warren</label>
+            <text syncTime="0.000" offset="">-- gentlemen.</text>
+          </turn>
+          <turn speaker="joseph_s_kaufman" startTime="11.381" stopTime="17.080">
+            <label>Mr. Joseph S. Kaufman</label>
+            <text syncTime="11.381" offset="45453">May it please the Court.</text>
+            <text syncTime="12.192" offset="48692">Maryland has concluded its argument unless there are some further questions by the Court.</text>
+          </turn>
+        </section>
+        <section startTime="17.08" stopTime="93.822">
+          <heading>Argument of Kenneth C. Patty</heading>
+          <turn speaker="earl_warren" startTime="17.080" stopTime="29.676">
+            <label>Chief Justice Earl Warren</label>
+            <text syncTime="17.080" offset="68232">Well, that's it.</text>
+            <text syncTime="17.901" offset="71576">Thank you very much.</text>
+            <text syncTime="22.502" offset="89966">Mr. Hicks, any rebuttal?</text>
+            <text syncTime="27.712" offset="110759">Attorney General Patty.</text>
+          </turn>
+          <turn speaker="kenneth_c_patty" startTime="29.676" stopTime="83.538">
+            <label>Mr. Kenneth C. Patty</label>
+            <text syncTime="29.676" offset="118700">May it please the Court.</text>
+            <text syncTime="31.267" offset="124970">I feel that my colleague, my Assistant Mr. Hicks has fully developed the essential question involved here and that I deem it unnecessary this time to go into the case any further unless the Court has some questions (Inaudible)</text>
+            <text syncTime="53.182" offset="212637">We feel that unless there is a controversy existing on the count of the breach of contract to the breach of compact that compact never was anything more than a scrap of paper that if -- if it was a contract, certain controversy has risen between the two states on the count of fact that one state has attempted to unilaterally abrogate the terms of the contract.</text>
+          </turn>
+          <turn speaker="earl_warren" startTime="83.538" stopTime="93.822">
+            <label>Chief Justice Earl Warren</label>
+            <text syncTime="83.538" offset="334054">Thank you.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

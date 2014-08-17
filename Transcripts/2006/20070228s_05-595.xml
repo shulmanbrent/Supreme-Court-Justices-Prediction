@@ -1,0 +1,43 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T16:02:42" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="801740">/xml/cases/2006/05_595/20070228o_05-595.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2006/trs/05-595_20070228-opinion.trs</sourceFile>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="177.998">
+        <title>Whorton v. Bockting</title>
+        <section startTime="0.000" stopTime="177.998" revised="2014-01-27">
+          <heading>Opinion Announcement of Justice Samuel A. Alito, Jr.</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="8.134">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="89747">Justice Alito has the opinion this morning in No. 05-595, Whorton versus Bockting.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="8.134" stopTime="177.998">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="8.134" offset="122243">Now this case comes to us on writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="14.266" offset="146798">New rules of criminal procedure announced by this court do not apply to cases that are already final on direct review unless they fit within a narrow exception set forth in Teague versus Lane namely where the new rule constitutes a watershed rule of criminal procedure that implicates the fundamental fairness and accuracy of the criminal proceeding.</text>
+            <text syncTime="38.483" offset="243660">The questions presented in this case are whether Crawford versus Washington which held that the Sixth Amendment forbids the admission of uncrossed examined testimonial hearsay announced the new rule and whether it is a watershed rule.</text>
+            <text syncTime="51.708" offset="296532">The respondent in this case was convicted in the Nevada Court for sexual assault on a minor.</text>
+            <text syncTime="58.054" offset="321923">Out of court statements made by the victim were admitted at trial against him.</text>
+            <text syncTime="63.319" offset="342926">The Nevada Supreme Court held that this did not violate respondent’s confrontation right and in reaching this conclusion the states Supreme Court apply the standards set out in what was then the governing Confrontation Clause precedent Ohio versus Roberts.</text>
+            <text syncTime="79.765" offset="408754">After respondent’s conviction became final on direct review Roberts was overruled in Crawford.</text>
+            <text syncTime="85.762" offset="432787">A Federal District Court denied respondent’s application for a writ of habeas corpus but the Court of Appeals held the Crawford applies retroactively to cases on collateral review.</text>
+            <text syncTime="96.800" offset="476882">This decision conflicted with those of the other Courts of Appeals that had addressed this issue and we therefore granted certiorari and we now reverse.</text>
+            <text syncTime="105.908" offset="513349">We hold today that the rule announcing Crawford is a new rule because it was not dictated by Precedent in existence at the time when respondent’s conviction became final.</text>
+            <text syncTime="122.879" offset="581163">On the contrary Crawford overruled what was then the governing precedent.</text>
+            <text syncTime="127.570" offset="599971">We further hold that the Crawford rule is not a watershed rule implicating “the fundamental fairness and accuracy of the criminal proceedings.”</text>
+            <text syncTime="136.764" offset="636751">First, the prior governing precedent did not present an impermissibly large risk of an inaccurate conviction.</text>
+            <text syncTime="143.374" offset="663187">Crawford overall affect on the accuracy of fact finding in criminal trials is difficult to access and in any event any resulting improvement inaccuracy is insufficient to qualify under the Teague exception.</text>
+            <text syncTime="158.086" offset="722015">Second, Crawford did not alter our understanding of the bedrock procedural elements necessary to the fairness of a proceeding.</text>
+            <text syncTime="165.723" offset="752630">Our cases to date have identified one rule that met this test the rule in Gideon versus Wainwright and the Crawford rule while important is not in the same category as Gideon.</text>
+            <text syncTime="175.815" offset="792963">The opinion of the court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

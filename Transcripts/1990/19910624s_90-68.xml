@@ -1,0 +1,53 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:09:40" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="899839">/xml/cases/1990/90_68/19910624o_90-68.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/90-68_19910624-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="206.472">
+        <title>Ylst v. Nunnemaker</title>
+        <section startTime="0.000" stopTime="206.472">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.380">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73952">The opinions of the Court in two cases will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="8.380" stopTime="206.472">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="8.380" offset="107389">The first of these cases is Ylst versus Nunnemaker.</text>
+            <text syncTime="14.640" offset="132466">This is a case in which the respondent was convicted of murder in State Court.</text>
+            <text syncTime="19.005" offset="149916">On appeal, he argued for the first time that he had been denied his Miranda rights.</text>
+            <text syncTime="24.494" offset="171859">The California Court of Appeals rejected the claim relying upon a state procedural rule that Miranda claims cannot be raised for the first time on appeal.</text>
+            <text syncTime="35.039" offset="214073">The respondent next filed successive petitions for state collateral relief in the State Trial Court, the State Court of Appeals, and twice in the California Supreme Court.</text>
+            <text syncTime="44.946" offset="253674">Each of these petitions was denied without opinion in an unexplained order.</text>
+            <text syncTime="49.564" offset="272169">The respondent then filed for habeas corpus in Federal Court.</text>
+            <text syncTime="54.110" offset="290350">The District Court dismissed sighting the procedural bar that had been imposed by the state courts.</text>
+            <text syncTime="58.895" offset="309472">The Court of Appeals for the Ninth Circuit reversed relying upon our holding in Harris versus Reed that a State Court must clearly and expressly state its reliance upon a procedural default in order to bar federal habeas review.</text>
+            <text syncTime="72.053" offset="362135">The court thought that the California Supreme Court's silent denial of respondent's state habeas petition lifted the procedural bar imposed on direct review.</text>
+            <text syncTime="81.664" offset="400587">We reverse the decision of the Ninth Circuit.</text>
+            <text syncTime="84.417" offset="411559">In Coleman versus Thompson, which is also announced today, we hold that the rule of Harris applies only where it has been determined that the relevant State Court decision fairly appears to rest upon federal law.</text>
+            <text syncTime="96.283" offset="458997">The Ninth Circuit erred in presuming that the silent order of the California Supreme Court rested upon federal law without asking whether there was any reason to think that it did.</text>
+            <text syncTime="106.594" offset="500270">They remains a difficult question of how a court is to determine whether a decision fairly appears to rest upon federal law.</text>
+            <text syncTime="114.650" offset="532453">We think that inquiry can be facilitated in the present case by applying the following presumption where there has been one reasoned State Court judgment rejecting a federal claim, subsequent silent or unexplained orders upholding that judgment or rejecting the same claim rest upon the same ground.</text>
+            <text syncTime="134.651" offset="612492">The essence of unexplained orders is that they say nothing.</text>
+            <text syncTime="137.755" offset="624927">We think that a presumption which gives them no effect would simply look through them to the last recent decision most nearly reflects the role they are intended to play.</text>
+            <text syncTime="146.495" offset="659931">That presumption should be rebuttal by strong evidence that the federal claim was rejected upon a different ground.</text>
+            <text syncTime="152.047" offset="682083">In the present case, the last recent decision upon the merits of respondent's Miranda claim was that of the California Court of Appeals on direct review which unequivocally rested on a state procedural default.</text>
+            <text syncTime="164.163" offset="730566">We will look through the subsequent unexplained denials of collateral review to that opinion unless respondent produces strong evidence that one of the subsequent courts reach the merit of its federal claim.</text>
+            <text syncTime="174.629" offset="772466">He has not done so.</text>
+            <text syncTime="176.465" offset="779781">The most he can show is that those courts could have reached the merits if they wanted to, but to show that they could is not to suggest that they did.</text>
+            <text syncTime="184.279" offset="811023">Federal Court review of the reminder claim is therefore bared unless respondent can establish cause and prejudice under Murray versus Carrier.</text>
+            <text syncTime="191.169" offset="838608">The District Court found no cause and prejudice but since the Court of Appeals had no occasion to review that holding, we remand for that purpose.</text>
+            <text syncTime="198.522" offset="867970">Justice White has filed a concurring opinion.</text>
+            <text syncTime="200.490" offset="875911">Justice Blackmun has filed a dissent in which Justices Marshall and Stevens join.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

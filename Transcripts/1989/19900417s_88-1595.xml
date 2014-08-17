@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1990-04-17</transcribed>
+        <edit user="tschaefer" date="2012-08-13T11:07:38" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <identified user="tschaefer">2012-08-13</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:01:51" startTime="0.000" oldSpeaker="sandra_day_oconnor" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="382122">/xml/cases/1989/88_1595/19900417o_88-1595.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1989/88-1595_19900417-opinion.xml</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="73.744">
+        <title>Kaiser Aluminum &amp; Chemical Corporation v. Bonjorno</title>
+        <section startTime="0.000" stopTime="11.871">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="11.871">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87147">The opinion of the Court in No. 88-1595, Kaiser Aluminum and Chemical Corporation verus Bonjorno will be announced by Justice O’Connor.</text>
+          </turn>
+        </section>
+        <section startTime="11.871" stopTime="73.744">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="sandra_day_oconnor" startTime="11.871" stopTime="73.744">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="11.871" offset="134585">These are two cases which come to the Court in writ of certiorari to the United States Court of Appeals for the Third Circuit.</text>
+            <text syncTime="19.433" offset="164783">They require us to decide the applicable rate of post-judgment interest and the date from which that interest should be calculated under the federal post-judgment interest statute.</text>
+            <text syncTime="31.172" offset="211803">In an opinion filed today, we hold that the plain language of the statute requires the rate of post-judgment interest be fixed as of the date of the entry of the judgment.</text>
+            <text syncTime="42.819" offset="258406">We also hold that post-judgment interest should not be calculated from the date of a damages judgment which was set aside as not supported by the evidence.</text>
+            <text syncTime="53.119" offset="299575">The judgment of the Court of Appeals has affirmed in part, reversed in part, and the cases are remanded for further proceedings.</text>
+            <text syncTime="60.640" offset="329668">Justice Scalia has filed a concurring opinion; Justice White has filed a separate opinion concurring in part and dissenting in part which Justices Brennan, Marshall, and Blackmun have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

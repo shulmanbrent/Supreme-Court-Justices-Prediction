@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <transcribed>2004-05-17</transcribed>
+        <edit user="dleib" date="2012-08-12T15:43:11" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <identified user="dleib">2012-08-12</identified>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2013-12-12T11:50:10" startTime="0.000" oldSpeaker="john_paul_stevens" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="764646">/xml/cases/2003/02_1016/20040517o_02-1016.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/2003/02-1016_20040517-opinion.xml</sourceFile>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="143.299">
+        <title>Till v. SCS Credit Corporation</title>
+        <section startTime="0.000" stopTime="143.299" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice John Paul Stevens</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="5.992">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinions of the Court in two cases will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="5.992" stopTime="143.299">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="5.992" offset="23928">In Till against the SCS Credit Corporation the case comes to us from the Seventh Circuit, it is a Chapter 13 bankruptcy case.</text>
+            <text syncTime="16.430" offset="65620">In what is known as the cram down option, a plan allowing the debtor to retain possession of an asset securing a creditor’s allowed claim can be approved over the objection of the creditor if the plan provides that the creditor will receive the value of the asset as of the date of the plan.</text>
+            <text syncTime="37.537" offset="150047">Normally that means that the plan will provide for a stream of installment payments that add up to the value of the asset plus interest.</text>
+            <text syncTime="45.685" offset="182648">The question in this case is how bankruptcy judges should set the interest rate.</text>
+            <text syncTime="50.541" offset="202083">Should they start with the rate that the debtor agreed to pay when he purchased the asset, in this case 21%, and place the burden on the debtor of proving that a lower rate is appropriate, because the plan cannot be approved without approval of the judge who must find that the plan is feasible and will likely succeed?</text>
+            <text syncTime="70.207" offset="280764">Or should they start with the prime rate, in this case 8%, and place the burden on the creditor of establishing how great an operate adjustment should be made?</text>
+            <text syncTime="80.204" offset="320784">A third possibility consistent with the statutory text would be to ignore the risk of default entirely and just use the prime rate.</text>
+            <text syncTime="89.815" offset="359236">This is a question on which many judges have disagreed and written at a great length.</text>
+            <text syncTime="95.343" offset="381283">We have done so as well.</text>
+            <text syncTime="98.177" offset="392673">Four of us, Justices Souter, Ginsburg, Breyer, and I, have concluded that we should presume that an approved plan will succeed.</text>
+            <text syncTime="108.311" offset="433215">Justice Scalia joined by the Chief Justice and Justices O’Connor and Kennedy, agree with the Seventh Circuit and would endorse the presumptive contract rate.</text>
+            <text syncTime="118.602" offset="474384">Because Justice Thomas analysis is closer to ours than to the dissenters, he joins the judgment reversing the Court of Appeals.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

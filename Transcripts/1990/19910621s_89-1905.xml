@@ -1,0 +1,29 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:15:13" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="163110">/xml/cases/1990/89_1905/19910621o_89-1905.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1905_19910621-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="22.282">
+        <title>Wisconsin Public Intervenor v. Mortier</title>
+        <section startTime="0.000" stopTime="22.282">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.834">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73980">The opinion of the Court in No. 89-1905 Wisconsin Public Intervenor verus Mortier will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="8.834" stopTime="22.282">
+            <label>Justice Byron R. White</label>
+            <text syncTime="8.834" offset="109298">As the opinion on file with the clerk will indicate, we reverse the judgment of the Supreme Court of Wisconsin.</text>
+            <text syncTime="18.305" offset="147123">Justice Scalia has filed an opinion concurring in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

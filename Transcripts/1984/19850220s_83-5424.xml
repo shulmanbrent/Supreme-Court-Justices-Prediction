@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T12:02:54" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="warren_e_burger"/>
+        <edit user="jgoldman" date="2014-01-15T12:02:59" startTime="119.867" oldSpeaker="unknown_speaker" newSpeaker="warren_e_burger"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="571622">/xml/cases/1984/83_5424/19850220o_83-5424.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1984/trs/83-5424_19850220-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="122.828">
+        <title>Ake v. Oklahoma</title>
+        <section startTime="0.000" stopTime="122.828">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="9.065">
+            <label>Chief Justice Burger</label>
+            <text syncTime="0.000" offset="80311">The judgment and the opinion of the Court in Glen Ake against Oklahoma will be announced by Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="9.065" stopTime="119.867">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="9.065" offset="116569">We granted certiorari in this case and to decide whether the Constitution requires a state to provide an indigent defendant with the assistance of a psychiatrist.</text>
+            <text syncTime="23.867" offset="175710">In this case a defendant ask the Oklahoma Trial Court to appoint a psychiatrist to assist him in preparing his insanity defense.</text>
+            <text syncTime="33.994" offset="216252">The court refused and Oklahoma Court of Criminal Appeals affirmed and it held that the neither the state law nor the Constitution creates a right to a state funded psychiatrist examination.</text>
+            <text syncTime="51.117" offset="284693">In an opinion on file today with the Clerk we reverse.</text>
+            <text syncTime="55.844" offset="303606">We hold that when a defendant demonstrates to the trial judge that insanity at the time of the defense is likely to be a significant factor at trial that a State must at a minimum assure that the defendant access to incompetence psychiatrist who will conduct an appropriate examination and insists in eveluating preparation and presentation of the defense.</text>
+            <text syncTime="83.401" offset="413842">In addition, when in the sentencing phase of a capital case the prosecutor places before the jury psychiatric evidence of the defendants future dangerousness, the defendant is entitled to the examination and assistance of a psychiatrists.</text>
+            <text syncTime="100.822" offset="483537">In this case the defendant maybe necessary joined and was therefore entitled to the assistance of a psychiatrist.</text>
+            <text syncTime="110.025" offset="520318">We reverse the decision of the Oklahoma Court.</text>
+            <text syncTime="113.271" offset="533379">The Chief Justice filed an opinion concurring in the judgment; Justice Rehnquist has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="119.867" stopTime="122.828">
+            <label>Chief Justice Burger</label>
+            <text syncTime="119.867" offset="559710">Thank you Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

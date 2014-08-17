@@ -1,0 +1,36 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T13:58:43" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="464342">/xml/cases/1989/88_1671/19900327o_88-1671.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1989/trs/88-1671_19900327-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="94.302">
+        <title>United States Department of Labor v. Triplett</title>
+        <section startTime="0.000" stopTime="94.302">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.912">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87134">The opinion of the Court in No. 88-1671, United States Department of Labor versus Triplett will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="9.912" stopTime="94.302">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="9.912" offset="126736">This case is here on writ of certiorari to the Supreme Court of Appeals of West Virginia.</text>
+            <text syncTime="15.026" offset="147216">It concerns the Black Lung Benefits Act which prohibits attorneys from receiving fees for representing claimants except as those fees are approved by the Department of Labor.</text>
+            <text syncTime="27.154" offset="195699">The Department’s regulations invalidate all contractual fee agreements.</text>
+            <text syncTime="31.508" offset="213149">Respondent is an attorney who represented claimants on a contingent fee basis and he collected those fees without the requisite approval.</text>
+            <text syncTime="39.675" offset="245750">The Committee on Legal Ethics of the State Bar recommended that respondent be suspended, but the West Virginia Supreme Court of Appeals denied enforcement ruling that the prohibition on receipt of contingency fees violated the claimant’s due process rights by denying them access to counsel.</text>
+            <text syncTime="56.374" offset="312623">In an opinion filed with the Clerk, we reverse the judgment and remand the case for further proceedings.</text>
+            <text syncTime="62.281" offset="336238">We first conclude that petitioner, Committee on Legal Ethics, has standing and that respondent has third party standing to raise his client’s due process claims.</text>
+            <text syncTime="73.105" offset="379496">On the merits, we find that respondent has failed to prove that the scheme he challenges made attorneys unavailable to his prospective clients at the time he violated the Act.</text>
+            <text syncTime="81.963" offset="414918">Justice Stevens has filed a concurring opinion; Justice Marshall has filed an opinion concurring in the judgment in part two of which Justice Brennan has joined; Justice Brennan has filed a separate statement.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

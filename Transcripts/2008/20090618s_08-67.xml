@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="886745">/xml/cases/2008/08_67/20090618o_08-67.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2008/trs/08-67_20090618-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="194.952">
+        <title>Yeager v. United States</title>
+        <section startTime="0" stopTime="194.952">
+          <heading>Opinion Announcement of John Paul Stevens</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="6.902">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="106496">Justice Stevens has our opinion this morning in case 08-67, Yeager versus United States.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="6.902" stopTime="194.952">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="6.902" offset="134081">This case comes to us from the Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="11.142" offset="151009">Petitioner, a former executive of a subsidiary of Enron Corporation was charged in a federal indictment with securities and wire fraud and with insider trading and money laundering.</text>
+            <text syncTime="24.023" offset="202522">The indictment alleged that petitioner misled the public about the virtues of a fiber-optic communications system being developed by his former employer and that he then enriched himself by trading Enron's stock without divulging the truth about the system.</text>
+            <text syncTime="40.157" offset="267097">After a 13-week jury trial, the jury acquitted petitioner on the fraud charges but failed to reach a verdict on the insider-trading and money-laundering counts.</text>
+            <text syncTime="51.068" offset="310669">The Government later reindicted petitioner for the counts in which the jury had hung.</text>
+            <text syncTime="56.375" offset="331985">Petitioner moved to dismiss the new indictment on the ground that the issue-preclusion component of the Double Jeopardy Clause barred retrial on those charges.</text>
+            <text syncTime="66.273" offset="371587">Specifically, he asserted that the jury's verdict of acquittal at the first trial had necessarily determined that he did not possess insider information and that a second trial for insider-trading and money-laundering would turn on that issue.</text>
+            <text syncTime="82.307" offset="435639">The District Court denied the motion and the Fifth Circuit affirmed.</text>
+            <text syncTime="86.140" offset="450999">The Fifth Circuit concluded that to decipher what the -- the issues the jury had decided in its verdict, it could consider the jury's failure to reach a verdict on other counts.</text>
+            <text syncTime="98.322" offset="499691">Using that approach, the Court explained that if the jury had in fact included that petitioner did not possess insider information, it would have acquitted him of the insider-trading and money-laundering.</text>
+            <text syncTime="112.294" offset="555593">The fact that the jury instead hung on those counts, the Court explained made it impossible to decide what the jury had necessarily decided in its acquittals.</text>
+            <text syncTime="121.949" offset="594254">Accordingly, the Court allowed the Government to prosecute petitioner again.</text>
+            <text syncTime="127.028" offset="614525">We granted certiorari and now reverse and remand.</text>
+            <text syncTime="130.777" offset="629572">For reasons stated in an opinion filed with the clerk, we hold that the consideration of hung counts has no place in the issue-preclusion analysis.</text>
+            <text syncTime="140.666" offset="669069">To identify what a jury necessarily determined at trial, the Court should scrutinize the jury's decisions, not its failures to decide.</text>
+            <text syncTime="149.722" offset="705327">A contrary conclusion would require improper speculation into what transpired in the jury room.</text>
+            <text syncTime="157.208" offset="735316">Thus, if the possession of insider information was a critical issue of ultimate fact in all of the charges against petitioner, a jury verdict that necessarily decided that issue in petitioner's favor protects him from prosecution for any charge for which that is an essential element.</text>
+            <text syncTime="175.508" offset="808458">Justice Kennedy has filed an opinion concurring in part and concurring in the judgment.</text>
+            <text syncTime="180.930" offset="830192">Justice Scalia has filed a dissenting opinion in which Justice Thomas and Alito have joined.</text>
+            <text syncTime="187.747" offset="857464">And Justice Alito has also filed a dissenting opinion in which Justices Scalia and Thomas have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

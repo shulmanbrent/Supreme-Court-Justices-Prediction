@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:00:33" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="866324">/xml/cases/1999/98_2043/20000222o_98-2043.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1999/trs/98-2043_20000222-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="195.526">
+        <title>Hunt-Wesson, Inc. v. Franchise Tax Board of California</title>
+        <section startTime="0.000" stopTime="195.526">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.873">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="84218">The opinion of the Court in No. 98-2043, Hunt-Wesson, Inc. versus Franchise Tax Board of California will be announced by Justice Breyer.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="9.873" stopTime="195.526">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="9.873" offset="123611">The Federal Constitution permits a state to tax a propionate share of the income of an out of state company that does a particular business both inside and outside the State, but the state cannot tax income that that kind of company receives from an out-of-state unrelated business activity that constitutes a discrete business entity.</text>
+            <text syncTime="36.190" offset="228936">So, imagine an Illinois tin can maker that does a $10 million tin can business in every state and suppose that company also has $200,000 dividend income from a completely unrelated New Zealand sheep farm; that means California could tax its share of the tin can income but it could not touch that $200,000 dividend.</text>
+            <text syncTime="59.317" offset="321410">Now what has California done?</text>
+            <text syncTime="61.942" offset="331963">Well, their system permits the manufacturer to deduct certain cost from income including interest cost; say they produce those tin cans with borrowed money in part.</text>
+            <text syncTime="74.382" offset="381700">Well, California says that you can deduct that interest only to the extent that it exceeds the dividend from the sheep farm, so if the company let us say has $300,000 in tin can interest cost, it could not deduct the $300,000, they could only deduct $100,000 because it exceeds the $200,000 dividend by $100,000.</text>
+            <text syncTime="99.639" offset="482742">Now, does the Constitution permit the type of deduction system that I just illustrated with this example which is a made up example?</text>
+            <text syncTime="108.140" offset="516701">We decide that it does not, we think that California’s deduction rule simply taxes in out of state companies non-unitary income, the vary income that the Constitution places outside the state's taxing power.</text>
+            <text syncTime="120.957" offset="568006">Some years ago this Court wrote effectively that a tax on sleeping that is measured by the number of shoes in your closet is not a tax on sleeping, it is a tax on shoes and that basically underlies our reasoning in this case.</text>
+            <text syncTime="134.908" offset="623803">Now, California points out that it is difficult to know if the borrowed money is really for the sheep business or for the tin can business and that is a good point, but it does not justify a rule that assumes that all borrowings are really for sheep.</text>
+            <text syncTime="152.042" offset="692349">Neither the Federal Government nor any state makes any assumption that is that reckoning, rather every other jurisdiction uses a tracing rule, assumptions or allocates borrowings between taxable and non-taxable sources in some proportionate way.</text>
+            <text syncTime="168.719" offset="759013">California has not explained why it could not do the same.</text>
+            <text syncTime="173.619" offset="778657">For that reason California’s system in our view does not reflect the reasonable sense of how income is generated.</text>
+            <text syncTime="180.023" offset="804257">It is therefore not justified and because it taxes untaxable income the Due Process and Commerce Clauses of the Federal Constitution forbid it.</text>
+            <text syncTime="189.245" offset="841142">The lower court decision upholding California’s deduction rule is reversed.</text>
+            <text syncTime="193.266" offset="857234">Our decision is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

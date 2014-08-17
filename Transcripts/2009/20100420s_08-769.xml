@@ -1,0 +1,27 @@
+<transcript flagged="true">
+      <history/>
+      <resources>
+        <audioFile size="1445825">/xml/cases/2009/08_769/20100420o_08-769.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2009/trs/08-769_20100420-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="50.260">
+        <title>United States v. Stevens</title>
+        <section startTime="0.000" stopTime="50.260">
+          <heading>Opinion Announcement of Samuel A. Alito, Jr.</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="8.443">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="">Justice Alito has our Opinion this Morning in case 08-769, Stolt-Nielsen Versus Animal Feeds International.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="8.443" stopTime="50.260" flagged="true">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="8.443" offset="33750">This case comes to us on writ of certiorari to the United States Court of Appeals for the Second Circuit.</text>
+            <text syncTime="14.848" offset="59350">It involves complicated arbitration issues and so for present purposes, it suffices to say that we hold that imposing class arbitration on parties who have agreed to arbitrate their disputes but have not agreed to authorize class arbitration is not consistent with the Federal Arbitration Act.</text>
+            <text syncTime="36.339" offset="145345">We therefore reverse and remand.</text>
+            <text syncTime="39.155" offset="156526">Justice Ginsburg has filed a dissenting opinion in which Justices Stevens and Breyer have joined.</text>
+            <text syncTime="44.956" offset="179722">Justice Sotomayor took no part in the consideration or decision of this case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

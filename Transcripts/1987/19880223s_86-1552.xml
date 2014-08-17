@@ -1,0 +1,38 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-01T14:58:26" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-01</identified>
+      </history>
+      <resources>
+        <audioFile size="564189">/xml/cases/1987/86_1552/19880223o_86-1552.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-1552op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="121.365">
+        <title>Department of the Navy v. Egan</title>
+        <section startTime="0" stopTime="121.365">
+          <heading>Opinion Announcement of Harry A. Blackmun</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.040">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80924">The opinion of the Court in No. 86-1552, Department of the Navy versus Egan will be announced by Justice Blackmun.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="7.040" stopTime="121.365">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="7.040" offset="109032">Well this case comes to us by a way of certiorari to the Federal Circuit and Title V of the United States Code provides a two-track system for undertaking an adverse action so-called against certain government employees.</text>
+            <text syncTime="25.525" offset="183011">Under one statute an employee who is removed for cause has a right of appeal to the Merit Systems Protection Board and that right includes a hearing.</text>
+            <text syncTime="37.116" offset="229300">Under another statute an employee is subject to summary reversal based on national security concerns and that removal is not appealable to the Board but the employee has specified procedural rights including a hearing by in the agency authority.</text>
+            <text syncTime="55.221" offset="301711">The respondent, Mr. Egan was removed from his labors job at the submarine facility.</text>
+            <text syncTime="61.960" offset="328669">After that Navy denied him the required security clearance.</text>
+            <text syncTime="67.070" offset="349149">Without that clearance he was not eligible for any job with the facility because all jobs there required a clearance.</text>
+            <text syncTime="74.970" offset="380705">He appealed to the Board.</text>
+            <text syncTime="76.683" offset="387602">It sustained the removal action.</text>
+            <text syncTime="79.774" offset="399931">The Federal Circuit reversed holding that review of the Merits of the underlying security clearance was in order.</text>
+            <text syncTime="87.342" offset="430233">In an opinion filed today, we reverse that judgment.</text>
+            <text syncTime="91.004" offset="444862">We hold that the Board, under the statute utilized, does not have the authority to review the substance of underlying security clearance determination.</text>
+            <text syncTime="101.539" offset="487076">Justice White has filed a dissenting opinion and is joined therein by Justices Brennan and Marshall, and Justice Kennedy again took no part in the consideration or decision of this case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

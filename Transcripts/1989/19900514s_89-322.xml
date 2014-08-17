@@ -1,0 +1,29 @@
+<transcript verified="true">
+      <history>
+        <edit user="jgoldman" date="2013-09-02T07:29:07" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="197671">/xml/cases/1989/89_322/19900514o_89-322.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1989/trs/89-322_19900514-opinion.trs</sourceFile>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="27.637">
+        <title>United Steelworkers of America, AFL-CIO-CLC v. Rawson</title>
+        <section startTime="0.000" stopTime="27.637">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.194">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="87121">The opinion of the Court in No. 89-322, United Steelsorkers of America versus Rawson will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="9.194" stopTime="27.637">
+            <label>Justice Byron R. White</label>
+            <text syncTime="9.194" offset="123797">The judgment of the Supreme Court of Idaho in this case is reversed.</text>
+            <text syncTime="14.500" offset="145113">The opinion on file with the Clerk explains the reasons for our judgment.</text>
+            <text syncTime="21.978" offset="174997">Justice Kennedy has filed a dissenting opinion and he is joined by the Chief Justice and Justice Scalia.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

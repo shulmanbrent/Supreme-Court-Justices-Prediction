@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:30:38" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="421732">/xml/cases/1991/91_594/19920619o_91-594.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/91-594_19920619-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="82.677">
+        <title>American National Red Cross v. S.G.</title>
+        <section startTime="0.000" stopTime="82.677">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.201">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="91022">The opinion of the Court in No. 91-594, American National Red Cross versus S.G. and A.E. will be announced by Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="9.201" stopTime="82.677">
+            <label>Justice David H. Souter</label>
+            <text syncTime="9.201" offset="127802">This case comes to us on writ of certiorari to the United States Court of Appeals for the First Circuit.</text>
+            <text syncTime="14.494" offset="148909">Respondents filed a state law tort suit in a New Hampshire State Court alleging that one of them had contracted AIDS from a transfusion of infected blood supplied by the petitioner, Red Cross.</text>
+            <text syncTime="25.797" offset="194153">The Red Cross removed the case to Federal District Court citing among other basis for federal jurisdiction the sue-and-be-sued provision of its federal charter.</text>
+            <text syncTime="34.830" offset="230307">The District Court asserted jurisdiction on that basis.</text>
+            <text syncTime="38.195" offset="243786">The Court of Appeals reversed concluding that the charter provision in question did not in fact confer federal jurisdiction over cases to which the Red Cross was a party.</text>
+            <text syncTime="46.797" offset="278163">In an opinion filed today, we reverse the decision of the Court of Appeals.</text>
+            <text syncTime="50.529" offset="293105">This Court has construed similar sue-and-be-sued provision since the early 19th century.</text>
+            <text syncTime="55.730" offset="313899">When read together, our cases support a rule that such a provision may be read to confer a federal jurisdiction if it specifically mentions the Federal Courts, though a particular Federal Court need not be mentioned by name.</text>
+            <text syncTime="66.904" offset="358620">As the relevant provision of the Red Cross' Charter satisfies this requirement, we hold that it confers federal jurisdiction over cases to which that organization is a party.</text>
+            <text syncTime="76.180" offset="395714">Justice Scalia has filed a dissenting opinion in which the Chief Justice, Justice O'Connor, and Justice Kennedy have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

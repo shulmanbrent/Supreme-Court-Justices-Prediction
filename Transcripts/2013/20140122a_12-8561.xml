@@ -1,0 +1,1386 @@
+<transcript>
+      <history>
+        <transcribed minutes="60">2014-01-22T10:04</transcribed>
+      </history>
+      <resources>
+        <audioFile size="14483269">/xml/cases/2013/12_8561/20140122a_12-8561.mp3</audioFile>
+        <sourceFile>/data/sites/oyez.org/cases/2013/2013_12_8561/12-8561_20140122-argument_0.xml</sourceFile>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="elena_kagan" type="justice" gender="female" path="/justices/elena_kagan" image="/justices/elena_kagan/thumbnail.jpg">Elena Kagan</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="sonia_sotomayor" type="justice" gender="female" path="/justices/sonia_sotomayor" image="/justices/sonia_sotomayor/thumbnail.jpg">Sonia Sotomayor</speaker>
+        <speaker id="stanley_g_schneider" type="advocate" gender="male" path="/advocates/ss/stanley_g_schneider" image="/advocates/ss/stanley_g_schneider/thumbnail.jpg">Stanley G Schneider</speaker>
+        <speaker id="michael_r_dreeben" type="advocate" gender="male" path="/advocates/md/michael_r_dreeben" image="/advocates/md/michael_r_dreeben/thumbnail.jpg">Michael R. Dreeben</speaker>
+        <speaker id="paul_g_cassell" type="advocate" gender="male" path="/advocates/pc/paul_g_cassell" image="/advocates/pc/paul_g_cassell/thumbnail.jpg">Paul G. Cassell</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3592.751">
+        <title>Paroline v. United States</title>
+        <section startTime="0.000" stopTime="940.606">
+          <heading>Argument of Stanley G Schneider</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.215">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="105241">We'll hear argument first this morning in Case 12-8561, Paroline v. United States.</text>
+            <text syncTime="7.623" offset="135648">Mr. Schneider.</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="9.215" stopTime="84.232">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="9.215" offset="142021">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="15.495" offset="167203">This is a case about statutory construction.</text>
+            <text syncTime="19.291" offset="182354">Specifically under 18 U.S.C. 2259, must a victim's -- victim's losses be proximally caused by a defendant's offense conduct before a sentencing judge can award restitution.</text>
+            <text syncTime="33.144" offset="237734">The short answer to the question is all losses must be proximately caused.</text>
+            <text syncTime="39.719" offset="264065">Eleven courts of appeals and the government agree that this circuit ignored the plain text of the statute and the enumerated enforcement provisions of 3664 to craft a restitution scheme where the possession of two images of child pornography resulted in the award of $3.4 million to Doyle Paroline which was strictly, jointly and severally liable.</text>
+            <text syncTime="68.285" offset="378377">And my time before the Court was to address first why the Fifth Circuit decision is incorrect, and second, why the government's concept of aggregate causation conflicts with its statutory burden of proof contained in 3664(e).</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="84.232" stopTime="96.727">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="84.232" offset="442116">Well, before -- before you do that, could you explain why there is an issue of proximate causation here?</text>
+            <text syncTime="91.933" offset="472941">Why -- why isn't there clearly proximate cause?</text>
+            <text syncTime="95.165" offset="485897">Why is it -- why does it matter?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="96.727" stopTime="110.565">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="96.727" offset="492062">Well, I think there has to be -- in all restitution cases, the issue is whether or not the person's conduct caused the harm and losses.</text>
+            <text syncTime="108.504" offset="539187">And harm and losses are two different things.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="110.565" stopTime="123.014">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="110.565" offset="547442">Yes.</text>
+            <text syncTime="111.127" offset="549741">But why -- why isn't the issue here a question of factual causation?</text>
+            <text syncTime="114.408" offset="562802">What losses proximately caused -- is proximately caused by the possession of child pornography?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="123.014" stopTime="134.758">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="123.014" offset="597283">That's a fact-intensive question and that's what the district court has to determine, whether on the facts presented, there are identifiable losses that were caused by the defendant's conduct and there can be.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="134.758" stopTime="177.913">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="134.758" offset="644199">It seems you're confusing proximate cause with cause in fact.</text>
+            <text syncTime="141.756" offset="672203">They are two legal requirements but not the same.</text>
+            <text syncTime="144.834" offset="684532">Proximate cause is foreseeability.</text>
+            <text syncTime="147.082" offset="693519">There's no argument, I think, that anyone who possesses child pornography knows that the individual depicted is going to feel invaded by that viewing.</text>
+            <text syncTime="162.576" offset="755481">So there's no issue that the person is hurt.</text>
+            <text syncTime="165.215" offset="766034">The question is a different one, which is the cause in fact.</text>
+            <text syncTime="169.385" offset="782753">I think that's what my colleague Sam Alito was talking about.</text>
+            <text syncTime="172.291" offset="794351">So why do you continue to talk about proximate cause when it's a different concept that's at issue?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="177.913" stopTime="178.694">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="177.913" offset="816817">Well--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="178.694" stopTime="187.550">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="178.694" offset="819951">Is her treatment -- I think you're arguing that her treatment has to be a "but for" this possession.</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="187.550" stopTime="229.345">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="187.550" offset="855373">--I think they go hand in hand because when dealing with proximate cause, would the conduct -- is the losses the natural sequence from the conduct and the result.</text>
+            <text syncTime="199.498" offset="903230">And what we're dealing with is would the losses have occurred but for the conduct.</text>
+            <text syncTime="205.714" offset="927994">And in this situation -- in this case where the damage model was created six months before the notice is received, then you don't have the relationship between the loss and the conduct or the notice of the conduct.</text>
+            <text syncTime="219.943" offset="984941">And it's a real problem.</text>
+            <text syncTime="222.270" offset="994240">But the -- the important consideration in interpretation of the statute is the government's burden of proof under 3664(e).</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="229.345" stopTime="230.735">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="229.345" offset="1022557">Why do we -- why do we--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="230.735" stopTime="243.464">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="230.735" offset="1028095">Would you agree -- would you agree that the -- the losses here were the proximate result at least of the aggregate actions of all the offenders?</text>
+            <text syncTime="243.246" offset="1078145">Would you go that far?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="243.464" stopTime="250.712">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="243.464" offset="1079086">Justice Kennedy, the problem with aggregate causation does not apply--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="250.712" stopTime="258.584">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="250.712" offset="1108030">Would -- would you agree that it is the proximate result of the aggregate actions of all the offenders?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="258.584" stopTime="260.631">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="258.584" offset="1139481">--It would be a harm, but not--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="260.631" stopTime="264.426">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="260.631" offset="1147736">Pardon me.</text>
+            <text syncTime="261.052" offset="1149408">A proximate harm, right?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="264.426" stopTime="294.757">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="264.426" offset="1162887">--But the problem is when you're dealing with aggregate causation, that conflicts with the statutory burden of proof that the government has under 3664(e), which is made applicable to the 2059 under section (b)(2), and you'll find 3664(e) at Appendix 22 to our merits brief.</text>
+            <text syncTime="293.132" offset="1277721">The--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="294.757" stopTime="325.276">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="294.757" offset="1284199">--Why -- why should we get to that question when we have what seems to be a clear order from Congress, and it is in 2259(a).</text>
+            <text syncTime="307.580" offset="1335504">It says:</text>
+            <text syncTime="308.016" offset="1337280">"The court shall -- shall order restitution for any offense under this chapter. "</text>
+            <text syncTime="316.357" offset="1370612">It sounds like that's a direction that if there's an offense under this chapter, which is undisputed there is, the court shall order restitution.</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="325.276" stopTime="342.801">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="325.276" offset="1406243">--Only if -- if the losses are the result of the offense, because the government's burden of proof is that they must demonstrate by a preponderance of the evidence that the losses sustained by the victim are the result of the offense.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="342.801" stopTime="343.426">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="342.801" offset="1476356">Well, it doesn't--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="343.426" stopTime="356.420">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="343.426" offset="1478864">My question is -- my question is why isn't it -- and you were going to point to the statute -- why isn't it at least the result of the aggregate number -- aggregate offenders?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="356.420" stopTime="360.839">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="356.420" offset="1530900">It's on the indictment.</text>
+            <text syncTime="357.967" offset="1537065">Only one person is charged and--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="360.839" stopTime="367.151">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="360.839" offset="1548559">But he is -- he is one of the offenders in the aggregate.</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="367.151" stopTime="391.625">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="367.151" offset="1573845">--He's not -- it's not in the indictment.</text>
+            <text syncTime="370.195" offset="1585966">No one else is in -- is in front of the sentencing judge.</text>
+            <text syncTime="374.007" offset="1601221">The statute 3664(e) and Section (f), (b)(3)(F), all talk about "the offense", and "the offense" is normally -- this Court has recognized that when you talk about "the offense", it's the offense of conviction.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="391.624" stopTime="412.179">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="391.624" offset="1671648">Mr. Schneider, on your view if only one person viewed the pornography, that person would be responsible for the entire damages, but if a thousand people viewed the pornography and the harm was that much greater, nobody would be in -- would be on the hook for restitution.</text>
+            <text syncTime="410.195" offset="1745940">How could that possibly make sense?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="412.179" stopTime="476.997">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="412.179" offset="1753881">Justice Kagan, that's not what -- there are numerous cases where someone who looks at -- possesses child pornography has been shown to be liable for losses and restitution and some individual cases that it's not.</text>
+            <text syncTime="428.033" offset="1817306">And it's fewer cases than not are, again, no restitution because there's no losses.</text>
+            <text syncTime="432.764" offset="1836219">The losses in -- it all depends on the facts.</text>
+            <text syncTime="437.497" offset="1855132">In this case, the district judge carefully weighed the evidence.</text>
+            <text syncTime="442.541" offset="1875403">In this case, unlike any other case, there are competing experts that the judge, district judge, played -- acted as a gatekeeper of the forensic science and with the challenge to the methodology that was presented by Amy's experts, the judge left no alternative because there was no explanation.</text>
+            <text syncTime="469.469" offset="1983027">And that methodology, faulty methodology, was part of his decision that he recognized.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="476.997" stopTime="531.256">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="476.997" offset="2013225">Well, what's the answer, though, to the problem, forgetting this case?</text>
+            <text syncTime="478.996" offset="2021166">There's a problem in child pornography cases.</text>
+            <text syncTime="483.165" offset="2037884">Congress clearly wants restitution.</text>
+            <text syncTime="486.258" offset="2050214">Makes sense to me.</text>
+            <text syncTime="488.132" offset="2057737">But if a thousand people look at it, then each one can say: But I didn't cause more than a tiny fraction at most, and so there virtually is no restitution; right?</text>
+            <text syncTime="502.751" offset="2116147">Now, every one of the thousand says that, truthfully, and so therefore the victim gets no restitution -- opposite of what Congress wanted.</text>
+            <text syncTime="513.279" offset="2158257">But their answer in the lower court was: We'll make each one of those thousand liable for the whole thing.</text>
+            <text syncTime="520.603" offset="2187618">The government's answer is aggregate cause.</text>
+            <text syncTime="524.508" offset="2203187">It's called a concept that they've sort of created, but it's there to answer the problem.</text>
+            <text syncTime="529.569" offset="2223458">What's your answer to the problem?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="531.256" stopTime="536.223">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="531.256" offset="2230250">It's a -- it's a very difficult question.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="536.223" stopTime="537.957">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="536.223" offset="2250103">Yeah, it is.</text>
+            <text syncTime="537.035" offset="2253342">[Laughter]</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="537.957" stopTime="566.832">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="537.957" offset="2256999">And -- and the answer is to -- multifaceted because the government's burden of proof for restitution applies to all restitution statutes.</text>
+            <text syncTime="552.577" offset="2315514">It's the same standard.</text>
+            <text syncTime="553.840" offset="2320529">And you can't carve out one standard of causation for one crime because it's a heinous crime and, as repugnant as child pornography is, the standard of causation has to be the same--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="566.832" stopTime="606.195">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="567.119" offset="2373714">All right.</text>
+            <text syncTime="567.818" offset="2376431">I suppose that it does.</text>
+            <text syncTime="568.975" offset="2381133">If you have the same problem, you have the same problem.</text>
+            <text syncTime="571.303" offset="2390433">Where there -- you understand.</text>
+            <text syncTime="573.849" offset="2400568">So how -- how do we answer this problem?</text>
+            <text syncTime="578.301" offset="2418436">And the difficulty of saying -- dividing -- the government doesn't find a thousand.</text>
+            <text syncTime="583.424" offset="2438916">You know, it only finds two or three.</text>
+            <text syncTime="586.344" offset="2450514">And so you're going to be 997 who escape.</text>
+            <text syncTime="590.857" offset="2468591">And those three, what should they pay?</text>
+            <text syncTime="594.840" offset="2484578">What -- should they pay nothing?</text>
+            <text syncTime="597.010" offset="2493251">Should they pay the whole thing?</text>
+            <text syncTime="598.853" offset="2500565">Should we do it somewhere in between?</text>
+            <text syncTime="600.853" offset="2508611">How -- just restating the problem and -- and you have experience in this field.</text>
+            <text syncTime="605.117" offset="2525643">So what do you really think?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="606.195" stopTime="640.009">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="606.195" offset="2529927">--Well, in some of the cases there's evidence that -- of not -- of the victim having knowledge of an individual and in that case -- those cases, there have been awards of restitution, some of them 3,000, 5,000, 15,000, 30,000.</text>
+            <text syncTime="623.235" offset="2598159">But there's some knowledge and there's some evidence for a judge to base a finding of causation to the award of restitution.</text>
+            <text syncTime="632.277" offset="2634312">And it's a fact-based determination.</text>
+            <text syncTime="636.620" offset="2651657">There has to be some evidence for which the judge makes his determination.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="640.009" stopTime="687.662">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="640.009" offset="2665241">But your answer is in a large category of cases, and this may be -- these may be the typical cases, where there's a digital image and it's out there and you don't even know that there are a thousand people who've seen it.</text>
+            <text syncTime="653.020" offset="2717277">It's impossible to tell how many people have seen it and certainly impossible to see how many people will see it in the future.</text>
+            <text syncTime="660.611" offset="2747683">It -- it exists and it apparently is impossible to eradicate it.</text>
+            <text syncTime="665.547" offset="2767328">Your answer is that in those cases, the victim gets nothing.</text>
+            <text syncTime="669.124" offset="2781643">I mean, that's your honest answer.</text>
+            <text syncTime="669.465" offset="2783001">And that may be where the statute points, but I think that's your answer to Justice Breyer's question: The victim gets nothing in those cases because it's impossible to determine what percentage of the harm is attributable to this one defendant's possession of the child pornography.</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="687.662" stopTime="718.134">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="687.662" offset="2855830">I don't -- and that's not what I'm saying.</text>
+            <text syncTime="689.162" offset="2861786">In the Second Circuit in Lundquist was an Amy case where there was a finding of losses and restitution.</text>
+            <text syncTime="696.689" offset="2891984">And the court, the Second Circuit, specifically addressed how to calculate it.</text>
+            <text syncTime="702.984" offset="2917166">It doesn't have to be precise.</text>
+            <text syncTime="704.156" offset="2921763">We're not saying it has to be a precise determination, but there has to be some evidence for which a judge can base a determination that ties the losses in this case to the conduct.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="718.134" stopTime="733.018">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="718.134" offset="2977770">So what exactly -- give me an example of what you're talking about.</text>
+            <text syncTime="721.679" offset="2991876">Now, here you're saying because she didn't know the name of your defendant, you win because you can't say any harm was caused by him because she didn't know his name, correct?</text>
+            <text syncTime="732.112" offset="3033672">Is that your position?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="733.018" stopTime="745.483">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="733.018" offset="3037225">No, Your Honor.</text>
+            <text syncTime="734.206" offset="3042031">My position is that the district judge made a determination as the gatekeeper of the forensic science that the government didn't prove its case.</text>
+            <text syncTime="744.108" offset="3081633">If you look--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="745.483" stopTime="755.572">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="745.483" offset="3087171">So give me an example of how the government can -- the hypothetical that Justice Alito spoke about and Justice Kagan, you've got -- or -- or Justice Breyer.</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="755.572" stopTime="777.423">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="755.572" offset="3127504">--Lundquist is a perfect example where there are two reports by their expert explaining how the knowledge of -- of an individual of Lundquist affected her treatment, affected her day-to-day life, and their specific report talks about knowledge of the -- this individual.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="777.423" stopTime="794.946">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="777.423" offset="3214857">The particular individual?</text>
+            <text syncTime="778.937" offset="3220918">She has to know each individual who -- who has been viewing her rape on -- on these pornographic items that have been distributed widely?</text>
+            <text syncTime="791.838" offset="3272536">She has to know each individual or she can't be covered?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="794.946" stopTime="796.352">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="794.946" offset="3284970">By--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="796.352" stopTime="852.798">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="796.352" offset="3290612">The woman has undergone serious psychiatric harm because of her knowledge that there are thousands of people out there viewing her rape.</text>
+            <text syncTime="808.582" offset="3339514">But you say she can't -- why isn't your client at least responsible for some of that?</text>
+            <text syncTime="817.095" offset="3373577">Even without her knowing him, he had two of her pictures.</text>
+            <text syncTime="822.123" offset="3393639">He's one of the thousands of people who viewed -- who viewed her rape.</text>
+            <text syncTime="827.418" offset="3414851">So why can't she recover some amount from him?</text>
+            <text syncTime="831.214" offset="3430002">I mean, the other side says she ought to be able to recover everything from him.</text>
+            <text syncTime="836.914" offset="3452885">You say she ought to be able to recover nothing.</text>
+            <text syncTime="840.631" offset="3467723">What about something in between?</text>
+            <text syncTime="842.833" offset="3476500">What about figuring out how much of -- of her total psychiatric damage and all the expenses and what-not are attributable to this particular person?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="852.798" stopTime="862.483">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="852.798" offset="3516415">--Justice Scalia, the answer to your question is -- is multifaceted and--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="862.483" stopTime="864.965">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="862.483" offset="3555076">You said that for another question.</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="864.965" stopTime="865.777">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="864.965" offset="3565003">--I understand.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="865.777" stopTime="868.277">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="865.777" offset="3568346">Give me one facet.</text>
+            <text syncTime="866.980" offset="3573153">[Laughter]</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="868.277" stopTime="895.859">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="868.277" offset="3578273">And Congress dictated that all victims who are identified receive notice and that notice goes to her lawyer.</text>
+            <text syncTime="880.646" offset="3627801">And in the later cases -- in the recent cases, she's been notified of every single one of those notices that are received.</text>
+            <text syncTime="889.564" offset="3663432">And appropriate counseling has been given in all the later cases.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="895.859" stopTime="914.446">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="895.859" offset="3688614">--Let me ask you.</text>
+            <text syncTime="897.108" offset="3693630">You're mentioning this case.</text>
+            <text syncTime="900.185" offset="3705959">There was another case that also involved and came up at the same time, the Wright case.</text>
+            <text syncTime="907.012" offset="3733231">And there was a settlement there and it was for -- what was the amount of money?</text>
+            <text syncTime="911.338" offset="3750577">The amount of damages in the Wright case?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="914.446" stopTime="918.334">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="914.446" offset="3763011">I think in Wright it was $500,000 was the court's order, I believe.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="918.334" stopTime="927.971">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="918.334" offset="3778475">Now, was there something in the evidence there that made it proper to award restitution in the Wright case, but not in this case?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="927.971" stopTime="928.439">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="927.971" offset="3817032">No.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="928.439" stopTime="929.766">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="928.439" offset="3818913">They're the same?</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="929.766" stopTime="932.812">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="929.766" offset="3824242">Yes.</text>
+            <text syncTime="930.531" offset="3827272">I'd like to reserve the remainder of my time.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="932.812" stopTime="940.606">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="932.812" offset="3836467">Thank you, counsel.</text>
+            <text syncTime="933.608" offset="3839602">Mr. Dreeben.</text>
+          </turn>
+        </section>
+        <section startTime="940.606" stopTime="2150.961">
+          <heading>Argument of Michael R. Dreeben</heading>
+          <turn speaker="michael_r_dreeben" startTime="940.606" stopTime="982.434">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="940.606" offset="3867605">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="943.684" offset="3879935">As Justice Breyer indicated, there really are three stark choices before the Court in this case.</text>
+            <text syncTime="949.728" offset="3904072">Paroline's position is that, because of a proximate causation requirement, Amy can obtain nothing in restitution.</text>
+            <text syncTime="956.866" offset="3932702">Amy's position is that because multiple people have contributed to her single loss, she can obtain the full restitution for all of her losses from every criminal defendant.</text>
+            <text syncTime="968.001" offset="3977215">The government's position is that there is a solution that tort law has developed for providing some restitution for Amy, not the entire restitution that would be owed on account of her entire loss.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="982.434" stopTime="1026.463">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="982.434" offset="4034893">Yes.</text>
+            <text syncTime="982.745" offset="4036147">Well, now -- not because tort law has developed that.</text>
+            <text syncTime="987.478" offset="4055060">I mean, I frankly don't agree with what you say modern tort law is supposed to allow, and -- and Keeton, you know, doesn't really establish that that's what the courts now do.</text>
+            <text syncTime="1002.706" offset="4115977">But even without agreeing with that, can't I find that that is the system that this statute intended to impose?</text>
+            <text syncTime="1013.014" offset="4157251">I mean, we're dealing here with a question of statutory interpretation.</text>
+            <text syncTime="1016.825" offset="4172506">So the question is not what does modern tort law allow, but the question is what reasonably could Congress have meant by this statute.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1026.463" stopTime="1028.618">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1026.463" offset="4211063">I agree with that, Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1028.618" stopTime="1033.412">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1028.618" offset="4219631">Because I'm not going to go along with you on, you know, modern tort.</text>
+            <text syncTime="1031.476" offset="4231125">I think that's nonsense.</text>
+            <text syncTime="1032.429" offset="4234887">I don't think it's true.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1033.412" stopTime="1055.358">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1033.412" offset="4238857">Okay.</text>
+            <text syncTime="1034.615" offset="4243664">The -- the tort law issue is not really all that modern.</text>
+            <text syncTime="1038.004" offset="4257248">It dates back to the Restatement, Second, of Torts in Section 443(a).</text>
+            <text syncTime="1042.315" offset="4274488">And this Court applied that section in the Burlington Northern case, which was a CERCLA case, to hold that apportionment of the damages was required in a pollution case where all the pollution had merged into a single--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1055.358" stopTime="1112.084">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1055.358" offset="4326629">But how do you square your position with the statutory language?</text>
+            <text syncTime="1059.480" offset="4343138">The statutory language requires mandatory restitution order for the, quote,</text>
+            <text syncTime="1066.587" offset="4371559">"full amount of the victim's losses. "</text>
+            <text syncTime="1069.445" offset="4382949">It also forbids courts to -- to decline to issue an order, double negative, but it can't -- a court can't refuse to issue an order on the ground that the victim has been compensated by any other source.</text>
+            <text syncTime="1087.078" offset="4453479">It seems to me that that language, as crazy as it seems to you or -- to you, compels joint and several liability, because it's saying any -- all losses, full amount of losses, and you can't offset her compensation from any other sources.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1112.084" stopTime="1148.195">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1112.084" offset="4553476">--Justice Sotomayor, I think that the key to reading the statutory language is that the definition of "victim" refers to a victim of the offense in this case.</text>
+            <text syncTime="1125.030" offset="4605303">So the term "victim" means the individual harmed as a result of a commission of a crime under this chapter.</text>
+            <text syncTime="1131.731" offset="4632157">The government's burden of proof in Section 3664(e) refers to demonstrating the amount of the loss sustained by a victim as a result of the offense.</text>
+            <text syncTime="1142.868" offset="4676670">So it refers to the defendant's offense, not to the collective harm that the--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1148.195" stopTime="1153.661">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1148.195" offset="4697985">So why isn't that a but-for cause?</text>
+            <text syncTime="1149.646" offset="4703732">I mean, if you're going to argue that, you have to be arguing but-for--</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1153.661" stopTime="1154.614">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1153.661" offset="4719824">--I don't think so.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1154.614" stopTime="1156.551">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1154.614" offset="4723690">--that their damages have to be the but-for cause.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1156.551" stopTime="1170.138">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1156.551" offset="4731422">I hope that the Court will read the "as a result of" language to require causation, but to interpret it in light of the way causation has been understood in the unique circumstances that you have here.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1170.138" stopTime="1177.745">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1170.138" offset="4785757">You don't deny but-for.</text>
+            <text syncTime="1172.356" offset="4794639">I haven't understood your submission to be that there need not be but-for cause here.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1177.745" stopTime="1216.931">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1177.745" offset="4816163">There's collective, aggregate but-for cause.</text>
+            <text syncTime="1179.963" offset="4825045">And the way that tort law dealt with this is not to accept Paroline's position that, even if it -- you took me out of the equation, Amy's harm would be very severe.</text>
+            <text syncTime="1191.630" offset="4871752">Unquestionably true.</text>
+            <text syncTime="1193.052" offset="4877394">What tort law said is that if a multiplicity of actors inflict a single harm and one of them comes forward with a reason that, if accepted, would exonerate all of them, then that cannot be a proper test of causation.</text>
+            <text syncTime="1206.827" offset="4932461">The proper test is aggregate causation where the aggregate group of offenders is the but-for cause and each one of the individuals in that set can be regarded as--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1216.931" stopTime="1225.803">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1216.931" offset="4972898">But doesn't -- doesn't the individual at least cause some harm without regard to the harm caused by the others?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1225.803" stopTime="1227.319">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1225.803" offset="5008425">--Yes.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1227.319" stopTime="1286.122">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1227.319" offset="5014485">Of course, yes.</text>
+            <text syncTime="1228.130" offset="5017724">Now, why isn't it the case -- why can't the -- why can't Amy have an expert that comes in and testifies as a result of their experience that the psychological harm caused by knowing that those images are available to others, have been viewed by someone else, will require, on average, whatever, a certain amount of counseling for a certain amount of time?</text>
+            <text syncTime="1252.792" offset="5116363">So that the one individual is responsible for that harm, regardless of what else happens.</text>
+            <text syncTime="1257.899" offset="5136738">Now, he may say, well, it's kind of unfair to stick me with that, but that's a different question than the aggregate causation issue that you're addressing.</text>
+            <text syncTime="1266.661" offset="5171847">If you have expert testimony, and there will be expert testimony on the other side, that says it normally requires counseling for someone when they find out, without regard to anything else, that an individual has viewed this, why doesn't that require or at least allow assessment of the -- the whole amount?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1286.122" stopTime="1308.097">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1286.122" offset="5249692">Mr. Chief Justice, that would allow assessment of some of the damages.</text>
+            <text syncTime="1290.245" offset="5266201">I -- I don't think that it would allow assessment of the entire amount, because, again, we regard this -- this statute as enacted against the backdrop of tort law principles that recognized you can have aggregate causation, but it's not appropriate to hold each person in the set responsible for all.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1308.097" stopTime="1315.736">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1308.097" offset="5337568">I'm sorry.</text>
+            <text syncTime="1308.894" offset="5340807">My hypothetical is not aggregate causation.</text>
+            <text syncTime="1312.143" offset="5353763">It is that this individual caused this harm.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1315.736" stopTime="1334.571">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1315.736" offset="5368183">If there's a specific amount of harm caused and if Amy could find an expert who would testify to that respect and it would require, say, six counseling sessions and it would set her back in employment for a year, then I guess a court could, if it found that credible, conclude that a certain amount of loss is attributable directly.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1334.571" stopTime="1414.741">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1334.571" offset="5443520">Well, you're -- you're confusing whether there's a specific amount of harm caused with whether it is easy to measure that harm.</text>
+            <text syncTime="1341.569" offset="5471419">The -- the tort cases you refer to are cases in which there is a result produced that is not severable.</text>
+            <text syncTime="1349.705" offset="5504020">You can't say this person is -- you know, accounts for this much of it, such as pollution, all the pollution there.</text>
+            <text syncTime="1356.969" offset="5533068">The stream is polluted.</text>
+            <text syncTime="1358.796" offset="5540382">That's quite different from this case where -- where this -- this young woman has been subjected to psychological harm because of thousands of people viewing her rape.</text>
+            <text syncTime="1374.165" offset="5601822">Now, this -- she would be subjected to less psychological harm if it was just one person or ten people or a hundred people.</text>
+            <text syncTime="1385.144" offset="5645812">In other words, each person increases the amount of her psychological harm.</text>
+            <text syncTime="1391.908" offset="5672771">It is severable the way the tort cases you refer to are not.</text>
+            <text syncTime="1397.218" offset="5694087">And so why shouldn't the question in this case be simply he caused a certain incremental amount of psychological harm to -- to this woman and he should pay for it and it's up to the district court to decide what the proper amount of that payment ought to be.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1414.741" stopTime="1421.395">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1414.741" offset="5764199">Justice Scalia, I think that is consistent with the conclusion that the government reaches, although we take a different route to it--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1421.395" stopTime="1422.161">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1421.395" offset="5790740">I understand.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1422.161" stopTime="1423.301">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1422.161" offset="5793874">--than Your Honor's position.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1423.301" stopTime="1458.069">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1423.301" offset="5798368">Well, is it consistent with human psychology?</text>
+            <text syncTime="1425.518" offset="5807249">Are psychologists really able to do this?</text>
+            <text syncTime="1427.456" offset="5814981">If it's known that this image has been viewed by -- even if you could figure out how many people have viewed it, and I think in the age of the Internet that's impossible, but if you knew that it had been viewed by a thousand people, is a psychologist able to say that her knowledge that it has been viewed by a thousand people causes this much harm?</text>
+            <text syncTime="1448.300" offset="5898364">And once she learns that it's now been viewed by a thousand and one people, there's a little bit of additional harm or some increment of additional harm and we can figure out how much that is.</text>
+            <text syncTime="1456.851" offset="5932637">Can a psychologist do that?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1458.069" stopTime="1463.443">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1458.069" offset="5937443">Justice Alito, that is why the government has proposed a different approach to getting to the same conclusion.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1463.443" stopTime="1504.833">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1463.443" offset="5958968">Mr. Dreeben, I would really like you to tell us concretely what the government's approach would be.</text>
+            <text syncTime="1472.143" offset="5993763">That is, we have all is one position, nothing is another position, and the middle.</text>
+            <text syncTime="1478.984" offset="6021140">The government comes down in the middle and what I gather from your brief, you say there should be a reasonable formula to arrive at a starting point for further analysis.</text>
+            <text syncTime="1493.102" offset="6077564">So, I don't know what you propose as a starting point.</text>
+            <text syncTime="1498.115" offset="6097626">What is a reasonable formula that the Court should use for its starting point?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1504.833" stopTime="1536.804">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1504.833" offset="6124480">Justice Ginsburg, the courts have approved several different formulas as not being an abuse of discretion.</text>
+            <text syncTime="1508.893" offset="6140781">One camp of courts approves a view in which the government submits the number of people who have been ordered to pay restitution to Amy, and that number is then divided into the total harm, measured by monetary means, that Amy has established.</text>
+            <text syncTime="1528.088" offset="6217581">And that provides a starting point.</text>
+            <text syncTime="1530.336" offset="6226567">So, for example, in this case, that starting point would be around $18,000, and then courts can adjust that.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1536.804" stopTime="1538.427">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1536.804" offset="6252376">How do you get to the 18,000?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1538.427" stopTime="1552.735">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1538.427" offset="6258854">By considering the number of defendants who have been ordered to pay restitution to Amy, because that provides some certainty in the face of, as Justice Alito pointed out, the great difficulty in determining how many people have actually viewed these pictures--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1552.735" stopTime="1554.547">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1552.735" offset="6316114">How does that -- I'm sorry.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1554.547" stopTime="1563.964">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1554.547" offset="6323429">--the number of people who have been ordered to pay to restitution represents a judicial finding that, in fact, her picture is involved in that person's offense.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1563.964" stopTime="1564.683">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1563.964" offset="6361045">And so it wouldn't--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1564.683" stopTime="1566.401">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1564.683" offset="6363971">How does that work for -- go ahead.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1566.401" stopTime="1574.538">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1566.401" offset="6370763">--It wouldn't include the people who are not prosecuted and it wouldn't include the people who in the future are prosecuted.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1574.538" stopTime="1584.269">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1574.538" offset="6403363">That is correct.</text>
+            <text syncTime="1575.132" offset="6405767">And some courts, Justice Ginsburg, have therefore required that the formula be adjusted to make some sort of reasonable estimate of the total pool of violators.</text>
+            <text syncTime="1583.660" offset="6439830">And so I--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1584.269" stopTime="1587.299">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1584.269" offset="6442234">Can I ask you one -- just one moment.</text>
+            <text syncTime="1585.519" offset="6447249">How does that work for the first person?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1587.299" stopTime="1590.595">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1587.299" offset="6454354">--It doesn't work very well for the first person, Mr. Chief Justice.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1590.595" stopTime="1592.234">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1590.595" offset="6467520">All right.</text>
+            <text syncTime="1591.437" offset="6470968">[Laughter]</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1592.234" stopTime="1595.420">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1592.234" offset="6474103">And for that reason, I think there are other approaches that do work.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1595.420" stopTime="1642.010">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1595.420" offset="6486851">Can we with ease say, look, it's very complicated.</text>
+            <text syncTime="1598.560" offset="6499390">I can think of some answers, but they're too complicated for me to tell you what they are.</text>
+            <text syncTime="1603.401" offset="6518825">And Justice Scalia has a possible answer.</text>
+            <text syncTime="1607.306" offset="6534394">Justice Alito, it seemed to me, is pointing out that the second person to look at the thing, if they're only two, probably adds a lot of damage, but the 1000th person compared to 999 is near zero.</text>
+            <text syncTime="1623.769" offset="6600222">Now, do we count this defendant as Number 2 or do we count him as Number 1000?</text>
+            <text syncTime="1629.516" offset="6623210">Very hard to answer, no answer really.</text>
+            <text syncTime="1631.703" offset="6631987">But can we say, we can't answer how you do this in practice.</text>
+            <text syncTime="1636.732" offset="6652154">Leave it to the sentencing commission.</text>
+            <text syncTime="1639.090" offset="6661558">That's their job.</text>
+            <text syncTime="1640.512" offset="6667200">Now, can we say that?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1642.010" stopTime="1648.054">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1642.010" offset="6673261">The Court can certainly say that the statute requires reasonable apportionment--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1648.054" stopTime="1648.617">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1648.054" offset="6697398">Yes.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1648.617" stopTime="1652.585">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1648.617" offset="6699697">--and the districts courts have jurisdiction to experiment with different formulations.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1652.585" stopTime="1672.889">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1652.585" offset="6715579">But can we say -- can we suggest that the sentencing commission -- you can't order them to do it, of course not.</text>
+            <text syncTime="1657.927" offset="6736895">But can we suggest that this is the kind of problem, very difficult, technically several ways to do it, that they can go into this.</text>
+            <text syncTime="1668.485" offset="6779109">Is that true, that they could go into it and recommend or perhaps order?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1672.889" stopTime="1690.419">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1672.889" offset="6796768">They could recommend a -- an approach.</text>
+            <text syncTime="1675.700" offset="6807948">What the sentencing commission actually did was recommend to Congress that it fix it because the disagreements now pertain to the understanding of the statute.</text>
+            <text syncTime="1683.930" offset="6840862">Our submission is that there are a variety of ways to approach this problem.</text>
+            <text syncTime="1689.616" offset="6863641">None is perfect.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1690.419" stopTime="1699.553">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1690.419" offset="6866880">Well, could you say more about that?</text>
+            <text syncTime="1692.066" offset="6873463">You said that the Chief Justice's question was right, that it doesn't work for the first person and you said there are better ones.</text>
+            <text syncTime="1698.707" offset="6900003">What are the better ones?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1699.553" stopTime="1715.099">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1699.553" offset="6903452">The alternative that I would propose in that instance is to look at other similarly situated child pornography victims and take a look at what district courts have been awarding to those victims in similar types of cases and provide some sort of an average range.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1715.099" stopTime="1743.660">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1715.099" offset="6965623">But, you know -- I mean, it struck me when I read your brief that it said, I don't know why these courts started where they started, whether each violation is worth 1,000 or 5,000 or 50,000.</text>
+            <text syncTime="1728.382" offset="7018704">And it seems as though somebody just plucks an initial number out of the air and then everything is pegged to that initial number, but that the initial number has nothing in particular behind it or am I -- is it more sensible than that?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1743.660" stopTime="1749.550">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1743.660" offset="7079830">I hope that it's not quite as arbitrary as plucking it out of the air, but the reality is--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1749.550" stopTime="1755.340">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1749.550" offset="7103341">No, but they're certainly not using your theory.</text>
+            <text syncTime="1751.577" offset="7111491">Even though it's not plucked out of the air, they're certainly not using your theory.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1755.340" stopTime="1757.268">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1755.340" offset="7126537">--On the first one it's impossible to--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1757.268" stopTime="1757.885">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1757.268" offset="7134270">Yes.</text>
+            <text syncTime="1757.320" offset="7134479">So they're using some theory.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1757.885" stopTime="1759.151">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1757.885" offset="7136777">--They are using some theory.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1759.151" stopTime="1763.837">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1759.151" offset="7141793">And you have no idea what that is and can't suggest one, right?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1763.837" stopTime="1785.812">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1763.837" offset="7160497">I think that sometimes they articulate various considerations and other times they rely on basically a consensus, a judicial consensus that in a world in which perfect information and mathematical computations are not going to happen, a reasonable approximation that accords with the judgments of 200 other Federal judges is a sensible way to do this.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1785.812" stopTime="1787.748">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1785.812" offset="7248477">But that makes no -- I mean, how do you tell the difference--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1787.748" stopTime="1788.701">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1787.748" offset="7256209">I'm not sure what sensible--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1788.701" stopTime="1801.587">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1788.701" offset="7259971">--How do you tell -- your model, how does it work if it turns out that the damages are a million dollars as opposed to $3.4 million?</text>
+            <text syncTime="1797.292" offset="7294348">Is it still $1200 per offender?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1801.587" stopTime="1815.534">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1801.587" offset="7311589">We would, as I indicated, start with a -- a division problem and approximate the -- the number of damages that are allocable to that individual and then adjust it because these defendants are not all identical.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1815.534" stopTime="1816.377">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1815.534" offset="7367282">So you start with the--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1816.377" stopTime="1827.421">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1816.377" offset="7370730">So you would expect -- you would expect the defendant in a case where the restitution sought is a million dollars to pay 50 percent of what he would pay if the damages were $2 million.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1827.421" stopTime="1843.055">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1827.421" offset="7414825">Not necessarily, because as I indicated, Mr. Chief Justice, the defendants aren't all identical.</text>
+            <text syncTime="1831.747" offset="7432170">Mr. Paroline possessed two images.</text>
+            <text syncTime="1834.261" offset="7442201">Some defendants may possess a hundred images.</text>
+            <text syncTime="1837.182" offset="7453904">Some defendants may be distributors as well as possessors, and courts have taken those factors into account.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1843.055" stopTime="1853.034">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1843.055" offset="7477414">--What about taking into account that the perpetrator, the uncle, that the restitution was something like $6,000; right?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1853.034" stopTime="1855.471">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1853.034" offset="7517329">Yes, that's correct, Justice Ginsburg.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1855.471" stopTime="1871.043">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1855.471" offset="7527047">So if there's any kind of proportionality, it seems that the possessor of two images should not be responsible for more than the person who perpetrated this horrendous crime.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1871.043" stopTime="1900.642">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1871.043" offset="7589323">Well, his -- his restitution may have been predicated on a very early period where it was not clear that Amy would be as victimized as she has turned out to be.</text>
+            <text syncTime="1880.134" offset="7625685">The very vice of child pornography possession and distribution is that it continually re-inflicts the abuse on the victim so that she cannot make a fresh start and say it's finally over.</text>
+            <text syncTime="1891.706" offset="7671974">I've put this behind me.</text>
+            <text syncTime="1892.737" offset="7676154">I can now move on with my life.</text>
+            <text syncTime="1894.174" offset="7681901">The continuing re-victimization of her is what justifies and creates the increased harms.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1900.642" stopTime="1916.338">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1900.642" offset="7707710">I would like you to, to the extent that you can, to help district judges get a handle on this.</text>
+            <text syncTime="1907.824" offset="7736444">What formula should they use and what adjusting factors should they take into account after they have that starting formula?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1916.338" stopTime="1952.338">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1916.338" offset="7770508">Justice Ginsburg, the formula that I proposed is the one that the government has been suggesting to district courts around the country.</text>
+            <text syncTime="1925.223" offset="7806034">Look at the number of convicted defendants who have been ordered to pay restitution to Amy, divide that into the total harm that the district court finds was the result of the community of child pornography possessors, and then adjust it based on the severity of the offense.</text>
+            <text syncTime="1944.326" offset="7882521">Courts of appeals have said that other formulations are also not abuses of the district court's discretion, and I would emphasize--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1952.338" stopTime="1977.359">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1952.338" offset="7914495">--And that's wonderful and, you know, I -- I want to go along with you.</text>
+            <text syncTime="1955.149" offset="7925780">This is a bad guy and -- and he ought to be punished and he ought to give restitution, but there is such a thing as due process of law.</text>
+            <text syncTime="1965.302" offset="7966426">And what you're saying is -- I have no idea how much he's going to be required to turn over, whether it's going to be -- what was it in this case, $3 million?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1977.359" stopTime="1980.139">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1977.359" offset="8014596">--That's the amount of money that Amy has asked for.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1980.139" stopTime="1987.995">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1980.139" offset="8025777">I have no idea what he's going to be socked with, and that's not what we usually do with criminal statutes.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1987.995" stopTime="1988.901">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1987.995" offset="8057123">Well, in criminal--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1988.901" stopTime="1997.710">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1988.901" offset="8060781">You just can't say leave it up to the district judge, you know, and they all come out different ways, but who cares, it's -- you know, so long as it's within some--</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1997.710" stopTime="1998.851">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1997.710" offset="8095994">--Well, Justice Scalia--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1998.851" stopTime="1999.881">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1998.851" offset="8100591">--some reasonable amount.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="1999.881" stopTime="2000.819">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="1999.881" offset="8104666">--Post Booker--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2000.819" stopTime="2002.584">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2000.819" offset="8108428">That's just not the way we do law.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="2002.584" stopTime="2025.839">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2002.584" offset="8115533">--post Booker, that is what happens in criminal sentencing.</text>
+            <text syncTime="2005.176" offset="8125878">District judges have an enormous amount of discretion about how much imprisonment time and fine time to use to apply to a defendant.</text>
+            <text syncTime="2012.720" offset="8156075">And there is appellate review that helps establish some norms that can look to sentencing guidelines as starting points.</text>
+            <text syncTime="2019.669" offset="8183870">But in criminal sentencing, imprecision and estimation is the order of the day.</text>
+            <text syncTime="2024.153" offset="8201842">And when you're dealing with--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2025.839" stopTime="2043.880">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2025.839" offset="8208529">That's because the statute says so.</text>
+            <text syncTime="2027.199" offset="8213963">It says you get from, you know, 10 to 20 years, okay?</text>
+            <text syncTime="2031.369" offset="8230681">But the statute here doesn't say, you know, you'll -- you'll get between this and this, whatever the district judge likes.</text>
+            <text syncTime="2037.928" offset="8256908">It doesn't say that.</text>
+            <text syncTime="2039.131" offset="8261714">It says you -- you should compensate the victim for what -- for what you've caused her.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="2043.880" stopTime="2090.734">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2043.880" offset="8280732">--But there are two background principles that I think reinforce that a reasonable estimation is better than all or none.</text>
+            <text syncTime="2050.173" offset="8305914">The first background principle is that in criminal restitution, exactitude is not required.</text>
+            <text syncTime="2056.779" offset="8332350">Reasonable estimates are the order of the day.</text>
+            <text syncTime="2059.310" offset="8342381">Courts have recognized that.</text>
+            <text syncTime="2060.809" offset="8348441">And it's reinforced here by the fact that this restitution provision is kind of a crime tort hybrid.</text>
+            <text syncTime="2067.651" offset="8375817">It's criminal sentencing, but it's enacted against the background of compensatory tort law.</text>
+            <text syncTime="2072.009" offset="8393267">And in compensatory tort law, reasonable estimates have long been accepted.</text>
+            <text syncTime="2077.132" offset="8413747">In the Burlington Northern case that I referred to earlier, the district court made an effort to do some calculations and then at the end, he applied a 50 percent fudge factor for estimations that reflected possible calculation errors.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2090.734" stopTime="2098.482">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2090.734" offset="8468082">We have a fudge factor here?</text>
+            <text syncTime="2091.937" offset="8472888">Can a -- can a district judge use what he calls a fudge factor?</text>
+            <text syncTime="2095.592" offset="8487517">This is a criminal statute.</text>
+            <text syncTime="2097.295" offset="8494413">It's not a tort case.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="2098.482" stopTime="2101.465">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2098.482" offset="8499115">It is a criminal provision.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2101.465" stopTime="2104.401">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2101.465" offset="8511027">We're going to be liable for a fudge factor.</text>
+            <text syncTime="2103.339" offset="8518550">[Laughter]</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="2104.401" stopTime="2144.806">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2104.401" offset="8522834">--that is -- that is placed into criminal sentencing with a goal of both compensating victims and determining that each defendant comes face to face with the fact that that person has inflicted some harm on a particular victim.</text>
+            <text syncTime="2118.537" offset="8579363">That's a valuable criminal sentencing purpose, and to the extent that the only thing that courts can do in this situation is attempt reasonable approximations that will not be exact, it's a better solution than saying nothing, as Paroline would do, or saying Amy -- everything, as Amy would do.</text>
+            <text syncTime="2136.419" offset="8650834">That is not proportionate to what the defendant has done, but zero is also grossly disproportionate to what the defendant has done.</text>
+            <text syncTime="2143.697" offset="8679987">Thank you.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2144.806" stopTime="2150.961">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2144.806" offset="8684376">Thank you, counsel.</text>
+            <text syncTime="2145.681" offset="8687928">Mr. Cassell.</text>
+          </turn>
+        </section>
+        <section startTime="2150.961" stopTime="3395.191">
+          <heading>Argument of Paul G. Cassell</heading>
+          <turn speaker="paul_g_cassell" startTime="2150.961" stopTime="2185.525">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2150.961" offset="8709035">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="2153.928" offset="8720947">Remarkably, this morning, the other parties have taken a statute that promises Amy she will receive restitution for all of her losses and interpreted it to be a statute that has fudge factors, imprecision, estimation, to produce some kind of an award that in the government's view is fair.</text>
+            <text syncTime="2171.529" offset="8791269">That's not what Congress provided in this particular statute.</text>
+            <text syncTime="2175.638" offset="8807778">Congress answered the question presented.</text>
+            <text syncTime="2177.653" offset="8815824">You were asking, Justice Breyer, what's the amount?</text>
+            <text syncTime="2180.214" offset="8826064">The text of the statute tells us.</text>
+            <text syncTime="2182.338" offset="8834528">It is the full amount.</text>
+            <text syncTime="2183.635" offset="8839752">Here, Amy has put forward--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2185.525" stopTime="2197.207">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2185.525" offset="8847275">Why?</text>
+            <text syncTime="2186.728" offset="8852082">I mean, the person didn't cause the full amount.</text>
+            <text syncTime="2189.335" offset="8862531">I mean, do you think Congress didn't intend -- do they want to have people pay for injury they didn't cause?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2197.207" stopTime="2199.894">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2197.207" offset="8893982">--We disagree with your premise there, with all respect.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2199.894" stopTime="2212.404">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2199.894" offset="8904745">Well, if you think he caused the full amount, fine.</text>
+            <text syncTime="2201.972" offset="8913104">But I mean, immediately you'll say at least they have four other people that they prosecuted for this, and those people caused it just as much.</text>
+            <text syncTime="2210.077" offset="8945496">And so let's divide it by five.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2212.404" stopTime="2254.841">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2212.404" offset="8954795">The solution to the point that you're raising, Justice Breyer, is to recognize that Petitioner was a contributing cause to all of Amy's losses.</text>
+            <text syncTime="2220.760" offset="8988232">Amy's losses come from a vast faceless anonymous crowd of thousands of people scattered around the globe from Denver to Denmark who are looking at pictures of her being raped as an eight-year-old girl.</text>
+            <text syncTime="2232.724" offset="9036088">And that aggregate group of people all contribute to a loss.</text>
+            <text syncTime="2237.817" offset="9056464">And I'm sure that Your Honor is familiar with cases from this Court, for example the Norfolk &amp; Western case where asbestos manufacturers all contributed to a particular loss.</text>
+            <text syncTime="2247.796" offset="9096379">The result in that case was joint and several liability.</text>
+            <text syncTime="2250.827" offset="9108500">Each person who contributed to the loss was on the hook for the damages in their entirety.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2254.841" stopTime="2264.275">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2254.841" offset="9124591">So Congress assumed that this defendant could be liable in part for other people's crimes?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2264.275" stopTime="2272.802">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2264.275" offset="9162312">No, Justice Kennedy.</text>
+            <text syncTime="2265.554" offset="9167432">What Congress assumed is that he would contribute to a single loss, and then at that point he would be responsible--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2272.802" stopTime="2274.691">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2272.802" offset="9196376">A single law or loss?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2274.691" stopTime="2279.586">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2274.691" offset="9204003">--I'm sorry.</text>
+            <text syncTime="2275.157" offset="9205780">Loss.</text>
+            <text syncTime="2275.738" offset="9208183">He contributed to the loss, and it's important to understand--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2279.586" stopTime="2284.001">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2279.586" offset="9223543">He had two pictures.</text>
+            <text syncTime="2280.539" offset="9227305">He did not distribute at all.</text>
+            <text syncTime="2282.701" offset="9235977">He was not a distributor, right?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2284.001" stopTime="2284.954">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2284.001" offset="9241202">--That's right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2284.954" stopTime="2319.861">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2284.954" offset="9244963">He was convicted of possessing two pictures.</text>
+            <text syncTime="2288.074" offset="9257502">And the statute doesn't even require intentional possession, just knowing possession, right?</text>
+            <text syncTime="2294.814" offset="9284461">He could have gotten them by accident.</text>
+            <text syncTime="2296.652" offset="9291775">He knew he got them, but he never took them off of his computer, but he's still guilty of the crime.</text>
+            <text syncTime="2302.133" offset="9313718">So I -- he's guilty, he's guilty of the crime.</text>
+            <text syncTime="2304.430" offset="9322913">But to sock him for all of her -- all of her psychiatric costs and everything else because he had two pictures of her?</text>
+            <text syncTime="2316.581" offset="9371501">Congress couldn't have intended that.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2319.861" stopTime="2362.859">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2319.861" offset="9384666">Congress did intend that, Your Honor.</text>
+            <text syncTime="2321.172" offset="9389891">They said that he is responsible for the full amount of the losses.</text>
+            <text syncTime="2324.562" offset="9403474">There's a two-step process here.</text>
+            <text syncTime="2327.170" offset="9413819">First, this particular defendant caused harm to this particular victim.</text>
+            <text syncTime="2330.731" offset="9428134">That's the victim definition found in 2259(c).</text>
+            <text syncTime="2334.307" offset="9442449">And there are findings of fact by the district court in this case that the defendant, Petitioner, did harm -- did harm Amy.</text>
+            <text syncTime="2342.867" offset="9476617">And then at that point the only question left under this mandatory restitution statute is, how much restitution does she get?</text>
+            <text syncTime="2349.911" offset="9504830">And Congress has answered that question.</text>
+            <text syncTime="2352.036" offset="9513293">She gets the full amount, for five itemized categories of losses, psychological counseling being the most prominent.</text>
+            <text syncTime="2359.579" offset="9543491">She's documented with detailed submissions that she is going to bear--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2362.859" stopTime="2367.623">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2362.859" offset="9556657">Well, but responsible for those as a proximate result of the offense.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2367.623" stopTime="2367.997">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2367.623" offset="9575674">--That--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2367.997" stopTime="2379.882">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2367.997" offset="9577137">The only offense shown here in this case is the possession of the two pictures.</text>
+            <text syncTime="2373.228" offset="9598139">So how -- how can all of those amounts be the result of the possession of two pictures?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2379.882" stopTime="2388.427">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2379.882" offset="9624679">--The language you have quoted, Mr. Chief Justice, is from Subsection (F).</text>
+            <text syncTime="2384.788" offset="9644323">Amy is not seeking any recovery under Subsection (F).</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2388.427" stopTime="2403.562">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2388.427" offset="9658848">Well, you understand the statutory principle that it says</text>
+            <text syncTime="2392.488" offset="9675148">"any other losses suffered by the victim as a proximate result of the offense. "</text>
+            <text syncTime="2396.471" offset="9691030">which suggests that the prior losses are also limited as a proximate result of the offense.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2403.562" stopTime="2412.417">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2403.562" offset="9719452">No, Mr. Chief Justice, and we would ask you to affirm the Fifth Circuit's en banc decision, which disagreed with that reading.</text>
+            <text syncTime="2409.903" offset="9744843">There are numerous canons of statutory construction--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2412.417" stopTime="2424.365">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2412.417" offset="9754874">Why would it make sense to say that he's liable for lost income, whether or not it's a proximate result, but when it comes to other losses suffered by the victim, they have to be the proximate result?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2424.365" stopTime="2448.090">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2424.365" offset="9802625">--There are a number of answers to that question, Mr. Chief Justice.</text>
+            <text syncTime="2427.473" offset="9815060">"Any other losses" is potentially open-ended.</text>
+            <text syncTime="2429.972" offset="9825091">It includes such things as emotional distress damages that could be potentially uncapped.</text>
+            <text syncTime="2435.049" offset="9845362">(A) through (E), however, are all out-of-pocket pecuniary costs.</text>
+            <text syncTime="2439.875" offset="9864692">They are defined.</text>
+            <text syncTime="2441.312" offset="9870439">And in this case, we have defined with precision what the course of lifetime psychological counseling costs will be for Amy.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2448.090" stopTime="2454.650">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2448.090" offset="9897502">But aren't those all if we don't buy your argument, if we read into (F) proximate causation?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2454.650" stopTime="2457.070">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2454.650" offset="9923834">No, Justice Sotomayor.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2457.070" stopTime="2462.817">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2457.070" offset="9933447">So why are you wasting time on the argument if you win either way?</text>
+            <text syncTime="2460.834" offset="9948493">Tell us without it.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2462.817" stopTime="2496.056">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2462.817" offset="9956434">I think we win either way, and obviously I have to anticipate that there may be a variety of views on this very difficult question.</text>
+            <text syncTime="2469.018" offset="9981303">But let's assume that the Court wants to read proximate cause into other parts of the statute where it does not appear.</text>
+            <text syncTime="2476.142" offset="10009724">At that point, the question simply becomes what do we mean by proximate cause?</text>
+            <text syncTime="2480.014" offset="10025293">Proximate cause is a legal shorthand for scope of the risk, a legal duty.</text>
+            <text syncTime="2484.732" offset="10044101">And Congress has defined the legal duty here.</text>
+            <text syncTime="2487.246" offset="10054132">For those criminals who commit a serious 10-year Federal felony, the scope of their risk is they will pay the full amount of the psychological counseling costs--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2496.056" stopTime="2535.696">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2496.056" offset="10089450">Can I get back to -- your point was that all of the (A) through (E) is limited, and you don't need -- well, it's not.</text>
+            <text syncTime="2503.146" offset="10117767">One of the losses that can be gained -- recovered is lost income.</text>
+            <text syncTime="2507.691" offset="10135948">Now, if you take away proximate cause, the argument can be, well, I had to undergo counseling in a particular period, so I wasn't able to get a master's degree in this.</text>
+            <text syncTime="2518.139" offset="10177744">Because I didn't get a master's degree, I wasn't able to get a better-paying job, and therefore I'm entitled to the income from the better-paying job that I would have gotten if I had a master's degree if I didn't have to take the counseling.</text>
+            <text syncTime="2529.808" offset="10224451">Now, unless you limit that by proximate cause it's entirely open-ended.</text>
+            <text syncTime="2534.571" offset="10243468">It's not confined as you said.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2535.696" stopTime="2541.677">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2535.696" offset="10247961">--Well, there -- you're talking about the problem of but-for causation.</text>
+            <text syncTime="2539.068" offset="10261440">Then what kind of additional limitation will placed on it.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2541.677" stopTime="2544.098">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2541.677" offset="10271889">No, no.</text>
+            <text syncTime="2542.129" offset="10273665">I'm talking about proximate causation.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2544.098" stopTime="2568.073">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2544.098" offset="10281607">Right.</text>
+            <text syncTime="2544.784" offset="10284323">So there would be an additional cause, which the government argues should be a proximate cause limitation, but there are other limitations that could be attached.</text>
+            <text syncTime="2551.391" offset="10310759">And that's what the Fifth Circuit en banc did.</text>
+            <text syncTime="2553.640" offset="10319745">It said, for example, that if Amy suffered a car accident on the way to therapy, that that would not be included.</text>
+            <text syncTime="2559.561" offset="10343465">Why?</text>
+            <text syncTime="2559.700" offset="10343987">Because contextually and conventionally we would not refer to those types of losses as stemming from child pornography.</text>
+            <text syncTime="2567.151" offset="10373767">That's proximate cause.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2568.073" stopTime="2628.204">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2568.073" offset="10377528">Like Justice Sotomayor and like the government here, I think, even if there is a proximate cause requirement, it has been -- it has been met, once you adopt the aggregate offense notion.</text>
+            <text syncTime="2582.035" offset="10433326">But I wanted to ask you about Subsection (F).</text>
+            <text syncTime="2585.721" offset="10448059">My -- it doesn't seem to me that you -- whether or not you read the proximate cause element in (F) into (A), (B), (C), (D), and (E), it seems to me what you have to read into (A), (B), (C), (D), and (E) is the portion of (F) which says</text>
+            <text syncTime="2603.778" offset="10520261">"any other losses suffered by the victim as a result of the offense. "</text>
+            <text syncTime="2611.900" offset="10552758">--"of the offense".</text>
+            <text syncTime="2613.728" offset="10560072">Is it only (F) that is limited to the particular offense, and (A), (B), (C), (D), and (E) means those -- those items that come from anybody else's conviction?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2628.204" stopTime="2643.979">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2628.204" offset="10617959">No.</text>
+            <text syncTime="2629.047" offset="10621408">The linkage -- the particular defendant's conviction comes from Subsection (C) a victim such as Amy has to establish that she's been harmed as a result of this defendant's crime.</text>
+            <text syncTime="2639.200" offset="10661950">That establishes -- there's been a reference to aggregate cause.</text>
+            <text syncTime="2642.495" offset="10675220">We think the way to look at this would be--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2643.979" stopTime="2646.791">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2643.979" offset="10681071">And is that another way of saying as a result of this defendant's offense?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2646.791" stopTime="2654.788">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2646.791" offset="10692356">--As a result of this defendant's offense.</text>
+            <text syncTime="2650.024" offset="10705313">We agree that Subsection (C) requires Amy to show that she was victimized by this defendant.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2654.788" stopTime="2664.771">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2654.788" offset="10724330">But you are not claiming, are you -- or are you?</text>
+            <text syncTime="2657.601" offset="10735615">that she's been victimized to the tune of 3.4 million as a result of this particular defendant's offense?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2664.771" stopTime="2671.578">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2664.771" offset="10764245">We are saying that she -- that the Petitioner in this case, the defendant, contributed to all of the losses that she suffered.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2671.578" stopTime="2672.746">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2671.578" offset="10791517">Well, contributed to.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2672.746" stopTime="2673.052">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2672.746" offset="10796219">Yes.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2673.052" stopTime="2695.927">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2673.052" offset="10797368">But I take it that the point of the government's submission is only contributed to and now we have to sort of approximate what the contribution was.</text>
+            <text syncTime="2681.402" offset="10830805">And you come in and you say, no, it shouldn't be -- notwithstanding that this particular offense was responsible for only a part, you think the defendant should be liable for the whole.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2695.927" stopTime="2714.825">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2695.927" offset="10888901">We think that the defendant contributed to all her losses.</text>
+            <text syncTime="2698.706" offset="10899977">Let me give you a quick illustration.</text>
+            <text syncTime="2699.988" offset="10905097">Next week when Amy goes to her therapist and is billed $100, the defendant contributed to all $100.</text>
+            <text syncTime="2707.437" offset="10934981">And of course all we have when we get to the additional numbers down the road is simply the fact that she's going to be going to therapy, not just next week--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2714.825" stopTime="2724.088">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2714.825" offset="10964448">I guess I'm just not sure what that means, contributed to $100.</text>
+            <text syncTime="2718.200" offset="10978031">Does that mean she's -- the defendant is responsible for the entire $100--</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2724.088" stopTime="2724.931">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2724.088" offset="11001541">--Yes.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2724.931" stopTime="2733.022">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2724.931" offset="11004885">--as a matter of fact, or does it mean that the defendant is responsible as a matter of fact for some lesser part of the entire harm?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2733.022" stopTime="2737.191">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2733.022" offset="11037277">No, the first.</text>
+            <text syncTime="2733.818" offset="11040412">He's responsible, he is a contributing cause of the entire amount.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2737.191" stopTime="2746.828">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2737.191" offset="11053995">I -- I guess I'm -- when I say responsible I don't mean as a legal conclusion.</text>
+            <text syncTime="2741.455" offset="11071027">I mean did the defendant cause the entire $100 of harm?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2746.828" stopTime="2753.200">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2746.828" offset="11092552">He contributed to the entire $100, just as multiple polluters contribute to asbestosis--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2753.200" stopTime="2753.778">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2753.200" offset="11117943">Well, that's--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2753.778" stopTime="2762.103">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2753.778" offset="11120346">So he should contribute to the payment.</text>
+            <text syncTime="2755.043" offset="11125362">You're saying contributed to the harm, but he makes 100 percent of the payment.</text>
+            <text syncTime="2760.730" offset="11148141">That doesn't seem to me to make much sense.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2762.103" stopTime="2774.598">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2762.103" offset="11153574">--Well, Justice Scalia, we're pure textualists on this.</text>
+            <text syncTime="2765.024" offset="11165277">When you look at the text of the statute, Congress has answered that question.</text>
+            <text syncTime="2768.554" offset="11179383">Congress could have written the statute different ways, but they said that she is entitled to recover the full amount of her loss--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2774.598" stopTime="2775.394">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2774.598" offset="11203625">--Well, full amount--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2775.394" stopTime="2776.379">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2775.394" offset="11206759">They don't say from that person.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2776.379" stopTime="2788.655">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2776.379" offset="11210730">--from the particular offense, Mr. Cassell, so that it's the full amount of whatever the particular offense caused.</text>
+            <text syncTime="2783.157" offset="11237793">But you're not saying that this Defendant caused the entire 3.4.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2788.655" stopTime="2791.622">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2788.655" offset="11259840">--We're saying he contributed to the entire 3.4--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="2791.622" stopTime="2792.466">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="2791.622" offset="11271648">Well, let me give you this--</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2792.466" stopTime="2793.387">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2792.466" offset="11275096">--along with the other people.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="2793.387" stopTime="2794.356">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="2793.387" offset="11278753">--I'm sorry, I didn't mean to interrupt you.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2794.356" stopTime="2811.818">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2794.356" offset="11282619">No, I -- you can't disaggregate them, and that's the fundamental problem here.</text>
+            <text syncTime="2798.337" offset="11298501">If you look at, for example, our amicus brief with the American professional association involved with the sexual abuse of children, what they say is you cannot tease out this particular defendant or this particular harm.</text>
+            <text syncTime="2809.928" offset="11344895">They all come together to--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2811.818" stopTime="2817.738">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2811.818" offset="11352418">So -- so contributed also a person who didn't have a picture of her but watched other victims.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2817.738" stopTime="2818.472">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2817.738" offset="11376137">--Well, no--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2818.472" stopTime="2853.144">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2818.472" offset="11379063">That person contributed to her too, because it creates a market for the entire situation.</text>
+            <text syncTime="2822.814" offset="11396408">So some limiting principle has to come into play, and the limiting principle that I think people are driving at is because there's a terrible crime, we don't convict the person who didn't do it, all right?</text>
+            <text syncTime="2835.261" offset="11446250">And similarly, because this is a terrible crime, you don't require a person to pay what he didn't cause.</text>
+            <text syncTime="2843.960" offset="11481045">Now, that's sort of a principle going on.</text>
+            <text syncTime="2846.741" offset="11492121">Now, if you accept that, at least hypothetically, can you give any answer -- I'm afraid you can't and you're going to say--</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2853.144" stopTime="2853.254">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2853.144" offset="11517721">--No, I'm--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2853.254" stopTime="2863.985">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2853.254" offset="11518243">--But answer to what seems to be bothering me and a lot of others is, okay, let's accept the notion of cause, but what is a -- this is called restitution--</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2863.984" stopTime="2864.111">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2863.984" offset="11561084">--Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2864.111" stopTime="2885.584">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2864.111" offset="11561607">--it isn't called fines.</text>
+            <text syncTime="2865.064" offset="11565473">And so, given that, what -- how do you do it?</text>
+            <text syncTime="2868.622" offset="11579683">How do you distinguish so she gets some reasonable amount?</text>
+            <text syncTime="2872.246" offset="11594208">How do you do it that you're -- I can think of -- we've had about four different suggestions here.</text>
+            <text syncTime="2878.088" offset="11617509">But what's your opinion, if you lose on the first?</text>
+            <text syncTime="2881.351" offset="11630570">What's the best way to do it?</text>
+            <text syncTime="2883.554" offset="11639452">That's what I think people are struggling for -- with.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2885.584" stopTime="2888.943">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2885.584" offset="11647497">The best way to do it is to give Amy the full amount of her losses in this case.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2888.943" stopTime="2890.379">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2888.943" offset="11660977">That's what I suspected you would say.</text>
+            <text syncTime="2889.864" offset="11664634">[Laughter]</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="2890.379" stopTime="2949.683">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="2890.379" offset="11666723">Well, let me give you -- Mr. Cassell, let me give you this example.</text>
+            <text syncTime="2892.754" offset="11676232">There are pictures like this and it's known that they are out on the Internet, so therefore they are probably always going to be available and who knows how many people are going to view it.</text>
+            <text syncTime="2904.264" offset="11722208">And so the first person is caught for possession of some of these pictures and is convicted and the psychologist testifies that, you know, my client -- that the victim in this case knows that these things are out there and there's an unknown -- an unknown quantity of people are going to view it and my estimate is that the -- the treatment she is going to need for this is going to be $5 million.</text>
+            <text syncTime="2929.769" offset="11824294">All right.</text>
+            <text syncTime="2930.363" offset="11826593">Or $3 million, whatever it is.</text>
+            <text syncTime="2932.800" offset="11836415">Now, the first person is convicted, so the first person is assessed restitution in the amount of $3 million, right?</text>
+            <text syncTime="2939.906" offset="11864836">But then shortly after that ten more people are convicted for possessing the same amount.</text>
+            <text syncTime="2944.983" offset="11885107">They all pay nothing because the first person paid everything?</text>
+            <text syncTime="2948.902" offset="11900781">That's your answer?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2949.683" stopTime="2971.674">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2949.683" offset="11903915">That's our answer, and that's exactly what Congress wanted.</text>
+            <text syncTime="2952.697" offset="11915932">Congress wanted to take these vulnerable victims, child pornography crimes, Federal sex offense crimes, and domestic violence, and get them full restitution as quickly and effectively as possible.</text>
+            <text syncTime="2963.272" offset="11958250">And then after that, if there's a need to send an additional message to a defendant, he can be fined up to a quarter of a million dollars or sent to prison for a longer period of time.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2971.674" stopTime="2980.172">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2971.674" offset="11991896">What about at least the amount of the judgments she has already received?</text>
+            <text syncTime="2977.141" offset="12013734">The total amount, I think, was 3.4 million that you're seeking?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2980.172" stopTime="2981.280">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2980.172" offset="12025855">Yes.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2981.280" stopTime="2983.358">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2981.280" offset="12030348">And she has so far collected how much?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2983.358" stopTime="2988.292">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2983.358" offset="12038603">As of yesterday, 1,752,000.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2988.292" stopTime="2990.449">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2988.292" offset="12058351">Would you at least deduct that from the--</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="2990.449" stopTime="2997.929">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="2990.449" offset="12067024">Certainly.</text>
+            <text syncTime="2990.651" offset="12067755">Absolutely.</text>
+            <text syncTime="2991.197" offset="12069950">No, we're not asking for double recovery.</text>
+            <text syncTime="2992.822" offset="12076428">Amy simply wants to be made whole.</text>
+            <text syncTime="2995.211" offset="12086041">She wants to recover her psychological counseling costs and her losses.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2997.929" stopTime="3009.551">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2997.929" offset="12096908">Usually when we approve joint and several liability we do so against a background of a functioning system of contribution where one defendant pays the entire thing, but then can go after--</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="3009.551" stopTime="3009.662">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="3009.551" offset="12143406">Right.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="3009.662" stopTime="3024.372">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="3009.662" offset="12143824">--other defendants and be pretty well assured that he gets their share.</text>
+            <text syncTime="3013.689" offset="12159915">Now, here, there's nothing like that and the question -- I guess the question is you're asking us to impose that kind of system without the usual thing that goes along with it, which is a sharing mechanism.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="3024.372" stopTime="3093.297">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="3024.372" offset="12202652">We disagree with the premise here.</text>
+            <text syncTime="3027.573" offset="12215504">The background principle for intentional tortfeasors is they got stuck with the entire liability jointly and severally.</text>
+            <text syncTime="3034.149" offset="12241835">That was the common law approach.</text>
+            <text syncTime="3035.413" offset="12246851">Now, if you want to deviate from the common law approach and read a contribution action into the statute, we're certainly not opposed to that.</text>
+            <text syncTime="3042.067" offset="12273496">But the overriding goal of Congress, as it always is when they deal with criminal, intentional tortfeasors, is to pay more attention to the victims and less about some notion of distributing losses among criminally culpable defendants.</text>
+            <text syncTime="3055.735" offset="12328144">Congress doesn't give you any indication in this statute that they were concerned that one particular defendant might pay more than his, quote, "fair share", whatever that means.</text>
+            <text syncTime="3064.761" offset="12364193">And the fundamental problem with the government's position is that after four and a half years of litigation, we still don't have any indication as to how much Amy is going to receive in this particular case.</text>
+            <text syncTime="3076.819" offset="12412467">What the government proposes to do is to cast district courts adrift, as they have been for the last four and a half years, to look at a variety of the factors, including, remarkably, if we read the government's brief correctly, one of the factors is the need to get the victim full -- full recovery.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="3093.297" stopTime="3110.446">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="3093.297" offset="12478400">In my example, suppose that the first person, who has a restitution order for the full amount, seems unlikely ever to be able to pay that.</text>
+            <text syncTime="3102.170" offset="12513822">Does that mean that they -- you would impose the same -- keep imposing the same judgment on everybody else, so everybody would be hit with $3 million?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="3110.446" stopTime="3113.523">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="3110.446" offset="12546945">Precisely, until -- until the victim recovers the full amount.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3113.523" stopTime="3138.514">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3113.523" offset="12559275">Well, what about doing -- what you'd say is make the department, you can find out figures, you could find out from figures what's the likelihood that X number of people will be caught.</text>
+            <text syncTime="3125.487" offset="12607132">And say it's 3 out of 1,000.</text>
+            <text syncTime="3128.080" offset="12617476">Then what you do is you divide by three.</text>
+            <text syncTime="3131.250" offset="12630224">I mean, that way everybody would be treated fairly, and moreover, the victim would at least have a shot at getting--</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="3138.514" stopTime="3145.652">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="3138.514" offset="12659272">But the problem is in this particular case the numbers show that at least 70,000 people have viewed Amy's image.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3145.652" stopTime="3148.259">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3145.652" offset="12687798">--And how many -- how many are going to get caught and convicted?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="3148.259" stopTime="3149.681">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="3148.259" offset="12698247">We have no way of knowing.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3149.681" stopTime="3158.411">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3149.681" offset="12703889">Well, you can find out.</text>
+            <text syncTime="3150.492" offset="12707128">There's no -- it's not an impossible question for people to come in and use the numbers and figure it out.</text>
+            <text syncTime="3156.458" offset="12731057">My guess would be a very tiny percent.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="3158.411" stopTime="3159.254">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="3158.411" offset="12738789">A tiny percentage.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3159.254" stopTime="3166.252">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3159.254" offset="12742237">All right, fine.</text>
+            <text syncTime="3159.957" offset="12745058">Then she's going to get a lot of her -- THEN she's going to get from each one a pretty good share, only--</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="3166.252" stopTime="3274.550">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="3166.252" offset="12770240">What you're assuming, though, is there's going to be a steady stream of cases, that criminals aren't going to discover new encryption techniques to keep their nefarious activities secrets.</text>
+            <text syncTime="3176.280" offset="12810260">We don't know whether there are going to be convictions next year or the year following.</text>
+            <text syncTime="3180.168" offset="12825829">And Congress acted against that understanding and said she recovers the full amount from the very first person, and if she gets her compensation, then she's out of the picture.</text>
+            <text syncTime="3189.633" offset="12863759">And one of the beauties of our approach is that we estimate within 2 to 3 years, if you affirm the Fifth Circuit, her restitution requests will be done.</text>
+            <text syncTime="3196.443" offset="12890926">If you adopt the government's approach, you could be looking at literally thousands and thousands of cases where Amy will have to -- will have to be filing piecemeal restitution requests, collecting as little as $47 under some of the calculation theories that the government has proposed, and there's no certainty that she's ever going to get the psychological counseling costs that she desperately needs and the lost income.</text>
+            <text syncTime="3218.138" offset="12977757">Now, certainly Congress could have drafted the statute in different ways, but every single word or every single phrase of this statute at least indicates to you that Congress had one goal and one goal alone in mind, that is that victims get the full amount of restitution that they desperately need.</text>
+            <text syncTime="3234.896" offset="13044735">And we're not talking here about reworking an entire restitution scheme for the broad swath of Federal crime.</text>
+            <text syncTime="3240.097" offset="13065528">We're talking about three crimes covered by the Violence Against Women Act, the child pornography cases, Federal sexual assault cases, and domestic violence cases.</text>
+            <text syncTime="3249.609" offset="13103667">And it's hardly a surprise to discover when you look at the Violence Against Women Act that Congress created a particularly expansive restitution regime for the victims of these particular crimes.</text>
+            <text syncTime="3260.651" offset="13147762">And we would direct your attention, for example, to the bipartisan amicus brief of a group of senators who were involved in the drafting of the Violence Against Women Act, and they indicated that their overriding goal here was to make sure that these vulnerable victims--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3274.550" stopTime="3276.941">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3274.550" offset="13203350">This is subsequent legislative history?</text>
+            <text syncTime="3276.175" offset="13209933">Is that what this is?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="3276.941" stopTime="3280.971">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="3276.941" offset="13212963">--Some of the members of the Court reviewed--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3280.971" stopTime="3285.969">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3280.971" offset="13229055">Even those that like legislative history don't like subsequent legislative history.</text>
+            <text syncTime="3285.016" offset="13245251">[Laughter]</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="3285.969" stopTime="3289.795">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="3285.969" offset="13249117">--Well, then if you want to go the with the textual approach, this is a simple case, Your Honor.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3289.795" stopTime="3307.804">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3289.795" offset="13264372">No, it's not a simple case.</text>
+            <text syncTime="3290.905" offset="13268761">You said, rhetorical exaggeration, every word in the statute leads to that.</text>
+            <text syncTime="3295.637" offset="13287778">But the key words don't.</text>
+            <text syncTime="3296.793" offset="13292376">The key words are "proximate result of the offense".</text>
+            <text syncTime="3299.136" offset="13301780">And it's difficult to argue that the entire amount is a proximate result of the offense of two pictures.</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="3307.804" stopTime="3351.832">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="3307.804" offset="13336366">Well, what happened was the Petitioner in this case contributed to the entire amount.</text>
+            <text syncTime="3312.848" offset="13356532">And then the way the statute operates is a very conventional way.</text>
+            <text syncTime="3316.206" offset="13370012">He becomes jointly and severally liable for the full amount.</text>
+            <text syncTime="3319.705" offset="13384013">That's not some kind of innovation.</text>
+            <text syncTime="3322.110" offset="13393626">This Court, for example, in the Norfolk and Western case unanimously said that joint and several liability is the traditional approach.</text>
+            <text syncTime="3329.233" offset="13422152">And so what Congress has done here is not create some newfangled regime.</text>
+            <text syncTime="3333.340" offset="13438557">It has simply taken a joint and several liability regime that this Court has routinely applied against negligent tortfeasors and said, when it comes to criminals who act with scienter, act knowingly or intentionally and cause harm, that they're going to have to make sure that the victims are fully compensated.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3351.832" stopTime="3361.407">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3351.832" offset="13512536">--But the point has already been made that it isn't a typical joint tortfeasor situation where you can seek contribution from people who equally contributed.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3361.407" stopTime="3363.642">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3361.407" offset="13550779">Please answer.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3363.642" stopTime="3374.105">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3363.642" offset="13559765">How would -- how would the defendant here go about seeking contribution?</text>
+          </turn>
+          <turn speaker="paul_g_cassell" startTime="3374.105" stopTime="3392.566">
+            <label>Mr. Paul G. Cassell</label>
+            <text syncTime="3374.105" offset="13601561">Well, the defendant would -- if there was a wealthy defendant who was unhappy with the share he'd been ordered to pay, he could simply try to find other wealthy defendants out there and interplead them in some kind of a case.</text>
+            <text syncTime="3385.678" offset="13647850">We admit that's going to lead to litigation burdens, that Congress wanted those burdens on guilty criminals rather than innocent victims.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3392.566" stopTime="3395.191">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3392.566" offset="13675435">Thank you, counsel.</text>
+            <text syncTime="3393.457" offset="13678988">Mr. Schneider, five minutes.</text>
+          </turn>
+        </section>
+        <section startTime="3395.191" stopTime="3592.220">
+          <heading>Rebuttal of Stanley G Schneider</heading>
+          <turn speaker="stanley_g_schneider" startTime="3395.191" stopTime="3503.709">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="3395.191" offset="13685989">Thank you.</text>
+            <text syncTime="3397.767" offset="13696229">This -- this is a criminal sentencing problem.</text>
+            <text syncTime="3401.954" offset="13713052">And Congress in 1996 apparently codified -- codified this Court's opinion in Hughey in creating a burden of proof on the government to demonstrate that the losses sustained by the victim are the result of the offense and created a number of new mandatory restitution statutes that apply.</text>
+            <text syncTime="3424.991" offset="13805107">And that doesn't change.</text>
+            <text syncTime="3429.177" offset="13821930">So as the reading -- the plain reading of the statute points -- with the government's burden of proof requires that the government demonstrate that, for example, the medical services losses of the victim of child pornography are caused by -- are the result of the defendant's offense.</text>
+            <text syncTime="3448.966" offset="13901029">And that's what Congress intended by adopting -- of 3664(e) and placing it as the enforcement provision of each of the restitution statutes that it created in 1996.</text>
+            <text syncTime="3463.617" offset="13959648">It codified Hughey.</text>
+            <text syncTime="3464.773" offset="13964245">And what the idea of contribution suggests that convicted sex offenders across the country are going to get together and see who pays what to whom.</text>
+            <text syncTime="3476.236" offset="14010116">That's not what Congress intended.</text>
+            <text syncTime="3478.704" offset="14020043">This is a sentencing proceeding that requires a particularized, individualized sentence based upon criminal conduct.</text>
+            <text syncTime="3485.186" offset="14045956">And that's what -- what the -- what Congress intended when it created all these statutes.</text>
+            <text syncTime="3492.135" offset="14073750">The ideal solution is to say, Congress, make each defendant pay $1,000 per image.</text>
+            <text syncTime="3499.493" offset="14103112">That would be -- into a fund for restitution for victims.</text>
+            <text syncTime="3503.538" offset="14119308">And that--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3503.708" stopTime="3513.252">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3503.708" offset="14120039">Well, you're right back to the question Justice Kagan began.</text>
+            <text syncTime="3507.005" offset="14133205">That if you have two offenders, that there's going to be recovery.</text>
+            <text syncTime="3511.191" offset="14149923">If you have 1,002, there won't be.</text>
+          </turn>
+          <turn speaker="stanley_g_schneider" startTime="3513.252" stopTime="3591.252">
+            <label>Mr. Stanley G Schneider</label>
+            <text syncTime="3513.252" offset="14158178">--There will always be -- if there's two offenders that are caught, you may get restitution from one of them.</text>
+            <text syncTime="3521.624" offset="14191719">But if -- but you're looking at what a single judge has to sentence someone.</text>
+            <text syncTime="3526.622" offset="14211677">A single judge, like Judge Davis, had one defendant.</text>
+            <text syncTime="3529.933" offset="14224947">He didn't have a defendant in Florida or Maine or Oregon to see what that person's background was.</text>
+            <text syncTime="3537.727" offset="14256085">Doesn't have the benefit of a PSR.</text>
+            <text syncTime="3540.304" offset="14266430">He has to look at one person.</text>
+            <text syncTime="3542.850" offset="14276565">And in this case, the district court balanced two experts and the methodology that was challenged and simply said, I find she was a victim.</text>
+            <text syncTime="3555.829" offset="14328497">I find that she was harmed.</text>
+            <text syncTime="3557.812" offset="14336438">But the government didn't meet its statutory burden of proof in this case, and in many other cases there is losses proved.</text>
+            <text syncTime="3567.169" offset="14373845">And there's a difference between harm and loss.</text>
+            <text syncTime="3569.651" offset="14383772">In this case, the district court did exactly what the government wanted them to do.</text>
+            <text syncTime="3575.899" offset="14408745">Weigh the evidence, listen to the evidence, look at the defendant and see if the government met its burden.</text>
+            <text syncTime="3582.741" offset="14436121">And what we'd ask the Court to reverse the Fifth Circuit and affirm the district court.</text>
+            <text syncTime="3590.330" offset="14466528">Thank you very much.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3591.252" stopTime="3592.751">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3591.252" offset="14470185">Thank you, counsel.</text>
+            <text syncTime="3592.220" offset="14474051">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

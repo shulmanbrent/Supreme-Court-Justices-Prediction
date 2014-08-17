@@ -1,0 +1,28 @@
+<transcript>
+      <history>
+        <identified user="jgoldman">2014-04-02</identified>
+      </history>
+      <resources>
+        <audioFile size="175229">/xml/cases/1987/86_1845/19880624o_86-1845.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-1845op.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="43.754">
+        <title>Torres v. Oakland Scavenger Company</title>
+        <section startTime="0" stopTime="43.754">
+          <heading>Opinion Announcement of Thurgood Marshall</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.331">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 86-1845, Torres against Oakland Scavenger Company will be announced by Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="9.331" stopTime="43.754">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="9.331" offset="37303">This case is here on certiorari to the Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="14.705" offset="58723">Here, we hold that failure to file a Notice of Appeal in compliance with the specificity requirement of Federal Rule of Appellate Procedure 3(c) presents a jurisdictional bar to that appeal.</text>
+            <text syncTime="32.121" offset="128418">The judgment of the Court of Appeals is therefore affirmed.</text>
+            <text syncTime="36.158" offset="144614">Justice Scalia has filed an opinion concurring in the judgment and Justice Brennan has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

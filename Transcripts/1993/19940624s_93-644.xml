@@ -1,0 +1,41 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:45:26" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="668570">/xml/cases/1993/93_644/19940624o_93-644.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1993/trs/93-644_19940624-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="144.327">
+        <title>Honda Motor Company, Ltd. v. Oberg</title>
+        <section startTime="0.000" stopTime="144.327">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.963">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="91264">The opinion of the Court in No. 93-644, Honda Motor Company against Oberg will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="7.963" stopTime="144.327">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="7.963" offset="123029">This is a punitive damages case.</text>
+            <text syncTime="10.918" offset="134836">The petitioner manufactured and sold a three-wheeled all terrain vehicle that overturned while respondent was driving it causing him severe and permanent injuries.</text>
+            <text syncTime="22.309" offset="180498">Respondent brought suit alleging the petitioner knew or should have known that the vehicle had an inherently and unreasonably dangerous design.</text>
+            <text syncTime="30.318" offset="212472">The jury found petitioner liable and awarded respondent almost $1 million in compensatory damages and punitive damages of $5 million.</text>
+            <text syncTime="40.569" offset="253537">Because of a provision of the Oregon Constitution, the Oregon trial and Appellate Courts did not review the amount of punitive damages to ensure that they were not excessive or unreasonable.</text>
+            <text syncTime="53.266" offset="304319">Petitioner argued that our prior decisions required meaningful judicial review to prevent arbitrary impositions of large punitive damages, but the Oregon Supreme Court rejected that argument holding that judicial review was not constitutionally required and that other Oregon procedures ensured against arbitrary awards.</text>
+            <text syncTime="73.032" offset="383313">We now reverse and remand.</text>
+            <text syncTime="75.572" offset="393448">Judicial review of the amount of punitive damage awards has been a safeguard against excessive awards for as long as punitive damages have been awarded.</text>
+            <text syncTime="84.625" offset="429706">Punitive damages pose an acute danger of arbitrary deprivation of property.</text>
+            <text syncTime="90.059" offset="451440">Jury instructions typically leave the jury with wide discretion in choosing amounts in the presentation of evidence of a defendant's net worth creates the potential that juries will use their verdicts to express biases against big businesses particularly those without strong local presences.</text>
+            <text syncTime="108.372" offset="524688">Judicial review of the amount awarded was one of the few procedural safeguards which the common law provided against that danger.</text>
+            <text syncTime="115.300" offset="552377">Oregon has removed that safeguard without providing an adequate substitute and without any indication that the danger of arbitrary awards has in any way subsided over time.</text>
+            <text syncTime="125.940" offset="595009">For these reasons, we hold that Oregon's denial of judicial review of the size of punitive damage awards violates the Due Process Clause of the Fourteenth Amendment.</text>
+            <text syncTime="135.386" offset="632730">Justice Scalia has filed a concurring opinion; Justice Ginsburg has filed a dissenting opinion in which the Chief Justice has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

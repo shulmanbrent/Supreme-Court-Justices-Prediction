@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:08:15" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="471661">/xml/cases/1990/89_1629/19910320o_89-1629.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1629_19910320-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="99.422">
+        <title>Salve Regina College v. Russell</title>
+        <section startTime="0.000" stopTime="99.422">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.174">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73973">The opinions of the Court in two cases will be announced by Justice Blackmun.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="10.174" stopTime="99.422">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="10.174" offset="114620">The first case is No. 89-1629, Salve Regina College against Russell.</text>
+            <text syncTime="17.958" offset="145757">This case comes to us from the Court of Appeals for the First Circuit.</text>
+            <text syncTime="22.102" offset="162371">The issue is whether a Federal Appellate Court may review a District Court’s determination of state law under a standard that is less probing than that applied to a determination of federal law.</text>
+            <text syncTime="36.124" offset="218378">Respondent filed a diversity action in Federal Court alleging that the petitioner, College, had breached an implied agreement to educate her when it asked her to withdraw from its nursing program for failing to meet certain weight loss commitments.</text>
+            <text syncTime="52.366" offset="283371">The District Court concluded that the Supreme Court of Rhode Island would apply the commercial doctrine of substantial performance in this academic setting.</text>
+            <text syncTime="64.495" offset="331854">The jury returned a verdict for respondent and the Court of Appeals affirmed.</text>
+            <text syncTime="68.183" offset="346691">It held that appellate deference made by a federal judge of that state was not an error.</text>
+            <text syncTime="76.725" offset="380860">In an opinion filed today, we reverse that judgment and remand the case.</text>
+            <text syncTime="81.372" offset="399459">We hold that a Federal Court of Appeals must review de novo a District Court’s state law determination in a diversity case.</text>
+            <text syncTime="91.651" offset="440523">The Chief Justice has filed a dissenting opinion, and is joined by Justice White and Justice Stevens.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:11:18" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="765080">/xml/cases/1990/89_1895/19910610o_89-1895.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1895_19910610-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="172.774">
+        <title>Astoria Federal Savings &amp; Loan Association v. Solimino</title>
+        <section startTime="0.000" stopTime="172.774">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="4.510">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73984">The opinions of the Court in two cases will be announced by Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="4.510" stopTime="172.774">
+            <label>Justice David H. Souter</label>
+            <text syncTime="4.510" offset="91956">The first case is a story of Federal Savings and Loan Association and Solimino, 89-1895.</text>
+            <text syncTime="13.343" offset="127274">This case comes to us on writ of certiorari to the United States Court of Appeals for the Second Circuit.</text>
+            <text syncTime="19.238" offset="150888">Respondent, Angelo Solimino, filed a charge with the Equal Employment Opportunity Commission alleging that the petitioner, Astoria Federal Savings and Loan Association, had dismissed him because of his age in violation of the Age Discrimination in Employment Act of 1967.</text>
+            <text syncTime="35.443" offset="215672">The EEOC referred his claim to the state agency responsible for like claims under New York's own anti-discrimination law which ruled against Solimino on the merits of his claim.</text>
+            <text syncTime="46.656" offset="260603">Rather than appealing that decision to a State Court, Solimino filed a Federal Age Act suit in the United States District Court for the Eastern District of New York.</text>
+            <text syncTime="54.976" offset="293831">Astoria then moved for summary judgment which the court granted holding that the findings of the state agency precluded federal litigation of the claim that the Court of Appeals reversed inferring that from the Act's structure an intent to deny preclusive effect to such date administrative proceedings.</text>
+            <text syncTime="73.359" offset="367391">In the unanimous opinion filed today with the clerk of court, we affirm the judgment of the Second Circuit and hold that judicially unreviewed findings of the state agency have no preclusive effect on age discrimination proceedings in federal courts.</text>
+            <text syncTime="87.310" offset="423189">While well-established common law principles such as preclusion rules are presumed to apply in the absence of legislative intent to the contrary, Congress need not state expressly its intention to overcome a presumption of administrative estoppel.</text>
+            <text syncTime="102.225" offset="482853">Rules of cleared statement are appropriate only where weighing and constant values are at steak whereas, such values are not represented by the lenient to a presumption in favor of administrative estoppel, the suitability of which varies according to context.</text>
+            <text syncTime="117.730" offset="544815">Thus, the test for the presumption's application is simply whether the administrative preclusion would be inconsistent with congressional intent in enacting a particular statute.</text>
+            <text syncTime="127.984" offset="585880">Such an inconsistency is apparent with respect to the Age Act.</text>
+            <text syncTime="132.058" offset="602180">The Act's filing requirements assume the possibility of federal consideration of age discrimination claims in the wake of unfavorable state administrative review.</text>
+            <text syncTime="141.395" offset="639483">And yet, such consideration would be mere formality if state agency findings would give inpreclusive effect.</text>
+            <text syncTime="147.694" offset="664665">Our holding today is consistent with the decision in Tennessee and Elliott in which we denied estoppel effect to agency findings in a parallel context of Title VII.</text>
+            <text syncTime="156.947" offset="701759">It also comports with the broader scheme and enforcement provisions, and although congress' wisdom in deciding against administrative preclusion is relevant to our determination, the congressional choice in this case enjoys plausible policy support.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

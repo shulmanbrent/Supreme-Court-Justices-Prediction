@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:10:22" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="570974">/xml/cases/2001/01_309/20020627o_01-309.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2001/trs/01-309_20020627-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="120.868">
+        <title>Hope v. Pelzer</title>
+        <section startTime="0.000" stopTime="120.868">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.125">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87500">The opinion of the court in No. 01-309 Hope against Pelzer will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="8.125" stopTime="120.868">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="8.125" offset="119996">In 1995 Alabama was the only State that followed the practice of chaining prison inmates to one another in work squads. It was also the only State that handcuffed prisoners to hitching posts to punish them for disrupting the work of chain games.</text>
+            <text syncTime="26.631" offset="193975">The petitioner in this case was punished in this way on two occasions, once for fighting with another prisoner and the second time for an altercation with the guard.</text>
+            <text syncTime="36.683" offset="234204">The first occasion, the handcuff into the hitching post lasted for only about two hours because the petitioner was released when the guard decided that the other prisoner had started the fight.</text>
+            <text syncTime="49.441" offset="285195">On the second occasion he was handcuff to the post in an uncomfortable standing position for seven hours.</text>
+            <text syncTime="56.123" offset="311944">During this period he was given water only once or twice and was denied bathroom breaks.</text>
+            <text syncTime="61.951" offset="335245">Petitioner filed an action against three guards alleging that the use of the hitching post was cruel and unusual punishment that violated the Eighth amendment.</text>
+            <text syncTime="70.850" offset="370876">The Court of Appeals held that the practice was unconstitutional but that the guards were entitled to qualified immunity because the applicable rule of federal law had not been set forth in earlier cases involving materially similar facts.</text>
+            <text syncTime="87.644" offset="438063">We granted certiorari to review the court’s holding on the qualified immunity issue.</text>
+            <text syncTime="93.001" offset="459484">For reason stated in an opinion filed with Clerk, we conclude that the Court of Appeals applied an incorrect standard and that earlier decisions did give respondents a fair warning that the use of the hitching post for punitive was unconstitutional.</text>
+            <text syncTime="109.516" offset="525521">Accordingly we reverse the judgment of the Court of Appeals and remand for further proceedings.</text>
+            <text syncTime="115.282" offset="548613">Justice Thomas has filed a dissenting opinion that is joined by the Chief Justice and Justice Scalia.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

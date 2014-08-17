@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:09:29" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="869472">/xml/cases/2001/01_455/20020610o_01-455.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2001/trs/01-455_20020610-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="195.474">
+        <title>Franconia Associates v. United States</title>
+        <section startTime="0.000" stopTime="195.474">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.774">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87575">The opinion of the Court in No. 01-455 Franconia Associates versus United States will be announced by Justice Ginsburg.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="8.774" stopTime="195.474">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="8.774" offset="122579">This case presents a question of time, specifically the time within which suit must be commenced when Congress passes a statute renouncing the Government’s contractual undertaking to carryout a promise in the future.</text>
+            <text syncTime="26.262" offset="192587">The time allowed pursued on contracts with the Government is six years.</text>
+            <text syncTime="31.371" offset="212963">The issue is when does that time begin to run?</text>
+            <text syncTime="35.297" offset="228741">Petitioners are property owners who participated in a federal program designed to provide affordable rental housing in rural areas.</text>
+            <text syncTime="46.049" offset="271686">Petitioners gained low interest mortgage loans from the Government and in exchange, they agreed to devote their properties to low and middle income housing and to abide by related restrictions during the life of the loans.</text>
+            <text syncTime="61.447" offset="333335">Petitioners alleged that the promissory notes governing their loans guaranteed them the right to prepay at any time and thereby gain early release from the property use restrictions of the federal program.</text>
+            <text syncTime="77.876" offset="399059">In the suits that yielded the judgments before us, petitioners charged that Congress abridged that release right in the Emergency Low Income Housing Preservation Act, the acronym is ELIHPA, that Act placed permanent restraints on prepayment of program loans.</text>
+            <text syncTime="100.941" offset="491324">Petitioners complained that in so altering the terms of the bargain, Congress repudiated petitioner’s loan contracts.</text>
+            <text syncTime="110.183" offset="528208">The Federal Circuit held petitioner’s claims time barred.</text>
+            <text syncTime="115.007" offset="547539">Passage of ELIHPA that Court ruled immediately and totally breached petitioner’s loan agreement, and therefore, triggered the running of the six-year limitation period.</text>
+            <text syncTime="130.410" offset="609188">Petitioners filed suit not within six years of but over nine years after ELIHPA’s enactment.</text>
+            <text syncTime="137.073" offset="635833">Hence, the Federal Circuit concluded that claims were untimely and their suits were properly dismissed.</text>
+            <text syncTime="143.982" offset="663418">We accept for purposes of this decision as the Government that the loan contracts guarantee the absolute prepayment right that petitioners alleged.</text>
+            <text syncTime="156.573" offset="713782">We disagree with the Federal Circuit’s determination and reverse that court’s judgment.</text>
+            <text syncTime="161.987" offset="735516">ELIHPA’s enactment, we conclude, qualified as a repudiation of the parties' bargain but not a present breach of the loan agreements.</text>
+            <text syncTime="171.900" offset="775118">Accordingly, breach would occur and the six-year limitations period will begin to run when a borrower seeks to prepay and the Government then disnonors its obligation to accept the payment and release control over use of the property that secured the loan.</text>
+            <text syncTime="191.860" offset="854948">Our decision is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

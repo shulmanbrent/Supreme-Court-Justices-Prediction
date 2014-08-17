@@ -1,0 +1,35 @@
+<transcript>
+      <history/>
+      <resources>
+        <audioFile size="506288">/xml/cases/1981/81_622/19820427o_81-622.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1981/trs/81-622op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="107.178">
+        <title>Southern Pacific Transportation Company v. Commercial Metals Company</title>
+        <section startTime="0" stopTime="107.178">
+          <heading>Opinion Announcement of Warren E. Burger</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="9.511">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="77462">The judgment and opinion of the Court in Southern Pacific Transportation against Commercial Metals will be announced by Justice Blackmun.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="9.511" stopTime="105.736">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="9.511" offset="115496">This case argued last session comes to us by writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="20.551" offset="159591">It's not a case that lands to easy description but it seems to be fairly important in the transportation industry.</text>
+            <text syncTime="27.934" offset="189162">It centers in the use of uniforms straight bills of lading prescribed by the Interstate Commerce Commission.</text>
+            <text syncTime="35.369" offset="218837">In these bills contained a provision that the shipper is liable for freight charges unless it signs a nonrecourse clause contained in the bill of lading.</text>
+            <text syncTime="47.509" offset="267424">In this case, the cause was not signed and three shipments were delivered by the Railroad to the consignee without the collection of freight charges.</text>
+            <text syncTime="57.045" offset="305563">The issue was whether when the Railroad seeks payment of these charges from the shipper, the latter may defeat the Railroad's claim with an equitable defense by showing that the carrier had failed to comply with the Interstate Commerce Commission's credit regulations.</text>
+            <text syncTime="74.649" offset="375989">The Fifth Circuit held that such a defense could be asserted and in this case was valid.</text>
+            <text syncTime="80.999" offset="401380">In an opinion filed today with the clerk, we unanimously hold that that ruling was error and we reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="90.940" offset="441191">Violation of a credit regulations does not bar the Railroad's collections of lawful freight charges from a shipper who has not signed the nonrecourse clause in the bill of lading.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="105.736" stopTime="107.178">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="105.736" offset="500332">Thank you, Justice Blackmun.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

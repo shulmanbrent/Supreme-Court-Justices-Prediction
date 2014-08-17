@@ -1,0 +1,43 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:31:31" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="712089">/xml/cases/1998/97_1130/19981110o_97-1130.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1998/trs/97-1130_19981110-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="156.564">
+        <title>Pfaff v. Wells Electronics, Inc.</title>
+        <section startTime="0" stopTime="156.564">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.381">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85568">The opinion of the Court in No. 97-1130, Pfaff versus Wells Electronics will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="9.381" stopTime="156.564">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="9.381" offset="123080">The Section 102(b) of the Patent Act provides that no person is entitled to patent an invention that has been on-sale more than one year before filing a patent application.</text>
+            <text syncTime="21.151" offset="170100">We granted certiorari in this case to determine whether the commercial marketing of a newly invented product may signal the beginning of the 1-year period even though the invention has not yet been reduced to practice.</text>
+            <text syncTime="33.615" offset="219942">The petitioner in this case is the inventor of a computer chip socket.</text>
+            <text syncTime="37.643" offset="236138">More than a year before he applied for his patent he accepted an order for over 30000 of his new sockets and deliver specification for the production of the device to a manufacturer.</text>
+            <text syncTime="48.328" offset="278874">He had not however prepared an actual working model of the device and because of the time that the manufacturer needed to develop the necessary customized tooling the order was not filled until several months later.</text>
+            <text syncTime="60.955" offset="329343">Insure that the invention was conceived and the device was offered for sale more than a year before the application was filed, but it was first reduced to practice less than a year before the filing date.</text>
+            <text syncTime="73.004" offset="377512">The District Court for the Northern District of Texas, found that the patent application was timely because it was filed less than a year after the first socket was produced, but the Court of Appeals for the Federal Circuit reversed.</text>
+            <text syncTime="85.802" offset="428712">That court concluded that the invention was "substantially complete" when petitioner put it on a sale more than a year before filing the patent application and therefore his patent was invalid under Section 102(b).</text>
+            <text syncTime="100.354" offset="486913">We affirm the judgment of the Court of Appeals but we disagree with its conclusion that Section 102(b)'s 1-year period begins when an invention that is substantially complete is put on sale.</text>
+            <text syncTime="112.444" offset="535292">We hold that the on-sale bar applies when two conditions are satisfied before the critical date.</text>
+            <text syncTime="118.747" offset="560474">First, the product must be the subject of a commercial author for sale as opposed to an experimental sale.</text>
+            <text syncTime="125.199" offset="586283">Second, the invention must be ready for patenting.</text>
+            <text syncTime="128.043" offset="597672">The ready for patenting test would usually be met by proof that before the critical date the invention was reduced to practice.</text>
+            <text syncTime="134.881" offset="625049">But, it may also be met by proof that the inventor had prepared drawings or other descriptions of the invention that were sufficiently specific to enable a person skilled in the art to construct the invention.</text>
+            <text syncTime="146.333" offset="670815">Petitioner's patent is therefore invalid under 102(b).</text>
+            <text syncTime="152.106" offset="693908">Our opinion, holding the patent invalid, is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,51 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2013-12-12T11:52:46" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1402584">/xml/cases/2003/02_857/20040421o_02-857.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2003/trs/02-857_20040421-opinion.trs</sourceFile>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="304.318">
+        <title>Household Credit Services, Inc. v. Pfennig</title>
+        <section startTime="0.000" stopTime="304.318" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice Clarence Thomas</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.678">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 02-857, Household Credit Services, Inc. versus Pfennig will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="9.678" stopTime="304.318">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="9.678" offset="38661">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Sixth Circuit.</text>
+            <text syncTime="15.929" offset="63634">Respondent holds a credit card initially issued by petitioner Household Credit Services, and in which petitioner MBNA America Bank now holds an interest.</text>
+            <text syncTime="27.560" offset="110237">Although the terms of respondent’s credit card agreement set her credit limit at $2,000, respondent was able to make charges exceeding that limit subject to a $29 fee for each month in which her balance exceeded $2,000.</text>
+            <text syncTime="45.119" offset="180454">Petitioner disclosed the $29 fee in respondent’s monthly statement but did not include the fee under the label “finance charge” because the Federal Reserve Board has issued a regulation called Regulation Z, which excludes from the definition of finance charge fees that are imposed for exceeding a credit limit.</text>
+            <text syncTime="70.067" offset="280242">Respondent filed a complaint in the District Court alleging petitioners, that petitioner violated the Truth in Lending Act, TILA, by failing to disclose the over limit fee as a finance charge.</text>
+            <text syncTime="85.586" offset="342309">The District Court granted petitioner’s motion to dismiss but a Sixth Circuit panel reversed.</text>
+            <text syncTime="92.613" offset="370416">The term "finance charge" is used in 15 U.S.C. Section 1605(a) as an amount “payable directly or indirectly by the person to whom the credit is extended and imposed directly or indirectly by the creditor as an incident to the extension of credit.”</text>
+            <text syncTime="116.357" offset="465398">Because respondent alleged in her complaint that petitioners allowed her to make charges that exceeded her credit limit and the over limit charge was charged as condition of this additional extension of credit, the Sixth Circuit concluded that the over limit fee in this case fell clearly and unmistakably under the definition of a finance charge and hence, that Regulation Z’s interpretation of the definition was unreasonable.</text>
+            <text syncTime="144.972" offset="579814">In an opinion filed with the Clerk today, we reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="150.717" offset="602802">This case presents two questions.</text>
+            <text syncTime="153.232" offset="612833">We first ask whether Section 1605(a)'s definition of finance charge clearly covers over limit fees.</text>
+            <text syncTime="161.832" offset="647314">If the answer to that question is yes, that is the end of the battle.</text>
+            <text syncTime="165.350" offset="661316">If, however, 1605(a)’s definition of finance charge is ambiguous with respect to over limit fees, we then ask only whether Regulation Z is arbitrary, capricious, or manifestly contrary to the statute.</text>
+            <text syncTime="180.319" offset="721189">As to the first question, we find that Section 1605(a) does not unambiguously cover over limit fees.</text>
+            <text syncTime="188.171" offset="752640">The phrase incident to the extension of credit implies some necessary connection between the antecedent and its object, but it does not make clear whether a substantial as opposed to remote connection is required.</text>
+            <text syncTime="203.115" offset="812408">In another TILA provision, over limit fees are defined as fees imposed “in connection with an extension of credit rather than incident to an extension of credit.”</text>
+            <text syncTime="214.837" offset="859324">Thus, the best reading of Section 1605(a) might be that over limit fees are excluded from the definition of finance charge.</text>
+            <text syncTime="224.091" offset="896313">At the very least, Section 1605(a) is ambiguous regarding this point.</text>
+            <text syncTime="230.120" offset="920451">Our only remaining question then is whether the Board’s interpretation of Section 1605(a) is procedurally defective, arbitrary, or capricious in substance, or manifestly contrary to the statute.</text>
+            <text syncTime="242.934" offset="971651">Regulation Z is none of these things.</text>
+            <text syncTime="245.742" offset="982936">The Board adapted Regulation Z in order to emphasize disclosures that are most relevant to credit decisions, because the imposition of an over limit fee occurs only when a consumer violates the credit agreement.</text>
+            <text syncTime="261.685" offset="1046674">The Board reasonably concluded that over limit fees are less relevant to determining the true cost of credit and therefore that these fees should be excluded from what is labeled the finance charge.</text>
+            <text syncTime="275.044" offset="1100173">Regulation Z is consistent with the terms of Section 1605(a) and with TILA's purpose of promoting meaningful disclosure to consumers.</text>
+            <text syncTime="284.525" offset="1137998">The opinion of the Court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

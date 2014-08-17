@@ -1,0 +1,49 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1365542">/xml/cases/2004/03_9685/20050404o_03-9685.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2004/trs/03-9685_20050404-opinion.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="303.224">
+        <title>Johnson v. United States</title>
+        <section startTime="0.000" stopTime="303.224" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice Sandra Day O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.161">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the court in Johnson against United States will be announced by Justice O’Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="8.161" stopTime="303.224">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="8.161" offset="32601">I am announcing this on behalf of Justice Souter, the author of the majority but without his distinctive New England accent.</text>
+            <text syncTime="18.250" offset="72934">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Eleventh Circuit.</text>
+            <text syncTime="24.387" offset="97489">Petitions for writ of habeas corpus filed in Federal Court are governed by the Antiterrorism and Effective Death Penalty Act of 1966 known as AEDPA, which imposes a one-year statute of limitations on petitions filed by prisoners who seek to modify or vacate their federal sentences.</text>
+            <text syncTime="47.665" offset="190589">For purposes of this case, the one-year time clock runs from the date on which the facts supporting the federal prisoners claim could have been discovered through the exercise of due diligence.</text>
+            <text syncTime="60.524" offset="241998">The petitioner, Robert Johnson, Jr. received an enhanced federal sentence because he had two prior convictions in the State of Georgia.</text>
+            <text syncTime="69.423" offset="277629">Johnson later petitioned for writ of habeas corpus in the Georgia State Court claiming that the guilty pleas he entered in seven cases including one the Federal Court had used to enhanced his federal sentence were invalid because he had not knowingly intelligently and voluntarily waived his right to counsel.</text>
+            <text syncTime="91.337" offset="365296">The State Court agreed with Johnson and entered an order vacating all seven of Johnson’s State Court convictions.</text>
+            <text syncTime="99.790" offset="399151">A little over three months later, Johnson returned to the Federal District Court with a motion to vacate his enhanced federal sentence on the ground that one of the predicate convictions supporting the enhancement had now been vacated.</text>
+            <text syncTime="113.952" offset="455784">Johnson claimed this motion was filed in time because the State Court’s vacator was a new fact triggering the one-year limitation period.</text>
+            <text syncTime="124.415" offset="497580">The District Court disagreed and denied it as did the Eleventh Circuit.</text>
+            <text syncTime="129.442" offset="517747">In an opinion file today with the Clerk of the Court, we affirm the judgment though not the reasoning of the Eleventh Circuit.</text>
+            <text syncTime="137.096" offset="548362">Subject to exceptions not relevant here, this Court has held in two previous cases that a prisoner facing a federal sentencing enhancement may not litigate in Federal Court the validity of a prior state conviction unless he first goes back to the State Courts to obtain an order vacating that prior conviction.</text>
+            <text syncTime="159.863" offset="639373">Because the State Court vacator is a necessary pre-condition to obtaining relief in Federal Court, we agree with Johnson that the vacator is a matter of fact within the meaning of the statute of limitation rule and that the one year period therefore may run form the date the prisoner receives notice of that State Court order.</text>
+            <text syncTime="181.888" offset="727458">The vacator of a conviction may be spoken of as a matter of fact just as sensibly as the conviction itself and is subject to proof or disproof just like any other factual issue.</text>
+            <text syncTime="193.494" offset="773956">Nevertheless, we do not accept Johnson's view in its entirety because he overlooks the fact that the AEDPA statute of limitations requires a petitioner to exercise due diligence in discovering the facts supporting his challenge to the federal sentence.</text>
+            <text syncTime="211.178" offset="844696">We hold that notice of the State Court order vacating a prior conviction will only trigger a full one-year limitation period if the petitioner acted with due diligence in seeking that vacator after the Federal Court enters judgment in the case with the sentence enhancement.</text>
+            <text syncTime="230.210" offset="920764">A different rule would be inconsistent with the statutory text and with AEDPA’s basic purpose of promoting the finality of Federal Judgments.</text>
+            <text syncTime="240.423" offset="961620">In this case, Johnson was obliged after the District Court entered its judgment in the Federal Criminal case to act diligently to obtain the State Court order vacating his prior conviction.</text>
+            <text syncTime="252.635" offset="1010521">Had he done so, the one year limitation period would have run from the date he received that notice of that vacator.</text>
+            <text syncTime="259.174" offset="1036643">However, Johnson failed to attack that prior conviction for more than three years after the entry of the judgment in his federal case.</text>
+            <text syncTime="268.269" offset="1073006">Johnson offers no acceptable excuse for this unreasonable delay.</text>
+            <text syncTime="273.055" offset="1092127">Johnson’s motion to vacate the federal sentence was therefore properly dismissed as untimely.</text>
+            <text syncTime="279.323" offset="1117205">Justice Kennedy has filed a dissenting opinion which Justices Stevens, Scalia, and Ginsburg have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

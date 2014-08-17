@@ -1,0 +1,43 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:15:53" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="621585">/xml/cases/2001/01_417/20020610o_01-417.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2001/trs/01-417_20020610-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="133.486">
+        <title>Devlin v. Scardelletti</title>
+        <section startTime="0.000" stopTime="133.486">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.145">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87642">The opinion of the Court in No. 01-417 Devlin versus Scardelletti will be announced by Justice O’Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="8.145" stopTime="133.486">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="8.145" offset="120138">This case comes here on writ of certiorari to the Court of Appeals for the Fourth Circuit.</text>
+            <text syncTime="13.404" offset="141245">The question before us is whether the petitioner, a member of the plaintiff’s class, certified under Federal Rule of Civil Procedure 23(b)(1) who objected to the approval of a settlement at the fairness hearing may subsequently bring an appeal despite the fact that he is neither a named class representative, nor a successful intervener in the action.</text>
+            <text syncTime="39.414" offset="245213">Reversing the Fourth Circuit, we hold that he can.</text>
+            <text syncTime="43.744" offset="262558">This Court has held that only parties may properly bring an appeal.</text>
+            <text syncTime="48.128" offset="280112">We have never restricted this rule however, to named parties.</text>
+            <text syncTime="52.644" offset="298189">Petitioner’s interest is similar to those of non-parties we have allowed to appeal in the past.</text>
+            <text syncTime="59.259" offset="324625">He objected in the District Court and most importantly, he is bound by the District Court’s approval of the settlement.</text>
+            <text syncTime="66.848" offset="355031">This should be sufficient to trigger his right to appeal.</text>
+            <text syncTime="70.353" offset="369033">That right cannot be effectively accomplished through the named class representative.</text>
+            <text syncTime="75.865" offset="391080">Once the class representative reaches a settlement with which another class member does not agree, their interest necessarily diverge.</text>
+            <text syncTime="85.243" offset="428592">Allowing an appeal is necessary to protect petitioner’s interests in the settlement by which he has bound despite his expressed objections before the District Court.</text>
+            <text syncTime="96.296" offset="472791">We also reject the government’s suggestion that non-named class members should be required to first intervene for purposes of appeal.</text>
+            <text syncTime="105.070" offset="507900">The government admits such intervention should be freely granted.</text>
+            <text syncTime="109.691" offset="526395">We therefore, see little advantage to requiring the class members to go through the additional steps of seeking District Court approval of their right to appeal.</text>
+            <text syncTime="119.314" offset="564847">As no statute or rule of civil procedure requires such intervention, we decline to require it here.</text>
+            <text syncTime="126.599" offset="594000">Justice Scalia has filed a descending opinion which Justices Kennedy and Thomas have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,49 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:13:11" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="850645">/xml/cases/2001/00_1543/20020528o_00-1543.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2001/trs/00-1543_20020528-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="190.720">
+        <title>Festo Corporation v. Shoketsu Kinzoku Kogyo Kabushiki Company</title>
+        <section startTime="0.000" stopTime="190.720">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="11.874">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87765">The opinion of the Court in No. 00-1543, Festo Corporation versus Shoketsu Kinzoku Kogyo Kabushiki Limited will be announced by Justice Kennedy.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="11.874" stopTime="190.720">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="11.874" offset="135203">This case involves the Patent Laws of the United States.</text>
+            <text syncTime="15.340" offset="149101">Festo Corporation is the petitioner in the case.</text>
+            <text syncTime="18.820" offset="162998">It claims that respondents whom we call SMC infringed Festo’s patents.</text>
+            <text syncTime="24.951" offset="187553">The Festo has two valid patents there is no doubt about that and the patents cover a conveying device that is used in certain machinery.</text>
+            <text syncTime="33.965" offset="223602">If you want to read about rodless cylinders that is a very interesting subject.</text>
+            <text syncTime="39.492" offset="245649">SMC started manufacturing and selling a similar device when Festo suit SMC for infringement, SMC said well our device is different from yours.</text>
+            <text syncTime="49.994" offset="287654">Festo said yes it is different but in such trivial respects, that it is an equivalent and under the Patent Laws, an equivalent device still infringes.</text>
+            <text syncTime="59.935" offset="327465">SMC then said the difference in your device and our device, the differences you say you are so trivial but the very difference is that you added to your claims when you amended your patent application.</text>
+            <text syncTime="71.163" offset="372395">You cannot amend an application in order to obtain the patent and then rely on the Doctrine of Equivalents.</text>
+            <text syncTime="76.334" offset="393084">The very fact that you amended the claim in question means that you are barred or in the law's term, stopped from relying on the Doctrine of Equivalents.</text>
+            <text syncTime="85.647" offset="430283">The Court of Appeals for the Federal Circuit agreed with SMC and in the course of granting judgment for SMC, the Court adapted a new rule, which is that once a claim is amended in the patent application process, the patent holder is stopped from relying on the Doctrine of Equivalents for any aspect of the amended claim elements, and this has come to be known as the complete bar rule.</text>
+            <text syncTime="108.749" offset="522756">We address two questions in this case: the first is what kind of amendments brings the stop of doctrine into play at all.</text>
+            <text syncTime="115.630" offset="550237">On this point, we agree with the Court of Appeals that the stop of doctrine is brought into play by amendments related to any of the law’s requirements for patent ability, not just by amendments related to the prior art.</text>
+            <text syncTime="127.719" offset="598616">On the second question though concerning the complete bar rule, we disagree with the Court of Appeals.</text>
+            <text syncTime="133.502" offset="621708">We hold that the complete bar rule is inconsistent with our previous cases and with the purpose underlying prosecution history estoppel.</text>
+            <text syncTime="141.510" offset="653786">To adapt it now would have set settled expectation of countless patent owners who relied on our earlier cases in amending their patents.</text>
+            <text syncTime="150.502" offset="689731">In the course of our opinion, we do say that when an amendment has been made to the patent application, the patent holder bares the burden of proving that the amendment was not made for a reason that would give rise to an estoppel.</text>
+            <text syncTime="162.797" offset="738945">This is the approach advanced to us by the United States which filed an amicus brief in the case and we regard that approach to be sound.</text>
+            <text syncTime="170.538" offset="769874">On the record before us, we cannot say that Festo has rebutted the presumption that the equivalents at issue have been surrendered so further proceedings are in order.</text>
+            <text syncTime="178.019" offset="799758">The judgment of the Court of Appeals of the Federal Circuit is reversed.</text>
+            <text syncTime="181.225" offset="812611">The case is remanded so that the Court of Appeals or the District Court in the first instance can determine the remaining questions.</text>
+            <text syncTime="188.147" offset="840301">The opinion of our court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

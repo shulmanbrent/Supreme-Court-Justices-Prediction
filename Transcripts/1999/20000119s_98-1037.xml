@@ -1,0 +1,50 @@
+<transcript verified="true">
+      <history>
+        <transcribed>2000-01-19</transcribed>
+        <edit user="dleib" date="2012-08-05T20:12:34" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="clarence_thomas"/>
+        <identified user="dleib">2012-08-05</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:45:13" startTime="0.000" oldSpeaker="clarence_thomas" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="814642">/xml/cases/1999/98_1037/20000119o_98-1037.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1999/98-1037_20000119-opinion.xml</sourceFile>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="182.596">
+        <title>Smith v. Robbins</title>
+        <section startTime="0.000" stopTime="8.093">
+          <heading>Announcement of Justice Thomas</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.093">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="84258">The opinion of the Court, in No. 98-1037, Smith versus Robbins will be announced by Justice Thomas.</text>
+          </turn>
+        </section>
+        <section startTime="8.093" stopTime="182.596">
+          <heading>Announcement of Justice Thomas</heading>
+          <turn speaker="clarence_thomas" startTime="8.093" stopTime="182.596">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="8.093" offset="116545">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="15.111" offset="144653">Respondent Robbins was convicted of murder and grand theft.</text>
+            <text syncTime="19.512" offset="162207">On appeal, his appointed counsel determined that an appeal would be frivolous and therefore filed with the State Appellate Court, a special brief known as a Wende brief.</text>
+            <text syncTime="29.690" offset="202958">That court, agreeing with the Counsel’s assessment of the appeal, affirmed.</text>
+            <text syncTime="34.142" offset="220826">Respondent, after unsuccessfully pursuing State postconviction relief, sought a writ of habeas corpus in Federal District Court.</text>
+            <text syncTime="42.881" offset="255726">That court granted the writ and the Court of Appeals affirmed.</text>
+            <text syncTime="47.072" offset="272444">The Court of Appeals concluded that our decision in Anders versus California established the exclusive procedure that appellate counsel may follow upon determining that an appeal is frivolous.</text>
+            <text syncTime="59.284" offset="321345">It further concluded that respondent’s counsel by following the Wende procedure instead provided ineffective assistance of counsel.</text>
+            <text syncTime="68.108" offset="356663">In an opinion filed with the Clerk today, we reverse the judgment of the Court of Appeals and remand for further proceedings.</text>
+            <text syncTime="75.333" offset="385502">Anders did not establish an exclusive procedure for the States; instead, Anders merely held that in order to vindicate indigent’s right to appellate counsel, states must establish procedures that reasonably ensure that any decision to dismiss an appeal as frivolous or to allow a Counsel to withdraw from an appeal will be made in a way that is related to the merit of that appeal.</text>
+            <text syncTime="101.028" offset="488320">Within the broad bounds of the Fourteenth Amendment sets, states are free to experiment.</text>
+            <text syncTime="106.853" offset="511621">The procedure that Anders set out is an acceptable one as is the one that we approved over a decade ago in McCoy versus Court of Appeals.</text>
+            <text syncTime="116.747" offset="551223">We conclude that the Wende procedure is likewise acceptable.</text>
+            <text syncTime="121.041" offset="568359">It is superior to many procedures that we have previously found invalid, and it is on par with the Anders and McCoy procedures.</text>
+            <text syncTime="129.505" offset="602214">We further conclude that any claim that counsel acted deficiently in choosing to file a brief pursuant to Wende or some other valid procedure, rather than file a merits brief, is governed by the well-established standards of Strickland versus Washington for determining ineffective assistance of counsel.</text>
+            <text syncTime="148.470" offset="678074">In such a case, the indigent appellate has not been deprived of counsel altogether, and there is therefore no reason to exempt that appellate from the usual requirement that he demonstrate prejudice from his counsel’s deficient conduct.</text>
+            <text syncTime="163.942" offset="739931">We remand for the Court of Appeals to apply Strickland to respondent’s claim.</text>
+            <text syncTime="169.414" offset="761874">Justice Stevens has filed a dissenting opinion in which Justice Ginsburg has joined; Justice Souter has filed a dissenting opinion in which Justice Stevens, Justice Ginsburg and Justice Breyer have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

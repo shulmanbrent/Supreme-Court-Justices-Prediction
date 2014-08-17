@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:51:27" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="827451">/xml/cases/2005/04_881/20051207o_04-881.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-881_20051207-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="184.790">
+        <title>Lockhart v. United States</title>
+        <section startTime="0.000" stopTime="184.790">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="8.891">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88290">Justice O’Connor has the opinion in No. 04-881, Lockhart versus United States.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="8.891" stopTime="184.790">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="8.891" offset="123817">This case comes to us on writ of certiorari to the Court of Appeals for the 9th Circuit.</text>
+            <text syncTime="14.352" offset="145655">It concerns the Government’s effort to withhold part of the petitioner’s Social Security benefits to offset his debt on federally reinsured student loans that are more than ten years overdue.</text>
+            <text syncTime="30.385" offset="209812">Whether the Government can do this is determined by a rather complicated interplay of four statutes.</text>
+            <text syncTime="38.310" offset="241472">First, we have two statutes about time limits.</text>
+            <text syncTime="41.337" offset="253593">The Debt Collection Act lets the Government collect debts by administrative offsets, subject to a general ten-year statute of limitations; but the Higher Education Technical Amendments of 1991 eliminate time limits on suits to collect student loans.</text>
+            <text syncTime="60.719" offset="331124">Next, we have two statutes about the Government’s ability to subject Social Security benefits to offset.</text>
+            <text syncTime="68.350" offset="361635">Social Security benefits are generally exempt from attachment or other legal process.</text>
+            <text syncTime="74.259" offset="385250">The Social Security Act purports to protect this anti-attachment rule with an express reference provision.</text>
+            <text syncTime="82.218" offset="417119">The statute says no other provision of law may be construed to modify this section except to the extent that it does so by express reference.</text>
+            <text syncTime="92.375" offset="457766">But the Debt Collection Improvement Act of 1996 subjects Social Security benefits to administrative offset, making express reference to the Social Security Act.</text>
+            <text syncTime="105.875" offset="511787">Now, petitioner here argued that the Debt Collection Act’s ten-year statute of limitations controlled, so the Government could not offset his Social Security benefits.</text>
+            <text syncTime="117.121" offset="556718">The 9th Circuit disagreed and held that the Higher Education Technical Amendments had eliminated that time limit as to student loans.</text>
+            <text syncTime="126.192" offset="592976">In an opinion filed today with the Clerk of the Court, we affirm the 9th Circuit’s judgment.</text>
+            <text syncTime="132.944" offset="620039">We hold that the 1991 and 1996 statutes make Social Security benefits subject to offset, providing exactly the sort of express reference the Social Security Act says is necessary to supersede the anti-attachment provision and remove the ten-year limit that we otherwise would say barred the Government’s action.</text>
+            <text syncTime="156.862" offset="715647">Debt collection by Social-Security offset was not authorized until 1996, five years after the abrogation of time limits; but the plain meaning of the Higher Education Technical Amendments must be given effect, even though Congress may not have foreseen all of its consequences.</text>
+            <text syncTime="175.688" offset="790984">We do not decide whether the Social Security Act’s express reference provision is valid.</text>
+            <text syncTime="181.777" offset="815330">Justice Scalia has filed a concurring opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

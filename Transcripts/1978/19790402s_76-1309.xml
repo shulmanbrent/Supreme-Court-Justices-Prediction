@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="542720">/xml/cases/1978/76_1309/19790402o_76-1309.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1978/trs/76-1309op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="135.611">
+        <title>United States v. Caceres</title>
+        <section startTime="0.000" stopTime="135.611" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice John Paul Stevens</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="9.454">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">Mr. Justice Stevens will announce the judgment and opinion of the Court in No. 1309, United States against Caceres.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="9.454" stopTime="133.930">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="9.454" offset="37721">This case presents the question whether evidence obtained in violation of Internal Revenue Service regulations may be admitted at the criminal trial of a taxpayer accused of bribing an Internal Revenue Service agent.</text>
+            <text syncTime="26.282" offset="105117">The Internal Revenue Service manual contains detailed procedures that must be followed before conversations between an agent and a taxpayer may be recorded electronically without the taxpayer's knowledge.</text>
+            <text syncTime="41.008" offset="163944">In this case, after an IRS agent had been offered a bribe by the respondent, he reported the matter to his immediate supervisor who thereafter directed him to record secretly certain future conversations with respondent.</text>
+            <text syncTime="55.977" offset="223817">Although an attempt was made to secure all of the approvals required by the regulations, there was a failure to obtain authorization from the Attorney General of the United States.</text>
+            <text syncTime="66.763" offset="266971">Accordingly, in the bribery prosecution which the government instituted in the District Court, responded filed a motion to suppress the tape recorded conversations.</text>
+            <text syncTime="77.558" offset="310230">The District Court held that the conversations had been obtained in violation of a valid regulation and therefore should be suppressed.</text>
+            <text syncTime="86.458" offset="345757">The Court of Appeals for the Ninth Circuit affirmed and we granted certiorari.</text>
+            <text syncTime="91.233" offset="364878">Although we accept the conclusion of the District Court and the Court of Appeals that the recordings were obtained in violation of agency regulations.</text>
+            <text syncTime="100.647" offset="402495">We hold that there was no violation of any of respondent's constitutional or statutory rights.</text>
+            <text syncTime="107.346" offset="429349">We reject respondent's contention that exclusion is always an appropriate remedy whenever evidence is obtained in violation of a valid regulation.</text>
+            <text syncTime="117.253" offset="468950">And further hold that the circumstances involved in this case do not justify the suppression remedy.</text>
+            <text syncTime="123.960" offset="495804">We therefore reverse the judgment of the Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="128.640" offset="514508">Mr. Justice Marshall has filed a dissenting opinion in which Mr. Justice Brennan has joined.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="133.930" stopTime="135.611">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="133.930" offset="535719">Thank you Mr. Justice Stevens.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

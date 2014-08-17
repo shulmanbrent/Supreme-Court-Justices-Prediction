@@ -1,0 +1,31 @@
+<transcript verified="true">
+      <history>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="310045">/xml/cases/2012/11_465/20130220o_11-465.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/11-465_20130220-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="50.568">
+        <title>Johnson v. Williams</title>
+        <section startTime="0" stopTime="50.568">
+          <heading>Opinion Announcement of Samuel A. Alito, Jr.</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="6.130">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="107520">And Justice Alito has our opinion in Case No. 11-465, Johnson vs. Williams.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="6.130" stopTime="50.568">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="6.130" offset="131971">The question in this case concerns the meaning of the phrase “adjudicated on the merits and the provision of the federal habeas statute”.</text>
+            <text syncTime="13.454" offset="161332">This question, which implicates the standard of review in federal habeas proceedings, arises when a state court is arguably presented with a federal claim but does not address that claim in an opinion that, while denying relief, discusses other claims.</text>
+            <text syncTime="28.605" offset="221936">Applying our decision in Harrington versus Richter, we hold that in these circumstances, there is a strong but rebuttable presumption that the federal claim was adjudicated on the merits.</text>
+            <text syncTime="38.986" offset="263419">We further hold that this presumption was not rebutted in the present case.</text>
+            <text syncTime="43.438" offset="281182">Therefore, the decision of the Ninth Circuit is reversed.</text>
+            <text syncTime="46.947" offset="295288">Justice Scalia has filed an opinion concurring in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

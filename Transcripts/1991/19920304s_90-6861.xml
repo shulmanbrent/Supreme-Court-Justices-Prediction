@@ -1,0 +1,43 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1992-03-04</transcribed>
+        <edit user="tschaefer" date="2012-08-14T20:38:40" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <identified user="tschaefer">2012-08-14</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:28:59" startTime="0.000" oldSpeaker="harry_a_blackmun" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="579127">/xml/cases/1991/90_6861/19920304o_90-6861.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1991/90-6861_19920304-opinion.xml</sourceFile>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="122.070">
+        <title>McCarthy v. Madigan</title>
+        <section startTime="0.000" stopTime="9.094">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.094">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90846">The opinion of the Court in No. 90-6861, Mccarthy against Madigan will be announced by Justice Blackmun.</text>
+          </turn>
+        </section>
+        <section startTime="9.094" stopTime="122.070">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="harry_a_blackmun" startTime="9.094" stopTime="122.070">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="9.094" offset="127208">This case comes to us from the Court of Appeals for the Tenth Circuit.</text>
+            <text syncTime="14.153" offset="147375">Petitioner, Mccarthy, when he was a federal prisoner sued the respondent, prison officials, for damages for alleged violations of his Eighth Amendment rights due, it was said, to deliberate indifference to his needs in medical condition resulting from a back operation and psychiatric problems.</text>
+            <text syncTime="35.918" offset="234415">And this was a case of the kind represented by what we call the Bivens decision here a few years ago.</text>
+            <text syncTime="44.367" offset="268270">The District Court dismissed the compliant on the ground that petitioner had failed to exhaust his administrative remedies provided by the Bureau of Prisons, and that included rapid filing and response time tables with no provision for a hearing on the granting of any particular type of relief.</text>
+            <text syncTime="64.108" offset="347264">Petitioner further argued that the exhaustion was not required because he sought only money damages which the Bureau could not provide anyway.</text>
+            <text syncTime="73.242" offset="383731">The Court of Appeals affirmed.</text>
+            <text syncTime="75.402" offset="392404">In an opinion filed with the Clerk today, we reverse that judgment.</text>
+            <text syncTime="79.592" offset="409122">We hold that exhaustion of the Bureau's administrative procedures not required before a federal prisoner can initiate a Bivens action solely for money damages.</text>
+            <text syncTime="90.885" offset="454366">Federal Courts must exercise sound judicial discretion in these circumstances by balancing the plaintiff's interest in prompt access to a federal judicial forum against institutional interest favoring exhaustion.</text>
+            <text syncTime="104.500" offset="508805">Here, Congress does not require exhaustion and Mccarthy's individual interest outweigh the institutional interest.</text>
+            <text syncTime="112.047" offset="539003">The Chief Justice has filed a separate opinion concurring in the judgment and is joined therein by Justice Scalia and Justice Thomas.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,36 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="427314">/xml/cases/1977/76_5761/19780228o_76-5761.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1977/trs/76-5761op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="86.800">
+        <title>Simpson v. United States</title>
+        <section startTime="0.000" stopTime="86.800" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice William J. Brennan, Jr.</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="9.722">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="79990">The judgment and opinion of the court in Simpson against United States to related cases, will be announced by Mr. Justice Brennan.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="9.722" stopTime="83.989">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="9.722" offset="118860">The petitioners in this case were convicted of committing a bank robbery with firearms.</text>
+            <text syncTime="19.210" offset="156790">And in consequence they were given enhanced sentences under statute that provides for enhanced sentences for bank robberies I quote the statute "by the use of a dangerous weapon or device.”</text>
+            <text syncTime="34.694" offset="218752">But there is another statute that provides generally that it is a crime to use a firearms to commit any felony prosecutable in a court of the United States.</text>
+            <text syncTime="46.434" offset="265668">The petitioners at the same trial were also convicted and sentenced to consecutive sentences under that statute.</text>
+            <text syncTime="56.203" offset="304748">The Court of Appeals for the Sixth Circuit affirmed the conviction, but we reverse.</text>
+            <text syncTime="62.232" offset="328885">We hold that in a prosecution going out of a single bank robbery with firearms and accused may not be sentenced under both the enhancement provision of the bank robbery statute and under the Firearm statute.</text>
+            <text syncTime="79.398" offset="397534">Mr. Justice Rehnquist dissents has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="83.989" stopTime="86.800">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="83.989" offset="415925">Thank you, Mr. Justice Brennan.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

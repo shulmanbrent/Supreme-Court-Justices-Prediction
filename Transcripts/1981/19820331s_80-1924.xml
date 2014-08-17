@@ -1,0 +1,32 @@
+<transcript>
+      <history/>
+      <resources>
+        <audioFile size="401567">/xml/cases/1981/80_1924/19820331o_80-1924.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1981/trs/80-1924op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="80.997">
+        <title>Weinberger v. Rossi</title>
+        <section startTime="0" stopTime="80.997">
+          <heading>Opinion Announcement of Warren E. Burger</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="9.046">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="77440">The judgments and opinion of the Court in Weinberger, the Secretary of Defense against Rossi will be announced by Justice Rehnquist.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="9.046" stopTime="79.637">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="9.046" offset="113593">Section 106 of Public Law Number 92-129 enacted in 1971 prohibits employment discrimination against United States citizens on military basis overseas unless permitted by “treaty”.</text>
+            <text syncTime="25.583" offset="179736">The question in this case is whether the word treaty is used in the 1971 Act includes executive agreements concluded by the President with the host country or whether instead it is limited to those international agreements entered into by the President when the advice and consent of the Senate pursuant to Article II of the United States Constitution.</text>
+            <text syncTime="45.773" offset="260506">The United States Court of Appeals for the District of Columbia Circuit held that the statutory language in question included only Article II treaties.</text>
+            <text syncTime="54.339" offset="294779">Our examination of the legislative history, the meaning of the language Congress used and other applicable canons of construction leads us to a different conclusion.</text>
+            <text syncTime="64.925" offset="337097">In an opinion filed today with the clerk, we hold that the word treaty in Section 106 embraces executive agreements such as we're involved in this case as well as Article II treaties.</text>
+            <text syncTime="76.119" offset="381819">The judgment of the Court of Appeals is therefore reversed.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="79.637" stopTime="80.997">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="79.637" offset="395925">Thank you, Justice Rehnquist.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

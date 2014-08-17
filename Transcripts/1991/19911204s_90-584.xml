@@ -1,0 +1,36 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1991-12-04</transcribed>
+        <edit user="tschaefer" date="2012-08-14T20:27:24" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="byron_r_white"/>
+        <identified user="tschaefer">2012-08-14</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:27:41" startTime="0.000" oldSpeaker="byron_r_white" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="221884">/xml/cases/1991/90_584/19911204o_90-584.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1991/90-584_19911204-opinion.xml</sourceFile>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="32.758">
+        <title>Southwest Marine, Inc. v Gizoni</title>
+        <section startTime="0.000" stopTime="4.544">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="4.544">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90854">The opinions of the Court in two cases will be announced by Justice White.</text>
+          </turn>
+        </section>
+        <section startTime="4.544" stopTime="32.758">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="byron_r_white" startTime="4.544" stopTime="32.758">
+            <label>Justice Byron R. White</label>
+            <text syncTime="4.544" offset="108931">The first of these is Southwest Marine Incorporated against Gizoni.</text>
+            <text syncTime="11.718" offset="137665">It is No. 90-584.</text>
+            <text syncTime="14.970" offset="150727">For the reasons stated in an opinion on file with the Court, the judgment of the Court of Appeals for the Ninth Circuit is affirmed.</text>
+            <text syncTime="23.328" offset="184163">Justice Thomas took no part in the consideration or decision of that case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,511 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-02T14:34:51" startTime="138.741" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <edit user="jgoldman" date="2014-04-02T14:34:51" startTime="173.628" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <edit user="jgoldman" date="2014-04-02T14:34:52" startTime="180.901" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <edit user="jgoldman" date="2014-04-02T14:34:53" startTime="199.445" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <edit user="jgoldman" date="2014-04-02T14:34:56" startTime="214.705" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="jgoldman" date="2014-04-02T14:34:58" startTime="256.116" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="jgoldman" date="2014-04-02T14:34:59" startTime="268.708" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:01" startTime="284.985" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:02" startTime="307.333" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:02" startTime="335.734" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:04" startTime="365.287" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:05" startTime="383.917" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:05" startTime="389.820" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:16" startTime="1226.883" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:18" startTime="1258.768" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:18" startTime="1267.557" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:19" startTime="1286.187" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:20" startTime="1335.085" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:22" startTime="1397.009" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:23" startTime="1434.817" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <edit user="jgoldman" date="2014-04-02T14:35:24" startTime="1562.617" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-02</identified>
+      </history>
+      <resources>
+        <audioFile size="8269528">/xml/cases/1987/86_6124/19880302a_86-6124.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-6124_19880302-argument.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="thomas_m_carpenter" type="advocate" gender="male" path="/advocates/tc/thomas_m_carpenter" image="/advocates/tc/thomas_m_carpenter/thumbnail.jpg">Thomas M. Carpenter</speaker>
+        <speaker id="richard_j_lazarus" type="advocate" gender="male" path="/advocates/rl/richard_j_lazarus" image="/advocates/rl/richard_j_lazarus/thumbnail.jpg">Richard J. Lazarus</speaker>
+        <speaker id="j_steven_clark" type="advocate" gender="male" path="/advocates/jc/j_steven_clark" image="/advocates/jc/j_steven_clark/thumbnail.jpg">J. Steven Clark</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="2036.091">
+        <title>Bennett v. Arkansas</title>
+        <section startTime="0.000" stopTime="674.622">
+          <heading>Argument of Thomas M. Carpenter</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="12.241">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="117106">We'll hear argument now in Number 86-6124, George S. Bennett v. Arkansas.</text>
+            <text syncTime="9.772" offset="156185">Mr. Carpenter, you may proceed whenever you're ready.</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="12.241" stopTime="138.741">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="12.241" offset="166007">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="15.176" offset="177710">The issue before the Court today is whether a federal statute that precludes attachment of social security benefits bars a state's attempt to attach those benefits in order to reimburse itself for providing care and maintaining a prisoner in custody.</text>
+            <text syncTime="30.952" offset="240822">Mr. Bennett, Petitioner, believes that pursuant to the Supremacy Clause in Article VI, Clause II 0of the Constitution, the federal statute prevails.</text>
+            <text syncTime="39.625" offset="275513">To that end, Mr. Bennett urges this Court to reverse the decision of the Arkansas Supreme Court to the contrary.</text>
+            <text syncTime="45.962" offset="300904">The factual matter is that Mr. Bennett is a sixty-nine-year old social security pensioner.</text>
+            <text syncTime="51.216" offset="321906">He received retirement benefits because he worked sufficient quarters to be eligible for those benefits.</text>
+            <text syncTime="57.187" offset="345834">He was serving a term of twenty-one years in the Arkansas Department of Correction on a conviction in murder in the second degree.</text>
+            <text syncTime="64.941" offset="376868">While he was in the Department of Correction, he began drawing these benefits at approximately the rate of $282 per month.</text>
+            <text syncTime="72.529" offset="407170">In 1981, the State of Arkansas passed a state reimbursement statute which is Act 715.</text>
+            <text syncTime="80.452" offset="438830">The Act became effective in June of 1981.</text>
+            <text syncTime="83.737" offset="451996">In January of 1983, the state filed suit against Mr. Bennett and two other Petitioners asking that they be forced to reimburse the state for their cost of care.</text>
+            <text syncTime="95.045" offset="497240">In April of 1983, the Congress passed a statute that cut off benefits to prisoners entirely.</text>
+            <text syncTime="102.716" offset="527960">In November of '83, there was a consolidated answer by the parties.</text>
+            <text syncTime="106.602" offset="543424">Briefs were filed in 1984.</text>
+            <text syncTime="108.902" offset="552619">In December of 1984, prior to the case finally being decided but after the Court had entered an order seizing these funds, Mr. Bennett was released from incarceration.</text>
+            <text syncTime="120.260" offset="598073">A judgment came down in 1985 and then the judgement ordered that the monies continued to be held pending outcome of any litigation.</text>
+            <text syncTime="128.366" offset="630569">Specifically raised in the trial court was the question of whether under the Supremacy Clause, the federal exemption statute for social security benefits preempted the state reimbursement statute.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="138.741" stopTime="148.679">
+            <label>Justice O'Connor</label>
+            <text syncTime="138.741" offset="672051">Mr. Carpenter, now, is there any money at issue here that would be governed by the passage of the 1983 amendments?</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="148.679" stopTime="173.628">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="148.679" offset="711757">Yes, Your Honor.</text>
+            <text syncTime="149.912" offset="716668">There is approximately some place between $10 and $1800 pre-1983 and there is approximately an equal amount after the 1983 statutes.</text>
+            <text syncTime="159.487" offset="755016">However, Mr. Bennett's monies were treated as an over-payment by the Social Security Department.</text>
+            <text syncTime="165.641" offset="779571">Those monies have been returned to the Social Security through withholding of his future payments which began again upon his release in December of 1984.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="173.628" stopTime="178.532">
+            <label>Justice O'Connor</label>
+            <text syncTime="173.628" offset="811545">So, if you prevail, he will get reimbursed eventually, is that what would happen?</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="178.532" stopTime="180.901">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="178.532" offset="831189">Yes, Your Honor.</text>
+            <text syncTime="179.032" offset="833175">He will.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="180.901" stopTime="186.054">
+            <label>Justice O'Connor</label>
+            <text syncTime="180.901" offset="840698">And is Petitioner Shelton a party now?</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="186.054" stopTime="199.445">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="186.054" offset="861282">No, Your Honor.</text>
+            <text syncTime="186.854" offset="864522">Petitioner Shelton would never complete an affidavit of indigence during the course of litigation.</text>
+            <text syncTime="194.827" offset="896391">He was released and I lost all contact with him afterwards.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="199.445" stopTime="210.420">
+            <label>Justice O'Connor</label>
+            <text syncTime="199.445" offset="914886">So, he's not before us at all, and all we have is the case involving reimbursement to a prisoner with social security benefits, is that right?</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="210.420" stopTime="214.705">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="210.420" offset="958771">Yes, Your Honor.</text>
+            <text syncTime="211.053" offset="961279">That's the issue before the Court today.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="214.705" stopTime="222.245">
+            <label>Justice Scalia</label>
+            <text syncTime="214.705" offset="975908">I guess I still don't understand.</text>
+            <text syncTime="216.407" offset="982699">Will he get money or are you challenging the post-1983 money as well?</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="222.245" stopTime="256.116">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="222.245" offset="1006001">I am at this time, Your Honor, for this reason: the money collected from May 1983 until his release in December of 1984 were social security benefits.</text>
+            <text syncTime="232.750" offset="1048006">He was ineligible for them, but rather than treat them in any other way, Social Security treated it merely as an over-payment.</text>
+            <text syncTime="239.522" offset="1075173">When he became eligible again for social security payments in January of 1985, after his release, the Social Security Department attached his future payments.</text>
+            <text syncTime="249.228" offset="1113939">So, all of the monies being held now really are social security monies that Mr. Bennett should have received personally at one time or another.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="256.116" stopTime="268.506">
+            <label>Justice Scalia</label>
+            <text syncTime="256.116" offset="1141524">Well, post-May '83, he shouldn't have received it, and it seems to me your complaint is that the state should not have taken them.</text>
+            <text syncTime="267.339" offset="1186455">I mean,--</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="268.506" stopTime="268.708">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="268.506" offset="1191052">That's right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="268.708" stopTime="284.385">
+            <label>Justice Scalia</label>
+            <text syncTime="268.708" offset="1191888">--And, therefore, there should be no over-payment charged against his future payments.</text>
+            <text syncTime="278.147" offset="1229609">Right?</text>
+            <text syncTime="280.197" offset="1237864">You're saying the state should return the over-payment rather than his returning the over-payment.</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="284.385" stopTime="284.985">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="284.385" offset="1254582">That's right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="284.985" stopTime="298.026">
+            <label>Justice Scalia</label>
+            <text syncTime="284.985" offset="1256985">But you're not saying he was entitled to any money after 1983, you're just saying he shouldn't be charged after he was released for payments which he never received post-1983.</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="298.026" stopTime="307.333">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="298.026" offset="1309126">Your Honor, I'm not sure that I've made myself clear.</text>
+            <text syncTime="300.295" offset="1318216">He continued to receive payments from May '83 to December of '84, because Social Security did not cut them off like they should have.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="307.333" stopTime="308.116">
+            <label>Justice Scalia</label>
+            <text syncTime="307.333" offset="1346428">Right.</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="308.116" stopTime="335.734">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="308.116" offset="1349563">That was treated as an over-payment from Social Security to Mr. Bennett.</text>
+            <text syncTime="312.718" offset="1367953">Mr. Bennett was eligible again for benefits when he was released.</text>
+            <text syncTime="317.706" offset="1387911">Social Security recouped this over-payment from him by deducting the money from future payments.</text>
+            <text syncTime="323.510" offset="1411108">I do not contend that the money should go from the prison to Social Security.</text>
+            <text syncTime="327.830" offset="1428348">I contend upon release they should go from the prison to Mr. Bennett because they are his monies now.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="335.734" stopTime="361.301">
+            <label>Justice Scalia</label>
+            <text syncTime="335.734" offset="1460009">What should go to him is not the money between May of '83 and the time he was released.</text>
+            <text syncTime="343.340" offset="1490415">That's not what should go to him.</text>
+            <text syncTime="344.624" offset="1495535">What you're really asking for is the money that should have gone to him after his release.</text>
+            <text syncTime="349.827" offset="1516329">You're saying there shouldn't have been any charges against that money.</text>
+            <text syncTime="352.195" offset="1525837">You don't claim any entitlement on his part to money between May of '83 and the time he was released.</text>
+            <text syncTime="358.766" offset="1552169">You do not claim he was entitled to any money then, do you?</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="361.301" stopTime="365.287">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="361.301" offset="1562304">Not on the basis of the statute.</text>
+            <text syncTime="362.718" offset="1567947">No, Your Honor.</text>
+            <text syncTime="364.670" offset="1575784">The--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="365.287" stopTime="374.209">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="365.287" offset="1578187">What will happen if monetarily, if this Court reverses the judgment of the Supreme Court of Arkansas, what will Mr. Bennett get?</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="374.209" stopTime="383.917">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="374.209" offset="1613922">--He will get $3,600 which is currently being held, and under the judgment, he will get the interest that's been accruing on that money since the date of the judgment.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="383.917" stopTime="388.802">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="383.917" offset="1652688">And if we affirm the judgment of the Supreme Court by Arkansas, the State of Arkansas will get that $3,600?</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="388.802" stopTime="389.820">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="388.802" offset="1672228">Plus the interest.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="389.820" stopTime="391.020">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="389.820" offset="1676303">Okay.</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="391.020" stopTime="674.622">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="391.020" offset="1681109">The Supremacy Clause is called into question in this particular case because there's a clear conflict in the text of the state reimbursement statute with the federal pre-emption statute.</text>
+            <text syncTime="402.712" offset="1727921">The federal pre-emption statute holds that the entitlement to payments at present or in the future are not subject to levy, attachment, garnishment or other legal process.</text>
+            <text syncTime="412.734" offset="1767940">Yet, the state reimbursement statute expressly defines the estate of a prisoner to include social security benefits.</text>
+            <text syncTime="421.090" offset="1801377">Now, when you have a direct conflict between a federal statute and a state statute, as is present in this case, this Court has consistently held that the federal statute must fall under the Supremacy Clause argument.</text>
+            <text syncTime="435.099" offset="1857488">The Arkansas Supreme Court has never recognized or has never articulated the fact that there is a direct conflict between the state statute and the federal statute.</text>
+            <text syncTime="444.539" offset="1895209">Instead, the Arkansas Supreme Court suggested that it could ignore the plain textual conflict and move into a determination as to whether the purpose of the federal statute met the purpose of the state statute.</text>
+            <text syncTime="456.930" offset="1944737">It's our contention, first, that that was an inappropriate thing to do and that the case should have stopped at the recognition of the clear conflict in the language.</text>
+            <text syncTime="465.369" offset="1978487">However, even if we go to the second step and get into the purpose of the particular statutes, it's clear that the Arkansas Supreme Court did not correctly decide this issue.</text>
+            <text syncTime="475.510" offset="2019134">The purpose of social security statutes is to provide benefits to beneficiaries who have qualified for them.</text>
+            <text syncTime="481.930" offset="2044734">In the retirement sense, it is effectively an annuity-type contract.</text>
+            <text syncTime="485.616" offset="2059467">You make forced payments from your payroll and in exchange, you are guaranteed payments at the end.</text>
+            <text syncTime="491.186" offset="2081828">But Congress recognized at the time that it passed this that it had the right to take these benefits away entirely.</text>
+            <text syncTime="497.507" offset="2107114">It could at any moment with the stroke of a pen say social security is no longer available to the citizens of the United States, and partly for that reason, as this Court recognized in Hisquierdo, in a different type of benefit but same type of statute, the vulnerability of these particular benefits is such that the Court is unwilling to let these benefits or the Congress is unwilling to let these benefits be subject to attachment by any type of creditor.</text>
+            <text syncTime="522.924" offset="2208783">That's an important point here because it raises, I think, the mis-rationale of the Supreme Court of Arkansas.</text>
+            <text syncTime="530.911" offset="2240652">The purpose of social security is to provide for the benefit, the care and benefit and maintenance of the individual, but the purpose of the exemption statute is to assure that these benefits are not subjected to creditors, and that purpose is in conflict with the reimbursement statute that the state has passed because the state is merely a creditor trying to be repaid for providing care and maintenance to these individuals.</text>
+            <text syncTime="557.145" offset="2345664">The cost of care is defined as food, clothing, medical care and normal living expenses.</text>
+            <text syncTime="564.401" offset="2374608">However, the reimbursement statute goes further.</text>
+            <text syncTime="568.020" offset="2389132">It permits costs of care to include other things because it discusses it in terms of per capita basis later on in the statute, which can mean the cost of providing guards, which is not a social security purpose.</text>
+            <text syncTime="580.078" offset="2437406">It also provides in the statute that if there is some sort of contempt citation involved, then the cost of that can be taken from these monies, which is not a social security purpose.</text>
+            <text syncTime="590.801" offset="2480247">It also provides that the cost of investigation to find out if the individual has these funds in the first place is the type of cost that can be reimbursed, and that is not a social security purpose.</text>
+            <text syncTime="601.924" offset="2524760">The key to the matter is that neither on the face of the language or the purpose behind the particular statutes are the Arkansas statutes and the federal exemption statutes reconcilable.</text>
+            <text syncTime="614.501" offset="2575019">They are in clear conflict.</text>
+            <text syncTime="616.367" offset="2582543">Now, the reason we have our form of government is because we had to recognize at some point the Federal Government must prevail, and for that reason, we have a Supremacy Clause in our Constitution, and this is a prime example as to why the statute in Arkansas must fall to the extent that it permits attachment of these federal benefits.</text>
+            <text syncTime="637.949" offset="2668851">We would like to conclude with this short note.</text>
+            <text syncTime="644.020" offset="2693093">If the case is reversed, this is merely another case in a long line of cases on Supremacy Clause litigation, and at most would be a case note in our constitutional law textbooks.</text>
+            <text syncTime="654.959" offset="2736874">But if the case is affirmed, it becomes a dagger with which to shred the fabric that has protected the federal-state relationship since our country was founded 200 years ago, and then it becomes a chapter in our common law textbooks and a very dangerous step towards ruining federalism.</text>
+            <text syncTime="671.420" offset="2802703">If I may reserve the balance of my time for any rebuttal.</text>
+          </turn>
+        </section>
+        <section startTime="674.622" stopTime="1042.880">
+          <heading>Argument of Richard J. Lazarus</heading>
+          <turn speaker="william_h_rehnquist" startTime="674.622" stopTime="698.321">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="674.622" offset="2815555">Thank you, Mr. Carpenter.</text>
+            <text syncTime="675.772" offset="2820153">We'll hear now from you, Mr. Lazarus.</text>
+          </turn>
+          <turn speaker="richard_j_lazarus" startTime="698.321" stopTime="1042.880">
+            <label>Mr. Richard J. Lazarus</label>
+            <text syncTime="698.321" offset="2910327">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="701.440" offset="2922866">What Arkansas seeks to accomplish here is the very thing barred by Section 207 of the Social Security Act.</text>
+            <text syncTime="708.094" offset="2949406">The attachment and seizure of social security benefits.</text>
+            <text syncTime="711.313" offset="2962259">The textual conflict in our view is head-on.</text>
+            <text syncTime="714.366" offset="2974484">There is no ambiguity in either the federal or the state law.</text>
+            <text syncTime="718.151" offset="2989635">Section 207 provides that social security benefits shall not be subject to attachment or other legal process, but that is precisely what Arkansas sought in its complaint, what was ordered by the trial court, and what was held to be permissible by the Arkansas Supreme Court.</text>
+            <text syncTime="734.328" offset="3054314">Contrary to Arkansas' claim, Section 207 contains no implied exemption for a state that is seeking reimbursement for costs it incurred in providing for another individual's basic needs.</text>
+            <text syncTime="746.636" offset="3103633">This Court's decision, we believe, in Philpott v. Essex County Welfare Board settled that issue.</text>
+            <text syncTime="752.040" offset="3125263">The Court concluded there that it saw</text>
+            <text syncTime="753.907" offset="3132682">"no reason why a state performing its statutory duty to take care of the needy should be in a preferred position as compared to any other creditor. "</text>
+            <text syncTime="763.280" offset="3170193">The Court expressly or necessarily rejected practically all the limiting principles upon which Respondent relies in this case.</text>
+            <text syncTime="770.536" offset="3199242">No exception to Section 207 was found for state creditors, for creditors who provide basic needs, including those obliged by state law to do so, or for creditors whose debtors did not need the federal monies to meet their basic needs.</text>
+            <text syncTime="784.761" offset="3256084">No meaningful distinction exists between this case and Philpott.</text>
+            <text syncTime="788.498" offset="3271026">The only difference between the two cases is that here the state was performing its statutory duty to take care of the imprisoned, rather than a statutory duty to take care of the financially needy.</text>
+            <text syncTime="797.936" offset="3308747">It is a difference of no legal significance in the context of Section 207.</text>
+            <text syncTime="801.988" offset="3325047">There is no more reason to place the state outside the scope of the anti-attachment provision.</text>
+            <text syncTime="807.376" offset="3346572">Indeed, the state's claim in Philpott to a certain extent was arguably stronger than this case because there, unlike here, the individual expressly agreed in advance to reimburse the state and at the state's behest had applied for social security benefits presumably to that end.</text>
+            <text syncTime="823.386" offset="3410624">Respondent in certain lower courts suggests one other possible ground for distinction.</text>
+            <text syncTime="827.790" offset="3428179">They argue that Section 207 does not apply to claims against the individual's estate when the claimant has legal custody of the individual.</text>
+            <text syncTime="835.561" offset="3459317">The statutory language, however, makes no such distinction.</text>
+            <text syncTime="838.930" offset="3472796">It does not deprive one of legal custody of its federal right under Section 207 to control the disbursement of a social security benefit.</text>
+            <text syncTime="847.286" offset="3506233">We do not deny that certain equities favor the state's position in this case.</text>
+            <text syncTime="851.488" offset="3523055">Section 207, however, does not call for or allow for a balancing of the equities.</text>
+            <text syncTime="856.492" offset="3543013">To the extent that any inequity exists, an application of 207, only Congress can revisit the issue.</text>
+            <text syncTime="863.546" offset="3571225">In fact, Congress has done so to a limited extent, but Congress did not choose Arkansas' preferred solution.</text>
+            <text syncTime="870.819" offset="3600378">Congress determined instead that to the extent that an inequity is presented, when the individual is in a penal institution, the correct answer is that the Federal Government and not the states will get the money.</text>
+            <text syncTime="881.590" offset="3643428">Congress did not lift the anti-assignment bar.</text>
+            <text syncTime="884.542" offset="3655235">Congress, instead, concluded that incarcerated felons should not receive their social security benefits in the first instance.</text>
+            <text syncTime="892.498" offset="3687000">Finally, this Court's decision last term in Rose v. Rose does not suggest otherwise.</text>
+            <text syncTime="898.052" offset="3709256">Rose, unlike this case, involves a preemption challenge to state family law, did not purport to question at all the Court's decision in Philpott.</text>
+            <text syncTime="906.242" offset="3742066">The Court simply concluded that a similarly-worded anti-attachment provision regarding veterans' disability benefits was not implicated by a claim for child support because Congress had intended that the children of veterans, too, should receive those benefits.</text>
+            <text syncTime="921.834" offset="3804342">There is no comparable expression of congressional intent that state penal institutions should receive the federal monies.</text>
+            <text syncTime="928.238" offset="3830046">The financial claims of the state penal institutions, therefore, are not comparable to the claims of the children arose.</text>
+            <text syncTime="934.242" offset="3853975">Arkansas, therefore, may charge a prisoner for the cost of his care.</text>
+            <text syncTime="938.713" offset="3871947">It may, of course, generally use legal process against the prisoner's estate to recover those charges, but federal social security benefits are simply out of bounds.</text>
+            <text syncTime="947.533" offset="3907160">They are not... they are immune from such legal process.</text>
+            <text syncTime="951.104" offset="3921475">Congress could have made an exception for state institutional care.</text>
+            <text syncTime="954.406" offset="3934641">Policy distinctions, we agree, do exist.</text>
+            <text syncTime="957.090" offset="3945403">In other contexts, Congress has chosen to make specific exceptions to the anti-assignment provision for this reason.</text>
+            <text syncTime="962.828" offset="3968391">But Congress has not done so here.</text>
+            <text syncTime="965.280" offset="3978213">In our view, that is simply the end of the matter.</text>
+            <text syncTime="968.398" offset="3990647">One other final point.</text>
+            <text syncTime="969.565" offset="3995349">In answer to a question posed by Justice O'Connor and Justice Scalia, with respect to the over-payment made here, it is the Government's view that Mr. Bennett is currently entitled to money in the bank account.</text>
+            <text syncTime="981.456" offset="4042892">After he was released from prison in December '84, HHS discovered in January '85 that he had wrongly received benefits while in prison.</text>
+            <text syncTime="990.812" offset="4080299">HHS proceeded to recoup payments prospectively for payments he was then entitled to for retirement benefits up until, I think, June of 1986.</text>
+            <text syncTime="1001.453" offset="4122827">At that time, HHS concluded that he had paid back everything that he had been over-paid.</text>
+            <text syncTime="1007.107" offset="4145501">HHS subsequently concluded in July of '86, about a year later, in June of '85, that he had not yet paid back all that he had been over-paid before.</text>
+            <text syncTime="1018.415" offset="4190745">HHS notified Mr. Bennett in September of '86 and proceeded to recoup again.</text>
+            <text syncTime="1024.117" offset="4213524">In October of '86, after receiving a protest and a request for a waiver from Mr. Bennett, under Section 404(b) of the Social Security Act, a waiver of over-payment, HHS decided to waive recoupment of the rest of the over-payment.</text>
+            <text syncTime="1039.411" offset="4274650">If there are no further questions.</text>
+          </turn>
+        </section>
+        <section startTime="1042.880" stopTime="1834.127">
+          <heading>Argument of J. Steven Clark</heading>
+          <turn speaker="william_h_rehnquist" startTime="1042.880" stopTime="1049.434">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1042.880" offset="4288548">Thank you, Mr. Lazarus.</text>
+            <text syncTime="1044.262" offset="4294086">We'll hear now from you, General Clark.</text>
+          </turn>
+          <turn speaker="j_steven_clark" startTime="1049.434" stopTime="1226.883">
+            <label>Mr. J. Steven Clark</label>
+            <text syncTime="1049.434" offset="4314775">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1051.886" offset="4324597">I submit to this Court that this case is a rather simple one in the sense that the Congress in enacting the Social Security Administration Act with retirement benefits said that its purpose was to provide for the food, clothing and necessary shelter for people who were approaching advancing age and not to have them experience the rigors of poverty.</text>
+            <text syncTime="1068.396" offset="4390634">The Arkansas statute adopted in 1981 really in a very direct respect had that same purpose.</text>
+            <text syncTime="1074.050" offset="4413204">It was furtherance of a logical purpose and goal for our state that was to see that felons, those guilty of felonious conduct, could not get windfall benefits by virtue of the fact that while they were being taken care of, their total care and maintenance being provided by the state, that, in fact, while that occurred, that they should not receive any windfall benefits and that those benefits should be applied in the nature and form of a reimbursement if, in fact, what Arkansas was doing was what the Congress intended to have done with those retirement benefits.</text>
+            <text syncTime="1104.437" offset="4534830">I submit to you that's what happened in this case with Petitioner Bennett.</text>
+            <text syncTime="1107.556" offset="4547264">Petitioner Bennett, as you have been told, committed second degree murder and was sentenced to twenty-one years in our institution.</text>
+            <text syncTime="1113.460" offset="4570879">In 1982, he turned sixty-two.</text>
+            <text syncTime="1116.579" offset="4583418">He voluntarily and without any compulsion from our state applied for retirement benefits.</text>
+            <text syncTime="1121.197" offset="4601808">We adopted a statute in 1981 recognizing what we thought was a bad public policy of committing such windfalls.</text>
+            <text syncTime="1128.136" offset="4629602">In 1983, Arkansas acting as, I submit to you, the state has the power to act, decided to try to recoup from Petitioner Bennett $4,000 that he had in terms of assets in contrast to some $27,000 that we had spent for his cost of incarceration.</text>
+            <text syncTime="1147.098" offset="4705462">Our statute specifically says this: reimbursement costs for food, clothing, shelter, medical and normal living expenses to the per capita amount that is to have been expended on that person incarcerated in just a correctional facility.</text>
+            <text syncTime="1161.457" offset="4762931">It does not permit us to collect above that amount.</text>
+            <text syncTime="1164.892" offset="4776619">In the instance of Petitioner Bennett, had he left our institution with $35,000 and we had been able to collect $27,000, he would have had an $8,000 check presented to him at the time of his departure.</text>
+            <text syncTime="1175.617" offset="4819565">It goes to exactly the amount that we, in fact, expend as a per capita cost, which I submit to this Court is consistent with what the Congress came back around to do in 1983.</text>
+            <text syncTime="1186.758" offset="4864077">When the Congress said in its amendments to the Social Security Act as to retirement benefits, that, in fact, that is a windfall, and that windfall should not occur.</text>
+            <text syncTime="1195.531" offset="4899186">Since that time, as you know, the Congress has made sure that those benefits do not flow.</text>
+            <text syncTime="1199.899" offset="4916636">In the instance of Petitioner Bennett, there was a mistake made by the Social Security Administration and by the State of Arkansas.</text>
+            <text syncTime="1206.069" offset="4941295">We stand ready here to tell this Court we will rectify that mistake if there has been any over-payment collected by us to which we owe the Social Security Administration.</text>
+            <text syncTime="1213.992" offset="4973060">In fact, until these briefs were filed with the Court, we simply were not aware of that.</text>
+            <text syncTime="1217.944" offset="4988838">I should tell you the state was not, but we stand ready to say that if there's been an over-payment and we've gotten a windfall benefit, it's our responsibility then to make the Social Security Administration whole.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1226.883" stopTime="1238.458">
+            <label>Justice O'Connor</label>
+            <text syncTime="1226.883" offset="5024574">And since the 1983 amendments, you concede that the state can't get any recoupment or take any portion of the benefits?</text>
+          </turn>
+          <turn speaker="j_steven_clark" startTime="1238.458" stopTime="1258.768">
+            <label>Mr. J. Steven Clark</label>
+            <text syncTime="1238.458" offset="5070863">For retirement benefits, yes, Your Honor.</text>
+            <text syncTime="1239.541" offset="5075251">I concede we cannot recoup from social security retirement benefits.</text>
+            <text syncTime="1242.410" offset="5086745">In fact, there is a department memo that says any social security retirement checks that are received by the department are to be returned to the Social Security Administration.</text>
+            <text syncTime="1250.681" offset="5119764">We only have forty-five inmates in our system, Your Honor, who are over the age of sixty-two at this point.</text>
+            <text syncTime="1255.383" offset="5138572">Our median age is about twenty-eight years in our correctional system.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1258.768" stopTime="1265.322">
+            <label>Justice Scalia</label>
+            <text syncTime="1258.768" offset="5152156">I'm glad to hear what you've just said, General Clark, because I couldn't see why this amount should be in dispute at all.</text>
+            <text syncTime="1263.422" offset="5170755">It seems to me pretty cut and dried.</text>
+          </turn>
+          <turn speaker="j_steven_clark" startTime="1265.322" stopTime="1267.557">
+            <label>Mr. J. Steven Clark</label>
+            <text syncTime="1265.322" offset="5178383">Your Honor, I think it is very cut and dry.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1267.557" stopTime="1285.002">
+            <label>Justice Scalia</label>
+            <text syncTime="1267.557" offset="5187264">Now, as to the rest of it, suppose I provide... suppose my elderly parents live with me and I provide all their food and lodging, would I be able to obtain their... a right to their social security payments?</text>
+          </turn>
+          <turn speaker="j_steven_clark" startTime="1285.002" stopTime="1286.187">
+            <label>Mr. J. Steven Clark</label>
+            <text syncTime="1285.002" offset="5257064">No, Your Honor, I think not.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1286.187" stopTime="1287.420">
+            <label>Justice Scalia</label>
+            <text syncTime="1286.187" offset="5261766">And why is that?</text>
+          </turn>
+          <turn speaker="j_steven_clark" startTime="1287.420" stopTime="1335.085">
+            <label>Mr. J. Steven Clark</label>
+            <text syncTime="1287.420" offset="5266781">I think the difference in the hypothetical you have offered and what we have in this case is that you've done that by a matter of choice.</text>
+            <text syncTime="1293.258" offset="5290082">On the Arkansas statutory scheme, we have an obligation to provide that food, care, shelter and normal living expenses and medical expenses to an inmate in our system.</text>
+            <text syncTime="1301.497" offset="5322997">But even if we chose as state policy to repeal that mandatory statutory scheme, we have a constitutional responsibility.</text>
+            <text syncTime="1308.518" offset="5351104">The District Courts of these United States have repeatedly told us in a lot of litigation, some of which has come to this Court, called Huddell v. Finney, what that responsibility is constitutionally under the Eighth Amendment, the Fourteenth Amendment, and how it's applied in terms of that total care and maintenance.</text>
+            <text syncTime="1322.111" offset="5405544">So, I think you can distinguish and there's a distinction in the hypothetical in the sense that in yours, Your Honor, you have voluntarily accepted that responsibility.</text>
+            <text syncTime="1329.847" offset="5436473">In ours, it is an obligation that's constitutionally mandated which we must live up to.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1335.085" stopTime="1359.467">
+            <label>Justice Scalia</label>
+            <text syncTime="1335.085" offset="5457370">Suppose I have obligations under state law to support my spouse and my wife becomes old and unable to take care of herself and I fulfill that obligation, provide her room, lodging, food and everything, am I then entitled to get the social security payment because I have an obligation to support her?</text>
+          </turn>
+          <turn speaker="j_steven_clark" startTime="1359.467" stopTime="1397.009">
+            <label>Mr. J. Steven Clark</label>
+            <text syncTime="1359.467" offset="5554964">No, Your Honor, I think not.</text>
+            <text syncTime="1361.419" offset="5562696">I think again the distinction in this case is that in the instance of Petitioner Bennett, when he voluntarily committed a criminal act and became a part of our system, We had a constitutional responsibility.</text>
+            <text syncTime="1373.126" offset="5609508">We stood in his place in the instance that what we did was fulfill the intent of Congress in a very narrow window of time, from June of '81 to May of '83.</text>
+            <text syncTime="1381.982" offset="5645034">In fact, there were only two cases of social security retirement benefits which the state attempted to attach in that period of time, and only in the instance of a person incarcerated in a penal facility in my state.</text>
+            <text syncTime="1394.540" offset="5695189">The statute does not go beyond that.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1397.009" stopTime="1413.370">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="1397.009" offset="5705116">Really, all you have shown so far, it seems to me, General Clark, is that perhaps if Congress had thought about this, it would have said that Arkansas' situation would be an exception to the anti-assignment statute, but you've got the flat language of the anti-assignment statute.</text>
+          </turn>
+          <turn speaker="j_steven_clark" startTime="1413.370" stopTime="1434.817">
+            <label>Mr. J. Steven Clark</label>
+            <text syncTime="1413.370" offset="5770526">I think, Your Honor, when you look at the plain language, you have to look at the test that I think is specifically identified in the Solicitor General's brief, which says that you look at... that our case is not barred.</text>
+            <text syncTime="1424.726" offset="5815979">Our statute is not deemed to be unconstitutional because you look at the language and the purpose to formulate the intent.</text>
+            <text syncTime="1430.749" offset="5840012">It's language plus that gets to what the intent was.</text>
+            <text syncTime="1434.117" offset="5853491">Congress--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1434.817" stopTime="1443.407">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="1434.817" offset="5856313">But, really, the spoken word, the language, if it's clear that that doesn't leave a whole lot of room for something else.</text>
+          </turn>
+          <turn speaker="j_steven_clark" startTime="1443.407" stopTime="1562.617">
+            <label>Mr. J. Steven Clark</label>
+            <text syncTime="1443.407" offset="5890690">--Well, Your Honor, this Court in Rose v. Rose could have taken that very same approach but did not.</text>
+            <text syncTime="1448.175" offset="5909707">This Court could have said the plain language says no letting, no attachment, you can't do that.</text>
+            <text syncTime="1453.078" offset="5929351">This Court didn't say that.</text>
+            <text syncTime="1454.780" offset="5936143">This Court said, well, wait a minute, there's a legitimate purpose being advanced.</text>
+            <text syncTime="1458.499" offset="5951085">That is, the state has the power and the duty to advance laws concerning domestic relations.</text>
+            <text syncTime="1463.386" offset="5970624">I submit to you that that's the same in the area of corrections and criminal law.</text>
+            <text syncTime="1467.855" offset="5988492">That the State of Arkansas in 1981 had legitimate power and authority to advance a purpose, to say that it was wrong for a felon to be the windfall beneficiary of his criminal acts, and in that instance, we adopted a statute that in its application applied to the estate of those persons incarcerated for their tangible and intangible benefits or assets to include social security.</text>
+            <text syncTime="1488.585" offset="6071353">After those '83 amendments, we specifically said you cannot or you no longer can stand in the place of that recipient because what we had done prior to that was simply say we were doing what the congressional intent was from the beginning.</text>
+            <text syncTime="1504.178" offset="6133733">We were giving the total care and maintenance for this individual.</text>
+            <text syncTime="1507.832" offset="6148362">In fact, frankly, we did more than that, but that's not the test.</text>
+            <text syncTime="1511.201" offset="6161841">The test is were we doing what the Congress wanted done, and I submit to you that we did, and we constitutionally could do that in terms of defining our own roles and purpose for criminal law and corrections.</text>
+            <text syncTime="1523.775" offset="6212205">This case is one in which I submit to you that it's nothing more than a traditional role of the state acting in an area where the state has the power to act.</text>
+            <text syncTime="1530.328" offset="6238327">Because our state formed this policy with this purpose, if you're going to commit a felonious act and you're going to, because of that, become a burden to the state and its taxpayers, they should not have to suffer that burden if, in fact, they fulfill what was in this small window of time the intent of Congress in providing for these total care and maintenance of these inmates.</text>
+            <text syncTime="1550.009" offset="6317113">This policy adopted by Arkansas was consistent with the later amendments.</text>
+            <text syncTime="1553.878" offset="6332577">You might say to some degree, we're just twenty-four months ahead of our time, that Congress came back and said you're right, this is a windfall and it's wrong.</text>
+            <text syncTime="1561.050" offset="6361207">So, in this small window, the--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1562.617" stopTime="1566.538">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="1562.617" offset="6367477">Congress also said you're wrong in thinking you get it, we get it.</text>
+          </turn>
+          <turn speaker="j_steven_clark" startTime="1566.538" stopTime="1834.127">
+            <label>Mr. J. Steven Clark</label>
+            <text syncTime="1566.538" offset="6383255">--Yes, that's correct, Your Honor.</text>
+            <text syncTime="1568.071" offset="6389315">That is correct, and the Congress said that's our and they did say the state should not receive it, that that should stay in the social security trust fund.</text>
+            <text syncTime="1574.524" offset="6415124">I admit that readily.</text>
+            <text syncTime="1576.309" offset="6422334">But what I would also say to you is that the Congress didn't prohibit that prior to the '83 amendments.</text>
+            <text syncTime="1581.178" offset="6441769">When they came back in '83, they got very specific.</text>
+            <text syncTime="1583.380" offset="6450546">No longer will the retirement benefits flow, no longer.</text>
+            <text syncTime="1586.349" offset="6462458">Disability.</text>
+            <text syncTime="1587.201" offset="6465906">They will only flow if, in fact, the person who has received a disability benefit has these things which will occur: (1) the program was specifically approved by the Court, (2) that the person would get training that when they were released would give them gainful employment.</text>
+            <text syncTime="1602.294" offset="6526197">It was not the sixty-two-year old person we're talking about.</text>
+            <text syncTime="1604.477" offset="6534974">Thirty-five year old person they were talking about.</text>
+            <text syncTime="1607.413" offset="6546677">And (3) the Congress said that in the instance you have to have a reasonable opportunity to be released shortly so, in fact, this training will benefit you.</text>
+            <text syncTime="1615.518" offset="6579173">Congress was very explicit, but prior to those '83 amendments, the congressional intent, I think, was not frustrated at all by the Arkansas statute at all.</text>
+            <text syncTime="1624.974" offset="6616998">In fact, I would say to this Court that this case is distinguished from Philpott and in the instance that Philpott, there was a voluntary duty and one that was conditioned.</text>
+            <text syncTime="1633.813" offset="6652316">Our response is not conditioned.</text>
+            <text syncTime="1635.432" offset="6658794">In the Philpott case, you found with that statute that the person who received the benefits at the time the benefits were granted were told upon this condition, you shall receive.</text>
+            <text syncTime="1645.304" offset="6698291">That's not what our statute says.</text>
+            <text syncTime="1648.073" offset="6709367">Statutory in terms of corrections or that's not what the courts of these United States have taught us about corrections in terms of care and maintenance of inmates.</text>
+            <text syncTime="1654.559" offset="6735281">It's not upon a condition that you happen to be under thirty-five, you'll get this sort of treatment, or over sixty-two, that sort of treatment.</text>
+            <text syncTime="1661.665" offset="6763702">It is, in fact, you will get.</text>
+            <text syncTime="1663.165" offset="6769762">It is an obligation constitutionally and statutorily founded.</text>
+            <text syncTime="1667.003" offset="6785018">And, so, I think this case is distinguished, can be distinguished from Philpott.</text>
+            <text syncTime="1670.771" offset="6800169">I also would simply say to the Court that in looking at this case, that the Petitioner would have you believe that it should be disposed of very easily by just looking at that plain language and that really isn't a case at bar here today, and, yet, I submit that's not correct.</text>
+            <text syncTime="1683.663" offset="6851682">That's not the test this Court articulated in Rose v. Rose.</text>
+            <text syncTime="1686.781" offset="6864221">That's really not the test that the SG brief even says it is.</text>
+            <text syncTime="1690.250" offset="6878014">It says, and I quote,</text>
+            <text syncTime="1691.451" offset="6882820">"it's equally clear the validity of a challenged state law turns on (1) its consistency with congressional language but (2) its purpose. "</text>
+            <text syncTime="1700.124" offset="6917511">The Arkansas state statute from 1981 to 1983 did not frustrate congressional purpose, and as in the case of Rose v. Rose, if you just stop and say, levy attached on so forth, we can't go any further, we would be precluded by the Supremacy Clause.</text>
+            <text syncTime="1716.217" offset="6981877">But this Court didn't do that in Rose v. Rose.</text>
+            <text syncTime="1717.836" offset="6988355">This Court said, wait a minute.</text>
+            <text syncTime="1719.669" offset="6995774">There is a legitimate state purpose advance, and I say again, I submit that that's what we were doing with that statute.</text>
+            <text syncTime="1725.673" offset="7019702">Our statute is broader than just social security retirement benefits.</text>
+            <text syncTime="1728.894" offset="7032659">It has been applied in some thirty-five instances and in all those, only two in which social security retirement benefits were included.</text>
+            <text syncTime="1737.130" offset="7065573">Many of the people, not many, thirty-five out of 3100, let's get the numbers very specific, thirty-five out of 3100 inmates have some value which we felt we could be reimbursed from.</text>
+            <text syncTime="1747.105" offset="7105488">Procedure is very simple in Arkansas.</text>
+            <text syncTime="1749.121" offset="7113534">When you are sentenced to the Arkansas Department of Corrections, you spend fourteen days in processing.</text>
+            <text syncTime="1754.342" offset="7134432">We hand you a sheet of paper.</text>
+            <text syncTime="1756.544" offset="7143209">We ask you to fill out the information sheet.</text>
+            <text syncTime="1758.413" offset="7150732">It says, do you have any assets.</text>
+            <text syncTime="1760.663" offset="7159718">If you say none, that's the end of it.</text>
+            <text syncTime="1764.483" offset="7174974">We don't have the staff or the manpower to go looking any further.</text>
+            <text syncTime="1767.435" offset="7186781">If, in the instance of while you are incarcerated, we seek reimbursement for $4,000 and then you are released as Petitioner Bennett, we don't come back with a deficiency claim.</text>
+            <text syncTime="1776.374" offset="7222517">We're not a judgment creditor.</text>
+            <text syncTime="1778.240" offset="7230040">We don't do this by choice, we do it by obligation.</text>
+            <text syncTime="1781.409" offset="7242683">In the instance of Mr. Bennett, if he has a great aunt who dies and leaves him $5 million, we don't come back again.</text>
+            <text syncTime="1788.432" offset="7270791">We simply say during the period of the time that you were incarcerated in our institution, you should not be a burden to the taxpayer in the instance that you have resources which we have a right to be reimbursed to up to the per capita cost of what we expend keeping you there because of your conduct which mandated you be there.</text>
+            <text syncTime="1808.060" offset="7349263">I finally would simply say this to the Court, that the Arkansas reimbursement statute doesn't frustrate any purpose or intent of Congress, and that, in fact, we really fulfill that purpose and we have not created any sort of hardship, we have not created direct challenge to federal authority.</text>
+            <text syncTime="1822.153" offset="7405687">Our statute does not pose a serious threat to federalism.</text>
+            <text syncTime="1826.473" offset="7422928">That's not our statute at all, and because of that, I would ask that the decision of the court below be affirmed.</text>
+          </turn>
+        </section>
+        <section startTime="1834.127" stopTime="2036.091">
+          <heading>Rebuttal of Thomas M. Carpenter</heading>
+          <turn speaker="william_h_rehnquist" startTime="1834.127" stopTime="1838.281">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1834.127" offset="7453544">Thank you, General Clark.</text>
+            <text syncTime="1835.579" offset="7459395">Mr. Carpenter, you have ten minutes remaining.</text>
+          </turn>
+          <turn speaker="thomas_m_carpenter" startTime="1838.281" stopTime="2034.025">
+            <label>Mr. Thomas M. Carpenter</label>
+            <text syncTime="1838.281" offset="7470157">Thank you, Mr. Chief Justice.</text>
+            <text syncTime="1841.067" offset="7481338">I don't know how General Clark can say he imposes no hardship.</text>
+            <text syncTime="1845.185" offset="7497743">George Bennett is a sixty-nine year old man that can't get a job and had to leave the Department of Corrections without the $1800 which would have been a great benefit to him in providing for his care and maintenance when he left, and had he not had family members to go and live with at that particular time, he would have been destitute.</text>
+            <text syncTime="1861.378" offset="7562526">So, I think it does pose a hardship.</text>
+            <text syncTime="1863.480" offset="7570990">The fact that the State of Arkansas doesn't at this time seem to attach social security and has some memorandum out is no future guarantee that it's not going to make the effort again, and it's important for this Court to rule that that effort cannot be made.</text>
+            <text syncTime="1876.906" offset="7624698">The Respondent is suggesting essentially that there should be a new type of exemption under 42 USC 407 or Section 207 of the Code and this is for those that are constitutionally mandated to provide for care, yet the Congress has never said that those that are constitutionally mandated to provide care to individuals are exempt from our attachment statutes, and Congress certainly has the ability to do that.</text>
+            <text syncTime="1901.605" offset="7723441">When Congress posed the question, for example, in other types of retirement benefits as to whether people that committed certain types of crimes, mostly treason-type crimes, are entitled to these benefits anyway, Congress very quickly said no.</text>
+            <text syncTime="1914.596" offset="7775477">When Congress was given opportunities to deal with different situations, they set up guidelines.</text>
+            <text syncTime="1919.250" offset="7794076">When Congress needed to figure out a way to set up alternate payees, it did so and then it directed the Secretary through the regulations to do so and the Secretary did that.</text>
+            <text syncTime="1928.939" offset="7832842">Everything we've heard from the state is essentially a policy argument.</text>
+            <text syncTime="1932.577" offset="7847366">The state is trying to say our policy meets your policy and, therefore, it's a good policy.</text>
+            <text syncTime="1937.461" offset="7866905">But the relative importance of a state's own suggestion or own law is not material and this Court has so held when it conflicts with a federal law.</text>
+            <text syncTime="1946.050" offset="7901282">The Court said that first in 1962 in Free v. Bland and it has reiterated that several times, most recently in Hisquierdo.</text>
+            <text syncTime="1954.906" offset="7936704">We would note and I would like to paraphrase it, if I may, a very apt statement from the Louisiana Public Service Commission v. Federal Communications Commission, and this is a paraphrase.</text>
+            <text syncTime="1965.548" offset="7979232">A state may not confer power upon itself.</text>
+            <text syncTime="1968.833" offset="7992397">To permit a state to expand its power in the face of congressional limitation would be to grant to the states the power to override the Congress.</text>
+            <text syncTime="1976.754" offset="8024058">This, the Court should be unwilling to do.</text>
+            <text syncTime="1980.307" offset="8038268">Rose v. Rose dealt with family law situations and followed a long line of cases that had looked closely to the family law situation.</text>
+            <text syncTime="1988.561" offset="8071287">The Arkansas Department of Corrections can in no way be equated with George Bennett's family, particularly when it left him at the door with a departure allowance and said go home, we're going to hold your money.</text>
+            <text syncTime="2000.887" offset="8120606">The Arkansas legislature also passed an act and entitled it to take monies from the families of policemen killed in the line of duty because it met with a good state purpose and worker's comp, and this Court summarily reversed in Rose v. Arkansas State Police.</text>
+            <text syncTime="2018.063" offset="8189256">We ask the Court to follow that rule and reverse and let it be known that the exemption statute means these funds cannot be attached and states cannot declare that there is a purpose that meets the congressional purpose.</text>
+            <text syncTime="2030.490" offset="8238993">Only the Congress can decide that.</text>
+            <text syncTime="2032.573" offset="8247353">Thank you.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2034.025" stopTime="2036.091">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2034.025" offset="8253204">Thank you, Mr. Carpenter.</text>
+            <text syncTime="2035.008" offset="8257070">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

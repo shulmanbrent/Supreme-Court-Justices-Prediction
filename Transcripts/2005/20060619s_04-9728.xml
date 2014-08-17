@@ -1,0 +1,47 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:50:44" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1139643">/xml/cases/2005/04_9728/20060619o_04-9728.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-9728_20060619-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="262.635">
+        <title>Samson v. California</title>
+        <section startTime="0.000" stopTime="262.635">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="8.264">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="89103">Justice Thomas has the announcement in 04-9728, Samson v. California.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="8.264" stopTime="262.635">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="8.264" offset="122122">This case comes to us on a writ of certiorari to the Court of Appeal of California, 1st Appellate District.</text>
+            <text syncTime="16.016" offset="153155">California law provides that every prisoner eligible for release on state parole, “shall agree in writing to be subject to search or seizure by a parole officer or other peace officer at any time of the day or night, with or without a search warrant and with or without cause”.</text>
+            <text syncTime="39.881" offset="248554">The California Court of Appeal determined that a suspicionless search of a parolee under this law is reasonable within the meaning of the Fourth Amendment as long as it is not arbitrary, capricious or harassing.</text>
+            <text syncTime="54.144" offset="305606">In an opinion filed with the Clerk today, we affirm the judgment of the California Court of Appeal.</text>
+            <text syncTime="60.529" offset="331206">We considered a similar search condition in United States versus Knight in 2001.</text>
+            <text syncTime="69.010" offset="365061">There, California required a probationer to, “submit his person, property, place of residence, vehicle, personal effects to search any time, with or without a search warrant, warrant of arrest or reasonable cause by any probation officer or law enforcement officer”.</text>
+            <text syncTime="89.707" offset="447921">Knight’s apartment was searched based upon reasonable suspicion of criminality and his status as a probationer.</text>
+            <text syncTime="98.216" offset="481880">Consistent with our general Fourth Amendment approach, we balanced the degree to which the search intruded upon his privacy interests and the degree to which it was needed for the promotion of legitimate governmental interests.</text>
+            <text syncTime="114.573" offset="547395">We determined that Knight’s probationary status and his assent to the clearly set out probation search condition significantly diminished his reasonable expectation of privacy.</text>
+            <text syncTime="127.356" offset="598491">We determined that the state, on the other hand, had significant interests in combating recidivism and promoting the reintegration of probationers into society.</text>
+            <text syncTime="139.123" offset="645511">Accordingly, we held that the search of Knight’s apartment was reasonable within the meaning of the Fourth Amendment.</text>
+            <text syncTime="146.998" offset="677067">Because the search at issue in Knight was predicated on both reasonable suspicion and probation status, we did not reach the question whether the search would have been reasonable under the Fourth Amendment, had it been solely predicated upon the condition of probation.</text>
+            <text syncTime="167.014" offset="757106">We reach that question today, although in the context of a parolee search.</text>
+            <text syncTime="174.740" offset="788035">On the continuum of state-imposed punishments, parolees have fewer expectations of privacy than probationers, because parole is more akin to imprisonment than probation is to imprisonment.</text>
+            <text syncTime="188.452" offset="842892">In light of Samson’s parole status and the unambiguous terms of the parole search condition to which he agreed, we conclude that he has a severely diminished expectation of privacy.</text>
+            <text syncTime="201.381" offset="894615">California’s interests, on the other hand, are substantial.</text>
+            <text syncTime="205.562" offset="911333">California paroles a significant number of prisoners, and that population has an extremely high recidivism rate that demonstrates the need for intensive supervision.</text>
+            <text syncTime="218.627" offset="963578">A requirement that searches be based on individualized suspicion would undermine the state’s ability to effectively supervise parolees and protect the public from criminal acts by re-offenders that would have both incentive and opportunity to conceal criminality under a suspicion-based system.</text>
+            <text syncTime="240.098" offset="1049469">Balancing the parolee’s significantly diminished expectation of privacy with California’s substantial interests, we hold that the Fourth Amendment does not prohibit a police officer from conducting a suspicionless search of a parolee.</text>
+            <text syncTime="256.817" offset="1116342">Justice Stevens has filed a dissenting opinion, in which Justices Souter and Breyer join.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

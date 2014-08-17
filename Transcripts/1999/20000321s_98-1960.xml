@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:44:22" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="488109">/xml/cases/1999/98_1960/20000321o_98-1960.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1999/trs/98-1960_20000321-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="100.990">
+        <title>Cortez Byrd Chips, Inc. v. Harbert Construction Company</title>
+        <section startTime="0.000" stopTime="100.990">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="11.590">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="84151">The opinion of the Court in No. 98-1960, Cortez Byrd Chips Inc. v. Bill Harbert Construction Company will be announced by Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="11.590" stopTime="100.990">
+            <label>Justice David H. Souter</label>
+            <text syncTime="11.590" offset="130440">This case comes to us on writ of certiorari to the Court of Appeals for the Eleventh Circuit.</text>
+            <text syncTime="16.695" offset="150920">The petitioner Cortez Byrd Chips Incorporated and the respondent Bill Harbert Construction Company agreed that any disputes arising from Harbert’s Construction of a Mississippi mill for Cortez Byrd would be decided by arbitration.</text>
+            <text syncTime="32.555" offset="214345">After a dispute arose, arbitration was conducted in Alabama and Harbert received an award.</text>
+            <text syncTime="39.259" offset="241095">Cortez Byrd sought to vacate and modify the award in the Federal District Court for the Southern District of Mississippi, where the contract was performed.</text>
+            <text syncTime="48.812" offset="279338">Seven days later, Harbert sought to confirm the award in the Northern District of Alabama.</text>
+            <text syncTime="55.215" offset="304938">The Alabama Court refused to dismiss transfer or stay its action, concluding that venue was proper only there, and it entered judgment for Harbert.</text>
+            <text syncTime="66.105" offset="348510">The Eleventh Circuit held that under the Federal Arbitration Act venue for motions to confirm, vacate, or modify awards was exclusively in the district where the arbitration award was made, in this case, Alabama.</text>
+            <text syncTime="80.257" offset="405144">In an opinion filed with the Clerk of Court today, we reverse.</text>
+            <text syncTime="83.930" offset="419772">The Federal Arbitration Act’s venue provisions are permissive, allowing a motion to confirm, vacate or modify to be brought either in the district where the award was made or in any district proper under the general venue statute.</text>
+            <text syncTime="98.004" offset="476092">And our opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

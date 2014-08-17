@@ -1,0 +1,54 @@
+<transcript verified="true">
+      <history>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="1155493">/xml/cases/2012/11_9335/20130617o_11-9335.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/11-9335_20130617-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="262.176">
+        <title>Alleyne v. United States</title>
+        <section startTime="0" stopTime="262.176">
+          <heading>Opinion Announcement of Clarence Thomas</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="7.540">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="106496">Justice Thomas has our opinion this morning, case 11-9335, Alleyne v. United States.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="7.540" stopTime="262.176">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="7.540" offset="136589">This case comes to us on a writ of certiorari to United States Court of Appeals for the Fourth Circuit.</text>
+            <text syncTime="14.250" offset="163443">A jury found the petitioner Allen Ryan Alleyne guilty of multiple federal offenses for his participation in an armed robbery.</text>
+            <text syncTime="23.044" offset="198656">One of his convictions was for using a firearm in relation to a crime of violence.</text>
+            <text syncTime="28.377" offset="219972">That conviction carried a sentencing range of five year to life imprisonment, but if the Court found that petitioner brandished the gun, his mandatory sentence automatically increased to seven years.</text>
+            <text syncTime="44.450" offset="284233">At sentencing, the government presented evidence of brandishing to the judge.</text>
+            <text syncTime="48.621" offset="300952">The judge ultimately determined that petitioner had brandished a gun thus triggering the seven-year mandatory minimum.</text>
+            <text syncTime="56.631" offset="332925">Unable to impose a lower sentence, the judge sentenced petitioner seven years.</text>
+            <text syncTime="61.887" offset="354032">The Fourth Circuit affirmed petitioner sentence.</text>
+            <text syncTime="65.170" offset="367094">Petitioner claims that the application of the seven-year mandatory minimum violated his Sixth Amendment right to jury trial.</text>
+            <text syncTime="73.219" offset="399276">We agree.</text>
+            <text syncTime="74.715" offset="405337">We have long held that the Sixth Amendment requires each element of a crime to be proved to the jury beyond a reasonable doubt.</text>
+            <text syncTime="83.043" offset="438565">In order to enforce this right, we must know which facts can constitute elements of a crime.</text>
+            <text syncTime="89.709" offset="465314">Legislators have brought authority to define the elements of crimes, but this authority has limits.</text>
+            <text syncTime="96.999" offset="494467">In Apprendi versus New Jersey, we held that any fact other than the fact of a prior conviction that increases a defendant's maximum sentence is an element of the crime, even if the legislature did not label it as such.</text>
+            <text syncTime="113.312" offset="559668">We explained that this rule was consistent with the historical understanding of the jury trial right and helped to preserve the role of the jury as a buffer between the state and the criminal defendants.</text>
+            <text syncTime="127.639" offset="617033">This case requires us to decide whether facts increasing the mandatory minimum sentence are elements of the crime that must be proved to a jury beyond reasonable doubt.</text>
+            <text syncTime="138.786" offset="661546">Under Apprendi, any fact that exposes a defendant to a punishment greater than that otherwise legally prescribed is by definition and element of a separate legal offense.</text>
+            <text syncTime="150.302" offset="707626">We hold that this principle applies with equal force to facts that increased the mandatory minimum.</text>
+            <text syncTime="157.606" offset="736883">First, increasing the floor of a sentencing range alters the penalty attached to the crime because a floor and the ceiling have arranged together constitute a penalty.</text>
+            <text syncTime="168.580" offset="780769">Second, it is clear that moving the range upward even if only by racing the floor makes the punishment affixed to the crime more severe.</text>
+            <text syncTime="178.341" offset="819848">The defendants expected punishment has increased as a result of the narrowed range and the judge must impose a greater punishment if he finds the fact triggering the mandatory minimum even if he would rather impose a lower sentence.</text>
+            <text syncTime="194.333" offset="883796">Taking these two points together, it follows that facts increasing the mandatory minimum sentence are within the principle established by Apprendi and therefore, must be found by jury beyond reasonable doubt.</text>
+            <text syncTime="208.642" offset="941056">In this case, based on the jury's finding along, petitioner was only subject to a five-year mandatory minimum sentence.</text>
+            <text syncTime="217.072" offset="974702">However, the District Court applied a seven-year mandatory minimum based on it's finding that petitioner had brandished the gun.</text>
+            <text syncTime="226.785" offset="1013572">For the above reasons and other reasons set forth in our opinion, we conclude that this sentence violated petitioner's Sixth Amendment right -- Sixth Amendment jury trial right.</text>
+            <text syncTime="238.637" offset="1061010">We, therefore, vacate this -- his sentence on the firearm count and remand for resentencing.</text>
+            <text syncTime="245.540" offset="1088596">Justice Sotomayor has filed a concurring opinion.</text>
+            <text syncTime="249.622" offset="1104896">The Chief Justice has filed a dissenting opinion in which Justices Scalia and Kennedy have joined.</text>
+            <text syncTime="257.390" offset="1136034">Justice Alito has also filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

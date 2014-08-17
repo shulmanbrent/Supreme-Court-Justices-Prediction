@@ -1,0 +1,33 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:14:44" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="343854">/xml/cases/1990/89_1541/19910320o_89-1541.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1541_19910320-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="67.474">
+        <title>Martin v. Occupational Safety and Health Review Commission</title>
+        <section startTime="0.000" stopTime="67.474">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="6.432">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73957">The opinion of the Court in two cases will be announced by Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="6.432" stopTime="67.474">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="6.432" offset="99661">This case is Martin versus Occupational Safety and Health Review Commission, No. 89-1541.</text>
+            <text syncTime="15.750" offset="136860">That case is here on certiorari to the United States Court of Appeals for the Tenth Circuit.</text>
+            <text syncTime="22.504" offset="163923">The Occupational Safety and Health Act authorizes a Secretary of Labor to prosecute civil penalty actions before the Occupational Safety and Health Review Commission.</text>
+            <text syncTime="36.643" offset="220452">The question here in this case is whether a reviewing court should defer to the Secretary or to the Commission when these two actions act or disagree on the interpretation of a regulation.</text>
+            <text syncTime="54.341" offset="291296">In an opinion filed with the Clerk today, we hold that a court must divert to the Secretary under the circumstances.</text>
+            <text syncTime="63.451" offset="327658">We, therefore, reverse the judgment of the Tenth Circuit.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

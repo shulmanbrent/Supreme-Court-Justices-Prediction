@@ -1,0 +1,1343 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1991-11-13</transcribed>
+        <edit user="jgoldman" date="2012-04-22T14:54:53" startTime="3262.423" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <identified user="tschaefer">2012-08-14</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="13438488">/xml/cases/1991/90_727/19911113a_90-727.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1991/90-727_19911113-argument.xml</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="jack_i_samet" type="advocate" gender="male" path="/advocates/js/jack_i_samet" image="/advocates/js/jack_i_samet/thumbnail.jpg">Jack I. Samet</speaker>
+        <speaker id="g_robert_blakey" type="advocate" gender="male" path="/advocates/gb/g_robert_blakey" image="/advocates/gb/g_robert_blakey/thumbnail.jpg">G. Robert Blakey</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3321.570">
+        <title>Holmes v. Securities Investor Protection Corporation</title>
+        <section startTime="0.000" stopTime="1522.097">
+          <heading>Argument of Jack I. Samet</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="12.891">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="149371">We'll hear argument now in No. 90-727, Robert G. Holmes v. The Securities Investor Protection Corporation.</text>
+            <text syncTime="11.522" offset="195451">Mr. Samet.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="12.891" stopTime="53.718">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="12.891" offset="200884">Chief Justice, and may it please the Court:</text>
+            <text syncTime="16.760" offset="216349">The question this case presents is whether a party, which was neither a purchaser nor seller of securities, and for that reason lacks standing to sue for securities fraud under the Exchange Act, section 10(b) and rule 10b-5, may nevertheless sue for the same conduct... security-based fraud in the sale of securities... as a predicate act of racketeering activity under RICO.</text>
+            <text syncTime="46.862" offset="336721">In order to answer this question, the Court will be called upon to construe section 1964--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="53.718" stopTime="55.418">
+            <label>Justice Byron R. White</label>
+            <text syncTime="53.718" offset="364202">Did you say predicate act?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="55.418" stopTime="57.920">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="55.418" offset="370994">--Yes, a predicate act of racketeering activity.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="57.920" stopTime="60.705">
+            <label>Justice Byron R. White</label>
+            <text syncTime="57.920" offset="381025">Not a predicate crime, is that it?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="60.705" stopTime="62.705">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="60.705" offset="392101">Well, I think they're pretty much--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="62.705" stopTime="65.239">
+            <label>Justice Byron R. White</label>
+            <text syncTime="62.705" offset="400147">Or a predicate violation of law?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="65.239" stopTime="80.350">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="65.239" offset="410282">--Well, I would prefer the term "predicate act" because it's neutral.</text>
+            <text syncTime="68.209" offset="422194">As you'll see in my argument, I don't think necessarily all of these things are crimes, although I believe the overwhelming import in the criminal portion of RICO is to delineate crimes.</text>
+            <text syncTime="78.915" offset="464930">I think when we're talking about--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="80.350" stopTime="80.533">
+            <label>Unknown Speaker</label>
+            <text syncTime="80.350" offset="470677">This is civil?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="80.533" stopTime="101.013">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="80.533" offset="471409">--civil RICO, we're not speaking about crimes.</text>
+            <text syncTime="82.467" offset="479141">I think we're speaking about a crime only in so far as it a... as it is a component of an element of a civil cause of action.</text>
+            <text syncTime="89.788" offset="508502">I think it makes a difference, and I'll try to get to that.</text>
+            <text syncTime="92.657" offset="519996">But I do agree that RICO is a criminal act, and that it purports to delineate crimes, but it also purports to delineate acts more generally.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="101.013" stopTime="112.469">
+            <label>Justice Byron R. White</label>
+            <text syncTime="101.013" offset="553329">Yeah, but you're going to be... I suppose you're going to be arguing that if this conduct wasn't a violation of the securities law, it can't be a predicate act.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="112.469" stopTime="114.188">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="112.469" offset="599200">You're absolutely correct.</text>
+            <text syncTime="113.321" offset="602648">That is exactly--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="114.188" stopTime="119.975">
+            <label>Justice Byron R. White</label>
+            <text syncTime="114.188" offset="606096">But aren't you arguing then that the act has to be a violation of the securities law?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="119.975" stopTime="123.260">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="119.975" offset="629188">--The act... well, there are different schools of thought as to what--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="123.260" stopTime="124.960">
+            <label>Justice Byron R. White</label>
+            <text syncTime="123.260" offset="642354">Well, you go ahead.</text>
+            <text syncTime="123.877" offset="644862">I'm sorry I interrupted.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="124.960" stopTime="187.832">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="124.960" offset="649146">--No, there are different schools of thought as to exactly what the nature of the conduct is that defines the RICO predicate acts.</text>
+            <text syncTime="130.947" offset="673074">In any event, this Court will be called upon to construe the following three key phrases.</text>
+            <text syncTime="136.066" offset="693554">Section 1964(c) states, any person injured in his business or property... and the Court will be called upon to construe the meaning of</text>
+            <text syncTime="145.105" offset="729707">"injured in his business or property. "</text>
+            <text syncTime="146.388" offset="734827">--by reason of... and the Court will be called upon to construe the meaning of the phrase 1962.</text>
+            <text syncTime="154.943" offset="769100">And that, Justice White, gets into your question about what is a violation of 1962.</text>
+            <text syncTime="160.014" offset="789371">I think the RICO Act means 1962 defines certain wrongful acts or crimes, whatever you like, and it then incorporates... it says you cannot commit a pattern of racketeering activity with respect to these crimes or acts.</text>
+            <text syncTime="174.441" offset="847049">And then the definition of racketeering activity in section 1961 lists about 36 crimes or acts, and one of them is fraud in the sale of securities.</text>
+            <text syncTime="184.963" offset="889159">That's the one we'll be talking about today.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="187.832" stopTime="189.182">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="187.832" offset="900653">May I just interrupt there?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="189.182" stopTime="189.365">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="189.182" offset="906086">Sure.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="189.365" stopTime="197.416">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="189.365" offset="906818">Do you not assume for purpose of your argument that such a fraud actually occurred, that there was a predicate act.</text>
+            <text syncTime="194.733" offset="928238">You just challenge the causal connection between it and your client.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="197.416" stopTime="206.522">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="197.416" offset="939000">I must assume it in this posture of the case because we're here on a motion for summary judgment.</text>
+            <text syncTime="200.618" offset="951748">At trial we'll contest it, but I do agree that for purpose of this argument we assume there was a fraud because it--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="206.522" stopTime="208.522">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="206.522" offset="975363">And therefore... and also a predicate act.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="208.522" stopTime="215.961">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="208.522" offset="983409">--Well, no, I think not.</text>
+            <text syncTime="212.926" offset="1001067">Because there was no standing.</text>
+            <text syncTime="214.676" offset="1008068">I think, absent standing, there--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="215.961" stopTime="218.194">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="215.961" offset="1013188">Well, but standing doesn't affect whether the act occurred, does it?</text>
+            <text syncTime="217.961" offset="1021129">Because... it affects whether--</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="218.194" stopTime="221.163">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="218.194" offset="1022070">--Well, I think it does the way... I'm sorry.</text>
+            <text syncTime="220.913" offset="1032937">Go ahead.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="221.163" stopTime="238.256">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="221.163" offset="1033982">--Well, I can understand your argument that there's no standing here, no causal connection and all, but if the violation of 10b occurred, and that's a predicate act within the statute, I don't understand why you don't concede there was a predicate act, but merely argue that it didn't have the necessary causal connection.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="238.256" stopTime="248.528">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="238.256" offset="1102318">Because I think... well, I do make those additional arguments, but I think standing is an element of the cause of the civil cause of action, which is what I think RICO intends to incorporate when it talks about fraud in the sale of securities.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="248.528" stopTime="254.063">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="248.528" offset="1143382">Do you think Blue Chip holds that in 10b-5, that there's no 10b-5 violation at all?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="254.063" stopTime="284.463">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="254.063" offset="1165534">No, but I think that the Blue Chip means that there's no 10b violation for which anyone can sue if there's no standing.</text>
+            <text syncTime="261.800" offset="1196568">And RICO is intended, I believe, to incorporate the wisdom of Blue Chip.</text>
+            <text syncTime="265.102" offset="1209733">So I think they are related to each other.</text>
+            <text syncTime="267.235" offset="1218302">I think... I think that the restatement of the question here essentially is, is the Securities Investor Protection Corporation, SIPC, a person or a party that was injured by reason of this alleged fraud in the sale of securities.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="284.463" stopTime="295.354">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="284.463" offset="1287160">Isn't it agreed that SIPC is simply here standing in the shoes of investors who themselves could not have met the Birnbaum test?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="295.354" stopTime="388.153">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="295.354" offset="1330733">Not at all, Your Honor.</text>
+            <text syncTime="296.437" offset="1335017">Not at all, Chief Justice.</text>
+            <text syncTime="297.437" offset="1339092">For the reason that I believe that the record shows and the law is that SIPC is not subrogated to any of those claims.</text>
+            <text syncTime="305.441" offset="1371066">There are two... SIPC essentially paid out money to two categories of investors, people who were customers of the failed brokerage firm.</text>
+            <text syncTime="312.095" offset="1397711">They paid out money to investors who bought and sold the allegedly manipulated securities, and they paid out money to people who didn't.</text>
+            <text syncTime="318.682" offset="1424042">Now, as to the people who did buy and sell the allegedly manipulated securities, they commenced a class action.</text>
+            <text syncTime="324.736" offset="1448284">It was settled.</text>
+            <text syncTime="325.769" offset="1452359">They got their recovery.</text>
+            <text syncTime="326.687" offset="1456016">So SIPC can't be subrogated to their claim, because it's already been exercised.</text>
+            <text syncTime="330.472" offset="1471167">As to the people who didn't buy or sell the allegedly manipulated securities, SIPC can't be subrogated to their claim because they, like SIPC, are too remote from the event to have a claim in the first place.</text>
+            <text syncTime="342.530" offset="1519441">Furthermore, the Ninth Circuit held that the only way SIPC can acquire a subrogation right... and this is in an earlier case.</text>
+            <text syncTime="350.200" offset="1550161">This is the third time this case has reached the Ninth Circuit.</text>
+            <text syncTime="352.719" offset="1560192">In an earlier case, which is in the record, the Ninth Circuit held that SIPC is subrogated to any fraud claims if and only if the brokers who SIPC came in to pay out exercised unauthorized use of customer funds to buy the manipulated securities.</text>
+            <text syncTime="368.811" offset="1624558">That didn't happen.</text>
+            <text syncTime="369.894" offset="1628947">Discovery has established that didn't happen, so there's no fraud claim for SIPC to be subrogated to.</text>
+            <text syncTime="374.965" offset="1649218">And therefore, SIPC cannot come here as a subrogee.</text>
+            <text syncTime="378.683" offset="1664055">We must look at SIPC only as SIPC and ensure, if you will, that paid out monies, and not as a subrogee, because there is no subrogation.</text>
+            <text syncTime="386.237" offset="1694253">In addition, Your Honor... I'm sorry, Chief Justice--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="388.153" stopTime="388.986">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="388.153" offset="1701880">Can I interrupt for... right there?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="388.986" stopTime="389.153">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="388.986" offset="1705224">--Sure.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="389.153" stopTime="405.246">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="389.153" offset="1705955">As to the category of customers who purchased or sold the manipulated securities, and who had their own class action and recovered some of their own money, did that recovery not reduce the obligation of SIPC to pay to them their losses?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="405.246" stopTime="407.062">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="405.246" offset="1770321">I don't think it worked that way.</text>
+            <text syncTime="406.329" offset="1774605">It probably should have--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="407.062" stopTime="408.531">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="407.062" offset="1777531">So they got a double recovery, in effect?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="408.531" stopTime="418.551">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="408.531" offset="1783487">--That's the problem.</text>
+            <text syncTime="409.564" offset="1787562">That's... you have hit, Justice Stevens, on exactly the problem of allowing SIPC a recovery here.</text>
+            <text syncTime="414.849" offset="1808669">There would be a double recovery, and since it's RICO, it would be a sextuple recovery.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="418.551" stopTime="446.618">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="418.551" offset="1823507">Well, we didn't grant certiorari to review SIPC's separate standing.</text>
+            <text syncTime="424.871" offset="1848793">We thought we were taking a case that simply involved a question of, for instance, posed in section 2 of the questions presented, whether a person has standing under RICO when they wouldn't have if they were just going under a straight Securities Act claim.</text>
+            <text syncTime="441.730" offset="1916189">Why do we need to get into all of these ramifications of what SIPC did or didn't do?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="446.618" stopTime="475.767">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="446.618" offset="1935833">I don't think you do.</text>
+            <text syncTime="447.618" offset="1939804">SIPC's brief raises them, and therefore, I'm responding to the questions from the Court and anticipating them in SIPC's position.</text>
+            <text syncTime="453.688" offset="1964045">But I will tell you, totally apart from the uniqueness of SIPC... and I agree, that's not the larger, more interesting question.</text>
+            <text syncTime="459.306" offset="1986511">The larger, more interesting question is do we have... you're looking at SIPC as SIPC, not as a subrogee... do we have a situation in which SIPC was injured by reason of the alleged violation.</text>
+            <text syncTime="471.399" offset="2034889">And I'd like to get into the facts and show why I think we do not have such a situation.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="475.767" stopTime="502.632">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="475.767" offset="2052339">Well, let me just ask you one question.</text>
+            <text syncTime="477.386" offset="2058818">I think it's related to what we've granted certiorari.</text>
+            <text syncTime="479.552" offset="2067490">Supposing there had been no lawsuit by the customers of these firms that had purchased and sold securities, that they lost their money when the brokerage firm went bankrupt.</text>
+            <text syncTime="490.241" offset="2110331">And the amount paid by SIPC to them was precisely the amount that they lost in making purchases and sales of the manipulated securities.</text>
+            <text syncTime="498.847" offset="2144708">Would you say, then, that there was no standing on the part of SIPC to reimburse?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="502.632" stopTime="515.239">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="502.632" offset="2159859">No.</text>
+            <text syncTime="502.765" offset="2160382">If in fact it was a valid subrogation to people who had a claim, who were themselves purchasers and seilers of securities, there would be a... there would be standing, and I wouldn't be able to make the argument I'm making.</text>
+            <text syncTime="514.203" offset="2206148">I'm making the argument--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="515.239" stopTime="527.130">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="515.239" offset="2210223">So doesn't our answer in this case depend on the extent to which there is subrogation of claims of purchasers or... the extent to which SIPC reimbursed persons who had valid claims?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="527.130" stopTime="595.839">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="527.130" offset="2257871">--Unfortunately, in part, it does.</text>
+            <text syncTime="528.463" offset="2263200">This is not a case that purely raises the purchaser-seller issue.</text>
+            <text syncTime="531.581" offset="2275634">It does raise these related questions of who SIPC is and what it did.</text>
+            <text syncTime="535.033" offset="2289427">But I'm trying to address, and I think the Court is most interested in, the pure question.</text>
+            <text syncTime="538.752" offset="2304369">Unfortunately, the question of less general interest comes from this record and cannot be avoided.</text>
+            <text syncTime="544.656" offset="2327983">But discussing the pure general question of do we have here... is SIPC, in its own capacity, a purchaser or seller of securities, which it clearly was not, and therefore, does it have standing, I'd like to ask the Court to look at the key phrases in RICO.</text>
+            <text syncTime="559.666" offset="2387960">First,</text>
+            <text syncTime="560.049" offset="2389528">"the injured in his business or property. "</text>
+            <text syncTime="562.368" offset="2398827">phrase.</text>
+            <text syncTime="562.768" offset="2400395">What that has come to mean in the decisions of this Court and other courts is essentially that a person must be directly injured in their business or property.</text>
+            <text syncTime="571.973" offset="2437175">If, for example, a corporation is the target of a racketeering act, a shareholder cannot sue for injury to the corporation because the shareholder was not the direct victim; the corporation was.</text>
+            <text syncTime="584.031" offset="2485449">Cases have held that if a union is the target of racketeering activity, the union member may not sue for RICO because it was not the directly injured victim; the union was.</text>
+            <text syncTime="594.839" offset="2528708">Well, here--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="595.839" stopTime="602.326">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="595.839" offset="2532679">So that argument is the same whether or not it's a securities violation, which is the alleged predicate act, or any other violation?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="602.326" stopTime="626.535">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="602.326" offset="2558592">--Absolutely.</text>
+            <text syncTime="602.676" offset="2560055">That's absolutely correct.</text>
+            <text syncTime="603.409" offset="2562981">And here... indeed, I think the purchase of seller implication in the doctrine of standing comes directly from the general principals of RICO.</text>
+            <text syncTime="612.063" offset="2597567">You don't have to focus on securities law to reach the same conclusion.</text>
+            <text syncTime="614.913" offset="2608956">I completely agree with you, Justice Kennedy, that looking at the general concept of RICO, SIPC here is not a person who was directly injured.</text>
+            <text syncTime="625.785" offset="2652424">The direct victims--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="626.535" stopTime="641.545">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="626.535" offset="2655454">But your argument depends on our looking first to find out in what capacity SIPC brought the suit, whether it was subrogee for purchasers of manipulated securities or something else.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="641.545" stopTime="776.464">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="641.545" offset="2715536">--It doesn't matter, Justice O'Connor.</text>
+            <text syncTime="643.345" offset="2722746">You reach the same result either way because, on this record, there is nothing for SIPC to be subrogated to, and therefore, this Court is faced with a pure question.</text>
+            <text syncTime="651.566" offset="2755555">If there were a viable argument that SIPC is subrogated to a claim, then you could go off on a subrogation issue.</text>
+            <text syncTime="658.070" offset="2781573">But there isn't.</text>
+            <text syncTime="658.756" offset="2784395">SIPC isn't subrogated to anything.</text>
+            <text syncTime="660.672" offset="2792022">I'm addressing that because SIPC talks about it.</text>
+            <text syncTime="662.291" offset="2798501">But if one accepts the notion that SIPC isn't subrogated to anything, then one reaches the general question.</text>
+            <text syncTime="669.028" offset="2825459">And I think that's this case.</text>
+            <text syncTime="670.397" offset="2830893">I think SIPC is subrogated to nothing, and we reach the general question.</text>
+            <text syncTime="673.849" offset="2844685">And the general question... the first proposition on the general question is that we do not have a party that was directly injured.</text>
+            <text syncTime="681.669" offset="2876032">SIPC was not directly injured.</text>
+            <text syncTime="683.455" offset="2883138">If there were direct victims, it were the purchasers and sellers of these allegedly manipulated securities, not SIPC.</text>
+            <text syncTime="688.823" offset="2904662">The second important point, I believe, is that any injury to SIPC was not by reason of the alleged fraud in... of the sale of securities.</text>
+            <text syncTime="698.380" offset="2942801">And what I mean by that is that this Court has said in Sedima, SIPC paying out money.</text>
+            <text syncTime="713.057" offset="3001524">Here there were many, many intervening events.</text>
+            <text syncTime="716.759" offset="3016362">The harm complained of operated on the purchasers and sellers of securities.</text>
+            <text syncTime="721.628" offset="3035797">Now, in addition, for that to happen, it had to be the case that these two brokerage firms took a large position in the allegedly manipulated securities.</text>
+            <text syncTime="729.584" offset="3067667">And it had to be the case that the brokerage firms were otherwise in precarious financial condition, and therefore, taking this position and these securities caused their financial demise.</text>
+            <text syncTime="738.589" offset="3103715">It had to be the case that SIPC comes in and says, well, let's make the failure of these brokerage firms subject to SIPA.</text>
+            <text syncTime="745.445" offset="3131092">And it had to be the case that the composition of the assets of the defunct brokerage firms was such that they could not pay out or simply give to the customers of the brokerage firms their securities.</text>
+            <text syncTime="756.384" offset="3174873">All of those events, none of which were intended or foreseen by the persons that allegedly committed the securities fraud, had to occur before SIPC would sustain the loss that it sustained.</text>
+            <text syncTime="766.525" offset="3215415">This is causation run rampant, attenuated causation, the kind of speculation in causation that goes way beyond the bounds of proximate cause and should not be tolerated.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="776.464" stopTime="794.407">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="776.464" offset="3255226">Mr. Samet--</text>
+            <text syncTime="777.147" offset="3257942">--May I interrupt there?</text>
+            <text syncTime="777.830" offset="3260659">You've put in an awful lot of events.</text>
+            <text syncTime="779.313" offset="3266615">Supposing that all that was involved is that the brokerage firm itself had taken a large position in manipulated securities and there... and that was the only thing that caused it to fail.</text>
+            <text syncTime="790.788" offset="3312486">And as a result of the failure, SIPC had to pay a lot of money to its customers.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="794.407" stopTime="822.807">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="794.407" offset="3326906">Well, we have an even clearer case here because the brokerage firm... the trustees of the brokerage firm are themselves parties to the action, the brokerage firm did take a position in the securities, and we're not challenging the trustees' standing.</text>
+            <text syncTime="805.345" offset="3370687">We're challenging SIPC's standing.</text>
+            <text syncTime="806.714" offset="3376225">So I agree with the implication of your question that if the brokerage firm was itself a purchaser or seller, we wouldn't have the argument we have.</text>
+            <text syncTime="813.201" offset="3402138">But it's SIPC that's coming in, and they're not a purchaser or seller, and therefore, we have the argument on standing that we wouldn't if the brokerage firm were the only plaintiff, or the trustees were the only plaintiffs.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="822.807" stopTime="840.519">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="822.807" offset="3440591">I'm still not sure what your answer is.</text>
+            <text syncTime="825.009" offset="3449368">If the record showed that the only reason the firm failed was because it made purchases of the manipulated securities, and that's the only reason SIPC paid any money to the firm, would there be sufficient direct causation?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="840.519" stopTime="843.252">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="840.519" offset="3511435">That would be a closer, harder question.</text>
+            <text syncTime="842.102" offset="3517704">It's not the question we now have--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="843.252" stopTime="844.668">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="843.252" offset="3522302">Well, what's the answer to that question?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="844.668" stopTime="846.335">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="844.668" offset="3527944">--Well, that's the one you don't have to write an opinion on.</text>
+            <text syncTime="845.752" offset="3532333">I would--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="846.335" stopTime="850.204">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="846.335" offset="3534631">Well, but I think you're general approach to it might decide that case.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="850.204" stopTime="851.187">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="850.204" offset="3550096">--I don't think so.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="851.187" stopTime="857.424">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="851.187" offset="3554067">Because you said, as I understand you, that unless SIPC itself were a purchaser or seller of securities, it has no RICO claim.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="857.424" stopTime="867.797">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="857.424" offset="3579040">Well, I think the logic of the general approach, and I agree you presented a tougher case than the one we have here today, but the logic of the general approach is that if you ain't a purchaser or seller, you ain't got standing.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="867.797" stopTime="873.350">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="867.797" offset="3620522">I'm surprised you found that a hard question, Mr. Samet.</text>
+            <text syncTime="870.315" offset="3630553">I... given your approach, I would think that's an easy question.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="873.350" stopTime="877.635">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="873.350" offset="3642674">Well, I think any question this Court poses, I recognize is a hard question.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="877.635" stopTime="883.539">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="877.635" offset="3659810">Well, unless you think that somehow, simply because you are a but for... a but-for cause is a direct cause.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="883.539" stopTime="885.408">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="883.539" offset="3683425">No, a but-for cause is not a--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="885.408" stopTime="892.145">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="885.408" offset="3690948">All that the question showed is a clear but-for cause.</text>
+            <text syncTime="888.693" offset="3704114">Is there no difference between a but-for cause and a direct cause?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="892.145" stopTime="895.597">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="892.145" offset="3717907">--Well, are you using direct cause in the sense of proximate cause or not in your question?</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="895.597" stopTime="899.599">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="895.597" offset="3731699">That's the way you're using it, isn't it?</text>
+            <text syncTime="896.930" offset="3737028">I'm using it the way you're using it.</text>
+            <text syncTime="898.299" offset="3742566">I thought you meant proximate cause.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="899.599" stopTime="900.065">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="899.899" offset="3748940">I do.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="900.065" stopTime="902.665">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="900.065" offset="3749567">Well, one could be a but-for cause without being a proximate cause.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="902.665" stopTime="904.583">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="903.017" offset="3761374">Absolutely.</text>
+            <text syncTime="903.150" offset="3761897">And that's what we have--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="904.583" stopTime="905.217">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="904.583" offset="3767644">So then why was it a hard question?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="905.217" stopTime="910.504">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="905.217" offset="3770151">--That's what we... as I say, I'm trying to be polite and respectful.</text>
+            <text syncTime="908.319" offset="3782586">I think I've answered the question, I didn't find it that hard to do.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="910.504" stopTime="911.471">
+            <label>Justice Byron R. White</label>
+            <text syncTime="910.504" offset="3791363">xxx anyway.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="911.471" stopTime="916.325">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="911.471" offset="3795229">Maybe it wasn't that hard, but in any event--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="916.325" stopTime="918.710">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="916.325" offset="3814664">Then again, what is the answer?</text>
+            <text syncTime="917.675" offset="3819993">[Laughter]</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="918.710" stopTime="936.801">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="918.710" offset="3824173">--The answer is, in my view, if you are not a purchaser or seller you are not causally connected, proximate cause, by reason of the alleged harm.</text>
+            <text syncTime="932.000" offset="3877358">That's my answer.</text>
+            <text syncTime="933.683" offset="3884045">But again, I can see where you're coming from, and I think I can--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="936.801" stopTime="942.586">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="936.801" offset="3896480">Even though... even though but for the illegal conduct, the SIPC would not have had to pay any money.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="942.586" stopTime="965.200">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="942.586" offset="3919676">--Yes.</text>
+            <text syncTime="942.788" offset="3920512">And that's Justice Scalia... that's the point in Justice Scalia's question.</text>
+            <text syncTime="944.838" offset="3928662">There's a difference between but-for causation and proximate causation, and I do want to be clear about that, if I wasn't clear about anything else.</text>
+            <text syncTime="951.292" offset="3954471">But-for causation is not enough to establish the by reason of requirement to be satisfied.</text>
+            <text syncTime="957.630" offset="3979862">It's got to be proximate causation.</text>
+            <text syncTime="959.146" offset="3985923">I don't think there is proximate causation if you're not a purchaser or seller of securities.</text>
+            <text syncTime="963.415" offset="4002955">I don't think you can get that causal connection.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="965.200" stopTime="973.621">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="965.200" offset="4010164">Now what if the predicate acts relied on are wire fraud or mail fraud?</text>
+            <text syncTime="970.771" offset="4032421">Does that alter the analysis in some way?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="973.621" stopTime="989.983">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="973.621" offset="4043810">I'm very glad you raised that question.</text>
+            <text syncTime="974.723" offset="4048199">I don't think it alters the analysis at all.</text>
+            <text syncTime="976.223" offset="4054259">And indeed, what has happened in litigation generally, and in this litigation, is people with a simple turn of phrase... and that's what SIPC did in this complaint, they pled alternatively securities fraud and/or wire and mail fraud.</text>
+            <text syncTime="988.197" offset="4102115">But the analysis is exactly the same.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="989.983" stopTime="997.719">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="989.983" offset="4109221">Well, of course, for wire fraud or for mail fraud, do you still have to... you say there still has to be a purchaser or seller?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="997.719" stopTime="1020.268">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="997.719" offset="4140150">Yes, for the reason that the provisions of 1964(c), the requirement that injury be to a person's business or property, meaning direct injury, and that the injury be by reason of, meaning proximate causal connection, those two requirements come from 1964(c), which applies to all predicate acts.</text>
+            <text syncTime="1015.181" offset="4210053">And therefore, they apply whether you're talking wire/mail fraud, or whether you're talking securities fraud.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1020.268" stopTime="1029.691">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1020.268" offset="4230429">Well, then as presented so far, your argument doesn't depend on our opinion in Blue Chip Stamps.</text>
+            <text syncTime="1026.489" offset="4255298">It's an interpretation of the RICO section itself.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="1029.691" stopTime="1036.678">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="1029.691" offset="4268045">That's absolutely true, Mr. Chief Justice, but you were correct in saying as presented so far.</text>
+            <text syncTime="1033.309" offset="4282569">I've not gotten to the point yet, as I'm about to, to discuss Blue Chip.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1036.678" stopTime="1038.361">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1036.678" offset="4296049">You're getting to the third point, are you?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="1038.361" stopTime="1041.896">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="1038.361" offset="4302736">I've got at least three, yes.</text>
+            <text syncTime="1039.880" offset="4308796">Three, and I'll go more if I'm permitted.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1041.896" stopTime="1044.265">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1041.896" offset="4316947">You might think of more on the way, is that it?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="1044.265" stopTime="1046.117">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="1044.265" offset="4326351">I will keep going as long as I can.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1046.117" stopTime="1049.583">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1046.117" offset="4333769">All right.</text>
+            <text syncTime="1046.750" offset="4336277">Well, anyway, you've gotten... you've got through two of them.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="1049.583" stopTime="1257.029">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="1049.583" offset="4347667">Yes.</text>
+            <text syncTime="1049.785" offset="4348502">And the third... the third one has to do with in effect, Blue Chip, and that is this: that the RICO predicate act is defined as fraud in the sale of securities.</text>
+            <text syncTime="1061.391" offset="4394896">And that's a very interesting definition of a predicate act, it contrasts with the other predicate acts in the statute.</text>
+            <text syncTime="1066.378" offset="4414853">All the other predicate acts define crimes as crimes, for example, murder, kidnappings, State crimes... and also Federal crimes by citation to Federal statutes.</text>
+            <text syncTime="1075.567" offset="4451634">If there was going to be a parallel incorporation of a securities crime, it should have said, for example, any violation of section 32 of the Securities Exchange Act, which is what criminalizes securities law violations.</text>
+            <text syncTime="1087.041" offset="4497505">It doesn't say that.</text>
+            <text syncTime="1088.160" offset="4501998">It says something much more narrow.</text>
+            <text syncTime="1089.926" offset="4508999">It says fraud in the sale of securities.</text>
+            <text syncTime="1091.462" offset="4515164">It also doesn't say any fraud in connection with securities.</text>
+            <text syncTime="1095.747" offset="4532300">That would be fraud.</text>
+            <text syncTime="1096.247" offset="4534285">But no, this predicate act is more narrowly drafted.</text>
+            <text syncTime="1099.282" offset="4546406">Fraud in the sale of securities.</text>
+            <text syncTime="1101.582" offset="4555601">That makes the concept of sale central.</text>
+            <text syncTime="1104.334" offset="4566677">And that brings us, in my view, to the Chief Justice's excellent opinion when he was an associate justice in Blue Chip Stamp, which spoke about what the requirements were for standing with respect to fraud in the sale of securities.</text>
+            <text syncTime="1116.542" offset="4615474">And those principles... that decision in 1975, was based upon, and involved from a principal of law back in the Birnbaum case, dating back to 1952, a Second Circuit case.</text>
+            <text syncTime="1125.932" offset="4653090">And those principles were accepted ever since 1952, even earlier, really.</text>
+            <text syncTime="1130.551" offset="4671480">They've existed in securities law for 40 years, and when RICO was passed in 1970, Congress reflected no intention to overrule, subvert, circumvent, do away with, existing securities laws, principles, and decisions.</text>
+            <text syncTime="1144.811" offset="4728532">And so that standing limitation that comes from Blue Chip should be carried forward when looking at RICO.</text>
+            <text syncTime="1151.965" offset="4757162">And RICO talks about fraud in the sale of securities because that's a piece of learning, basic learning, about what fraud in the sale of securities is and involved, and it's a settled, litigated matter at the Supreme Court level, that is a decision that there was no objection to at all anywhere in the congressional history of RICO.</text>
+            <text syncTime="1168.224" offset="4822259">So it seems to me we have here all but an incorporation by reference in the listing of predicate acts of this decision in Blue Chip, and the whole developed notions of securities law and standing surrounding it.</text>
+            <text syncTime="1182.317" offset="4878579">And they carry with it certain principles of standing.</text>
+            <text syncTime="1184.936" offset="4889028">Congress didn't intend to overrule those principles.</text>
+            <text syncTime="1187.471" offset="4899164">They should be carried forward into RICO when RICO incorporates fraud in the sale of securities as a predicate act.</text>
+            <text syncTime="1193.958" offset="4925182">So those are the principal reasons why I think essentially we have a situation where the very language of section 1964(c) in its three component parts,</text>
+            <text syncTime="1204.314" offset="4966560">"injured in his business or property. "</text>
+            <text syncTime="1206.015" offset="4973351">RICO either because of the way RICO was drafted or because of what RICO incorporates by reference.</text>
+            <text syncTime="1226.279" offset="5054435">But either way, one reaches the same result.</text>
+            <text syncTime="1229.231" offset="5066243">Now, there are a couple of arguments that I've seen in SIPC's brief, and I'm sure that the Court has looked at them and has considered them, and I'd like to comment on them for a moment.</text>
+            <text syncTime="1237.801" offset="5100515">One has to do with the principle of broad construction.</text>
+            <text syncTime="1241.289" offset="5114517">SIPC says RICO is to be construed broadly.</text>
+            <text syncTime="1245.074" offset="5129564">True enough.</text>
+            <text syncTime="1245.891" offset="5132907">RICO is to be construed broadly.</text>
+            <text syncTime="1247.692" offset="5140117">But broad construction does not mean construction in contradiction of the plain meaning of the words of the statute.</text>
+            <text syncTime="1255.179" offset="5170001">And what we are arguing here--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1257.029" stopTime="1261.999">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1257.029" offset="5177420">Well, why is RICO to be construed broadly?</text>
+            <text syncTime="1260.047" offset="5189541">Is that something this Court has said?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="1261.999" stopTime="1263.516">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="1261.999" offset="5197273">--This statute says it.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1263.516" stopTime="1264.618">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1263.516" offset="5203333">The statute says it.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="1264.618" stopTime="1276.140">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="1264.618" offset="5207827">The statute says it.</text>
+            <text syncTime="1264.901" offset="5208871">And also, I think that this Court has managed to decide cases by not viewing the statutory mandate to construe RICO broadly as central to this Court's decision.</text>
+            <text syncTime="1274.141" offset="5245861">I think that's a correct approach.</text>
+            <text syncTime="1275.307" offset="5250563">I don't think--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1276.140" stopTime="1276.707">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1276.140" offset="5253907">What does the statute say?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="1276.707" stopTime="1458.766">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="1276.707" offset="5256101">--The statute at some point says... I don't have the section offhand... says that RICO is to be construed liberally to effectuate its remedial purposes.</text>
+            <text syncTime="1284.277" offset="5286403">That's in the RICO statute.</text>
+            <text syncTime="1285.394" offset="5290896">That's a statutory mandate.</text>
+            <text syncTime="1286.646" offset="5295911">I don't think that statutory mandate need or should govern or even applies to your decision, but SIPC thinks it does.</text>
+            <text syncTime="1293.300" offset="5322556">It's in their brief, so I'm raising it to talk about.</text>
+            <text syncTime="1295.602" offset="5331751">I think that all "broad meaning" means is that you should look at the plain meaning of the words, apply them fairly.</text>
+            <text syncTime="1302.838" offset="5360695">And when one does that here, one reaches a conclusion, I believe, that there's no standing.</text>
+            <text syncTime="1308.040" offset="5381489">So I don't think the requirement that RICO be construed broadly, if it is a requirement, need dictate your decision.</text>
+            <text syncTime="1314.527" offset="5407402">The second argument that SIPC has raised, which I think should not persuade this Court... and I'd like to deal with it just to be sure, if there are any questions on it... has to do with the express and implied limitation or differentiation.</text>
+            <text syncTime="1327.453" offset="5459124">SIPC says, pointing back to the Blue Chip decision... which SIPC... by the way, SIPC doesn't even recognize it's bound by Blue Chip.</text>
+            <text syncTime="1333.773" offset="5484411">In one of it's footnotes, SIPC suggests that Blue Chip, unfortunately precludes SIPC from recovering.</text>
+            <text syncTime="1339.011" offset="5505413">Blue Chip... it's not unfortunate, it's correct law.</text>
+            <text syncTime="1342.213" offset="5518161">But in any event, Blue Chip evolved from section 10(b) and rule 10b-5, and judicially implied causes of action.</text>
+            <text syncTime="1350.652" offset="5551911">RICO, of course, is express.</text>
+            <text syncTime="1352.369" offset="5558808">The Ninth Circuit and SIPC have tended to put significance of that and have said that because RICO is express and Blue Chip is dealing with implied remedy, somehow the construction of them should be different, or the construction of RICO should be more broad because one is dealing with an express statute.</text>
+            <text syncTime="1371.482" offset="5635294">But if one looks at what it is that's expressed in 1964(c), what the express... statute expresses, it has the very limitations on it that we are arguing for... namely, that the injury must be by reason of, and it must be injury to the business or property of the claimant.</text>
+            <text syncTime="1389.444" offset="5707079">Now there is another aspect of the case, which again is unique to SIPC, does not involve the general principal, but I think it needs to be address only because I think this Court should deal with the general principal, and it would be unfortunate... unfortunate, I think, for the case law in general... if the Court focuses only on the nature of SIPC, so I would like to briefly address that for a second.</text>
+            <text syncTime="1408.338" offset="5782625">Because SIPC argues that they have a special status, and somehow, whatever the general rule is should not apply to them.</text>
+            <text syncTime="1415.094" offset="5809688">That's in SIPC's brief.</text>
+            <text syncTime="1416.127" offset="5813867">I'd like to make clear, in the event it isn't already so, that SIPC is not a Government agency, that SIPC is not a successor in interest to the brokerage firm.</text>
+            <text syncTime="1426.833" offset="5856604">That's the trustees.</text>
+            <text syncTime="1427.583" offset="5859634">And the trustee standing is undisputed.</text>
+            <text syncTime="1429.833" offset="5868620">They've got standing.</text>
+            <text syncTime="1430.535" offset="5871441">They're in the case.</text>
+            <text syncTime="1431.351" offset="5874680">That SIPC is not an agency trained in prosecutorial discretion.</text>
+            <text syncTime="1436.522" offset="5895369">SIPC is not the Department of Justice; SIPC is not the Securities and Exchange Commission.</text>
+            <text syncTime="1441.141" offset="5913864">Though SIPC is statutorily mandated, it is essentially mandated, it is a private system of mandatory assessments against securities brokerage firms.</text>
+            <text syncTime="1448.996" offset="5945315">So I don't think that SIPC deserves that the special status that would be accorded the Department of Justice in a criminal prosecution.</text>
+            <text syncTime="1456.000" offset="5973319">This isn't the Department of Justice; it isn't the criminal prosecution.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1458.766" stopTime="1472.210">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1458.766" offset="5984395">Can you tell me whether the record shows the extent to which SIPC... when it makes payments like they made here, some, I don't know, $ 12, 000, 000 or whatever it was... to what extent are they subrogated to the rights of the person to whom they made the payment?</text>
+            <text syncTime="1471.010" offset="6033400">Does the record tell us?</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="1472.210" stopTime="1493.752">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="1472.210" offset="6038207">That's a matter of dispute.</text>
+            <text syncTime="1473.443" offset="6043118">I would say that we could look at the record and argue about it.</text>
+            <text syncTime="1476.295" offset="6054507">But SIPC would say that they are subrogated.</text>
+            <text syncTime="1479.263" offset="6066419">We would say that they are subrogated only to claims against the brokers and not necessarily to all third-party claims.</text>
+            <text syncTime="1484.565" offset="6087631">And we would say the Ninth Circuit said in this case that they're not subrogated to claims against... to fraud claims against third parties.</text>
+            <text syncTime="1491.819" offset="6116574">And SIPC did not appeal that determination.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1493.752" stopTime="1495.835">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1493.752" offset="6124307">So you would take the position they're not subrogated.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="1495.835" stopTime="1496.251">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="1495.835" offset="6132666">That's correct.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1496.251" stopTime="1501.203">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1496.251" offset="6134338">It would seem to me it would help you to take the position they were subrogated in order to avoid your client's risk of double recovery.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="1501.203" stopTime="1510.975">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="1501.203" offset="6154086">No, I think if I take the position they're subrogated, then maybe they can... they can acquire the claim of a purchaser of seller.</text>
+            <text syncTime="1507.190" offset="6178119">If I take the position they're not subrogated, they can't get near a purchaser or seller.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1510.975" stopTime="1515.394">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1510.975" offset="6193270">No, but the purchaser or seller's going to sue.</text>
+            <text syncTime="1513.777" offset="6204450">Well, I don't understand.</text>
+            <text syncTime="1514.611" offset="6207794">I'm sorry.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="1515.394" stopTime="1519.497">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="1515.394" offset="6210929">I'm sorrier.</text>
+            <text syncTime="1516.796" offset="6216467">Thank you.</text>
+            <text syncTime="1517.913" offset="6220960">I'd like to reserve my remaining time for rebuttal.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1519.497" stopTime="1522.097">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1519.497" offset="6227333">Very well, Mr. Samet.</text>
+            <text syncTime="1520.663" offset="6231931">Mr. Blakey, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="1522.097" stopTime="3124.743">
+          <heading>Argument of G. Robert Blakey</heading>
+          <turn speaker="g_robert_blakey" startTime="1522.097" stopTime="1599.449">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1522.097" offset="6237678">Chief Justice Rehnquist, may it please the Court.</text>
+            <text syncTime="1525.817" offset="6252620">Must every person injured in his business or property by reason of a violation of the Racketeer Influenced and Corrupt Organizations Act, when the predicate offenses are securities fraud, mail fraud, and wire fraud, be a purchaser and seller... or seller to have a claim for relief?</text>
+            <text syncTime="1546.064" offset="6333600">Mr. Holmes says yes.</text>
+            <text syncTime="1548.080" offset="6341645">Securities Investor Protection Corporation says no.</text>
+            <text syncTime="1552.301" offset="6358573">SIPC's arguments may be summarized in three words and three short paragraphs: text, text, text.</text>
+            <text syncTime="1561.740" offset="6396293">RICO expressly incorporates by reference the express criminal provisions of the Securities and Exchange Act of 1934.</text>
+            <text syncTime="1571.596" offset="6435686">It does not incorporate the '34 act's judicially implied civil claim for relief.</text>
+            <text syncTime="1578.267" offset="6462435">As such, the purchaser-seller limitations on the implied private enforcement mechanism of the 1934 act, recognized by this Court in 1975 in Blue Chip, are simply not relevant under RICO's expressed private enforcement act.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1599.449" stopTime="1617.125">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1599.449" offset="6547072">Is there some questions, though, about how direct the injury must be for purposes of a RICO claim?</text>
+            <text syncTime="1606.686" offset="6576016">There's some discussion of that in some lower court cases, I take it, dealing with shareholders of corporations and union members and the like.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1617.125" stopTime="1633.468">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1617.125" offset="6617812">There is indeed.</text>
+            <text syncTime="1617.708" offset="6620111">The phrase</text>
+            <text syncTime="1618.375" offset="6622827">"injured in his business or property. "</text>
+            <text syncTime="1620.993" offset="6633276">has been understood... and properly, I think... in the context of corporations to exclude shareholders, in the context of unions to exclude members, in the context of counties to exclude taxpayers.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1633.468" stopTime="1641.656">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1633.468" offset="6683222">Well, the argument is made here that SIPC similarly stands in an indirect relationship to this claim.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1641.656" stopTime="1675.062">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1641.656" offset="6715928">Well, if the relationship between a broker and his customers, which is the relationship we deal here, has as its best common law analogue, bailor-bailee, and the classic position has been between bailor-bailee, that either has the ability to sue for injury to the property.</text>
+            <text syncTime="1661.302" offset="6794504">I would suggest to you, Justice O'Connor, however, that this relationship is not the common law relationship of bailor-bailee, but the peculiarly statutory relationship of a customer and a broker-dealer.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1675.062" stopTime="1696.475">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1675.062" offset="6849570">Would you explain to me, if you would, please, the capacity in which SIPC's suit is before us here?</text>
+            <text syncTime="1684.733" offset="6888231">Are you subrogated?</text>
+            <text syncTime="1686.769" offset="6896382">Is SIPC suing as a subrogee of anybody who had bought manipulated securities?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1696.475" stopTime="1721.608">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1696.475" offset="6935252">It is suing in several capacities for several claims.</text>
+            <text syncTime="1701.112" offset="6953747">It is not suing for, at this time, as a subrogee of any of the customers that had a purchaser-seller 10b-5 claim.</text>
+            <text syncTime="1712.003" offset="6997319">That's a separate claim and a separate cause of action.</text>
+            <text syncTime="1716.039" offset="7013515">And this record indicates that SIPC was unable to show that any of the customers on behalf... it's speaking--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1721.608" stopTime="1723.477">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1721.608" offset="7035771">And you still won the case.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1723.477" stopTime="1775.077">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1723.477" offset="7043190">--We still won the case, Justice White, because we are suing as a subrogee of customers who were not purchaser-sellers.</text>
+            <text syncTime="1731.214" offset="7074223">And under the peculiar provisions of SIPA, we are a real party in entrance in all matters growing out of liquidations, and thus, we have a... are entitled to be heard for all claims that can be asserted by the trustee.</text>
+            <text syncTime="1748.426" offset="7142978">And we are, in addition, subrogated to the trustees' claims insofar as we have paid him or advanced him money.</text>
+            <text syncTime="1758.032" offset="7181430">So we are here, not in our own right.</text>
+            <text syncTime="1761.500" offset="7195327">We do not stand in our own shoes; we stand in the shoes of customers who are not purchaser-seller, who were nonetheless injured.</text>
+            <text syncTime="1768.356" offset="7222703">And we stand in parallel shoes, statutorily, with the trustee itself.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1775.077" stopTime="1777.945">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1775.077" offset="7249662">Was that the theory of the court of appeals?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1777.945" stopTime="1781.147">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1777.945" offset="7261051">Your Honor, what's happened between--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1781.147" stopTime="1782.313">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1781.147" offset="7273903">Well, was it or not?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1782.313" stopTime="1785.599">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1782.313" offset="7278605">--No.</text>
+            <text syncTime="1783.147" offset="7281949">The only issue faced--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1785.599" stopTime="1789.384">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1785.599" offset="7291667">What... are you defending the court of appeals rationale?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1789.384" stopTime="1790.669">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1789.384" offset="7306818">--I am... yes.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1790.669" stopTime="1794.721">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1790.669" offset="7312042">That isn't the rationale you just stated.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1794.721" stopTime="1801.542">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1794.721" offset="7328238">Justice White, I'm... an interesting thing happened between the court of appeals and the Supreme Court.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1801.542" stopTime="1804.243">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1801.542" offset="7355510">That's not strange.</text>
+            <text syncTime="1803.410" offset="7362929">[Laughter]</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1804.243" stopTime="1877.489">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1804.243" offset="7366272">The argument that was presented in the court of appeals was basically an interpretation of the phrase "any person".</text>
+            <text syncTime="1811.166" offset="7393962">And we took the not unusual position that "any person" didn't mean any purchaser and seller.</text>
+            <text syncTime="1818.070" offset="7421547">And what's happened between the court of appeals and the Supreme Court is my good friend has moved off to the right a little bit and is trying to get the purchaser-seller limitations in through the back door.</text>
+            <text syncTime="1831.894" offset="7476927">Having failed to get it in through any person, he's attempting to insert it in through "injury to business or property" or "by reason of".</text>
+            <text syncTime="1841.499" offset="7515275">And we raised in the brief that this is perhaps not within the petition for cert. Nevertheless, I am perfectly willing to discuss that with the Court since you surely have discretion to hear anything that you want.</text>
+            <text syncTime="1854.493" offset="7567311">To the degree that he's challenged my "in my business or property" standing, to degrees that he has challenged my "injury by reason of", I have felt duty bound to answer those arguments.</text>
+            <text syncTime="1867.884" offset="7620809">I need not answer them to support the court of appeals.</text>
+            <text syncTime="1870.919" offset="7633035">Nevertheless, the court of appeals is equally supported in its own terms in arguments that I have made here today.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1877.489" stopTime="1895.284">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1877.489" offset="7659262">May I ask you a question at this point?</text>
+            <text syncTime="1879.023" offset="7665427">You point out there are three categories of claims: those by the individuals and sellers who are suing on their own, and you're not subrogated as to them; the intermediate non-purchaser or seller-customer claims; and third, the firm claims themselves, where you are subrogated.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1895.284" stopTime="1896.017">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1895.284" offset="7730419">That's correct.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1896.017" stopTime="1912.377">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1896.017" offset="7733345">Now, my question is this.</text>
+            <text syncTime="1897.367" offset="7738778">Supposing that the combination of recoveries in the first and third categories exceeds or equals the amount of damage done by the defendants.</text>
+            <text syncTime="1907.389" offset="7778902">Are you still entitled to recover something additional for the second category of claims?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1912.377" stopTime="1923.315">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1912.377" offset="7798860">Well, I have to kind of go back through and figure it out.</text>
+            <text syncTime="1914.893" offset="7808891">The way it works out, there's no double recovery.</text>
+            <text syncTime="1917.412" offset="7818922">If the parties themselves... if the purchaser-seller customers recover--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1923.315" stopTime="1924.684">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1923.315" offset="7842537">100 cents on the dollar.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1924.684" stopTime="1929.052">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1924.684" offset="7848075">--100 cents on a dollar, and we did not reimburse any of them, that takes care--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1929.052" stopTime="1930.002">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1929.052" offset="7865524">Oh, so they would not be... okay.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1930.002" stopTime="1933.037">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1930.002" offset="7869286">--That's not taking any... take care of--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1933.037" stopTime="1937.239">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1933.037" offset="7881511">All right.</text>
+            <text syncTime="1933.287" offset="7882452">Then there's a category of nonpurchaser-seller customers whom you did reimburse.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1937.239" stopTime="1939.089">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1937.239" offset="7898230">--That's correct.</text>
+            <text syncTime="1937.989" offset="7901260">We now stand in their shoes.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1939.089" stopTime="1950.197">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1939.089" offset="7905649">And assume that the wrongdoers have paid the firm everything it tortiously took from this firm, and the other customers, everything that they lost.</text>
+            <text syncTime="1948.130" offset="7941802">Are you still entitled to recover for the--</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1950.197" stopTime="1952.249">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1950.197" offset="7950057">If everybody has been paid off everything--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1952.249" stopTime="1960.854">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1952.249" offset="7958311">--Well, not the category that you've had to reimburse, because they were presumably hurt by other... you know, this is not the sole cause of the failure of this firm.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="1960.854" stopTime="2125.858">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="1960.854" offset="7992689">--Well, Your Honor, I think it's really appropriate to talk about how this firm went under.</text>
+            <text syncTime="1965.306" offset="8010556">This firm did not go under simply by a fraud in the purchase and sale of security.</text>
+            <text syncTime="1970.591" offset="8031663">The underlying challenge here is to have schemed to defraud.</text>
+            <text syncTime="1973.893" offset="8044933">And in the scheme to defraud, we had factually a situation where... and maybe I should explain the record here.</text>
+            <text syncTime="1981.916" offset="8077012">Mr. Holmes' co-conspirator, Mr. Lugo, took stock out of proprietary account in First State, and moved it into Mr. Holmes' account.</text>
+            <text syncTime="1994.289" offset="8126435">And the reason he did that is he would avoid his liquidity crisis that would come from the discount for the stock in the proprietary account.</text>
+            <text syncTime="2004.514" offset="8167395">He did that for one purpose and one purpose only, to hide the fact that he had a net capital deficiency.</text>
+            <text syncTime="2012.703" offset="8200101">Because he was able to hide the fact that he had a net capital deficiency, he was able to stay in business for a longer period of time.</text>
+            <text syncTime="2020.191" offset="8230089">And not only did he go under, and had he not done it, he would have gone under for about $ 700, 000... he... not only he went under, but he took in Sebag in California.</text>
+            <text syncTime="2032.498" offset="8279304">He hid that, not from purchaser-sellers.</text>
+            <text syncTime="2037.252" offset="8298321">He hid that from the regulatory system.</text>
+            <text syncTime="2039.770" offset="8308352">And we are part and parcel of the regulatory system.</text>
+            <text syncTime="2042.472" offset="8319219">The scheme to defraud that did in these two broker-dealers is a scheme that transcends fraud on individual purchaser and sellers who were customers.</text>
+            <text syncTime="2053.428" offset="8363000">It's a fraud against the broker-dealer and it's a fraud against the regulatory system as well.</text>
+            <text syncTime="2061.184" offset="8394034">Let me give it to you as a practical example.</text>
+            <text syncTime="2065.469" offset="8411170">Suppose a terrorist group wanted to engage in fundraising activities and they decided to work a life insurance scam involving some of its own members.</text>
+            <text syncTime="2080.597" offset="8471670">And they blow up an airplane to collect the life insurance on those two member passengers.</text>
+            <text syncTime="2087.335" offset="8498628">Clearly the insurance company, if it pays off, will be subrogated to the estates in their claims.</text>
+            <text syncTime="2092.989" offset="8521302">The issue here, though, is whether there is an injury in the business or property and a proximate cause relationship to the injury also done to the other passengers and to the airlines.</text>
+            <text syncTime="2105.480" offset="8571249">And that's precisely what we have here.</text>
+            <text syncTime="2108.015" offset="8581384">This is not a fraud directed to just some purchasers.</text>
+            <text syncTime="2111.616" offset="8595804">It was a fraud that in its scheme took in the broker-dealers and all of the customers who were there.</text>
+            <text syncTime="2117.454" offset="8619105">Accordingly, we suggest that there is a... SIPC is a proper party plaintiff to bring it because it stands in--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2125.858" stopTime="2131.928">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2125.858" offset="8652751">But as you describe it, let's be sure I understand, as you describe it, I would think my second category would also have a cause of action against these people.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2131.928" stopTime="2140.868">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2131.928" offset="8676992">--Oh, I think they do.</text>
+            <text syncTime="2132.630" offset="8679813">I think the other customers have a category and a claim.</text>
+            <text syncTime="2137.666" offset="8699980">Interestingly enough, if we've paid them off--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2140.868" stopTime="2142.834">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2140.868" offset="8712832">Even though they are not purchasers or sellers.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2142.834" stopTime="2163.197">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2142.834" offset="8720669">--That's correct.</text>
+            <text syncTime="2143.570" offset="8723595">Well, they may have it under the security statutes, too.</text>
+            <text syncTime="2148.538" offset="8743448">What we would suggest to you is, and now I'm not really arguing securities.</text>
+            <text syncTime="2152.759" offset="8760375">I'm arguing injury to business or property, and I'm arguing injury by reason of, which has nothing to do, as he's presented it, with the fact that it's underlying security.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2163.197" stopTime="2185.861">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2163.197" offset="8802067">I don't know any other statute where there is not some proximity requirement placed upon the ability to recover.</text>
+            <text syncTime="2171.887" offset="8836862">I mean, really what you're saying is if by reason of this fraud somehow somebody's uncle got mad and cut them out of the will, they would have a cause of action under RICO so long as they could establish that causality.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2185.861" stopTime="2238.626">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2185.861" offset="8892764">No.</text>
+            <text syncTime="2186.277" offset="8894435">But let me give you a slightly different example from the common law.</text>
+            <text syncTime="2190.395" offset="8910945">It is standard Hornbook law that if I defrauded a testator into leaving to me property, and Justice White would have been the person to whom the request goes, he has a claim for relief against me, even though he's not the immediate target because he's within the intended sphere.</text>
+            <text syncTime="2213.177" offset="9002060">Let me rive you another example... is if a group of corporations undertake a pattern of fraud to cheat the Government, clearly the Government can sue, but what about the next honest bidder who would have obtained the bid but for?</text>
+            <text syncTime="2229.520" offset="9067366">I think that next honest bidder has a claim for relief.</text>
+            <text syncTime="2233.239" offset="9082308">And on this issue, which is the proximate cause question, there was a summary judgment below.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2238.626" stopTime="2241.625">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2238.626" offset="9103833">Do you have any cases on that?</text>
+            <text syncTime="2240.959" offset="9113133">That surprises me.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2241.625" stopTime="2242.542">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2241.625" offset="9115849">Yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2242.542" stopTime="2244.511">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2242.542" offset="9119507">The defrauded bidder would have--</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2244.511" stopTime="2245.094">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2244.511" offset="9127343">Yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2245.094" stopTime="2248.129">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2245.094" offset="9129747">--I mean the bidder who would have gotten it but for the fraud?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2248.129" stopTime="2251.831">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2248.129" offset="9141867">Yes.</text>
+            <text syncTime="2248.512" offset="9143330">The Environmental Tectonics v.--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2251.831" stopTime="2257.152">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2251.831" offset="9156600">On the basis of defrauding or on the basis of unfair business practices?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2257.152" stopTime="2298.109">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2257.152" offset="9177916">--No.</text>
+            <text syncTime="2257.468" offset="9179170">Environmental Tectonics v. Kirpatrick, which is both an antitrust case and a securities... I mean and a RICO case... 847 F. 2d 1052 1007, in the Third Circuit, affirmed on other grounds by this Court.</text>
+            <text syncTime="2273.744" offset="9244267">My reference to the defrauded testator is supported by Bohannon v. Wachovia Bank and Trust Company, 210 North Carolina 679.</text>
+            <text syncTime="2287.087" offset="9297662">My illustration of the terrorist in the airplane, slightly modified, is reflected in Judge Posner's RICO decision in the Seventh Circuit in the matter of E.D.C.--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2298.109" stopTime="2318.568">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2298.109" offset="9341756">But the terrorist in the airplane is different.</text>
+            <text syncTime="2299.609" offset="9347712">These are other people who are harmed proximately by the same act, although they are not the persons who have the cause of action for the fraud.</text>
+            <text syncTime="2307.029" offset="9377387">But they are proximately harmed by the same act.</text>
+            <text syncTime="2309.779" offset="9388463">Here you have a person who is further down the line.</text>
+            <text syncTime="2312.664" offset="9399957">Every time you harm somebody you harm other people who are dependent on that somebody.</text>
+            <text syncTime="2316.885" offset="9416884">And that's what occurred here.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2318.568" stopTime="2330.443">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2318.568" offset="9423572">--Your Honor, no, we're not arguing that the mother, the brother, the uncle, of any of the purchasers, or the landlord of one of the customers who now, because the customer was defrauded, can't continue to maintain his rent.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2330.443" stopTime="2332.311">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2330.443" offset="9471115">What about the employees of Sebag?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2332.311" stopTime="2333.061">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2332.311" offset="9478533">No.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2333.061" stopTime="2333.945">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2333.061" offset="9481564">Why not?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2333.945" stopTime="2365.413">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2333.945" offset="9485116">The injury there is precisely to injury... to... this is the corporate analogy.</text>
+            <text syncTime="2339.131" offset="9505805">The injury is to Sebag.</text>
+            <text syncTime="2340.750" offset="9512284">Sebag has the claim for relief.</text>
+            <text syncTime="2342.666" offset="9520016">The customer... the customers were not injured in their business and property within the meaning of RICO, injured in their business or property.</text>
+            <text syncTime="2350.272" offset="9550422">But we sue here for the injury to the customers.</text>
+            <text syncTime="2353.724" offset="9564215">The causal relationship between their illegal conduct and the injury to the customers is the same, whether it is a purchaser-seller customer, or whether it is a nonpurchaser-seller customer.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2365.413" stopTime="2387.361">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2365.413" offset="9610922">Could I ask the question in another way?</text>
+            <text syncTime="2368.198" offset="9622102">Some courts have spoken of it in terms of a direct injury requirement.</text>
+            <text syncTime="2374.036" offset="9645508">Is it your position that if there is such a requirement for a RICO cause of action, that the customers who were not purchasers of the manipulated securities were nonetheless directly injured?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2387.361" stopTime="2420.382">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2387.361" offset="9698798">Yes.</text>
+            <text syncTime="2387.828" offset="9700679">This is a question of proximate causation, and it's a question as to which we raised in the court below, a material question of fact, as so found by Judge Toshima.</text>
+            <text syncTime="2400.136" offset="9749893">It is a question that the defendant below defended on the grounds that there was no proximate relationship between his personal conduct and the fraud and the collapse.</text>
+            <text syncTime="2410.492" offset="9791271">That was accepted by Judge Toshima, and it was reversed by the Ninth Circuit on the grounds that he was equally responsible with his xx conspirators' conduct.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2420.382" stopTime="2433.023">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2420.382" offset="9830873">May I ask this, Mr. Blakey?</text>
+            <text syncTime="2424.751" offset="9848323">This intermediate group of customers who did not themselves buy or sell, under your view of RICO I take it they would have been able to sue under RICO?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2433.023" stopTime="2450.735">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2433.023" offset="9881446">Clearly under RICO, and a minimum, the predicate offense is mail fraud or wire fraud.</text>
+            <text syncTime="2438.927" offset="9905061">And we think they could just as easily sue using a fraud... the Securities Act because this does not incorporate 10b-5.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2450.735" stopTime="2454.187">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2450.735" offset="9952290">How could they sue?</text>
+            <text syncTime="2451.651" offset="9955947">What money was obtained from them?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2454.187" stopTime="2458.453">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2454.187" offset="9966083">It's the loss that they suffered.</text>
+            <text syncTime="2456.453" offset="9975173">As soon... what happened here--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2458.453" stopTime="2463.523">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2458.453" offset="9983115">Anyone that is caused a loss by the deceiving of someone else has a cause of action for fraud?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2463.523" stopTime="2499.863">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2463.523" offset="10003386">--Well, Your Honor, part of the problem here is that scheme to defraud is not equivalent to common law deceit.</text>
+            <text syncTime="2473.063" offset="10041524">As this Court has recognized, for example, in Carpenter, it extends to misappropriation.</text>
+            <text syncTime="2478.449" offset="10063154">This Court has not limited scheme to defraud to the common law meaning.</text>
+            <text syncTime="2482.401" offset="10078932">It included chicanery and overreaching.</text>
+            <text syncTime="2485.353" offset="10090739">And the chicanery and overreaching in this situation caused this broker-dealer to go under.</text>
+            <text syncTime="2491.007" offset="10113309">When that broker-dealer went under, it took out the business and it took out the property that the broker-dealer had in its hands.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2499.863" stopTime="2506.850">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2499.863" offset="10148731">They are all subsequent consequences of the fraud.</text>
+            <text syncTime="2504.065" offset="10165554">They are not themselves a defrauding.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2506.850" stopTime="2516.539">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2506.850" offset="10176734">Well, but in this context, the defrauding was of the broker-dealership itself.</text>
+            <text syncTime="2512.254" offset="10198364">For example, if you sink a boat, it sinks all passengers.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2516.539" stopTime="2525.561">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2516.539" offset="10215500">Yes, it's called a sinking, though.</text>
+            <text syncTime="2518.372" offset="10222814">It's not called fraud.</text>
+            <text syncTime="2519.741" offset="10228248">Fraud means obtaining money or property from someone.</text>
+            <text syncTime="2523.109" offset="10241727">It doesn't mean tricking someone and--</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2525.561" stopTime="2541.904">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2525.561" offset="10251549">That's what common law deceit meant.</text>
+            <text syncTime="2527.628" offset="10259804">Mail fraud says scheme to defraud and scheme to defraud has never been limited to common-law deceit.</text>
+            <text syncTime="2535.001" offset="10289374">If Congress had meant common-law deceit in 1972 when it enacted the mail fraud statute, it would have said deceit.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2541.904" stopTime="2564.566">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2541.904" offset="10316960">--I'm not saying it means common-law deceit.</text>
+            <text syncTime="2544.022" offset="10325423">I am saying that it means obtaining money or property from someone.</text>
+            <text syncTime="2547.640" offset="10339843">And your claim here is not based upon... even on this other category of persons, is not based on obtaining any money or property from them.</text>
+            <text syncTime="2556.662" offset="10375996">They are consequentially injured because of the wrongful obtaining of property and money from somebody else.</text>
+            <text syncTime="2562.900" offset="10400969">It's just one of the ripples that--</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2564.566" stopTime="2623.354">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2564.566" offset="10407552">The issue here is... can be put in terms of what is the target of the fraud.</text>
+            <text syncTime="2571.671" offset="10435973">If you focus the target only to obtain the property from the meaning person, you answer is obviously correct.</text>
+            <text syncTime="2578.909" offset="10464917">But all... but the problem with target in that context, it's a nubber-band word.</text>
+            <text syncTime="2583.146" offset="10481949">You can narrow it that way or you can extend it to ask what were the means by which the property was done in?</text>
+            <text syncTime="2589.550" offset="10507549">And if the means included destroying someone else's property, as you got there, that person is part of the intended scope of the fraud.</text>
+            <text syncTime="2598.073" offset="10541613">And he equally ought to have a claim for relief as the person who is the primary target.</text>
+            <text syncTime="2603.125" offset="10561779">You can be an intended target and not be the primary target.</text>
+            <text syncTime="2608.029" offset="10581423">That's the airplane example.</text>
+            <text syncTime="2609.562" offset="10587588">My intended target was my two people and the insurance company, but I took out the whole airplane.</text>
+            <text syncTime="2614.165" offset="10605978">My intended target was cheating the people who were buying and selling the stock, but my impact of it was to take out the entire broker-dealership.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2623.354" stopTime="2643.377">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2623.354" offset="10642759">--You took them down directly.</text>
+            <text syncTime="2625.054" offset="10649551">When you took the plane down, you took them down directly.</text>
+            <text syncTime="2627.304" offset="10658537">They didn't go down as a result of the other people going down.</text>
+            <text syncTime="2630.137" offset="10669822">The analog to your plane incident is the business run by the person who was bombed fails because he's no longer managing it.</text>
+            <text syncTime="2640.825" offset="10712662">That's the analog to what's going on here--</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2643.377" stopTime="2667.810">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2643.377" offset="10722798">Justice Scalia, this is a fact-specific question that was raised in the trial court and the held... the holding below is that we raised a material question of fact on that question.</text>
+            <text syncTime="2654.918" offset="10768982">And I think that it is in one sense not in the grant of cert, but if it is in the grant of cert, we have to deal with the facts as argued and found below, the facts as--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2667.810" stopTime="2670.928">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2667.810" offset="10820600">--What fact?</text>
+            <text syncTime="2668.310" offset="10822586">What fact is found below that I am contradicting?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2670.928" stopTime="2696.675">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2670.928" offset="10833035">--Well, if you take a look at the Bunnington Park.</text>
+            <text syncTime="2675.547" offset="10851529">When property was taken out of one account and put into another, to keep the broker-dealership alive, that is part of the scheme to defraud.</text>
+            <text syncTime="2685.153" offset="10889982">And it was only because it was kept alive for a period of time that when it did collapse it took out not only the property of the immediate target of the fraud.</text>
+            <text syncTime="2693.925" offset="10924986">It took out all the other customers' property as well.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2696.675" stopTime="2705.983">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2696.675" offset="10936062">Mr. Blakey, you're speaking as if it were a trial below.</text>
+            <text syncTime="2699.043" offset="10945466">But as I understand it... and you talk about facts that were found below.</text>
+            <text syncTime="2702.781" offset="10960408">The district court granted summary judgment, did it not?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2705.983" stopTime="2712.387">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2705.983" offset="10973260">It granted summary judgment only on the issue is we were not a purchaser-seller.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2712.387" stopTime="2714.337">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2712.387" offset="10998860">Were other issues actually tried?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2714.337" stopTime="2716.421">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2714.337" offset="11006697">All the other issues were raised.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2716.421" stopTime="2719.640">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2716.421" offset="11014951">Well, I didn't ask you whether they were raised; I asked you whether they were tried.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2719.640" stopTime="2721.742">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2719.640" offset="11027908">They were posed in a motion for--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2721.742" stopTime="2722.208">
+            <label>Unknown Speaker</label>
+            <text syncTime="2721.742" offset="11036267">I didn't--</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2722.208" stopTime="2722.791">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2722.208" offset="11038148">--No, they were not tried.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2722.791" stopTime="2727.260">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2722.791" offset="11040447">--Okay.</text>
+            <text syncTime="2723.074" offset="11041596">Then answer the question briefly, if you will.</text>
+            <text syncTime="2725.326" offset="11050582">They were not tried.</text>
+            <text syncTime="2726.576" offset="11055598">Is that correct?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2727.260" stopTime="2727.593">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2727.260" offset="11058315">Correct.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2727.593" stopTime="2739.234">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2727.593" offset="11059673">And then the Ninth Circuit reviewed the... reversed the grant of summary judgment.</text>
+            <text syncTime="2732.480" offset="11079213">There were no factual findings made in the sense you're talking about.</text>
+            <text syncTime="2736.349" offset="11094677">Both courts were dealing with motions for summary judgment.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2739.234" stopTime="2741.420">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2739.234" offset="11106275">Perhaps I misspoke.</text>
+            <text syncTime="2740.920" offset="11112963">What I should--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2741.420" stopTime="2741.803">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2741.420" offset="11114948">I think you did.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2741.803" stopTime="2767.368">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2741.803" offset="11116515">--And I withdraw what I said, and would like to rephrase it.</text>
+            <text syncTime="2745.372" offset="11130831">For the purposes of the summary judgment, the lower court found that we had raised a material question of fact on each of these other issues, that there was an enterprise that we were employed and associated by, that there was a pattern, and that there was a nexus, a proximate cause nexus between the wrongdoer's conduct and the injuries sustained.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2767.368" stopTime="2771.903">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2767.368" offset="11218811">The court found that in a summary judgment proceeding?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2771.903" stopTime="2772.970">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2771.903" offset="11236888">It found that we had raised--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2772.970" stopTime="2773.938">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2772.970" offset="11241172">You had raised that?</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2773.938" stopTime="2865.429">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2773.938" offset="11245038">--a material question of fact as to it.</text>
+            <text syncTime="2775.755" offset="11252352">And therefore, we were entitled to a trial on that question.</text>
+            <text syncTime="2779.776" offset="11268444">And what we... but having found that, it then dismissed it on the grounds that we lack purchaser-seller standing.</text>
+            <text syncTime="2786.080" offset="11293626">The difficultly with purchaser-seller standing is that it is a concept that can be used in several different senses.</text>
+            <text syncTime="2793.499" offset="11323301">It can be used in the sense of describing the class you may sue.</text>
+            <text syncTime="2796.884" offset="11336884">It can be, as he's using it, describing the nature of the injury or causation.</text>
+            <text syncTime="2802.938" offset="11361022">What he has done with Blue Chip is take what pleases him from it.</text>
+            <text syncTime="2807.723" offset="11380248">There is in Blue Chip a clear indication that the purchaser-seller limitations are somewhat arbitrary and that they deny some deserving plaintiffs of an opportunity to sue.</text>
+            <text syncTime="2821.067" offset="11433538">It is mitigated, however, this Court said, by the fact that there can be claims for relief under other bodies of law.</text>
+            <text syncTime="2828.471" offset="11463213">The example given in the footnote, footnote 9, comes from loss on securities.</text>
+            <text syncTime="2834.624" offset="11487768">And it points to the fact that in the Birnbaum case itself, a subsequent suit was brought for an accounting.</text>
+            <text syncTime="2841.063" offset="11513577">And in that suit for the accounting, nonpurchaser-sellers were able to establish a wrong, injury, and causation and recover on the same facts.</text>
+            <text syncTime="2853.554" offset="11563523">What we are here with RICO is another claim for relief.</text>
+            <text syncTime="2858.442" offset="11583062">We are not suing under 10b-5 and its implied claim for relief.</text>
+            <text syncTime="2863.310" offset="11602602">We're suing under the standard.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2865.429" stopTime="2894.615">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2865.429" offset="11611066">No, but you are claiming that you have been injured in your business or property.</text>
+            <text syncTime="2871.182" offset="11634053">And I suppose the antitrust laws say that a person injured in his business or property can recover treble damages if it's by reason of an antitrust violation.</text>
+            <text syncTime="2884.407" offset="11686925">And yet we say that... we say that only those people who are directly injured can recover.</text>
+            <text syncTime="2890.996" offset="11713257">An indirect purchaser cannot.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2894.615" stopTime="2896.548">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2894.615" offset="11727781">I think--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2896.548" stopTime="2900.400">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2896.548" offset="11735513">This is not a very popular decision among plaintiffs' lawyers.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2900.400" stopTime="2926.550">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2900.400" offset="11750873">--I think my case does not rest on the legislative history, and I'm willing to stick with the text.</text>
+            <text syncTime="2905.987" offset="11773234">Nevertheless, in the legislative history it's very clear, as this Court pointed out in Sedima, that one of the reasons RICO was not drafted as an amendment to the Antitrust Act, but rather as a freestanding statute was to avoid precisely narrow standing limitations of antitrust and proximate cause--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2926.550" stopTime="2936.756">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2926.550" offset="11855467">I know, but it used that language</text>
+            <text syncTime="2927.050" offset="11857557">"anybody injured in his business or property. "</text>
+            <text syncTime="2929.502" offset="11867379">And the antitrust laws, you're not injured in your business or property, within the meaning of the antitrust laws, if you're an indirect purchaser rather than a direct one.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2936.756" stopTime="2975.631">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2936.756" offset="11896323">--The same word in different contexts will have different meanings.</text>
+            <text syncTime="2940.524" offset="11911369">The meaning that it ought to have in this context is a function of the purpose that it serves in this statute.</text>
+            <text syncTime="2945.678" offset="11932058">In order to avoid precisely those narrow standing limitations and proximate cause limitations, RICO was drafted outside of the antitrust acts, and its liberal construction was enjoined.</text>
+            <text syncTime="2959.687" offset="11988065">If his argument is plausible and my argument is plausible, that is to say it's a genuine ambiguity, the statute suggests that this Court ought to take that construction of the statute that enhances its remedial purposes and not--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2975.631" stopTime="2988.956">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2975.631" offset="12051804">You seem to say... you seem to concede that surely there are some kinds of injuries that will be... that would be caused by a securities fraud that would not be recoverable under RICO.</text>
+            <text syncTime="2986.339" offset="12094644">Some can be too remote.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2988.956" stopTime="2990.573">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2988.956" offset="12105093">--Well, absolutely.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2990.573" stopTime="2999.646">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2990.573" offset="12111572">And the claim here is that any... anybody injured except the purchaser or seller is just too remote from the fraud to--</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="2999.646" stopTime="3103.297">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="2999.646" offset="12147934">But the purchaser-seller limitation deals with the class who consume, not the nature of the injury or the causation relationship.</text>
+            <text syncTime="3007.352" offset="12178759">If it were otherwise, footnote 9 in the Court's opinion in Blue Chip would no longer have meaning.</text>
+            <text syncTime="3016.374" offset="12214808">Let me refer to one other case.</text>
+            <text syncTime="3018.893" offset="12224943">The language, 1934 act is squarely interpreted by this Court in National Securities... SEC v. National Security... to refer to coverage... that is, the wrongdoer's conduct, and not to the status of the plaintiff.</text>
+            <text syncTime="3034.152" offset="12285965">It is precisely that language in 1969 that was incorporated into RICO.</text>
+            <text syncTime="3039.223" offset="12306236">Since 1970, this Court has decided 10 RICO appeals.</text>
+            <text syncTime="3055.316" offset="12370602">Each time, properly, it has declined to add language to the statute that was not there: not organized crime, not legitimate, not racketeering, not competitive.</text>
+            <text syncTime="3071.194" offset="12434132">Indeed, the failure to add racketeering and competitive in Sedima would seem a fortiori to dictate the result in this case.</text>
+            <text syncTime="3079.364" offset="12466733">Not in an enterprise in Rusello, not only in Tafflin, and it is not subtracted from property legal fees.</text>
+            <text syncTime="3089.322" offset="12506648">We think that this Court in this case ought not to depart from that well-reasoned line... unbroken line of decisions, and add purchaser-seller to RICO.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3103.297" stopTime="3106.482">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3103.297" offset="12562550">--I thought you were going to say the odds are against you this time.</text>
+            <text syncTime="3105.416" offset="12571013">[Laughter]</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="3106.482" stopTime="3118.591">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="3106.482" offset="12575298">Well, I teach at Notre Dame, and we from time to time act when the odds are against us, unfortunately, not always successfully, as last weekend shows.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3118.591" stopTime="3119.025">
+            <label>Unknown Speaker</label>
+            <text syncTime="3118.591" offset="12623676">Not last weekend.</text>
+          </turn>
+          <turn speaker="g_robert_blakey" startTime="3119.025" stopTime="3119.875">
+            <label>Mr. G. Robert Blakey</label>
+            <text syncTime="3119.025" offset="12625453">Thank you.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3119.875" stopTime="3124.743">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3119.875" offset="12628796">Thank you, Mr. Blakey.</text>
+            <text syncTime="3122.893" offset="12640917">Mr. Samet, you have 4 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3124.743" stopTime="3321.570">
+          <heading>Rebuttal of Jack I. Samet</heading>
+          <turn speaker="jack_i_samet" startTime="3124.743" stopTime="3168.254">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="3124.743" offset="12648336">I don't intend to use them all unless there are questions from the Court.</text>
+            <text syncTime="3127.595" offset="12659725">But just two or three brief points.</text>
+            <text syncTime="3129.380" offset="12666831">First, it became clear during Professor Blakey's remarks that SIPC is here as a subrogee.</text>
+            <text syncTime="3135.284" offset="12690445">And I'd like to make two comments about their position as a subrogee.</text>
+            <text syncTime="3138.253" offset="12702357">First, that the concept of subrogation is limited to get reimbursement for what you paid.</text>
+            <text syncTime="3144.139" offset="12725867">SIPC isn't seeking reimbursement for what they paid.</text>
+            <text syncTime="3147.008" offset="12737361">They're seeking treble damages under RICO.</text>
+            <text syncTime="3149.524" offset="12747392">So the whole idea of subrogation and RICO are inconsistent because RICO, 1964(c), mandates treble damages.</text>
+            <text syncTime="3156.864" offset="12776754">It says, any person injured in his business or property by reason of a violation, shall sue and shall recover threefold the damages.</text>
+            <text syncTime="3163.851" offset="12804757">That's not subrogation.</text>
+            <text syncTime="3165.136" offset="12809877">That's an entirely different notion.</text>
+            <text syncTime="3166.569" offset="12815624">So the concept of RICO--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3168.254" stopTime="3173.789">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3168.254" offset="12822311">You say wouldn't be suing under RICO if you were just suing for subrogation.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="3173.789" stopTime="3193.452">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="3173.789" offset="12844463">--Exactly.</text>
+            <text syncTime="3174.158" offset="12845926">That's point 1.</text>
+            <text syncTime="3175.724" offset="12852195">Point 2, SIPC says it's here as a real partied interest in the liquidation proceedings.</text>
+            <text syncTime="3181.412" offset="12874974">The fact of the matter is this isn't a liquidation proceeding.</text>
+            <text syncTime="3184.430" offset="12886991">The SIPA statute gives SIPC power to appear as a real party in liquidation proceedings.</text>
+            <text syncTime="3190.333" offset="12910605">But this is a RICO action, not a liquidation proceeding.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3193.452" stopTime="3195.654">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3193.452" offset="12923144">Well, I know, but they did liquidate them.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="3195.654" stopTime="3196.504">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="3195.654" offset="12931921">Yes, but--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3196.504" stopTime="3200.122">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3196.504" offset="12935369">And they paid out millions of dollars in claims.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="3200.122" stopTime="3202.588">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="3200.122" offset="12949789">--But that doesn't give them standing.</text>
+            <text syncTime="3201.172" offset="12953969">For example, SIPC wouldn't have--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3202.588" stopTime="3203.138">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3202.588" offset="12959715">I didn't say it did.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="3203.138" stopTime="3203.638">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="3203.138" offset="12961910">--Okay.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3203.638" stopTime="3205.874">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3203.638" offset="12963895">I didn't say it did, but it was a liquidation.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="3205.874" stopTime="3226.252">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="3205.874" offset="12972777">But this is the claim that we're discussing: SIPC's power to assert.</text>
+            <text syncTime="3210.326" offset="12990644">It's as though SIPC came into that terrorist airplane crash, having nothing to do with it, and say, well, we're a party to all proceedings.</text>
+            <text syncTime="3215.646" offset="13011856">We have the power to get in here.</text>
+            <text syncTime="3217.496" offset="13019275">SIPC must show it has the standing on a specific case basis and its authorization to appear as a real party in liquidation proceedings doesn't give it standing here.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3226.252" stopTime="3227.120">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3226.252" offset="13054279">Like an insurance company coming in.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="3227.120" stopTime="3239.195">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="3227.120" offset="13057831">Yes, that is exactly correct, Mr. Justice White.</text>
+            <text syncTime="3229.237" offset="13066295">But third of all, we think that the Blue Chip case was right as it applied to securities law, and is even more right, even though it didn't address RICO, because didn't... it wasn't before the Court at that time.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3239.195" stopTime="3256.355">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3239.195" offset="13106106">Of course, the Blue Chip case, you know, cuts against you in a way because that opinion assumed there were classes of investors other than purchasers or sellers who could be directly injured.</text>
+            <text syncTime="3246.999" offset="13137348">But they nevertheless followed the old Birnbaum rule and limited standing to purchasers and sellers.</text>
+            <text syncTime="3251.653" offset="13155947">So the premise of that decision was that there are a category of people directly harmed by the wrongdoing.</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="3256.355" stopTime="3262.423">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="3256.355" offset="13174755">Well, of course we all know the author of that decision sits on this Court and is best... in the best position to describe what the decision meant.</text>
+            <text syncTime="3261.657" offset="13195967">But I don't read it that way.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3262.423" stopTime="3266.959">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3262.423" offset="13198997">That's what he said in the opinion.</text>
+            <text syncTime="3263.440" offset="13203072">He discusses the three classes of harmed persons and said they don't have standing--</text>
+          </turn>
+          <turn speaker="jack_i_samet" startTime="3266.959" stopTime="3316.737">
+            <label>Mr. Jack I. Samet</label>
+            <text syncTime="3266.959" offset="13217178">I'm sure he would make very clear what he means, but let me tell you what I think he meant, to be corrected, I'm sure, by him.</text>
+            <text syncTime="3271.679" offset="13235987">[Laughter]</text>
+            <text syncTime="3271.762" offset="13236404">I think that the policy considerations in Blue Chip, the concept of vexatious litigation, the concept of strikes, the concept of bludgeoning settlements are all the more egregious in RICO than they were in the securities law because the stakes are three times as high.</text>
+            <text syncTime="3285.420" offset="13290948">And it's interesting, in the amicus here, it's interesting to see who the amici are.</text>
+            <text syncTime="3289.122" offset="13305786">They are a group of plaintiffs' attorneys.</text>
+            <text syncTime="3290.872" offset="13312787">And what has happened here is there has been massive abuse of civil RICO.</text>
+            <text syncTime="3294.907" offset="13328982">President Bush, in his Civil Justice Reform Act, just the other day, was talking about the excesses of civil litigation.</text>
+            <text syncTime="3301.227" offset="13354269">In today's Wall Street Journal, there's an article about the SEC is saying they're concerned about the excesses of RICO civil abuse.</text>
+            <text syncTime="3307.798" offset="13380496">And I think what has happened is the very concerns that were soundly described in Blue Chip are even more egregious in the RICO area.</text>
+            <text syncTime="3313.785" offset="13404424">And hopefully this Court will put a stop to it.</text>
+            <text syncTime="3316.135" offset="13413828">Thank you.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3316.737" stopTime="3321.570">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3316.737" offset="13416231">Thank you, Mr. Samet.</text>
+            <text syncTime="3320.237" offset="13430233">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

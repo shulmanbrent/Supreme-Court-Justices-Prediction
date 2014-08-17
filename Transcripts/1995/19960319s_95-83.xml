@@ -1,0 +1,43 @@
+<transcript>
+      <history>
+        <edit user="rkrog" date="2014-04-14T20:13:00" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="rkrog">2014-04-14</identified>
+      </history>
+      <resources>
+        <audioFile size="">/xml/cases/1995/95_83/19960319o_95-83.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1995/trs/95-83_19960319-lq-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="198.609">
+        <title>Meghrig v. KFC Western, Inc.</title>
+        <section startTime="0" stopTime="198.609">
+          <heading>Opinion Announcement of Sandra Day O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.441">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80840">The opinion of the court in No. 95-83, Meghrig versus KFC Western, Inc. will be announced be announce by Justice O’Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="7.441" stopTime="198.609">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="7.441" offset="110515">This case comes to us on certiorari to the Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="12.538" offset="130891">In 1988, the respondent, KFC Western was ordered by the County of Los Angeles to remove and dispose of some petroleum contaminated soil from the property surrounding a Kentucky Fried Chicken Restaurant in Los Angeles.</text>
+            <text syncTime="30.050" offset="201003">Three years after, the clean-up effort was completed by KFC.</text>
+            <text syncTime="36.044" offset="224931">KFC brought suit in Federal Court under the citizen suit probation of the Resource Conservation and Recovery Act, the acronym fo rthat is RCRA.</text>
+            <text syncTime="47.930" offset="272474">It sought, to recover the cost of its clean-up effort from two previous owners of the property, Mr. and Mrs. Meghrig.</text>
+            <text syncTime="57.431" offset="310509">Now RCRA provides that a private party like KFC may bring suit for the clean-up of hazardous or solid waste, the Act says, “which may present an imminent and substantial endangerment to health or the environment” and RCRA allows a party suing under the provision to seek two statutory remedies.</text>
+            <text syncTime="78.311" offset="393996">It authorizes the District Court to restrain any person who might have contributed to a toxic waste problem or to order such person to take such other action as may be necessary.</text>
+            <text syncTime="89.634" offset="439344">The District Court dismissed KFC's suit under these provisions.</text>
+            <text syncTime="94.296" offset="457944">The District Court concluded that KFC was not suing for the remediation of any toxic waste that may present an imminent danger because KFC had already removed the petroleum waste long before filing suit.</text>
+            <text syncTime="107.918" offset="512487">The District Court also held that the suit was infirm because the only relief that KFC sought was the restitution of past clean-up cost which remedy, the District Court thought, was not authorized under RCRA.</text>
+            <text syncTime="121.219" offset="565673">The Court of Appeals for the Ninth Circuit reversed on both grounds.</text>
+            <text syncTime="125.220" offset="581660">It held that a private party can file a citizen suit under RCRA so long as it alleges that the waste in question did at one time present an imminent danger to health or the environment, and the court found that RCRA authorizes the award of past clean-up cost as a form of equitable restitution.</text>
+            <text syncTime="145.368" offset="662221">In the opinion of filed today, we reverse.</text>
+            <text syncTime="148.743" offset="675805">Based on our review of the language of the relevant provisions of the Act along with the comparison between RCRA Act and other citizen suit provisions in other Environmental Acts passed by Congress, we conclude that Congress did not intend for this Act to authorize the kind of action which KFC brought here.</text>
+            <text syncTime="173.695" offset="775593">The RCRA citizens suit provision was designed to allow private parties to sue for the abatement of hazardous and solid waste site that pose some imminent danger to the health or the environment.</text>
+            <text syncTime="186.206" offset="825643">It was not designed for private citizens who have already undertaken the clean-up to later seek reimbursement for their efforts from other responsible parties.</text>
+            <text syncTime="196.140" offset="865349">And the opinion for the Court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

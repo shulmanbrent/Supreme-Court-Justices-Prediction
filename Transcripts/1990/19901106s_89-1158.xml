@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:11:15" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="497047">/xml/cases/1990/89_1158/19901106o_89-1158.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1158_19901106-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="105.770">
+        <title>Miles v. Apex Marine Corporation</title>
+        <section startTime="0.000" stopTime="105.770">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.170">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73968">The opinion of the Court in No. 89-1158, Miles versus Apex Marine Corporation will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="9.170" stopTime="105.770">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="9.170" offset="110644">This case comes to us on writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="15.783" offset="137080">In the unanimous opinion filed today, we address some questions concerning recovery under general maritime law following the wrongful death of a seaman.</text>
+            <text syncTime="28.264" offset="186921">We began by reaffirming the rule announced in Moragne versus State Marine lines that there is a general maritime cause of action for wrongful death.</text>
+            <text syncTime="38.976" offset="229867">In defining the scope of recovery, we are guided by the principle that a Federal Court in the exercise of its admiralty powers is not free to expand remedies beyond the well-considered limitations imposed by Congress through statute.</text>
+            <text syncTime="56.475" offset="299770">We hold that a beneficiary may not recover loss of society damages in an action for the wrongful death of a seaman.</text>
+            <text syncTime="65.375" offset="335401">General maritime law is thus, rendered uniform within the system of recovery for wrongful death that Congress created in the Jones Act and in the Death of the High Seas Act.</text>
+            <text syncTime="78.157" offset="386497">We also hold that a seaman's estate may not recover in a general maritime survival action for future earnings loss because of the seaman's death.</text>
+            <text syncTime="89.116" offset="430383">This rule is consistent with the Jones Act in which Congress precluded recovery for lost future earnings in survival.</text>
+            <text syncTime="97.245" offset="462879">The judgment of the Court of Appeals is affirmed.</text>
+            <text syncTime="100.510" offset="475940">Justice Souter took no part in the consideration or decision of this case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

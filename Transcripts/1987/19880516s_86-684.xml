@@ -1,0 +1,27 @@
+<transcript>
+      <history>
+        <identified user="jgoldman">2014-04-02</identified>
+      </history>
+      <resources>
+        <audioFile size="157780">/xml/cases/1987/86_684/19880516o_86-684.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-684op.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="39.390">
+        <title>California v. Greenwood</title>
+        <section startTime="0" stopTime="39.390">
+          <heading>Opinion Announcement of Byron R. White</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="14.472">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in two cases No. 86-684, California against Greenwood, No. 87-339, City of New York versus Federal Communications Commission will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="14.472" stopTime="39.390">
+            <label>Justice Byron R. White</label>
+            <text syncTime="14.472" offset="57887">In California against Greenwood, which is here from the Court of Appeals of California, we reversed the judgment of that court.</text>
+            <text syncTime="27.018" offset="108042">We have filed an opinion and explaining why Justice Brennan joined by Justice Marshall has filed a dissenting opinion.</text>
+            <text syncTime="36.648" offset="146495">Justice Kennedy took no part in the case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,50 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:35:01" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="1021963">/xml/cases/1998/97_8629/19990601o_97-8629.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1998/trs/97-8629_19990601-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="233.928">
+        <title>Richardson v. United States</title>
+        <section startTime="0" stopTime="233.928">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.547">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85943">The opinion of the Court in No. 87-8629, Richardson against United States will be announced by Justice Breyer.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="7.547" stopTime="233.928">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="7.547" offset="116036">This case involves a criminal statute that punishes a continuing criminal enterprise.</text>
+            <text syncTime="14.344" offset="143308">Now, the statute in making it a crime in part says, that you cannot engage in a "continuing series" of drug crimes.</text>
+            <text syncTime="24.438" offset="183641">To understand the legal problem that faces us and I have to admit that explaining the problem is the hardest part of the case.</text>
+            <text syncTime="30.925" offset="209554">You have to imagine that this word "series" requires at least three separate crimes.</text>
+            <text syncTime="37.103" offset="234319">Now suppose the government presents evidence of six separate crimes, must the jury unanimously agree about which particular drug crimes of those six constitute the series, that is if the government presents evidence of say crimes A,B,C,D,E, and F, is it enough that the jury agree that the defendant committed some three of those crimes, even if the jury disagrees about which three?</text>
+            <text syncTime="62.505" offset="335883">For example suppose all twelve think the defendant committed three of the crimes, the four jurors thinks he committed A, B, and C, four think he committed, D,E, and F, four think he committed A, B, and D.</text>
+            <text syncTime="74.132" offset="382381">Is that enough or does the jury have to agree unanimously about which of those three crimes the defendant committed?</text>
+            <text syncTime="81.213" offset="410697">Now, the Trial Court in this case agreeing with the government, instructed the jury in the first way i.e. it must unanimously agree only the petitioner engaged in some series of drug crimes but it does not have to agree about which individual crimes constituted the series.</text>
+            <text syncTime="98.931" offset="481646">The Court of Appeals thought the District Court was right, but we do not think the District Court was right.</text>
+            <text syncTime="104.345" offset="503275">We hold that the jury must unanimously agree about which of the underlying individual crimes is necessary that constitute the series.</text>
+            <text syncTime="114.618" offset="544340">Now, to put it little bit more legally it is given that a federal criminal jury has to unanimously agree that the defendant committed all the elements of the offence before it can convict and the dispute between the parties in this case reduces to whether the phrase "continuing series of violations" refers to a single element named in the series, or whether it refers to several elements namely be underlying crimes that make up the series.</text>
+            <text syncTime="139.197" offset="642665">We think, the latter.</text>
+            <text syncTime="140.678" offset="648621">Now the easier part is explaining why.</text>
+            <text syncTime="143.213" offset="658756">The statute uses the words "series of violations", violations refer to acts that are contrary to law.</text>
+            <text syncTime="150.806" offset="689163">Juries acting unanimously, traditionally decide whether a defendant has conducted himself in a way that amounts to a violation of the law.</text>
+            <text syncTime="161.274" offset="730959">Hence, Congress' use of the word violation, favors our interpretation.</text>
+            <text syncTime="167.061" offset="754155">We also draw support from the fact that the statutory word "violations" covers a large number of different drug crimes involving conduct of vastly different degrees of seriousness.</text>
+            <text syncTime="178.930" offset="801594">The government, in cases like this, often claims that a defendant has been involved in many such violations.</text>
+            <text syncTime="185.712" offset="828761">Unless the statute requires unanimity with respect to which underlying crimes the defendant actually committed, a jury might not focus on factual details, but simply conclude that with so much testimony that the defendant has committed some crime, where there is smoke there must be fire.</text>
+            <text syncTime="204.149" offset="902531">Finally our cases suggest that the Constitution imposes limits upon a State's power to define crimes in ways that permit conviction even though the jury disagrees about the underlying facts.</text>
+            <text syncTime="215.978" offset="949760">We do not believe that Congress here intended to write a statute that would come even close to that limit.</text>
+            <text syncTime="223.056" offset="978077">We therefore, reverse the Court of Appeals and we remand the case to further proceeding.</text>
+            <text syncTime="227.540" offset="996049">Justice Kennedy has filed a dissenting opinion in which Justices O'Connor and Ginsburg have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

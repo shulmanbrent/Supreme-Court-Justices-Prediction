@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1993-01-13</transcribed>
+        <edit user="tschaefer" date="2012-08-15T14:45:28" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <identified user="tschaefer">2012-08-15</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:38:04" startTime="0.000" oldSpeaker="harry_a_blackmun" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="430666">/xml/cases/1992/91_6194/19930113o_91-6194.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1992/91-6194_19930113-opinion.xml</sourceFile>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="87.223">
+        <title>Crosby v. United States</title>
+        <section startTime="0.000" stopTime="9.447">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.447">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="81775">The opinion of the Court in No. 91-6194, Crosby against the United States will be announced by Justice Blackmun.</text>
+          </turn>
+        </section>
+        <section startTime="9.447" stopTime="87.223">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="harry_a_blackmun" startTime="9.447" stopTime="87.223">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="9.447" offset="119496">This case comes to us from the Court of Appeals for the Eighth Circuit.</text>
+            <text syncTime="14.507" offset="139767">The petitioner Crosby failed to appear at the beginning of his federal criminal trial.</text>
+            <text syncTime="21.381" offset="167248">He had been present at various preliminary proceedings.</text>
+            <text syncTime="26.042" offset="185847">The District Court permitted the trial to go on in his absence and he was convicted and subsequently arrested and sentenced.</text>
+            <text syncTime="34.921" offset="221373">He argued that the trial was prohibited by Rule 43 of the Federal Rules of Criminal Procedure, and this provides that a defendant must be present at every trial stage "except as otherwise provided" by the Rule.</text>
+            <text syncTime="52.296" offset="290859">The Rule, however, lists situations in which a right to be present maybe waived including when a defendant "initially present" is voluntarily absent thereafter.</text>
+            <text syncTime="68.242" offset="354702">The Court of Appeals affirmed the conviction.</text>
+            <text syncTime="70.940" offset="365465">In an opinion filed with the Clerk today, we reverse.</text>
+            <text syncTime="74.588" offset="380093">We conclude that the Rule clearly indicates that the situations in which the trial may proceed without the defendant is exclusive.</text>
+            <text syncTime="84.197" offset="418546">The decision is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

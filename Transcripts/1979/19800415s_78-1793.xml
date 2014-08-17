@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="447948">/xml/cases/1979/78_1793/19800415o_78-1793.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1979/trs/78-1793op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="111.925">
+        <title>Roberts v. United States</title>
+        <section startTime="0.000" stopTime="111.925" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Lewis F. Powell, Jr.</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="6.803">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">The judgment and opinion of the Court in Roberts against the United States will be announced by Mr. Justice Powell.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="6.803" stopTime="110.224">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="6.803" offset="27167">This is a criminal case.</text>
+            <text syncTime="8.677" offset="34691">It comes to us on certiorari from the United States Court of Appeals for the District of Columbia.</text>
+            <text syncTime="15.324" offset="61231">The question is whether the defendant's failure to cooperate with law enforcement authorities was a proper factor for consideration in determining his sentence.</text>
+            <text syncTime="26.342" offset="105326">The Court of Appeals held that it was.</text>
+            <text syncTime="29.289" offset="117133">The petitioner confessed involvement in a heroin conspiracy, but he refused to identify the others who had participated in the crime.</text>
+            <text syncTime="40.176" offset="160601">The District Court imposed a heavy sentence.</text>
+            <text syncTime="43.147" offset="172513">It explained that petitioner was a dealer that he was given the opportunity but failed to cooperate with the Government.</text>
+            <text syncTime="54.114" offset="216398">Petitioner's unwillingness to assist law enforcement suggested the possibility of an intention to return to dealing in narcotics.</text>
+            <text syncTime="64.200" offset="256731">It also suggested that petitioner would not respond affirmatively to rehabilitation.</text>
+            <text syncTime="71.068" offset="284212">Petitioner offered no explanation for his declining to cooperate nor did petitioner claim that his silence was an exercise of the Fifth Amendment privilege against self-incrimination.</text>
+            <text syncTime="87.053" offset="348160">As he failed to invoke the privilege at a time when its legitimacy could be determined, he waived his right to claim it on appeal.</text>
+            <text syncTime="96.676" offset="386612">Accordingly, the judgment of the Court of Appeals is affirmed.</text>
+            <text syncTime="100.424" offset="401659">Mr. Justice Brennan has filed a concurring opinion and Mr. Justice Marshall has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="110.224" stopTime="111.925">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="110.224" offset="440842">Thank you Mr. Justice Powell.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

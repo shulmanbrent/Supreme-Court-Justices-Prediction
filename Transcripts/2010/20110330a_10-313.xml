@@ -1,0 +1,1370 @@
+<transcript verified="true">
+      <history>
+        <transcribed minutes="58">2011-03-30T11:07</transcribed>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="14179958">/xml/cases/2010/10_313/20110330a_10-313.mp3</audioFile>
+        <sourceFile>/data/sites/oyez.org/cases/2010/2010_10_313/10-313_20110330-argument.xml</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="sonia_sotomayor" type="justice" gender="female" path="/justices/sonia_sotomayor" image="/justices/sonia_sotomayor/thumbnail.jpg">Sonia Sotomayor</speaker>
+        <speaker id="john_j_bursch" type="advocate" gender="male" path="/advocates/jb/john_j_bursch" image="/advocates/jb/john_j_bursch/thumbnail.jpg">John J. Bursch</speaker>
+        <speaker id="eric_d_miller" type="advocate" gender="male" path="/advocates/em/eric_d_miller" image="/advocates/em/eric_d_miller/thumbnail.jpg">Eric D. Miller</speaker>
+        <speaker id="scott_h_angstreich" type="advocate" gender="male" path="/advocates/sa/scott_h_angstreich" image="/advocates/sa/scott_h_angstreich/thumbnail.jpg">Scott H. Angstreich</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3518.566">
+        <title>Talk America v. Michigan Bell Telephone Company</title>
+        <section startTime="0.000" stopTime="963.809">
+          <heading>Argument of John J. Bursch</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="12.308">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="105472">We will hear argument next this morning in Case 10-313, Talk America v. Michigan Bell, and the consolidated case.</text>
+            <text syncTime="11.706" offset="152283">Mr. Bursch.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="12.308" stopTime="50.849">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="12.308" offset="154687">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="15.010" offset="165449">Interconnection is the lifeblood of local phone competition.</text>
+            <text syncTime="20.145" offset="186034">That is why in section 251(c)(2) of the Telecommunications Act Congress guaranteed that competitors would have interconnection at the location and at the method of their choosing and at TELRIC rates irregardless of market impairment.</text>
+            <text syncTime="36.006" offset="249459">The question in this case is whether that 251(c)(2) obligation encompasses the tens of thousands of existing entrance facilities that even today are interconnecting competitive and incumbent networks, and the answer--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="50.849" stopTime="52.933">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="50.849" offset="308809">Did you get -- you get (c)(2) at TELRIC rates?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="52.933" stopTime="198.279">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="52.933" offset="317168">--Yes, you do, Your Honor.</text>
+            <text syncTime="54.401" offset="323020">You get (c)(2) and (c)(3) at TELRIC rates.</text>
+            <text syncTime="57.020" offset="333469">And so the answer to the question presented is yes, for three reasons.</text>
+            <text syncTime="61.872" offset="352904">First, because the FCC says so and, as the expert agency charged with interpreting and implementing the act, that conclusion is entitled to deference.</text>
+            <text syncTime="71.946" offset="393237">Second, the FCC's conclusion is consistent with the plain text of the statute and the implementing regulations.</text>
+            <text syncTime="79.433" offset="423121">And third, the FCC's conclusion is consistent with the policies embodied in the Act, because the practical result of affirming the Sixth Circuit opinion in this case is that a competitive carrier, like Sprint for example, will be forced to either charge its customers more for interconnection or lay tens of thousands of duplicate entrance facility cables, and those are precisely what the act were designed to prevent.</text>
+            <text syncTime="105.067" offset="525730">I would like to start with the Sixth Circuit opinion, and specifically this is at page 20a of the Talk America cert petition appendix, because this goes to the heart of AT&amp;T's position and the Sixth Circuit's conclusion with respect to the orange plugs and cords analogy.</text>
+            <text syncTime="122.879" offset="596888">You will recall that the Sixth Circuit said this was like a situation where a homeowner had a plug in their garage and a long orange cord extending out to a park, which the Court called the entrance facility, and then the competitive carrier would be that person in the park.</text>
+            <text syncTime="137.372" offset="654879">On page 20a of the petition appendix in footnote 9, about halfway down, this is the key flaw in the Sixth Circuit's reasoning.</text>
+            <text syncTime="146.060" offset="689674">The Sixth Circuit says if you, as the homeowner, that's the -- I'm sorry, that's the incumbent -- had said that they may plug into the surge protector, then the big orange extension cord is just an entrance facility.</text>
+            <text syncTime="158.785" offset="740561">But if you had said they must plug into the big orange extension cord, then the big orange extension cord becomes the interconnection facility; and consequently the parkgoers, the competitors, may plug into it.</text>
+            <text syncTime="171.295" offset="790612">The problem with this is that the Sixth Circuit was wrong in that the incumbent doesn't get to choose where the point of connection is.</text>
+            <text syncTime="178.799" offset="820600">The statute and the regulations and the FCC make clear it's the competitor that gets to choose.</text>
+            <text syncTime="184.269" offset="842543">So if the competitor chooses the end of the extension cord where it connects to the CLEC network in the park, then even the Sixth Circuit agrees with us and the Seventh, Eighth and Ninth Circuits that the entrance facility is the interconnection facility.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="198.279" stopTime="199.812">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="198.279" offset="898550">I have just one small question on that.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="199.812" stopTime="200.212">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="199.812" offset="904714">Yes.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="200.212" stopTime="213.289">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="200.212" offset="906282">Suppose that there are two competitors and each of them wants to connect, but each of them wants to connect at a different point and in a different way.</text>
+            <text syncTime="209.753" offset="944421">Must the incumbent accommodate both if they're technically feasible?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="213.289" stopTime="221.561">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="213.289" offset="958527">Justice Kennedy, the answer is yes.</text>
+            <text syncTime="215.222" offset="966259">The statute gives the competitive carrier the opportunity to choose the point and the method, all at TELRIC rates.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="221.561" stopTime="247.860">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="221.561" offset="991650">Doesn't it say something about feasible?</text>
+            <text syncTime="223.378" offset="998964">It -- it doesn't -- doesn't give free choice entirely.</text>
+            <text syncTime="229.064" offset="1021639">It says -- what are the words?</text>
+            <text syncTime="232.683" offset="1036163">That the interconnection doesn't have to be put just anyplace if it's not feasible, or it's undue expense or something to that effect.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="247.860" stopTime="260.186">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="247.860" offset="1096871">Justice Ginsburg, the statute and the regulations make clear that it must be technically feasible, but there's an almost irrebuttable presumption that when there are already facilities in place performing that function, that is technically feasible.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="260.186" stopTime="323.426">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="260.186" offset="1146190">But you -- you want the incumbent here to -- to build the -- the orange cord and extend it to wherever you have your switching equipment.</text>
+            <text syncTime="270.891" offset="1189031">And what they say is no; you -- you bring your switching equipment here; we'll -- we'll allow you to connect at, you know, the end of our facilities; but by God, you -- you make -- you make your own connection to -- to the switches.</text>
+            <text syncTime="286.235" offset="1250367">Now -- now, moreover, you're -- you're making them -- you'll pay them for the orange cord, but only at TELRIC rates, which are not realistic.</text>
+            <text syncTime="296.026" offset="1289550">Now, why -- why are they wrong and you're right, especially when you have legislation, the purpose of which was to encourage the independent building of new facilities?</text>
+            <text syncTime="309.850" offset="1344825">I mean, it's clear that the Act wanted these new entrants where -- where possible to build new facilities, and not simply to glom on to the extant facilities of the incumbents.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="323.426" stopTime="345.673">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="323.426" offset="1399160">Three responses to that argument, Your Honor.</text>
+            <text syncTime="325.895" offset="1408982">First, this case is about existing facilities, not about facilities to be built, although there's a lot of talk about that.</text>
+            <text syncTime="332.532" offset="1435523">This isn't a head-on challenge to the statute or the regulations.</text>
+            <text syncTime="335.834" offset="1448793">The procedural posture is that this was AT&amp;T trying to get out of arbitration agreements that it had for existing entrance facilities, and so that's the posture of our case.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="345.673" stopTime="352.843">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="345.673" offset="1488081">Well, but the logic of your case as you described it would also require AT&amp;T to build out the orange cord.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="352.843" stopTime="386.298">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="352.843" offset="1516816">Right; and -- and two additional points, Your Honor, on that.</text>
+            <text syncTime="355.695" offset="1528205">First they say this is a large obligation because we're talking about miles and miles.</text>
+            <text syncTime="360.515" offset="1547431">That is not the position that AT&amp;T took with the FCC when they were commenting on the TRRO.</text>
+            <text syncTime="366.936" offset="1573136">At page 16a of the Michigan blue brief in footnote 357 of the TRRO the FCC acknowledges AT&amp;T's statement that entrance facilities involve very short distances.</text>
+            <text syncTime="379.644" offset="1624022">In addition, we have the FCC's regulation and the local competition order, paragraph 553--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="386.298" stopTime="387.048">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="386.298" offset="1650563">Excuse me, excuse me.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="387.048" stopTime="387.448">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="387.048" offset="1653593">--Yes?</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="387.448" stopTime="391.433">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="387.448" offset="1655160">Extant entrance facilities I assume they were referring to.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="391.433" stopTime="395.420">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="391.433" offset="1671147">Yes.</text>
+            <text syncTime="392.968" offset="1677312">I believe that's correct, yes.</text>
+            <text syncTime="394.185" offset="1682119">They are very short distances.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="395.420" stopTime="399.189">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="395.420" offset="1687134">Okay.</text>
+            <text syncTime="395.887" offset="1689015">Well, right.</text>
+            <text syncTime="396.370" offset="1690896">But if you ask for a longer distance they would presumably have to build it?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="399.189" stopTime="400.723">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="399.189" offset="1702181">Well, not necessarily.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="400.723" stopTime="401.639">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="400.723" offset="1708345">And charge you TELRIC rates.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="401.639" stopTime="480.425">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="401.639" offset="1712003">Right.</text>
+            <text syncTime="402.006" offset="1713465">Because the FCC has promulgated in -- in 521, the meet-point obligation, which is another way that you can have interconnection.</text>
+            <text syncTime="410.162" offset="1746066">And that demonstrates two things.</text>
+            <text syncTime="411.829" offset="1752754">First, that sometimes AT&amp;T as the incumbent is required to build out facilities, that it's not just a passive obligation.</text>
+            <text syncTime="418.685" offset="1780130">But in addition, when they're talking about meet points, they say that it's up to State commissions to decide the appropriate and reasonable distance.</text>
+            <text syncTime="426.104" offset="1809805">So even if we were presented with the case -- not this case, but a different case -- where you're talking about what's the appropriate length of the facilities, the FCC has already acknowledged there could be some reasonable limits on that.</text>
+            <text syncTime="436.646" offset="1852019">And the most important fundamental point, the fourth point on this, is that Congress already in (c)(2) said you're going to have interconnection without regard to market impairment, and so we're not going to look at the availability of other entrance facilities in the market.</text>
+            <text syncTime="450.554" offset="1907608">If a competitor asks to have this location and this method and it's technically feasible, they do get the TELRIC rates.</text>
+            <text syncTime="458.410" offset="1939059">And the competitive carriers would take issue with the presumption that TELRIC rates are -- are unfair.</text>
+            <text syncTime="464.813" offset="1964659">The regulations do contemplate that they're going to recover not only their cost but a reasonable profit.</text>
+            <text syncTime="470.050" offset="1985661">And we can disagree about the congressional wisdom of requiring rates like that, but in the Verizon case this Court definitively put to bed the question of the reasonableness of the TELRIC rates.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="480.425" stopTime="498.970">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="480.425" offset="2027144">Where would I read this?</text>
+            <text syncTime="482.125" offset="2033936">As I read the statute, the statute says the cheap system here is where they provide -- they have a duty to provide the incumbent interconnection, okay?</text>
+            <text syncTime="496.518" offset="2091510">That requires some physical stuff.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="498.970" stopTime="499.620">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="498.970" offset="2101332">Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="499.620" stopTime="506.723">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="499.620" offset="2103944">Okay.</text>
+            <text syncTime="500.253" offset="2106452">And they have to -- they -- you're not charged a lot for that; there's a limit on what they can charge you for the interconnection.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="506.723" stopTime="507.075">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="506.723" offset="2132261">Correct.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="507.075" stopTime="551.854">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="507.075" offset="2133723">Now, somebody is going to have to decide whether if Pacific Tel and Tel is being tried to forced to connect with Maine, you know, they have to pay for a wire across country to get the interconnection or not?</text>
+            <text syncTime="520.300" offset="2186595">That seems unreasonable.</text>
+            <text syncTime="521.316" offset="2190670">Across the street, maybe they do.</text>
+            <text syncTime="523.185" offset="2198194">My candidate would normally be the FCC or some regulator decides that kind of thing, and it's up to them to say whether this is or is not what's needed for interconnection.</text>
+            <text syncTime="534.143" offset="2241975">That would be an intuitive account I would have, without having read the statute in depth.</text>
+            <text syncTime="538.612" offset="2259843">So now what do I read to find out how this works?</text>
+            <text syncTime="541.714" offset="2272277">What is it that distinguishes something that is ridiculous, like my California example, from something that makes a lot of sense, like they're next door and have to make 50 feet of wire.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="551.854" stopTime="562.310">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="551.854" offset="2312819">Justice Breyer, if you look at paragraph 553 of the local competition order, which appears at page 27a of the Michigan blue brief--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="562.310" stopTime="565.595">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="562.310" offset="2354615">Michigan blue--</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="565.595" stopTime="571.666">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="565.595" offset="2367781">--At least that's where it begins.</text>
+            <text syncTime="566.864" offset="2372901">If you flip over to -- to page 28a, this is the second page of the paragraph.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="571.666" stopTime="576.653">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="571.666" offset="2392127">--Where -- where -- 28a, okay.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="576.653" stopTime="604.906">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="576.653" offset="2412084">Very good.</text>
+            <text syncTime="580.089" offset="2425772">About halfway down the -- that paragraph there, it says:</text>
+            <text syncTime="583.624" offset="2439879">"Regarding the distance from an incumbent LEC's premises that an incumbent should be required to build out facilities for meet-point arrangements. "</text>
+            <text syncTime="591.312" offset="2470703">--so again this is in the meet-point context --</text>
+            <text syncTime="593.181" offset="2478122">"we believe that the parties and State commissions are in a better position than the commission to determine the appropriate distance that would constitute the required reasonable accommodation for interconnection. "</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="604.906" stopTime="606.789">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="604.906" offset="2525038">Okay.</text>
+            <text syncTime="605.422" offset="2527128">So it's up to the State commission.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="606.789" stopTime="607.306">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="606.789" offset="2532561">Exactly.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="607.306" stopTime="608.306">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="607.306" offset="2534651">This is the FCC speaking?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="608.306" stopTime="609.222">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="608.306" offset="2538621">Exactly.</text>
+            <text syncTime="608.472" offset="2539353">The FCC is speaking, so--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="609.222" stopTime="613.624">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="609.222" offset="2542279">All right.</text>
+            <text syncTime="609.538" offset="2543532">And the State commission says -- they say it's up to the State commission.</text>
+            <text syncTime="612.007" offset="2553459">And the State commission here said?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="613.624" stopTime="627.984">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="613.624" offset="2559937">--Well, here, the State commission didn't say anything, because we're talking about existing facilities.</text>
+            <text syncTime="619.178" offset="2582089">There's no one requesting a new entrance facility to be built, for example, from Lansing to Detroit.</text>
+            <text syncTime="624.732" offset="2604345">That's not this case.</text>
+            <text syncTime="626.082" offset="2609779">This case is about the existing facilities.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="627.984" stopTime="637.305">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="627.984" offset="2617407">Mr. Bursch, the -- the key to your case is -- is that an entrance facility is interconnection, right?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="637.305" stopTime="637.905">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="637.305" offset="2654605">Correct.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="637.905" stopTime="641.440">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="637.905" offset="2657008">You have to equate those two -- those two terms.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="641.440" stopTime="641.757">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="641.440" offset="2671219">I do.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="641.757" stopTime="652.665">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="641.757" offset="2672473">What do you rely upon to equate them?</text>
+            <text syncTime="644.725" offset="2684280">Because the -- as I read the regulations, they -- they use them as separate terms.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="652.665" stopTime="677.963">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="652.665" offset="2716045">Regulation 51.5 defines "interconnection" as the mutual -- or, I'm sorry -- as the linking of two networks for the mutual exchange of traffic.</text>
+            <text syncTime="662.286" offset="2754602">There is no dispute that an entrance facility physically links a competitive network with an incumbent network; thus, when that entrance facility is used for the mutual exchange of traffic, it is providing interconnection.</text>
+            <text syncTime="675.578" offset="2807683">And that's exactly what the FCC has concluded.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="677.963" stopTime="688.588">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="677.963" offset="2817296">Doesn't -- doesn't the interconnection -- doesn't it have to be part of the internal system of the incumbent carrier?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="688.588" stopTime="702.428">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="688.588" offset="2859823">It has to be part of their network.</text>
+            <text syncTime="690.404" offset="2867033">But in the TRRO, the FCC made clear repeatedly that entrance facilities constructed by incumbents are part of their network, and so there's really no dispute that it can be part of the network.</text>
+            <text syncTime="701.645" offset="2911963">And so--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="702.428" stopTime="708.065">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="702.428" offset="2915098">You say that this is a link, and your -- the opposition says that it's transport.</text>
+            <text syncTime="707.549" offset="2935578">Is that correct?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="708.065" stopTime="716.488">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="708.065" offset="2937668">--It is transport.</text>
+            <text syncTime="709.601" offset="2943833">By definition, interconnection has to include transport, because it involves the mutual exchange of traffic from one to another.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="716.488" stopTime="719.457">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="716.488" offset="2971418">But the -- but the rate says interconnection does not include transport.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="719.457" stopTime="730.931">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="719.457" offset="2983225">Well, we address that point at length in our reply brief, because AT&amp;T advances that argument, and it's really a fundamental misconception or misunderstanding of the regulation.</text>
+            <text syncTime="729.046" offset="3021573">51.5--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="730.931" stopTime="735.985">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="730.931" offset="3029096">I have got it in front of me.</text>
+            <text syncTime="732.533" offset="3035575">It says</text>
+            <text syncTime="732.833" offset="3036724">"This term does not include transport. "</text>
+            <text syncTime="734.433" offset="3043203">But you say it does?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="735.985" stopTime="741.472">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="735.985" offset="3049368">--Yes.</text>
+            <text syncTime="736.485" offset="3051353">Well, the entrance facilities do include transport.</text>
+            <text syncTime="740.103" offset="3065877">All interconnection facilities--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="741.472" stopTime="742.822">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="741.472" offset="3071310">No, I'm talking about interconnection.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="742.822" stopTime="746.007">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="742.822" offset="3076744">--Right.</text>
+            <text syncTime="743.122" offset="3077893">What 51.5 -- I assume that's what you're looking at?</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="746.007" stopTime="746.440">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="746.007" offset="3089492">Yes.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="746.440" stopTime="811.862">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="746.440" offset="3091163">That -- that goes to a term of art or a phrase of art, "transport and termination of traffic".</text>
+            <text syncTime="752.344" offset="3114778">And as the FCC made clear in its regulation 51.701, which is at page 35a of the red brief, what they're really distinguishing there are the two types of charges.</text>
+            <text syncTime="764.552" offset="3163679">You have 251(c)(2) interconnection charges and you have 251(b)(5), transport and termination of traffic charges.</text>
+            <text syncTime="773.425" offset="3199101">And those are two separate concepts.</text>
+            <text syncTime="775.877" offset="3208923">The interconnection charge runs from the competitive network to the incumbent network.</text>
+            <text syncTime="780.412" offset="3227105">The transport and termination of traffic charge runs from the point of interconnection to the incumbent's end customer, and that's very clear.</text>
+            <text syncTime="790.200" offset="3266184">The Ninth Circuit specifically acknowledged that point in note 16 of the Pacific Bell case.</text>
+            <text syncTime="795.502" offset="3287395">But common sense tells you that has to be right, because under AT&amp;T's view, the way they interpret 51.5, there would be no interconnection obligation, because there's always going to be transport and mutual exchange of traffic when interconnection is involved.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="811.862" stopTime="818.099">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="811.862" offset="3352910">Is there a mutual exchange of traffic when you're talking about backhauling?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="818.099" stopTime="832.858">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="818.099" offset="3377779">No, there is not, and we don't take that position.</text>
+            <text syncTime="820.634" offset="3387914">The mutual exchange is when a competitive customer talks to an incumbent customer or vice versa.</text>
+            <text syncTime="826.522" offset="3411529">Everything else we can call backhauling and that's not what's at issue when we're talking about 251(c)(2).</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="832.858" stopTime="835.360">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="832.858" offset="3436816">Can I go back to my question?</text>
+            <text syncTime="834.043" offset="3441622">Because I haven't gotten an answer.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="835.360" stopTime="835.927">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="835.360" offset="3446847">Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="835.927" stopTime="839.262">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="835.927" offset="3449145">I would think -- you said, well, this is an existing facility.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="839.262" stopTime="839.595">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="839.262" offset="3462520">Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="839.595" stopTime="879.989">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="839.595" offset="3463774">But my intuition would be, that makes no difference whatsoever.</text>
+            <text syncTime="842.983" offset="3477358">You could have some kind of mechanism that connects two companies.</text>
+            <text syncTime="848.101" offset="3497838">Now, half of it is a simple wire and half of it is bells and whistles, and so we have to decide which part is the part that's necessary for the interconnection and which part is some kind of -- well, I don't know, extra bells and whistles, and therefore, since it's not an impairment kind of problem, they have to pay full price for it.</text>
+            <text syncTime="869.550" offset="3583624">That, again, seems like the kind of job that Congress would leave up to a commission, but I guess I want you to tell me: Who's to decide that kind of thing, and how do we decide it?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="879.989" stopTime="883.541">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="879.989" offset="3625420">Are you talking about the distance, or what bells and whistles--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="883.541" stopTime="902.188">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="883.541" offset="3639630">I don't know what it is.</text>
+            <text syncTime="884.060" offset="3641616">Often, these things are not distance.</text>
+            <text syncTime="885.593" offset="3647781">Often a connection is all kinds of complex things, you know?</text>
+            <text syncTime="890.630" offset="3667947">And some are necessary and some aren't.</text>
+            <text syncTime="892.916" offset="3677038">But I can -- can't you imagine with me the same kind of California problem arising, but it just arises in -- in kind, rather than in distance?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="902.188" stopTime="903.622">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="902.188" offset="3714132">--Well, as far as--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="903.622" stopTime="906.490">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="903.622" offset="3719879">If I'm so far off base you can't get the question, forget it.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="906.490" stopTime="908.342">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="906.490" offset="3731372">--No, not at all, Justice Breyer.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="908.341" stopTime="908.758">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="908.341" offset="3738791">I mean, I might not be able to get an answer.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="908.758" stopTime="910.341">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="908.758" offset="3740463">I think it's a very good question.</text>
+            <text syncTime="909.574" offset="3743702">And really--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="910.341" stopTime="910.658">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="910.341" offset="3746732">You don't have to--</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="910.658" stopTime="952.501">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="910.658" offset="3748091">--I'll take it in two parts.</text>
+            <text syncTime="911.543" offset="3751643">You know, again, with respect to distance, in the meet point context, the FCC has already delegated in LCO paragraph 553 appropriate and reasonable distances.</text>
+            <text syncTime="921.982" offset="3793335">With respect to the bells and whistles, it's really not that complicated.</text>
+            <text syncTime="925.267" offset="3806501">You have got a cable; that's your entrance facility, typically a fiberoptic cable, and there's going to be a conduit that it needs to run through.</text>
+            <text syncTime="931.957" offset="3833250">There might be, you know, risers or spacers with little twisty ties or something similar to that, zip cords, that will allow the cable to be run into a building and up a wall and connect into the appropriate place.</text>
+            <text syncTime="942.313" offset="3874628">But to the extent those are interconnection facilities, those are necessarily part of the 251(c)(2) obligation.</text>
+            <text syncTime="949.150" offset="3902004">And unless there are any further questions, I'll reserve the remainder of my time.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="952.501" stopTime="953.253">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="952.501" offset="3915379">Thank you, counsel.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="953.253" stopTime="953.853">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="953.253" offset="3918409">Thank you.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="953.853" stopTime="963.809">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="953.853" offset="3920812">Mr. Miller.</text>
+          </turn>
+        </section>
+        <section startTime="963.809" stopTime="1596.715">
+          <heading>Argument of Eric D. Miller</heading>
+          <turn speaker="eric_d_miller" startTime="963.809" stopTime="1022.945">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="963.809" offset="3960623">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="966.844" offset="3972848">There are a lot of statements by the FCC at issue in this case, but I would like to focus on two statements by the commission in its published regulation and orders that, taken together, resolve the question presented here.</text>
+            <text syncTime="977.466" offset="4015271">And the first is the commission's determination in 47 CFR 51.305(e), which appears at page 5a of Michigan's brief, that it is the competitor, not the incumbent, that gets to select the point at which interconnection takes place.</text>
+            <text syncTime="993.226" offset="4078279">Specifically, that regulation says that if an incumbent wants to deny a request for interconnection, it has -- at a particular point, it has the burden of proving that interconnection at that point would be technically infeasible.</text>
+            <text syncTime="1005.116" offset="4125926">And that undercuts a key premise of the decision below, which was that as long as the incumbent provides interconnection at some technically feasible point that it has selected then it's discharged its obligation, and if the competitor doesn't like it, that's just too bad.</text>
+            <text syncTime="1019.709" offset="4184231">They can build their own facility if they want to interconnect somewhere else.</text>
+            <text syncTime="1022.411" offset="4195098">That's--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1022.945" stopTime="1067.772">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1022.945" offset="4197188">Counsel, underlying that question is an issue that I think Justices Ginsburg and Scalia were asking.</text>
+            <text syncTime="1031.351" offset="4230834">Technically feasible is different from economically ridiculous or economically burdensome.</text>
+            <text syncTime="1040.122" offset="4265942">How does that, "economically burdensome" -- does it get considered by anyone so that -- because one could imagine, as Justice Breyer said, that a competitor could come in and say, now build me the Taj Mahal as an entrance facility or as an interconnection facility.</text>
+            <text syncTime="1063.368" offset="4358938">So is there anyone controlling for that latter issue?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1067.772" stopTime="1111.218">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1067.772" offset="4376492">--In terms of the definition of technical feasibility, that's a defined term in section 51.5 of the regulations, and it does not include economic considerations.</text>
+            <text syncTime="1077.795" offset="4416616">Nonetheless, as the commission explained when it adopted those regulations in 1996 at paragraph 209 of the local competition order, competitors have an incentive to ask for an economically efficient means of interconnection, because they have to pay for it.</text>
+            <text syncTime="1095.257" offset="4486416">I mean, the -- they don't pay as much as AT&amp;T would like -- they're paying TELRIC rates -- but they do still have to pay for interconnection, so they have incentive to ask for a reasonable method of it.</text>
+            <text syncTime="1105.397" offset="4526958">And what's at issue in this case, to get to the second part of your question--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1111.218" stopTime="1128.228">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1111.218" offset="4550259">That's why it's only technically feasible, because the economic burden is -- is not on the company?</text>
+            <text syncTime="1120.757" offset="4588398">It has to provide it at the place if it's technically feasible, but it doesn't pay for it?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1128.228" stopTime="1129.013">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1128.228" offset="4618282">--That -- that's right.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1129.013" stopTime="1135.317">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1129.013" offset="4621521">Mr. Miller, you began by saying there were two regulations that disposed of the case.</text>
+            <text syncTime="1133.632" offset="4639911">You got one.</text>
+            <text syncTime="1134.667" offset="4644091">What's the second?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1135.317" stopTime="1154.728">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1135.317" offset="4646703">The -- the second is the commission's determination in the Triennial Review Remand Order in response to the D.C. Circuit's remand of its previous order, that entrance facilities are indeed part of the incumbent's network, because the statutory obligation, of course, is to allow interconnection at any technically feasible point within the incumbent carrier's network.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1154.728" stopTime="1155.580">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1154.728" offset="4724339">Where do I find that?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1155.580" stopTime="1183.865">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1155.580" offset="4727787">That's in paragraph 137 of the Triennial Review Remand Order, which appears at page 10a of Michigan's brief.</text>
+            <text syncTime="1163.834" offset="4760806">And in the preceding paragraph, the commission traced the history of its definition of the dedicated transport network element and the local competition order, its revision of that in the Triennial Review Order, in which it had said that the facilities are not part of the network.</text>
+            <text syncTime="1181.713" offset="4832277">The D.C. Circuit then vacated that.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1183.864" stopTime="1186.916">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1183.864" offset="4840845">Which section are you referring to on page 10a?</text>
+            <text syncTime="1185.949" offset="4849204">Which one is it?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1186.916" stopTime="1217.988">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1186.916" offset="4853070">Well, I've -- I've just gone back to the previous two pages, but it -- 10a is paragraph 137, where the Court says in response -- excuse me -- where the commission says, in response to the Court's remand, that's the D.C. Circuit's remand in the USTA case, we reinstate the local competition order of dedicated -- order definition of dedicated transport.</text>
+            <text syncTime="1206.430" offset="4931124">And that was a definition of a network element that included entrance facilities.</text>
+            <text syncTime="1214.702" offset="4964248">So what the commission was saying there by its reference back to that definition--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1217.988" stopTime="1225.824">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1217.988" offset="4977413">You -- you do not need to provide unbundled access under (c)(3) to entrance facilities, right?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1225.824" stopTime="1268.520">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1225.824" offset="5008760">--That -- that's correct, and the court of appeals, I think, perceived a contradiction between saying that this isn't something to which you have to provide unbundled access under (c)(3), but it is something that has to be made available for interconnection under (c)(2).</text>
+            <text syncTime="1239.334" offset="5062781">And there is no contradiction there, because these are separate independent statutory obligations, and what's particularly significant about the difference between the two statutes -- statutes is that (c)(3) has an impairment test.</text>
+            <text syncTime="1251.459" offset="5111265">You only have to make available those network elements without which the competitor would be impaired in its provision of service.</text>
+            <text syncTime="1258.463" offset="5139268">(C)(2) does not have an impairment test, and that's because Congress recognized that interconnection is absolutely fundamental to any effective telephone competition.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1268.520" stopTime="1274.740">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1268.520" offset="5179496">So what's the definition difference between entrance facility and interconnection facility?</text>
+            <text syncTime="1273.574" offset="5199768">How do we know which is which?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1274.740" stopTime="1279.978">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1274.740" offset="5204365">If you're referring to the -- what the -- in the way the commission used those terms in the--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1279.978" stopTime="1284.046">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1279.978" offset="5225368">No, no, I'm not.</text>
+            <text syncTime="1280.611" offset="5227875">I want to know what's the difference.</text>
+            <text syncTime="1282.263" offset="5234458">Tell me in English what the difference is?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1284.046" stopTime="1285.482">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1284.046" offset="5241563">--An entrance facility--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1285.482" stopTime="1290.100">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1285.482" offset="5247310">No, no.</text>
+            <text syncTime="1285.865" offset="5248878">I mean, how do we know which is which?</text>
+            <text syncTime="1287.198" offset="5254207">We see some big lines and stuff in it; how do we know which is which?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1290.100" stopTime="1310.180">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1290.100" offset="5265805">--An entrance facility, as the commission explained in the TRRO, is just the link between the incumbent's office and the competitor's office.</text>
+            <text syncTime="1302.075" offset="5313766">And an interconnection facility is anything, any part of the network that's being used for interconnection.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1310.180" stopTime="1314.199">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1310.180" offset="5346158">It's a genus and -- and the entrance facility is the species--</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1314.199" stopTime="1315.234">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1314.199" offset="5362249">It can be.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1315.234" stopTime="1316.451">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1315.234" offset="5366324">--in your estimation?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1316.451" stopTime="1328.225">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1316.451" offset="5371235">It -- it can be when it is used for interconnection.</text>
+            <text syncTime="1318.519" offset="5379490">It could also sometimes be used for other things, but we're talking about the situation where the competitor wishes to use the entrance facility for interconnection.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1328.225" stopTime="1331.527">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1328.225" offset="5418360">I'm sorry.</text>
+            <text syncTime="1329.994" offset="5425361">Could you run that by me again?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1331.527" stopTime="1338.617">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1331.527" offset="5431526">The -- the entrance facility is just the link between the two offices, the incumbent's and the competitor.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1338.617" stopTime="1339.083">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1338.617" offset="5459843">Okay, got it.</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1339.083" stopTime="1351.740">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1339.083" offset="5461723">That can be used for a couple of different purposes, but one of the purposes for which it can be used is interconnection.</text>
+            <text syncTime="1345.003" offset="5485443">And when it is being used for that purpose, it is appropriately described as a -- as an interconnection facility.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1351.740" stopTime="1383.896">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1351.740" offset="5512401">Mr. Miller, would you, before you sit down, explain what is the government's position when an agency is asked to file a brief?</text>
+            <text syncTime="1361.113" offset="5549913">The Sixth Circuit asked -- invited the FCC to file a brief, it did, and then the Sixth Circuit disagreed.</text>
+            <text syncTime="1371.904" offset="5593067">And there was some suggestion that when an agency files a brief here in this Court, as opposed to the court of appeals, it deserves more weight.</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1383.896" stopTime="1402.523">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1383.896" offset="5641028">We -- we agree with the view expressed by Judge Sutton in his dissenting opinion below that there really is no reason to distinguish between amicus briefs, particularly those filed at the invitation of a court, in the court of appeals, from those file -- filed here.</text>
+            <text syncTime="1400.257" offset="5706439">In this case, of course, the question of--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1402.523" stopTime="1422.504">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1402.523" offset="5715529">But there may be a -- a reason to give less weight to briefs in this Court different from the briefs filed with the court of appeals.</text>
+            <text syncTime="1410.113" offset="5745831">And you've taken a different position here on -- on the issue of whether, when backhauling is included, it's part of the -- it's -- it's part of the interconnection facility?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1422.504" stopTime="1424.587">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1422.504" offset="5795464">--No.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1424.587" stopTime="1434.478">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1424.587" offset="5803719">I do not think you made that distinction below about, you know, oh, it is part where there is back -- where there is not backhauling, but where there is it isn't.</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1434.478" stopTime="1467.033">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1434.478" offset="5843320">I think our briefs in -- in the two cases are consistent.</text>
+            <text syncTime="1438.430" offset="5859098">Our brief here provides more detail in explaining the commission's orders, but in both cases we have taken the view, as the commission has consistently taken the view since the TRRO, that entrance facilities don't have to be made available as unbundled elements for purposes of back haul, but they do have to be made available when the incumbent seeks to use them for interconnection.</text>
+            <text syncTime="1463.479" offset="5959304">I think this is precisely the sort of case where--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1467.033" stopTime="1470.199">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1467.033" offset="5973514">Wait, they have to be as unbundled elements?</text>
+            <text syncTime="1469.366" offset="5982919">I thought they never had to be--</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1470.199" stopTime="1471.182">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1470.199" offset="5986262">--No, they -- they--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1471.182" stopTime="1473.051">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1471.182" offset="5990128">--as unbundled elements.</text>
+            <text syncTime="1472.318" offset="5994726">That's (c)(3).</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1473.051" stopTime="1473.484">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1473.051" offset="5997652">--That's right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1473.484" stopTime="1477.270">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1473.484" offset="5999323">Your argument here is that only have to be made available under (c)(2)?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1477.270" stopTime="1477.753">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1477.270" offset="6014474">Exactly.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1477.753" stopTime="1478.805">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1477.753" offset="6016460">Which is not unbundled?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1478.805" stopTime="1498.533">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1478.805" offset="6020639">Right.</text>
+            <text syncTime="1479.522" offset="6023461">And it's only for purposes of -- of interconnection.</text>
+            <text syncTime="1482.857" offset="6036835">And I think this is precisely the sort of case where deference under Auer is appropriate, given that you have a highly complex statute regulating a very complex, dynamic industry, and so the commission's regulations involve not only the exercise--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1498.533" stopTime="1502.237">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1498.533" offset="6099529">It certainly encourages us to throw up our hands, there's no doubt about it.</text>
+            <text syncTime="1501.735" offset="6112381">[Laughter]</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1502.237" stopTime="1533.456">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1502.237" offset="6114367">--Another way of saying that would be that it's appropriate to recognize the commission's not only policy-making discretion, but technical expertise in the industry that's being regulated.</text>
+            <text syncTime="1518.197" offset="6178210">And certainly the commission has tried to be as clear as it can in its regulations, but this is an area where some level of imprecision is probably inevitable, and I think that's why it's appropriate to defer to--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1533.456" stopTime="1545.930">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1533.456" offset="6239232">Well, I don't know why -- why it's so hard.</text>
+            <text syncTime="1534.908" offset="6245083">I mean, I got out my orange cord and I--</text>
+            <text syncTime="1536.708" offset="6252293">[Laughter]</text>
+            <text syncTime="1537.510" offset="6255428">JUSTICE KENNEDY -- but I -- I wasn't sure of -- if it was a transport or link.</text>
+            <text syncTime="1544.080" offset="6281759">That -- that's my concern.</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1545.930" stopTime="1566.511">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1545.930" offset="6289178">--Well, I guess I would say maybe we need to put the difference between interconnection and transport in concrete terms.</text>
+            <text syncTime="1553.870" offset="6320943">It would be the interconnection charge which is at TELRIC rates under 252(d)(1).</text>
+            <text syncTime="1560.876" offset="6348946">There would be a flat fee for setting it up, and then a flat monthly fee just for having the link there.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1566.511" stopTime="1567.946">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1566.511" offset="6371516">Continue.</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="1567.945" stopTime="1588.609">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="1567.945" offset="6377159">Thank you.</text>
+            <text syncTime="1569.981" offset="6385309">And that's independent of usage.</text>
+            <text syncTime="1571.914" offset="6393041">Then, separately, each time a call is made there is a charge under 252(d)(2) for the transport and termination of the call.</text>
+            <text syncTime="1580.087" offset="6425746">And that goes both ways.</text>
+            <text syncTime="1581.872" offset="6432956">So when the competitor's customer calls the ILEC, the customer -- the competitor pays the ILEC for terminating the call and vice versa.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1588.609" stopTime="1596.715">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1588.609" offset="6459810">Thank you, Mr. Miller.</text>
+            <text syncTime="1589.826" offset="6464721">Mr. Angstreich.</text>
+          </turn>
+        </section>
+        <section startTime="1596.715" stopTime="3242.438">
+          <heading>Argument of Scott H. Angstreich</heading>
+          <turn speaker="scott_h_angstreich" startTime="1596.715" stopTime="1642.861">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="1596.715" offset="6492306">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1600.267" offset="6506517">In this case the agency is trying to use an amicus brief to interpret a few sentences in orders from years ago to create a new legal rule without ever going through a process that would result in judicial review.</text>
+            <text syncTime="1613.908" offset="6561061">In fact, in the Triennial Review Orders, where the agency supposedly announced this new obligation, it assured incumbents like AT&amp;T that it was not altering its interpretation of the statutory interconnection duty.</text>
+            <text syncTime="1627.918" offset="6617067">And the government correctly concedes here that before those orders, the government had never interpreted the statutory interconnection duty to require companies like AT&amp;T to sell a fiber optic cable at TELRIC rates.</text>
+            <text syncTime="1642.428" offset="6675163">Yes--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1642.861" stopTime="1678.851">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1642.861" offset="6676835">Counsel, I know you're saying that, but everybody's arguing about what the TRO and the TRRO say or don't say.</text>
+            <text syncTime="1654.551" offset="6723647">But I go behind that and I go -- I think the government's entire argument is not based even on those.</text>
+            <text syncTime="1660.972" offset="6749351">It's based on the LCO regulations themselves.</text>
+            <text syncTime="1664.276" offset="6762517">They've cited two, which is 51.305 and 51.321.</text>
+            <text syncTime="1671.680" offset="6792192">They're not relying on those TROs in their back and forth there, they are relying on the regulation.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="1678.851" stopTime="1700.430">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="1678.851" offset="6820822">--Well, Your Honor, I actually read their brief differently, and I note that in the Sixth Circuit they didn't rely on any regulations at all.</text>
+            <text syncTime="1686.188" offset="6850184">The argument was entirely based on paragraph 140.</text>
+            <text syncTime="1689.140" offset="6861991">But going to the regulations, at the same time they promulgated those rules, the government did define interconnection to exclude transport, and when they defended that exclusion--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1700.430" stopTime="1703.982">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1700.430" offset="6907131">So how do you address their point that there are two different charges at issue?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="1703.982" stopTime="1704.716">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="1703.982" offset="6921341">--There are--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1704.716" stopTime="1712.988">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1704.716" offset="6924267">--that one -- that interconnection by definition includes transport.</text>
+            <text syncTime="1708.370" offset="6938896">It's hard for me to think of how it doesn't, because they've got to travel from one place to another, so--</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="1712.988" stopTime="1760.819">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="1712.988" offset="6957390">--Your Honor, when the FCC explained this to the Eighth Circuit, what it said is there are really three things going on.</text>
+            <text syncTime="1718.226" offset="6978288">One is (c)(2), is the duty to interconnect at a point, not to provide a whole host of facilities that get you to the point, but literally the duty to interconnect at a specific point in the world; selected by the competitor to be sure, but that only tells you where interconnection occurs.</text>
+            <text syncTime="1734.585" offset="7043803">That's the point.</text>
+            <text syncTime="1735.787" offset="7048610">The commission then said: Okay, then there are other obligations in the statute.</text>
+            <text syncTime="1740.924" offset="7069090">One of them is in section 251(b)(5), and that's what obligates the incumbent to accept telephone calls that are sent to that point and to send telephone calls through that point to the competitor.</text>
+            <text syncTime="1753.565" offset="7119663">And then there's the third thing, and this is directly from the government's brief to the Eighth Circuit, where they explain that section (c)(2)--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1760.819" stopTime="1761.505">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1760.819" offset="7148711">The Sixth Circuit?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="1761.505" stopTime="1892.138">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="1761.505" offset="7151428">--The Eighth Circuit.</text>
+            <text syncTime="1763.055" offset="7157593">We cite this at -- from 1996, this is the contemporaneous view of the agency at the time it promulgated the interconnection regulations.</text>
+            <text syncTime="1771.194" offset="7190194">It's defending those regulations against a challenge that they are too narrow.</text>
+            <text syncTime="1775.495" offset="7207434">And what the agency says to the Eighth Circuit, which then deferred to this interpretation, is with section (c)(2) interconnection included routing and transmission.</text>
+            <text syncTime="1785.620" offset="7247872">(C)(2) would overlap with other sections that, one, describe a duty to route and transmit traffic, telephone calls; and, two, a duty to lease facilities that will be used for routing and transmission.</text>
+            <text syncTime="1798.611" offset="7299908">Footnote: Those duties are (b)(5) and (c)(3).</text>
+            <text syncTime="1802.480" offset="7315372">To the extent there is a duty to lease the facilities, the fiber optic cables that competitors are going to use to get to the interconnection point of their choice, that duty has to arise, the commission is saying here, only under section 251(c)(3).</text>
+            <text syncTime="1819.091" offset="7381828">And we know it doesn't arise under that section because these aren't things that are bottleneck elements, these aren't things that competitors can't get themselves.</text>
+            <text syncTime="1828.130" offset="7417981">Competitors are interconnecting today.</text>
+            <text syncTime="1830.499" offset="7427385">Wireless carriers, other competitors, everyone in the state of Ohio has since 2005 not been paying TELRIC rates, and as the amicus brief showed, there has been no detriment to competition.</text>
+            <text syncTime="1841.605" offset="7471794">Interconnection is occurring.</text>
+            <text syncTime="1842.723" offset="7476287">And so what the government is trying to do here is impose this leasing obligation under the interconnection duty in a way that never gave AT&amp;T and other incumbents any opportunity to challenge it.</text>
+            <text syncTime="1855.197" offset="7526233">They never explain how it squares with the text and structure of the statute, with their prior statements, or why there's any policy basis for interpreting what they claim is an ambiguous statute to require TELRIC pricing for things that are not bottleneck elements.</text>
+            <text syncTime="1870.124" offset="7585896">Back in the level competition order, Justice Sotomayor, when they adopted the TELRIC methodology, they recognized -- this is in paragraph 702 -- interconnection services -- that's what they called it back then -- are bottlenecks, not things that competitors can build themselves or buy from third parties in the marketplace, as the agency has found is the case since 2005.</text>
+            <text syncTime="1890.538" offset="7667608">They never--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1892.138" stopTime="1912.551">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1892.138" offset="7673981">--Now you're reading limitation into the statute.</text>
+            <text syncTime="1894.672" offset="7684117">All the statute says is, you're obligated to provide interconnection services.</text>
+            <text syncTime="1900.993" offset="7709403">It doesn't say how or limit it only to things that are not bottlenecks or things that are bottlenecks.</text>
+            <text syncTime="1908.415" offset="7739079">It just says you're obligated to do X, and that's what the agency's saying.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="1912.551" stopTime="1968.768">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="1912.551" offset="7755588">--I understand this, Your Honor.</text>
+            <text syncTime="1913.319" offset="7758723">But if the agency had ever done that through notice and comment with a rule and published it in the Federal Register -- which they concede that before 2003 they hadn't done that as to entrance facilities -- and they claimed they had no occasion to address the question -- and then in 2003 we get a single sentence in a paragraph of an order where there was no notice they were considering interconnection duties, no publication of a new regulation, no publication -- nothing that would have, you know, told AT&amp;T and other incumbents you should seek judicial review of this if you think it's wrong.</text>
+            <text syncTime="1945.438" offset="7887141">And now we're being told 8 years later that when they said facilities in that paragraph, they meant entrance facilities.</text>
+            <text syncTime="1952.942" offset="7917234">And we're being told 2 years later when they said interconnection facilities that they meant entrance facilities, even though when they were asked that question by the Sixth Circuit they said we didn't define that term.</text>
+            <text syncTime="1962.948" offset="7957253">And Mr. Miller might want to say they've just said a little bit more now, but they've said something radically different.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1968.768" stopTime="1983.813">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1968.768" offset="7980450">In that regard, in all of these years, are -- you mean to tell me there is no other incumbent that has provided interconnection services at an entrance facility and charged TELRIC rates?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="1983.813" stopTime="2026.556">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="1983.813" offset="8040636">Prior to 2003 and 2005, when there was an unbundling rule in place -- and the commission had always recognized when it established that unbundling rule in 1996 that competitors would use unbundled transport facilities to connect to incumbent switches, so to connect to those interconnection points.</text>
+            <text syncTime="2002.025" offset="8113570">And sure, prior to 2005 when the unbundling rule was in place, competitors would lease these facilities and pay TELRIC rates and use them to get to the interconnection point; but there was never during that time any statement that even if there was no impairment, section 251(c)(2) would require the exact same thing to get to the interconnection point.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2026.556" stopTime="2028.275">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2026.556" offset="8211686">What happened to the unbundling rule?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2028.275" stopTime="2064.296">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2028.275" offset="8218478">It got -- it was gotten rid of.</text>
+            <text syncTime="2029.858" offset="8224852">It doesn't exist any more.</text>
+            <text syncTime="2030.992" offset="8229345">So now AT&amp;T has said those things you used to buy under the unbundling rule, we don't have to sell them to you at TELRIC rates anymore.</text>
+            <text syncTime="2039.646" offset="8264035">We have a tariff.</text>
+            <text syncTime="2041.014" offset="8269469">We've always had a tariff.</text>
+            <text syncTime="2041.948" offset="8273230">We'll sell them to you at just and reasonable rates under the tariff.</text>
+            <text syncTime="2044.300" offset="8282634">You can build them yourself, as competitors and wireless carriers are doing.</text>
+            <text syncTime="2047.935" offset="8297159">You can buy them from the third parties that build them and advertise their offering of them.</text>
+            <text syncTime="2052.321" offset="8314713">But what you can't do is say all of a sudden that the interconnection duty had always required the exact same thing as the unbundling duty, at least not without going through a rulemaking where you lay out your policy grounds.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2064.296" stopTime="2066.581">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2064.296" offset="8362569">Why was the unbundling rule abandoned?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2066.581" stopTime="2073.735">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2066.581" offset="8371764">It was abandoned because the record evidence showed unambiguously that competitors don't need these things from incumbents.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2073.735" stopTime="2074.502">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2073.735" offset="8400394">It's not a bottleneck?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2074.502" stopTime="2131.358">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2074.502" offset="8403425">It's not in any way, shape or form a bottleneck.</text>
+            <text syncTime="2076.604" offset="8411784">And I guess that gets to the second point I'd make, which is that again -- and I don't think they rely on the regulations, Justice Sotomayor, and they've never -- and the government concedes in footnote 6 that the regulations themselves don't get them to where they want to go.</text>
+            <text syncTime="2088.345" offset="8458804">They need these statements they made in 2003 and 2005.</text>
+            <text syncTime="2093.232" offset="8478344">And even if you credit their new position that when they said facilities and interconnection facilities, that was just an imprecise way of saying entrance facilities, those statements don't get you to the rule that they're endorsing.</text>
+            <text syncTime="2106.973" offset="8533305">What the agency actually said is that competitors will have access to these facilities -- and let's pretend that means entrance facilities for the time being -- will have access to entrance facilities at cost-based rates to the extent that they require them to interconnect, and that's paragraph 140 of the Triennial Review order and the remand order, and they said the same thing, although they used the word "need", not "require".</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2131.358" stopTime="2131.890">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2131.358" offset="8630899">Which is (c)(3).</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2131.890" stopTime="2191.062">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2131.890" offset="8632989">Well, I think the point is what they -- this is why we think the right reading of those statements is that the facilities they're referring to are things they actually do require and need, which are the things inside AT&amp;T buildings that they can't replicate, that it's strange for them to have said</text>
+            <text syncTime="2148.617" offset="8699862">"you're going to get these facilities you require. "</text>
+            <text syncTime="2150.985" offset="8709371">but to have meant something that they don't in fact require.</text>
+            <text syncTime="2153.937" offset="8721178">But even if you want to read, again, facilities and interconnection facilities to mean entrance facilities, they rule they're endorsing, and you know, Michigan now wants, if it's in the ground we have to provide it; if we have to build it, we don't have to provide it; it's the first time we've heard of that in the scope of this litigation.</text>
+            <text syncTime="2171.816" offset="8792649">The government seems to only be willing to -- to talk about those few facilities that had been gotten under the old, now gone unbundling rules; but that's not the distinction that the commission drew when it said this thing that supposedly's imposing an obligation on AT&amp;T and other companies.</text>
+            <text syncTime="2187.610" offset="8855865">It limited it to those things that competitors require.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2191.062" stopTime="2193.246">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2191.062" offset="8869658">But that's -- that's (c)(3).</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2193.246" stopTime="2194.398">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2193.246" offset="8878435">But that's what--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2194.398" stopTime="2204.470">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2194.398" offset="8883033">(C)(2) says you just -- you have to.</text>
+            <text syncTime="2197.466" offset="8895258">It imposes an affirmative obligation to provide interconnection and -- interconnection.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2204.470" stopTime="2210.858">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2204.470" offset="8923261">--Well, it imposes an obligation, Your Honor, to provide interconnection at a point -- it's at a point within our network.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2210.858" stopTime="2218.379">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2210.858" offset="8948861">Excuse me, that's your point, I thought.</text>
+            <text syncTime="2212.610" offset="8955862">I thought it is precisely your point.</text>
+            <text syncTime="2215.261" offset="8966416">That it is (c)(3) rather than (c)(2).</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2218.379" stopTime="2232.306">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2218.379" offset="8978954">Well that's -- my point is, yes; if there is a facilities leasing obligation it has to exist under (c)(3), that's absolutely right, Justice Scalia.</text>
+            <text syncTime="2224.717" offset="9004241">That we think that's the right reading of the statute, we think that's what the FCC told the Eighth Circuit, we think it's what the FCC said in the local competition order.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2232.306" stopTime="2253.053">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2232.306" offset="9034648">I don't -- what I -- there's no way for you all to go to the FCC and decide what part of this thing is, or any State regulator, what part of it is -- part of what's necessary to facilitate interconnection and what part of it is really providing the work primarily of the -- simply transporting services?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2253.053" stopTime="2253.753">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2253.053" offset="9117612">Your Honor--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2253.753" stopTime="2255.003">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2253.753" offset="9120434">What part is doing something else?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2255.003" stopTime="2256.088">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2255.003" offset="9125449">--There -- there is really no--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2256.088" stopTime="2257.004">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2256.088" offset="9129733">There's no way to do that?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2257.004" stopTime="2258.104">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2257.004" offset="9133390">--No.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2258.104" stopTime="2268.312">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2258.104" offset="9137883">Okay, so a judge has to say, on the basis of what, on the basis -- the judge has to say on the basis of the statute, which just uses the word interconnection?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2268.312" stopTime="2274.233">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2268.312" offset="9178634">Well, the Michigan commission decided that the FCC in that paragraph 140 created this obligation.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2274.233" stopTime="2274.783">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2274.233" offset="9202354">Yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2274.783" stopTime="2275.550">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2274.783" offset="9204548">But the -- the--</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2275.550" stopTime="2276.502">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2275.550" offset="9207578">That's wrong.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2276.502" stopTime="2290.845">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2276.502" offset="9211444">--I -- I thought it was conceded that -- that none of this is -- is necessary under (c)(3).</text>
+            <text syncTime="2283.489" offset="9239343">I thought that's what the Eighth Circuit said and which is why they eliminated the unbundling obligation under (c)(3).</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2290.845" stopTime="2291.945">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2290.845" offset="9268809">That's -- that's absolutely right, Your Honor.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2291.945" stopTime="2296.998">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2291.945" offset="9273198">So it is accepted by both sides, I think, that this is not necessary.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2296.998" stopTime="2309.973">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2296.998" offset="9293364">That's right, and because it's not necessary, you can't read, as the government tries to, belatedly, years after the fact, those statements in their orders from 2003 and 2005, those few statements in these--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2309.973" stopTime="2320.029">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2309.973" offset="9345296">It doesn't help because it's a network element, if it's in (3) and what this is, is something that's going to be needed to -- to interconnect.</text>
+            <text syncTime="2317.329" offset="9374762">If it's -- if it's in -- if it's in the first one.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2320.029" stopTime="2320.447">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2320.029" offset="9385524">--But--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2320.447" stopTime="2336.140">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2320.447" offset="9387196">And I don't know which is which, and I gather that sometimes it would be tough, and what courts use to do with the ICC when they got into this kind of situation is a doctrine called primary jurisdiction, and they would ask them for a brief.</text>
+            <text syncTime="2331.903" offset="9433067">All right?</text>
+            <text syncTime="2332.755" offset="9436411">So if that's what we've done hypothetically, we have the brief.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2336.140" stopTime="2336.890">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2336.140" offset="9449994">--We don't--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2336.890" stopTime="2338.408">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2336.890" offset="9453025">Now why don't we have to follow the brief?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2338.408" stopTime="2354.518">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2338.408" offset="9459085">--Because the brief here doesn't do what a decision on a primary jurisdiction referral would do, which is square what the agency is doing with the text and structure of the statute with prior statements that contradict--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2354.518" stopTime="2358.120">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2354.518" offset="9523451">Do you agree that it has to be needed to interconnect?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2358.120" stopTime="2359.572">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2358.120" offset="9537870">--Your Honor--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2359.572" stopTime="2362.691">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2359.572" offset="9543722">The whole problem here is it doesn't have to be needed to interconnect.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2362.691" stopTime="2363.558">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2362.691" offset="9556156">--Our--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2363.558" stopTime="2377.533">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2363.558" offset="9559604">It has to be needed under (c)(3), but under (c)(2) it's -- it's up to the -- to the new company to say I want to interconnect here; and -- and the incumbent cannot say, oh, no, you -- you don't have interconnect here; you can interconnect somewhere else.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2377.533" stopTime="2394.245">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2377.533" offset="9615506">--That -- Your Honor, that's absolutely right, Justice Scalia.</text>
+            <text syncTime="2379.319" offset="9622716">They get to pick a point.</text>
+            <text syncTime="2381.519" offset="9631493">The point has to be within our network.</text>
+            <text syncTime="2384.354" offset="9642883">Rule 51.305 identifies a series of illustrative points all of which exist inside AT&amp;T buildings, and that's what they've done.</text>
+            <text syncTime="2393.210" offset="9678305">They've picked a point--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2394.245" stopTime="2404.651">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2394.245" offset="9682380">But wait a minute.</text>
+            <text syncTime="2394.712" offset="9684261">Does -- don't the regulations now and the commission's TRO, et cetera, say that an entrance facility is within your network?</text>
+            <text syncTime="2402.935" offset="9717175">You haven't challenged that?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2404.651" stopTime="2410.255">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2404.651" offset="9724071">--We do disagree.</text>
+            <text syncTime="2406.470" offset="9731281">I mean, at the time of the Triennial Review Order, they said it was outside of our network.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2410.255" stopTime="2410.938">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2410.255" offset="9746432">It's now--</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2410.938" stopTime="2422.745">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2410.938" offset="9749149">And that's when they also supposedly adopted this rule.</text>
+            <text syncTime="2413.207" offset="9758239">So somehow, this rule they've adopted has to coexist with the notion that these things are outside our network.</text>
+            <text syncTime="2418.360" offset="9778824">But in or out, I think it's important to recognize they're not claiming--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2422.745" stopTime="2423.295">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2422.745" offset="9796378">--If they're not--</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2423.295" stopTime="2434.970">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2423.295" offset="9798572">--Pardon me.</text>
+            <text syncTime="2423.762" offset="9800453">I think -- if you have the network engineer's brief, figure 4 on page 19, I think it does a very good job of illustrating what it is we're talking about.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2434.970" stopTime="2437.405">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2434.970" offset="9845279">Like, orange wires and such?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2437.405" stopTime="2439.791">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2437.405" offset="9854997">They draw them in black, but yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2439.791" stopTime="2440.891">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2439.791" offset="9864610">In black?</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2440.891" stopTime="2445.778">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2440.891" offset="9868999">--Figure 4.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2445.778" stopTime="2486.669">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2445.778" offset="9888538">Figure 4 on page 19.</text>
+            <text syncTime="2447.111" offset="9893867">What the competitors in this case in Michigan have long said is that the competitor has picked as its point of interconnection the point inside the box on the right labeled incumbent local exchange carrier's central office, and then they need some fiberoptic cable to bridge the gap to that interconnection point.</text>
+            <text syncTime="2470.159" offset="9986027">That's how Judge Sutton understood it in dissent.</text>
+            <text syncTime="2471.926" offset="9993132">That's how Judge Batchelder understood it in the majority.</text>
+            <text syncTime="2473.845" offset="10000760">And all the interconnection duty talks about, all any of the interconnection regulations talk about, is letting the competitors pick that point.</text>
+            <text syncTime="2483.551" offset="10039630">How they get to the point is up to them.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2486.669" stopTime="2493.823">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2486.669" offset="10052065">That's not what the statute says.</text>
+            <text syncTime="2488.352" offset="10058856">The statute says the carriers have a duty to provide interconnection.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2493.823" stopTime="2494.273">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2493.823" offset="10080695">Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2494.273" stopTime="2510.099">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2494.273" offset="10082471">Now, in carrying out a duty to provide, you say that's just picking the point, that somebody could equally well say, no, it's a duty to provide means to get to the point.</text>
+            <text syncTime="2505.897" offset="10128969">Now, either of those seem equally consistent with the language.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2510.099" stopTime="2529.162">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2510.099" offset="10145792">Your Honor, there's more language that I think forecloses those interpretations.</text>
+            <text syncTime="2513.986" offset="10161361">It's not just a duty to provide interconnection.</text>
+            <text syncTime="2515.769" offset="10168466">It's a duty to provide interconnection for the competitor's facilities and equipment at a point within the incumbent's network.</text>
+            <text syncTime="2522.842" offset="10196783">Nothing in that statutory language says that the duty is to provide the competitor with the facilities--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2529.162" stopTime="2547.658">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2529.162" offset="10222070">No, it doesn't say that, but it doesn't say the opposite, and therefore, you might have an agency reasonably deciding that to -- to fulfill that duty, you must provide equipment reasonably necessary to allow the competitor to connect.</text>
+            <text syncTime="2546.124" offset="10289883">That's equally sensible.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2547.658" stopTime="2552.944">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2547.658" offset="10296048">--And Justice Breyer, you might have an agency that did that.</text>
+            <text syncTime="2550.593" offset="10307751">We don't have an agency that did that.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2552.944" stopTime="2555.163">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2552.944" offset="10317155">Apparently, you have an agency that never really said one way or the other.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2555.163" stopTime="2562.300">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2555.163" offset="10326037">And that means that Michigan was wrong when it thought that the agency had said it, and the Sixth Circuit was right when it--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2562.300" stopTime="2572.139">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2562.300" offset="10354667">Well, it used to say the other.</text>
+            <text syncTime="2563.283" offset="10358533">You contend it used to say the other, and it has never, by proper means, gainsaid its prior position.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2572.139" stopTime="2572.872">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2572.139" offset="10393955">--That's correct.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2572.872" stopTime="2591.333">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2572.872" offset="10396881">I don't see what the other -- I didn't hear anything that said they said the other.</text>
+            <text syncTime="2575.722" offset="10408270">They said when you have wires and you're using the wires for communication, then they don't fall outside of this; that's true.</text>
+            <text syncTime="2583.828" offset="10440767">But if you're using them for interconnection, and they're necessary to use for interconnection, maybe it does fall inside this.</text>
+            <text syncTime="2590.583" offset="10467725">I don't--</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2591.333" stopTime="2601.039">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2591.333" offset="10470755">Well, Justice Breyer, again, we point you to their definition of interconnection where they excluded transport from interconnection and explained to the Eighth Circuit's--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2601.039" stopTime="2611.395">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2601.039" offset="10509625">--They excluded -- they excluded transport -- all transport to the point of interconnection, where you could not provide the facility to interconnect unless you had the transport?</text>
+            <text syncTime="2610.495" offset="10547451">Is that what they did?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2611.395" stopTime="2612.378">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2611.395" offset="10551003">--What they said is--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2612.378" stopTime="2614.247">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2612.378" offset="10554974">Did they do that?</text>
+            <text syncTime="2612.930" offset="10557168">Yes or no?</text>
+            <text syncTime="2613.513" offset="10559467">I bet the answer is no.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2614.247" stopTime="2705.920">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2614.247" offset="10562393">--What they -- I -- Your Honor, I just -- I don't think you're describing it in a way that consists -- comports with the language of the act.</text>
+            <text syncTime="2621.351" offset="10590814">What they said is a duty to lease facilities that will be used for routing and transmission of telephone calls to the point.</text>
+            <text syncTime="2630.372" offset="10626863">That's (c)(3).</text>
+            <text syncTime="2632.091" offset="10633759">That's not part of the interconnection duty.</text>
+            <text syncTime="2634.926" offset="10645149">When they contrasted, in their local competition order, paragraph 172, they said what interconnection does is it lets the competitor pick the place where they're going to drop the traffic off.</text>
+            <text syncTime="2646.084" offset="10689766">But it is section (c)(3) that lets the competitor say, I would prefer to use incumbent facilities at TELRIC rates to get to that point.</text>
+            <text syncTime="2654.690" offset="10724143">They have made that very distinction.</text>
+            <text syncTime="2656.657" offset="10732084">But what they're trying to do through their amicus brief here is to turn (c)(2) into a facilities leasing provision.</text>
+            <text syncTime="2664.712" offset="10764267">Now, again, we don't think this Court needs to say that they could never have promulgated a rule with reasons that would get you there, but they've never done it.</text>
+            <text syncTime="2674.068" offset="10801674">If they had done it, we would have had the opportunity to seek judicial review.</text>
+            <text syncTime="2678.036" offset="10817557">They would have had to explain themselves.</text>
+            <text syncTime="2679.722" offset="10824349">We've never had that opportunity.</text>
+            <text syncTime="2682.022" offset="10833544">When they've said -- and you know, I think it's important, when they put out these sentences in the Triennial Review Order and Triennial Review Remand Order that supposedly told us of this new obligation, they never asked for notice about this, even though in their notice of proposed rulemaking, they said, should we get rid of entrance facilities under (c)(3)?</text>
+            <text syncTime="2700.801" offset="10908672">They didn't say, and if we do, what would that mean for (c)(2)?</text>
+            <text syncTime="2704.437" offset="10923196">They didn't ask the question.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2705.920" stopTime="2710.907">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2705.920" offset="10929152">I thought they said, moreover, that they were not amending (c)(2), specifically.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2710.907" stopTime="2717.161">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2710.907" offset="10949005">That's exactly right.</text>
+            <text syncTime="2712.026" offset="10953498">In the orders themselves, they assured AT&amp;T and others that they weren't changing anything.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2717.161" stopTime="2732.070">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2717.161" offset="10974083">But there are -- there are cases, I think, in primary jurisdiction where what a District Court has done, anyway, is to hold the case while the ICC went and had a proceeding, and I'm sure that hasn't been used in a long time.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2732.070" stopTime="2734.022">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2732.070" offset="11033746">No, that is still used, Justice Breyer.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2734.022" stopTime="2734.472">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2734.022" offset="11041479">It is?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2734.472" stopTime="2735.022">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2734.472" offset="11043359">But I point--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2735.022" stopTime="2736.158">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2735.022" offset="11045554">Well, maybe this is the case for it.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2736.158" stopTime="2776.266">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2736.158" offset="11050047">--Well, I don't think there's -- and I point to this Court's decision by Justice Ginsburg in Northwest Airlines v. Kent, 510 U.S. 355, where this Court said: Nobody has asked us to invoke the doctrine of primary jurisdiction; we're not going to do it; instead, we will adopt an interpretation of the statute that will suffice for the purposes at hand.</text>
+            <text syncTime="2754.186" offset="11122145">And as the Court later recognized in Brand X, that leaves it open to the agency, in a rulemaking, to actually do the work that, as Justice Scalia noted, the agency has never done here.</text>
+            <text syncTime="2764.959" offset="11165299">And so it's -- rather than imposing something through a combination of amicus briefs and statements that don't actually set forth the rule that the agency is trying to defend here, we would have a real rulemaking and a chance--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2776.266" stopTime="2798.982">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2776.266" offset="11210439">I guess the problem I'm having is that you tell me on the one hand that up until, what, 2005, you were always paying the cost plus profit rates, the TELRIC's rates, for interconnection at a -- at an entrance facility.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2798.982" stopTime="2887.023">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2798.982" offset="11301345">--That's not quite right, Justice Sotomayor.</text>
+            <text syncTime="2800.667" offset="11308136">Up until 2005, companies like Talk America were allowed to get both the actual physical linking at TELRIC rates and the transport facility at TELRIC rates, but under two separate statutory provisions.</text>
+            <text syncTime="2814.991" offset="11365397">They were getting the transport facility under (c)(3); that's gone away.</text>
+            <text syncTime="2818.962" offset="11381279">They were getting the linking under (c)(2).</text>
+            <text syncTime="2821.247" offset="11390370">Now, there were other companies like wireless carriers.</text>
+            <text syncTime="2823.697" offset="11400192">They were getting the linking at TELRIC rates under (c)(2), but they were paying full freight for the transport, because they have never been allowed to get unbundled network elements.</text>
+            <text syncTime="2834.905" offset="11445018">So this notion that there's going to be a price increase to wireless carriers is a fiction.</text>
+            <text syncTime="2839.376" offset="11462886">But what -- so competitors were doing two things under two provisions.</text>
+            <text syncTime="2843.411" offset="11479082">One of those has gone away.</text>
+            <text syncTime="2844.780" offset="11484515">And it was only after it was gone away that anybody raised this notion that maybe that transport facility had always been required under (c)(2) also.</text>
+            <text syncTime="2854.968" offset="11525266">But that's nothing the commission has ever done in a rulemaking.</text>
+            <text syncTime="2859.789" offset="11544597">It never did that in the proper way in the Triennial Review Order or the Triennial Review Remand Order.</text>
+            <text syncTime="2865.443" offset="11567167">As Justice Scalia noted, it assured AT&amp;T and other incumbents that it wasn't changing the law.</text>
+            <text syncTime="2870.828" offset="11588692">When it published things in the Federal Register, which is where it is supposed to publish substantive rules, it identified specifically the elimination of entrance facilities as unbundled network elements, and said not a word about any continued duty to provide them under section--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2887.023" stopTime="2897.914">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2887.023" offset="11653475">Well, it did in the footnotes.</text>
+            <text syncTime="2887.923" offset="11657132">It said -- that's what the whole dispute is about, which is, we're not changing the obligation to provide interconnection services.</text>
+            <text syncTime="2894.962" offset="11685240">So it said it clearly.</text>
+            <text syncTime="2896.578" offset="11691719">Its view--</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2897.914" stopTime="2939.741">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2897.914" offset="11697048">--But then the question, Justice Sotomayor, is: Well, what was that obligation?</text>
+            <text syncTime="2901.116" offset="11709900">And the government concedes in footnote 6 that prior to making those statements, it had never interpreted that obligation to include the duty to lease that transport facility.</text>
+            <text syncTime="2912.072" offset="11753681">It claims the question never came up because, while it was an unbundled element, it didn't matter.</text>
+            <text syncTime="2919.078" offset="11781684">Now, I think it's quite telling that while it was an unbundled element and we were having 10 years of litigation about what the right standard is for an unbundled element, nobody even thought to say: By the way, all of this litigation is beside the point with respect to the use of these facilities when we attach them to an interconnection point.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2939.741" stopTime="2944.376">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2939.741" offset="11864336">The Eighth Circuit's decision would have been unnecessary in the revision of the rule?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2944.376" stopTime="2962.405">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2944.376" offset="11882935">Exactly, Justice Scalia.</text>
+            <text syncTime="2946.395" offset="11890981">It's very strange that no -- I mean -- and I think from the fact that nobody thought to say it comes to what we view has happened, is that this is a rear guard effort to preserve TELRIC pricing for things that the commission has said should no longer be available as TELRIC -- at TELRIC pricing.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2962.405" stopTime="2965.975">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2962.405" offset="11955033">Maybe the commission didn't like the Eighth Circuit's decision.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="2965.975" stopTime="3012.587">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="2965.975" offset="11969348">I -- I think it's probably a fair statement that the commission does not like the decision vacating its unbundling rules, but nonetheless, that's what happened, and the new rules get rid of this element.</text>
+            <text syncTime="2976.747" offset="12012398">Again, what the Michigan commission found was that the FCC had specifically determined, that there is a leasing obligation under (c)(2).</text>
+            <text syncTime="2987.888" offset="12057015">That never happened.</text>
+            <text syncTime="2990.024" offset="12065479">The Sixth Circuit was right about that.</text>
+            <text syncTime="2992.274" offset="12074465">There is no leasing obligation that the commission has ever established.</text>
+            <text syncTime="2996.078" offset="12089720">I think, Justice Breyer, to go back to your question, whether they could do it is a separate question.</text>
+            <text syncTime="3001.482" offset="12111350">I don't think they could.</text>
+            <text syncTime="3003.215" offset="12118246">I think we have an incredibly good chance to prevail if they were to ever promulgate such a rule, but they never did it.</text>
+            <text syncTime="3009.469" offset="12143323">They said things directly to the contrary.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3012.587" stopTime="3019.276">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3012.587" offset="12155758">It all didn't matter because, in fact, they got the TELRIC rates under (c)(3) until they changed the impairment part?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="3019.276" stopTime="3019.709">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="3019.276" offset="12182507">Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3019.709" stopTime="3022.828">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3019.709" offset="12184283">So who cared.</text>
+            <text syncTime="3020.626" offset="12187941">And now after that they care.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="3022.828" stopTime="3024.311">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="3022.828" offset="12196718">Right, they care.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3024.311" stopTime="3035.536">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3024.311" offset="12202674">And now -- now -- now the other side cares, of course, and so now -- now we're faced with a situation where they're just putting this in the brief for the first time but they can't base it on anything the commission actually did?</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="3035.536" stopTime="3037.671">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="3035.536" offset="12247604">That's exactly right.</text>
+            <text syncTime="3036.486" offset="12251366">And if the commission had actually--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3037.671" stopTime="3041.390">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3037.671" offset="12256068">I'm glad it's right because I don't know what I'm talking about.</text>
+            <text syncTime="3039.857" offset="12264845">[Laughter]</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="3041.390" stopTime="3090.123">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="3041.390" offset="12271010">--I'm glad -- I'm glad we're at least agreeing with each other, Justice Breyer.</text>
+            <text syncTime="3045.225" offset="12286370">But -- and I think that really is the key administrative law point here, is that if the agency in the Triennial Review Order or Triennial Review Remand Order had actually said what they say in their brief, we never had occasion to consider this question before.</text>
+            <text syncTime="3058.484" offset="12339346">Now we're considering it, and here is why we think it's appropriate to read (c)(2) to impose these.</text>
+            <text syncTime="3065.305" offset="12366618">And despite the fact that, you know -- again, sufficient claims of the statute's ambiguous.</text>
+            <text syncTime="3069.126" offset="12381874">They need a policy reason why it's appropriate to read this ambiguous statute to require TELRIC pricing for things that third parties are actually investing in and selling at marketplace rates, why it's appropriate to undercut those third party business models with this TELRIC pricing for something the competitors are can and are building themselves, third parties are selling--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3090.122" stopTime="3111.369">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3090.122" offset="12465883">--Accepting their policy arguments, what does that do to your main argument?</text>
+            <text syncTime="3093.924" offset="12481139">Because I think they've explained it to my satisfaction why this is necessary because (c)(2) requires interconnection.</text>
+            <text syncTime="3102.013" offset="12513426">Congress has made a judgment that interconnection is the mainstay of competition in this area, so if I accept that--</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="3111.369" stopTime="3155.565">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="3111.369" offset="12550938">--With due respect, Justice Sotomayor, I don't think they've made that policy claim here, and in particular this is not a case about whether interconnection is going to occur.</text>
+            <text syncTime="3120.559" offset="12587614">Competitors and wireless carriers are picking their points of interconnection.</text>
+            <text syncTime="3124.927" offset="12605168">They are interconnecting today.</text>
+            <text syncTime="3126.646" offset="12611960">They have been doing it.</text>
+            <text syncTime="3127.946" offset="12617185">Wireless carriers never had TELRIC priced transport facilities, and yet they're interconnected.</text>
+            <text syncTime="3133.782" offset="12640590">Competitors in nearly a dozen States that have addressed this issue and disagreed with Michigan and agreed with the Sixth Circuit are interconnecting today using their own facilities, using third-party facilities.</text>
+            <text syncTime="3145.674" offset="12688133">And when they come to AT&amp;T and say we would like to plug our facility into this point, AT&amp;T says, absolutely, and does the work necessary to get those two things connected.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3155.565" stopTime="3157.632">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3155.565" offset="12727630">It doesn't say it that happily, it really doesn't.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="3157.632" stopTime="3159.450">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="3157.632" offset="12735990">You're right.</text>
+            <text syncTime="3158.384" offset="12738915">It certainly--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3159.450" stopTime="3160.167">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3159.450" offset="12743199">Well, okay.</text>
+          </turn>
+          <turn speaker="scott_h_angstreich" startTime="3160.167" stopTime="3236.950">
+            <label>Mr. Scott H. Angstreich</label>
+            <text syncTime="3160.167" offset="12746125">--It's -- it's an imposition on AT&amp;T.</text>
+            <text syncTime="3162.219" offset="12754275">But the notion that in any way, shape or form the price of cable will alter the interconnection of telephone networks is simply false.</text>
+            <text syncTime="3170.825" offset="12788757">Yes, interconnection is an important policy, and Congress said we have to provide it at points within our networks selected by competitors and we do that.</text>
+            <text syncTime="3180.847" offset="12828776">But Congress didn't say and the FCC has never said that we also have to provide them whatever it is that they want to use to get to that point.</text>
+            <text syncTime="3191.588" offset="12871722">And there really is, and I think some of the questioning pulled that out, though they want to say I think because the government won't endorse the absolute position, the Petitioners were taking in their opening briefs, that this is only about things that used to be ordered as unbundled elements or things already in the ground.</text>
+            <text syncTime="3206.931" offset="12933162">But their position, their interpretation of the statute has no stopping point.</text>
+            <text syncTime="3211.235" offset="12950403">It would cover anything a competitor might ever want to use to get telephone calls to the interconnection point.</text>
+            <text syncTime="3218.638" offset="12979973">And they've never defended that limitless reading.</text>
+            <text syncTime="3221.524" offset="12991467">And if the agency ever wanted to adopt it would challenge it, and as I've said, I like our chances, but until they do it, Michigan was wrong to conclude that the commission had done it and the Sixth Circuit was correct to reject that if there are no further questions, I'll sit down.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3236.950" stopTime="3242.438">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3236.950" offset="13053221">Thank you, counsel.</text>
+            <text syncTime="3238.819" offset="13060744">Mr. Bursch, you -- Bursch, you have 4 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3242.438" stopTime="3517.949">
+          <heading>Rebuttal of John J. Bursch</heading>
+          <turn speaker="john_j_bursch" startTime="3242.438" stopTime="3355.427">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="3242.438" offset="13075163">Your Honors, everything you heard in the last 30 minutes is premised on the idea that the FCC is doing something new, and that there was never a promulgated regulation.</text>
+            <text syncTime="3252.044" offset="13113616">That is demonstrably false.</text>
+            <text syncTime="3253.996" offset="13121452">If you turn with me to page 32a of the red brief, this is the FCC's regulation promulgated all the way back in 1996, which defined the scope of the (c)(2) interconnection obligation.</text>
+            <text syncTime="3268.155" offset="13178086">It's 47 CFR 51.321, and this goes directly to the points that Justice Sotomayor was making.</text>
+            <text syncTime="3277.177" offset="13214135">On page 32a, the FCC says that an incumbent must provide interconnection at a particular point upon a request by a telecommunications carrier, such as a competitor.</text>
+            <text syncTime="3289.652" offset="13263976">Technically feasible methods -- this is in sub B -- include but are not limited to, and they give two examples: colocation and meet points.</text>
+            <text syncTime="3298.757" offset="13300443">But this isn't the be-all-end-all of interconnection obligations.</text>
+            <text syncTime="3302.578" offset="13315699">These are exemplary.</text>
+            <text syncTime="3304.028" offset="13321550">Take an analogy.</text>
+            <text syncTime="3305.446" offset="13327193">Assume you had a high school cafeteria and the school board said you have to provide vegetables to students when they ask for them, and you have to give them the vegetable that they ask for.</text>
+            <text syncTime="3315.386" offset="13367003">Those include broccoli and green beans, and they don't say anything else.</text>
+            <text syncTime="3320.456" offset="13387274">Then you have a separate obligation in (c)(3) and the school board says until we see that the kids have enough nutrition, you must give them peas, that's entrance facilities unbundled under (c)(3).</text>
+            <text syncTime="3332.764" offset="13436489">So some time goes by and the school board says, okay, the kids are getting enough peas, we're going to wipe away that second restriction, but the initial restriction, the obligation in 321 is still there; and if a student asks for peas, it's within the scope of 321 because broccolis and green beans were representative examples, and peas are another one.</text>
+            <text syncTime="3355.177" offset="13526141">And--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3355.427" stopTime="3369.485">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3355.427" offset="13527082">Why did they fight the Eighth Circuit litigation?</text>
+            <text syncTime="3358.795" offset="13540561">Why did -- I mean, it -- you're telling me it made no difference whether (c)(3) allowed them to do what they wanted to do and what the Eighth Circuit said they couldn't do, right?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="3369.485" stopTime="3388.731">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="3369.485" offset="13583402">--The premise -- no, that's incorrect, Your Honor, because if you have an entrance facility under (c)(3), you can use it for more things than you can under (c)(2), because under (c)(3) you can have it for backhauling and still get TELRIC rates.</text>
+            <text syncTime="3381.142" offset="13630004">Under (c)(2) you're limited to interconnection.</text>
+            <text syncTime="3383.660" offset="13640035">So it's a different question.</text>
+            <text syncTime="3385.279" offset="13646514">But the idea that somehow the FCC--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3388.731" stopTime="3391.533">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3388.731" offset="13660306">Very slightly different.</text>
+            <text syncTime="3389.648" offset="13663963">That's not that big a deal.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="3391.533" stopTime="3402.306">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="3391.533" offset="13671591">--Backhauling is a big deal to competitors.</text>
+            <text syncTime="3393.233" offset="13678383">And so to say that they did something new in the TRRO is wrong.</text>
+            <text syncTime="3398.170" offset="13698132">And to prove that point if you look at the comments--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3402.306" stopTime="3405.443">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3402.306" offset="13714641">Incidentally, where do you -- where do you get that backhauling restriction from?</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="3405.443" stopTime="3406.710">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="3405.443" offset="13727180">--The backhauling--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3406.710" stopTime="3407.760">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3406.710" offset="13732300">Yes, yes.</text>
+            <text syncTime="3407.293" offset="13734599">The--</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="3407.760" stopTime="3515.914">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="3407.760" offset="13736479">--From the TRO and the TRRO, and the FCC discussed that distinction in the Sixth Circuit briefing at pages 6 to 7, so this isn't anything new, either.</text>
+            <text syncTime="3416.232" offset="13770334">So the fact that this is not something new is demonstrated conclusively by comments in the TRRO proceedings from Bell South which is now an AT&amp;T subsidiary.</text>
+            <text syncTime="3428.206" offset="13818295">And Bell South says at page 59 of its comments, fully recognizing the obligation that went all the way back to 1996 in reg 321: Because entrance facilities may be required for interconnection purposes and Congress explicitly enacted provisions that govern carrier obligations to provide interconnection in 251(c)(2), it was altogether reasonable for the commission to exclude these network elements from a definition of ILEC dedicated transport intended for unbundled access under 251(c)(3).</text>
+            <text syncTime="3459.927" offset="13945145">So even incumbent carriers knew what the FCC was doing in paragraph 140 of the TRRO and there was nothing new there.</text>
+            <text syncTime="3467.683" offset="13976179">One other small point with respect to the network engineers map.</text>
+            <text syncTime="3471.135" offset="13989972">This entrance facility right here on page 19 already exists.</text>
+            <text syncTime="3478.122" offset="14017870">We're talking about existing facilities; and it's true, as the Sixth Circuit said, that if the point of interconnection is here at the ILEC switch, then that's where interconnection takes place, and this entrance facility is -- is truly providing transport, not interconnection.</text>
+            <text syncTime="3492.216" offset="14074295">But when a competitive carrier chooses its own switch as the point of interconnection, this is the end of the AT&amp;T entrance facility, then interconnection takes place there, and even in the Sixth Circuit's view that entrance facility is interconnection under (c)(2), and as Congress has said, that's the obligation that is immutable because it is so important, fundamental to competition.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3515.914" stopTime="3517.949">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3515.914" offset="14169067">Thank you, counsel.</text>
+            <text syncTime="3516.864" offset="14172829">The case is submitted.</text>
+          </turn>
+          <turn speaker="john_j_bursch" startTime="3517.949" stopTime="3518.566">
+            <label>Mr. John J. Bursch</label>
+            <text syncTime="3517.949" offset="14177217">Thank you.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

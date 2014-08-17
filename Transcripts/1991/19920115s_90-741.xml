@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1992-01-15</transcribed>
+        <edit user="tschaefer" date="2012-08-14T20:41:12" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <identified user="tschaefer">2012-08-14</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:26:38" startTime="0.000" oldSpeaker="harry_a_blackmun" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="324373">/xml/cases/1991/90_741/19920115o_90-741.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1991/90-741_19920115-opinion.xml</sourceFile>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="58.384">
+        <title>Dewsnup v. Timm</title>
+        <section startTime="0.000" stopTime="8.633">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.633">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90838">The opinion of the Court in No. 90-741, Dewsnup against Timm will be announced by Justice Blackmun.</text>
+          </turn>
+        </section>
+        <section startTime="8.633" stopTime="58.384">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="harry_a_blackmun" startTime="8.633" stopTime="58.384">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="8.633" offset="125320">Well, this is a bankruptcy case coming to us from the Tenth Circuit.</text>
+            <text syncTime="14.171" offset="147471">The petitioner, a Chapter 7 debtor, filed an adversary proceeding asserting the right to strip down, as they called, the respondent's lien on a certain land to the judicially determined value of the collateral.</text>
+            <text syncTime="30.799" offset="214031">The Bankruptcy Court entered a judgment of dismissal and the District Court and the Court of Appeals affirmed.</text>
+            <text syncTime="37.529" offset="240885">This is not a case that lends itself to announcement from the bench and suffices to say that in an opinion filed with the clerk today, we too affirm the judgment of the courts below.</text>
+            <text syncTime="49.343" offset="288115">Justice Scalia has filed a dissenting opinion in which Justice Souter joins.</text>
+            <text syncTime="53.985" offset="306714">Justice Thomas took no part in the consideration or decision of the case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

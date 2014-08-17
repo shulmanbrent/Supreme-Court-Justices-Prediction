@@ -1,0 +1,43 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1987-03-24</transcribed>
+        <edit user="tschaefer" date="2012-08-22T20:59:21" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <identified user="tschaefer">2012-08-22</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T12:14:13" startTime="0.000" oldSpeaker="sandra_day_oconnor" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="583840">/xml/cases/1986/85_1200/19870324o_85-1200.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1986/85-1200_19870324-opinion.xml</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="123.010">
+        <title>California Coastal Comm'n v. Granite Rock Company</title>
+        <section startTime="0.000" stopTime="9.647">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.647">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="91798">The opinion of the Court in No. 85-1200, California Coastal Commission versus Granite Rock Company will be announced by Justice O'Connor.</text>
+          </turn>
+        </section>
+        <section startTime="9.647" stopTime="123.010">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="sandra_day_oconnor" startTime="9.647" stopTime="123.010">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="9.647" offset="130355">This case is here on appeal from the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="15.839" offset="155119">The Mining Act of 1872 authorizes private citizens to enter federal lands to perfect mining claims.</text>
+            <text syncTime="24.350" offset="189182">Appellee, Granite Rock Company holds an unpatented mining claim on federal land in California.</text>
+            <text syncTime="31.877" offset="219276">Granite Rock obtained approval of the from the forest service to mine limestone.</text>
+            <text syncTime="37.049" offset="239965">But the California Coastal Commission told Granite Rock it must also apply for a development permit from the Coastal Commission.</text>
+            <text syncTime="45.442" offset="273506">Granite Rock filed suit against the Commission in the Federal District Court seeking declaratory and injunctive relief on the grounds that federal laws preempted California's laws and regulations.</text>
+            <text syncTime="58.002" offset="323765">The District Court dismissed the action, but the Court of Appeals reversed holding that the Commission's permit requirement, which enforce state environmental standards with preemptive by the Mining Act in the forest service regulations.</text>
+            <text syncTime="73.242" offset="384683">In an opinion filed today, we reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="78.207" offset="404536">In our view, neither the forest service regulations nor federal land use statutes nor the Coastal Zone Management Act, preempt the California Commission's imposition of a permit requirement to enforce reasonable environmental requirements on operation of the mining claim on federal lands.</text>
+            <text syncTime="97.847" offset="483112">This action comes to us in the form of a facial challenge, to any state regulation and we have no occasion here to review any specific application of California's requirements.</text>
+            <text syncTime="110.726" offset="534626">Justice Powell has filed an opinion concurring on part and dissenting in part in which Justice Stevens has joined; Justice Scalia has filed a dissenting opinion in which Justice White has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

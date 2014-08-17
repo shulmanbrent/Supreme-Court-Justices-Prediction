@@ -1,0 +1,46 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-20</identified>
+      </history>
+      <resources>
+        <audioFile size="1101576">/xml/cases/2011/10_788/20120402o_10-788.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2011/trs/10-788_20120402-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="248.738">
+        <title>Rehberg v. Paulk</title>
+        <section startTime="0.000" stopTime="248.738">
+          <heading>Opinion Announcement of Samuel A. Alito, Jr.</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="5.705">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="106496">Justice Alito has our opinion this morning in case 10-788, Rehberg versus Paulk.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="5.705" stopTime="248.738">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="5.705" offset="129275">The question in this case is whether a witness, who testifies before a grand jury, is entitled to the same immunity from suit under 42 U.S.C. Section 1983 as a witness who testifies at trial.</text>
+            <text syncTime="19.866" offset="185908">Petitioner Charles Rehberg, a certified public accountant sent anonymous faxes to several recipients, including the management of a hospital in Albany, Georgia, criticizing the hospital's management and activities.</text>
+            <text syncTime="33.938" offset="242228">In response, the local district attorney's office, with the assistance of its chief investigator, respondent James Paulk, launched a criminal investigation of Rehberg, allegedly as a favor to the hospital's leadership.</text>
+            <text syncTime="48.252" offset="299489">Paulk testified three times before a grand jury and Rehberg was indicted three times.</text>
+            <text syncTime="54.173" offset="323103">Among other things he was charged with assault and making harassing phone calls.</text>
+            <text syncTime="58.369" offset="339926">The indictments were all dismissed.</text>
+            <text syncTime="60.828" offset="349748">Petitioner then brought this action under Section 1983, alleging that respondent had conspired to present and did present false testimony to the grand jury.</text>
+            <text syncTime="71.289" offset="391649">Respondent moved to dismiss, arguing among other things that he was entitled to absolute immunity for his grand jury testimony.</text>
+            <text syncTime="79.452" offset="424249">The District Court denied that motion to dismiss, but the United States Court of Appeals for the Eleventh Circuit reversed.</text>
+            <text syncTime="86.517" offset="452462">The Court of Appeals noted petitioner's allegation that respondent was the sole complaining witness before the grand jury, but it declined to recognize a complaining witness exception to its precedent on grand jury witness immunity and it held that respondent was absolutely immune from a Section 1983 claim based on his grand jury testimony.</text>
+            <text syncTime="110.600" offset="548801">We agree and hold that a grand jury witness is entitled to the same immunity from suit under Section 1983 as a witness who testifies at trial.</text>
+            <text syncTime="121.980" offset="594359">In Briscoe versus LaHue, the Court held that a trial witness, sued under Section 1983, has absolute immunity with respect to any claim based on his testimony because without such immunity the truth-seeking process would be impaired as witnesses might be reluctant to testify, and even a witness who took the stand might be inclined to shade his testimony in favor of the potential plaintiff for fear of subsequent civil liability.</text>
+            <text syncTime="151.241" offset="711387">These factors apply with equal force to grand jury witnesses.</text>
+            <text syncTime="154.819" offset="725703">In both contexts, a witness' fear of retaliatory litigation may deprive the tribunal of critical evidence and in either context is the deterrent of potential civil liability needed to prevent perjurious testimony because perjury before a grand jury like the perjury at trial is a serious criminal offense.</text>
+            <text syncTime="175.488" offset="808354">Petitioner's main argument is that under our cases, certain grand jury witnesses, namely those who qualified as complaining witnesses, are not entitled to absolute immunity, but this Court looks to the common law for guidance in identifying the functions meriting the protection of absolute immunity.</text>
+            <text syncTime="194.129" offset="882960">And at the time when Section 1983's predecessor was enacted as Section 1 of the Civil Rights Act of 1871, a complaining witness was a party who procured an arrest and initiated a criminal prosecution.</text>
+            <text syncTime="208.822" offset="941683">A complaining witness might testify either before a grand jury or a trial, but testifying was not a necessary characteristic of a complaining witness.</text>
+            <text syncTime="219.195" offset="983270">In sum, testifying whether before a grand jury or a trial was not a distinctive function performed by a complaining witness.</text>
+            <text syncTime="227.824" offset="1017752">It is clear that a complaining witness cannot be held liable for perjurious testimony at trial and there is no more reason why a complaining witness should be subject to liability for testimony before a grand jury.</text>
+            <text syncTime="241.238" offset="1071355">For these and other reasons stated more fully in our opinion, the judgment of the Court of Appeals is affirmed.</text>
+            <text syncTime="246.996" offset="1094447">The opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

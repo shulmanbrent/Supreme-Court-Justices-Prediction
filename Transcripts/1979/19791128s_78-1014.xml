@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="456725">/xml/cases/1979/78_1014/19791128o_78-1014.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1979/trs/78-1014op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="114.116">
+        <title>United States v. Kubrick</title>
+        <section startTime="0.000" stopTime="114.116" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Byron R. White</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="9.608">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">The judgment and opinion of the Court in United States against Kubrick will be announced by Mr. Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="9.608" stopTime="112.200">
+            <label>Justice Byron R. White</label>
+            <text syncTime="9.608" offset="38348">The Federal Tort Claims Act allows tort suits against the United States and in these kinds of cases, the sovereign immunity of the United States is waived.</text>
+            <text syncTime="23.400" offset="93518">The Act provides however that the tort claim must be presented within two years after the claim accrues.</text>
+            <text syncTime="32.650" offset="130508">This case deals with when a medical malpractice tort claim accrues within the meaning of the Act.</text>
+            <text syncTime="41.008" offset="163944">The Court of Appeals for the Third Circuit held that it doesn't accrue until the plaintiff knows not only that he's been hurt in the cause of the injury but when he knows that the injury causing conduct may constitute medical malpractice.</text>
+            <text syncTime="59.540" offset="238132">We think that this holding represents the considerable departure from the prevailing law and finds little if any support in the statute toward a legislative history.</text>
+            <text syncTime="72.466" offset="289855">We hold that a medical malpractice tort claim accrues no later than when the plaintiff is aware of his injury and of its cause.</text>
+            <text syncTime="82.007" offset="327993">And at that time the two year statute begins to run and within that time he must decide whether to file suit or not in just the same way that other tort claimants must make up their mind.</text>
+            <text syncTime="96.634" offset="386508">Accordingly, the judgment of the Court of Appeals which was -- and the Court of Appeals here with the Third Circuit is reversed.</text>
+            <text syncTime="104.381" offset="417437">Mr. Justice Stevens has filed a dissenting opinion and he is joined Mr. Justice Brennan and Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="112.200" stopTime="114.116">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="112.200" offset="448784">Thank you Mr. Justice White.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

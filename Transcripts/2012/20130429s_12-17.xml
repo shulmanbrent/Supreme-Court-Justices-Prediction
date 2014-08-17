@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <edit user="jeffpar" date="2014-01-20T18:48:57" startTime="0.000" oldSpeaker="elena_kagan" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="629909">/xml/cases/2012/12_17/20130429o_12-17.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/12-17_20130429-opinion.trs</sourceFile>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="130.800">
+        <title>McBurney v. Young</title>
+        <section startTime="0" stopTime="130.800">
+          <heading>Opinion Announcement of Samuel A. Alito, Jr.</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="6.261">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="106496">Justice Alito has our opinion this morning in case 12-17, McBurney versus Young.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="6.261" stopTime="130.800">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="6.261" offset="131469">This case concerns the constitutionality of a provision of Virginia's Freedom of Information Act that provides public records access to Virginia's citizens but not to citizens of other States.</text>
+            <text syncTime="19.215" offset="183296">Petitioners who are citizens of California and Rhode Island filed requests under the Act, but the request were denied because of their citizenship.</text>
+            <text syncTime="29.018" offset="222480">They then brought suit contending that this feature of the Virginia's Freedom of Information Act violates the Privileges and Immunities Clause of Article IV of the constitution and the Dormant Commerce Clause.</text>
+            <text syncTime="41.780" offset="273575">The Fourth Circuit rejected their claims and we granted certiorari to resolve a conflict with the Third Circuit which is held that Delaware's citizens only FOIA provision violates the Privileges and Immunities Clause.</text>
+            <text syncTime="55.450" offset="328223">We hold that petitioners' constitutional claims were properly rejected.</text>
+            <text syncTime="60.167" offset="347136">The Privileges and Immunities Clause prohibits the State from denying to citizens of other States those fundamental privileges and immunities that are extended to the State's own citizens.</text>
+            <text syncTime="72.136" offset="394992">Petitioners alleged that Virginia's Freedom of Information Act bridges four fundamental privileges or immunities The right to pursue a common calling, the right to own and transfer property in Virginia, the right to access public proceedings, and a broad right to obtain public information.</text>
+            <text syncTime="91.102" offset="470852">The first three of these privileges, however, are not actually abridged by the Virginia law and the fourth, at least, in the broad sense, framed by petitioners is not fundamental.</text>
+            <text syncTime="102.186" offset="515156">In addition to his privileges and immunities claim, petitioner Hurlbert contends that Virginia's Freedom of Information Act violates the dormant Commerce Clause, but the Virginia law neither regulates in a more burdens commerce.</text>
+            <text syncTime="115.596" offset="568863">It simply provides a service to Virginia citizens.</text>
+            <text syncTime="119.881" offset="586000">For these and other reasons set out in our opinion, the decision of the Fourth Circuit is affirmed.</text>
+            <text syncTime="125.902" offset="610032">The decision is unanimous.</text>
+            <text syncTime="127.340" offset="615779">Justice Thomas has filed a concurring opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

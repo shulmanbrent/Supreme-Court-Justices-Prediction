@@ -1,0 +1,41 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:44:42" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="720554">/xml/cases/1993/93_5256/19940627o_93-5256.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1993/trs/93-5256_19940627-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="157.388">
+        <title>Williamson v. United States</title>
+        <section startTime="0.000" stopTime="157.388">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.088">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="91003">The opinion of the Court in No. 93-5256, Williamson against the United States will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="9.088" stopTime="157.388">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="9.088" offset="127261">This case comes here on certiorari to the United States Court of Appeals for the Eleventh Circuit.</text>
+            <text syncTime="15.252" offset="151921">The petitioner, Williamson, was convicted of various drug crimes.</text>
+            <text syncTime="19.504" offset="168952">One piece of evidence against him was the confession of a confederate, Reginald Harris.</text>
+            <text syncTime="25.263" offset="192045">In that confession, Harris admitted to transporting cocaine but also said other things that implicated Williamson.</text>
+            <text syncTime="33.806" offset="226213">Because the confession was made out of court, it was hearsay but the District Court admitted it as a statement against penal interest in the proceeding against Williamson, pursuant to Federal Rule of Evidence 804(b)(3).</text>
+            <text syncTime="51.753" offset="297997">Rule 804(b)(3) allows hearsay statements to be admitted if they so far tend to expose the person making those statements to criminal liability that a reasonable person would not make them unless they were true.</text>
+            <text syncTime="67.944" offset="362676">Williamson appealed his conviction claiming that Harris' statement was not actually against Harris' penal interest because it tried to shift blame and curry favor with the police.</text>
+            <text syncTime="81.913" offset="418579">The Court of Appeals rejected that argument.</text>
+            <text syncTime="85.574" offset="433207">In an opinion filed today, we vacate the judgment of the Court of Appeals and remand the case.</text>
+            <text syncTime="91.877" offset="458494">We hold that rule 804(b)(3) allows only the admission of those individual statements in a confession that are actually against the declarants' penal interest.</text>
+            <text syncTime="103.265" offset="504051">It does not allow the admission of the entire confession just because some parts of it are against the declarant's interest or because the confession, seen as a whole, is against the declarant's interest.</text>
+            <text syncTime="116.263" offset="555983">Because at least some of what Harris said really did not implicate Harris himself, but only implicated Williamson, we conclude that those statements should not have been admitted.</text>
+            <text syncTime="127.875" offset="602481">We remand the case to the Court of Appeals to apply these principles in the first instance.</text>
+            <text syncTime="133.868" offset="626409">Justice Scalia who has joined this opinion also filed a concurring opinion; Justice Ginsburg has filed an opinion concurring in part and concurring in the judgment which is joined by Justices Blackmun, Stevens, and Souter; Justice Kennedy has filed an opinion concurring in the judgment in which the Chief Justice and Justice Thomas join.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

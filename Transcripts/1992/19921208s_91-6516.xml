@@ -1,0 +1,33 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1992-12-08</transcribed>
+        <edit user="tschaefer" date="2012-08-15T14:50:35" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="byron_r_white"/>
+        <identified user="tschaefer">2012-08-15</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:36:38" startTime="0.000" oldSpeaker="byron_r_white" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="207073">/xml/cases/1992/91_6516/19921208o_91-6516.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1992/91-6516_19921208-opinion.xml</sourceFile>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="31.321">
+        <title>Soldal v. Cook County</title>
+        <section startTime="0.000" stopTime="10.355">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.355">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="81790">The opinion of the Court in No. 91-6516, Soldal versus Cook County Illinois will be announced by Justice White.</text>
+          </turn>
+        </section>
+        <section startTime="10.355" stopTime="31.321">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="byron_r_white" startTime="10.355" stopTime="31.321">
+            <label>Justice Byron R. White</label>
+            <text syncTime="10.355" offset="123168">For the reasons stated in an opinion for unanimous Court which is on file with the Clerk and the judgment of the Court of Appeals for the Seventh Circuit in this case is reversed and the case is remanded for further proceedings.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

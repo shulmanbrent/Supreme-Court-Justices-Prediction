@@ -1,0 +1,53 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1404818">/xml/cases/2004/04_277/20050627o_04-277.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2004/trs/04-277_20050627-opinion.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="313.001">
+        <title>National Cable and Telecomm. Assn v. Brand X Internet Services</title>
+        <section startTime="0.000" stopTime="313.001" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice Clarence Thomas</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="15.334">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in National Cable and Telecommunications Association versus Brand X will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="15.334" stopTime="313.001">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="15.334" offset="61336">These consolidated cases come to us on a writ of certiorari to the United States Court of Appeal for the Ninth Circuit.</text>
+            <text syncTime="23.700" offset="94772">They concern how the Federal Communications Commission must regulate cable modem service.</text>
+            <text syncTime="30.076" offset="120268">Cable modem service consists of the use of cable television lines to provide consumers with high speed internet access.</text>
+            <text syncTime="41.624" offset="166452">The issue these cases present is whether cable modem service is telecommunication service under the Communications Act.</text>
+            <text syncTime="53.618" offset="214413">If so, the Commission presumptively must pursuant to the Act regulate as common carriers cable companies that provide cable modem service.</text>
+            <text syncTime="65.986" offset="263941">Common carriers must fulfill a variety of regulatory duties under the Act.</text>
+            <text syncTime="72.148" offset="288496">For example, common carriers must charge just reasonable and nondiscriminatory rates.</text>
+            <text syncTime="79.974" offset="319843">Through notice-and-comment rulemaking, the Commission concluded that cable modem service was not telecommunications service and therefore, it was not subject to presumptively mandatory common carrier regulations.</text>
+            <text syncTime="94.912" offset="379611">The Court of Appeals for the Ninth Circuit overturned the Commission's ruling.</text>
+            <text syncTime="100.170" offset="400614">Based on Ninth Circuit precedent, it held that the Commission could not consistent with the Act exempt cable modem service for mandatory common carrier regulation.</text>
+            <text syncTime="112.480" offset="449829">We disagree and in an opinion filed with the Clerk today, reverse the Ninth Circuit judgment and remand for the further proceedings.</text>
+            <text syncTime="121.966" offset="487863">The Commission's ruling was based on a permissible reading of the Communications Act.</text>
+            <text syncTime="127.431" offset="509701">Under Chevron U. S. A. Inc. versus Natural Resources Defense Council, Inc., if a statute's plain terms admit to two or more plausible constructions, we must accept the Commission's choice of one of them if the Commission's choice is reasonable.</text>
+            <text syncTime="144.142" offset="576470">The Commission's construction was permissible under Chevron.</text>
+            <text syncTime="148.344" offset="593293">The Act is ambiguous about whether cable modem service is telecommunication service and therefore common carriage.</text>
+            <text syncTime="157.574" offset="630282">The Commission's interpretation that cable modem service is not telecommunication service within the meaning of the Act is reasonable.</text>
+            <text syncTime="168.108" offset="672392">The Act defines telecommunication service in relevant part as the offering of telecommunications for a fee directly to the public.</text>
+            <text syncTime="177.637" offset="710531">This definition does not unambiguously classify cable modem service as telecommunications service.</text>
+            <text syncTime="185.239" offset="740937">Cable companies used telecommunications in other words data transmission to provide cable modem service but it does not necessarily follow that they offer telecommunications along with cable modem service.</text>
+            <text syncTime="200.753" offset="803004">The high speed transmission used to provide cable modem service, the Commission reasonably concluded, is simply one integrated component of a single finished offering.</text>
+            <text syncTime="211.920" offset="847621">Here, internet access.</text>
+            <text syncTime="214.447" offset="857757">Functionally integrated components of finished products need not be described as being offered along with the product.</text>
+            <text syncTime="223.356" offset="893388">For example, one would not normally say that a car dealer offers engines when it offers cars.</text>
+            <text syncTime="231.007" offset="924003">Moreover, the question here, whether the transmission is sufficiently integrated with the finished product so as not to constitute a separate offering depends on the particulars of internet and telecommunications technology which the Commission is in a far better position to evaluate than we are.</text>
+            <text syncTime="252.581" offset="1010312">Because the statute does not address whether the transmission component of cable modem service is sufficiently integrated, we should defer to the Commission's expert judgment on whether it is especially under the given dynamic technical and complex nature of the subject matter.</text>
+            <text syncTime="272.752" offset="1090978">For these reasons and others discussed in more detail in our opinion, the Commission's interpretation is a lawful construction of the Act.</text>
+            <text syncTime="282.641" offset="1130475">Justice Stevens has filed a concurring opinion; Justice Breyer has filed a concurring opinion; Justice Scalia has filed a dissenting opinion in which Justices Souter and Ginsburg join as to part one.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

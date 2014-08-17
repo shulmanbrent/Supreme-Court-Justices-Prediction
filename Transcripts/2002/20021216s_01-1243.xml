@@ -1,0 +1,25 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2014-01-16T12:22:03" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="161613">/xml/cases/2002/01_1243/20021216o_01-1243.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2002/trs/01-1243_20021216-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="19.304">
+        <title>Borden Ranch Partnership v. Army Corps of Engineers</title>
+        <section startTime="0" stopTime="19.304">
+          <heading/>
+          <turn speaker="john_paul_stevens" startTime="0.000" stopTime="19.304">
+            <label>Justice Stevens</label>
+            <text syncTime="0.000" offset="84709">01-1243, Borden Ranch Partnership against the United States Army Corps of Engineers.</text>
+            <text syncTime="8.086" offset="116996">The judgment of the Court of Appeals for the Ninth Circuit is affirmed by an equally divided court.</text>
+            <text syncTime="14.110" offset="141133">Justice Kennedy took no part in the consideration or decision of the case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

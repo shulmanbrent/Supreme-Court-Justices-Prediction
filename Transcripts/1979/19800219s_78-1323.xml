@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="503327">/xml/cases/1979/78_1323/19800219o_78-1323.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1979/trs/78-1323op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="125.762">
+        <title>Norfolk &amp; Western Railway Company v. Liepelt</title>
+        <section startTime="0.000" stopTime="125.762" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice John Paul Stevens</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="12.797">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">The judgment and opinion of the Court in Number 1323, Norfolk and Western Railway Company against Liepelt will be announced by Mr. Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="12.797" stopTime="124.091">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="12.797" offset="51096">In 1973, a fireman employed by the Norfolk and Western Railway suffered fatal injuries in a collision.</text>
+            <text syncTime="20.604" offset="82338">His widow brought suit in the Circuit Court of Cook County, Illinois against the Railroad under the Federal Employer's Liability Act and recovered damages of $775,000.</text>
+            <text syncTime="32.225" offset="128836">An appeal to the Appellate Court of Illinois, the Railroad argued that the jury may have overestimated the monetary law suffered by the fireman's survivors for two reasons.</text>
+            <text syncTime="43.201" offset="172722">First, when the plaintiff's expert testified, his calculations were based on the decendents before tax earnings and the judge would not allow the Railroad's lawyer to offer any evidence concerning the amount of income taxes paid by the employee.</text>
+            <text syncTime="58.351" offset="233326">Second, the judge refused to instruct the jury that the plaintiff's recovery would not be subject to federal income taxes.</text>
+            <text syncTime="65.149" offset="260493">The Illinois Appellate Court affirmed the trial judge because his rulings were consistent with the prevailing practice of refusing to allow juries to receive evidence or instruction concerning the impact of federal income taxes on damage awards in cases under the statute.</text>
+            <text syncTime="81.898" offset="327576">Because the prevailing practice developed at a time when federal taxes were relatively insignificant and because some courts are now following a different practice, we granted certiorari.</text>
+            <text syncTime="92.913" offset="371566">We now reverse and hold that the wage earner's federal income taxes are one of the factors relevant in measuring the monetary law as occasioned by his death and further, that it was error to refuse to instruct the jury that no taxes would be -- would be assessed against this recovery.</text>
+            <text syncTime="110.381" offset="441469">Accordingly, for reasons stated in an opinion filed with the clerk, the case is remanded to the Appellate Court of Illinois for further proceedings.</text>
+            <text syncTime="118.430" offset="473652">Mr. Justice Blackmun with whom Mr. Justice Marshall joins has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="124.091" stopTime="125.762">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="124.091" offset="496327">Thank you, Mr. Justice Stevens.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

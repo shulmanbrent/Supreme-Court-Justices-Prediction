@@ -1,0 +1,31 @@
+<transcript>
+      <history/>
+      <resources>
+        <audioFile size="311090">/xml/cases/1973/72_6156/19740220o_72-6156.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1973/trs/72-6156op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="58.495">
+        <title>Lewis v. City of New Orleans</title>
+        <section startTime="0" stopTime="58.495">
+          <heading>Opinion Announcement of Warren E. Burger</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.788">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="76800">Thank you, Mr. Justice Stewart.</text>
+            <text syncTime="1.644" offset="83278">Mr. Justice Brennan will announce the disposition of 72-6156, Lewis against New Orleans.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="8.788" stopTime="55.934">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="8.788" offset="111909">In this case we reverse appellant's convictions under New Orleans ordinance for addressing vulgar spoken words to a New Orleans police officer.</text>
+            <text syncTime="22.364" offset="166243">We hold that the New Orleans ordinance is facially unconstitutional because as construed by the Louisiana Supreme Court, it's over broad and it's not limited to punishing fighting words as defined in our decisions in Chaplinsky and Gooding.</text>
+            <text syncTime="43.158" offset="249417">Mr. Justice Powell concurs in the result, he has filed a concurring opinion.</text>
+            <text syncTime="47.780" offset="267912">Mr. Justice Blackmun joined by the Chief Justice and Mr. Justice Rehnquist dissents and has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="55.934" stopTime="58.495">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="55.934" offset="300513">Thank you, Mr. Justice Brennan.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

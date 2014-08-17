@@ -1,0 +1,31 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:01:55" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="277622">/xml/cases/1989/88_995/19891107o_88-995.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1989/trs/88-995_19891107-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="47.621">
+        <title>Northbrook National Insurance Company v. Brewer</title>
+        <section startTime="0.000" stopTime="47.621">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.713">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87137">The opinion of the Court in No. 88-995, Northbrook National Insurance Company against Brewer will be announced by Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="8.713" stopTime="47.621">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="8.713" offset="121932">In this case, the federal diversity statute provides that in a direct action against a liability insurer, the insurer shall be deemed a citizen of the same state as the insured for purposes of diversity jurisdiction.</text>
+            <text syncTime="27.577" offset="197374">Today, we hold that this proviso does not apply to a Texas Workers' Compensation action brought in Federal Court by another state insurer.</text>
+            <text syncTime="39.905" offset="246693">We, therefore, reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="44.426" offset="264770">Justice Stevens has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

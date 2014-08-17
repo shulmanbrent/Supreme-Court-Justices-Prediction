@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1987-01-21</transcribed>
+        <edit user="tschaefer" date="2012-08-23T13:02:34" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <identified user="tschaefer">2012-08-23</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T12:11:45" startTime="0.000" oldSpeaker="sandra_day_oconnor" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="604000">/xml/cases/1986/85_129/19870121o_85-129.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1986/85-129_19870121-opinion.xml</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="128.052">
+        <title>Wimberly v. Labor and Industrial Relations Commission of Missouri</title>
+        <section startTime="0.000" stopTime="12.341">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="12.341">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="91791">The opinion of the Court in No 85-129, Wimberly versus Labor &amp; Industrial Commission of Missouri will be announced by Justice O'Connor.</text>
+          </turn>
+        </section>
+        <section startTime="12.341" stopTime="128.052">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="sandra_day_oconnor" startTime="12.341" stopTime="128.052">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="12.341" offset="141110">This case comes to the Court on the writ of certiorari to the Supreme Court of Missouri.</text>
+            <text syncTime="18.789" offset="166919">The petitioner took a leave of absence from her employment because of her pregnancy with the understanding that she would be re hired only if a position was available when she was ready to return to work.</text>
+            <text syncTime="32.966" offset="223553">When petitioner notified her employer that she wanted to return to work there were no positions opened.</text>
+            <text syncTime="39.678" offset="250407">Missouri, unlike California, as discussed in a recent case before this Court, has no pregnancy leave requirement.</text>
+            <text syncTime="49.240" offset="288650">Petitioner then filed a claim for unemployment benefits.</text>
+            <text syncTime="53.920" offset="307458">Her claim was denied pursuant to a Missouri statute that disqualified a claimant who has left work voluntarily without good cause attributable to the work or the employer.</text>
+            <text syncTime="67.520" offset="361793">After her claim was denied the petitioner filed suit in State Court, contending that the Missouri statute was inconsistent with the Federal Unemployment Tax Act.</text>
+            <text syncTime="79.704" offset="410589">The Federal statute provides that no State participating in the federal-state unemployment compensation program shall deny compensation solely on the basis of pregnancy or termination of pregnancy.</text>
+            <text syncTime="94.646" offset="470358">In a unanimous opinion filed today, we affirm the judgment of the Supreme Court of Missouri and hold that under the plain language of the Federal Unemployment Compensation Statute, States are only prohibited from singling out pregnancy for unfavorable treatment.</text>
+            <text syncTime="113.212" offset="544545">Because Missouri neutrally disqualifies all workers who leave their jobs for reasons unrelated to their unemployment, pregnancy was not the sole basis for the State's decision to deny petitioner's claim.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

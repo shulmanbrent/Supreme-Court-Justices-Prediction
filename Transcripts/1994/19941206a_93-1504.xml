@@ -1,0 +1,1303 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1994-12-06</transcribed>
+        <edit user="dleib" date="2012-07-12T10:14:06" startTime="3360.154" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <identified user="dleib">2012-07-12</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="13774577">/xml/cases/1994/93_1504/19941206a_93-1504.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1994/93-1504_19941206-argument.xml</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="jeffrey_w_warren" type="advocate" gender="male" path="/advocates/jw/jeffrey_w_warren" image="/advocates/jw/jeffrey_w_warren/thumbnail.jpg">Jeffrey W. Warren</speaker>
+        <speaker id="brent_m_rosenthal" type="advocate" gender="male" path="/advocates/br/brent_m_rosenthal" image="/advocates/br/brent_m_rosenthal/thumbnail.jpg">Brent M. Rosenthal</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3406.447">
+        <title>Celotex Corporation v. Edwards</title>
+        <section startTime="0.000" stopTime="1609.329">
+          <heading>Argument of Jeffrey W. Warren</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.372">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="145973">We'll hear argument this morning in Number 93-1504, the Celotex Corporation v. Bennie Edwards.</text>
+            <text syncTime="8.856" offset="181395">Mr. Warren.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="10.372" stopTime="162.337">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="10.372" offset="187455">Mr. Chief Justice and may it please the Court:</text>
+            <text syncTime="12.891" offset="197486">At issue in this case is whether the bankruptcy court presiding over the Celotex Chapter 11 case had jurisdiction to enter an interim stay of execution on supersedeas bonds by judgment creditors of Celotex.</text>
+            <text syncTime="25.465" offset="247746">That stay restrained the Edwardses from collecting their judgment against Celotex, which was largely for punitive damages from Northbrook, the surety on the supersedeas bond posted for the benefit of Celotex, for the benefit of the Edwardses.</text>
+            <text syncTime="40.391" offset="307514">The case arises out of the Edwards' admitted collateral attack on the bankruptcy court stay order when they requested under Rule 65.1 that the district court in Texas which had originally presided over their personal injury claim against Celotex granted them permission to enforce the supersedeas bond against Northbrook notwithstanding the bankruptcy court's stay order.</text>
+            <text syncTime="62.555" offset="396122">At the time Celotex filed its bankruptcy petition it had posted similar supersedeas bonds in over 100 separate appeals using 70 million dollars of assets to secure its obligations to the sureties.</text>
+            <text syncTime="74.446" offset="443664">Celotex was defending over 100,000 personal injury and wrongful death cases, all of which were the result of the same conduct by a predecessor that had merged into Celotex, which was the same basis for the claims of the Edwardses.</text>
+            <text syncTime="87.789" offset="497059">These cases arise from exposure to asbestos-containing products.</text>
+            <text syncTime="91.574" offset="512210">They were manufactured by Philip Carey Corporation, a corporation that was merged into Celotex in the early 1970's.</text>
+            <text syncTime="98.812" offset="541153">Over the objections of Celotex and Northbrook, the Texas district court granted the Edwards' request for permission to ignore the bankruptcy court's stay order.</text>
+            <text syncTime="107.417" offset="575635">The Fifth Circuit affirmed.</text>
+            <text syncTime="109.285" offset="583054">A similar attempted collateral attack by the same plaintiffs' counsel was rejected by the Fourth Circuit when it reversed a Virginia district court order that had granted permission to ignore the bankruptcy court's stay order.</text>
+            <text syncTime="120.677" offset="628611">The Fourth Circuit directed that the judgment creditor had to seek direct from the bankruptcy court.</text>
+            <text syncTime="126.497" offset="651913">In response to the improper collateral attack arguments raised by Celotex, the Edwardses concede that the judgment of the Fifth Circuit must be reversed if the bankruptcy court had subject matter jurisdiction to issue its interim stay of the execution upon Celotex' supersedeas bonds.</text>
+            <text syncTime="142.524" offset="716069">That's the issue in this case.</text>
+            <text syncTime="145.042" offset="726100">The statutory basis of the bankruptcy court's subject matter jurisdiction is 28 U.S.C. section 1334(b), which states that the district courts have jurisdiction of all civil proceedings arising under title 11 or arising in or related to cases under title 11.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="162.337" stopTime="183.501">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="162.337" offset="795273">Mr. Warren, would you explain how the proceeding on the bond will affect the bankruptcy estate?</text>
+            <text syncTime="172.276" offset="834979">What are the ways in which it will?</text>
+            <text syncTime="174.728" offset="844801">The money Northbrook has to pay is outside the bankruptcy estate, of course, so how will it affect the bankruptcy estate?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="183.501" stopTime="213.853">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="183.501" offset="879909">Justice O'Connor, the way it affects the estate is that Celotex has a contractual relationship with Northbrook that was entered into as part of the posting of the supersedeas bond.</text>
+            <text syncTime="193.356" offset="919302">To secure that contractual relationship, Celotex, under a settlement agreement that resolved certain insurance coverage disputes with Northbrook, pledged that if Northbrook had to pay a bond it could exercise rights of set-off against the funds that would otherwise be available to Celotex for payment to its creditors, so that although under the--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="213.853" stopTime="219.757">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="213.853" offset="1001326">So what was pledged are funds that otherwise would be in the general bankruptcy estate.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="219.757" stopTime="236.452">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="219.757" offset="1024941">--That's correct, Your Honor.</text>
+            <text syncTime="220.459" offset="1027762">The money that Northbrook would pay to the Edwardses is not subject to the property of the estate.</text>
+            <text syncTime="226.946" offset="1053676">The property pledged by Celotex to Northbrook is property of the estate, and it's that interconnection that creates the effect.</text>
+            <text syncTime="235.468" offset="1087844">This--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="236.452" stopTime="244.939">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="236.452" offset="1091710">Mr. Warren, the estate would get back that property pledged, I assume, only if there's some invalidity in the pledge, is that--</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="244.939" stopTime="246.658">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="244.939" offset="1125669">--That is absolutely correct, Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="246.658" stopTime="250.093">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="246.658" offset="1132566">--Is there thought to be some invalidity in it?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="250.093" stopTime="293.972">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="250.093" offset="1146254">Yes, Your Honor.</text>
+            <text syncTime="250.760" offset="1148971">There are two bases upon which Celotex for the benefit of its estate is presently prosecuting adversary proceedings in the bankruptcy court to bring back into, to recover for the benefit of all of its creditors, those funds.</text>
+            <text syncTime="264.353" offset="1203305">The first premise is, is that the vast majority of the Edwards' claim is for punitive damages.</text>
+            <text syncTime="270.839" offset="1229323">245,000 dollars of their claim is for punitive damages.</text>
+            <text syncTime="274.910" offset="1245519">Under the principles of equitable subordination codified in section 510(c) of the Bankruptcy Code, Celotex is seeking, through the bankruptcy court, to subordinate those claims, which would then invalidate and bring back to the estate those funds that were transferred to Northbrook.</text>
+            <text syncTime="291.003" offset="1309885">The second attack that's been made--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="293.972" stopTime="303.061">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="293.972" offset="1321797">Those claims seeking to bring back those... the judgment has already been rendered with regard to those claims.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="303.061" stopTime="349.840">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="303.061" offset="1358159">--That's correct, but it is a judgment for punitive awards which under normal bankruptcy practice would not be recoverable in lieu of the ability to compensate regular compensatory awards.</text>
+            <text syncTime="317.820" offset="1417196">The invalidity of the claim... the obligation of Northbrook on the judgment to the Edwardses is predicated upon the affirmance by the Fifth Circuit of that judgment.</text>
+            <text syncTime="331.061" offset="1470172">The Bankruptcy Code expressly permits a basis upon which equitable subordination can occur, so that one creditor cannot recover for its benefit claims to the detriment of other creditors if the bankruptcy court finds appropriate grounds for that to occur.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="349.840" stopTime="355.826">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="349.840" offset="1545300">Mr. Warren, didn't you say what was infected was the collateral, not the judgment itself?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="355.826" stopTime="356.611">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="355.826" offset="1569229">That's correct, Your Honor.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="356.611" stopTime="366.883">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="356.611" offset="1572363">So what would be the basis for setting aside the transfer from Celotex to Northbrook to secure the appeal bonds?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="366.883" stopTime="385.845">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="366.883" offset="1613428">Under the bankruptcy code, the transfer by Celotex to Northbrook was for the indirect benefit of the Edwardses.</text>
+            <text syncTime="373.454" offset="1639759">Northbrook would not stand as a surety for Celotex but for the existence of adequate collateral.</text>
+            <text syncTime="379.775" offset="1665046">The Bankruptcy Code contemplates that transfers both direct and indirect can be avoided, and so--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="385.845" stopTime="393.266">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="385.845" offset="1689287">Are you attacking those as preferences, or fraudulent, or... what's the basis for attacking that transfer?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="393.266" stopTime="418.316">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="393.266" offset="1718962">--Within the group of bonds there are preferences, there are fraudulent transfers.</text>
+            <text syncTime="399.919" offset="1745607">The area of fraudulent transfers is what is applicable in connection with the Edwards' claim because it is outside the 90-day preference period.</text>
+            <text syncTime="408.358" offset="1779357">You know, Celotex maintains that the transfer for the indirect benefit of the Edwardses to Northbrook constituted a fraudulent conveyance, constructively fraudulent.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="418.316" stopTime="424.202">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="418.316" offset="1819168">Why is it for the indirect benefit of the Edwardses?</text>
+            <text syncTime="420.000" offset="1825960">If the bond had not been posted, the Edwardses would have executed--</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="424.202" stopTime="425.335">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="424.202" offset="1842678">That's correct, Your Honor, but--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="425.335" stopTime="432.474">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="425.335" offset="1847276">--and the money would have been gone.</text>
+            <text syncTime="426.570" offset="1852187">So how does it benefit the Edwardses?</text>
+            <text syncTime="428.020" offset="1858038">It seems to me it was entirely for the benefit of Celotex, to enable it not to have to pay the judgment.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="432.474" stopTime="474.151">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="432.474" offset="1875802">--That is the issue, because the... in order to avoid the transfer, Celotex must establish insolvency at the time of the transfer, or insolvency as a result of the transfer, and a lack of reasonably equivalent value in exchange for the transfer.</text>
+            <text syncTime="445.281" offset="1927002">Celotex' financial condition, as is evidenced by the record in the bankruptcy court, which is not before and never was brought to the record that's before this Court coming from the Fifth Circuit, demonstrates that the financial condition of Celotex at the time of these transfers of its assets to the surety was the same as at the time of the filing of its bankruptcy petition, so what the bankruptcy court has done in this case is, it has continued a stay and maintained the status quo using its powers under section 105--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="474.151" stopTime="490.846">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="474.151" offset="2042567">I'm not concerned with the insolvent status, I give you that, but what conceivable basis is there for arguing that it was not for the benefit of Celotex, which is a necessary condition to say that, you know, that somehow this thing could be called back?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="490.846" stopTime="524.280">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="490.846" offset="2109336">--Well, that would be the defense that is being raised to the fraudulent conveyance claim.</text>
+            <text syncTime="497.000" offset="2133891">However, constructively fraudulent conveyances where there's a lack of reasonably equivalent value under the bankruptcy code can be called back.</text>
+            <text syncTime="505.420" offset="2167642">And Celotex did not benefit.</text>
+            <text syncTime="507.270" offset="2174956">Remember, Your Honor, Celotex will never receive any of these funds.</text>
+            <text syncTime="510.972" offset="2189793">It will only... this is a question of allocating limited resources among a few judgment creditors who had the benefit of supersedeas bonds, and hundreds of thousands of other judgment creditors whose claims arise from the exact same conduct.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="524.280" stopTime="533.884">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="524.280" offset="2243083">Well, please help me.</text>
+            <text syncTime="524.613" offset="2244337">I really don't understand this.</text>
+            <text syncTime="525.880" offset="2249457">Isn't it the case that despite Celotex's insolvency the judgment could have been executed upon?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="533.884" stopTime="537.688">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="533.884" offset="2281431">Yes, during... absent the posting of the supersedeas bond.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="537.688" stopTime="538.204">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="537.688" offset="2296686">Absent the posting of the bond.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="538.204" stopTime="556.565">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="538.204" offset="2298776">And Your Honor, the issue that is being litigated now is whether the forbearance that is affected by the supersedeas bond is sufficient consideration to meet the reasonably equivalent consideration test in order to... in order to avoid a constructively fraudulent transfer.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="556.565" stopTime="569.957">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="556.565" offset="2372233">Mr. Warren, could you help me just with this one very preliminary question?</text>
+            <text syncTime="560.867" offset="2389369">It seems to me you're arguing the merits of the bankruptcy court's injunction, and I thought your basic position was that even if the injunction was erroneously entered, you should still prevail.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="569.957" stopTime="582.517">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="569.957" offset="2425731">Your Honor, that's absolutely correct.</text>
+            <text syncTime="571.109" offset="2430329">I'm merely responding to the inquiries from the Court.</text>
+            <text syncTime="573.611" offset="2440360">I have a zeal for the merits of the bankruptcy court, but whether the bankruptcy court was right or wrong, the Fifth Circuit should have recognized that... that injunction.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="582.517" stopTime="584.919">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="582.517" offset="2475991">It seems to me the thrust of your argument is we shouldn't be deciding that, either.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="584.919" stopTime="604.963">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="584.919" offset="2485604">That is correct, Your Honor.</text>
+            <text syncTime="585.935" offset="2489679">We do not think that it is appropriate at this time for this Court to deal with the merits, but only whether or not there was a relationship, a related two-jurisdiction issue.</text>
+            <text syncTime="597.726" offset="2536804">Did the bankruptcy court have some connection?</text>
+            <text syncTime="600.428" offset="2547671">Is there a nexus between what's occurring with these supersedeas bonds and the estate--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="604.963" stopTime="613.669">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="604.963" offset="2565748">Your position is that if the Edwardses thought the bankruptcy court was wrong, they should appeal to the eleventh... the district court in the Eleventh Circuit, not take it up in the Fifth Circuit.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="613.669" stopTime="623.358">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="613.669" offset="2600647">--That's correct, Your Honor.</text>
+            <text syncTime="614.286" offset="2603051">The actual stay called for the parties to come first to the bankruptcy court to seek modification.</text>
+            <text syncTime="620.223" offset="2626770">If it was denied they would have appellate rights to the Eleventh Circuit.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="623.358" stopTime="631.027">
+            <label>Justice David H. Souter</label>
+            <text syncTime="623.358" offset="2639309">On that point, I want to ask, was Northbrook subject to the stay order?</text>
+            <text syncTime="629.427" offset="2663655">Did the stay order run against Northbrook--</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="631.027" stopTime="631.861">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="631.027" offset="2670029">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="631.861" stopTime="633.527">
+            <label>Justice David H. Souter</label>
+            <text syncTime="631.861" offset="2673372">--Specifically?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="633.527" stopTime="701.005">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="633.527" offset="2680060">Well, in the mass tort context with 100,000 the stay order doesn't name anybody specifically.</text>
+            <text syncTime="641.300" offset="2711093">You know, that's the problem that you have logistically, practically with that type of proceeding.</text>
+            <text syncTime="646.252" offset="2730946">The bankruptcy court was confronted at the early stages of the Celotex reorganization with, you know, hundreds and hundreds of appeals, not only these types of appeals, but Celotex was involved in insurance coverage disputes that were rather complex throughout the country, ADR proceedings, all types of administrative and judicial proceedings, so that the court entered this broad stay as a case management mechanism.</text>
+            <text syncTime="671.236" offset="2830838">Subsequently, the court has specified the applicability of the stay and has considered efforts to modify the stay on behalf of all of the bonded claimants.</text>
+            <text syncTime="682.627" offset="2876396">Counsel for the Edwardses came to the court shortly after the bankruptcy case was filed seeking to have the State modify it, and at that time the court clarified, you know, that... its determination with respect to the status of the supersedeas bond and that it applied even when the appeal had been resolved without effect.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="701.005" stopTime="721.300">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="701.005" offset="2949957">So it comes down to which is the proper circuit, ultimately, to resolve this legal question of whether the appeal bond can be thrown back for the benefit of all the creditors.</text>
+            <text syncTime="714.229" offset="3002829">It's just that... it's a question of whether it's the Eleventh Circuit or the Fifth Circuit that's going to make that ruling.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="721.300" stopTime="741.813">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="721.300" offset="3031145">Yes, Your Honor.</text>
+            <text syncTime="722.001" offset="3033966">We maintain that Congress under the Bankruptcy Clause empowered the district court in the Middle District of Florida having jurisdiction over the bankruptcy case filed by the Celotex Corporation to consider all matters that are related to that case.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="741.813" stopTime="771.065">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="741.813" offset="3113170">And would that bar another circuit from reexamining this order if there were... because there's colorable jurisdiction to issue it?</text>
+            <text syncTime="756.973" offset="3173774">Suppose the assertion was that there was a patent jurisdictional defect.</text>
+            <text syncTime="763.661" offset="3200523">I don't think that assertion is made here, but suppose it were, would that bar the Fifth Circuit from making this inquiry?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="771.065" stopTime="784.742">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="771.065" offset="3230198">No, Your Honor.</text>
+            <text syncTime="771.934" offset="3233646">We would agree that if there was a patent jurisdictional defect, then the collateral attack rule would have an exception that would permit the Fifth Circuit to... or the district court in Texas to consider the matter.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="784.742" stopTime="792.681">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="784.742" offset="3284846">So is your position here that there is no patent defect, that there is at least colorable jurisdiction, and that that's the end of the matter?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="792.681" stopTime="811.393">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="792.681" offset="3316611">That's correct, Your Honor, although I think that it has... I think it's appropriate that the court that issued... I think it's good public policy that the court that issues an injunction, that has colorable jurisdiction to enter that injunction, should... you know, a party should respect and obey that injunction.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="811.393" stopTime="856.770">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="811.393" offset="3391531">Mr. Warren, at this point, mustn't we decide more than colorable, because at least in the forum where the appeal bond was lodged, that's a mechanical procedure, ordinarily.</text>
+            <text syncTime="824.216" offset="3442835">You called it... you said everyone agreed that in the Fifth Circuit there was a collateral attack on the bankruptcy court's stay order, but in fact what there was was a motion under the Federal rules to realize the judgment against the appeal bond.</text>
+            <text syncTime="840.309" offset="3507201">It wasn't a separate proceeding collaterally attacking the stay in the bankruptcy court, so it's not like a little jurisdiction.</text>
+            <text syncTime="849.681" offset="3544608">The question is, does the bankruptcy court have subject matter jurisdiction?</text>
+            <text syncTime="854.485" offset="3563834">It either does or it doesn't.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="856.770" stopTime="864.007">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="856.770" offset="3573029">I agree with that, Your Honor, that either the bankruptcy court had subject matter jurisdiction, or the bankruptcy court did not have subject matter jurisdiction.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="864.007" stopTime="866.293">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="864.007" offset="3601973">And you're relying on 105 for that?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="866.293" stopTime="871.697">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="866.293" offset="3611064">No, Your Honor, we rely on 1334(b) for the subject matter jurisdiction of the bankruptcy court.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="871.697" stopTime="881.386">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="871.697" offset="3632693">So we have to make a detailed inquiry, or the Fifth Circuit is entitled to make a detailed inquiry, into the jurisdiction under 1334?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="881.386" stopTime="896.745">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="881.386" offset="3671459">Your Honor, I think that they were entitled to look at the jurisdiction that was asserted by the bankruptcy court, and finding that jurisdiction exists in the bankruptcy court, then they should have deferred to the stay that was entered by that court unless and until it was modified on direct appeal.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="896.745" stopTime="914.171">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="896.745" offset="3732899">So you're saying that jurisdiction existed if there was a colorable claim that the property could come into the estate, and this is where I find I have difficulty.</text>
+            <text syncTime="906.767" offset="3773023">You're saying it is a colorable claim so long as the property used to belong to the bankrupt.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="914.171" stopTime="915.623">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="914.171" offset="3802593">Your Honor, it's more than just property--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="915.623" stopTime="932.668">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="915.623" offset="3808445">You're saying that even without... without any assertion of facts that would somehow demonstrate that there's a real possibility that the property could be included within the bankruptcy estate, even without that, it is still related to--</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="932.668" stopTime="954.165">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="932.668" offset="3876572">--Yes, Your Honor.</text>
+            <text syncTime="933.251" offset="3878975">The circuit court test with respect to related-to jurisdiction, which is a broad definition, and Congress intended it to be broadly construed as part of the uniformity associated with bankruptcy matters, intended that the bankruptcy court, or the district court exercising bankruptcy jurisdiction have broad jurisdiction.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="954.165" stopTime="957.167">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="954.165" offset="3962567">--It doesn't say, might be related to.</text>
+            <text syncTime="955.784" offset="3969046">It says, related to.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="957.167" stopTime="957.500">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="957.167" offset="3974584">That's--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="957.500" stopTime="966.072">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="957.500" offset="3975942">Isn't it reasonable to interpret that to mean that there must be some facts that would give rise to a colorable claim that the money can be recovered by the bankrupt estate?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="966.072" stopTime="967.674">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="966.072" offset="4010215">--Absolutely, Your Honor, but--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="967.674" stopTime="969.041">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="967.674" offset="4016589">And what are they here?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="969.041" stopTime="986.903">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="969.041" offset="4022126">--Well, the facts are that the transfers made by the Celotex Corporation were made at a time when it was insolvent.</text>
+            <text syncTime="975.845" offset="4049294">The facts are that the... at the time of these events, there was no consideration that was increased to the Celotex estate.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="986.903" stopTime="993.223">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="986.903" offset="4093493">Mr. Warren, I don't understand why that claim would be affected one way or another by whether the bonding company pays out on the bond.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="993.223" stopTime="995.159">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="993.223" offset="4118780">Once... well--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="995.159" stopTime="1010.184">
+            <label>Justice David H. Souter</label>
+            <text syncTime="995.159" offset="4126512">Isn't... I guess I have the same question.</text>
+            <text syncTime="996.542" offset="4132050">Isn't your claim broader than that?</text>
+            <text syncTime="998.277" offset="4139051">Even if there were no attack on these bonds, isn't it your position that the bankruptcy court would still have jurisdiction to enter an injunction against realizing on the bond?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1010.184" stopTime="1019.623">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1010.184" offset="4186698">--Absolutely, Your Honor, because it protects the reorganization process, and that is precisely why the collateral attack by the Fifth Circuit should not be condoned.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1019.623" stopTime="1045.771">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1019.623" offset="4224419">So that the only--</text>
+            <text syncTime="1019.873" offset="4225464">--But how--</text>
+            <text syncTime="1020.489" offset="4227867">--I'm sorry.</text>
+            <text syncTime="1021.689" offset="4232673">Go ahead.</text>
+            <text syncTime="1022.073" offset="4234241">No, I was going to say, the only jurisdictionally relevant fact that you have to establish is that, if in fact the Edwardses realized on the bond, there would be a consequence to the bankruptcy estate, i.e., the bonding company would then presumably realize on its collateral.</text>
+            <text syncTime="1043.988" offset="4321908">That's all you have to show, isn't it?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1045.771" stopTime="1048.021">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1045.771" offset="4329013">That's correct.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1048.021" stopTime="1064.916">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1048.021" offset="4337999">Now, if the respondents had just executed on their judgment, that would not have been anything that would be covered by the stay, I take it, of the bankruptcy court?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1064.916" stopTime="1092.983">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1064.916" offset="4405604">Well, Your Honor, in order for the... in order for the respondents after the bankruptcy was in place to have executed against Northbrook, they would have had to have asserted some procedure to comply with due process, and Rule 65.1 provides that expedited summary-type procedure, and what the Edwardses sought here was permission from the district court to pursue their remedies against Northbrook, and of course that--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1092.983" stopTime="1098.018">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1092.983" offset="4517826">Well, what would have been the situation had there been no supersedeas bond?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1098.018" stopTime="1107.291">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1098.018" offset="4537993">--Had there been no supersedeas bond, then the bankruptcy would have implemented a stay that would have precluded the Edwardses as all other creditors--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1107.291" stopTime="1110.176">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1107.291" offset="4575086">Would have precluded any execution of the judgment.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1110.176" stopTime="1110.778">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1110.176" offset="4586580">--That's correct, Your Honor.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1110.778" stopTime="1113.646">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1110.778" offset="4588984">But the bond was put up--</text>
+            <text syncTime="1112.061" offset="4594208">--And the bond--</text>
+            <text syncTime="1112.628" offset="4596402">--before there was any bankruptcies.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1113.646" stopTime="1114.162">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1113.646" offset="4600477">That's correct.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1114.162" stopTime="1130.989">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1114.162" offset="4602567">The bond was then obtained prior to the filing of bankruptcy, to enable the respondents to go ahead and... and obtain their money on the basis of the supersedeas bond.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1130.989" stopTime="1147.284">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1130.989" offset="4669859">That's correct, Your Honor.</text>
+            <text syncTime="1132.358" offset="4675397">One of the issues in this case is the purpose of a supersedeas bond.</text>
+            <text syncTime="1135.743" offset="4688876">Is it to enhance the entitlement of the judgment creditor, or is it merely to preserve the judgment creditor's standpoint during the pendency of an appeal if that appeal is without effect?</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1147.284" stopTime="1159.841">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1147.284" offset="4735060">Now, do you say the test for whether it is related to the bankruptcy proceeding is the test employed by the Third Circuit in Pacor v. Higgins?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1159.841" stopTime="1161.641">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1159.841" offset="4785320">Yes, Your Honor, whether it could have any conceivable--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1161.641" stopTime="1167.781">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1161.641" offset="4792530">Do all the courts of appeal apply that same test, or is there some diversity--</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1167.781" stopTime="1168.297">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1167.781" offset="4817085">--Your Honor--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1168.297" stopTime="1169.014">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1168.297" offset="4819070">--among the circuits?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1169.014" stopTime="1192.330">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1169.014" offset="4821996">--to the best of my knowledge, there's almost uniform following of that particular test, and you know, some circuits have adopted slightly different language, but all of them have recognized that if there could be any conceivable effect on the property of the debtor's estate or on the allocation of property among creditors, then there is related-to jurisdiction.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1192.330" stopTime="1203.970">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1192.330" offset="4915201">And the only conceivable effect here is if Celotex can establish that its transfer of the collateral to Northbrook was a fraudulent transfer?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1203.970" stopTime="1228.070">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1203.970" offset="4961803">That would be one.</text>
+            <text syncTime="1204.904" offset="4965565">The other would be if we can equitably subordinate the punitive award that the Edwardses have recovered, because the Edwardses are seeking to have collected a punitive award against Celotex, while other creditors similarly situated will not be in a position to recover in full any of their compensatory claims, and so those are issues that the bankruptcy court as part of its power to adjust debtor-creditor relationships--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1228.070" stopTime="1242.245">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1228.070" offset="5058247">How did the Edwardses get away from this, then?</text>
+            <text syncTime="1231.938" offset="5073712">Supposing that they had actually been... the bond had paid them off, paid off their judgment, could the bankruptcy court still come after them?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1242.245" stopTime="1255.303">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1242.245" offset="5114881">--Well, there is a limit to the avoiding powers that a debtor in possession will be able to exercise.</text>
+            <text syncTime="1247.983" offset="5137869">However, there are remedies up until such time as the statute of limitations has expired.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1255.303" stopTime="1277.835">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1255.303" offset="5167126">Mr. Warren, if the automatic stay in bankruptcy didn't occur until after that judgment was rendered, and is there any precedent for saying when somebody has a good judgment, and the judgment is paid before the bankruptcy petition is filed, but yet the bankruptcy estate can go back and get that court judgment, can set aside that court judgment?</text>
+            <text syncTime="1277.502" offset="5255942">I don't know--</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1277.835" stopTime="1295.178">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1277.835" offset="5257300">From a fraudulent transfer standpoint, no, Your Honor, because there would be a satisfaction of the judgment that would have occurred prior to the filing of the bankruptcy petition.</text>
+            <text syncTime="1286.255" offset="5290946">From a preference standpoint, yes.</text>
+            <text syncTime="1288.024" offset="5298051">The avoidance powers would enable a recovery with respect to a preferential transfer that was made within the 90-day period before bankruptcy.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1295.178" stopTime="1303.048">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1295.178" offset="5326682">--Preferential transfer that consists of a payment of a judgment?</text>
+            <text syncTime="1298.096" offset="5338280">Do you know any case where a payment of a judgment has been set aside?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1303.048" stopTime="1326.846">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1303.048" offset="5358133">As a preference, yes, Your Honor, because within the 90-day period, if the debtor is insolvent, if the payment effects a benefit to the judgment creditor on behalf of an antecedent debt, meaning that it has to be not a contemporaneous exchange of value, but for an antecedent debt, then the Bankruptcy Code does provide the remedy for purposes of bringing and recovering--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1326.846" stopTime="1371.894">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1326.846" offset="5453323">Mr. Warren, let me ask you this hypothetical.</text>
+            <text syncTime="1327.615" offset="5456353">Suppose... suppose there's a piece of property that Celotex sold 10 years ago, and it sold it with a condition subsequent, that if a certain event occurred, the property would revert to Celotex.</text>
+            <text syncTime="1340.506" offset="5507971">There is now pending a lawsuit between two third parties who have nothing to do with Celotex or Northbrook or anybody else, involving ownership of this property.</text>
+            <text syncTime="1350.362" offset="5547364">Could the bankruptcy court stay that proceeding on the theory that since there was this reversionary provision, although there's no reason whatever to believe that the event which would produce the reversion has occurred... no reason whatever to believe that... nonetheless, it is related to the bankruptcy?</text>
+            <text syncTime="1370.442" offset="5627717">Could that be stayed?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1371.894" stopTime="1374.846">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1371.894" offset="5633464">--I believe so, Your Honor, because if there is a reversionary interest--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1374.846" stopTime="1379.898">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1374.846" offset="5645271">So related to just means, what, it means somehow the bankrupt's property is involved?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1379.898" stopTime="1382.000">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1379.898" offset="5665542">--Could have a conceivable effect.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1382.000" stopTime="1386.754">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1382.000" offset="5673901">Conceivable regardless of reality?</text>
+            <text syncTime="1384.535" offset="5684037">I mean, you can make up facts--</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1386.754" stopTime="1403.995">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1386.754" offset="5692918">No, Your Honor.</text>
+            <text syncTime="1387.220" offset="5694799">I think that... you know, I think that the Third Circuit in Pacor is a good example of a situation where the Court defined conceivable effect, but determined that there would be no enhancement of the estate, there was no harm to the estate, and therefore determined that the matter was not related to the bankruptcy proceeding.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1403.995" stopTime="1430.630">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1403.995" offset="5761882">--Well, that's one reason it couldn't have any conceivable effect.</text>
+            <text syncTime="1405.947" offset="5769718">Another reason it couldn't have conceivable effect is that there is no way in the world that the claim which would bring it back into the State could be vindicated, so that if I feel that way about whether there was consideration given for the posting of this security, whether not having to pay it immediately is adequate consideration, I have brought this case parallel with the hypothetical I just gave you.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1430.630" stopTime="1439.819">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1430.630" offset="5868461">Even if you disagree with the merits of the remedies, or the available remedies, you know, courts should respect stays and injunctions entered by other courts.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1439.819" stopTime="1441.336">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1439.819" offset="5905242">Unless it is patently frivolous.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1441.336" stopTime="1447.655">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1441.336" offset="5911302">Unless it's patently frivolous, unless there's no subject matter jurisdiction, or unless there's no personal jurisdiction, which are not issues in this case.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1447.655" stopTime="1454.411">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1447.655" offset="5936589">Well, why isn't it patently frivolous here if there is... was, indeed, equivalent value given for the posting of the security?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1454.411" stopTime="1472.623">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1454.411" offset="5963547">That is the issue, because forbearance is not quantifiable, and the evidence in the bankruptcy court, again not in the record before the Fifth Circuit, is that the financial condition of Celotex was the same on the petition date as it was at the time of the transfer for the indirect benefit of the Edwardses.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1472.623" stopTime="1483.764">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1472.623" offset="6036376">And you're saying that that determination, or the determination of your position, simply cannot be made without a full trial on the merits, and therefore there's no opportunity to come under the frivolousness rule in this case.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1483.764" stopTime="1496.822">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1483.764" offset="6080993">That is correct, and the Fourth Circuit recognized this, so it would be hard to say that it was completely frivolous when the Fourth Circuit in Willis recognized the exact same Celotex, the exact same factual circumstance--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1496.822" stopTime="1507.963">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1496.822" offset="6133238">Does that position of yours turn in any respect on the fact that Northbrook was itself bound by the order of the bankruptcy court?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1507.963" stopTime="1511.246">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1507.963" offset="6177751">--Yes, Your Honor.</text>
+            <text syncTime="1508.380" offset="6179423">Northbrook's caught in the middle, because they're bound by--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1511.246" stopTime="1517.819">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1511.246" offset="6190917">If Northbrook had not been caught in the middle, would your position be different?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1517.819" stopTime="1519.402">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1517.819" offset="6217248">--Your Honor, I don't... I have a hard time--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1519.402" stopTime="1519.935">
+            <label>Unknown Speaker</label>
+            <text syncTime="1519.402" offset="6223517">That is to say--</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1519.935" stopTime="1521.187">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1519.935" offset="6225712">--thinking how they would not be.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1521.187" stopTime="1538.565">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1521.187" offset="6230623">--That is to say, suppose Northbrook had not been bound by the order because there was no personal jurisdiction over it, or it had no knowledge of the order.</text>
+            <text syncTime="1529.960" offset="6265731">I'm just trying to find out whether or not Northbrook's position before the bankruptcy court is the linchpin of your argument.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1538.565" stopTime="1545.886">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1538.565" offset="6300213">Yes, Your Honor.</text>
+            <text syncTime="1538.982" offset="6301885">Northbrook is like stakeholders.</text>
+            <text syncTime="1540.632" offset="6308468">Northbrook is happy to compensate the Edwardses.</text>
+            <text syncTime="1543.867" offset="6321424">Northbrook is happy to give the funds back to the--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1545.886" stopTime="1546.602">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1545.886" offset="6329470">And it is bound--</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1546.602" stopTime="1547.002">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1546.602" offset="6332291">--To the debtors.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1547.002" stopTime="1550.290">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1547.002" offset="6333963">--in its view, by the order that the bankruptcy court issued.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1550.290" stopTime="1551.406">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1550.290" offset="6347129">That is correct, Your Honor.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1551.406" stopTime="1561.729">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1551.406" offset="6351517">And it takes the position, and you take the position on its behalf, that if that order is to be revised or amended or suspended as to Northbrook, it has to be the issuing court that does that.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1561.729" stopTime="1569.085">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1561.729" offset="6392791">That is correct, Your Honor.</text>
+            <text syncTime="1562.848" offset="6397284">That is precisely why this Court should reverse the Fifth Circuit.</text>
+            <text syncTime="1566.966" offset="6413793">Mr. Chief Justice, if there are no further questions, I'd like to--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1569.085" stopTime="1579.574">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1569.085" offset="6422257">I do have one question about the status of what you call the avoidance action, where there were motions for summary judgment pending as of last March.</text>
+            <text syncTime="1577.624" offset="6456425">Have those been disposed of?</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="1579.574" stopTime="1600.204">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="1579.574" offset="6464262">--No, Your Honor, they're still in litigation now.</text>
+            <text syncTime="1583.094" offset="6478264">There are 229 parties to that litigation, and the bankruptcy court has under advisement summary judgments.</text>
+            <text syncTime="1590.831" offset="6509297">The court just recently accepted new briefing based upon this Court's decision in BFP with respect to the fraudulent transfer issues.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1600.204" stopTime="1609.329">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1600.204" offset="6546704">Thank you, Mr. Warren.</text>
+            <text syncTime="1601.556" offset="6552138">Mr. Rosenthal, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="1609.329" stopTime="3276.652">
+          <heading>Argument of Brent M. Rosenthal</heading>
+          <turn speaker="brent_m_rosenthal" startTime="1609.329" stopTime="1640.198">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1609.329" offset="6583276">Mr. Chief Justice and may it please the Court:</text>
+            <text syncTime="1611.779" offset="6592993">Our position in this case is that the Fifth Circuit properly declined to follow the bankruptcy court's stay order because the bankruptcy court lacked jurisdiction to stay proceedings by the Edwardses against Northbrook, and I would respond to a comment that Justice Kennedy made earlier, we are claiming a patent jurisdictional defect in the stay order, which was issued 5 days after the bankruptcy.</text>
+            <text syncTime="1633.610" offset="6680347">We are claiming that the bankruptcy court had no jurisdiction, and it is patent that the court had no jurisdiction.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1640.198" stopTime="1650.304">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1640.198" offset="6706678">Mr. Rosenthal, did you ever file a motion in the Florida Bankruptcy Court seeking relief from the injunction?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1650.304" stopTime="1663.813">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1650.304" offset="6747116">I personally did on behalf of other clients, not on behalf of the Edwards.</text>
+            <text syncTime="1655.958" offset="6769790">Our firm represents numerous clients who have... who had at the time of the bankruptcy appeals that were pending--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1663.813" stopTime="1668.198">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1663.813" offset="6801137">Well, why didn't you follow that procedure on behalf of these respondents?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1668.198" stopTime="1680.906">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1668.198" offset="6818691">--Because it was our opinion, Your Honor, that the bankruptcy court had patently no jurisdiction to enjoin proceedings that did not involve the debtor at all, and that were not directed against the debtor, or against the debtor's property.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1680.906" stopTime="1686.608">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1680.906" offset="6869578">Did it have no jurisdiction to do that as to Northbrook?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1686.608" stopTime="1690.012">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1686.608" offset="6892357">It had no jurisdiction to do that as to Northbrook, yes, Your Honor.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1690.012" stopTime="1711.258">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1690.012" offset="6905940">Do you deny, Mr. Rosenthal, that the claim that your opponent has made that if, in fact, the Edwardses realize on the bond, the bonding company is going to go against the collateral, the collateral is going to affect the value of the bankruptcy estate.</text>
+            <text syncTime="1706.437" offset="6971664">Do you... is there a flaw in at least that sequence of reasoning?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1711.258" stopTime="1725.185">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1711.258" offset="6990995">I... I can't dispute the fact that the bond has been collateralized, but I do believe that at the time of the affirmance of the judgment Celotex lost whatever interest it had in the bond itself.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1725.185" stopTime="1744.312">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1725.185" offset="7046688">Well, but that's not the argument.</text>
+            <text syncTime="1728.403" offset="7059540">I mean, that's a different argument, but the argument that's being made here is that the proceeding against the bond, if allowed to run its course, and it's successful, as presumably it would be, would affect the value of the bankruptcy estate?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1744.312" stopTime="1746.348">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1744.312" offset="7123175">I do disagree with that assertion, Your Honor.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1746.348" stopTime="1753.852">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1746.348" offset="7131325">Well, why do you... what's the misstep?</text>
+            <text syncTime="1749.716" offset="7144804">You admit the bond is subject to collateral--</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1753.852" stopTime="1754.302">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1753.852" offset="7161313">Yes.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1754.302" stopTime="1756.104">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1754.302" offset="7163090">--and the collateral is in the bankruptcy estate.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1756.104" stopTime="1756.570">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1756.104" offset="7170300">Right.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1756.570" stopTime="1758.156">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1756.570" offset="7172180">Okay.</text>
+            <text syncTime="1756.920" offset="7173643">What's wrong with his reasoning?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1758.156" stopTime="1764.476">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1758.156" offset="7178554">We're not seeking the collateral.</text>
+            <text syncTime="1759.689" offset="7184719">We're only seeking to enforce the independent obligation of Northbrook to us.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1764.476" stopTime="1791.127">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1764.476" offset="7203841">Well, he isn't claiming that you are seeking the collateral.</text>
+            <text syncTime="1766.512" offset="7211991">All he's claiming is that the proceedings against the collateral will affect the value of the bankruptcy estate, and he is saying that therefore the... in effect the status of the collateral and any threat to it is a matter which is related to the Chapter 11 proceeding, and that's all that's necessary for jurisdiction under 1334(b).</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1791.127" stopTime="1801.935">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1791.127" offset="7310420">Well, that's all that's necessary for jurisdiction under the Pacor test, which says any proceeding whose outcome could conceivably affect the bankruptcy estate is--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1801.935" stopTime="1808.939">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1801.935" offset="7353679">Well, this is more than... you're quite right about your statement of the test, but isn't this a little bit stronger than merely conceivable?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1808.939" stopTime="1809.439">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1808.939" offset="7381682">--Well, I think the--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1809.439" stopTime="1816.693">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1809.439" offset="7383668">If you go against the collateral, the collateral isn't going to be there, and they have priority.</text>
+            <text syncTime="1813.724" offset="7400804">The collateral isn't going to be there in the general bankruptcy estate.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1816.693" stopTime="1822.247">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1816.693" offset="7412716">--Well, that's up to Northbrook, Your Honor.</text>
+            <text syncTime="1818.545" offset="7420135">I think that if Northbrook enforces that, I think maybe--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1822.247" stopTime="1830.435">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1822.247" offset="7434868">Well, presumably Northbrook is not going to open its veins and bleed to death.</text>
+            <text syncTime="1825.531" offset="7448033">I mean, it's reasonable to suppose that Northbrook is going to want to realize on its collateral, isn't it?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1830.435" stopTime="1831.785">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1830.435" offset="7467677">--As between us--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1831.785" stopTime="1833.387">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1831.785" offset="7473111">There's nothing frivolous about that assumption, is there?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1833.387" stopTime="1843.743">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1833.387" offset="7479485">--No, there's no, but as between us bleeding to death and Northbrook bleeding to death, I think the bond, the obligation that Northbrook entered into to us, puts Northbrook in the shoes of bleeding--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1843.743" stopTime="1858.385">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1843.743" offset="7520863">Well, that may be a good argument in front of the court that decides what should be done, as to whether there should be an injunction or not, but I don't see that that goes to jurisdiction.</text>
+            <text syncTime="1851.349" offset="7551269">The question on jurisdiction is, is it related, and of course it's related, because it's going to affect the bankruptcy estate.</text>
+            <text syncTime="1857.418" offset="7575615">At least, that's his argument.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1858.385" stopTime="1903.614">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1858.385" offset="7579482">--Well, my argument is that there is a limit on that... on the relationship, on the degree to which a bankruptcy court can exercise jurisdiction over proceedings which are tangentially related to a bankruptcy.</text>
+            <text syncTime="1873.262" offset="7638936">For example, in the Pacor case, the plaintiff sued a defendant, the defendant sued a codefendant for indemnity, that codefendant went into Chapter 11, Pacor argued, well, this proceeding... the plaintiff's proceeding against us is a proceeding related to the bankruptcy of the codefendant because the... if the plaintiff prevails, that will create a claim of indemnity from us against the codefendant, and therefore it's related to a bankruptcy, and under that--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1903.614" stopTime="1904.233">
+            <label>Unknown Speaker</label>
+            <text syncTime="1903.614" offset="7760353">Mr. Rosenthal--</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1904.233" stopTime="1904.999">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1904.233" offset="7762861">--broad test... I'm sorry.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1904.999" stopTime="1939.906">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1904.999" offset="7765891">--isn't it a little abstract to say these claims are not related to the bankruptcy?</text>
+            <text syncTime="1910.387" offset="7787521">Isn't it in fact the case that these personal injury claims are what drove Celotex and companies similarly situated into bankruptcy, so it's quite... I can understand the abstract categorization that you're making, and is it not possible that if Celotex didn't think it had a shot at defeating the punitive recoveries, it might have gone into bankruptcy earlier when faced with these hundreds of claims?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1939.906" stopTime="1971.176">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1939.906" offset="7905594">I think the question implicates two issues, one is the possible success of the avoidance action, and the other is just the effect on the bankruptcy, and I think that that basis for the judgment really has nothing to do with our claim against Northbrook.</text>
+            <text syncTime="1956.099" offset="7970273">Our claim is on Northbrook's claim to us.</text>
+            <text syncTime="1958.618" offset="7980409">The very purpose of the bond is to ensure that that satisfaction of the judgment is unrelated to the financial condition of the debtor.</text>
+            <text syncTime="1966.890" offset="8013532">That's built into the entire concept, so I think that--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1971.176" stopTime="1978.447">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1971.176" offset="8030669">Which is a good argument on the merits of whether there should be an injunction, but I don't see why it is significant with respect to jurisdiction.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="1978.447" stopTime="1983.815">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="1978.447" offset="8059717">--Well, if the test for jurisdiction is related-to, then I think it does certainly apply.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1983.815" stopTime="2001.444">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1983.815" offset="8081137">It's not... you don't take a merits... I guess what I'm hearing from you is a kind of a merits first approach to jurisdiction.</text>
+            <text syncTime="1991.005" offset="8109976">If you lose on the merits, there's no jurisdiction, but the words, related to, in a jurisdictional statute, have generally been given a very broad meaning.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2001.444" stopTime="2045.723">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2001.444" offset="8151668">I don't deny that, but I do believe there is a limit, and I do believe that that crosses that limit.</text>
+            <text syncTime="2007.431" offset="8175596">And I think that the underlying purpose of a supersedeas bond or transactions like it, like the letters of credit on which the New York Clearinghouse, the banks of New York, filed an amicus brief saying that the assertion, not just the exercise... not just the wielding of power, but the action assertion of jurisdiction, that very ability, threatens the viability of those kinds of financial transactions.</text>
+            <text syncTime="2031.796" offset="8273085">And I think that to suggest, to define related-to as anything that could affect, however indirectly, a bankruptcy, would basically give the bankruptcy courts infinite jurisdiction.</text>
+            <text syncTime="2045.121" offset="8326375">I don't think that's--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2045.723" stopTime="2060.898">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2045.723" offset="8328778">But you can argue in the bankruptcy court that the stay shouldn't have issued.</text>
+            <text syncTime="2049.925" offset="8345601">You can appeal to the district court or the court of appeals that supervises the bankruptcy court.</text>
+            <text syncTime="2055.579" offset="8368275">I mean, it's not as if the bankruptcy court makes a wrong decision you're just permanently stuck with it.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2060.898" stopTime="2073.706">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2060.898" offset="8389486">--Well, that's true, but I think, again, to require someone who has a right on an independent obligation to go and litigate in the bankruptcy court would undermine the very purpose of that--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2073.706" stopTime="2084.681">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2073.706" offset="8440791">Well then, Congress shouldn't have worded it as related to.</text>
+            <text syncTime="2077.175" offset="8454584">I mean, you know, I think your argument is basically you don't like the breadth of jurisdiction conveyed... conferred by Congress.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2084.681" stopTime="2144.552">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2084.681" offset="8484677">--Well, I don't think that Congress' jurisdiction has been interpreted that broadly.</text>
+            <text syncTime="2089.382" offset="8503485">I think that again, the Pacor case, there was a relationship with the bankruptcy, a tangential one, but the Court held there was no jurisdiction in that case, and that's under the broadest test that's been articulated.</text>
+            <text syncTime="2102.392" offset="8555521">In the Lemco case decided by this Court, one of the alternative grounds for the holding was that the bankruptcy court's attempt to stay administrative proceedings was unlikely to impair the bankruptcy court's exclusive jurisdiction over the property of the estate, and I suggest that's exactly the same situation here.</text>
+            <text syncTime="2120.937" offset="8629709">Northbrook's actions may affect the property of the estate, although I even doubt that, because I think the likelihood of avoiding the transfer is infinitesimal, and I think that the avoidance claims were textual, but that's Northbrook v. Celotex.</text>
+            <text syncTime="2136.113" offset="8690417">Our claim against Northbrook does not affect the debtor's estate any more than the plaintiff's claim against Pacor in the Pacor case.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2144.552" stopTime="2158.193">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2144.552" offset="8724167">But nonetheless, if Northbrook goes against Celotex as a result of your collecting on the bond because of the collateral that Celotex... that could diminish the Celotex bankruptcy estate, could it not?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2158.193" stopTime="2179.785">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2158.193" offset="8778711">Yes, and that action could be stayed, as the bankruptcy court recognized in its own opinion.</text>
+            <text syncTime="2163.728" offset="8800863">Again, this... the purpose of the supersedeas bond is risk allocation.</text>
+            <text syncTime="2168.965" offset="8821761">It is... and the court used language like this.</text>
+            <text syncTime="2171.715" offset="8832732">We're shifting the battleground, taking the risk of Celotex's future insolvency off us and putting it onto Northbrook, and if--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2179.785" stopTime="2192.192">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2179.785" offset="8865020">Mr. Rosenthal, what would have happened if, after the district court judgment, an appeal bond is put up, and while the appeal is pending, the Chapter 11 had been filed, what would have been the situation of the Edwardses then?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2192.192" stopTime="2224.663">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2192.192" offset="8914652">--Well, the Edwardses would be stayed by the automatic stay.</text>
+            <text syncTime="2195.144" offset="8926460">The circuit courts are uniform on that, and we have not challenged that, because the proceeding is against Celotex.</text>
+            <text syncTime="2200.929" offset="8949656">As long as the matter is in appeal, the proceeding is against Celotex, not the bond company.</text>
+            <text syncTime="2205.250" offset="8966897">The difference in this case was, the appeal was decided, the case was over, and the Edwardses had a right to execution and had a... had a, basically a retroactive right to collect on the judgment, retroactive to when they got the judgment, which was a year and a half before the bankruptcy, and a year and a half ago the bond was posted at that time as well.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2224.663" stopTime="2233.852">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2224.663" offset="9044533">May I ask a rather elementary question?</text>
+            <text syncTime="2227.463" offset="9055818">I must confess my ignorance about some of this.</text>
+            <text syncTime="2230.733" offset="9068879">Your clients are not parties to the injunction, is that right?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2233.852" stopTime="2235.752">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2233.852" offset="9081313">Not formal parties, no, Your Honor.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2235.752" stopTime="2239.589">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2235.752" offset="9088941">Is it arguable that they're in contempt of court in Tampa?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2239.589" stopTime="2240.473">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2239.589" offset="9104301">Yes.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2240.473" stopTime="2242.708">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2240.473" offset="9107854">Have any contempt proceedings been brought against them?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2242.708" stopTime="2243.308">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2242.708" offset="9116735">No.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2243.308" stopTime="2246.410">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2243.308" offset="9119139">How about contempt proceedings against the bonding company?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2246.410" stopTime="2250.109">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2246.410" offset="9131573">No.</text>
+            <text syncTime="2247.843" offset="9137320">The bond company has resisted payment on the bond.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2250.109" stopTime="2255.097">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2250.109" offset="9146306">What is the procedure, proceeding there which is testing the validity of the injunction as applied to them?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2255.097" stopTime="2256.763">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2255.097" offset="9166264">Well--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2256.763" stopTime="2257.747">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2256.763" offset="9172951">If any.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2257.747" stopTime="2288.834">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2257.747" offset="9176922">--several claimants who argue a right to their bonds have filed a motion to lift the stay to execute on their bonds, and they did this... I can't say when.</text>
+            <text syncTime="2269.857" offset="9225300">I believe sometime in 1992.</text>
+            <text syncTime="2271.757" offset="9232928">The bankruptcy court denied the motions to lift the stay, which is reported in the Joint Appendix, and that, I believe an appeal has been taken from that order denying the motion or the stay, and it is still pending 2 years later in the district court.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2288.834" stopTime="2291.084">
+            <label>Unknown Speaker</label>
+            <text syncTime="2288.834" offset="9301264">Thank you.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2291.084" stopTime="2313.199">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2291.084" offset="9310251">And I think that illustrates, again, to embroil us, who should be guaranteed a right of immediate access and a right of immediate satisfaction of the bond and the right to the mechanisms provided in the Federal rules for enforcement of a bond will be denied if the response is, go to the bankruptcy court and litigate in the bankruptcy court.</text>
+            <text syncTime="2310.830" offset="9389245">That dishonors the transaction.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2313.199" stopTime="2322.638">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2313.199" offset="9398753">But again, you would agree that if the injunction is ultimately upheld... say if the Fifth Circuit decision stands, too, don't you run some risk of being held in contempt of court ultimately and punished for that?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2322.638" stopTime="2323.671">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2322.638" offset="9436474">Yes, Your Honor, we do.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2323.671" stopTime="2325.007">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2323.671" offset="9440654">And you're willing to take that risk, in effect.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2325.007" stopTime="2344.921">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2325.007" offset="9445983">Yes, and again I think that fact illustrates, or refutes the claim that attacks such as these will proliferate, or affirmance of the Fifth Circuit's decision will encourage persons to make these kinds of attacks on bankruptcy court orders.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2344.921" stopTime="2395.103">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2344.921" offset="9525604">Mr. Rosenthal, isn't that unseemly in the Federal system this should go... be settled in one place or another and then to have the risk of contempt because the Edwardses are resisting the authority of the courts within the Eleventh Circuit, to say that what has happened in Fifth Circuit is okay but that can be checked later on through contempt proceedings... for the smooth functioning of a Federal system, shouldn't it be clear that either you're right or Mr. Warren is right about the authority of the courts within the Eleventh Circuit?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2395.103" stopTime="2452.940">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2395.103" offset="9726329">In most circumstances, yes, Your Honor, it would be.</text>
+            <text syncTime="2397.936" offset="9737614">In a case of what we believe to be patent excursion beyond jurisdictional limits, we say that this procedure is appropriate, that the checks on the ability, or... and the restraints on the willingness of people to make, these kinds of parties to make these kinds of collateral attacks, are the availability of contempt proceedings, and the district court and Fifth Circuit that receives the challenge, they were fully aware of the bankruptcy court's stay order at the time that this issue was litigated, the district court and the Fifth Circuit both.</text>
+            <text syncTime="2431.276" offset="9871047">We didn't hide it.</text>
+            <text syncTime="2432.292" offset="9875122">We said, the bankruptcy court has attempted to stay execution but we don't believe that it has jurisdiction to do this, and that was litigated, and both the district court and the Fifth Circuit said, you are entitled to proceed on the supersedeas bond.</text>
+            <text syncTime="2448.988" offset="9941891">To do otherwise would undermine the very purpose of the transaction.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2452.940" stopTime="2484.225">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2452.940" offset="9957669">Would you agree that if the Fifth Circuit was wrong about the jurisdiction of the bankruptcy court, however wrong the bankruptcy court may have been on the merits of granting the stay, if they were wrong about the jurisdiction, the authority of the bankruptcy court to issue its stay, that would include all the personal injury people who already had judgments, then this gets sorted out in the Eleventh Circuit and not in the Fifth Circuit?</text>
+            <text syncTime="2476.888" offset="10053486">The question is, was there authority in the bankruptcy court in Florida, in the district court in Florida.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2484.225" stopTime="2507.340">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2484.225" offset="10082848">And my answer to that would be no, and again, I'm sure that if we thought that it was a close question, we wouldn't have pursued this challenge, but I don't believe it is a close question.</text>
+            <text syncTime="2497.551" offset="10136138">I don't believe that there is a risk of the Eleventh Circuit finding jurisdiction of any kind in the bankruptcy court to stay these kinds of unrelated proceedings.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2507.340" stopTime="2539.378">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2507.340" offset="10175322">Mr. Warren, if I hear you correctly, you are not arguing that there is no possibility... no realistic possibility, no argument, that Northbrook cannot be prevented from executing a bond collateral.</text>
+            <text syncTime="2529.571" offset="10264242">You acknowledge that there may be a basis, after you collect from Northbrook, for saying that Northbrook has no right to--</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2539.378" stopTime="2543.630">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2539.378" offset="10303426">I think that claim could be made.</text>
+            <text syncTime="2542.580" offset="10316278">I think that--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2543.630" stopTime="2544.480">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2543.630" offset="10320458">--But you haven't made it.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2544.480" stopTime="2549.500">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2544.480" offset="10323802">--No.</text>
+            <text syncTime="2545.448" offset="10327668">I have not, as, again, our position is we're unrelated to that issue, that--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2549.500" stopTime="2559.206">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2549.500" offset="10343968">You just argue on the basis of lack of relationship, not the fact that there may not be some plausible basis for thinking that Northbrook can't use the collateral.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2559.206" stopTime="2566.626">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2559.206" offset="10382734">--Yes.</text>
+            <text syncTime="2559.556" offset="10384197">I think that at the time of... I actually don't think that Celotex has a right to the collateral.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2566.626" stopTime="2575.482">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2566.626" offset="10412409">But would you not agree, at least as a matter of jurisdiction, the bankruptcy court would at least have jurisdiction to enjoin Northbrook from trying to realize on the collateral?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2575.482" stopTime="2575.882">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2575.482" offset="10447831">Yes.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2575.882" stopTime="2576.416">
+            <label>Unknown Speaker</label>
+            <text syncTime="2575.882" offset="10449398">Yes.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2576.416" stopTime="2576.932">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2576.416" offset="10451593">Yes, I do.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2576.932" stopTime="2586.371">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2576.932" offset="10453682">So then Northbrook would be under conflicting obligations--</text>
+            <text syncTime="2580.717" offset="10468833">--No, because they can--</text>
+            <text syncTime="2581.750" offset="10472909">--if the Fifth Circuit standpoint--</text>
+            <text syncTime="2582.184" offset="10474685">--They can pay the judgment without... and lose on both cause.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2586.371" stopTime="2588.188">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2586.371" offset="10491403">Northbrook... that's true.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2588.188" stopTime="2588.554">
+            <label>Unknown Speaker</label>
+            <text syncTime="2588.188" offset="10498717">Yes.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2588.554" stopTime="2595.910">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2588.554" offset="10500180">Northbrook... Northbrook issued the bond.</text>
+            <text syncTime="2592.275" offset="10515018">They assumed that obligation to us.</text>
+            <text syncTime="2594.175" offset="10522646">They took the risk, and--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2595.910" stopTime="2605.332">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2595.910" offset="10529542">You can pay... am I wrong in thinking that the Edwardses have realized on the appeal bond, that you've gotten paid, or you haven't?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2605.332" stopTime="2608.201">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2605.332" offset="10567263">--We have not, Your Honor.</text>
+            <text syncTime="2606.451" offset="10571756">We have not received the funds on that.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2608.201" stopTime="2610.319">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2608.201" offset="10578757">But under the Fifth Circuit judgment you could.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2610.319" stopTime="2611.853">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2610.319" offset="10587220">Yes.</text>
+            <text syncTime="2610.586" offset="10588265">We're entitled to.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2611.853" stopTime="2616.407">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2611.853" offset="10593385">So you... what... why are you not... this is some voluntary understanding?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2616.407" stopTime="2625.829">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2616.407" offset="10611566">Yes, it is a voluntary understanding on our part.</text>
+            <text syncTime="2619.275" offset="10623060">Celotex has agreed to not pursue contempt proceedings against us--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2625.829" stopTime="2626.513">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2625.829" offset="10649287">If you don't collect.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2626.513" stopTime="2628.881">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2626.513" offset="10652004">--If we don't collect, yes, Your Honor.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2628.881" stopTime="2650.644">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2628.881" offset="10661408">Mr. Rosenthal, on rehearing, the Court of Appeals for the Fifth Circuit, in its amendment to the opinion, its last couple of sentences say,</text>
+            <text syncTime="2639.672" offset="10704562">"Thus, we have not held that the bankruptcy court in Florida was necessarily wrong, we have only concluded that the district court, over which we do have appellate jurisdiction, was right. "</text>
+            <text syncTime="2648.361" offset="10739357">Do you defend that analysis of the matter?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2650.644" stopTime="2694.371">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2650.644" offset="10748448">No, I don't, Your Honor.</text>
+            <text syncTime="2652.230" offset="10754822">That language, I think, to give my own interpretation to it, it is, we're not reversing an order of a court in another circuit over which we don't have jurisdiction, we're just affirming a decision below, because I think that language is in response to statements made in the petition for rehearing that you're effectively reversing an order in another circuit, and I think that was to respond to that.</text>
+            <text syncTime="2677.029" offset="10854087">But I do think that the bankruptcy court's order, to the extent that it assumed that there was jurisdiction to do this, was necessarily wrong.</text>
+            <text syncTime="2684.615" offset="10884389">If the bankruptcy court was right in assuming jurisdiction over the bond, then I don't think that the Fifth Circuit could have ruled the way it did.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2694.371" stopTime="2698.323">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2694.371" offset="10923364">It's accurate enough to say that the Fifth Circuit is not saying that the bankruptcy court was wrong.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2698.323" stopTime="2699.289">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2698.323" offset="10939246">I agree with that, Your Honor.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2699.289" stopTime="2702.208">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2699.289" offset="10943113">It is only saying that the Texas court was right.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2702.208" stopTime="2705.041">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2702.208" offset="10954711">Yes, and I don't think that language really adds to the analysis--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2705.041" stopTime="2709.862">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2705.041" offset="10966100">Let him who can read conclude that therefore the other court was wrong.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2709.862" stopTime="2771.935">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2709.862" offset="10985326">--Yes, that's correct, and I think that again the Fifth Circuit was well aware of the effect of its order, effect of the bankruptcy... aware that its order did conflict with the bankruptcy court's order, and was delicate in its language saying, no, you don't have the power to do this.</text>
+            <text syncTime="2729.174" offset="11062649">I do want to emphasize that, to the extent that the order could be connected in any way with the adversary proceedings, to the extent that Celotex has a... or claims an interest in the property because of the adversary proceeding, we've said in our brief that we think that would be patently frivolous.</text>
+            <text syncTime="2750.337" offset="11147286">I would reiterate that, and add that the bankruptcy... to the extent that the order staying enforcement on bonds generally is an injunctive order, it did not comply with the requirements of Rule 65, there's no showing of a likelihood of success in the avoidance action and Celotex did not even attempt to show a likelihood of success.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2771.935" stopTime="2798.420">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2771.935" offset="11233699">Does that court have jurisdiction?</text>
+            <text syncTime="2773.968" offset="11241744">I mean, supposing a court with conceded jurisdiction, say a Federal court with diversity jurisdiction under the statute, issues an injunction which does not comply with Rule 65, and that judgment simply becomes final without any appeal, could the object of the... the person who is constrained by the injunction challenge that collaterally because it violated Rule 65?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2798.420" stopTime="2805.324">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2798.420" offset="11339651">I think that the person could challenge it if it makes no pretense to obey Rule 65, and this does not.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2805.324" stopTime="2812.244">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2805.324" offset="11367237">Well, in other words, you're saying that if a court does not comply with Rule 65, that deprives it of jurisdiction?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2812.244" stopTime="2813.845">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2812.244" offset="11394926">It... the... no, no, Your Honor.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2813.845" stopTime="2816.131">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2813.845" offset="11401300">That would be an extraordinary departure from our cases.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2816.131" stopTime="2823.951">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2816.131" offset="11410495">No, I'm not saying that.</text>
+            <text syncTime="2817.247" offset="11414884">I'm saying that if an order that... that... I think there are two different concepts.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2823.951" stopTime="2825.570">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2823.951" offset="11441738">Well, why don't you answer my question.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2825.570" stopTime="2844.865">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2825.570" offset="11448216">I think that no, an order under Rule 65, that's not properly entered under Rule 65, doesn't defeat the court's own jurisdiction, but to the... but that it does make the order unenforceable for another reason, and that is that it's patently frivolous with no pretense to validity, another exception to the collateral attack.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2844.865" stopTime="2866.314">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2844.865" offset="11525330">Well, but supposing the bankruptcy court has before it a controversy that is not at all patently frivolous... that is, it concededly relates to the bankruptcy... and issues an injunction which doesn't comply with Rule 65, does that mean it can't rely on the subject matter of the controversy before it to sustain jurisdiction, just because the injunction didn't comply with Rule 65?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2866.314" stopTime="2905.838">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2866.314" offset="11611220">No.</text>
+            <text syncTime="2866.797" offset="11613101">That... it's a different issue than the jurisdictional issue.</text>
+            <text syncTime="2870.165" offset="11626580">It's a different defect with the order, and that's all I'm saying.</text>
+            <text syncTime="2873.534" offset="11640060">There are two defects with the order.</text>
+            <text syncTime="2875.217" offset="11646747">To the extent that it's issued under the bankruptcy court's general jurisdiction to supervise a bankruptcy, and deal with product problems related to however tangential the bankrupt's estate, there's no jurisdiction to do that.</text>
+            <text syncTime="2887.794" offset="11697111">To the extent that it's related, or attempted to be related, and I'm not even sure if it's argued to be related specifically to the adversary proceeding, then it is... to not comply with the injunction rule is patently frivolous and has no pretense to validity.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2905.838" stopTime="2920.098">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2905.838" offset="11769313">Well, but don't our cases say that if an injunction's issued in violation of Rule 65 you don't collaterally attack it, you go back to the court that issued the injunction and say, this was wrong because you didn't comply with Rule 65?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2920.098" stopTime="2933.156">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2920.098" offset="11826365">Yes, that's true, with the exceptions listed... that is, lack of jurisdiction, or no conceivable... patently frivolous with no pretense to validity.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2933.156" stopTime="2940.159">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2933.156" offset="11878505">Well, you're splitting those apart?</text>
+            <text syncTime="2934.806" offset="11885193">You're saying one is no jurisdiction, the other is, I would say patently frivolous?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2940.159" stopTime="2947.265">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2940.159" offset="11906509">Yes.</text>
+            <text syncTime="2940.575" offset="11908180">They are distinct bases for attacking orders of any kind, injunctive or otherwise.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2947.265" stopTime="2960.539">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2947.265" offset="11934930">Well, in other words, an order that is patently frivolous, in your view, and whatever... you haven't defined that... could be collaterally attacked even though the court which entered that order unquestionably had jurisdiction.</text>
+            <text syncTime="2958.973" offset="11981846">That's an extraordinary doctrine.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2960.539" stopTime="2962.341">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2960.539" offset="11988115">But it is a doctrine of this Court.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2962.341" stopTime="2964.710">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2962.341" offset="11995325">What case is it based on?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2964.710" stopTime="2971.281">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2964.710" offset="12004729">Walker v. City of Birmingham recognizes that as an exception to the effective injunctive orders.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2971.281" stopTime="2994.229">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2971.281" offset="12031060">You're saying, I take it, that a bankruptcy court that unquestionably has jurisdiction over the parties before it does not have to be obeyed by the district court who is entertaining the case of United States v. Nixon should that court happen to issue an injunction relating to that case, which has no conceivable relationship, even though the court has jurisdiction over the parties?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="2994.229" stopTime="2997.431">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="2994.229" offset="12122802">Yes.</text>
+            <text syncTime="2995.029" offset="12126042">If I understand the hypothetical, I think, yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2997.431" stopTime="3054.899">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2997.431" offset="12135655">I'm not trying to trick you.</text>
+            <text syncTime="2998.898" offset="12141506">[Laughter]</text>
+            <text syncTime="3002.050" offset="12154149">What I don't understand, though, about your position, is this.</text>
+            <text syncTime="3004.800" offset="12165121">If it had been your contention that there's no way in which Northbrook would not be entitled to retain the collateral after it pays the bond, then... then I might go along with you, but you are not making that argument.</text>
+            <text syncTime="3023.129" offset="12238473">You are perfectly willing to entertain the possibility that Northbrook will pay the bond and then get left high and dry at the other end of the transaction by not being able to retain its collateral.</text>
+            <text syncTime="3039.306" offset="12303152">It seems to me that the whole purpose of this provision that enables the bankruptcy court to have jurisdiction over all proceedings related to cases is to prevent just that kind of thing from happening, to prevent inconsistent determinations by courts with respect to the same matter.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="3054.899" stopTime="3079.630">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="3054.899" offset="12365532">Perhaps I didn't understand your earlier hypothetical as well as I should have.</text>
+            <text syncTime="3059.152" offset="12382564">The... if you were asking, does Northbrook have a right to retain the collateral, I think the answer to that is clearly yes, Celotex has lost its property interest in that.</text>
+            <text syncTime="3069.758" offset="12424987">If your question is, does the retention of the collateral that Celotex posted affect Celotex's estate, I think yes, this is property that--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3079.630" stopTime="3100.110">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3079.630" offset="12464484">Why is the answer clearly yes?</text>
+            <text syncTime="3080.830" offset="12469291">It's a transfer.</text>
+            <text syncTime="3081.982" offset="12473888">The collateral was transferred within the preference period, or it could be attacked as fraudulent of other creditors.</text>
+            <text syncTime="3090.136" offset="12506489">I don't understand why that's so clear.</text>
+            <text syncTime="3093.271" offset="12519028">The transfer of the collateral, which I take it was... these are claims that Celotex had against its own insurer?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="3100.110" stopTime="3100.793">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="3100.110" offset="12546404">--Yes.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3100.793" stopTime="3115.970">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3100.793" offset="12549121">That was what the collateral was, and if the transfer occurred within the preference period or could otherwise be... could be characterized as fraudulent, then why isn't that a valid claim?</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="3115.970" stopTime="3120.857">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="3115.970" offset="12609829">That... that is true.</text>
+            <text syncTime="3116.989" offset="12613904">That certainly isn't the situation here, and that's why I think--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3120.857" stopTime="3130.963">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3120.857" offset="12629369">I thought Mr. Warren said that's exactly what the situation was, that they were attacking the transfer from Celotex to the insurer as either preferential or fraudulent.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="3130.963" stopTime="3166.386">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="3130.963" offset="12669806">--Oh, I'm sorry, yes.</text>
+            <text syncTime="3131.479" offset="12671792">That is... they are attacking that.</text>
+            <text syncTime="3134.115" offset="12682345">That attack has no validity whatsoever.</text>
+            <text syncTime="3139.319" offset="12703243">This bond was posted well in excess of the fraudulent... I mean, I'm sorry, the preference period, well in excess of the statutory period for avoiding constructively fraudulent transfers under section 548, and was done for purposes of satisfying or securing an antecedent debt which is expressly said to be not a fraudulent transfer.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3166.386" stopTime="3177.027">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3166.386" offset="12811495">But I asked you earlier whether you were making any of those arguments that in fact there's no colorable basis for saying that Northbrook doesn't own this collateral, and you said no, that's not the argument you're making.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="3177.027" stopTime="3201.725">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="3177.027" offset="12854022">No, Your Honor, I think that I... as I understood your question, it was, does the retention of collateral affect Celotex, because we were dealing with the broad jurisdictional question under 1334(b), and I said yes, I think the retention of collateral affects Celotex certainly more directly than our claim against Northbrook, but no, I do not think the transfer could colorably be attacked.</text>
+            <text syncTime="3200.040" offset="12946077">I think it defies--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3201.725" stopTime="3212.698">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3201.725" offset="12952869">Does Northbrook agree with you?</text>
+            <text syncTime="3203.092" offset="12958303">This is a stakeholder that says, I don't care who gets paid, I don't want to have to pay twice.</text>
+            <text syncTime="3208.394" offset="12979514">So we're hearing from you to say that they don't have any problem, Northbrook--</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="3212.698" stopTime="3227.338">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="3212.698" offset="12996755">--My understanding of Northbrook's position is they've opposed the... they've defended the avoidance action in Florida and in fact characterized the bankruptcy court's injunction or stay order in this case as novel, which I think is strong language from an insurance--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3227.338" stopTime="3239.562">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3227.338" offset="13055269">--That's quite different from saying they haven't got a colorable basis for the claim, that there is no... in the bankruptcy court there's no colorable basis to set aside the transfer to the insurer.</text>
+          </turn>
+          <turn speaker="brent_m_rosenthal" startTime="3239.562" stopTime="3267.344">
+            <label>Mr. Brent M. Rosenthal</label>
+            <text syncTime="3239.562" offset="13104171">--Yes, but I would, Your Honor.</text>
+            <text syncTime="3241.679" offset="13112634">I say that there is no colorable basis.</text>
+            <text syncTime="3243.848" offset="13121307">To say that a party a year before, or more than a year before a bankruptcy, that pays a debt, pays a judgment, or secures a judgment through a supersedeas bond, has committed or performed a fraudulent transfer, is an Alice-in-Wonderland concept, and I submit that it's absolutely not colorable.</text>
+            <text syncTime="3266.427" offset="13211586">Thank you, Your Honor.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3267.344" stopTime="3276.652">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3267.344" offset="13215348">Thank you, Mr. Rosenthal.</text>
+            <text syncTime="3269.546" offset="13224125">Mr. Warren, you have 2 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3276.652" stopTime="3406.447">
+          <heading>Rebuttal of Jeffrey W. Warren</heading>
+          <turn speaker="jeffrey_w_warren" startTime="3276.652" stopTime="3301.483">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="3276.652" offset="13252546">As this Court has recognized, bankruptcies do strange things.</text>
+            <text syncTime="3280.270" offset="13266966">This case does not present an Alice in Wonderland.</text>
+            <text syncTime="3282.639" offset="13276474">It is involving a substantial amount of money, a substantial amount of issues.</text>
+            <text syncTime="3288.626" offset="13300402">What the bankruptcy court has done has preserved the status quo.</text>
+            <text syncTime="3291.912" offset="13313568">The heart of our appeal, and the reason why the Fifth Circuit's decision should be reversed, is it impairs the orderly judicial administration.</text>
+            <text syncTime="3300.850" offset="13349304">Justice Stevens--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3301.483" stopTime="3321.362">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3301.483" offset="13351811">It hasn't preserved the status quo.</text>
+            <text syncTime="3303.067" offset="13358185">The status quo is that every... that this money was gone.</text>
+            <text syncTime="3307.519" offset="13375949">The status quo is that once the security was posted, the case was lost on appeal, that money was gone, and it seems to me it's saying no, the money isn't gone.</text>
+            <text syncTime="3319.410" offset="13423596">I don't call that recaining the status quo.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="3321.362" stopTime="3351.214">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="3321.362" offset="13431328">--Well, Your Honor, it maintains the status quo in the sense that the funds are still available, the obligation of Northbrook as a surety is still available, the right and entitlements and the avoidance powers as they exist are still available with respect to the estate, and the passage of time that has occurred, the bankruptcy court has provided adequate protection to ensure that segregated funds exist for the benefit of any impairment that occurs as a result of the delays.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3351.214" stopTime="3353.250">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3351.214" offset="13550760">And the collateral has not gone.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="3353.250" stopTime="3360.154">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="3353.250" offset="13558910">And the collateral has not gone, because the bankruptcy court has ordered the sureties to deposit those funds, so consequently, we have issues--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3360.154" stopTime="3362.939">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3360.154" offset="13586495">It is gone unless there's some colorable basis for getting it back.</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="3362.939" stopTime="3397.529">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="3362.939" offset="13597676">--That is correct, Your Honor, and there's two colorable bases that are being litigated now that exist, the constructively fraudulent transfer, which is a 4-year statute of limitations under Florida law, which has been established as being the law controlling this transfer, so it's within the statute of limitations, no question that Celotex was insolvent at the time it transferred the assets to Northbrook, there's no question that the transfer was for the indirect benefit of the Edwardses, no question about that, the only issue is whether or not there was a reasonably equivalent exchange of value, meaning that the forbearance--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3397.529" stopTime="3398.729">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3397.529" offset="13736020">Thank you, Mr. Warren--</text>
+          </turn>
+          <turn speaker="jeffrey_w_warren" startTime="3398.729" stopTime="3399.329">
+            <label>Mr. Jeffrey W. Warren</label>
+            <text syncTime="3398.729" offset="13740827">--Thank you, Your Honor.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3399.329" stopTime="3402.562">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3399.329" offset="13743230">--your time has expired.</text>
+            <text syncTime="3399.879" offset="13745424">The case is submitted.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3402.562" stopTime="3406.447">
+            <label>Unknown Speaker</label>
+            <text syncTime="3402.562" offset="13756187">The honorable court is now adjourned until tomorrow at ten o'clock.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

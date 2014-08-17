@@ -1,0 +1,36 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="410173">/xml/cases/1977/77_142/19780328o_77-142.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1977/trs/77-142op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="82.500">
+        <title>United States v. Culbert</title>
+        <section startTime="0.000" stopTime="82.500" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Thurgood Marshall</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.183">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="79985">The judgment and opinions of the Court in United States against Culbert will be announced by Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="8.183" stopTime="80.808">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="8.183" offset="112690">This case is here writ of certiorari to United States Court of Appeals for the Sixth Circuit. The respondent was convicted of violating the Hobbs Act.</text>
+            <text syncTime="18.883" offset="155427">The evidence at the trial showed that he and an accomplice attempted to obtain $100,000 from a federally insured bank by means of threats of physical violence made to the bank's president.</text>
+            <text syncTime="31.972" offset="207776">The Court of Appeals reversed respondent's conviction because the government had not proved that respondent was guilty of “racketeering.”</text>
+            <text syncTime="41.621" offset="246437">The court held that proof of racketeering was a necessary ingredient and element of the Hobbs Act offense.</text>
+            <text syncTime="48.415" offset="273605">By an opinion filed today with the clerk, we hold that the plain language of the Hobbs Act makes clear that Congress did not intend to limit that statute's scope by reference to an undefined category of conduct, termed racketeering.</text>
+            <text syncTime="63.466" offset="333791">Moreover the legislative history evidences a congressional intent to reach all conducts within the express terms of the statute and the judgment of the Court of Appeals is accordingly reversed.</text>
+            <text syncTime="75.923" offset="383632">Mr. Justice Brennan took no part in the consideration or decision of this case.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="80.808" stopTime="82.500">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="80.808" offset="403172">Thank you, Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

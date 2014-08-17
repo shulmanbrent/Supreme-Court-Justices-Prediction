@@ -1,0 +1,830 @@
+<transcript verified="true">
+      <history>
+        <transcribed minutes="55">1980-11-03T14:02</transcribed>
+        <verified user="jgoldman">2013-09-01</verified>
+        <edit user="jgoldman" date="2014-02-22T08:55:30" startTime="434.932" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:55:38" startTime="440.586" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:55:41" startTime="445.472" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:55:49" startTime="465.219" oldSpeaker="unknown_speaker" newSpeaker="byron_r_white"/>
+        <edit user="jgoldman" date="2014-02-22T08:55:52" startTime="478.877" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:55:57" startTime="1141.127" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:55:59" startTime="1188.191" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:02" startTime="1335.850" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:05" startTime="1339.571" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:16" startTime="1348.325" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:23" startTime="1458.776" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:26" startTime="1466.965" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:28" startTime="1481.125" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:34" startTime="1852.484" oldSpeaker="unknown_speaker" newSpeaker="byron_r_white"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:40" startTime="1905.351" oldSpeaker="unknown_speaker" newSpeaker="warren_e_burger"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:50" startTime="3084.200" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:52" startTime="3101.761" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:54" startTime="3118.870" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:56" startTime="3387.062" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:58" startTime="3395.049" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-02-22T08:56:59" startTime="3397.068" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <identified user="jgoldman">2014-02-22</identified>
+      </history>
+      <resources>
+        <audioFile size="13953098">/xml/cases/1980/79_1068/19801103a_79-1068.mp3</audioFile>
+        <sourceFile>/data/sites/oyez.org/cases/1980/1980_79_1068/79-1068_19801103-argument_transcript.xml</sourceFile>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="barry_sullivan" type="advocate" gender="male" path="/advocates/bs/barry_sullivan" image="/advocates/bs/barry_sullivan/thumbnail.jpg">Barry Sullivan</speaker>
+        <speaker id="roger_s_kaplan" type="advocate" gender="male" path="/advocates/rk/roger_s_kaplan" image="/advocates/rk/roger_s_kaplan/thumbnail.jpg">Roger S. Kaplan</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3451.335">
+        <title>Equal Employment Opportunity Commission v. Associated Dry Goods Corporation</title>
+        <section startTime="0.000" stopTime="1439.048">
+          <heading>Argument of Barry Sullivan</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="61.805">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="136517">We will hear arguments next in the Equal Employment Opportunity Commission v. Associated Dry Goods Corporation.</text>
+            <text syncTime="12.891" offset="188030">Mr. Sullivan.</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="61.805" stopTime="434.932">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="61.805" offset="383635">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="65.108" offset="396906">This case is here on on certiorari from the United States Court of Appeals for the 4th Circuit.</text>
+            <text syncTime="71.679" offset="423133">The question presented is a narrow but important question of statutory construction regarding Title VII of the Civil Rights Act of 1964.</text>
+            <text syncTime="82.052" offset="464719">The question is whether Section 706(b) and 709(e) of Title VII which prohibit the Commission from disclosing investigatory information to the public prior to the filing of a suit prohibit disclosures of such information to persons immediately involved in Commission proceedings.</text>
+            <text syncTime="108.102" offset="568896">This is a narrow question in two senses.</text>
+            <text syncTime="112.506" offset="586450">First, the textual question is a narrow one, whether the words of the statute, "making public", includes persons who are immediately involved in administrative proceedings.</text>
+            <text syncTime="128.099" offset="648830">Secondly, in context, in Section 709(e) of the statute, it is clear that the prohibition on making public this information applies only to prelitigation disclosure, to disclosures that are made prior to the time that the Title VII action is brought.</text>
+            <text syncTime="155.083" offset="756768">Therefore, the question is not whether disclosures of information may occur, even to the public, but the timing of those disclosures.</text>
+            <text syncTime="167.324" offset="805774">The question is an important question for purposes of the administration of Title VII, because the answer to the question, whether the charging parties and attorneys and respondents and material witnesses are members of the public within the meaning of the statute will impact on the Commission's administration of the statute in investigation, conciliation, and reasonable cause determination, virtually at every stage of the Commission's processing of charges of employment discrimination.</text>
+            <text syncTime="208.051" offset="968674">The facts of this case may be briefly stated.</text>
+            <text syncTime="212.337" offset="985810">In November, 1971, and continuing through June, 1973, seven charges of employment discrimination were filed with the Commission against the Joseph Horne Company, a Pittsburgh retailer, and the subsidiary of respondent, Associated Dry Goods.</text>
+            <text syncTime="239.106" offset="1092912">These charges alleged discrimination... these charges were filed by seven women.</text>
+            <text syncTime="246.760" offset="1123528">In six of the cases sex discrimination was charged.</text>
+            <text syncTime="252.847" offset="1147874">In the seventh charge, which was also filed by a woman, racial discrimination was charged.</text>
+            <text syncTime="261.120" offset="1180997">Three of the charges also charged retaliation.</text>
+            <text syncTime="266.922" offset="1204194">In February, 1974, the Commission began its investigation by asking the Joseph Horne Company to produce certain evidence that the Commission thought relevant to these charges.</text>
+            <text syncTime="283.800" offset="1271694">Basically, the evidence that was requested was information pertaining to the Company's personnel practices and employment files and other information relating to the departments of the employer in which these seven charging parties were employed.</text>
+            <text syncTime="304.547" offset="1354659">Horne declined the Commission's request for this information on the ground that the Commission would not guarantee at that point that information thus collected would not be disclosed to charging parties or their attorneys or to witnesses during the course of the proceedings.</text>
+            <text syncTime="330.697" offset="1459253">Thereafter, negotiations followed.</text>
+            <text syncTime="336.518" offset="1482555">They were eventually unsuccessful.</text>
+            <text syncTime="339.386" offset="1494048">The Commission in October, 1974, issued an administrative subpoena for purposes of acquiring much the same information.</text>
+            <text syncTime="349.678" offset="1535217">In June, 1975, Associated brought this action in the Eastern District of Virginia, asserting that the Commission's disclosure policies violated Sections 706(b) and 709(e).</text>
+            <text syncTime="365.770" offset="1599583">Subsequently the Commission brought an action itself to enforce its subpoena in the Western District of Pennsylvania.</text>
+            <text syncTime="375.476" offset="1638349">The two suits were subsequently consolidated in the Eastern District of Virginia; the District Court enforced subpoena, but held that disclosure to the parties and to attorneys would do violence to the statutory scheme because it would affect conciliation and settlement, and therefore held that the parties were included within the public for purposes of this statute.</text>
+            <text syncTime="404.662" offset="1755064">In October, 1979, the Court of Appeals affirmed by divided vote.</text>
+            <text syncTime="413.684" offset="1791217">The question the Court of Appeals determined was whether disclosure to charging parties and attorneys prior to suit violates Section 706(b) and 709(e).</text>
+            <text syncTime="426.511" offset="1842522">The Court held that it did.</text>
+            <text syncTime="429.630" offset="1854956">Judge Hall dissented in the Court of Appeals.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="434.932" stopTime="436.950">
+            <label>Justice Stewart</label>
+            <text syncTime="434.932" offset="1876168">The Court primarily held it violated 709(e), didn't it?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="436.950" stopTime="440.586">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="436.950" offset="1884213">I believe, Mr. Justice--</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="440.586" stopTime="444.390">
+            <label>Justice Stewart</label>
+            <text syncTime="440.586" offset="1898842">That's certainly the statutory provision upon which respondent primarily relies.</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="444.389" stopTime="445.472">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="444.389" offset="1913993">--That is correct.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="445.472" stopTime="454.078">
+            <label>Justice Stewart</label>
+            <text syncTime="445.472" offset="1918381">So that you don't really accurately state the question, that the question is a 709(e) question, not a 706(b) and 709(e) question.</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="454.078" stopTime="465.219">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="454.078" offset="1952759">I recognize that is what Respondent asserts, Mr. Justice.</text>
+            <text syncTime="457.197" offset="1965297">However, the text of the opinion of the Court of Appeals is quite clear in relying on both of the sections.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="465.219" stopTime="470.957">
+            <label>Justice White</label>
+            <text syncTime="465.219" offset="1997376">So if it was right on either one, we could affirm?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="470.957" stopTime="478.877">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="470.957" offset="2020259">I think that would be correct although I don't think that the 4th Circuit was correct on either one.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="478.877" stopTime="480.579">
+            <label>Justice Stewart</label>
+            <text syncTime="478.877" offset="2052024">You're talking about Judge Winters' opinion?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="480.579" stopTime="907.073">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="480.579" offset="2058816">Yes, Your Honor.</text>
+            <text syncTime="481.696" offset="2063204">Judge Hall dissented noting that the decision of the majority was not based on statutory construction, but was based on policy ground, namely, the fear that disclosure to charging parties and their attorneys would contribute to litigation.</text>
+            <text syncTime="505.428" offset="2158186">The Judge also noted that the practical effect of the decision was to require charging parties to file lawsuits in order to determine whether their charges had any merit, and that the practical effect was simply to delay disclosure to the parties, not to deny disclosure.</text>
+            <text syncTime="531.911" offset="2264138">I should also note, however, that in one respect Judge Hall did not agree with the Commission in that Judge Hall believed that disclosure of materials in related case files which the Commission believes is appropriate was not valid.</text>
+            <text syncTime="557.146" offset="2365075">The decision of the 4th Circuit simply does not come to grips with the problem that's presented in this case.</text>
+            <text syncTime="573.822" offset="2431740">The Court of Appeals held that charging parties and attorneys were members of the public, but at the same time the Court found that certain disclosures could be made to the parties during the administrative process.</text>
+            <text syncTime="593.252" offset="2509480">The Court of Appeals said that information could not be disseminated to the parties in haec verba but that the Commission could say to the parties, it has been reported that, or it has been said that, and then effectively convey the information that was contained in the file.</text>
+            <text syncTime="618.117" offset="2608955">We believe that does not come to grips with the problem that's presented in this case because Section 709(e) prevents disclosure to the public in any manner whatever.</text>
+            <text syncTime="632.294" offset="2665693">The solution of the 4th Circuit, while it may be an appropriate solution in some respects, is not a solution to the problem of statutory construction that's presented in this case.</text>
+            <text syncTime="651.190" offset="2741239">The real question that has to be decided with respect to Section 709(e) and with respect to Section 706(b) is whether the phrase, "making public" is meant to include persons who are directly involved in the administrative proceedings.</text>
+            <text syncTime="674.640" offset="2835070">Moreover, we submit that the 4th Circuit's construction of the statute, the definition of "making public" which was accepted by the courts below, is erroneous in any event.</text>
+            <text syncTime="693.684" offset="2911244">Although 706(b) and 709(e) are read together as they must be, and in light of legislative history, that the prohibition of public disclosure means the prohibition of disclosing information to the general public.</text>
+            <text syncTime="722.704" offset="3027332">As Senator Humphrey said in the legislative debates, this is a ban on publicizing.</text>
+            <text syncTime="729.958" offset="3056275">However, the meaning of the statute is even more clear when these provisions are read against the statute as a whole.</text>
+            <text syncTime="741.332" offset="3101833">The Commission has the duty to investigate and to determine reasonable cause, and to attempt to settle disputes through informal means of conciliation, conference, and persuasion.</text>
+            <text syncTime="756.442" offset="3162228">It would be impossible for the Commission to successfully and effectively undertake and complete these statutory duties if they could not disclose material to charging parties and to material witnesses when necessary.</text>
+            <text syncTime="777.005" offset="3244461">It is particularly obvious in the investigation stage when the Commission is presented with a charge of discrimination which it must attempt to investigate in order to determine whether reasonable cause exists to believe that a violation of the statute occurred.</text>
+            <text syncTime="801.989" offset="3344458">The respondent here asserts that nondisclosure to the parties would forward the investigation because respondents or employers would be more likely to come forward with information.</text>
+            <text syncTime="823.319" offset="3429722">While that may be true, two points must be made: the Commission has compulsory process and can enforce its subpoenas in court, so essentially the respondent is saying that employers will come forward with the information that they're required by statutes to come forward with in any event.</text>
+            <text syncTime="849.054" offset="3532644">Secondly, even if the information were produced by employers more freely, the difficulty is that all of the information that they might provide simply would not advance the investigation if that material could not be tested during the investigation.</text>
+            <text syncTime="875.787" offset="3639642">The investigation requires more than the receipt of one-sided information.</text>
+            <text syncTime="882.625" offset="3666914">It requires the Commission to go out and try to verify that information and determine its truth.</text>
+            <text syncTime="891.064" offset="3700768">With respect to the reasonable cause determination the same principles apply.</text>
+            <text syncTime="898.534" offset="3730653">The quality of that determination can be no greater than the quality of the investigations which led to it.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="907.073" stopTime="918.031">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="907.073" offset="3764716">Mr. Sullivan, what is the standard which you are proposing to us that should be followed in the determination of this issue?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="918.031" stopTime="922.435">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="918.031" offset="3808602">Mr. Justice, I believe--</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="922.435" stopTime="935.159">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="922.435" offset="3826156">Certainly you want to cover the charging parties and witnesses.</text>
+            <text syncTime="926.654" offset="3843084">Has the Commission been consistent in its approach to this problem over the years?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="935.159" stopTime="952.537">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="935.159" offset="3877147">--Yes, it has, Mr. Justice Blackmun.</text>
+            <text syncTime="938.027" offset="3888537">The Commission first formulated regulations to deal with this problem in 1965 and with very minor changes those regulations have been in effect since then.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="952.537" stopTime="962.810">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="952.537" offset="3946633">Well, initially, didn't they speak of authorizing disclosure where appropriate or necessary to the carrying out of the Commission's functions?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="962.810" stopTime="966.445">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="962.810" offset="3987697">That is correct, Mr. Justice Blackmun.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="966.445" stopTime="974.118">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="966.445" offset="4002221">And what is it that... now, I get back to my first question... what are you proposing now that is distinct from that old approach?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="974.118" stopTime="1004.637">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="974.118" offset="4032941">I don't think that it's distinct at all.</text>
+            <text syncTime="976.819" offset="4043704">The language that is now in the regulation is slightly different in that it says,</text>
+            <text syncTime="986.692" offset="4083201">"where disclosure is deemed necessary for securing appropriate relief. "</text>
+            <text syncTime="991.579" offset="4102741">When that change was made, when it was published in the Federal Register, it was published with the notation that no substantive change was intended.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="1004.637" stopTime="1015.611">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="1004.637" offset="4154986">Yes, but sometimes we run into trouble with that.</text>
+            <text syncTime="1008.124" offset="4168987">The new standard speaks of relief.</text>
+            <text syncTime="1011.760" offset="4183511">Is the Commission authorized to assist litigants in their quest for relief?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="1015.611" stopTime="1141.127">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="1015.611" offset="4198871">I don't believe that... that question is not easy to answer, Mr. Justice.</text>
+            <text syncTime="1023.983" offset="4232413">The Commission in terms is authorized to cooperate with individuals.</text>
+            <text syncTime="1031.673" offset="4263133">That authorization occurs in Section 2000(e)(4)(g) of the enumeration of the Commission's powers.</text>
+            <text syncTime="1046.833" offset="4323841">However, I wouldn't rely on that exclusively.</text>
+            <text syncTime="1050.785" offset="4339619">As you are aware, the Commission has the right to bring a civil complaint itself in meritorious cases.</text>
+            <text syncTime="1063.842" offset="4391864">And if the Commission had sufficient resources it could obviously bring a civil action in every case that was brought before it in which the charging parties' charge was deemed to have sufficient merit to go forward.</text>
+            <text syncTime="1084.791" offset="4475665">However, it can't do that because it doesn't have the administrative resources to do it, and therefore the Commission's enforcement of Title VII depends in large part on private actions being brought.</text>
+            <text syncTime="1103.352" offset="4549853">If an action were being brought by the Commission itself in a Title VII case, clearly the investigative files that were in its possession would be things that the Commission could use in framing the complaint.</text>
+            <text syncTime="1126.201" offset="4641281">And if the charging party is acting effectively as a private attorney general, I think that it's implicit in the statutory framework that that person should also have access to the materials.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1141.127" stopTime="1179.335">
+            <label>Justice Stewart</label>
+            <text syncTime="1141.127" offset="4700945">In every case?</text>
+            <text syncTime="1141.894" offset="4704079">In other words, Mr. Sullivan, is it your submission that the provisions of the present regulation, 1601.22, allows the Commission to disclose before legal action any of this information to charging parties or their attorneys, respondents or their attorneys, but to witnesses only where disclosure is deemed necessary for securing appropriate relief?</text>
+            <text syncTime="1174.432" offset="4834169">Do you think the "where" modifies only "witnesses"?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="1179.335" stopTime="1188.191">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="1179.335" offset="4853813">I think that's correct.</text>
+            <text syncTime="1182.704" offset="4867293">That would be consistent with my understanding.</text>
+            <text syncTime="1185.823" offset="4879727">I think that it's important--</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1188.191" stopTime="1190.041">
+            <label>Justice Stewart</label>
+            <text syncTime="1188.191" offset="4889235">Because of the lack of a comma after the word witnesses?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="1190.041" stopTime="1272.012">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="1190.041" offset="4896654">--Yes.</text>
+            <text syncTime="1190.658" offset="4899057">I think that it's important to understand that there are really two kinds of disclosures that go on during the course of the administrative process.</text>
+            <text syncTime="1200.749" offset="4939495">One is the kind of disclosure that goes on during conciliation or investigation, and those are by and large limited disclosures in which the Commission is trying to investigate and conciliate the charge, and in effect is filtering the information to the parties as it deems necessary to forward those goals.</text>
+            <text syncTime="1224.281" offset="5033640">However, the Commission also gives the charging party in effect a last clear chance in prelitigation disclosure to see what's in the case file in order to make a determined and reasoned decision as to whether to go forward with the case.</text>
+            <text syncTime="1244.195" offset="5113261">And when the attorney who's representing the charging party at that point is able to make that determination, the Commission believes that the overall purposes of Title VII are well served, because the attorney is more likely to persuade the charging party at that point that a meritorious case isn't worth bringing, and also that a meritorious case is worth bringing.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1272.012" stopTime="1283.618">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1272.012" offset="5224543">Of course, for the former alternative, I suppose the attorney could ask the respondent for authority to disclose the information and ask the respondent directly to make the disclosure, couldn't he?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="1283.618" stopTime="1290.390">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="1283.618" offset="5270937">I suppose that is a twist.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1290.390" stopTime="1292.340">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1290.390" offset="5297999">Suppose respondent would be motivated to do so?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="1292.340" stopTime="1300.994">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="1292.340" offset="5305836">Assuming that what was in the file left no shadow of a doubt that the case had no merit.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1300.994" stopTime="1306.398">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1300.994" offset="5340422">Well, or was persuasive in favor of settlement, which is a hypothesis that you're working in?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="1306.398" stopTime="1335.850">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="1306.398" offset="5362052">I think that's possible.</text>
+            <text syncTime="1309.700" offset="5375217">I don't think that would be a reasonable... I don't think that it would be necessary to construe the statute as requiring that, and I also don't think that it would be reasonable for the Commission to effectively delegate its authority to show files to respondents, because I think that might cause problems in more cases than it would ease, so I--</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1335.850" stopTime="1337.619">
+            <label>Justice Stewart</label>
+            <text syncTime="1335.850" offset="5479916">Well, 709(e) is a criminal statute.</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="1337.619" stopTime="1339.571">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="1337.619" offset="5486917">--That's correct.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1339.571" stopTime="1346.975">
+            <label>Justice Stewart</label>
+            <text syncTime="1339.571" offset="5494754">And it doesn't provide any defense, even if it's done with consent of one or more of the interested parties.</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="1346.975" stopTime="1348.325">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="1346.975" offset="5524324">That's correct.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1348.325" stopTime="1362.800">
+            <label>Justice Stevens</label>
+            <text syncTime="1348.325" offset="5529758">No, but the hypothesis is that the company would be persuaded that if the information were disclosed, then the company could surely disclose it without any violation of the statute test.</text>
+            <text syncTime="1360.400" offset="5578032">The restriction only operates against the Commission, doesn't it?</text>
+            <text syncTime="1362.367" offset="5585973">That's right.</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="1362.800" stopTime="1374.392">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="1362.800" offset="5587645">Of course it would be impossible for the charging party in those circumstances, if that were the construction of the statute, to know whether it was being given all of the material that was actually in the investigative file.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1374.392" stopTime="1386.098">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1374.392" offset="5634039">Well, the Commission could say, there is more information in the file.</text>
+            <text syncTime="1377.344" offset="5645846">They could say that.</text>
+            <text syncTime="1378.144" offset="5649085">There's nothing in the statute to prohibit the Commission from telling the charging party whether or not there's been full disclosure.</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="1386.098" stopTime="1432.162">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="1386.098" offset="5680850">That's true.</text>
+            <text syncTime="1387.383" offset="5685970">I think that it's very important to emphasize that what is at issue here is not simply the way in which the Commission has chosen to structure its investigations or to structure its administrative processes.</text>
+            <text syncTime="1417.485" offset="5806447">But what is at issue is the very ability of the Commission to effectively fulfill its statutory mandate.</text>
+            <text syncTime="1428.793" offset="5851586">I'd like to reserve the remainder of my time.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1432.162" stopTime="1439.048">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1432.162" offset="5865066">Mr. Kaplan.</text>
+          </turn>
+        </section>
+        <section startTime="1439.048" stopTime="2990.190">
+          <heading>Argument of Roger S. Kaplan</heading>
+          <turn speaker="roger_s_kaplan" startTime="1439.048" stopTime="1458.776">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="1439.048" offset="5892651">Mr. Chief Justice and may it please the Court:</text>
+            <text syncTime="1442.750" offset="5907488">The question before you is whether the EEOC special disclosure rules and regulations conflict with Section 709(e) of Title VII and foster litigation contrary to the intent of Congress.</text>
+            <text syncTime="1456.491" offset="5962450">The answer, we believe, lies--</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1458.776" stopTime="1465.263">
+            <label>Justice Stewart</label>
+            <text syncTime="1458.776" offset="5971541">Well, really, if we find they conflict with 709(e) of Title VII, that's the end of our inquiry, isn't it?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="1465.263" stopTime="1466.965">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="1465.263" offset="5997559">--Yes, I believe so.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1466.965" stopTime="1473.869">
+            <label>Justice Stewart</label>
+            <text syncTime="1466.965" offset="6004350">Whether or not they foster litigation, whether or not 709(e) is wise or unwise, is none of our business, is it?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="1473.869" stopTime="1481.125">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="1473.869" offset="6031936">Well, I believe that if they do conflict with Section 709(e), yes--</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1481.125" stopTime="1489.129">
+            <label>Justice Stewart</label>
+            <text syncTime="1481.125" offset="6060984">If 709(e) is part of what your brother simply just called the statutory mandate of the Commission, then that is its mandate, not to disclose.</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="1489.129" stopTime="1852.484">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="1489.129" offset="6092958">--It is not to disclose.</text>
+            <text syncTime="1490.364" offset="6097973">The answer, we think, lies in the rationale for the rules as stated in the rules themselves.</text>
+            <text syncTime="1502.454" offset="6146248">A reading of Section 709 which gives proper scope to the text and purpose of the Act, and a rule prescribed by Congress for this agency is not an answer which is found in the EEOC briefs in this case.</text>
+            <text syncTime="1517.631" offset="6206956">I think it would be helpful to start by looking at the statute and then consider the rules, and then examine why the rules cannot be reconciled with the statutory provision.</text>
+            <text syncTime="1530.891" offset="6260037">709(e) prohibits any officer or employee of the Commission from making public in any manner whatever any information obtained by the Commission pursuant to its investigative authority prior to suit.</text>
+            <text syncTime="1545.733" offset="6319387">In our view this language is clear and sweeping, and does not not admit of exceptions.</text>
+            <text syncTime="1550.869" offset="6339972">Public disclosure of any sort is banned.</text>
+            <text syncTime="1554.673" offset="6355123">The Commission, though, seeks to avoid the ban by carving out a rather large exception for charging parties and others, saying that they are not members of the public, except that its own rules belie this intention.</text>
+            <text syncTime="1569.349" offset="6413846">First of all, the rules state who can see investigative files.</text>
+            <text syncTime="1575.420" offset="6438192">Most simply, they allow a charging party, after 180 days, to see his investigative file.</text>
+            <text syncTime="1582.673" offset="6467136">But the charging party, and his lawyer if that may be the case, aren't the only ones who can see files.</text>
+            <text syncTime="1590.762" offset="6499528">Aggrieved persons can see their files.</text>
+            <text syncTime="1593.314" offset="6509768">Those filing on behalf of aggrieved persons can see the files.</text>
+            <text syncTime="1598.100" offset="6528889">Representatives of EEOC-funded groups, such as the Mexican-American Legal Defense and Education Fund, can see the files for the purpose of referring cases to private counsel for litigation.</text>
+            <text syncTime="1609.658" offset="6575074">Finally, the Commission argues that witnesses to Title VII proceedings may see the files.</text>
+            <text syncTime="1614.978" offset="6596390">What they can see, of course, further expands the scope of disclosure.</text>
+            <text syncTime="1620.032" offset="6616556">A charging party may see his own file, to be sure.</text>
+            <text syncTime="1622.650" offset="6627110">But he may also see related files.</text>
+            <text syncTime="1626.185" offset="6641216">These are files that according to the Commission allege a similar base of discrimination against the same employer.</text>
+            <text syncTime="1632.256" offset="6665457">For example, someone that's alleging national origin discrimination in one plant, let's say it's a clerical employee, that person may examine the file of another national origin claimant for the same employer in a different plant, maybe even in a different state, working as a factory mechanic.</text>
+            <text syncTime="1654.337" offset="6753856">They may even see unrelated files where in the Commission's view the treatment accorded one group is probative of the treatment accorded the charging party.</text>
+            <text syncTime="1664.310" offset="6793666">The disclosure thus authorized by these rules can grow to vast proportions when we're dealing with a sizeable company employing many employees.</text>
+            <text syncTime="1674.166" offset="6833164">Now, what is worse, I think, is the unauthorized disclosures.</text>
+            <text syncTime="1679.170" offset="6853121">Once these people obtain the information in these files, they can give the contents to anyone they please.</text>
+            <text syncTime="1686.308" offset="6881647">Now, the record in this case suggests that the EEOC says it cannot prevent this secondary disclosure, can only ask the recipients not to give it out.</text>
+            <text syncTime="1695.866" offset="6919890">We think that the Commission knows better.</text>
+            <text syncTime="1698.566" offset="6930757">We think that a proper interpretation of 709(e) bars publication to the charging party in the first place, and that eliminates the problem of the secondary disclosures.</text>
+            <text syncTime="1710.625" offset="6978927">Thus, in our view, really, this Court need not reach the precise issue of whether a particular charging party is a member of the public with respect to his own file, because clearly the totality of the rules which are sought to be enforced here authorize disclosure to the public.</text>
+            <text syncTime="1729.853" offset="7055831">Now even if the Court, though, reaches the narrow question, we think that the results should be the same, that the rule should be rejected.</text>
+            <text syncTime="1742.145" offset="7105046">The EEOC's contention seems to be grounded on an analogy between Section 706 and 709.</text>
+            <text syncTime="1753.802" offset="7151648">They say that since disclosure is contemplated between the parties under 706, the same contemplation should be followed with respect to 709.</text>
+            <text syncTime="1768.145" offset="7209013">I think the answer lies in the different congressional concerns that lay behind these statutes, these two sections.</text>
+            <text syncTime="1778.334" offset="7249764">706 deals with charges in conciliation information.</text>
+            <text syncTime="1785.589" offset="7278813">Now, it seems elementary to me that these types of information have to be communicated as between the originator and the charged party or vice versa.</text>
+            <text syncTime="1799.266" offset="7333565">Certainly someone who's being accused of a violation of Title VII is entitled to know that he's being accused of that violation.</text>
+            <text syncTime="1806.770" offset="7363554">This gives the agency jurisdiction; gives the respondent notice.</text>
+            <text syncTime="1813.341" offset="7389781">It justifies the intrusion of this government agency on the private affairs of a corporation and its employees.</text>
+            <text syncTime="1820.347" offset="7417888">I think it smacks of due process.</text>
+            <text syncTime="1822.799" offset="7427710">Conciliation is also in a sense a fancy word for negotiating an agreement.</text>
+            <text syncTime="1828.433" offset="7450176">In order to reach a meeting of the minds there obviously has to be communication on a two-way street, and I think Congress recognized this, so that there is some contemplated disclosure under 706 as between the parties to a proceeding.</text>
+            <text syncTime="1847.180" offset="7525199">But what about 709?</text>
+            <text syncTime="1848.780" offset="7531573">709 deals with investigations.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1852.484" stopTime="1861.757">
+            <label>Justice White</label>
+            <text syncTime="1852.484" offset="7546411">But even on your first point, are you suggesting that the conciliation process contemplates any kind of compulsory disclosure by either party?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="1861.757" stopTime="1872.981">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="1861.757" offset="7583505">No, sir, not at all.</text>
+            <text syncTime="1863.090" offset="7588834">In fact, that's one of the elements that I was about to address.</text>
+            <text syncTime="1867.327" offset="7605761">There is a question of volition which I will come to in a minute.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1872.981" stopTime="1881.235">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1872.981" offset="7628435">Would you question that disclosure would facilitate conciliation... laying aside the strictures of the statute, whatever they may be?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="1881.235" stopTime="1905.351">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="1881.235" offset="7661454">Well, it... not the disclosure advocated by my brother, but the disclosure which the charging party or the respondent wishes to have communicated to the other side.</text>
+            <text syncTime="1894.978" offset="7716416">It is a question of negotiating an agreement and what that person thinks is to his best advantage in achieving a negotiated settlement.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1905.351" stopTime="1917.343">
+            <label>Chief Justice Burger</label>
+            <text syncTime="1905.351" offset="7757898">Well, does that amount to saying that while litigation is conducted in a goldfish bowl, conciliation is to be conducted some other way?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="1917.343" stopTime="1933.436">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="1917.343" offset="7805859">Well, yes, I do believe that conciliation must be conducted privately in order to give the parties an opportunity to consider various proposals and weigh them without the pressure of public view on what they are doing.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1933.436" stopTime="1948.196">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1933.436" offset="7870225">Is it a question of privacy or a question of conciliation being conducted with full knowledge of all the facts?</text>
+            <text syncTime="1941.459" offset="7902303">It can be private too, can't it?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="1948.196" stopTime="2020.641">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="1948.196" offset="7929261">It can be... well, it should be conducted in private, yes.</text>
+            <text syncTime="1952.933" offset="7948174">But the question, the objective in a conciliation is remedy.</text>
+            <text syncTime="1957.318" offset="7965728">How shall we achieve equal employment opportunity and overcome whatever discrimination has been found?</text>
+            <text syncTime="1967.776" offset="8007524">And I think that's a significant consideration, because under the statutory scheme conciliation occurs after the Commission has made a determination of reasonable cause.</text>
+            <text syncTime="1978.714" offset="8051306">The issue of liability for administrative purposes has thus been resolved, and since that determination also under the Commissions's policy authorizes suit by the Commission should it desire to do so, there is a sufficient clout to impel a respondent to try to reach agreement before any legal action is taken.</text>
+            <text syncTime="2001.080" offset="8140749">I don't think it is necessary for a conciliation agreement to reexamine the whole investigatory record as the Commission would have it under these rules.</text>
+            <text syncTime="2010.703" offset="8179306">It is sufficient that appropriate information be exchanged to enable the parties to reach appropriate settlement.</text>
+            <text syncTime="2017.189" offset="8205219">The determination can determine the extent of liability.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2020.641" stopTime="2033.468">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2020.641" offset="8219012">Now, do you take the position that you don't have full disclosure in a conciliatory matter?</text>
+            <text syncTime="2028.147" offset="8249105">How can it be conciliatory without full disclosure?</text>
+            <text syncTime="2031.099" offset="8260912">How can you?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2033.468" stopTime="2045.276">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2033.468" offset="8270316">Well, I think it's quite possible, Your Honor.</text>
+            <text syncTime="2036.420" offset="8282124">I think it's the disclosure that is needed to accomplish the purpose of reaching agreement.</text>
+            <text syncTime="2043.257" offset="8309500">Not all the disclosure--</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2045.276" stopTime="2047.895">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2045.276" offset="8317546">Isn't it full disclosure?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2047.895" stopTime="2062.154">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2047.895" offset="8327995">--No, I don't believe that's absolutely necessary, not to the extent of disclosing particular documents in the investigative file, the nitty-gritty of the investigation conducted by the Commission.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2062.154" stopTime="2064.620">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2062.154" offset="8385046">Doesn't that prompt people to give it?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2064.620" stopTime="2067.539">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2064.620" offset="8394973">Pardon me?</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2067.539" stopTime="2100.962">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2067.539" offset="8406571">Suppose you're representing a business firm, and they negotiate... the people on the EEOC say, we have information that you are charged with discriminating against three female employees.</text>
+            <text syncTime="2086.020" offset="8480550">And them saying, we now have a charge; but, we have admissions from your staff that that is true.</text>
+            <text syncTime="2095.875" offset="8519942">Well, wouldn't the second one persuade you faster than the first one?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2100.962" stopTime="2103.295">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2100.962" offset="8540318">Well, if they are--</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2103.295" stopTime="2104.231">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2103.295" offset="8549617">Wouldn't it?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2104.231" stopTime="2173.542">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2104.231" offset="8553379">--Well, Your Honor is talking now about disclosure to the person whose agents have contributed to... have made these statements.</text>
+            <text syncTime="2116.122" offset="8600922">I am not suggesting that the Commission cannot show a charging party who has given a statement a copy of his own statement.</text>
+            <text syncTime="2125.895" offset="8640001">That I don't think is really the issue here.</text>
+            <text syncTime="2128.430" offset="8650137">Nor am I suggesting that the employers can't call up the Commission and say, listen, we gave you a seniority roster the other day.</text>
+            <text syncTime="2135.417" offset="8678140">I'd like to have a copy; I forgot to make one.</text>
+            <text syncTime="2137.218" offset="8685350">These originated with the parties themselves, so I don't see a problem in that sort of disclosure.</text>
+            <text syncTime="2145.224" offset="8717324">It's the communication of the basic investigative data to the other side.</text>
+            <text syncTime="2149.260" offset="8733519">And in response to the question, I don't think it's necessary to get into that sort of detail in executing agreement.</text>
+            <text syncTime="2156.347" offset="8761836">I mean, if this is what the Commission is telling the employer... listen, we've got the goods on you, and if we have to go to the suit on this, we're going to make it stick... well, I think that's, you know, that's fine.</text>
+            <text syncTime="2169.674" offset="8815126">They can make that sort of representation to the employer who gave that information.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2173.542" stopTime="2205.661">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2173.542" offset="8830590">Wouldn't it be within the authority of the Commission acting under its statutory authority to have a regulation that any information disclosed to the charging party or a complainant could not be made public without the approval of the Commission?</text>
+            <text syncTime="2197.157" offset="8925049">That is, to have a regulation that would implement Section 709(e)?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2205.661" stopTime="2210.048">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2205.661" offset="8959113">To the extent that it--</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2210.048" stopTime="2217.987">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2210.048" offset="8976667">That would meet your problem, wouldn't it?</text>
+            <text syncTime="2212.000" offset="8984504">That it would become public and be available to competitors and so forth?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2217.987" stopTime="2252.642">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2217.987" offset="9008432">--Well, I don't think a regulation that simply tracks the language of the statute is particularly necessary.</text>
+            <text syncTime="2225.658" offset="9039048">I certainly, you know, wouldn't personally have an objection to that sort of regulation.</text>
+            <text syncTime="2233.081" offset="9068827">But I do think when this regulation goes beyond the statute and starts in fact legislating, as we perceive this regulation to be doing, then I think the Commission has gone too far and has exceeded its statutory mandate.</text>
+            <text syncTime="2248.506" offset="9130476">I think the statute is pretty clear on its face and doesn't need particular elaborations.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2252.642" stopTime="2258.112">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2252.642" offset="9146986">Which particular words are you now relying on?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2258.112" stopTime="2260.998">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2258.112" offset="9168928">I'm referring, Your Honor, to the--</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2260.998" stopTime="2271.706">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2260.998" offset="9180422">"Shall be unlawful to make public? "</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2271.706" stopTime="2308.295">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2271.706" offset="9223263">--I'm concerned with the disclosure prior to the filing of any proceeding under the title.</text>
+            <text syncTime="2279.292" offset="9253670">I think that's where we are... the thrust in this case is directed.</text>
+            <text syncTime="2285.965" offset="9280315">It seems to me that the language is sufficient to implement the policies that Congress intended to include in here.</text>
+            <text syncTime="2297.689" offset="9327230">So I don't believe that there's an additional regulation that is essential here.</text>
+            <text syncTime="2307.212" offset="9365265">I hope I haven't--</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2308.295" stopTime="2325.488">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2308.295" offset="9369653">Well, now, specifically I gather that you think the provision in Regulation 1601.22 does not apply to</text>
+            <text syncTime="2316.882" offset="9404030">"such earlier disclosures to charged employees. "</text>
+            <text syncTime="2319.001" offset="9412494">et cetera, is beyond the authority of the Commission under 709(e) or of 706(b)?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2325.488" stopTime="2347.003">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2325.488" offset="9438408">--Yes, Your Honor.</text>
+            <text syncTime="2326.773" offset="9443528">I don't think they have that right to carve out the exception.</text>
+            <text syncTime="2330.208" offset="9457320">There has been no delegation by Congress for them to tamper with the statute in that regard.</text>
+            <text syncTime="2336.545" offset="9482607">What they have done, if I just may continue one second, it seems to me, is carve out an exception and then legislate within it.</text>
+            <text syncTime="2343.718" offset="9511341">And I think that's where they're at fault.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2347.003" stopTime="2385.378">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2347.003" offset="9524507">Going back to 709(e), would it not serve the purposes of the statute, that is, to protect against a general public disclosure, if the Commission provided in a rule or regulation that this early disclosure would be on condition that it's disclosed only to the party for the purposes of conciliation and could not be made public by that person?</text>
+            <text syncTime="2379.039" offset="9652612">Would that not carry out the protective aspects of 709(e)?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2385.378" stopTime="2401.655">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2385.378" offset="9678003">I don't believe it would, Your Honor.</text>
+            <text syncTime="2388.747" offset="9691482">I think that ultimately the charging party is in fact a member of the public and so that even the disclosure to him is improper.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2401.655" stopTime="2416.664">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2401.655" offset="9743100">Of course, he's a member of the public but he's a member of the public different from all other members of the public in the sense that he claims to have a complaint and may have a valid complaint that calls for a remedy.</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2416.664" stopTime="2766.344">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2416.664" offset="9803077">He may, he may not.</text>
+            <text syncTime="2419.449" offset="9814257">It's a judgment, though, I think, that Congress has made in terms of what rights this person ought to have And it has given him rather substantial rights.</text>
+            <text syncTime="2428.638" offset="9851038">However, it has drawn a line at one place, and the line it has drawn is the filing of an action, as we read this statute.</text>
+            <text syncTime="2438.346" offset="9889804">And thus to give him this disclosure before that occurs is simply not what Congress intended.</text>
+            <text syncTime="2446.667" offset="9923136">If the EEOC has problems with this statute... and from what, the comments of my learned opponent, he seems to suggest that they have, in terms of administering the statute... the remedy does not lie to my mind in cutting statutory corners or, indeed, in asking the courts to approve this kind of shorthand approach.</text>
+            <text syncTime="2470.382" offset="10018013">Rather, it lies in going back to Congress and saying, we can't function under the rules that you've given us; do something else.</text>
+            <text syncTime="2476.269" offset="10041523">And if they can persuade them, fine.</text>
+            <text syncTime="2478.655" offset="10051136">If they can't, they will have to just live with the situation as it is.</text>
+            <text syncTime="2483.209" offset="10069317">It seems to me that the charging party, though, as the EEOC has made clear, in fact is an agent of disclosure which is going to result in a general dissemination of information, and in fact he receives information from a variety of sources, even looking at his own file, because there is commingling or consolidation which occurs in these cases.</text>
+            <text syncTime="2510.292" offset="10177673">I would like to just point out that there are other aspects of the statute which call attention to the distinct, intense, "had".</text>
+            <text syncTime="2524.719" offset="10235351">I think reference was had earlier to the volitional element which I touched upon.</text>
+            <text syncTime="2529.321" offset="10253741">Certainly no one compels a party to file a charge or engage in conciliation.</text>
+            <text syncTime="2533.807" offset="10271714">As counsel has mentioned, there is some compulsory element in terms of investigative information, and Congress might properly take consideration of that in imposing a stricter limitation on the use of that information.</text>
+            <text syncTime="2546.282" offset="10321555">That might be the case with 706-type information.</text>
+            <text syncTime="2549.751" offset="10335453">The duration of the ban on disclosure also suggests different purposes.</text>
+            <text syncTime="2560.209" offset="10377353">Conciliation information which is traditional settlement type of information is put on a permanent ban.</text>
+            <text syncTime="2568.981" offset="10412357">It cannot be used in litigation later on.</text>
+            <text syncTime="2571.182" offset="10421239">I think this conforms to general understanding on settlement information throughout the law.</text>
+            <text syncTime="2576.218" offset="10441301">On the other hand, investigative data which Congress recognized might be of use to the charging party, or indeed, essential in this Title VII suit, is made available once he files his action.</text>
+            <text syncTime="2587.526" offset="10486545">I don't think it's too much to ask, or that it was arbitrary of Congress to impose the requirement at the filing of suit.</text>
+            <text syncTime="2593.780" offset="10511622">Finally, I would like to just address briefly some of the considerations of the EEOC in trying to justify this rule.</text>
+            <text syncTime="2602.619" offset="10546940">They say that these rules help their investigation or their conciliation.</text>
+            <text syncTime="2608.773" offset="10571599">I think the statements in the rules themselves contain the negation of that argument.</text>
+            <text syncTime="2616.128" offset="10600961">"The stated purpose of these rules is to cooperate with private Title VII litigants and to lend assistance in framing proper court complaints. "</text>
+            <text syncTime="2624.734" offset="10635443">I think that's as clear as can be.</text>
+            <text syncTime="2628.036" offset="10648608">That has nothing to do with investigation, it has nothing to do with conciliation, it has to do with litigation.</text>
+            <text syncTime="2633.757" offset="10671492">If that isn't clear enough, I think the reference to Kessler in the EEOC special disclosure rules furthers that conclusion.</text>
+            <text syncTime="2642.863" offset="10707959">"The charging party literally needs all the help he can get. "</text>
+            <text syncTime="2647.081" offset="10724781">said the Court in Kessler, in order to procure counsel, convince him that a right to action truly exists with evidence to support it, and to prepare and file suit within the statutory time period.</text>
+            <text syncTime="2658.472" offset="10770339">This goes to litigation.</text>
+            <text syncTime="2660.574" offset="10778803">It has nothing to do with the investigation or conciliatory functions.</text>
+            <text syncTime="2664.042" offset="10792595">In fact, if it were investigation that the Commission were concerned with, why does it put a bar on the disclosure to employers, of the information in these files?</text>
+            <text syncTime="2674.834" offset="10835750">And yet that prohibition is in the special disclosure rules.</text>
+            <text syncTime="2677.452" offset="10846303">Obviously, it's not concerned with having employers verify the statements of the complainants.</text>
+            <text syncTime="2682.754" offset="10867515">In short, I really think these rules are going to harm these processes.</text>
+            <text syncTime="2687.392" offset="10886009">As in this case, the employer knows this information is going to be turned over to his probable adversary.</text>
+            <text syncTime="2693.796" offset="10911609">He's not going to be willing to turn over vast amounts of employment data.</text>
+            <text syncTime="2699.799" offset="10935642">Rather, what will probably happen is he'll sit back, wait for subpoena enforcement proceedings, and then in the context of those proceedings seek to get a protective order which he probably was entitled to under the statute in the first place.</text>
+            <text syncTime="2712.440" offset="10986215">Now, will the Commission get its data eventually through these court proceedings?</text>
+            <text syncTime="2716.844" offset="11003874">In most cases I suspect it will; the definition of relevancy in investigations is quite broad.</text>
+            <text syncTime="2723.498" offset="11030414">But in the meantime, what happens?</text>
+            <text syncTime="2725.283" offset="11037624">There are long delays, there is needless expense, there is needless acrimony developed in terms of the administration, and meanwhile the charging party gets frustrated, says, this government agency is no better than any other I've dealt with, retains a private lawyer and files suit.</text>
+            <text syncTime="2746.696" offset="11123201">Now, that's not what Congress wanted in Title VII.</text>
+            <text syncTime="2749.815" offset="11135740">It wanted the peaceful resolution of Title VII complaints through the agency's own processes, investigation, determination, conciliation, cooperation, conference, and persuasion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2766.344" stopTime="2770.146">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2766.344" offset="11201882">And why aren't those purposes served by disclosure?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2770.146" stopTime="2800.081">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2770.146" offset="11217033">Because, Your Honor, the effect of the disclosures will be to impede the submission of the information to the Commission in the first place from the person who has it, the employer.</text>
+            <text syncTime="2783.203" offset="11269278">Because he's going to be concerned, as Associated and Horne's were in this case, that that information is going to be turned around and used against them in a lawsuit by that charging party.</text>
+            <text syncTime="2794.427" offset="11314208">And let us remember, it is primarily the function of the Commission to enforce the law.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2800.081" stopTime="2806.819">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2800.081" offset="11336778">Well, very soon after that, the information is obtainable, is it not, and may be used against them by the charging party?</text>
+          </turn>
+          <turn speaker="roger_s_kaplan" startTime="2806.819" stopTime="2980.499">
+            <label>Mr. Roger S. Kaplan</label>
+            <text syncTime="2806.819" offset="11363737">After suit is filed, Your Honor, it may be obtained and used.</text>
+            <text syncTime="2811.306" offset="11381709">But this is again, as I pointed out, is essentially a congressional decision.</text>
+            <text syncTime="2816.192" offset="11401248">There are lines drawn.</text>
+            <text syncTime="2818.259" offset="11409503">It sometimes may seem a little arbitrary, I suppose, to the charging party, saying, I can't get it on the 179th day because that time limit hasn't expired but on day 181 all I have to do is march into the Commission office with a complaint saying U. S. District Court&gt; ["], and I can get the information.</text>
+            <text syncTime="2840.642" offset="11499051">But also, there is the fact that the employer can get protection through the courts by taking a hard line, essentially, in these proceedings, because he knows he's not going to get the protection from the Commission.</text>
+            <text syncTime="2860.019" offset="11576582">So I'm not sure that this type of turnover facilitates the resolution of Title VII complaints in the manner that Congress intended.</text>
+            <text syncTime="2875.898" offset="11640008">Finally, I think that the section-by-section analysis of Title VII provides... further supports the conclusion that Congress did not want this kind of disclosure.</text>
+            <text syncTime="2898.245" offset="11729451">It states pretty clearly that recourse to the private lawsuit will be the exception and not the rule, and that the vast majority of complaints will be handled through the offices of the EEOC.</text>
+            <text syncTime="2909.386" offset="11773964">So... true... Congress gave the EEOC additional some additional authority in 1972 to put some teeth into the statute.</text>
+            <text syncTime="2919.075" offset="11812729">But its essential, overriding purpose remains the same.</text>
+            <text syncTime="2922.546" offset="11826626">It wanted the Commission to resolve these complaints to the extent possible through its own offices rather than through private litigation.</text>
+            <text syncTime="2931.818" offset="11863720">And the reason is quite clear.</text>
+            <text syncTime="2933.235" offset="11869363">I think this Court has recognized in some of its earlier decisions, the Commission is a public agency acting in the public interest.</text>
+            <text syncTime="2940.423" offset="11898202">It is not fundamentally concerned with the private interest of the private litigant and his narrow concerns.</text>
+            <text syncTime="2949.379" offset="11933937">It is trying to achieve overall compliance with the law.</text>
+            <text syncTime="2953.081" offset="11948775">And it is important to further that interest.</text>
+            <text syncTime="2955.767" offset="11959537">The rules are not calculated to do that.</text>
+            <text syncTime="2960.402" offset="11978032">They are calculated to short circuit the statutory process, force complainants out of the administrative process and into private lawsuits, and impede the functions of the Commission as Congress intended them.</text>
+            <text syncTime="2974.145" offset="12032994">For those reasons we ask that you affirm the decision of the Court of Appeals.</text>
+            <text syncTime="2979.732" offset="12055355">Thank you.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2980.499" stopTime="2984.536">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2980.499" offset="12058489">Thank you.</text>
+            <text syncTime="2981.750" offset="12063505">Do you have anything further, Mr. Sullivan?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="2984.536" stopTime="3039.604">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="2984.536" offset="12074581">I will be brief, Your Honor.</text>
+            <text syncTime="2990.190" offset="12097255">I would like first to comment on the possibility of a flood of litigation that will arise from the Court's upholding of the Commission's construction of the statute.</text>
+            <text syncTime="3009.668" offset="12175100">What I think is remarkable in this case is the fact that the Commission has been enforcing its understanding of the statute according to these regulations for the last 16 years, and as a matter of fact very, very few suits have been brought to resist the Commission's understanding of the statute.</text>
+          </turn>
+        </section>
+        <section startTime="2990.190" stopTime="3445.165">
+          <heading>Rebuttal of Barry Sullivan</heading>
+          <turn speaker="warren_e_burger" startTime="3039.604" stopTime="3044.325">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3039.604" offset="12294845">You're saying that for these years they have been making this early disclosure?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3044.325" stopTime="3046.777">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3044.325" offset="12313758">I'm sorry, Mr. Chief Justice?</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3046.777" stopTime="3052.347">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3046.777" offset="12323580">For all these years, they've been making the early disclosure that's now prohibited?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3052.347" stopTime="3054.064">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3052.347" offset="12345836">That's correct.</text>
+            <text syncTime="3052.664" offset="12347090">True, and--</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3054.064" stopTime="3062.636">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3054.064" offset="12352733">And no one has been prosecuted under the statute?</text>
+            <text syncTime="3057.483" offset="12366421">Under 709(e) they would be subject to prosecution if--</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3062.636" stopTime="3084.200">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3062.636" offset="12387005">--To my knowledge there have been no prosecutions under the statute.</text>
+            <text syncTime="3067.190" offset="12405186">However, there has also been no flood of employer litigation going into court to try to stop the Commission from enforcing the statute in this way.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3084.200" stopTime="3098.543">
+            <label>Justice Stewart</label>
+            <text syncTime="3084.200" offset="12473314">--There are two or three.</text>
+            <text syncTime="3087.770" offset="12487524">There's a decision of the Court of Appeals for the District of Columbia, isn't there, which says that the regulation is contrary to 709(e).</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3098.543" stopTime="3101.762">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3098.543" offset="12530679">That's correct, Your Honor.</text>
+            <text syncTime="3100.661" offset="12539142">That case--</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3101.761" stopTime="3107.831">
+            <label>Justice Stewart</label>
+            <text syncTime="3101.761" offset="12543531">If the law is against the Commission, why would anybody need to go any further?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3107.831" stopTime="3118.870">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3107.831" offset="12567773">--Well, that... there are three cases, Your Honor.</text>
+            <text syncTime="3111.449" offset="12582297">There are two cases which are against the Commission on defense on grounds that are not raised in this case.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3118.870" stopTime="3122.239">
+            <label>Justice Stewart</label>
+            <text syncTime="3118.870" offset="12611972">So once you do it once successfully that's the end of it; that's what the law is in that Circuit.</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3122.239" stopTime="3156.495">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3122.239" offset="12625451">And in the 5th Circuit the law is to the contrary.</text>
+            <text syncTime="3126.709" offset="12643319">However, those... the decision of the Court of Appeals for the 7th Circuit in Burlington and the Court of Appeals for the District of Columbia Circuit are cases that, as we point out in our brief, distinguishable, and do not in any way relate to the precise issue that's involved here, those cases involved Commissioner charges.</text>
+            <text syncTime="3150.241" offset="12737464">They did not involve single employee charges.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3156.495" stopTime="3168.453">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3156.495" offset="12762437">Mr. Sullivan, in any of these cases has the question ever arisen as to whether the employer has an implied private cause of action under the statute to institute litigation of this kind?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3168.453" stopTime="3173.106">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3168.453" offset="12810293">I don't believe it has, Mr. Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3173.106" stopTime="3174.806">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3173.106" offset="12828893">Does the Government concede there is such an implied--</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3174.806" stopTime="3196.389">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3174.806" offset="12835684">Well, we have, we will concede for the purposes of this case that because jurisdiction hasn't been briefed, or the cause of action hasn't been briefed, we will concede that the court below had jurisdiction probably under a theory like Chrysler v. Brown, relying on the Administrative Procedure Act, and in general--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3196.389" stopTime="3207.278">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3196.389" offset="12921993">--It is true that the exclusive provision in the statute relating to nondisclosure is a criminal penalty.</text>
+            <text syncTime="3203.476" offset="12950414">That's... it is using it basically.</text>
+            <text syncTime="3205.245" offset="12957415">That's the only prohibition on the remedy as to--</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3207.278" stopTime="3222.254">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3207.278" offset="12965565">--That's correct.</text>
+            <text syncTime="3207.761" offset="12967550">However, I would assume that in an appropriate case this issue could be raised, as my opponent has said, in an action that the Commission might bring to enforce a subpoena.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3222.254" stopTime="3227.158">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3222.254" offset="13025438">--But this was both a declaratory judgment action and resistance to a subpoena, wasn't it?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3227.158" stopTime="3228.741">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3227.158" offset="13045082">That's correct, Mr. Justice Stevens.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="3228.741" stopTime="3250.940">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="3228.741" offset="13051456">Mr. Sullivan, would you look at the Joint Appendix at page 20 and help me a bit with the facts.</text>
+            <text syncTime="3236.864" offset="13083952">Perhaps you'd better look first at page 19, which is an exhibit to the complaint?</text>
+            <text syncTime="3248.155" offset="13129092">The interrogatory?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3250.940" stopTime="3252.123">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3250.940" offset="13140272">Yes, Mr. Justice Powell.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="3252.123" stopTime="3254.908">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="3252.123" offset="13144974">Are they the interrogatories filed by the Commission?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3254.908" stopTime="3288.815">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3254.908" offset="13156050">This is an attachment to the Exhibit A, I believe, which is on page 17 and page 18, and these are the questions that were initially asked by the Commission of Joseph Horne.</text>
+            <text syncTime="3271.787" offset="13223655">Subsequently the questions were refined a bit and as they appear in the rider to the subpoena, they are reproduced at pages 40 through 42 of the Appendix.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="3288.815" stopTime="3342.116">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="3288.815" offset="13291678">Looking for the moment at the original ones, how many stores did those questions implicate?</text>
+            <text syncTime="3298.337" offset="13329817">It says, list the number of stores.</text>
+            <text syncTime="3301.122" offset="13340997">Then, for each attach a roster of each store having a tea room and food service.</text>
+            <text syncTime="3309.562" offset="13374747">And then dropping on down to 17, a roster of all food service personnel.</text>
+            <text syncTime="3316.566" offset="13402750">I think that goes back either to '71 or '69, with personnel information on each.</text>
+            <text syncTime="3322.970" offset="13428350">And then in 19, it requires a very extensive disclosure, apparently of a host of people who weren't involved in any way as charging parties.</text>
+            <text syncTime="3336.712" offset="13483312">Is that correct?</text>
+            <text syncTime="3337.429" offset="13486133">And are we talking about hundreds of people, or dozens, or thousands, or what?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3342.116" stopTime="3351.822">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3342.116" offset="13504941">Well, I haven't reviewed the materials that were actually produced in response to the subpoena so I'm not certain of what the answer actually is.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="3351.822" stopTime="3356.107">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="3351.822" offset="13543707">Would it make any difference whether there were two or three thousand people they wanted the records of?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3356.107" stopTime="3358.893">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3356.107" offset="13560844">I'm sorry, I didn't hear the last question.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="3358.893" stopTime="3376.104">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="3358.893" offset="13572024">Would it make any difference as to whether the information that would be sought and ultimately, perhaps, reach the public included just the charging parties and with whom they worked, or perhaps several hundred or several thousand other employees?</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3376.104" stopTime="3387.062">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3376.104" offset="13640883">Well, I think that the answer in this case is that there are very few stores that are actually involved, but I'm not certain.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3387.062" stopTime="3393.899">
+            <label>Justice Stewart</label>
+            <text syncTime="3387.062" offset="13684664">Apparently the Commission didn't know, because it asked the employer to list the number of stores the respondent has in Western Pennsylvania.</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3393.899" stopTime="3395.049">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3393.899" offset="13712040">That's correct.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3395.049" stopTime="3396.001">
+            <label>Justice Stewart</label>
+            <text syncTime="3395.049" offset="13716638">So we don't know--</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3396.001" stopTime="3397.068">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3396.001" offset="13720504">We don't know.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3397.068" stopTime="3399.203">
+            <label>Justice Stewart</label>
+            <text syncTime="3397.068" offset="13724788">--the answer.</text>
+            <text syncTime="3397.584" offset="13726773">And we don't know how many people there are.</text>
+          </turn>
+          <turn speaker="barry_sullivan" startTime="3399.203" stopTime="3443.149">
+            <label>Mr. Barry Sullivan</label>
+            <text syncTime="3399.203" offset="13733252">We don't know how many people there are.</text>
+            <text syncTime="3401.155" offset="13741088">However, I think that it's fair to say that in any Title VII case information has to be acquired concerning the whole class, whatever that relevant classification might be.</text>
+            <text syncTime="3416.997" offset="13804409">It might be the members of a particular department in a department store such as the tea room, or it might be several tea rooms might be amalgamated under one administration in four stores.</text>
+            <text syncTime="3433.274" offset="13869611">So that there's always the necessity for going beyond the immediate facts that the charging party has raised.</text>
+            <text syncTime="3441.363" offset="13901898">Thank you.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3443.149" stopTime="3445.165">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3443.149" offset="13909108">Thank you, gentlemen.</text>
+            <text syncTime="3444.165" offset="13913079">The case is submitted.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3445.165" stopTime="3451.335">
+            <label>Unknown Speaker</label>
+            <text syncTime="3445.165" offset="13917154">The honorable court is now adjourned until tomorrow at 10:00.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

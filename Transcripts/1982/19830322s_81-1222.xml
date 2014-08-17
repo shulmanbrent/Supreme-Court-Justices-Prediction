@@ -1,0 +1,35 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="485817">/xml/cases/1982/81_1222/19830322o_81-1222.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1982/trs/81-1222op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="98.347">
+        <title>United States v. Generix Drug Corporation</title>
+        <section startTime="0" stopTime="98.347">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="9.827">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92308">The judgments and opinion of the Court in United States against Generix Drug Corporation will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="9.827" stopTime="97.038">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="9.827" offset="131596">This case involves the government action to enjoin the distribution by Generix Corporation of certain drugs called, "generic drug".</text>
+            <text syncTime="20.924" offset="176004">The active ingredients in most prescription drugs constituted only a small proportion of the total product.</text>
+            <text syncTime="27.316" offset="201500">The inactive ingredients or excipients are most of the bulk of the product, and the term "generic drug" is used to describe a product that contains the same active ingredient as an approved drug but different -- but may have different inactive ingredients or excipients.</text>
+            <text syncTime="46.673" offset="278927">The Government brought this action to enjoin Generix from distributing in interstate commerce various generic drug products that contain the same active ingredients as approved drugs but not necessarily the same inactive ingredients.</text>
+            <text syncTime="62.231" offset="341203">The District Court found that the differences in the generic drugs from the approved products might promote a health -- might cause a health hazard and therefore, enjoined distribution of the drugs, and the Court of Appeals however, construed the term, "drug" to refer only to the active ingredient and therefore, reversed the District Court's injunction.</text>
+            <text syncTime="82.928" offset="423959">The question we had to decide is whether the word, "drug" in the statute includes merely the active ingredient or the entire product and we hold that the term does include the entire product and therefore, we reverse the judgment of the Court of Appeals.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="97.038" stopTime="98.347">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="97.038" offset="480383">Thank you, Justice Stevens.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

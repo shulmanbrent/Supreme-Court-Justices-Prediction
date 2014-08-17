@@ -1,0 +1,1562 @@
+<transcript>
+      <history>
+        <transcribed minutes="61">2008-10-05T13:00</transcribed>
+      </history>
+      <resources>
+        <audioFile size="">/xml/cases/2008/07_773/20081006a_07-773.mp3</audioFile>
+        <sourceFile>/data/sites/oyez.org/cases/2008/2008_07_773/07-773_20081006-argument.xml</sourceFile>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="daniel_r_ortiz" type="advocate" gender="male" path="/advocates/do/daniel_r_ortiz" image="/advocates/do/daniel_r_ortiz/thumbnail.jpg">Daniel R. Ortiz</speaker>
+        <speaker id="carter_g_phillips" type="advocate" gender="male" path="/advocates/cp/carter_g_phillips" image="/advocates/cp/carter_g_phillips/thumbnail.jpg">Carter G. Phillips</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3639.908">
+        <title>Vaden v. Discover Bank</title>
+        <section startTime="0.000" stopTime="1632.821">
+          <heading>Argument of Daniel R. Ortiz</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="6.070">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="28">We will hear argument next in Vaden v. Discover Bank.</text>
+            <text syncTime="4.785" offset="19150">Mr. Ortiz.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="6.070" stopTime="107.916">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="6.070" offset="24270">Thank you, Mr. Chief Justice, and may it please the Court: This case poses two substantive issues: First, whether section 4 of the Federal Arbitration Act impliedly repeals section 1331's "well-pleaded complaint" requirement?</text>
+            <text syncTime="19.394" offset="77559">Only if it does can a district court look through a petition to compel arbitration that itself contains no Federal question to ground Federal subject matter jurisdiction on a Federal question lurking somewhere in the dispute sought to be arbitrated.</text>
+            <text syncTime="33.202" offset="132835">And, second, if section 4 does repeal this part of section 1331, can a completely pre-empted State-law counterclaim in a pending State-court lawsuit furnish look-through jurisdiction?</text>
+            <text syncTime="45.425" offset="181631">Your Honors, at bottom this is ae dispute between two radically different conceptions of Federal question jurisdiction.</text>
+            <text syncTime="51.043" offset="204097">One view, Respondents', is so broad as to allow parties to compel arbitration in Federal court of nearly any dispute concerning credit card debt; and one, Petitioner's, narrowly confined subject matter jurisdiction to those disputes where the arbitration agreement itself arguably arises under Federal law.</text>
+            <text syncTime="71.993" offset="287897">But, Your Honors, the ordinary, the original meaning of section 4, the structure of the overall Federal Arbitration Act, and the purposes of the Federal Arbitration Act all militate strongly in favor of the Petitioner's view of subject matter jurisdiction here.</text>
+            <text syncTime="88.918" offset="355607">First, the language.</text>
+            <text syncTime="91.054" offset="364175">The words "save for such agreement", Your Honors, as the words "save for" themselves suggest, necessarily imply that the agreement exerts some negative effect on otherwise existing jurisdiction.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="107.916" stopTime="125.710">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="107.916" offset="431675">That simply means that you can't bring an action in Federal court because the agreement says you can't.</text>
+            <text syncTime="115.670" offset="462604">The agreement says you've got to arbitrate.</text>
+            <text syncTime="117.605" offset="470441">So if you throw the agreement out save for such agreement, the question is whether or not you could then bring the action in Federal court.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="125.710" stopTime="149.576">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="125.710" offset="502833">Your Honor, the -- those words "save for such agreement" were originally intended to refer to the hoary doctrine of ouster, which barred the Federal courts from subject matter jurisdiction in such suits.</text>
+            <text syncTime="141.487" offset="565945">The words "but for" suggest that the agreement itself somehow impairs jurisdiction.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="149.576" stopTime="161.967">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="149.576" offset="598232">Mr. Ortiz, why isn't section 2 of the Arbitration Act sufficient to take care of the ouster doctrine, whatever may have been left of it?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="161.967" stopTime="185.998">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="161.967" offset="647865">Your Honor, section 2 says that an arbitration agreement shall be valid, irrevocable, and enforceable.</text>
+            <text syncTime="168.704" offset="674823">At the time when section 2 was enacted, the Federal courts were still split between law and equity.</text>
+            <text syncTime="174.691" offset="698751">Section 2 by itself could well have made such arbitration agreements enforceable, but only in law.</text>
+            <text syncTime="181.345" offset="725396">Section 4, "save for such agreement", makes clear that there is no--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="185.998" stopTime="219.804">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="185.998" offset="743995">I'm not sure that I follow that, because it seems to me -- where did this doctrine of ouster come from?</text>
+            <text syncTime="194.169" offset="776701">It came from the courts.</text>
+            <text syncTime="195.871" offset="783492">The courts said, no, we won't enforce arbitration agreements if it would oust us of jurisdiction.</text>
+            <text syncTime="201.925" offset="807630">Why would a court reading section 2 not say, well, that rule never made any sense in the first place, so we're not going to follow it?</text>
+            <text syncTime="216.018" offset="864054">It's not any rule that Congress has imposed on the courts.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="219.804" stopTime="266.681">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="219.804" offset="879205">--Your Honor, section 2 by itself would not have made clear that in -- such agreements were enforceable in equity.</text>
+            <text syncTime="227.492" offset="909925">As Justice Story wrote in Tobey v. County of Bristol, bills in equity were thought in the Federal courts to be ill-founded in point of jurisdiction to support a motion to compel arbitration.</text>
+            <text syncTime="244.168" offset="976694">And so although under section 2 such an agreement might be enforceable in law -- damages might be available, penalty clauses might be enforced in law, a party might also be able to recover the expenses incurred in an arbitration that was revoked before the arbitration came to its conclusion -- that would not be clear that--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="266.681" stopTime="299.486">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="266.681" offset="1066660">That may have been the historic model.</text>
+            <text syncTime="269.264" offset="1077004">This was never a notion that Congress enforced on the courts.</text>
+            <text syncTime="275.620" offset="1102500">They imposed it on themselves.</text>
+            <text syncTime="278.403" offset="1113576">So my question remains why shouldn't the Court then say this agreement has been declared enforceable, the ouster doctrine didn't have much to recommend it in the beginning, but certainly not any more; we can change it?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="299.486" stopTime="317.946">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="299.486" offset="1197899">--No, Your Honor.</text>
+            <text syncTime="301.486" offset="1205945">It is true that Congress in the Federal Arbitration Act abrogated the ouster doctrine.</text>
+            <text syncTime="308.424" offset="1233635">The only question is whether section 2 would do so by itself or whether section 4 was necessary because of the division between law and equity at the time.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="317.946" stopTime="330.021">
+            <label>Justice David H. Souter</label>
+            <text syncTime="317.946" offset="1271773">I'm just not getting the -- I have never understood this argument and I still don't understand it now.</text>
+            <text syncTime="322.148" offset="1288596">What is it in the text of section 2 that would seem to leave it inadequate to touch equity as well as law?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="330.021" stopTime="339.960">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="330.021" offset="1320048">Your Honor, section 2 says that arbitration agreements shall be valid, irrevocable and enforceable, but it does not say how they could be enforced.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="339.960" stopTime="358.271">
+            <label>Justice David H. Souter</label>
+            <text syncTime="339.960" offset="1359858">Exactly.</text>
+            <text syncTime="340.693" offset="1362784">And why, therefore, would anyone -- why would anyone be drawing distinctions as to how?</text>
+            <text syncTime="346.114" offset="1384413">It would be enforceable in any way that an agreement might appropriately be enforced in the courts of the United States at the time -- or any courts, for that matter, at the time the act was passed.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="358.271" stopTime="372.162">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="358.271" offset="1433106">Your Honor, if Congress wanted to be very clear that ouster in all of its forms was no longer any kind of issue in enforcing arbitration agreements, it took the extra step in section 4.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="372.162" stopTime="378.732">
+            <label>Justice David H. Souter</label>
+            <text syncTime="372.162" offset="1488590">It -- it made a categorical statement in section 2.</text>
+            <text syncTime="375.780" offset="1503114">Why did it need to be any clearer than that?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="378.732" stopTime="388.355">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="378.732" offset="1514921">Well, because, Your Honor, it would be the case that arbitration agreements could be enforceable, but just not enforceable in the way that might be most helpful.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="388.355" stopTime="393.241">
+            <label>Justice David H. Souter</label>
+            <text syncTime="388.355" offset="1553373">Well, it could be, but why in the world would anyone draw that inference?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="393.241" stopTime="413.137">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="393.241" offset="1572913">Your Honor, because there were separate bars at law and equity at the time -- at the time of ouster.</text>
+            <text syncTime="400.912" offset="1603633">Under law, there was some room in some jurisdictions for there to be enforcement, not across the board.</text>
+            <text syncTime="408.751" offset="1634980">In equity there was an even higher standard at the time against jurisdiction.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="413.137" stopTime="445.608">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="413.137" offset="1652534">I have the same problem that Justice Souter does, especially since section 2 refers to equity.</text>
+            <text syncTime="421.993" offset="1687956">It says they will be irrevocable and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.</text>
+            <text syncTime="432.432" offset="1729752">Obviously this -- this section was meant to apply to equitable actions.</text>
+            <text syncTime="437.085" offset="1748351">You wouldn't dismiss them in law for a -- a ground that only existed in equity?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="445.608" stopTime="467.938">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="445.608" offset="1782415">But that particular section, Justice Scalia, is meant to refer to ordinary State contract doctrines in law and equity, which would make the overall contract unenforceable.</text>
+            <text syncTime="457.499" offset="1829958">The "save for" language is specifically directed at ouster, which is a jurisdictional doctrine rather than one of substantive contract law.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="467.938" stopTime="487.783">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="467.938" offset="1871754">I don't know.</text>
+            <text syncTime="468.655" offset="1874575">When it says they are enforceable and makes an exception only for grounds that enable revocation in law or in equity, I would -- I would think that the general command was meant to apply to both law and equity.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="487.783" stopTime="526.825">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="487.783" offset="1951061">Your Honor, the Respondents' view also doesn't take into account the other provisions of the Federal Arbitration Act itself.</text>
+            <text syncTime="495.036" offset="1980110">Under their view, the 4 of the agreement, since the rest of section 4 would accomplish exactly what they think the look-through doctrine that they are arguing for without those four critical words.</text>
+            <text syncTime="510.898" offset="2043535">Also, sections 203 and sections 205 show that when Congress wanted to expand subject matter jurisdiction, it knew how to do so clearly and unequivocally.</text>
+            <text syncTime="522.873" offset="2091496">And in fact, when Congress adopted Section 205 in 1970--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="526.825" stopTime="535.713">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="526.825" offset="2107274">I hate to interrupt you here, but would you explain why the words "save for such agreement" cut back on the jurisdiction?</text>
+            <text syncTime="533.311" offset="2133187">I didn't quite understand your point.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="535.713" stopTime="547.005">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="535.713" offset="2142800">--Justice Stevens, the point is that "save for such agreement" instructs a court to jump over the historical ouster doctrine.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="547.005" stopTime="557.144">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="547.005" offset="2188044">Doesn't it just instruct the court to decide whether, if there were no such agreements, would there be Federal jurisdiction in the underlying dispute?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="557.144" stopTime="558.461">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="557.144" offset="2228586">Yes.</text>
+            <text syncTime="557.577" offset="2230258">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="558.461" stopTime="560.563">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="558.461" offset="2233811">So in this case there would be.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="560.563" stopTime="572.286">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="560.563" offset="2242275">No, Your Honor, because the underlying dispute between the parties in this case is a -- concerns the arbitration agreement, not the underlying bank debt.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="572.286" stopTime="583.278">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="572.286" offset="2289086">No, it's not the underlying bank debt, but it is an underlying dispute over which this Federal -- if you had brought your class action as an original case, there would have been Federal jurisdiction.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="583.278" stopTime="584.794">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="583.278" offset="2333076">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="584.794" stopTime="587.213">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="584.794" offset="2339137">So then why doesn't the language read on this case?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="587.213" stopTime="599.104">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="587.213" offset="2348854">Well, Your Honor, the language in -- the language -- the particular language of section 4 is meant to say, save for such agreement but for the doctrine of ouster, setting aside the ouster doctrine whether there would be--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="599.104" stopTime="601.056">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="599.104" offset="2396397">The text says nothing about the ouster doctrine.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="601.056" stopTime="604.025">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="601.056" offset="2404234">--No.</text>
+            <text syncTime="601.523" offset="2406115">But read in its historical context, Your Honor--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="604.025" stopTime="605.958">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="604.025" offset="2416041">Rather than literally.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="605.958" stopTime="619.133">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="605.958" offset="2423773">--Well, literally at the time it would have been understood to refer -- to refer to that, because ouster was the whole problem against which FAA itself was first enacted.</text>
+            <text syncTime="618.617" offset="2474451">FAA--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="619.133" stopTime="639.159">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="619.133" offset="2476541">This is a tough -- it's a tough sell.</text>
+            <text syncTime="621.233" offset="2484900">When you say "save for such agreement", which I agree with Justice Stevens seems to me you've put the agreement aside and then you say right away then you look at the agreement to see if there is Federal jurisdiction and only the agreement, not through that.</text>
+            <text syncTime="635.791" offset="2543101">So you're throwing it out and then you bring it right back in.</text>
+            <text syncTime="638.541" offset="2554177">It seems--</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="639.159" stopTime="652.067">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="639.159" offset="2556580">--Not quite, Your Honor.</text>
+            <text syncTime="640.076" offset="2560237">What -- the rest of that sentence in section 4 instructs the court to look at a suit concerning the subject matter in controversy, which would be a suit seeking specific performance of the arbitration.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="652.067" stopTime="653.234">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="652.067" offset="2608198">--Of the arbitration agreement?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="653.234" stopTime="674.249">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="653.234" offset="2612900">Yes, sir.</text>
+            <text syncTime="653.836" offset="2615303">So you are -- what the court is instructed to do under the "save for such agreement" clause is to ignore the historical problem of ouster and then to see whether in a suit brought to specifically enforce the arbitration agreement, there would be Federal subject matter jurisdiction.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="674.249" stopTime="688.407">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="674.249" offset="2697014">Right.</text>
+            <text syncTime="674.582" offset="2698268">And I guess it's -- I mean, you say if it said save for the historic doctrine of ouster, then it would be easy to say, and then you look at the arbitration agreement.</text>
+            <text syncTime="683.605" offset="2734421">But it says "save for such agreement" and then you look at the agreement.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="688.407" stopTime="708.101">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="688.407" offset="2753648">Well, you're not quite looking at the agreement.</text>
+            <text syncTime="691.009" offset="2763992">And this makes clear, I believe, that ouster was the problem being referred to in those four words in section 4.</text>
+            <text syncTime="697.746" offset="2790950">It says a suit arising out of a controversy.</text>
+            <text syncTime="700.115" offset="2800459">It's instructing the Federal courts to determine Federal subject matter jurisdiction for a section 4 proceeding, which was completely novel at the time.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="708.101" stopTime="732.484">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="708.101" offset="2832328">You just -- you just used the words "arising out of the controversy".</text>
+            <text syncTime="713.422" offset="2853644">"The controversy" is used in several sections of the Arbitration Act, and "the controversy" in other contexts means the underlying dispute between the parties.</text>
+            <text syncTime="724.996" offset="2899933">"The controversy" is not over the enforcement of the arbitration agreement.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="732.484" stopTime="793.140">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="732.484" offset="2929922">With all respect, Justice Ginsburg, it's a little bit more complicated than that.</text>
+            <text syncTime="736.888" offset="2947476">The Federal Arbitration Act uses the word 2, once in section 4 and once in section 5.</text>
+            <text syncTime="745.310" offset="2981226">In section 2, the word "controversy" is embedded in a larger phrase:</text>
+            <text syncTime="749.445" offset="2997736">"Controversy arising out of such contractor transaction. "</text>
+            <text syncTime="753.047" offset="3012155">It is that context for the word 2, both instances in section 2, it is referring to the dispute which is sought to be arbitrated.</text>
+            <text syncTime="764.855" offset="3059385">In section 5, by contrast, the simple word which appears the middle of 4A of the Petitioner's brief, either -- section 5, which deals with the appointment of arbitrators or umpires, it says 5 context that the word "controversy" by itself refers to the controversy over arbitration, not to the underlying dispute.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="793.140" stopTime="798.611">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="793.140" offset="3172547">In Moses H. Cone, didn't the court say that the controversy was the underlying dispute?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="798.611" stopTime="882.913">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="798.611" offset="3194386">Your Honor, that -- this Court, in that footnote 32 of Moses H. Cone, mentioned language that refers to the underlying dispute.</text>
+            <text syncTime="810.752" offset="3242973">In the context of both the sentence, the footnote itself, and the overall case, it is clear that the Court could not have meant that.</text>
+            <text syncTime="819.858" offset="3279440">That phrase is followed immediately by a semicolon and then the word "hence".</text>
+            <text syncTime="824.643" offset="3298562">And after the word "hence" in that same sentence in the same footnote, this Court says,</text>
+            <text syncTime="830.130" offset="3320505">"Hence an independent basis for jurisdiction needs to exist. "</text>
+            <text syncTime="834.415" offset="3337641">which in context makes it clear that it's not referring to look through.</text>
+            <text syncTime="837.717" offset="3350807">Also that sentence cites a Fifth Circuit case, Commercial Metals Company, and the other -- points to the other cases in it.</text>
+            <text syncTime="846.306" offset="3385184">They basically show that an independent -- stand for the proposition that an independent basis of jurisdiction exists, not that there is look through.</text>
+            <text syncTime="853.559" offset="3414232">And, in fact, one of them dealing with Federal-question jurisdiction says that the Federal issue has to appear on the face of the complaint.</text>
+            <text syncTime="860.649" offset="3442549">The rest of footnote 32, Your Honor, is all directed towards -- towards the jurisdictional inertness of the FAA overall.</text>
+            <text syncTime="869.838" offset="3479329">And the case of Moses H. Cone, itself, if look through had been rigorously adopted there, it would have defeated subject-matter jurisdiction because there would not have been complete diversity among the parties.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="882.913" stopTime="895.886">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="882.913" offset="3531679">But you do think -- you do think we should look through to determine diversity and the amount in question?</text>
+            <text syncTime="889.317" offset="3557279">In other words, not in the Federal-question context, but if it's diversity, you say we do look through the arbitration agreement.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="895.886" stopTime="950.104">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="895.886" offset="3583506">Your Honor, that seems a somewhat different sense of look through; but, to the extent that ordinary, background 1331 or 1332 principles authorize such look through, that is appropriate in arbitration cases as much as it is appropriate outside of arbitration cases.</text>
+            <text syncTime="913.062" offset="3652260">It is Petitioner's contention that section 4 has no independent look-through force.</text>
+            <text syncTime="920.335" offset="3681308">To the extent that look through is appropriate, it is because it is appropriate under section 1332, itself.</text>
+            <text syncTime="925.120" offset="3700430">If under Respondents' view section 4 operates independently to authorize look through, then it would presumably override 1332's normal principle that you do not look through in determining complete diversity.</text>
+            <text syncTime="940.998" offset="3763959">And it would have the overall effect of paradoxically reducing the number of petitions to compel on the diversity side that could be brought in Federal court.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="950.104" stopTime="951.973">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="950.104" offset="3800426">Say that again.</text>
+            <text syncTime="950.954" offset="3803770">I didn't follow that.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="951.973" stopTime="1003.553">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="951.973" offset="3807845">The -- the point is a simple one, but it's sometimes hard to express.</text>
+            <text syncTime="957.191" offset="3828743">If you -- if this Court says that section 4 operates independently to authorize look through in section 1331 and section 1332, the courts, district courts, will be in the position of looking through section 1332 petitions to determine whether the parties are completely diverse.</text>
+            <text syncTime="975.486" offset="3901886">It will not be basing the complete diversity determination on the parties before it in the arbitration -- in the petition to compel, itself, but it will be looking through to the underlying dispute.</text>
+            <text syncTime="987.793" offset="3951101">Now, in Moses H. Cone, if the Court had done that, it would have picked up the architect who was dropped from the actual -- between the actual underlying lawsuit and the petition to compel arbitration, and completeness of diversity would have been defeated there.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1003.553" stopTime="1008.457">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1003.553" offset="4014212">Is that point argued in Moses -- Moses Cone?</text>
+            <text syncTime="1006.088" offset="4024348">Was that point argued in that case?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1008.457" stopTime="1012.326">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1008.457" offset="4033752">I do -- I do not know, Your Honor.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1012.326" stopTime="1019.847">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1012.326" offset="4049321">Why -- why wouldn't 1332 require complete diversity and require the court to assure itself of that anyway?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1019.847" stopTime="1030.703">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1019.847" offset="4079414">No, Your Honor.</text>
+            <text syncTime="1020.764" offset="4083071">The question -- 1332 does not authorize look through for purposes of determining completeness of diversity, so if section 4 independently authorizes--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1030.703" stopTime="1034.155">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1030.703" offset="4122777">I thought you said it did have a look through, an automatic look through, itself.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1034.155" stopTime="1041.642">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1034.155" offset="4136570">--Not under the completeness of diversity, Your Honor.</text>
+            <text syncTime="1036.021" offset="4144093">To the extent it has anything equivalent to look through, it's on the amount-incontroversy side of Section 1332.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1041.642" stopTime="1044.244">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1042.142" offset="4168544">I see.</text>
+            <text syncTime="1042.644" offset="4170529">You are -- you are -- you are limiting it to the amount.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1044.244" stopTime="1056.485">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1044.244" offset="4176903">Yes.</text>
+            <text syncTime="1044.744" offset="4178993">So, under Respondents' view, there would be -- section 4 would authorize a look through one part of section 1332 and not with respect to another part of section 1332 under--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1056.485" stopTime="1065.174">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1056.485" offset="4225909">I am not -- I mean just -- I have to be sure I follow.</text>
+            <text syncTime="1059.271" offset="4237089">Why couldn't it require the same look through in a diversity case as it does in a Federal-question case?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1065.174" stopTime="1079.767">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1065.174" offset="4260704">--Because, Your Honor, if this Court authorizes look through in Federal-question cases through the arbitration agreement, itself, to the underlying dispute, then if that look -- and that look through comes -- authorization comes from Section 4--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1079.767" stopTime="1080.367">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1079.767" offset="4319009">Right.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1080.367" stopTime="1088.290">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1080.367" offset="4321412">--then in 1332 cases, this Court would be looking through not only for amount-in-controversy purposes--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1088.290" stopTime="1088.840">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1088.290" offset="4353177">Complete diversity.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1088.840" stopTime="1089.742">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1088.840" offset="4355372">--but also for complete diversity.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1089.742" stopTime="1090.442">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1089.742" offset="4358924">What's wrong with that?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1090.442" stopTime="1104.149">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1090.442" offset="4361746">Well, that would have the effect, Your Honor, of not allowing the petitioner to define the contours of the lawsuit and would actually reduce the number of section 1332 petitions that could be brought in Federal court.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1104.149" stopTime="1105.351">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1104.149" offset="4416603">Maybe it would.</text>
+            <text syncTime="1104.834" offset="4419319">So what?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1105.351" stopTime="1126.415">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1105.351" offset="4421409">Well, Your Honor, if that is -- that is an implication that is -- is lurking in Respondents' position, and it is also -- in a case like this it is a little bit worrying as to why ordinary section 1332 principles should not apply.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1126.415" stopTime="1134.937">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1126.415" offset="4505628">There is a dispute between people.</text>
+            <text syncTime="1128.533" offset="4514092">You look at their underlying dispute, the underlying one, and you say: Is there diversity?</text>
+            <text syncTime="1132.818" offset="4531228">What's the problem?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1134.937" stopTime="1138.555">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1134.937" offset="4539692">Well, Your Honor, that's not actually the way you use Federal -- lower Federal court now.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1138.555" stopTime="1158.768">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1138.555" offset="4554216">Why -- why wouldn't you do just what I said, just what we started with?</text>
+            <text syncTime="1143.007" offset="4571979">You take out the arbitration agreement, and then you look to see what this dispute is about.</text>
+            <text syncTime="1148.927" offset="4595698">And if it's about something that happens to involve all people from one side in one State and from another State on the other side, there is jurisdiction.</text>
+            <text syncTime="1156.433" offset="4625687">Why is that a problem?</text>
+            <text syncTime="1157.783" offset="4631120">I don't understand.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1158.768" stopTime="1168.741">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1158.768" offset="4635091">Your Honor, it -- it removes the Petitioner's ability or the plaintiff's ability or the -- similar to the plaintiff's ability in an ordinary lawsuit to define--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1168.741" stopTime="1169.324">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1168.741" offset="4674901">Why?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1169.324" stopTime="1169.860">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1169.324" offset="4677305">--the parties.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1169.860" stopTime="1170.426">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1169.860" offset="4679395">Why?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1170.426" stopTime="1186.119">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1170.426" offset="4681693">Well, because, Your Honor, someone could not bring a section 4 petition in Federal court against maybe one party seeking to force that party into arbitration if there are other parties involved in the underlying dispute where there is no diversity.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1186.119" stopTime="1197.941">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1186.119" offset="4744492">All right.</text>
+            <text syncTime="1186.669" offset="4746686">So you define "look through" as -- under our hypothetical here as looking through to all people who might potentially be parties under this arbitration agreement.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1197.941" stopTime="1207.231">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1197.941" offset="4791721">Well, that would be the implication of taking the kind of look-through theory that Respondents are arguing for in this case and applying it evenhandedly.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1207.231" stopTime="1212.867">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1207.231" offset="4828919">I will think about that.</text>
+            <text syncTime="1208.215" offset="4832786">I'm -- I'm -- I wasn't -- it wasn't clear to me that that was so.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1212.867" stopTime="1220.140">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1212.867" offset="4851489">But, Your Honor, there are also several jurisdictional gaps in the act that are created under Respondents' view.</text>
+            <text syncTime="1219.306" offset="4877194">The critical--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1220.140" stopTime="1250.325">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1220.140" offset="4880537">Can I hold up just a second to make sure I understand it.</text>
+            <text syncTime="1222.425" offset="4889628">You are saying that, let's say, Person A has an arbitration agreement that implicates Persons B and C.</text>
+            <text syncTime="1230.579" offset="4922333">C is diverse, but B is not.</text>
+            <text syncTime="1233.381" offset="4933514">They could decide to compel arbitration with respect to B and leave C out of it.</text>
+            <text syncTime="1239.268" offset="4957024">But if you follow the look-through doctrine, you would say, well, the dispute is between A and B and C; and so you would be depriving A of their right to frame their own complaint in a way that doesn't create Federal jurisdiction.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1250.325" stopTime="1251.159">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1250.325" offset="5001328">--Exactly, Your Honor, and that--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1251.159" stopTime="1286.833">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1251.159" offset="5004567">But that's not quite so, because the -- the action could proceed with just A and C, and then it -- it could come to a complete judgment as to them.</text>
+            <text syncTime="1263.419" offset="5053677">In the look through for the -- the claims that are involved, the action couldn't possibly proceed without taking account of the pre-emption claim that the Federal -- the Federal claim.</text>
+            <text syncTime="1274.025" offset="5096100">You couldn't -- you could decide the case completely in No. 1, the diversity case, but not in No. 2.</text>
+            <text syncTime="1280.679" offset="5122640">So there -- so there is a difference.</text>
+            <text syncTime="1283.231" offset="5132880">It's true, you don't decide it completely as to all parties.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1286.833" stopTime="1302.727">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1286.833" offset="5147300">--When the -- no, Your Honor.</text>
+            <text syncTime="1287.635" offset="5150539">But there -- there could under your situation be large parts of the underlying dispute that are not covered under -- and still left to be decided.</text>
+            <text syncTime="1296.390" offset="5185543">It is, you know, not the case that necessarily everything would be subject to arbitration.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1302.727" stopTime="1327.410">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1302.727" offset="5210934">Of course, I suppose how that works depends on what the rules are about how you frame the dispute once you do look through.</text>
+            <text syncTime="1310.114" offset="5240400">I mean, if there is a pending State suit between A and B, even though C may -- you could have sued C as well, I mean the judge can say, well, I am only going to look through to what the -- the actual litigation is; and if I look at that, that's not a Federal case.</text>
+            <text syncTime="1323.874" offset="5295466">And -- and -- and so your position follows.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1327.410" stopTime="1479.304">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1327.410" offset="5309572">This Court could; and, interestingly, that wasn't the situation in Moses H. Cone, itself.</text>
+            <text syncTime="1332.313" offset="5329217">There, there was a preexisting lawsuit, and this Court did not look through.</text>
+            <text syncTime="1337.800" offset="5351159">The court found that there was no problem with the architect being absent from the petition to compel arbitration, itself.</text>
+            <text syncTime="1344.871" offset="5379476">Well, Your Honors, there is also, as I mentioned, strange jurisdictional gaps that are created under Respondents' view of this case.</text>
+            <text syncTime="1351.458" offset="5405808">Section 4 is the only section of the arbitration -- in the Federal Arbitration Act that has the critical 7, 9, 10, and 11, which allow a court, a Federal court, to compel the attendance of witnesses at ab arbitration.</text>
+            <text syncTime="1372.787" offset="5491176">That is Section 7; and then 9, 10, and 11, which respectively allow a Federal court to confirm, vacate, or modify an arbitration once it has happened.</text>
+            <text syncTime="1382.226" offset="5528897">None of those sections contain language which under Respondents' view or the Fourth Circuit's view are necessary for there to be look through.</text>
+            <text syncTime="1390.915" offset="5563587">In all those cases -- situations, Your Honor, the Federal courts would be in the position of being able to compel arbitration under section 4 but not being able to compel the attendance of witnesses at the arbitration or to subsequently confirm, vacate, or modify an award coming from an arbitration that they, themselves, compelled.</text>
+            <text syncTime="1412.428" offset="5649687">The closest Respondent comes to sort of explaining this or trying to jump or leap over this gap, are two amici, two law professors, who argue that this Court should find jurisdiction, subject matter jurisdiction under sections 7, 9, 10 and 11 as an emanation from sections 3 and 4, only one of which actually has the necessary "save for" language.</text>
+            <text syncTime="1436.877" offset="5747489">Also, Your Honors, this look-through approach to Federal subject matter jurisdiction violates the core purposes of the Federal Arbitration Act.</text>
+            <text syncTime="1448.518" offset="5794092">The Federal Arbitration Act was meant to get things to arbitration quickly and to have arbitrators, not judges, decide them.</text>
+            <text syncTime="1455.255" offset="5820946">These -- sometimes often complex jurisdictional inquiries undermine both those aims.</text>
+            <text syncTime="1462.711" offset="5850830">Here this case has been pending in Federal court just at the jurisdictional stage for many years now.</text>
+            <text syncTime="1468.429" offset="5873713">In the Strong case which is now en banc before the Fifth Circuit -- I'm sorry, the Eleventh Circuit -- Justice -- Judge -- excuse me, Judge Marcus wrote a 32-page opinion.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1479.304" stopTime="1499.384">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1479.304" offset="5917181">Yes, and what really leapt off the page at me in that opinion, he gets to the end, I think he basically presents your position and then he says: Thus, on my reading the relevant portion of section 4 could be rewritten this way.</text>
+            <text syncTime="1493.563" offset="5974232">Well, I mean that to me is a confession of error if you have to rewrite the statute to get to your position.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1499.384" stopTime="1514.527">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1499.384" offset="5997533">Well, Your Honor, he didn't say it had to be rewritten.</text>
+            <text syncTime="1501.169" offset="6004639">He said if you wanted to make it even clearer what was originally intended under section 4 that is how you would do it.</text>
+            <text syncTime="1507.573" offset="6030239">That's a far cry from saying that you need to do violence to the statute.</text>
+            <text syncTime="1514.144" offset="6056570">Here--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1514.527" stopTime="1518.964">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1514.527" offset="6058033">Well, his rewriting doesn't look very much like section 4 to me.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1518.964" stopTime="1569.564">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1518.964" offset="6075796">--Your Honor, if his rewriting, given the disappearance of the ouster doctrine -- he's trying to make it clear to present context what was originally understood at the time the Congress originally enacted the FAA.</text>
+            <text syncTime="1535.557" offset="6142252">There is no memory, historical memory or otherwise, of the ouster doctrine, no realization how it actually played out; and against that absence of knowledge, Judge Marcus is trying to educate his readers and the lower courts as to how things need to be done.</text>
+            <text syncTime="1554.119" offset="6216439">But certainly the language as originally understood would have -- that save-for language would have been all about, which it is clear from the time was thought by Congress to be the major obstacle to arbitration.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1569.564" stopTime="1578.086">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1569.564" offset="6278193">What about the fact that that was not included in the New Jersey statute, nor was it included in -- was it included in the Uniform Arbitration Act?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1578.086" stopTime="1579.536">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1578.086" offset="6312361">No, Your Honor.</text>
+            <text syncTime="1578.986" offset="6315914">Now--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1579.536" stopTime="1581.121">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1579.536" offset="6318108">What's the explanation for that?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1581.121" stopTime="1587.108">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1581.121" offset="6324482">--The explanation, Your Honor, is that in New York law and equity have been merged.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1587.108" stopTime="1593.929">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1587.108" offset="6348410">I know.</text>
+            <text syncTime="1587.525" offset="6350082">And you're saying New Jersey; it was, you know, a very complicated argument about the status of it.</text>
+            <text syncTime="1591.644" offset="6366591">What about the Uniform Arbitration Act?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1593.929" stopTime="1625.400">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1593.929" offset="6375682">By the later times it appeared that it was closer, coming -- the law and equity across many jurisdictions was coming closer, but at the time in the Federal court system at least, if only because of Justice Story's hostility towards jurisdiction, finding jurisdiction in the Tobey case to build equity seeking specific performance kinds of things, that language is necessarily clear.</text>
+            <text syncTime="1620.663" offset="6482679">Your Honors, if there are no further questions I would like to reserve my time for rebuttal.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1625.400" stopTime="1626.267">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1625.400" offset="6501592">Thank you, counsel.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="1626.267" stopTime="1631.971">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="1626.267" offset="6505040">Thank you.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1631.971" stopTime="1632.821">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1631.971" offset="6527819">Mr. Phillips.</text>
+          </turn>
+        </section>
+        <section startTime="1632.821" stopTime="3441.579">
+          <heading>Argument of Carter G. Phillips</heading>
+          <turn speaker="carter_g_phillips" startTime="1632.821" stopTime="1687.891">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1632.821" offset="6531267">Thank you, Mr. Chief Justice, and may it please the Court: It seems to me that if the argument that just ended doesn't prove anything, it suggests that perhaps the Court ought to follow the simple expedient of read the statute as it's written, apply it as written and come to what strikes me, at least, as a reasonably easy resolution of this particular case.</text>
+            <text syncTime="1651.433" offset="6605664">The statute says that a party aggrieved by the alleged failure to arbitrate -- and we have that precisely in this case because the other side has filed a lawsuit against our indemnitee arising out of an underlying dispute -- may petition any United States district court which, save for such an agreement -- it's pretty clear that everybody agrees that in this context you just simply put the agreement aside -- and then you say would have jurisdiction under Title 28 in a civil action of the subject matter of the suit arising out of the controversy between the parties.</text>
+            <text syncTime="1681.487" offset="6725932">It seems to me reasonably clear to interpret that language as saying you look to the underlying dispute between the parties.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1687.891" stopTime="1728.848">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1687.891" offset="6751532">But that's the question that I have, Mr. Phillips.</text>
+            <text syncTime="1690.593" offset="6762399">What is the underlying dispute between the parties?</text>
+            <text syncTime="1693.426" offset="6773684">It seems to me that your look-through argument is look-through only halfway.</text>
+            <text syncTime="1702.215" offset="6808792">That is, if you look -- if you consider the controversy, the suit that was brought in the State court, the controversy is here we have a customer who hasn't paid the amount charged.</text>
+            <text syncTime="1715.974" offset="6863858">So we have a suit on a debt.</text>
+            <text syncTime="1718.076" offset="6872322">Why isn't that the controversy?</text>
+            <text syncTime="1721.278" offset="6885070">You have to make the counterclaim the controversy, which comes up only defensively.</text>
+            <text syncTime="1727.015" offset="6908057">It wasn't brought as a lawsuit.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1728.848" stopTime="1773.927">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1728.848" offset="6915372">Justice Ginsburg, the language of section 4 actually talks about the subject matter of a suit arising out of, not the existence of a suit; and section 4 doesn't require that a lawsuit have been filed.</text>
+            <text syncTime="1740.090" offset="6960302">So it's not appropriate simply to say to yourself look at what litigation actually exists, because in as many cases as not there is not going to be any litigation ongoing.</text>
+            <text syncTime="1749.512" offset="6998023">So the court has to make the hypothetical: would the court have had jurisdiction over the subject matter of this dispute?</text>
+            <text syncTime="1756.451" offset="7025817">And the dispute in this case, which Professor Ortiz was very explicit about -- he said specifically that if he had brought this as an affirmative lawsuit it would have arisen under Federal law.</text>
+            <text syncTime="1767.390" offset="7069494">It seems to me that's as clear a concession that the nature of this dispute is a question of Federal law.</text>
+            <text syncTime="1773.311" offset="7093213">And therefore--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1773.927" stopTime="1813.454">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1773.927" offset="7095721">Who gets to frame -- who gets to frame the complaint?</text>
+            <text syncTime="1775.763" offset="7103035">Normally if you're a party and you have a dispute that may implicate Federal law, you have control over the complaint.</text>
+            <text syncTime="1781.833" offset="7127277">You don't have to have a -- you don't have to well plead it in a way that implicates a Federal question.</text>
+            <text syncTime="1787.387" offset="7149533">You can go out of your way to do it in a way that does not implicate a Federal question; and therefore it would not be, you could not bring it in Federal court.</text>
+            <text syncTime="1795.242" offset="7180985">Just as in the diversity example, you can specifically avoid suing people who would create diversity.</text>
+            <text syncTime="1800.996" offset="7203972">But in your position the judge has to in his mind write a complaint and see whether there is jurisdiction or not; and how does the judge decide whether to sue diverse parties or not to sue diverse parties?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1813.454" stopTime="1841.771">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1813.454" offset="7253814">--I think what the judge has to do is to take -- is to give the plaintiff in the section 4 complaint the benefit of his allegations.</text>
+            <text syncTime="1822.560" offset="7290177">And we have made an allegation here that the subject matter of this dispute arises under Federal law, and we did that not just based on our own assessment of the situation in the abstract, but we did that on the basis that she had filed a very specific claim against us asserting that we had violated essentially section 20.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1841.771" stopTime="1867.836">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1841.771" offset="7367081">But -- but she chose to assert it only defensively; and it's not a complaint -- the counterclaim if it had been brought as an independent action, everybody agrees qualifies for Federal jurisdiction.</text>
+            <text syncTime="1856.047" offset="7424132">But the litigant who has this claim is asserting it only as a defense to a claim that you admit does not qualify for Federal jurisdiction.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1867.836" stopTime="1885.214">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1867.836" offset="7471362">But Justice Ginsburg, I think the difference is that we are not seeking to remove her original lawsuit.</text>
+            <text syncTime="1874.092" offset="7496335">That's not -- if that were the case, then I think the argument you're making is a legitimate one.</text>
+            <text syncTime="1878.810" offset="7515248">All we are seeking to do is to assert our independent section 4 rights and that's not at all dependent on the--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1885.214" stopTime="1919.553">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1885.214" offset="7540848">But in the practical effect, what happens?</text>
+            <text syncTime="1887.482" offset="7549938">Now you have asserted that you can enforce because of the counterclaim that asserts -- that arises under Federal law.</text>
+            <text syncTime="1903.278" offset="7613050">But you say it's is not the same as removal because the underlying claim, your suit on the debt owed, remains in Federal -- State court; but what happens to that claim once you have this arbitration?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1919.553" stopTime="1959.179">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1919.553" offset="7678147">--Well, there are a couple possibilities.</text>
+            <text syncTime="1920.853" offset="7683372">I mean, first of all, the arbitration agreement is quite explicit in saying that if, if you -- if this starts off as litigation and then a subsequent claim is made by either of the parties, the parties have the right to enforce the arbitration as to that particular claim.</text>
+            <text syncTime="1935.832" offset="7743349">So that's specifically what we did in this particular case.</text>
+            <text syncTime="1939.284" offset="7757141">So in theory, at least the collection action would remain in State court as a State cause of action, although it would certainly be available to the Petitioner in this case to say, well, no, if you're going to arbitrate that portion of the case then I'm content to arbitrate the rest of the case as well.</text>
+            <text syncTime="1954.377" offset="7817432">So they could do it that way or we could arbitrate the Federal law.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1959.179" stopTime="1959.545">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1959.179" offset="7836658">Mr. Phillips--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1959.545" stopTime="1959.912">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1959.545" offset="7838121">I'm sorry?</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1959.912" stopTime="1970.353">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1959.912" offset="7839584">--Clear up one thing for me.</text>
+            <text syncTime="1961.197" offset="7844808">Is it correct, as Justice Ginsburg suggested, that the counterclaim was purely defensive?</text>
+            <text syncTime="1966.351" offset="7865393">Didn't it ask for additional relief?</text>
+            <text syncTime="1968.935" offset="7875737">The counterclaim, wasn't it a class action?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1970.353" stopTime="1972.839">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1970.353" offset="7881380">Oh, right.</text>
+            <text syncTime="1970.703" offset="7882738">Yeah -- no -- exactly.</text>
+            <text syncTime="1971.753" offset="7887022">That's absolutely true.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1972.839" stopTime="1977.557">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1972.839" offset="7891306">So it was not merely an defense to the action, the State court action.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1977.557" stopTime="1977.907">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1977.557" offset="7910219">Right.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1977.906" stopTime="1985.779">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1977.906" offset="7911577">I meant -- I didn't mean to say you couldn't get affirmative relief on a counterclaim.</text>
+            <text syncTime="1983.896" offset="7935610">Of course you could.</text>
+            <text syncTime="1984.812" offset="7939267">But this--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1985.779" stopTime="1987.598">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1985.779" offset="7943133">But I couldn't -- I couldn't remove it--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1987.598" stopTime="1989.148">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1987.598" offset="7950343">--Chose not to--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1989.148" stopTime="1990.883">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1989.148" offset="7956612">--I think that was the point she was trying to make.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1990.883" stopTime="2002.774">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1990.883" offset="7963509">--chose not to litigate the case, chose to -- well, I'm being sued, so I'm going to bring up this claim.</text>
+            <text syncTime="1999.322" offset="7997259">It wasn't as an original matter.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2002.774" stopTime="2019.902">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2002.774" offset="8011052">Right.</text>
+            <text syncTime="2003.258" offset="8013037">I -- I understand that, Justice Ginsburg, but the -- the -- but the point I am trying to make here is that the language of section 4 just talks about the subject matter of the controversy between the parties.</text>
+            <text syncTime="2012.230" offset="8048877">It doesn't specifically talk about an existing lawsuit, and frankly it doesn't envision the existence of a specific lawsuit.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2019.902" stopTime="2042.213">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2019.902" offset="8079597">The controversy between the parties is the credit card company says, customer, you're in default $10,000; and the customer said, if that's so, then I have certain offsets because they charged me too much interest.</text>
+            <text syncTime="2039.797" offset="8159114">How do you--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2042.213" stopTime="2042.749">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2042.213" offset="8168831">Well, in that--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2042.749" stopTime="2044.415">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2042.749" offset="8170921">--how do you -- it's all part of the same controversy, isn't it?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2044.415" stopTime="2061.442">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2044.415" offset="8177608">--But -- no -- well, I mean you could -- you can certainly view it as part of the same controversy, but the -- but the bottom line is, the question is: Would a Federal court have jurisdiction over the dispute that arises under Federal law between the Petitioner and the Respondents?</text>
+            <text syncTime="2059.859" offset="8239362">And the answer is clearly yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2061.442" stopTime="2069.245">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2061.442" offset="8245736">What is the dispute?</text>
+            <text syncTime="2062.675" offset="8250647">You say the dispute is not defined by what -- what has been brought in a complaint.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2069.245" stopTime="2071.531">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2069.245" offset="8276978">It's defined by our complaint in section 4.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2071.531" stopTime="2088.723">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2071.531" offset="8286069">But you -- from your argument, I would gather that a court would be able to imagine a counterclaim.</text>
+            <text syncTime="2079.785" offset="8319088">Once it finds out, you know, what -- what -- what the principal complaint is about, the court could imagine that there would be a counterclaim for interest or for something else.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2088.723" stopTime="2089.723">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2088.723" offset="8354823">Well, I'm not sure -- I'm not even sure--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2089.723" stopTime="2095.710">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2089.723" offset="8358898">It's very strange to decide Federal jurisdiction on the basis of -- of imagined -- imagined complaints.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2095.710" stopTime="2108.001">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2095.710" offset="8382826">--Well, I -- I mean the problem with that -- I mean the difficulty arises, Justice Scalia, because the language of the statute does say that the court has to determine whether it would have jurisdiction over the subject matter of the controversy.</text>
+            <text syncTime="2107.435" offset="8429742">And then that--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2108.001" stopTime="2112.421">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2108.001" offset="8431937">So the problem with his -- I mean with his interpretation, you don't have to imagine anything.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2112.421" stopTime="2119.492">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2112.421" offset="8449700">--Well, with his interpretation, you have to imagine everything.</text>
+            <text syncTime="2114.888" offset="8459522">In point of fact, you have to imagine that this had something to do with ouster when it doesn't use the word "ouster".</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2119.492" stopTime="2120.242">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2119.492" offset="8477912">Well--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2120.242" stopTime="2123.027">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2120.242" offset="8480942">It has to do with equity and law when it uses "equity" and "law" in other contexts.</text>
+            <text syncTime="2122.694" offset="8490764">And--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2123.027" stopTime="2127.264">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2123.027" offset="8492123">--You don't have to imagine complaints.</text>
+            <text syncTime="2124.979" offset="8499855">You -- you don't have to invent litigation.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2127.264" stopTime="2147.726">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2127.264" offset="8509050">--Well, no.</text>
+            <text syncTime="2128.014" offset="8512080">That's true, but what it -- but -- but the flip side of that is that this is a section, a fundamental provision, of the Federal Arbitration Act that apparently was designed to provide a basis of Federal jurisdiction for the Gila Indian Tribe claims.</text>
+            <text syncTime="2141.406" offset="8565579">It seems inconceivable to me that Congress had that narrow an interpretation of section 4 in mind when it passed this particular law.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2147.726" stopTime="2156.617">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2147.726" offset="8590866">It's close to inconceivable to me that Congress wanted us to -- to construct litigation that is not yet in existence.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2156.617" stopTime="2159.433">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2156.617" offset="8626392">But I think all of this really is talking -- I mean this is not significantly different--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2159.433" stopTime="2162.269">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2159.433" offset="8637677">--answer that the litigation does exist.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2162.269" stopTime="2162.604">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2162.269" offset="8649066">--Right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2162.604" stopTime="2178.614">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2162.604" offset="8650425">No, but your position is it doesn't have to exist.</text>
+            <text syncTime="2166.139" offset="8664531">Had that litigation not been brought, had the motion to arbitrate been brought before a lawsuit was filed, that the court would still have to consider what is the dispute between the parties and what kind of complaints could that dispute have generated.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2178.614" stopTime="2205.328">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2178.614" offset="8714477">And it may well be, Justice Scalia, that in that context the answer is that the court will say that the claim is unripe; that we don't know for sure whether or not this is going to congeal into a real dispute between the parties.</text>
+            <text syncTime="2190.172" offset="8760661">And if that's the case, obviously, then the court does not have to go forward.</text>
+            <text syncTime="2193.223" offset="8772887">But you don't have to worry about that in the context of this particular litigation because that dispute has congealed.</text>
+            <text syncTime="2198.360" offset="8793367">The parties are at loggerheads over the particular issue in this case.</text>
+            <text syncTime="2202.812" offset="8811235">And -- I'm sorry.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2205.328" stopTime="2226.325">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2205.328" offset="8821266">There would be nothing inappropriate about a State court entertaining that excessive interest claim, but applying Federal law to it.</text>
+            <text syncTime="2217.136" offset="8868495">I mean the -- 1831(d) says that Federal law governs the interest--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2226.325" stopTime="2226.660">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2226.325" offset="8905275">Right.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2226.660" stopTime="2234.164">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2226.660" offset="8906634">--Not state usury law.</text>
+            <text syncTime="2229.426" offset="8917710">So you could have this case going on in State court.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2234.164" stopTime="2234.730">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2234.164" offset="8936622">Right.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2234.730" stopTime="2238.032">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2234.730" offset="8938921">And the State court would be perfectly competent to apply the Federal law.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2238.032" stopTime="2244.019">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2238.032" offset="8952087">Right.</text>
+            <text syncTime="2238.282" offset="8953132">Although, you know, that's to the -- obviously, that sets aside the arbitration agreement completely.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2244.019" stopTime="2270.586">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2244.019" offset="8976015">Well, why does it set aside?</text>
+            <text syncTime="2245.169" offset="8980612">This is the thing I guess I don't understand about the case, and that is what is really driving your side, given the difficulties that I share with the Justices on my right and left here.</text>
+            <text syncTime="2257.427" offset="9029723">And the -- the tacit assumption seems to be that you in fact are going to get shortchanged on your arbitration right if you have to bring your arbitration claim in a State court.</text>
+            <text syncTime="2269.651" offset="9078624">And I don't see that.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2270.586" stopTime="2273.705">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2270.586" offset="9082281">Well, first of all, section 4 doesn't apply in--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2273.705" stopTime="2276.407">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2273.705" offset="9094820">I know section 4 doesn't, but section 2 does.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2276.407" stopTime="2278.990">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2276.407" offset="9105582">--To be sure, section 2 does, but whether or not--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2278.990" stopTime="2286.029">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2278.990" offset="9115927">You can -- based on the Federal act, you can in State court claim your right to enforce the arbitration agreement.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2286.029" stopTime="2287.779">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2286.029" offset="9144139">--Right, but the flip side of that is--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2287.779" stopTime="2290.481">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2287.779" offset="9151140">Why don't you do it in the State court instead of going through these gymnastics?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2290.481" stopTime="2297.321">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2290.481" offset="9161902">--Because we have serious doubts as to whether or not in fact we will have our Federal rights protected as zealously as we would in a Federal court.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2297.320" stopTime="2311.544">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2297.320" offset="9189279">Speaking of gymnastics, can I ask you if you had foreseen this problem, could you have brought a declaratory judgment action to establish that your Federal claim--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2311.544" stopTime="2311.830">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2311.544" offset="9246121">Yes.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2311.830" stopTime="2315.782">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2311.830" offset="9247270">--controls this dispute and could you have then said that you wanted this arbitrated?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2315.782" stopTime="2318.400">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2315.782" offset="9263153">Yes, Justice Kennedy.</text>
+            <text syncTime="2317.048" offset="9268168">I believe we could have done both of those.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2318.400" stopTime="2319.784">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2318.400" offset="9273602">Why didn't you do that?</text>
+            <text syncTime="2318.800" offset="9275169">Why are we here?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2319.784" stopTime="2322.686">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2319.784" offset="9279140">Well, because we brought the action under section 4, which I think--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2322.686" stopTime="2324.554">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2322.686" offset="9290738">I mean, could you still do that after this case?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2324.554" stopTime="2334.660">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2324.554" offset="9298157">--Assuming there's no statute of limitations issue, and I don't know that there would be, but that would available.</text>
+            <text syncTime="2329.589" offset="9318324">But it still seems to me that the bottom-line question is: Are you entitled to bring an action under section 4?</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2334.660" stopTime="2369.166">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2334.660" offset="9338595">So your theory -- I mean basically I think you concede that the other side has a point in sometimes it will be difficult to say what the dispute is precisely and, therefore, difficult to know if precisely this dispute does or does not -- one that you can get into Federal court on.</text>
+            <text syncTime="2354.823" offset="9419261">For example, it hasn't even arisen.</text>
+            <text syncTime="2356.506" offset="9426052">You know, there is no lawsuit.</text>
+            <text syncTime="2359.541" offset="9438173">And I guess what would happen, what the judge should say is they should say to you you'd like to have this in Federal court, wouldn't you, this dispute?</text>
+            <text syncTime="2367.797" offset="9471192">What's it about?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2369.166" stopTime="2369.833">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2369.166" offset="9476626">Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2369.833" stopTime="2379.989">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2369.833" offset="9479342">And once he says what's it about, both sides will say, well, basically it started off -- it's just about collecting some money from in-state parties.</text>
+            <text syncTime="2378.189" offset="9512779">So that's not Federal.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2379.989" stopTime="2380.305">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2379.989" offset="9519884">Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2380.305" stopTime="2400.132">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2380.305" offset="9521243">So that, you know, something could happen here.</text>
+            <text syncTime="2381.888" offset="9527512">It could happen that they could decide they want to sue in a big class action and get huge amounts of money under usury laws of the State which don't exist, so they have to proceed under an FDIC reg, and then it could be Federal.</text>
+            <text syncTime="2394.295" offset="9577145">And the judge might say to you:</text>
+            <text syncTime="2395.814" offset="9583205">"What? "</text>
+            <text syncTime="2396.197" offset="9584772">"You're just imagining. "</text>
+            <text syncTime="2397.880" offset="9591460">And that would be up to the judge.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2400.132" stopTime="2402.134">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2400.132" offset="9600550">Right, and the judge would have the discretion to decide--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2402.134" stopTime="2402.884">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2402.134" offset="9608492">It's a kind of a defense.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2402.884" stopTime="2403.418">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2402.884" offset="9611522">--Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2403.418" stopTime="2406.753">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2403.418" offset="9613612">But you'd say then it might be the case that it wouldn't be so hard to decide.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2406.753" stopTime="2415.775">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2406.753" offset="9626986">Right.</text>
+            <text syncTime="2407.622" offset="9630435">There could be a letter that says, look, what you're doing here violates Federal law, and if you don't stop it, we are going to take action against you.</text>
+            <text syncTime="2413.609" offset="9654363">And then we have to sit there and wait.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2415.775" stopTime="2418.111">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2415.775" offset="9663035">A real suit.</text>
+            <text syncTime="2417.811" offset="9671186">And--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2418.111" stopTime="2419.763">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2418.111" offset="9672439">But they are here.</text>
+            <text syncTime="2418.894" offset="9675574">They are here.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2419.763" stopTime="2433.904">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2419.763" offset="9679022">--And in a real suit, there is a class action brought not just on behalf of the one you're trying to sue but on behalf of everybody, where they have to proceed under a Federal reg, and they are going to get a huge amount of money, and you say that's what we want arbitrated.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2433.904" stopTime="2435.938">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2433.904" offset="9735551">And that's precisely what we've asked for here, Justice Breyer.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2435.938" stopTime="2437.954">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2435.938" offset="9743701">So this one is not so hard to figure out.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2437.954" stopTime="2438.254">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2437.954" offset="9751747">Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2438.254" stopTime="2439.323">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2438.254" offset="9753001">There might be some that are.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2439.323" stopTime="2441.656">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2439.323" offset="9757285">Right, and there's no question about that, and it's--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2441.656" stopTime="2472.092">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2441.656" offset="9766585">What's hard to figure out, you have, let's say, a franchisee, and you have a dispute with the franchisor.</text>
+            <text syncTime="2447.743" offset="9790931">And the franchisee says it's an antitrust violation, and I'm going to sue you under the California antitrust law, and he does.</text>
+            <text syncTime="2455.916" offset="9823636">And the Federal court says, we've looked through and says, well, you could have sued under the Federal antitrust law.</text>
+            <text syncTime="2460.736" offset="9842967">And you -- yes, I could have; I deliberately didn't.</text>
+            <text syncTime="2463.402" offset="9853625">And then they say, well, this is something that could have been brought in Federal court.</text>
+            <text syncTime="2466.538" offset="9866164">And that really deprives a plaintiff of his right to frame his complaint as he sees fit.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2472.092" stopTime="2478.614">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2472.092" offset="9888315">--And I understand that, Mr. Chief Justice.</text>
+            <text syncTime="2474.394" offset="9897510">And in the right case, you know, I'm not sure how I would come out in that particular--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2478.614" stopTime="2485.867">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2478.614" offset="9914438">Well, in his case, in the Chief Justice's case, wouldn't you say they don't get into court, probably don't because they are bringing this under a State law?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2485.867" stopTime="2487.553">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2485.867" offset="9943486">--You see, I would comply with the original complaint.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2487.553" stopTime="2492.588">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2487.553" offset="9950173">No.</text>
+            <text syncTime="2488.103" offset="9952368">But you just say, is the dispute one that could have been brought in Federal court?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2492.588" stopTime="2494.307">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2492.588" offset="9970340">Right.</text>
+            <text syncTime="2492.971" offset="9971907">Well, that's exactly what the Eleventh Circuit held.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2494.307" stopTime="2496.073">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2494.307" offset="9977236">It's a violation of the Sherman Act.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2496.073" stopTime="2496.459">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2496.073" offset="9984237">Right.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2496.459" stopTime="2497.742">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2496.459" offset="9985804">Of course, it could be brought in Federal court.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2497.742" stopTime="2519.858">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2497.742" offset="9990924">Well -- and in the right case, the Federal -- you know, if I had to go that far, I might well make that argument, Mr. Chief Justice, but in this case I don't have to go that far.</text>
+            <text syncTime="2505.265" offset="10021017">And I think all the Court needs to resolve is in a situation where the parties have a very concrete dispute between them, one that arises exclusively under Federal law, and a party seeks to have that claim arbitrated under section 4 pursuant to--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2519.858" stopTime="2523.643">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2519.858" offset="10079427">That claim doesn't--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2523.643" stopTime="2524.426">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2523.643" offset="10094578">Let me get one fact.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2524.426" stopTime="2525.126">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2524.426" offset="10097713">--I'm sorry.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2525.126" stopTime="2527.512">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2525.126" offset="10100430">Is the State court suit still pending?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2527.512" stopTime="2529.230">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2527.512" offset="10110043">Yes, the State court suit is pending.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2529.230" stopTime="2531.749">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2529.230" offset="10116939">So there are two separate underlying actions.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2531.749" stopTime="2538.236">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2531.749" offset="10126970">The State court has stayed its hand pending the outcome of the Federal litigation.</text>
+            <text syncTime="2535.784" offset="10143061">So we'll see what happens.</text>
+            <text syncTime="2536.884" offset="10147555">But, obviously, as I say--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2538.236" stopTime="2551.477">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2538.236" offset="10152884">--But there could be nothing left for the State court to do after you have the arbitration.</text>
+            <text syncTime="2542.604" offset="10170438">I mean, not that you arbitrate about interest due on a nonexistent debt.</text>
+            <text syncTime="2548.842" offset="10195306">I mean, you have to have the two things together.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2551.477" stopTime="2559.816">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2551.477" offset="10205860">--Well, I mean, in some ways, as I say, it seems to me that's Petitioner's right or potentially -- or ours.</text>
+            <text syncTime="2556.781" offset="10227071">I suppose either side could ask to have that arbitrated, but the truth is if you took--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2559.816" stopTime="2569.355">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2559.816" offset="10239192">I just can't envision a case where what you haven't effected is taking a case, a debt, simple debt, no diversity a State court case.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2569.355" stopTime="2569.805">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2569.355" offset="10277435">--Right.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2569.805" stopTime="2593.920">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2569.805" offset="10279212">And you remove the State court from the picture and gotten it over into Federal court to order the arbitration and any follow-up to the arbitration.</text>
+            <text syncTime="2581.427" offset="10325710">It just seems to me you have effected -- accomplished what you could not have accomplished by the -- by removal, which you admit that you can't remove on the basis of a counterclaim.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2593.920" stopTime="2663.078">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2593.920" offset="10375656">But see, Justice Ginsburg, I think that's not right.</text>
+            <text syncTime="2596.053" offset="10384224">I think that actually what happens is you eliminate what I perceive to be the Federal question in this through the arbitral process.</text>
+            <text syncTime="2601.505" offset="10405958">You still have the underlying collection action.</text>
+            <text syncTime="2603.623" offset="10414421">If the Court says, no, there is no violation of the usury laws, you have not overcharged, you have not made any mistakes, the question we still have is a claim on the debt and her obligation to pay it.</text>
+            <text syncTime="2613.229" offset="10452874">Now, whether she wants to adjudicate that in State court or resolve it as part of the arbitral process, that's really up to her as far as how that goes.</text>
+            <text syncTime="2621.001" offset="10484012">But the arbitration agreement could not be plainer in saying that you can divide up the claims for purposes of seeking arbitration, and that seems to fit perfectly well with an effort to say that there is a specific claim here that arises exclusively under Federal law, and that, therefore, we can enforce our arbitration rights pursuant to that section 4 right.</text>
+            <text syncTime="2639.980" offset="10559871">And that's, frankly, all we are trying to accomplish here, Justice Ginsburg.</text>
+            <text syncTime="2645.884" offset="10583486">The second part of the statute which is the -- you know, the one that has obviously created the greatest amount of controversy here, is, you know,</text>
+            <text syncTime="2653.306" offset="10613161">"would have jurisdiction over the subject matter. "</text>
+            <text syncTime="2655.675" offset="10622670">Again, it seems to me that this is the easiest case the Court is going to face in this area, because here is one where there is no question--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2663.078" stopTime="2672.969">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2663.845" offset="10655375">That's what worries me.</text>
+            <text syncTime="2665.180" offset="10660704">[Laughter]</text>
+            <text syncTime="2665.580" offset="10662271">If we accept your theory, this is the easiest case, what about the hard cases that are further down the line?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2672.969" stopTime="2714.546">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2672.969" offset="10691842">--Well, I think what's going to happen -- I candidly don't think they are going to come up that much, in part because these issues have been around a long time.</text>
+            <text syncTime="2678.338" offset="10713367">You know, it's not like there have been dozens of these kinds of issues arising over time.</text>
+            <text syncTime="2682.325" offset="10729249">I don't think it's likely to be that big a problem.</text>
+            <text syncTime="2684.209" offset="10736772">But again, it seems to me that district courts have the authority to resolve this, because if they don't believe that there really is a Federal claim that would justify exercise of section 4, they can say that.</text>
+            <text syncTime="2696.668" offset="10786614">If they do, then they will -- then they will send it.</text>
+            <text syncTime="2698.451" offset="10793824">I mean, look -- the other thing about this is, you know, the other side makes a big fuss about federalism, but we are not asking to take the issues away from the Federal court -- from the State courts to the Federal courts.</text>
+            <text syncTime="2709.226" offset="10836874">What we are asking for is what everybody has agreed to here, which is to have these disputes resolved by arbitration.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2714.546" stopTime="2718.498">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2714.546" offset="10858190">But you could have asked for that in the State court as well, and--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2718.498" stopTime="2733.492">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2718.498" offset="10873968">There is no question about that, Justice Ginsburg.</text>
+            <text syncTime="2721.967" offset="10887865">The problem is that there is some lack of confidence in the State courts that we will get the same treatment under section 4 that we would get in Federal court.</text>
+            <text syncTime="2731.925" offset="10927675">And Congress created that right.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2733.492" stopTime="2737.777">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2733.492" offset="10933945">Then bring that up here on appeal from the State court.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2737.777" stopTime="2742.848">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2737.777" offset="10951081">Well, I wish it were that easy to get this Court to grant review of everything that I bring up here in the first place.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2742.848" stopTime="2746.047">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2742.848" offset="10971352">You don't have any trouble.</text>
+            <text syncTime="2743.864" offset="10975427">[Laughter]</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2746.047" stopTime="2746.747">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2746.047" offset="10984204">I appreciate that.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2746.747" stopTime="2752.886">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2746.747" offset="10986921">It's not really -- of getting constants from Federal judges; the arbitrators can decide this question.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2752.886" stopTime="2753.203">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2752.886" offset="11011476">Right.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2753.203" stopTime="2755.320">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2753.203" offset="11012835">The arbitrator might decide there is no preemption.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2755.320" stopTime="2770.764">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2755.320" offset="11021298">Right.</text>
+            <text syncTime="2756.505" offset="11026000">But the -- and that's fine and we have to live with that.</text>
+            <text syncTime="2758.055" offset="11032165">And obviously, since we can't change the standards of review on the back end under sections 9, 10 and 11, we are going to be pretty much stuck with that -- with that determination.</text>
+            <text syncTime="2766.027" offset="11064035">But the truth is the bigger risk is that the trial judge, the State court will not send it to arbitration.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2770.764" stopTime="2781.203">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2770.764" offset="11083052">May I ask this, I haven't reread the Moses Cone case, but is your adversary correct in saying that there would have been no jurisdiction in that case it we followed your view?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2781.203" stopTime="2782.020">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2781.203" offset="11124743">No.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2782.020" stopTime="2785.524">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2782.020" offset="11128087">Because the arbitrator was not of diverse citizenship from the other parties?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2785.524" stopTime="2795.630">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2785.524" offset="11142088">I mean, It wasn't litigated.</text>
+            <text syncTime="2787.207" offset="11148776">It's not clear on the face of the opinion.</text>
+            <text syncTime="2788.809" offset="11155254">So if there is something he knows that I don't know, maybe.</text>
+            <text syncTime="2791.678" offset="11166644">But I -- I -- certainly nothing in there that reflects that -- that view of the world.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2795.630" stopTime="2801.034">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2795.630" offset="11182526">But -- if, in fact, were a nondiverse party in the Moses Cohen, there should have been no jurisdiction?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2801.034" stopTime="2852.049">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2801.034" offset="11204155">Well, now, the nondiverse party issue, it depends on how you read section 4.</text>
+            <text syncTime="2806.085" offset="11224322">You know, section 4 talks about the parties.</text>
+            <text syncTime="2808.520" offset="11234039">And the parties there I don't think means parties to the underlying controversy.</text>
+            <text syncTime="2811.822" offset="11247310">I think there parties refers specifically to the dispute in front of the court.</text>
+            <text syncTime="2815.209" offset="11260789">So I don't think the pass-through problem for 1332 applies in that particular context for complete diversity.</text>
+            <text syncTime="2821.780" offset="11287120">I don't think Congress envisioned you would look beyond the immediate dispute under section 4 to see whether there are additional parties, except to the extent, obviously, that you would have necessary and indispensable party litigation that might bring them in.</text>
+            <text syncTime="2836.040" offset="11344172">I think the assumption is you take the complaint as it's written, and then you look to see whether or not there is amount of controversy.</text>
+            <text syncTime="2842.360" offset="11369458">For that you have to go beyond because the dispute with respect to arbitration is not going to get you anywhere near that number.</text>
+            <text syncTime="2847.411" offset="11389625">And you have to look beyond for Federal questions to see whether or not there is a Federal issue there to be enforced.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2852.049" stopTime="2857.703">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2852.049" offset="11408224">Is this right?</text>
+            <text syncTime="2852.715" offset="11410836">I'm asking if it may sound favorable to you, then I'll get a good response in rebuttal.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2857.703" stopTime="2859.905">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2857.703" offset="11430794">I'm not going to give a good response?</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2859.905" stopTime="2873.379">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2859.905" offset="11439571">If you read it the other way -- if you read it the other way, the way the Petitioners want to read it, then is this so or not?</text>
+            <text syncTime="2865.559" offset="11462245">That then you look to see if there is Federal jurisdiction of the arbitration agreement; is that right?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2873.379" stopTime="2874.146">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2873.379" offset="11493488">Under their interpretation?</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2874.146" stopTime="2874.915">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2874.146" offset="11496518">Yes, under their interpretation.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2874.915" stopTime="2875.398">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2874.915" offset="11499652">Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2875.398" stopTime="2885.854">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2875.398" offset="11501533">So, what you could have is you could have two parties sign an arbitration agreement that lasts for a year that governs all disputes between them, and one is from Vermont; the other from California.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2885.854" stopTime="2886.337">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2885.854" offset="11543434">Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2886.337" stopTime="2897.209">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2886.337" offset="11545315">So there is jurisdiction.</text>
+            <text syncTime="2887.872" offset="11551479">And all the disputes happen to involve just pure matters of -- that never could come into Federal court.</text>
+            <text syncTime="2894.693" offset="11578751">I mean there are such matters you could argue about.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2897.209" stopTime="2897.895">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2897.209" offset="11588782">Sure.</text>
+            <text syncTime="2897.543" offset="11590141">Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2897.895" stopTime="2903.280">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2897.895" offset="11591604">But nevertheless, we have a Federal court issuing this injunction, under their theory.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2903.280" stopTime="2904.999">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2903.280" offset="11613128">Right.</text>
+            <text syncTime="2903.613" offset="11614382">Assuming the amount of--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2904.999" stopTime="2905.732">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2904.999" offset="11619920">Assuming they are right.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2905.732" stopTime="2910.600">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2905.732" offset="11622950">--Assuming the amount of controversy -- I mean, it could have an amount--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2910.600" stopTime="2914.671">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2910.600" offset="11642386">Oh, I see.</text>
+            <text syncTime="2911.636" offset="11646565">The arbitration agreement has to meet the amount in controversy.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2914.671" stopTime="2916.838">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2914.671" offset="11658686">--Right.</text>
+            <text syncTime="2915.221" offset="11660880">It has to have an independent basis for Federal jurisdiction.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2916.838" stopTime="2920.908">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2916.838" offset="11667359">All right.</text>
+            <text syncTime="2917.706" offset="11670807">So then probably no arbitration agreement in itself meets the amount.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2920.908" stopTime="2923.444">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2920.908" offset="11683659">Well, that's exactly our point.</text>
+            <text syncTime="2921.892" offset="11687525">That's why you have to look through.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2923.444" stopTime="2926.210">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2923.444" offset="11693795">So if you didn't look through, then this would apply to nothing?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2926.210" stopTime="2927.728">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2926.210" offset="11704766">Pretty much that's our view of the case.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2927.728" stopTime="2928.478">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2927.728" offset="11710931">If the arbitration--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2928.478" stopTime="2931.180">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2928.478" offset="11713857">Yes.</text>
+            <text syncTime="2929.311" offset="11717200">I'm sure my opponent will say something different than that.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2931.180" stopTime="2942.238">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2931.180" offset="11724724">--The arbitration agreement has to -- they talk about the arbitration agreement, then you could have really important Federal questions in substantive issues--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2942.238" stopTime="2942.621">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2942.238" offset="11768923">Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2942.621" stopTime="2955.713">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2942.621" offset="11770490">--that couldn't come in because the arbitration agreement doesn't?</text>
+            <text syncTime="2945.023" offset="11780103">Or you could have State questions that would suddenly come in because the arbitration agreement does.</text>
+            <text syncTime="2952.177" offset="11808733">The arbitration -- but now you're saying, well, that second case is never going to arise.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2955.713" stopTime="2956.398">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2955.713" offset="11822839">Probably not.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2956.398" stopTime="2960.783">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2956.398" offset="11825556">Probably not, because no arbitration agreement has -- so then it becomes a nullity of the statute?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2960.783" stopTime="2961.450">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2960.783" offset="11843110">Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2961.450" stopTime="2965.837">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2961.450" offset="11845827">Except to overcome the ouster.</text>
+            <text syncTime="2962.902" offset="11851574">Okay.</text>
+            <text syncTime="2963.402" offset="11853559">We've got your side of it.</text>
+            <text syncTime="2964.702" offset="11858784">[Laughter]</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2965.837" stopTime="3003.896">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2965.837" offset="11863277">Well, it makes a nullity of it, except that it gets into the Federal court the decision on the arbitration agreement, which was the object of this stuff, whatever -- whatever the underlying claim is, whether it's a Federal claim or not.</text>
+            <text syncTime="2980.296" offset="11921164">As I understood the purpose of the Arbitration Act, it was to make sure that arbitration was -- was honored not just in Federal cases but in State cases as well.</text>
+            <text syncTime="2990.652" offset="11962542">And it's entirely compatible with that, that sometimes a Federal court will -- will direct arbitration in a case this involves an underlying controversy that's purely non-Federal.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3003.896" stopTime="3078.158">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3003.896" offset="12015519">Oh absolutely.</text>
+            <text syncTime="3004.396" offset="12017608">I mean, you know, in a situation -- it depends on how you interpret it.</text>
+            <text syncTime="3007.681" offset="12030670">If you interpret it the way that the Petitioner does in saying that you can't have any look through -- now he softens that and says, well, no, you can have look through for diversity.</text>
+            <text syncTime="3018.204" offset="12072779">But if you accept the idea that section 4 only makes you look at the dispute at the arbitration level, then the reality is you're going to have no cases that are going to be covered, because you're never going to satisfy the amount in controversy.</text>
+            <text syncTime="3030.427" offset="12121680">And then the issue is why do you get to look through for diversity purposes and never get to look through for Federal question purposes?</text>
+            <text syncTime="3037.248" offset="12148952">And it -- it seems to me the much easier way to reconcile the language of the statute is to say, of course, you look through to see, particularly if you have an unquestioned Federal question dispute that's being litigated between the parties; we know that; there is not an issue before us.</text>
+            <text syncTime="3053.258" offset="12213004">In fact, he has conceded as much even here in court today.</text>
+            <text syncTime="3056.377" offset="12225439">And so, it seems to me that's the solution to this case.</text>
+            <text syncTime="3059.445" offset="12237768">Now admittedly, there will be other cases where you may have right in these questions, and there will be other cases where the parties will have to fight at the Federal district court level as to precisely what's at issue and what the plaintiff really means to be fighting over.</text>
+            <text syncTime="3073.254" offset="12293044">And it may be in some instances you won't get an order that directs arbitration.</text>
+            <text syncTime="3077.242" offset="12308926">But that's not this case.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3078.158" stopTime="3107.028">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3078.158" offset="12312583">--Why isn't it proper to look to see -- the party who wants arbitration has a dispute; the dispute is we are owed money by the debtor.</text>
+            <text syncTime="3087.264" offset="12349050">Why shouldn't the court say, well, we'll see what your case is about; if your case would qualify for Federal jurisdiction, fine.</text>
+            <text syncTime="3095.204" offset="12380815">But we are not going to look to see what the defendants cases is or might be.</text>
+            <text syncTime="3103.274" offset="12413102">We'll just look at your case and that's how we will define the controversy.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3107.028" stopTime="3129.108">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3107.028" offset="12428044">Well, there are two problems with that.</text>
+            <text syncTime="3108.428" offset="12433687">First of all, the statute talks about the subject matter of the controversy.</text>
+            <text syncTime="3112.129" offset="12448524">It doesn't talk about the specific controversy.</text>
+            <text syncTime="3114.081" offset="12456257">And second of all, the statute clearly envisions that there are going to be situations where there is no complaint, there is no underlying State court cause of action, and it still envisions in that situation that a district court is going to have to determine whether or not it would have jurisdiction.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3129.108" stopTime="3138.031">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3129.108" offset="12516443">But then you'll have not only a hypothetical claim, because nothing has been brought, but an hypothetical answer by way of counterclaim to that claim.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3138.031" stopTime="3146.720">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3138.031" offset="12552074">But it seems to me that's precisely what the language</text>
+            <text syncTime="3141.066" offset="12564195">"would have jurisdiction over the subject matter of the controversy. "</text>
+            <text syncTime="3144.101" offset="12576420">asks this Court to make a determination of.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3146.720" stopTime="3163.014">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3146.720" offset="12586869">So you would come into the court and say there is no suit going on anywhere, but if we were to bring this suit in State court, the defendant could have brought this Federal counterclaim?</text>
+            <text syncTime="3161.162" offset="12644652">That's a lot of hypothesis.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3163.014" stopTime="3187.880">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3163.014" offset="12652070">But it seems to me, Justice Ginsburg, the better way to think about this is what if we were getting letters from the Petitioner saying you are engaged in usurious conduct, you're outrageous, you got to stop what you're doing, we are going to bring a class action against you, you had better change your behavior tomorrow, and they don't sue us, and they don't sue us, and they don't sue us?</text>
+            <text syncTime="3180.893" offset="12723541">And then the question is are we entitled to go to court to get that resolved and are we entitled to have the resolution to that issue as a matter of arbitration?</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3187.880" stopTime="3194.633">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3187.880" offset="12751545">Mr. Phillips, the answer to a better hypothetical is what if there had been no original collection action but they had brought such an action.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3194.633" stopTime="3196.069">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3194.633" offset="12778503">Right.</text>
+            <text syncTime="3194.933" offset="12779757">Well, that's -- actually, you're right.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3196.069" stopTime="3198.937">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3196.069" offset="12784250">That's the case you're really saying.</text>
+            <text syncTime="3197.285" offset="12789161">You're saying that is like this case.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3198.937" stopTime="3200.421">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3198.937" offset="12795744">That is this case.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3200.421" stopTime="3205.508">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3200.421" offset="12801700">And Justice Ginsburg is suggesting it's not, because it happens to arise out of a different -- quite different dispute.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3205.508" stopTime="3215.547">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3205.508" offset="12821971">Right.</text>
+            <text syncTime="3205.875" offset="12823434">I thought your question absolutely nailed it because you said, would this -- you know, if you brought that suit could you and would you, and the answer is yes, you could, and therefore you know as -- without any question that it's a Federal suit.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3215.547" stopTime="3216.399">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3215.547" offset="12862199">Excuse me--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3216.399" stopTime="3221.351">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3216.399" offset="12865543">As I understand your opponent, they would agree there was no jurisdiction even in that case.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3221.351" stopTime="3223.753">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3221.351" offset="12885396">Right.</text>
+            <text syncTime="3221.835" offset="12887277">I think that's no doubt that that's their position.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3223.753" stopTime="3246.835">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3223.753" offset="12895009">--What do you do with the assertion that sections 9 through 11 are not in sync with your view, because they would not give you -- you could go in and -- to compel arbitration but once the arbitration was award -- an award was made, you would not have access to the Federal courts to enforce the award?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3246.835" stopTime="3298.720">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3246.835" offset="12987274">Well, I mean the interesting thing about 9, 10 and 11 is if anything the language is broader than our language.</text>
+            <text syncTime="3252.072" offset="13008276">If we didn't have the 4 says have you been aggrieved, do you have a right of action, and do you have a remedy for that action?</text>
+            <text syncTime="3264.397" offset="13057595">I mean, without this rigamarole that we've been talking about this whole time, we would have -- we would easily have a 1331 action.</text>
+            <text syncTime="3271.701" offset="13086748">So if anything you would argue that 9, 10 and 11 arise under Federal law regardless.</text>
+            <text syncTime="3276.871" offset="13107437">Now if you don't want to go that far, then it seems to me you just say you read sections 9, 10 and 11 and pairing material with the limitation in Section 4 and you wouldn't read it any broader than that.</text>
+            <text syncTime="3286.643" offset="13146516">But there is no basis for taking the unlimited languages in 9, 10 and 11 and somehow distorting that to more narrowly limit the rights that we have under Section 4.</text>
+            <text syncTime="3298.285" offset="13193119">So I--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="3298.720" stopTime="3305.641">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="3298.720" offset="13194895">But the Petitioner says you never clearly clarify the particular Federal on which the jurisdiction rests on this case.</text>
+            <text syncTime="3304.541" offset="13218092">What -- can you clarify that?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3305.641" stopTime="3310.343">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3305.641" offset="13222585">--Yes.</text>
+            <text syncTime="3306.024" offset="13224048">This case arises under section 4 through Section 27.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="3310.343" stopTime="3311.661">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="3310.343" offset="13241393">Section 4 creates the Federal--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3311.661" stopTime="3336.576">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3311.661" offset="13246617">Yes, it does create it, because section 4, without the "would have jurisdiction" language clearly would be arising under jurisdiction, in my judgment, and the only thing -- and then it places an additional requirement on you.</text>
+            <text syncTime="3323.168" offset="13292697">You can't just use the contract that gets you into Federal court.</text>
+            <text syncTime="3327.204" offset="13308789">You have to then look to see whether you would have had an underlying cause of action or an underlying Federal claim or whether there would have been diversity jurisdiction on the underlying claim.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3336.576" stopTime="3364.162">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3336.576" offset="13346301">Why -- why can't you have sort of modified look, through like a modified limited hangout or whatever it was?</text>
+            <text syncTime="3345.432" offset="13381723">That is to say, you can look through for the purpose of determining whether the arbitration agreement raises a Federal question.</text>
+            <text syncTime="3355.723" offset="13422892">But that doesn't mean you have to look through to determine whether the underlying controversy raises a Federal question.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3364.162" stopTime="3386.426">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3364.162" offset="13456642">Because I think -- I think the reference in the statute to controversy clearly envisions the underlying dispute between the parties, because it's not just the arbitration agreement and it's not even just the controversy; it's the subject matter of the controversy, and you compare that to section 2 and it's clear that what the Congress has in mind there is the underlying dispute between the parties.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3386.426" stopTime="3402.704">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3386.426" offset="13545667">Is the Petitioner's -- I'm sorry I didn't get a chance to ask the Petitioner -- is the Petitioner's argument for a limited look through compromised in any way by the Beneficial Bank case which allows removal if there is a Federal defense?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3402.704" stopTime="3413.160">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3402.704" offset="13610764">Well, I mean, I don't know if it's compromised by it.</text>
+            <text syncTime="3406.656" offset="13626647">I think it -- the Beneficial case makes it absolutely clear that we have here a Federal claim and therefore--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3413.160" stopTime="3416.178">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3413.160" offset="13652665">That's of course in the context of a defense, as opposed to a counterclaim.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3416.178" stopTime="3437.460">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3416.178" offset="13664681">--Right.</text>
+            <text syncTime="3416.880" offset="13667502">But again I don't think -- I don't think section 4 is asking the courts to make that determination.</text>
+            <text syncTime="3422.701" offset="13690804">I think what section 4 is asking the Court to look at is the subject matter of the controversy, and is it -- is it clear under the circumstances that there is in fact a Federal claim underlying it?</text>
+            <text syncTime="3433.057" offset="13732181">And here there is no question on that.</text>
+            <text syncTime="3435.425" offset="13741690">I ask you to affirm.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3437.460" stopTime="3441.579">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3437.460" offset="13749840">Thank you, Mr. Phillips.</text>
+            <text syncTime="3438.443" offset="13753706">Mr. Ortiz, you have three minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3441.579" stopTime="3639.191">
+          <heading>Rebuttal of Daniel R. Ortiz</heading>
+          <turn speaker="daniel_r_ortiz" startTime="3441.579" stopTime="3476.085">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="3441.579" offset="13766245">Thank you, Your Honor.</text>
+            <text syncTime="3442.545" offset="13770111">Just a few quick points.</text>
+            <text syncTime="3444.864" offset="13779411">I think this Court should be exactly clear how much Federal question jurisdiction the look-through theory would create.</text>
+            <text syncTime="3450.701" offset="13802817">So long as a Federal issue can be imagined anywhere in the lawsuit, there would be Federal question jurisdiction under this theory, and this is almost by definition going to be the case in any dispute concerning credit card debt, either because of the theory of complete pre-emption from the FDIA, or because of the theory used in the Strong case before the Eleventh Circuit that RICO's prohibition on the collection of unlawful debt--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3476.085" stopTime="3477.602">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3476.085" offset="13904276">What about a Federal defense?</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3477.602" stopTime="3482.572">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3477.602" offset="13910337">That isn't quite true, because here there is a definition in the Federal claim in your counterclaim.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="3482.572" stopTime="3483.672">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="3482.572" offset="13930294">--I'm sorry, Your Honor?</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3483.672" stopTime="3487.726">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3483.672" offset="13934683">There is a definition of the controversy in your counterclaim and in their response.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="3487.726" stopTime="3504.236">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="3487.726" offset="13950879">No -- there -- in general, if you accepted their theory, as long as there is an issue that could be spun as a Federal issue which there will always be in a credit card debt collection case and just -- in most States, that on look-through theory would be--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3504.236" stopTime="3509.807">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3504.236" offset="14016916">You're suggesting that every credit card debtor would have a class action?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="3509.807" stopTime="3514.794">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="3509.807" offset="14039172">--Your Honor, every -- it does not have to be a class action to establish what would serve--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3514.794" stopTime="3537.909">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3514.794" offset="14059130">That's your view, but I mean believe me, I think I can keep that problem under control.</text>
+            <text syncTime="3520.697" offset="14082745">That was your original point.</text>
+            <text syncTime="3521.897" offset="14087551">I see the point, it's going to spread too far; you'd have to have some rules that cabin it.</text>
+            <text syncTime="3526.185" offset="14104688">Assume I got that under control; maybe I don't.</text>
+            <text syncTime="3530.053" offset="14120152">This is a case of</text>
+            <text syncTime="3530.803" offset="14123182">"well, his brother was worse. "</text>
+            <text syncTime="3533.172" offset="14132691">What do you want to say about the criticisms of the horrible things that happen if we adopt your position?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="3537.909" stopTime="3623.263">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="3537.909" offset="14151604">--Well, Your Honor, Respondent argues that this is an easy case, or at least over time the courts will decide these things to make the jurisdictional inquiry -- inquiries clear.</text>
+            <text syncTime="3548.015" offset="14192041">Petitioner does not believe that is true.</text>
+            <text syncTime="3550.051" offset="14200191">For example, here the real party in interest dispute consumed much of the court's time.</text>
+            <text syncTime="3555.871" offset="14223492">The lower courts have gone both ways on this issue.</text>
+            <text syncTime="3557.987" offset="14231956">It's incredibly fact-dependent.</text>
+            <text syncTime="3559.739" offset="14238957">There is no easy answer for it.</text>
+            <text syncTime="3562.108" offset="14248361">Also, Your Honor, Petitioner does not believe that the Declaratory Judgment Act would have been appropriate in this case.</text>
+            <text syncTime="3569.195" offset="14276782">Declaratory judgments are discretionary and in this context of where you have a pending State court lawsuit Petitioner believes that a Federal district court would be very cautious before permitting one.</text>
+            <text syncTime="3583.538" offset="14334147">Also Your Honor, if in the context of declaratory judgment action presumably the district court would have to take the State court admission into account, and in particular here it was admitted that the account was with Discover Financial Services not with the bank.</text>
+            <text syncTime="3598.031" offset="14392139">Also, Your Honors, this -- Respondents try to portray Petitioner's position as siphoning off all Federal question jurisdiction.</text>
+            <text syncTime="3608.589" offset="14434353">That is not true.</text>
+            <text syncTime="3609.489" offset="14437906">Under Petitioner's view, a lot of Federal question jurisdiction -- some would remain.</text>
+            <text syncTime="3613.124" offset="14452430">It would just be that the arbitration agreement itself would have to sound in Federal law.</text>
+            <text syncTime="3617.259" offset="14469044">ERISA arbitration agreements would still be covered.</text>
+            <text syncTime="3620.061" offset="14480224">Some labor agreements would still be covered.</text>
+            <text syncTime="3622.480" offset="14489941">There would be--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3623.263" stopTime="3626.301">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3623.263" offset="14493076">I'm sorry, what do you mean would still be covered?</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="3626.301" stopTime="3633.538">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="3626.301" offset="14505197">--Would still be covered under Petitioner's theory of what section 4 means.</text>
+            <text syncTime="3631.269" offset="14525050">So for example, Mr. Chief Justice--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3633.538" stopTime="3635.990">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3633.538" offset="14534141">Which would still be in Federal court.</text>
+          </turn>
+          <turn speaker="daniel_r_ortiz" startTime="3635.990" stopTime="3638.007">
+            <label>Mr. Daniel R. Ortiz</label>
+            <text syncTime="3635.990" offset="14543963">--Would still be in Federal court.</text>
+            <text syncTime="3637.590" offset="14550337">Thank you.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3638.007" stopTime="3639.908">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3638.007" offset="14552008">Thank you, counsel.</text>
+            <text syncTime="3639.191" offset="14556710">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

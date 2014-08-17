@@ -1,0 +1,29 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2013-12-12T11:52:26" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="481988">/xml/cases/2003/03_6539/20040503o_03-6539.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2003/trs/03-6539_20040503-opinion.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="73.239">
+        <title>Johnson v. California</title>
+        <section startTime="0.000" stopTime="73.239" revised="2014-02-01">
+          <heading>Opinion Announcement of Chief Justice William H. Rehnquist</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="73.239">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">I have the opinion of the Court to announce in No. 03-6539 Johnson against California.</text>
+            <text syncTime="7.228" offset="28839">We granted certiorari in this case to review a decision of the Supreme Court of California interpreting Batson against Kentucky, a challenge as to jurors.</text>
+            <text syncTime="16.433" offset="65724">The case was briefed and argued but we now conclude that we are without jurisdiction in the matter because the opinion of the California Supreme Court was not final.</text>
+            <text syncTime="26.798" offset="107102">We conclude this opinion in these words, "It behooves counsel for both petitioner and respondent to assure themselves that the decision for which review was sought is indeed a final judgment under Section 1257.</text>
+            <text syncTime="40.946" offset="163736">Such attention is mandated by our rules and will avoid the expenditure of resources of both counsel and of this Court on an abortive proceeding such as the present one."</text>
+            <text syncTime="51.556" offset="206158">We dismiss the case for want of jurisdiction.</text>
+            <text syncTime="53.895" offset="215562">The Per Curiam opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,27 @@
+<transcript>
+      <history/>
+      <resources>
+        <audioFile size="796212">/xml/cases/1974/73_748/19741217o_73-748.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1974/trs/73-748op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="198.995">
+        <title>American Radio Assn., AFL-CIO v. Mobile Steamship Assn., Inc.</title>
+        <section startTime="0" stopTime="198.995">
+          <heading>Opinion Announcement of Warren E. Burger</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="14.078">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="0">The judgment and opinion of the Court in number 73748 American Radio Association against the Mobile Steamship Association will be announced with a Mr. Justice Rehnquist.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="14.078" stopTime="197.385">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="14.078" offset="56216">(Inaudible)</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="197.385" stopTime="198.995">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="197.385" offset="789525">Thank you Mr. Justice Rehnquist.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

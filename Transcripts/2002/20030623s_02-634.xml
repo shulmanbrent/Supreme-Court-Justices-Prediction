@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2014-01-16T12:27:53" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="538484">/xml/cases/2002/02_634/20030623o_02-634.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2002/trs/02-634_20030623-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="113.293">
+        <title>Green Tree Financial Corporation v. Bazzle</title>
+        <section startTime="0.000" stopTime="113.293">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.488">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85312">The opinion of the Court in No. 02-634, Green Tree Financial Corporation versus Bazzle will be announced by Justice Breyer.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="9.488" stopTime="113.293">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="9.488" offset="123242">I shall be announcing the judgment of the Court in this case and an opinion in which I am joined by Justice Scalia, Justice Souter, and Justice Ginsburg.</text>
+            <text syncTime="18.991" offset="161276">The case is about arbitration clauses in contracts that Green Tree, which is a commercial lender made with many of its customers.</text>
+            <text syncTime="27.195" offset="194086">The South Carolina Supreme Court held two things:  first, it held that the contracts were silent on the question of whether the parties had agreed that arbitration could take the form of class arbitration rather like a class action where the named customer brings a suit representing a host of others.</text>
+            <text syncTime="45.809" offset="268483">Then it held that in no circumstances were the contracts are silent.</text>
+            <text syncTime="49.428" offset="283007">The arbitration can proceed as class arbitration.</text>
+            <text syncTime="53.752" offset="300248">We granted certiorari to determine whether the state court's decision is consistent with the Federal Arbitration Act.</text>
+            <text syncTime="60.954" offset="329087">Now, four of us, anyway got stuck at the threshhold.</text>
+            <text syncTime="64.791" offset="344447">We thought that the questions, whether the contracts are silent about class arbitration or whether instead as Green Tree said, they forbid it, is a threshhold question, and we think that was not really a question for the court, that was a question for the arbitrator.</text>
+            <text syncTime="81.515" offset="411320">So, we conclude that on that question, the arbitrator should have decided it independently but he did not.</text>
+            <text syncTime="87.515" offset="435353">So, we remand the case so that he can.</text>
+            <text syncTime="90.446" offset="447056">Now, the judgment of the Court of the South Carolina is therefore vacated, and it is remanded after further proceedings.</text>
+            <text syncTime="98.468" offset="479134">Justice Stevens has filed an opinion concurring in the judgment and dissenting in part.</text>
+            <text syncTime="103.741" offset="500241">The Chief Justice has filed a dissenting opinion in which Justice O'Connor and Justice Kennedy joined and Justice Thomas has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

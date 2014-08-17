@@ -1,0 +1,30 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="341418">/xml/cases/1977/77_454/19780615o_77-454.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1977/trs/77-454op.trs</sourceFile>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="65.322">
+        <title>Moorman Manufacturing Company v. Bair</title>
+        <section startTime="0.000" stopTime="65.322" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice John Paul Stevens</heading>
+          <turn speaker="john_paul_stevens" startTime="0.000" stopTime="63.412">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="0.000" offset="79985">The second text, the second case coming from Iowa involves the constitutionality of Iowa's formula for determining what portion of the income of an Interstate business shall be subject to tax in Iowa.</text>
+            <text syncTime="15.597" offset="142365">Under Iowa's formula, the portion that is taxed by that state is measured by the portion of the gross sales made in the -- the portion of the total sales made by the corporation which take place within the state.</text>
+            <text syncTime="29.450" offset="197745">For reasons stated in the opinion, which we filed with the clerk, we uphold the validity of this tax noting that if the Commerce problems that raises can effectively be dealt with by the Congress of the United States if it wishes to remove the risk of multiple taxation that this sort of statute does create.</text>
+            <text syncTime="48.932" offset="275694">There have been three dissenting opinions filed in this case; one by Justice Powell, one by Justice Brennan and one by Justice Blackmun.</text>
+            <text syncTime="57.625" offset="310385">Mr. Justice Blackmun has also joined Mr. Justice Powell's opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="63.412" stopTime="65.322">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="63.412" offset="333582">Thank you, Mr. Justice Stevens.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

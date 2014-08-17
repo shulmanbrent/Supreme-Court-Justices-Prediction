@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:59:35" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="521740">/xml/cases/1999/99_51/20000119o_99-51.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1999/trs/99-51_20000119-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="109.401">
+        <title>Gutierrez v. Ada</title>
+        <section startTime="0.000" stopTime="109.401">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.850">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="84137">The opinion of the Court in No. 99-51 Gutierrez against Ada will be announced by Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="8.850" stopTime="109.401">
+            <label>Justice David H. Souter</label>
+            <text syncTime="8.850" offset="119455">The Organic Act of Guam provides that if no slate of candidates for Governor and Lieutenant Governor of Guam receive a majority of the votes cast in any election, a runoff shall be held.</text>
+            <text syncTime="23.186" offset="176819">The petitioners in this case received a majority of votes cast for gubernatorial slates in the 1998 Guam general election.</text>
+            <text syncTime="31.668" offset="210779">But they did not receive a majority of the total number of ballots that voters cast at that general election.</text>
+            <text syncTime="38.526" offset="238155">Some people did not vote for Governor.</text>
+            <text syncTime="41.457" offset="249962">Respondent’s rival candidates, who sought and obtained a writ of mandamus from the District Court, compelling a runoff election.</text>
+            <text syncTime="48.762" offset="279115">The Ninth Circuit affirmed finding that the Organic Act's reference to majority of the votes cast in any election required that a gubernatorial slate receive a majority of the total number of ballots cast in the general election.</text>
+            <text syncTime="63.879" offset="339615">In accordance with an opinion filed with a Clerk today, we unanimously reverse.</text>
+            <text syncTime="68.913" offset="359781">The phrase "any election" in the Organic Act refers to any gubernatorial election, the phrase is best judged by its context and the relevant section includes six references to elections for Governor and Lieutenant Governor.</text>
+            <text syncTime="83.029" offset="416206">Congress has shown in the context of Guamanian elections that it understands the difference between ballots and votes.</text>
+            <text syncTime="91.346" offset="449433">To accept respondents’ reading of the law would impute the Congress' strange preference for making it difficult to select the Governor, because a runoff would be required even though one slate already had a majority of all those who cared to choose among gubernatorial candidates.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

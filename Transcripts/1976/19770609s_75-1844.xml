@@ -1,0 +1,35 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-30</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="429681">/xml/cases/1976/75_1844/19770609o_75-1844.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1976/trs/75-1844op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="82.239">
+        <title>United States v. Lovasco</title>
+        <section startTime="0.000" stopTime="82.239" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Thurgood Marshall</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="11.006">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="100538">The judgment and opinion of the Court in Number 75-1844, United States against Lovasco will be announced by Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="11.006" stopTime="78.831">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="11.006" offset="144528">This case is here on writ of certiorari to the United States Court of Appeals for the Eighth Circuit.</text>
+            <text syncTime="18.131" offset="173054">The advantage of this case is to reconsider the circumstances in which the Constitution requires that an indictment be dismissed because a delay between the commission of the offense and the initiation of the prosecution.</text>
+            <text syncTime="34.996" offset="240450">The Court of Appeals haven't responded and have been deprived with due process by an 18-month delay whose only purpose was to enable the Government to discover other participants in the crime which was -- ultimately was charged.</text>
+            <text syncTime="50.505" offset="302517">In an opinion filed with clerk today, we reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="55.724" offset="323415">We hold that investigative delay is not fundamentally unfair to criminal defendants, since it ensures that they will not be indicted until the prosecutor is completely satisfied that he should prosecute and he will be able properly to establish guilt beyond reasonable doubt.</text>
+            <text syncTime="74.494" offset="398438">Mr. Justice Stevens has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="78.831" stopTime="82.239">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="78.831" offset="415784">Thank you, Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

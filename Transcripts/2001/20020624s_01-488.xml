@@ -1,0 +1,69 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:12:56" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="2151905">/xml/cases/2001/01_488/20020624o_01-488.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2001/trs/01-488_20020624-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="516.049">
+        <title>Ring v. Arizona</title>
+        <section startTime="0.000" stopTime="516.049">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.492">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87709">The opinion of the Court in No. 01-488 Ring against Arizona will be announced by Justice Ginsburg.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="7.492" stopTime="516.049">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="7.492" offset="117593">It has been said that most legal controversies turn on two questions:  who decides, and where do you draw the line?</text>
+            <text syncTime="16.483" offset="153538">This case presents the question of who decides, judge or jury?</text>
+            <text syncTime="21.762" offset="174749">The context is capital murder, the issue, life or death.</text>
+            <text syncTime="26.982" offset="195542">An Arizona jury found Timothy Ring guilty of first degree murder.</text>
+            <text syncTime="32.609" offset="218112">Then the trial judge seating without a jury conducted a sentencing hearing.</text>
+            <text syncTime="38.002" offset="239637">Under Arizona law, to impose death rather than life-imprisoned the sentencing judge must find at least one of several statutorily enumerated aggravating circumstance, for example, that the murder was committed in an unusually cruel manner or for financial gain.</text>
+            <text syncTime="59.075" offset="323960">In Ring’s case, a murder committed in the course of robbery, the judge found the latter aggravating factor and also no overweighing cause for leniency and so sentenced Ring to death.</text>
+            <text syncTime="76.674" offset="394387">Ring maintains that the right to trial by jury guaranteed by the Sixth Amendment to the constitution precludes assignment of the aggravating factor determination to a judge.</text>
+            <text syncTime="90.146" offset="448199">Any finding necessary to increase a sentence above the maximum, otherwise, applicable here to raise the sentence from life to death, Ring contends falls within the decisional providence of the jury.</text>
+            <text syncTime="106.931" offset="515386">We rejected that very argument in a 1990 decision Walton against Arizona.</text>
+            <text syncTime="113.116" offset="540150">In Walton, we held that Arizona property assign the aggravating factor determination to the judge.</text>
+            <text syncTime="120.872" offset="571183">Aggravating factors, we said, were sentencing considerations not elements of the offensive capital murder therefore, they prompted no jury trial right.</text>
+            <text syncTime="133.076" offset="619980">Two years ago, ten years after Walton, we decided a pack mocking case of Apprendi V. New Jersey.</text>
+            <text syncTime="141.426" offset="653312">Apprendi held that the Sixth Amendment prohibits exposing a defendant to a prison term longer than the maximum sentence he could receive based solely on the facts resolved by the jury’s verdict.</text>
+            <text syncTime="156.637" offset="714230">The Apprendi majority did not overrule Walton, instead the court distinguished Walton from Apprendi on the ground that under Arizona’s capital sentencing scheme, juries did bear responsibility for finding all facts necessary to put a crime in the capital category.</text>
+            <text syncTime="175.827" offset="790925">The dissenters in Apprendi thought the majority had missperceived Arizona law.</text>
+            <text syncTime="181.529" offset="813809">A defendant convicted of first degree murder in Arizona, the Apprendi dissenters observed, cannot receive a death sentence unless a judge makes the factual determination that a statutory aggravating factor exists.</text>
+            <text syncTime="197.905" offset="879324">This reality, that Apprendi dissenters said, made it impossible to reconcile the two decisions.</text>
+            <text syncTime="205.914" offset="911298">The dissenters in Apprendi of course thought Walton was the precedent to preserve and Apprendi misguided.</text>
+            <text syncTime="214.103" offset="944107">When Timothy Ring appealed his death sentence to the Arizona Supreme Court, that Court agreed with him that Apprendi cast out on Walton’s continued viability.</text>
+            <text syncTime="225.353" offset="989038">Politely, that Court explained that the Aprendi majority’s attempt to distinguish Walton was unsatisfying.</text>
+            <text syncTime="232.737" offset="1018609">A defendant convicted of first degree murder in Arizona that State Highest Court said cannot receive a death sentence unless a judge makes the factual determination that the statutory aggravating factor exists.</text>
+            <text syncTime="248.226" offset="1080571">Without that critical finding, the maximum sentence to which the defendant exposed its life imprisonment and not the death penalty.</text>
+            <text syncTime="257.618" offset="1118083">The Arizona Supreme Court understood however, that it was bound to follow Walton unless and until this Court overruled it, accordingly, that Court rejected Ring’s Sixth Amendment argument and affirmed his death sentence.</text>
+            <text syncTime="273.568" offset="1181926">Informed by the Arizona Supreme Court’s account of Arizona law, we now comprehend, as the Apprendi dissenters did two years ago, that Apprendi and Walton are indeed irreconcilable and we today, overrule Walton.</text>
+            <text syncTime="291.510" offset="1253711">We hold that the Sixth Amendment secures the capital defendant no less than to non-capital defendant the right to a jury determination of any fact on which the legislature conditions an increase in their maximum punishment.</text>
+            <text syncTime="309.840" offset="1327062">Resisting the conclusion, we announce today the State of Arizona essentially restated the Apprendi majority’s portrayal of Alabama law.</text>
+            <text syncTime="318.620" offset="1362171">Ring was convicted of first degree murder for which Arizona law specifies death or life imprisonment as the only sentencing options.</text>
+            <text syncTime="332.265" offset="1416715">Ring was therefore sentenced within the range of punishment authorized by the jury’s guilty verdict.</text>
+            <text syncTime="338.235" offset="1440643">This argument fails in view of the provision cross-referenced in Arizona’s first degree murder statute.</text>
+            <text syncTime="345.617" offset="1470109">The cross-reference provision specifies that the finding of an aggravating circumstance is essential to any imposition of the death penalty.</text>
+            <text syncTime="356.911" offset="1515353">Arizona also repeated distinction drawn in Walton between elements of a defense which must be found by a jury and sentencing factors which may be left to the judge.</text>
+            <text syncTime="369.138" offset="1564254">Regarding any wrencheting up of the maximum punishment however, Apprendi renders Arizona’s argument untenable; Apprendi repeatedly instructed that labeling a fact where circumstances an element or a sentencing factor is not determinants of the question, who decides judge or jury?</text>
+            <text syncTime="391.545" offset="1653802">Finally, Arizona put a twist on the adage death is different.</text>
+            <text syncTime="396.558" offset="1673864">Arizona enumerated aggravating factors the State suggested under pressure of this Court’s Eighth Amendment decisions, pressure placed on the States to limit discretion in death penalty decision making.</text>
+            <text syncTime="413.646" offset="1742200">The tightening forced on the States by the Eighth Amendment, the thought seems to be, should be matched or compensated for by loosening the constraints of the Sixth Amendment guarantee.</text>
+            <text syncTime="425.510" offset="1789743">The notion that expansion of one right justifies contraction of another is, as the Apprendi dissenters recognize, far into our constitutional jurisprudence.</text>
+            <text syncTime="438.973" offset="1843556">In arriving at today’s decision, overruling Walton, we are mindful that the doctrine of stare decisis adhering to precedent contributes importantly to the stability of the law, but the doctrine is not unyielding and we have overruled prior decisions when there is strong reason for setting the law straight.</text>
+            <text syncTime="461.204" offset="1932476">This is such a case.</text>
+            <text syncTime="463.100" offset="1940104">The right to trial by jury guaranteed by the Sixth Amendment would be senselessly diminished if it encompassed the fact-finding necessary to increase a defendant’s maximum prison term by two years, but not the fact-finding necessary to put him to death.</text>
+            <text syncTime="485.083" offset="2027980">We hold that the Sixth Amendment controls both elevations and therefore, reverse the judgment of the Arizona Supreme Court.</text>
+            <text syncTime="494.568" offset="2065910">Justice Scalia has filed a concurring opinion in which Justice Thomas joins; Justice Kennedy has filed a concurring opinion; Justice Breyer has filed an opinion concurring in part and in the judgment; Justice O’Connor has filed a dissenting opinion in which the Chief Justice joins.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

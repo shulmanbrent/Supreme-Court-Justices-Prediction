@@ -1,0 +1,35 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="405562">/xml/cases/1980/79_1336/19810309o_79-1336.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1980/trs/79-1336op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="78.333">
+        <title>Chicago &amp; North Western Transportation Company v. Kalo Brick &amp; Tile Company</title>
+        <section startTime="0" stopTime="78.333">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="11.156">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92093">The judgment and opinion of the Court in Chicago &amp; North Western Transportation Company against Kalo Brick &amp; Tile, it will be announced by Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="11.156" stopTime="77.075">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="11.156" offset="136710">This case is here on writ of certiorari to the Court of Appeals to the State of Iowa.</text>
+            <text syncTime="17.765" offset="163146">That Court held that respondent, a shipper, could to pursue a state damage action against petitioner, a regulated rail carrier, for failure to provide adequate service.</text>
+            <text syncTime="31.899" offset="219675">The question before us is whether the state damage action is preempted by the provisions of Interstate Commerce Act even the Interstate Commerce Commission jurisdiction or decisions by regulated carriers to suspend service.</text>
+            <text syncTime="49.679" offset="290728">For reasons set forth in an opinion filed this morning with the clerk, we hold that when, as here, the Commission has already upheld the carrier decision to abandon the line in question.</text>
+            <text syncTime="62.848" offset="343391">No state actions or damages can lie against the carrier.</text>
+            <text syncTime="67.674" offset="362722">The judgment of the Court of Appeals is liable as vacated and the case is remanded for further proceedings not inconsistent with this opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="77.075" stopTime="78.333">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="77.075" offset="400338">Thank you, Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

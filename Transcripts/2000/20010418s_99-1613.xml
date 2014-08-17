@@ -1,0 +1,41 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:07:44" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="653236">/xml/cases/2000/99_1613/20010418o_99-1613.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2000/trs/99-1613_20010418-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="140.121">
+        <title>Shaw v. Murphy</title>
+        <section startTime="0.000" stopTime="140.121">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.004">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="92753">The opinion of the Court in No. 99-1613, Shaw against Murphy will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="8.004" stopTime="140.121">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="8.004" offset="124727">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="14.153" offset="149282">While Kevin Murphy was incarcerated in state prison, he learned that a fellow inmate had been charged with assaulting a correctional officer.</text>
+            <text syncTime="25.015" offset="192750">Murphy decided to assist the inmate with his defense and sent him a letter to this effect.</text>
+            <text syncTime="31.840" offset="220022">The prison intercepted this letter in accordance with prison policy.</text>
+            <text syncTime="38.094" offset="245099">Based on the letter’s content, the prison sanctioned Murphy for violating prison rules prohibiting insolence and interfering with due process hearings.</text>
+            <text syncTime="48.892" offset="288253">Murphy sought relief under Section 1983 alleging violation of the First Amendment including the right to provide legal assistance to other inmates.</text>
+            <text syncTime="60.614" offset="335169">The District Court rejected this claim but the Court of Appeals for the Ninth Circuit reversed.</text>
+            <text syncTime="66.826" offset="360038">According to the Court of Appeals prisoner’s have a First Amendment right to give legal assistance to other inmates, the effect of this holding is that prisoner correspondence containing legal advice is entitle to more constitutional protection then prisoner correspondence not containing such advice.</text>
+            <text syncTime="88.003" offset="444675">In an opinion filed with the Clerk today we reverse and remand.</text>
+            <text syncTime="92.249" offset="461706">In Turner v. Safley this Court set a unitary standard for reviewing prisoners’ constitutional claims.</text>
+            <text syncTime="99.772" offset="491800">Under this test a prison regulation impinging on inmates’ constitutional rights is valid if it is reasonably related to legitimate penological interests.</text>
+            <text syncTime="113.666" offset="547388">Turner does not permit an increase in constitutional protection when a prisoner’s communication includes legal advice.</text>
+            <text syncTime="123.251" offset="585736">The value of a communication is not relevant to Turner analysis which concerns only the relationship between the assorted penological interest and the prison regulation.</text>
+            <text syncTime="135.823" offset="635995">Justice Ginsburg has filed a concurring opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,839 @@
+<transcript verified="true">
+      <history>
+        <transcribed minutes="60">1986-03-03T14:03</transcribed>
+        <edit user="tschaefer" date="2012-09-04T14:55:46" startTime="3296.441" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <identified user="tschaefer">2012-09-04</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="14660714">/xml/cases/1985/84_2030/19860303a_84-2030.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1985/84-2030_19860303-argument.xml</sourceFile>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="macdonald_flinn" type="advocate" gender="male" path="/advocates/mf/macdonald_flinn" image="/advocates/mf/macdonald_flinn/thumbnail.jpg">Macdonald Flinn</speaker>
+        <speaker id="lloyd_e_constantine" type="advocate" gender="male" path="/advocates/lc/lloyd_e_constantine" image="/advocates/lc/lloyd_e_constantine/thumbnail.jpg">Lloyd E. Constantine</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3628.491">
+        <title>Brown-Forman Distillers Corporation v. New York State Liquor Authority</title>
+        <section startTime="0.000" stopTime="1815.094">
+          <heading>Argument of Macdonald Flinn</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="80.693">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="143215">We will hear arguments next in Brown-Forman Distillers against New York State Liquor Authority.</text>
+            <text syncTime="57.819" offset="374451">Mr. Flinn, I think you may proceed whenever you are ready.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="80.693" stopTime="128.956">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="80.693" offset="465984">Mr. Chief Justice, and may it please the Court, this is an appeal from a judgment by the New York State Court of Appeals.</text>
+            <text syncTime="90.180" offset="503914">That court held that the lowest price liquor affirmation requirement of New York's alcoholic beverage control law does not violate the commerce clause of the U.S. Constitution.</text>
+            <text syncTime="102.880" offset="554696">On this appeal, Brown-Forman argued that the statute is unconstitutional upon its face because its necessary effect is the extraterritorial regulation by New York of liquor prices in other states.</text>
+            <text syncTime="118.979" offset="619062">New York effectively sets the minimum price for liquor sales in every state in the Union.</text>
+            <text syncTime="126.094" offset="647587">The New York statute--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="128.956" stopTime="143.695">
+            <label>Justice Byron R. White</label>
+            <text syncTime="128.956" offset="658977">It does it by setting the... by requiring the filing of prices in New York and telling them not to vary, telling them it can't be... it can't be higher than any place else.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="143.695" stopTime="150.210">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="143.695" offset="717909">--Yes, Justice White, that is correct.</text>
+            <text syncTime="145.805" offset="726373">The statute works this way.</text>
+            <text syncTime="147.928" offset="734836">Last Tuesday, for example--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="150.210" stopTime="157.213">
+            <label>Justice Byron R. White</label>
+            <text syncTime="150.210" offset="744031">It really doesn't say what the prices have to be in some other state.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="157.213" stopTime="302.449">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="157.213" offset="772035">--New York does not set the price.</text>
+            <text syncTime="159.446" offset="780916">That is conceded, Justice White.</text>
+            <text syncTime="161.207" offset="788022">The supplier initially determines his own price for each brand which he offers for sale to New York suppliers.</text>
+            <text syncTime="169.021" offset="819264">It is at that point that the New York statute reaches in and obligates him, mandates that he not for an extended period of time, the posting period, charge any lower price in any other state, having filed that price in New York.</text>
+            <text syncTime="188.004" offset="895228">The statute works this way.</text>
+            <text syncTime="190.225" offset="904110">On the 25th of every month, every supplier must file or post a schedule of prices to be charged for all of us products sold to New York wholesalers during the next following month.</text>
+            <text syncTime="205.185" offset="963878">Last Tuesday, all suppliers had to file an affirmation and a schedule of prices.</text>
+            <text syncTime="211.931" offset="990836">It would cover all of their sales for the month of April of this year.</text>
+            <text syncTime="216.052" offset="1007346">All sales to New York wholesalers must be at those explicit posted prices, neither higher nor lower.</text>
+            <text syncTime="225.238" offset="1044126">The statute also prohibits the price discrimination or difference in prices charged to one New York wholesaler as compared with other New York wholesalers.</text>
+            <text syncTime="236.484" offset="1089057">Finally, as a condition of the right to sell to New York wholesalers, the New York statute, as Justice White indicated, obligates every supplier to adhere to that price once posted in New York during the entire calendar month that is covered by the posting requirement.</text>
+            <text syncTime="258.330" offset="1176515">Every month every supplier must go through this affirmation process again.</text>
+            <text syncTime="264.124" offset="1199711">The language of the statute and the affirmation or verification form employed by the state liquor authority are essentially in the same identical language.</text>
+            <text syncTime="276.131" offset="1247672">If the Court will indulge me for a moment, I would like to read the explicit salient provisions of the statute.</text>
+            <text syncTime="282.326" offset="1272436">It required that the New York posted price must be no higher than the lowest price at which each item of liquor will be sold anywhere in any other state at any time during the calendar month for which such schedule shall be in effect.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="302.449" stopTime="311.805">
+            <label>Justice Byron R. White</label>
+            <text syncTime="302.449" offset="1352998">Do you think that is really a promise?</text>
+            <text syncTime="307.271" offset="1372224">When you file, you promise now to lower your prices in any other state?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="311.805" stopTime="322.561">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="311.805" offset="1390405">It is in just that form, Justice White.</text>
+            <text syncTime="315.107" offset="1403571">An affirmation in the form of a sworn affidavit is required of every supplier--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="322.561" stopTime="333.270">
+            <label>Justice Byron R. White</label>
+            <text syncTime="322.561" offset="1433455">What is the penalty if, contrary to the affirmation, some company lowers its price in another state?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="333.270" stopTime="344.747">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="333.270" offset="1476191">--The penalties cover a variety of alternatives, from a criminal misdemeanor sanction all the way to a revocation or a suspension of the license.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="344.747" stopTime="357.524">
+            <label>Justice Byron R. White</label>
+            <text syncTime="344.747" offset="1522167">What would the charge be if a company, after making its affirmation in New York, lowers the price in New Jersey, and New York finds out about it?</text>
+            <text syncTime="356.354" offset="1568560">What would they charge you with?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="357.524" stopTime="379.359">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="357.524" offset="1573262">They charge you with having falsely affirmed and violated the provisions of the statute.</text>
+            <text syncTime="364.048" offset="1599385">Focusing upon this particular case, Justice White, while the facts were not a direct reduction of Brown-Forman's price in any other state, but rather a challenge by the state liquor authority of certain lump sum allowances--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="379.359" stopTime="379.680">
+            <label>Justice Byron R. White</label>
+            <text syncTime="379.359" offset="1660616">I understand.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="379.680" stopTime="439.689">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="379.680" offset="1661870">--which were paid, a license revocation proceeding was instituted by the state liquor authority against Brown-Forman.</text>
+            <text syncTime="387.513" offset="1693217">An administrative hearing was held.</text>
+            <text syncTime="389.806" offset="1702412">A determination was made by the authority's hearing officer and was affirmed by the authority.</text>
+            <text syncTime="396.620" offset="1729684">From that administrative determination, Brown-Forman took recourse to appellate review.</text>
+            <text syncTime="403.715" offset="1758000">The first court authorized to hear the case was the Appellate Division of the New York State Supreme Court.</text>
+            <text syncTime="409.429" offset="1780884">In this proceeding, Brown-Forman was in effect fined $40,000, forfeiture against the bond that all suppliers must post with the state, and its license, two licenses in the state of New York were suspended for ten days' period, stayed subject to Brown-Forman's convincing the authority over the course of the next year that it was no longer in violation of the affirmation requirement.</text>
+            <text syncTime="437.436" offset="1892897">That is why we are here today, Justice White.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="439.689" stopTime="452.386">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="439.689" offset="1901883">Suppose the penalty were that anyone violating the maximum factor here would never thereafter be permitted to operate in New York?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="452.386" stopTime="477.153">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="452.386" offset="1952665">We might have some additional arguments, Mr. Chief Justice.</text>
+            <text syncTime="456.771" offset="1970219">I do not believe, with all due respect, that the severity of the sanctions necessarily bears upon whether this is the kind of extraterritorial regulation of prices which the Court has held is the kind of direct burden that automatically violates the commerce clause.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="477.153" stopTime="482.339">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="477.153" offset="2051826">Wouldn't it... against Gibbons against Ogden if it prohibited future--</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="482.339" stopTime="506.554">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="482.339" offset="2072515">It could well be, Your Honor, and there could be in addition certain due process claims.</text>
+            <text syncTime="487.361" offset="2092577">Our administrative agency, the liquor authority, is constantly hailed before our state courts in New York in terms of the severity or the reasonable connection of the relief that it finds in administrative proceedings involving license revocation or suspension proceedings.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="506.554" stopTime="511.566">
+            <label>Justice Byron R. White</label>
+            <text syncTime="506.554" offset="2169377">--How did you convince the authorities that you wouldn't be violating the affirmation in the future?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="511.566" stopTime="518.690">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="511.566" offset="2189439">We have not convinced them, Your Honor.</text>
+            <text syncTime="513.737" offset="2198111">I think they have noblesse oblige given us time to pursue our appeal.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="518.690" stopTime="522.383">
+            <label>Justice Byron R. White</label>
+            <text syncTime="518.690" offset="2217964">You are still going on with your promotion allowances in other states, I suppose.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="522.383" stopTime="527.897">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="522.383" offset="2232697">The lump sum allowances, to my knowledge, Justice White, are still being given by Brown-Forman.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="527.897" stopTime="533.382">
+            <label>Justice Byron R. White</label>
+            <text syncTime="527.897" offset="2254745">You wanted to give them to somebody in New York, too, but they wouldn't permit it.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="533.382" stopTime="545.488">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="533.382" offset="2276688">We offered to do that, and the state liquor authority, and frankly, we cannot find fault with the liquor authority's determination on this issue, said that another section of the same chapter--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="545.488" stopTime="547.861">
+            <label>Justice Byron R. White</label>
+            <text syncTime="545.488" offset="2325066">So it is just plainly forbidden under the New York law.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="547.861" stopTime="557.516">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="547.861" offset="2334575">--That is right, and unfortunately, this Court has allowed us to argue in plenary argument only the facial challenge to the New York statute.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="557.516" stopTime="561.440">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="557.516" offset="2373236">I am interested.</text>
+            <text syncTime="558.888" offset="2378670">Are you asking that we overrule Seagram?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="561.440" stopTime="565.834">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="561.440" offset="2388910">I am not asking that you overrule Seagram.</text>
+            <text syncTime="565.153" offset="2403747">I believe--</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="565.834" stopTime="568.644">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="565.834" offset="2406464">Can you distinguish Seagram from this case?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="568.644" stopTime="570.415">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="568.644" offset="2417749">--I believe, sir, that I can.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="570.415" stopTime="575.328">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="570.415" offset="2424854">Is there a difference as a practical matter between a retrospective statute and a prospective one?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="575.328" stopTime="600.766">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="575.328" offset="2444498">I believe that there is, Justice Blackmun.</text>
+            <text syncTime="577.721" offset="2454007">Basically, as the Court knows, in Seagram against Hostetter, this Court rejected a purely facial challenge to the original New York affirmation statute.</text>
+            <text syncTime="589.847" offset="2502595">That statute, however, was an entirely different statute, because as you have indicated, it had a retrospective or historic time frame, not prospective.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="600.766" stopTime="603.428">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="600.766" offset="2546271">Well, I raise the question whether it is an entirely different one.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="603.428" stopTime="603.839">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="603.428" offset="2556825">All right.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="603.839" stopTime="608.780">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="603.839" offset="2558497">If you prevail here, New York might well go back to the old statute, and you will be up here again.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="608.780" stopTime="684.460">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="608.780" offset="2578245">I think there are pragmatic reasons why New York will not go back to a retrospective statute, but let me try to satisfy and answer your question.</text>
+            <text syncTime="618.126" offset="2615653">The original New York statute in essence said to suppliers, you cannot charge prices to New York wholesalers this month which are any higher than the lowest price that you charged anywhere else two months ago.</text>
+            <text syncTime="636.998" offset="2691199">Now, what are the implications of that?</text>
+            <text syncTime="639.592" offset="2701543">First, unlike the present prospective statute that requires a commitment, a promise, an obligation on the part of the supplier as to tying his hands every place else for a successive month, the original statute merely reflected prices that had in fact already been charged elsewhere in the past.</text>
+            <text syncTime="662.656" offset="2793808">There was therefore no reaching out and prospectively putting suppliers into a straightjacket so far as their freedom to charge whatever prices, to lower whatever prices midmonth they might choose to or be compelled by the exigencies of competition to do in any other state.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="684.460" stopTime="701.731">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="684.460" offset="2880952">But, Mr. Flinn, even in the retrospective situation, it seems that the statute would actually affect prices out of state eventually.</text>
+            <text syncTime="695.458" offset="2925047">The wholesaler has to look ahead and see what is happening, so it is a little strange.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="701.731" stopTime="735.382">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="701.731" offset="2950124">Justice O'Connor, clearly you are right.</text>
+            <text syncTime="702.971" offset="2955035">Even with the retrospective statute of the type that New York originally adopted, a supplier knows full well that the price he charges in Illinois this month is going to be a limit upon the price that he can charge in New York two months later.</text>
+            <text syncTime="723.876" offset="3038627">Now, I think this Court fully focused upon that fact when it decided Seagram against Hostetter.</text>
+            <text syncTime="730.910" offset="3066839">The majority opinion in Seagram against Hostetter--</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="735.382" stopTime="736.484">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="735.382" offset="3084707">I thought it was unanimous, wasn't it?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="736.484" stopTime="737.363">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="736.484" offset="3089096">--Beg pardon?</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="737.363" stopTime="738.455">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="737.363" offset="3092648">I thought it was unanimous.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="738.455" stopTime="742.899">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="738.455" offset="3096933">Yes, sir, it was.</text>
+            <text syncTime="738.725" offset="3098082">I believe there was an absention, but the opinion of the Court was unanimous.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="742.899" stopTime="747.261">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="742.899" offset="3114800">Well, the Court might have been wrong.</text>
+            <text syncTime="744.649" offset="3121801">You wouldn't object to our overruling it, would you?</text>
+            <text syncTime="746.980" offset="3131101">0 [Generallaughter.]</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="747.261" stopTime="770.018">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="747.261" offset="3132250">Your Honor, I am... Justice Blackmun, I fall back on the traditional plaintive cry of counsel before this Court.</text>
+            <text syncTime="756.077" offset="3167463">That is not my case.</text>
+            <text syncTime="758.368" offset="3176658">You do not need to decide it in my favor for my client to prevail.</text>
+            <text syncTime="763.132" offset="3195675">I am here in the hopes that my client will prevail and be able to mend its ship with the state liquor authority in New York.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="770.018" stopTime="770.615">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="770.018" offset="3223261">I guess--</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="770.615" stopTime="836.139">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="770.615" offset="3225664">The answer clearly is that I believe that had Seagram v. Hostetter been decided at a time when there was more than a single retrospective statute, the result conceivably could have been different.</text>
+            <text syncTime="786.407" offset="3288776">I am not urging that Seagram v. Hostetter be overruled, and I urge instead it need not be overruled in order to decide for Brown-Forman on this appeal.</text>
+            <text syncTime="797.714" offset="3334020">The basis for a different result in Seagram v. Hostetter today, even on a facial challenge, would be this.</text>
+            <text syncTime="808.390" offset="3376756">Where you have more than one retrospective affirmation requirement, or where you have at least one retrospective affirmation requirement, and any number of either prospective or simultaneous contemporary affirmation requirements, there is inevitably a block upon the ability of suppliers to raise their prices in any state.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="836.139" stopTime="837.100">
+            <label>Justice Byron R. White</label>
+            <text syncTime="836.139" offset="3487724">--For a month.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="837.100" stopTime="841.342">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="837.100" offset="3491591">For a month.</text>
+            <text syncTime="837.799" offset="3494307">The alternative, Justice White, is to stop selling.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="841.342" stopTime="852.000">
+            <label>Justice Byron R. White</label>
+            <text syncTime="841.342" offset="3508518">Or maybe the real limit is how long it takes the New York Liquor Authority to decide to permit you to change your price in New York.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="852.000" stopTime="858.033">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="852.000" offset="3551150">I submit, Justice White, that it is something more than that.</text>
+            <text syncTime="857.132" offset="3571734">First of all--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="858.033" stopTime="872.534">
+            <label>Justice Byron R. White</label>
+            <text syncTime="858.033" offset="3575287">Well, isn't there a provision that you could decide you wanted to lower your price in some other state, and so you lower the price in New York, and so you ask the authority, may I lower the price of this--</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="872.534" stopTime="885.040">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="872.534" offset="3633279">--In this case, Justice White, that argument has been made by New York for the first time before this Court.</text>
+            <text syncTime="880.197" offset="3663999">That argument was not made before either the Appellate Division or the New York State--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="885.040" stopTime="886.121">
+            <label>Justice Byron R. White</label>
+            <text syncTime="885.040" offset="3683329">--Yes, but it is in the statute, isn't it?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="886.121" stopTime="947.972">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="886.121" offset="3687613">--It is in the statute, and I would like to address it, Justice White.</text>
+            <text syncTime="889.083" offset="3699525">Basically, the language to which New York points says that upon the prior written permission of the state liquor authority granted for good cause showing, and for purposes not inconsistent with the statute, a deviation in the prices charged to New York wholesalers can be made as compared with the previously posted price.</text>
+            <text syncTime="917.223" offset="3812061">The argument that New York makes here today is that you can run to the state liquor authority, you can obtain this prior written permission, and they will let you reduce your price in New York in order to allow you to reduce your price in some other state.</text>
+            <text syncTime="935.383" offset="3884681">Let's look at that.</text>
+            <text syncTime="936.805" offset="3890428">No indication is offered that the state liquor authority has ever done that.</text>
+            <text syncTime="942.908" offset="3914774">No state court, including the New York State Court of Appeals--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="947.972" stopTime="957.108">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="947.972" offset="3935045">Mr. Flinn, could I interrupt with just one question on this point?</text>
+            <text syncTime="949.973" offset="3943091">Do any states... do all states that have this kind of statute provide for monthly periods of prices?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="957.108" stopTime="1030.986">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="957.108" offset="3971617">--A very good point, Justice Stevens.</text>
+            <text syncTime="958.550" offset="3977364">Not all of the affirmation states have posting requirements.</text>
+            <text syncTime="962.624" offset="3993664">That is significant, because a posting requirement can make even a contemporary current or simultaneous affirmation requirement have the same kind of extraterritorial reaching out and locking in of prices to be charged in other states.</text>
+            <text syncTime="980.963" offset="4067016">I believe that the amicus Wine and Spirits Wholesale Institute brief indicates that in addition to New York there are maybe eleven other affirmation states which have a posting requirement.</text>
+            <text syncTime="992.163" offset="4111842">Getting back to the question of the good cause language in the statute, no New York state court, including the Court of Appeals in this case, has ever endorsed or subscribed to this argument.</text>
+            <text syncTime="1006.212" offset="4168057">Secondly, this kind of argument, we believe, runs directly counter, is antagonistic to the strong, long-standing policy of New York State, a policy which dates back to 1942 that there shall be no discrimination in price, no difference in the prices charged between different New York wholesalers.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1030.986" stopTime="1059.136">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1030.986" offset="4267114">It sounds awfully sensible to say... say you posted this price, and said, these are going to be the prices for the next month, and you know you can't charge less than any other state, but you go up and say, we would like to amend our filing for the rest of this month, and believe it or not, we are going to drop our prices here and everywhere else.</text>
+            <text syncTime="1053.613" offset="4357602">Now, do you suppose you would have much trouble selling that to the liquor authority?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="1059.136" stopTime="1071.354">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="1059.136" offset="4379754">Let me speak to that, Justice White.</text>
+            <text syncTime="1061.747" offset="4390203">I mean no disparagement of our state liquor authority, but as is frequently the case with administrative agencies, its record for alacrity is not sterling.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1071.354" stopTime="1074.446">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1071.354" offset="4428551">That may be.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="1074.446" stopTime="1075.846">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="1074.446" offset="4440985">The very--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1075.846" stopTime="1079.800">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1075.846" offset="4446523">But if they were going to be fast at anything, I would think they would be fast at this one.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="1079.800" stopTime="1083.232">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="1079.800" offset="4462405">--The interesting thing is, they might not, Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1083.232" stopTime="1083.673">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1083.232" offset="4476093">Lowering the price of whiskey?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="1083.673" stopTime="1172.932">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="1083.673" offset="4477870">May I suggest why they might not be?</text>
+            <text syncTime="1086.515" offset="4489259">The posting requirement, which was adopted long before affirmation ever became a policy of New York or any other state, was designed to prevent in-state price discrimination.</text>
+            <text syncTime="1099.632" offset="4541713">The posting requirement is to ensure that during the 30-day period covered by the posting of prices, a wholesaler who purchases later in the month will not gain a monetary or competitive advantage vis-a-vis a New York wholesaler who has purchased earlier in the month.</text>
+            <text syncTime="1119.005" offset="4619140">Consequently, with all due respect, I am not so certain that the state liquor authority would adopt the argument of the attorney general of the state of New York.</text>
+            <text syncTime="1127.571" offset="4653413">I am similarly quite concerned that New York State would not adopt that, state courts would not adopt that argument.</text>
+            <text syncTime="1134.675" offset="4681834">But I think that the argument in itself is revealing.</text>
+            <text syncTime="1138.558" offset="4697403">The argument in essence clearly demonstrates that New York unabashedly controls by reaching out and putting a lock upon the minimum prices that can be charged everywhere else, says in apology, oh, but you can get around that by seeking and obtaining the prior written permission of our state liquor authority.</text>
+            <text syncTime="1163.765" offset="4798235">By prevailing upon their discretion, you then become free for the first time to sell at prices lower than those posted here in New York.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1172.932" stopTime="1176.444">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1172.932" offset="4834911">Suppose there are some distillers that don't sell in New York?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="1176.444" stopTime="1189.492">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="1176.444" offset="4848913">There are a few.</text>
+            <text syncTime="1177.984" offset="4855078">Clearly, New York, in view of its size and its importance, probably has as broad if not the broadest representation of distiller brands of any state in the union.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1189.492" stopTime="1198.558">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1189.492" offset="4901158">But any distiller that doesn't sell in New York that you are competing with in other states, you really can't compete with them if they undersell you.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="1198.558" stopTime="1205.183">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="1198.558" offset="4937416">That is perhaps an overstatement, but clearly there is truth to the point you are making, Justice--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1205.183" stopTime="1206.752">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1205.183" offset="4963852">If there are any distillers who don't sell in New York.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="1206.752" stopTime="1213.037">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="1206.752" offset="4970121">--There are some distillers who do not sell in New York.</text>
+            <text syncTime="1209.934" offset="4982869">There are regional distillers.</text>
+            <text syncTime="1211.356" offset="4988616">There are regional rectifiers.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1213.037" stopTime="1216.159">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1213.037" offset="4995303">That people at Brown-Forman are competing with, I suppose.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="1216.159" stopTime="1279.392">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="1216.159" offset="5007842">In some states, Brown-Forman competes with one or more other suppliers, whether distillers of brown goods, rectifiers of white goods or not, who are purely regional.</text>
+            <text syncTime="1226.167" offset="5047862">I can give you an example.</text>
+            <text syncTime="1227.247" offset="5052146">New York City has had tremendous attrition in the number of wholesalers.</text>
+            <text syncTime="1231.400" offset="5068759">There are five major superlarge wholesalers that serve the metropolitan New York area.</text>
+            <text syncTime="1237.243" offset="5092165">Two of those wholesalers have their own private captive brands.</text>
+            <text syncTime="1242.245" offset="5112123">They actually rectify their own gin, their own vodka.</text>
+            <text syncTime="1245.979" offset="5127065">They are very successful, effective forces in the metropolitan marketplace.</text>
+            <text syncTime="1250.282" offset="5144306">As long as they choose not to sell in other states, they have a degree of freedom, if you will, from the affirmation concept, and responsive to your question, there is therefore an arguable problem on the part of Brown-Forman and other national suppliers in terms of their ability to make the instant momentary response price initiatives taken by that purely statewide or in some instances a purely regional supplier.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1279.392" stopTime="1295.410">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1279.392" offset="5260707">Mr. Flinn, may I just... your argument is strongest, it seems to me, when you focus on a mid-month price reduction, something like that, but are there such price reductions?</text>
+            <text syncTime="1288.758" offset="5298219">If most states require this monthly period pricing, how often... does the record tell us how often there are price reductions of this kind?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="1295.410" stopTime="1311.553">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="1295.410" offset="5324759">The record does not tell us.</text>
+            <text syncTime="1296.722" offset="5330088">The record was not put together to answer that question, Justice Stevens, but let me take issue with that part of your question which says that most of the states have posting requirements.</text>
+            <text syncTime="1306.640" offset="5369690">That is not true.</text>
+            <text syncTime="1307.709" offset="5373974">Approximately a dozen states, which means we have got 38--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1311.553" stopTime="1325.780">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1311.553" offset="5389334">It would seem to me this is entirely possible, and I don't know whether this is a fact or not, that if there is a substantial number of states that require posting on a monthly basis, that maybe there is an industry custom of price changes at monthly intervals, and there may not be the problem you describe.</text>
+            <text syncTime="1325.039" offset="5443355">I just don't know.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="1325.780" stopTime="1473.478">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="1325.780" offset="5446281">--The question, it seems to me, has to turn on this result.</text>
+            <text syncTime="1330.923" offset="5466866">There are now 20 other states which probably predictably, following New York's lead after this Court's decision in Seagram v. Hostetter, now have affirmation statutes.</text>
+            <text syncTime="1343.132" offset="5515662">The result by the very definition of the affirmation concept is that the minimum price in all of those states is also the maximum price.</text>
+            <text syncTime="1353.360" offset="5556622">There is a single price.</text>
+            <text syncTime="1355.411" offset="5564773">Affirmation has been on the books in New York dating back to 1964.</text>
+            <text syncTime="1361.405" offset="5588805">It first became effective after the Court's decision here in 1966.</text>
+            <text syncTime="1365.906" offset="5606777">In that roughly 20-year period, these other states have come in.</text>
+            <text syncTime="1370.510" offset="5625168">You now have a multi-state affirmation requirement.</text>
+            <text syncTime="1374.712" offset="5641991">That alone, apart from posting requirements, has injected a rigidity, a nonflexibility, indeed, an absolute uniformity of price into all of those 21 affirmation states.</text>
+            <text syncTime="1390.784" offset="5706252">But it has, if you will, slopped over and produced essentially the same prices in many other states.</text>
+            <text syncTime="1397.249" offset="5732165">It is that fact of this industry, Justice Stevens, that I think explains why my answer to your question has to be probably there has been very little midmonth price reduction.</text>
+            <text syncTime="1410.259" offset="5784201">Now, let me speak candidly.</text>
+            <text syncTime="1413.851" offset="5798516">I am not sure that Brown-Forman's position is representative of the views or attitudes of all the suppliers.</text>
+            <text syncTime="1420.784" offset="5826311">Candidly, affirmation has created a nice live and let live kind of competitive ease.</text>
+            <text syncTime="1429.389" offset="5860688">There are undoubtedly some suppliers who relish the fact that they no longer have to make price decisions responsive to the unique competitive forces of each local marketplace.</text>
+            <text syncTime="1441.077" offset="5907499">There are undoubtedly suppliers who are happy that state managers no longer have to be given that kind of pricing freedom to respond to the competitive exigencies of their particular marketplace.</text>
+            <text syncTime="1453.185" offset="5955878">There are, on the other hand, suppliers, and Brown-Forman is one of those, who believe that a competitive environment in which parties could and had to respond to competitive initiatives would produce a more rational, sound pricing situation.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1473.478" stopTime="1491.290">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1473.478" offset="6037066">Mr. Flinn, supposing you are in the New York legislature, and you have the report of this Moreland Commission that says New York consumers are being discriminated against because they are getting higher prices than anybody else in the country.</text>
+            <text syncTime="1486.818" offset="6090461">What can the legislature do about that that would comply with the Commerce Department?</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="1491.290" stopTime="1660.891">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="1491.290" offset="6108328">I would answer your question.</text>
+            <text syncTime="1493.553" offset="6117419">I would point out, however, the Moreland Act Commission record was before this Court in Seagram against Hostetter.</text>
+            <text syncTime="1500.476" offset="6145109">It is interesting.</text>
+            <text syncTime="1501.908" offset="6150751">It is ironic.</text>
+            <text syncTime="1502.789" offset="6154304">The Moreland Act Commission never said that the alleged overcharging or higher retail prices to consumers in New York which it found was attributable to any discrimination in the supplier's prices to New York wholesalers as compared with their prices to wholesalers elsewhere.</text>
+            <text syncTime="1521.020" offset="6227238">The Moreland Act Commission laid the blame on New York for having adopted a mandatory state-enforced fair trade resale price maintenance structure, which in essence controlled the prices from the retailer to the consumer.</text>
+            <text syncTime="1536.230" offset="6288051">Be that as it may, when the state legislature adopted affirmation, it did so on the ground that it was going to, and it was very politically popular, I can assure you, Justice Rehnquist, it was going to assure all New York voters and consumers that their wholesalers would not be paying higher prices than wholesalers anywhere else.</text>
+            <text syncTime="1556.953" offset="6371016">Now, what can New York do today?</text>
+            <text syncTime="1559.374" offset="6380629">If the Court agrees with us that this prospective type of statute which is now the typical affirmation statute in all of those states having affirmation, is unconstitutional on its face because it extraterritorially regulates prices elsewhere.</text>
+            <text syncTime="1575.896" offset="6446771">I believe that essentially the only course available to New York if it wishes to have a statute that will withstand constitutional muster on its face is to go the concurrent or current price affirmation time reference, and even then New York, I believe, has to be exceedingly careful.</text>
+            <text syncTime="1596.350" offset="6528586">New York, because of this non-discrimination in price among different New York wholesalers policy is going to have to face up to the fact that the posting requirement is fundamentally inconsistent with even a contemporaneous, truly current price affirmation standard, because the posting ties suppliers' hands, not only for the 30-day or calendar period, whatever the period may be, so far as their sales pricing to New York wholesalers, but by the very definition of affirmation does so in their sales to every other state.</text>
+            <text syncTime="1633.492" offset="6677171">Now, whether New York is well advised in following that policy, I think, is open to question.</text>
+            <text syncTime="1640.728" offset="6706115">It is obviously not a question for me, not a question, with all due respect, for this Court.</text>
+            <text syncTime="1645.681" offset="6725863">But ironically, New York, in view of its size and importance, the volume purchases and efficiencies of its wholesalers, probably has its consumers more penalized by the affirmation concept than most any other state.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1660.891" stopTime="1672.449">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1660.891" offset="6786676">Even moving to a strictly current affirmation approach, I would suppose you would still be arguing that New York is affecting the prices in other states.</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="1672.449" stopTime="1679.635">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="1672.449" offset="6832965">I think, Justice White, that would be the case that I would have to come to you with a record and not a purely facial challenge.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1679.635" stopTime="1681.345">
+            <label>Unknown Speaker</label>
+            <text syncTime="1679.635" offset="6861700">Yes.</text>
+            <text syncTime="1680.065" offset="6863372">Well, you would be back.</text>
+            <text syncTime="1680.536" offset="6865357">You would be back.</text>
+            <text syncTime="1680.876" offset="6866715">0 [Generallaughter.]</text>
+          </turn>
+          <turn speaker="macdonald_flinn" startTime="1681.345" stopTime="1809.270">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="1681.345" offset="6868492">Thank you.</text>
+            <text syncTime="1685.389" offset="6884688">I appreciate the accolade for perseverance.</text>
+            <text syncTime="1687.582" offset="6893465">I don't know whether my client would have me back.</text>
+            <text syncTime="1689.462" offset="6900988">Perhaps some more successful advocate.</text>
+            <text syncTime="1692.544" offset="6913318">Basically, the kind of contemporary time reference that I think is essential is one that probably could not be accompanied by a posting requirement for any specified period of time.</text>
+            <text syncTime="1708.197" offset="6975907">It has to be an affirmation requirement which not only recognizes that New York has no right to interfere with future pricing decisions by suppliers in other states, but makes it clear that it does not interfere with them.</text>
+            <text syncTime="1723.633" offset="7037661">It in essence says, look, you are free to lower your prices in any other state at any time as long as you simultaneously reduce your prices here.</text>
+            <text syncTime="1735.270" offset="7084263">Now, I believe that kind of statute would pass facial muster.</text>
+            <text syncTime="1741.497" offset="7109132">There is substance, Justice White, to your question, and I did not complete my answer to Justice Blackmun as to whether Seagram v. Hostetter might have been decided differently if this Court had been aware, and it was not brought to the Court's attention by the parties who briefed that case that there would be more than a single retrospective statute.</text>
+            <text syncTime="1763.231" offset="7196067">There would be, therefore, this necessity to stop selling in one or more states in order to comply with the current or contemporaneous or prospective price affirmation requirements of other states.</text>
+            <text syncTime="1776.187" offset="7247894">I believe, if I read the Court's decisions on extraterritoriality, that kind of interference with an interstate business outside of the regulating state, which in effect requires the supplier to stop sales there in order to comply with the conditions of selling in the regulating state is probably that kind of direct burden upon interstate commerce which, had the Court viewed Seagram v. Hostetter in that light, might well have produced a different decision there.</text>
+            <text syncTime="1805.427" offset="7364923">Mr. Chief Justice, if I may save what small time I have left.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1809.270" stopTime="1815.094">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1809.270" offset="7380283">Very well.</text>
+            <text syncTime="1810.331" offset="7384462">Mr. Constantine.</text>
+          </turn>
+        </section>
+        <section startTime="1815.094" stopTime="3554.179">
+          <heading>Argument of Lloyd E. Constantine</heading>
+          <turn speaker="lloyd_e_constantine" startTime="1815.094" stopTime="1981.484">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="1815.094" offset="7403584">Thank you, Mr. Chief Justice, and may it please the Court, the question before the Court today is whether New York may insist that liquor prices to New York wholesalers be as low as prices charged elsewhere in the country as part of its comprehensive regulatory scheme for liquor.</text>
+            <text syncTime="1836.899" offset="7490728">New York attempted to secure this goal by means of a nondiscriminatory regulation solely directed to the intrastate sale of liquor.</text>
+            <text syncTime="1846.275" offset="7528240">Writing for a unanimous court in the 1966 Seagram decision, Justice Stewart reasoned that the New York affirmation law had a legitimate purpose, that it was solely directed to intrastate activities, and that under the affirmation law New York was exercising the core power granted to a state under the Twenty-First Amendment, which is to regulate the importation and distribution of liquor destined for sale within the state's borders.</text>
+            <text syncTime="1877.185" offset="7651852">The New York affirmation law conforms precisely to the holding in Seagram that consistent with both the Twenty-First Amendment, which was never mentioned in Mr. Flinn's argument, and the commerce clause, that New York may insist that liquor prices to its wholesalers be as low as prices charged elsewhere in the country.</text>
+            <text syncTime="1900.950" offset="7746937">The policy of lowest price affirmation which has been adopted in 39 states and which dates back to 1938 cannot be invalidated in this case based upon these speculative claims without the Court departing from its consistent interpretation of the core power of the Twenty-First Amendment, and without also departing from its consistent interpretation of the commerce clause, and this would be accomplished in a case where there is no record whatsoever to demonstrate any effect.</text>
+            <text syncTime="1936.854" offset="7890611">Brown-Forman's allegations are simplistic speculations about the benefits of free market forces in a liquor market which is otherwise restrained by pervasive regulation throughout the country.</text>
+            <text syncTime="1950.141" offset="7943692">A free market in liquor that we have heard about today has not existed since prohibition, and it would not exist if the Court invalidated this statute.</text>
+            <text syncTime="1959.398" offset="7980786">However, if the Court invalidated this statute based upon these claims, the states would have been punished for their reliance upon the Court's holding in Seagram.</text>
+            <text syncTime="1969.776" offset="8022268">The states would be left to adopt truly burdensome alternatives to achieve the legitimate goals of price affirmation, the goals which this Court said were legitimate, and the states--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1981.484" stopTime="1992.139">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1981.484" offset="8069079">Mr. Constantine, it does appear that the New York statute effectively sets minimum prices outside New York, at least for an interval of time, doesn't it?</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="1992.139" stopTime="2052.270">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="1992.139" offset="8111711">--No, Your Honor, it doesn't.</text>
+            <text syncTime="1993.611" offset="8117563">The New York statute does one thing.</text>
+            <text syncTime="1994.840" offset="8122474">It says to a distiller, go out to any other state in the country.</text>
+            <text syncTime="1999.815" offset="8142431">Thirty-eight other states have affirmation laws as well.</text>
+            <text syncTime="2002.728" offset="8154030">Go to those states, charge any price that you want, but if you choose to sell in New York, grant us parity.</text>
+            <text syncTime="2009.260" offset="8180152">The regulatory effect which Mr. Flinn has talked about without the support of any record, made out of whole cloth, is merely speculation.</text>
+            <text syncTime="2022.430" offset="8232919">There is nothing in the record.</text>
+            <text syncTime="2023.992" offset="8239084">There is no record.</text>
+            <text syncTime="2024.792" offset="8242324">But there is nothing in the record to demonstrate either of the effects which Brown-Forman alleges in this case.</text>
+            <text syncTime="2032.056" offset="8271372">Principally those are two effects.</text>
+            <text syncTime="2034.017" offset="8279208">First, that the affirmation law has the effect of preventing Brown-Forman and other distillers from making midmonth price changes, and second, that the affirmation law has the effect of preventing a distiller's pricing decision in other states, and there is nothing in the record about that, Your Honor.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2052.270" stopTime="2071.730">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2052.270" offset="8352247">Mr. Constantine, may I interrupt?</text>
+            <text syncTime="2053.399" offset="8356740">Particularly with regard to the second point, say we didn't have liquor, and I understand of course you have the Twenty-First Amendment, but say it was automobiles or gasoline or something.</text>
+            <text syncTime="2062.586" offset="8393520">Do you think a statute like this would be free of commerce clause challenge if it applied to some other product that obviously was sold at many different prices around the country?</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2071.730" stopTime="2109.669">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2071.730" offset="8430092">It would not be free of commerce clause challenge, Your Honor, but if the Court were consistent with its commerce clause jurisprudence up to today, that challenge should be rejected because the type of effect which Brown-Forman talks about has never been considered to be a burden on commerce under the Court's commerce clause jurisprudence.</text>
+            <text syncTime="2091.285" offset="8508250">Instead, this discussion about perversion of free market forces, suspension of free market forces have always been considered to be concerns of the antitrust law.</text>
+            <text syncTime="2100.141" offset="8543777">The commerce clause has been interpreted by this Court to prohibit discrimination between the states.</text>
+            <text syncTime="2106.416" offset="8568854">The commerce clause enacted a common market among the states.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2109.669" stopTime="2128.042">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2109.669" offset="8581811">If, for example, in automobiles, say there is a big transportation cost of getting a car from Michigan to New York.</text>
+            <text syncTime="2116.875" offset="8610650">If New York said you can't sell it... you must sell at least as cheaply in New York as you do in Michigan, it clearly would require some impact out of the state of New York on pricing, wouldn't it?</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2128.042" stopTime="2135.808">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2128.042" offset="8655372">The New York affirmation law, Your Honor, provides for differentials in transportation cost and taxes.</text>
+            <text syncTime="2133.527" offset="8677315">The state has already considered that legitimate interest.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2135.808" stopTime="2148.464">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2135.808" offset="8686405">Well, say just because of different competitive situations, there certainly are market forces that vary in different parts of the country.</text>
+            <text syncTime="2144.172" offset="8719842">You say that you think there would be no problem with this statute no matter what the product is.</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2148.464" stopTime="2180.745">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2148.464" offset="8736978">I would say that if a court adhered to the principles and it is heretofore stated under the commerce clause, there would be no problem.</text>
+            <text syncTime="2154.759" offset="8762160">However, Your Honor, I would say that in the appropriate case, that because the hallmark of a Court's commerce clause jurisprudence has been its flexibility, it is not a discussion of absolutes.</text>
+            <text syncTime="2167.568" offset="8813465">It has been extended to new sorts of burdens and new sorts of effects, that in that type of case the court might for the first time want to consider whether serious perversion of free market forces would raise commerce clause concerns.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2180.745" stopTime="2205.634">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2180.745" offset="8866128">Well, if there is a distiller in the midwest, and he is selling in New York, and be... at his posted prices, if he wants to, he cannot lower the prices for his liquor that he is sending out to California for a month.</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2205.634" stopTime="2220.757">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2205.634" offset="8965706">That is not correct, Your Honor.</text>
+            <text syncTime="2208.328" offset="8976469">This statute has never been applied to prevent a distiller from lowering his price in another state.</text>
+            <text syncTime="2216.593" offset="9009488">In the 20 years since the Seagram decision, neither Brown-Forman--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2220.757" stopTime="2222.147">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2220.757" offset="9026206">Then what is all the big argument about?</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2222.147" stopTime="2233.633">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2222.147" offset="9031744">--Well, Your Honor, the argument is about what Brown-Forman came to this Court about.</text>
+            <text syncTime="2226.099" offset="9047522">Brown-Forman came to this Court alleging a totally different case, a different sort of harm.</text>
+            <text syncTime="2231.552" offset="9069360">The Court refused to take--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2233.633" stopTime="2241.758">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2233.633" offset="9077719">Let me get it straight.</text>
+            <text syncTime="2235.135" offset="9083675">In New York you post your prices, and that is the price you are supposed to sell at in New York for a month.</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2241.758" stopTime="2242.399">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2241.758" offset="9110216">--Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2242.399" stopTime="2254.237">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2242.399" offset="9112724">And the price you charge in New York has to be as low as you are selling any place else, so you are promising for that month not to sell in any other state at any lower price.</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2254.237" stopTime="2259.901">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2254.237" offset="9160162">You are promising for that month, Your Honor, to sell to New York at the lowest price you charge elsewhere.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2259.901" stopTime="2268.295">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2259.901" offset="9182732">Exactly.</text>
+            <text syncTime="2260.391" offset="9184717">And so during that month this distiller, Midwest, may not lower his price on liquor that he is sending out to California.</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2268.295" stopTime="2269.186">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2268.295" offset="9216377">Well, Your Honor.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2269.186" stopTime="2270.158">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2269.186" offset="9219930">Isn't that right?</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2270.158" stopTime="2275.030">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2270.158" offset="9223796">Your Honor, I don't know, because in the 20 years since the case--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2275.030" stopTime="2276.490">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2275.030" offset="9243231">What does the law mean if it doesn't mean that?</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2276.490" stopTime="2280.534">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2276.490" offset="9249083">--The law means that New York has to be granted parity with other states, Your Honor.</text>
+            <text syncTime="2279.805" offset="9262353">I do know that--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2280.534" stopTime="2292.122">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2280.534" offset="9265279">I know.</text>
+            <text syncTime="2281.174" offset="9267891">Well, if the distiller refuses to... if he lowers his price on liquor he is sending out to California, he is violating the New York law.</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2292.122" stopTime="2301.418">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2292.122" offset="9311672">--If the distiller charges a price in another state and thereafter charges a higher price in New York, he is violating the law.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2301.418" stopTime="2316.767">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2301.418" offset="9348871">That is right.</text>
+            <text syncTime="2302.199" offset="9352005">Well, I just said that in the middle of the month he lowers his price on liquor sent out to California, and so he is selling liquor to Californians at a lower price than he is charging New York wholesalers.</text>
+            <text syncTime="2315.235" offset="9404146">He is violating the New York law.</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2316.767" stopTime="2321.359">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2316.767" offset="9410206">That's right, Your Honor, and that is because the law says exactly what--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2321.359" stopTime="2338.103">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2321.359" offset="9428596">And you say that just because it has a substantial impact on interstate commerce between the distiller and his California customers, you just say that isn't much of an impact.</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2338.103" stopTime="2549.911">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2338.103" offset="9495574">--Well, Your Honor, this Court has always held that the states retain a residuum of power to enact regulations concerning matters of local concern which to some extent regulate commerce or affect commerce.</text>
+            <text syncTime="2352.561" offset="9553357">But this type of presumed, speculative regulatory effect has never been considered burdensome by this Court.</text>
+            <text syncTime="2361.648" offset="9589719">In the Parker versus Brown case in 1943 the effect of the California prorate program in that case was to raise and stabilize the price of 95 percent of the country's raisins and one-half of the world's raisins, a very substantial effect.</text>
+            <text syncTime="2377.057" offset="9651368">That was the Court's term.</text>
+            <text syncTime="2378.238" offset="9656071">But that was not considered to be a burden on commerce under the Court's commerce clause jurisprudence.</text>
+            <text syncTime="2385.464" offset="9685014">In the case of Cities Service versus Peerless Oil in 1951, the Court was looking at a regulation which had the effect of doubling the price of natural gas at the wellhead, doubling the price demonstrated in the record, not like here, where we are speculating about what might happen, but a demonstrated doubling of the price.</text>
+            <text syncTime="2404.234" offset="9760142">The Court held that that doubling of the wholesale price of natural gas did not constitute a burden on commerce under its commerce clause jurisprudence.</text>
+            <text syncTime="2414.101" offset="9799535">In the case of Exxon versus the Governor of Maryland, the Court observed that Maryland's divorcement law which prevented refiners from operating a gasoline station would probably have the effect of doing away with high volume, low priced gasoline stations.</text>
+            <text syncTime="2429.272" offset="9860244">The Court said that effect went to the wisdom of the statute, not to its burden on commerce.</text>
+            <text syncTime="2435.486" offset="9885112">So, there are regulations which have effects, demonstrated effects, where the Court has said 95 percent of the country's raisin prices have been raised, and they have obstructed the flow of raisins outside of California, but that is not a burden under the commerce clause jurisprudence.</text>
+            <text syncTime="2453.348" offset="9956583">But here, we have no record to show whether the prices have been raised in other states, whether the prices have gone down in New York.</text>
+            <text syncTime="2460.962" offset="9986990">Mr. Flinn argued that he thinks that the harm has been done to New York consumers, because in a so-called free market, New York consumers would be the beneficiary of the lowest prices.</text>
+            <text syncTime="2474.380" offset="10040697">By taking this case under a facial challenge, without a record, the Court has given Mr. Flinn the opportunity to engage in wild speculation.</text>
+            <text syncTime="2485.319" offset="10084479">Last week, in the decision of Fisher versus the City of Berkeley, this Court axiomatically stated something which if adhered to in this case should be the basis for the rejection of all these claims.</text>
+            <text syncTime="2497.606" offset="10133589">In the Berkeley case, the Court refused to consider the challenge to Berkeley's rent control regulation as an attempt to monopolize under Section 2 of the Sherman Act because the effect of monopolization and the attempt at monopolization was not in the record, and it was not a result which clearly flowed from the face of the statute.</text>
+            <text syncTime="2519.179" offset="10219897">Now, in this case, there are two effects which Mr. Flinn is talking about.</text>
+            <text syncTime="2525.944" offset="10246960">He is talking about this prevention of making mid-month price changes, but Mr. Flinn's client didn't try to make a mid-month price change, and they were incited for violating the law in that regard, and no distiller has ever been cited for violating this law for making a mid-month price change in any other state, and the other effect which he talks about is this perversion of free market forces.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2549.911" stopTime="2557.013">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2549.911" offset="10342777">What is Brown-Forman going to do, have to do about these promotion allowances that the authority is after them about?</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2557.013" stopTime="2586.485">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2557.013" offset="10371199">The promotion allowance issue, which, of course, Your Honor, the Court declined to hear, what the state has said in that regard is that if you are going to provide the promotion allowances in other states, they have to be simply cashed out in New York.</text>
+            <text syncTime="2571.784" offset="10430340">You have to decide what amount does this lower the price of a bottle of Jack Daniels, or what amount does this lower the price of a case of Jack Daniels, and simply provide that to New York wholesalers in a cashed out equivalent.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2586.485" stopTime="2593.768">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2586.485" offset="10489063">Don't tell me that the authority has never challenged what amounts to a reduction of price in another state--</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2593.768" stopTime="2594.769">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2593.768" offset="10518216">It has never challenged--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2594.769" stopTime="2598.580">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2594.769" offset="10522291">--without lowering it in New York.</text>
+            <text syncTime="2597.130" offset="10531695">That is what this argument is all about.</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2598.580" stopTime="2602.484">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2598.580" offset="10537442">--It has never challenged a bid month price change.</text>
+            <text syncTime="2601.192" offset="10547891">In the case of the--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2602.484" stopTime="2603.425">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2602.484" offset="10553115">What was the promotional--</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2603.425" stopTime="2960.910">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2603.425" offset="10556877">--The promotional discount was not a mid-month price change.</text>
+            <text syncTime="2605.716" offset="10566072">Brown-Forman was affording that from... throughout the country.</text>
+            <text syncTime="2609.059" offset="10579447">They came to New York and said, we want to do the same thing in New York.</text>
+            <text syncTime="2611.861" offset="10590627">New York has an explicit statutory ban on liquor discounting.</text>
+            <text syncTime="2616.202" offset="10607973">We said, you can't do that here, but what you have to do, you simply have to decide how much this lowers the price of a bottle or a case of your liquor and then provide this to wholesalers on a cash basis, and that is precisely what was done with Seagram, another distiller, and the example which is cited in our brief, Seagram wanted to do the same type of promotional plan.</text>
+            <text syncTime="2639.848" offset="10702536">A waiver was provided under the good cause provision which Your Honor alluded to before in 24 hours.</text>
+            <text syncTime="2647.224" offset="10732106">In 24 hours Seagram was given permission to cash out the discount and provide it on an equal basis to New York wholesalers.</text>
+            <text syncTime="2658.561" offset="10777455">The perversion of free market forces which Brown-Forman alleges in this case goes something like this, and it has to go something like this because there is no record, but if a distiller did not have to suffer from the so-called inhibiting influence of the affirmation law, the distiller might charge a higher or lower price to a wholesaler in one of the eleven states that doesn't have an affirmation law, because 39 states do.</text>
+            <text syncTime="2685.769" offset="10886229">And then that wholesaler would pass on that higher or lower price to a retailer, and then that retailer would pass on that higher or lower price to a consumer, and that consumer would benefit from the fact that the price he paid for that bottle of liquor was dictated by so-called free market forces rather than dictated by the so-called perverting influence of the affirmation law.</text>
+            <text syncTime="2710.897" offset="10986748">I can think of no more speculative, attenuated, and simplistic depiction of so-called free market forces in a market where there aren't any free market forces.</text>
+            <text syncTime="2719.980" offset="11023111">Mr. Flinn has told you that there are posting requirements.</text>
+            <text syncTime="2723.773" offset="11038262">We have already discussed the fact that there are discounting restrictions in New York and in many other states.</text>
+            <text syncTime="2728.987" offset="11059159">There are bans or limitations on credit transactions in many states.</text>
+            <text syncTime="2734.230" offset="11080057">There is pervasive regulation in many states.</text>
+            <text syncTime="2737.112" offset="11091656">There are licensing restrictions in many states.</text>
+            <text syncTime="2739.676" offset="11101896">Most of the normal incidents of competition simply don't exist in the liquor industry.</text>
+            <text syncTime="2745.430" offset="11124884">To talk about a suspension of free market forces is a contradiction in terms.</text>
+            <text syncTime="2751.143" offset="11147767">In cases where there was a free market, like Reeves versus State, I think, a 1982 decision of this Court, that was the ready-mix concrete market.</text>
+            <text syncTime="2763.251" offset="11196146">When the plaintiff talked about the predicted benefits of free market forces, the Court characterized those predictions as being simple minded speculation, but at least there was a record in that case.</text>
+            <text syncTime="2776.759" offset="11250167">There is no record in this case.</text>
+            <text syncTime="2778.439" offset="11256959">Dealing with another regulated industry, the natural gas industry, in the case I discussed before, Cities Services versus Peerless Oil, the Court noted that a doubling of the wholesale price of gas might have only an attenuated effect on ultimate consumers.</text>
+            <text syncTime="2795.722" offset="11326026">If a demonstrated doubling of a wholesale price might only have an attenuated effect on ultimate consumers, how much more is the attenuated effect in this case, how much more attenuated is the effect in this case where there is no record to show that the prices have gone up or gone down in New York or in any other state.</text>
+            <text syncTime="2814.763" offset="11402199">This Court observed in the Seagram decisions that we don't know whether this is going to produce higher prices in New York or lower prices or higher prices outside the state.</text>
+            <text syncTime="2824.561" offset="11441383">We still don't know, Your Honor.</text>
+            <text syncTime="2826.131" offset="11447653">Twenty years have gone by and we have not moved one inch in terms of knowing more about the effects of this case.</text>
+            <text syncTime="2832.846" offset="11474506">This case is before the Court really almost by accident.</text>
+            <text syncTime="2836.469" offset="11489031">Brown-Forman began this case to challenge a wholly different practice and a different provision.</text>
+            <text syncTime="2842.283" offset="11512332">The interaction between New York's ban on liquor discounting and the affirmation law.</text>
+            <text syncTime="2847.408" offset="11532812">Along the way the Healey case was decided by the Second Circuit.</text>
+            <text syncTime="2852.111" offset="11551620">They got to the Appellate Division of the New York State Supreme Court and they changed their rationale and they inserted this argument, but they inserted an argument that they have no stake in because they haven't been cited for violating the law in this regard, and they have no record to show that prices have gone up or down or there has been any perverting influence.</text>
+            <text syncTime="2874.693" offset="11641899">Now, one thing which has been missing, conspicuously missing from Mr. Flinn's argument is any mention of the other constitutional provision which is at issue in this case.</text>
+            <text syncTime="2886.424" offset="11688815">This case calls the Court to reconcile a conflict between two parts of the same Constitution, and that other part of the Constitution, Your Honor, is the Twenty-First Amendment.</text>
+            <text syncTime="2901.431" offset="11748897">Now, Mr. Flinn in his brief, although he has conspicuously avoided it in his argument, seems to suggest that the same rules apply, the same rules of the road apply in this case as in any other commerce clause case.</text>
+            <text syncTime="2915.891" offset="11806679">Justice Friendly, who... sorry, Judge Friendly, who just wrote a decision upholding the posting requirements which were discussed by Mr. Flinn in the case of Battipuglia versus State Liquor Authority, and those posting requirements are part of the very same law that are issued here said for some of us who were present at the creation of the Twenty-First Amendment, there is an aura of unreality in plaintiff's assumption that we must examine the validity of New York's alcoholic beverage control law just as we would examine the constitutionality of a state statute governing the sale of gasoline.</text>
+            <text syncTime="2952.426" offset="11952861">What Judge Friendly was saying there is that a special rule applies in the Twenty-First Amendment.</text>
+            <text syncTime="2958.659" offset="11977834">The Twenty-First Amendment was enacted--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2960.910" stopTime="2963.261">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2960.910" offset="11986820">--Well, Seagram said the same thing, didn't it?</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="2963.261" stopTime="3296.441">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="2963.261" offset="11996224">--Well, Your Honor, if the Court adheres to the rule in Seagram, the Court has to reject Brown-Forman's claim in this case, and this case really is a reargument of Seagram, because we have no additional record.</text>
+            <text syncTime="2976.150" offset="12047737">The Court said in Seagram, come back to this Court when you have demonstrated the actual extraterritorial effects that these statutes may produce.</text>
+            <text syncTime="2989.799" offset="12102386">Don't come back with a facial challenge.</text>
+            <text syncTime="2992.270" offset="12112208">And we are back with a facial challenge, with no more information, with no record whatsoever.</text>
+            <text syncTime="2998.657" offset="12137808">Mr. Flinn was discussing the change in the statute, the great change which occurred in 1966.</text>
+            <text syncTime="3004.569" offset="12161422">That great change was the change in the statute from a retrospective affirmation provision to a concurrent affirmation provision, and that was made because Brown-Forman and a bunch of other distillers went to the legislature and the Governor of the state of New York and said, we are being burdened.</text>
+            <text syncTime="3022.050" offset="12231326">This provision is onerous.</text>
+            <text syncTime="3024.741" offset="12242088">It prevents us from raising our prices.</text>
+            <text syncTime="3027.265" offset="12252224">Please change the law.</text>
+            <text syncTime="3028.254" offset="12256195">So the legislature made that one change.</text>
+            <text syncTime="3031.927" offset="12270823">It changed the law from a retrospective statute to a current statute.</text>
+            <text syncTime="3037.501" offset="12293184">At the time that they were supporting the change, they called it a current statute.</text>
+            <text syncTime="3041.444" offset="12308962">Now to characterize it invidiously, they call it a prospective statute, but obviously the prospectivity is merely an incident of the posting process which exists in eleven states by statute and in the eighteen other states by contractual warranties, but they said change this statute, so the legislature responded to them, and they changed the law, and they removed the only burden which is associated with a retrospective affirmation statute.</text>
+            <text syncTime="3068.732" offset="12418049">So if the Court were not to overrule Seagram in this case but merely hold that a concurrent or contemporaneous statute was a burden on commerce, then the Court would be saying two things, one, go back to a more burdensome way of doing things, and the Court will be violating the single most important test which the Court has set out in the case of Pike versus Bruce Church, which is the test which sets up the balancing standard, the balance of interest between state and federal interests.</text>
+            <text syncTime="3097.170" offset="12531839">The most important part of that test is the search for the least burdensome alternative and a practical assessment of disallowing the state's action.</text>
+            <text syncTime="3106.767" offset="12570186">The assessment of the least burdensome alternative in this case would show clearly that the state has already adopted the least burdensome alternative.</text>
+            <text syncTime="3115.392" offset="12604773">The state has adopted an alternative that is less burdensome because the distiller asked us to do that, and the state more specifically adopted the explicit holding in Seagram.</text>
+            <text syncTime="3126.710" offset="12650017">If you look at your holding in Seagram, you will see the New York statute.</text>
+            <text syncTime="3131.862" offset="12670601">The statute does exactly what the holding says.</text>
+            <text syncTime="3136.196" offset="12687946">It says, it insists that liquor prices to domestic wholesalers be as low as prices charged elsewhere in the country.</text>
+            <text syncTime="3144.951" offset="12722951">The previous statute did not do that specifically because it merely tried to insist by referencing it to previously charged prices.</text>
+            <text syncTime="3155.427" offset="12764851">So now we have adopted this least burdensome alternative.</text>
+            <text syncTime="3159.330" offset="12780524">What would be the practical result of disallowing this statute?</text>
+            <text syncTime="3165.274" offset="12804244">New York, which was once the subject of price discrimination to the tune of $150 million a year, would likely become again the subject of price discrimination to the tune of $150 million a year, and the state would probably adopt a more burdensome approach to achieving a goal that has already been determined legitimate by this Court.</text>
+            <text syncTime="3187.039" offset="12891284">The Court said that the goal of price equality was a legitimate one, of ending price discrimination was a legitimate one.</text>
+            <text syncTime="3194.104" offset="12919600">And the Court has always said that protecting a consumer's pocketbook is as important as protecting any other interest of the state, as important as protecting the state's environment, which is what the Court said in Philadelphia versus New Jersey.</text>
+            <text syncTime="3208.274" offset="12976234">So if the Court disallows this provision in the name of the commerce clause, it is going to be forcing the state to adopt a more burdensome alternative, and that burdensome alternative might take the form of a retrospective price affirmation statute, or it might take the form of price regulation, where the state actually gets into the business of setting prices and fixing prices or state maximum set prices.</text>
+            <text syncTime="3236.532" offset="13089292">And this Court has always considered those types of regulations to be legitimate over challenges under the substantive due process principles in Nevia versus the People of the State of New York, over commerce clause challenges in Cities Service versus Peerless Oil, over antitrust challenges just last week, in Fisher versus the City of Berkeley.</text>
+            <text syncTime="3258.026" offset="13175287">Now, to get back to the Twenty-First Amendment and the special rules that apply in this type of commerce clause case, because the Court has to resolve what may be a conflict between two sections of the law.</text>
+            <text syncTime="3274.926" offset="13242892">I submit there is no conflict.</text>
+            <text syncTime="3276.257" offset="13248221">I submit in response to Justice Brennan's question that the Court can uphold the statute without ever reaching the Twenty-First Amendment.</text>
+            <text syncTime="3284.212" offset="13279986">We don't need the Twenty-First Amendment.</text>
+            <text syncTime="3286.045" offset="13287300">But if we get to the Twenty-First Amendment, we know that different rules apply.</text>
+            <text syncTime="3292.039" offset="13311333">The Twenty-First Amendment, second section, provides a test.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3296.441" stopTime="3300.645">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3296.441" offset="13328887">Do you think that the different rules apply after the Backus Imports case?</text>
+          </turn>
+          <turn speaker="lloyd_e_constantine" startTime="3300.645" stopTime="3550.367">
+            <label>Mr. Lloyd E. Constantine</label>
+            <text syncTime="3300.645" offset="13345710">Yes, Your Honor, I do.</text>
+            <text syncTime="3302.846" offset="13354591">All that Backus determined was that a state could not use its authority to control importation distribution for a wholly discriminatory purpose, and the Court said that Hawaii's action in the Backus case was not in furtherance of temperance or any other... any other legitimate core power of the Twenty-First Amendment.</text>
+            <text syncTime="3327.650" offset="13453752">Those other purposes are controlling the distribution of liquor within the state.</text>
+            <text syncTime="3332.835" offset="13474546">The court has always held that the control of importation and distribution and the structuring of the liquor distribution system is the very essence of the Twenty-First Amendment power.</text>
+            <text syncTime="3343.221" offset="13516028">That is what the Court said in Capital City Cable versus Crisp, which was the last case which was argued before this case under the Twenty-First Amendment, argued six weeks after the Backus decision which you have alluded to... argued six weeks after Backus was actually argued.</text>
+            <text syncTime="3359.102" offset="13579558">In that case there was a temperance-based regulation, a ban on advertising, and the Court said that the FCC's interest in their regulation of cable signals preempted Oklahoma's advertising ban, even though it was temperance based, because Oklahoma was not invoking the core power, and the core power was, and I quote,</text>
+            <text syncTime="3386.311" offset="13688436">"the central power is exercising control over whether to permit importation or sale of liquor and how to structure the liquor distribution system. "</text>
+            <text syncTime="3395.136" offset="13723754">That is consistent with Backus.</text>
+            <text syncTime="3397.587" offset="13733471">That is consistent with Seagram.</text>
+            <text syncTime="3399.157" offset="13739741">That is consistent with the Idlewild case of 1964.</text>
+            <text syncTime="3402.609" offset="13753638">It is consistent with the Heublin case of 1972.</text>
+            <text syncTime="3405.531" offset="13765236">It is consistent with the Midcal case, where the Court struck the California RPM system, but said California wasn't exercising the core power of the Twenty-First Amendment, but specifically referred to the Seagrams case as the case in which a state was exercising that core power.</text>
+            <text syncTime="3423.684" offset="13837857">The Seagrams case has become synonymous with the core power under the Twenty-First Amendment.</text>
+            <text syncTime="3429.447" offset="13860949">I mentioned before the Heublin case.</text>
+            <text syncTime="3431.390" offset="13868681">In that case you had what would otherwise have been a per se violation of the commerce clause, a requirement that a state... a requirement by the state of South Carolina that a distiller, Heublin, maintain a business presence in the state that it didn't want to, to do something which it could have done more efficiently in another state.</text>
+            <text syncTime="3451.503" offset="13949138">In other contexts, the Court has disallowed that type of regulation, in Tumer against Whitsel, in Foster Fountain Packing versus Heidel, in Pike versus Bruce Church, in Johnson against Heidel, but special rules apply in the Twenty-First Amendment context.</text>
+            <text syncTime="3466.152" offset="14007757">Not only did the Twenty-First Amendment, that exercise of core power overcome what would otherwise be a per se violation of the commerce clause, but it overcame 15 USC Section 381(a), and Justice Blackmun in that case even indicated that the application of that section to the state in that case was unconstitutional, almost a reverse preemption argument.</text>
+            <text syncTime="3490.338" offset="14104515">So, a different rule applies here.</text>
+            <text syncTime="3493.248" offset="14116113">The states are virtually unconstrained by traditional commerce clause considerations when they are acting within the core power of the Twenty-First Amendment.</text>
+            <text syncTime="3503.666" offset="14157804">I see that my time is just about up.</text>
+            <text syncTime="3507.200" offset="14172015">And therefore, in summation, I would just like to say that the Court's commerce clause jurisprudence has been exemplified by its flexibility.</text>
+            <text syncTime="3514.662" offset="14201795">It is not an exercise in absolutes.</text>
+            <text syncTime="3516.703" offset="14209945">There is nothing which foreordains one result or another.</text>
+            <text syncTime="3519.407" offset="14220812">But the Court should not extend the concept of burden on commerce which would be true in this case for the first time to a so-called suspension of free market forces in a case where there is no record, no discrimination, no direct regulation of interstate commerce, and no free market, and the reason there is no free market is because the states are exercising their core power under the Twenty-First Amendment.</text>
+            <text syncTime="3547.796" offset="14334392">Thank you very much.</text>
+            <text syncTime="3549.256" offset="14340139">It has been an honor to be here.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3550.367" stopTime="3554.179">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3550.367" offset="14344632">You have one minute remaining, Mr. Flinn.</text>
+          </turn>
+        </section>
+        <section startTime="3554.179" stopTime="3622.875">
+          <heading>Rebuttal of Macdonald Flinn</heading>
+          <turn speaker="macdonald_flinn" startTime="3554.179" stopTime="3620.422">
+            <label>Mr. Macdonald Flinn</label>
+            <text syncTime="3554.179" offset="14359888">Very brief, Mr. Chief Justice.</text>
+            <text syncTime="3555.499" offset="14365112">I would make simply this point.</text>
+            <text syncTime="3557.342" offset="14372531">If the Court agreed with us that New York's present statute prospectively reaches out and controls minimum prices that can be charged in other states, there is no necessity to show what has in fact happened, whether prices have been raised in other states while lowered in New York.</text>
+            <text syncTime="3576.643" offset="14449749">There is no necessity to show the competitive arguments which we make because we believe that they inevitably flow from such extraterritorial regulation.</text>
+            <text syncTime="3586.861" offset="14490604">To the contrary, if there is such an extraterritorial projection by New York of its legislation, its minimum prizes elsewhere, that is a direct burden upon interstate commerce, and no further showing is necessary.</text>
+            <text syncTime="3602.169" offset="14551835">As Justice White wrote in Might against Edgar, where a state projects its legislation outside its borders and attempts to regulate transactions which have nothing to do with that state, there is nothing to be weighed in the balance to sustain the regulating state's act.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3620.422" stopTime="3622.875">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3620.422" offset="14624874">Thank you, gentlemen.</text>
+            <text syncTime="3622.014" offset="14631248">The case is submitted.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3622.875" stopTime="3628.491">
+            <label>Unknown Speaker</label>
+            <text syncTime="3622.875" offset="14634696">The Honorable Court is now adjourned until tomorrow at 10:00.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,47 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:55:24" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1105358">/xml/cases/2005/04_712/20051129o_04-712.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-712_20051129-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="254.250">
+        <title>Lincoln Property Co. v. Roche</title>
+        <section startTime="0.000" stopTime="254.250">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.402">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88359">Justice Ginsburg has the opinion in No. 04-712, Lincoln Property versus Roche.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="9.402" stopTime="254.250">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="9.402" offset="125871">This case was begun by tenants who found mold in their apartment and moved out on that account.</text>
+            <text syncTime="16.810" offset="155546">The litigation sparked a controversy about the proper court system, state or federal, to entertain the proceedings.</text>
+            <text syncTime="26.161" offset="192953">A provision of the U.S. Judicial Code authorizes the removal of lawsuits from state court to federal court when the action begun in state court is one that could have been brought originally in federal court.</text>
+            <text syncTime="42.663" offset="258991">When federal-court jurisdiction is based on the parties’ diversity of citizenship, removal is permissible only if none of the parties in interest properly joined and served as defendants is a citizen of the State in which the action was brought.</text>
+            <text syncTime="58.778" offset="323461">Christophe and Juanita Roche, plaintiffs below, respondents here, are citizens of Virginia.</text>
+            <text syncTime="65.929" offset="351987">Filing suit in state court, they named only defendants who did not share their Virginia citizenship, including Lincoln Property Company, a corporation chartered and having its principal place of business in Texas.</text>
+            <text syncTime="81.338" offset="413636">Joined by its codefendants, Lincoln, alleged by Roche, the Roches to be the manager of the apartment complex in which they lived, removed the case to a Federal District Court, where the defendants eventually gained summary judgment in their favor.</text>
+            <text syncTime="100.357" offset="489704">The Court of Appeals for the 4th Circuit reversed that judgment and told the district court to send the case back to the state court, although recognizing that Lincoln is a Texas citizen and a proper party to the action, the appellate court suspected that an unidentified Virginia affiliate of Lincoln was the real and substantial party in interest.</text>
+            <text syncTime="124.835" offset="587611">If there was such an affiliate, and if it had been made a defendant, there would be no complete diversity of citizenship between plaintiffs and defendants and therefore no federal-court jurisdiction.</text>
+            <text syncTime="137.283" offset="637453">The Court of Appeals said that Lincoln, the party who invoked federal-court jurisdiction by removing the case, had not shown that no Virginia affiliate was involved in the superintendence of the Roches’ apartment and therefore had not proved that diversity jurisdiction existed.</text>
+            <text syncTime="157.601" offset="718746">We reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="160.852" offset="731703">Defendants may remove an action on the basis of diversity of citizenship if there is complete diversity between all named plaintiffs and all named defendants and no defendant is a citizen of the forum State.</text>
+            <text syncTime="175.348" offset="789695">Each of those requirements is met here.</text>
+            <text syncTime="178.536" offset="802442">When a plaintiff names only diverse defendants, it is not incumbent on those defendants to negate the existence of a potential additional or substitute defendant whose presence in the action would destroy diversity.</text>
+            <text syncTime="195.148" offset="868898">The Court of Appeals had no warrant to impose such a proof burden on Lincoln.</text>
+            <text syncTime="201.693" offset="895125">Congress is empowered to prescribe the jurisdiction of the federal courts and has sometimes specified that a named party’s own citizenship does not determine its diverse status.</text>
+            <text syncTime="215.035" offset="948415">For cases of the kind the Roches have instituted, however, Congress has provided simply and only this instruction:  a corporation shall be deemed to be a citizen of any State by which it has been incorporated and of the State where it has its principal place of business.</text>
+            <text syncTime="233.469" offset="1022184">The jurisdictional rule governing here is unambiguous, and it is not amenable to judicial enlargement.</text>
+            <text syncTime="240.285" offset="1049456">Because Lincoln is a citizen of Texas and is not a citizen of Virginia, this case was properly removed to the Federal District Court.</text>
+            <text syncTime="249.809" offset="1087595">The decision reversing the 4th Circuit judgment is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,1263 @@
+<transcript>
+      <history>
+        <transcribed minutes="58">2013-12-11T11:10</transcribed>
+      </history>
+      <resources>
+        <audioFile size="14136428">/xml/cases/2013/12_794/20131211a_12-794.mp3</audioFile>
+        <sourceFile>/data/sites/oyez.org/cases/2013/2013_12_794/12-794_20131211-argument_0.xml</sourceFile>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="elena_kagan" type="justice" gender="female" path="/justices/elena_kagan" image="/justices/elena_kagan/thumbnail.jpg">Elena Kagan</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="sonia_sotomayor" type="justice" gender="female" path="/justices/sonia_sotomayor" image="/justices/sonia_sotomayor/thumbnail.jpg">Sonia Sotomayor</speaker>
+        <speaker id="susan_r_lenz" type="advocate" gender="female" path="/advocates/sl/susan_r_lenz" image="/advocates/sl/susan_r_lenz/thumbnail.jpg">Susan R. Lenz</speaker>
+        <speaker id="laurence_e_komp" type="advocate" gender="male" path="/advocates/lk/laurence_e_komp" image="/advocates/lk/laurence_e_komp/thumbnail.jpg">Laurence E. Komp</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3506.994">
+        <title>White v. Woodall</title>
+        <section startTime="0.000" stopTime="1527.910">
+          <heading>Argument of Susan R. Lenz</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="7.935">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="107082">We will hear argument next in Case 12-794, White v. Woodall.</text>
+            <text syncTime="6.592" offset="133413">Ms. Lenz?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="7.935" stopTime="49.387">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="7.935" offset="138742">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="11.123" offset="151490">This Court has repeatedly held that a State prisoner cannot obtain habeas relief under AEDPA unless State court contravenes or unreasonably applies clearly established Federal law.</text>
+            <text syncTime="23.022" offset="199138">In this case, there was no clearly established Federal law.</text>
+            <text syncTime="27.083" offset="215333">Under any interpretation of Carter, Estelle, and Mitchell, this Court has never extended Carter to the selection phase of a capital sentencing trial.</text>
+            <text syncTime="37.283" offset="256189">Because there is no clearly established Federal law, the Kentucky Supreme Court was well within its authority to resolve this unresolved question in favor of affirming the sentence.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="49.387" stopTime="105.554">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="49.387" offset="304568">Ms. Lenz, could I ask you about what you just said?</text>
+            <text syncTime="50.262" offset="308120">You said Carter, Estelle, and Mitchell; those are the three.</text>
+            <text syncTime="53.152" offset="319614">So Carter says the Fifth Amendment requires that a criminal trial judge must give a no-adverse-inference jury instruction when requested by a defendant.</text>
+            <text syncTime="63.085" offset="359320">And that was, of course, not a sentencing case.</text>
+            <text syncTime="65.038" offset="367157">Then Estelle says, we discern no basis to distinguish between the guilt and penalty phases of Respondent's capital murder trial so far as the protection of the Fifth Amendment; so a kind of general view that the Fifth Amendment applies equally in the two.</text>
+            <text syncTime="80.906" offset="430687">And then Mitchell holds -- it basically repeats that from Estelle and says, we must accord the privilege the same protection in the sentencing phase of any criminal case, as that which is due in the trial phase.</text>
+            <text syncTime="96.902" offset="494635">So when you put those together, Carter with Estelle, Mitchell, how -- why do you think that there's a gap?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="105.554" stopTime="158.125">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="105.554" offset="529221">Well, there's -- there is a gap between Mitchell and Carter.</text>
+            <text syncTime="112.346" offset="556388">First of all, Mitchell was not a jury instruction case.</text>
+            <text syncTime="116.065" offset="571330">In Mitchell, while the defendant did plead guilty, she did not plead guilty to all of the conduct, so there were still factors that were being contested.</text>
+            <text syncTime="127.279" offset="616156">In this case, Mr. Woodall pled guilty to all of the crimes and aggravating circumstances.</text>
+            <text syncTime="131.184" offset="631725">Mitchell and Estelle were both concerned with protecting the defendant from the prosecution shifting its burden of proof to the defendant.</text>
+            <text syncTime="141.929" offset="674775">In this case, there was no -- there was no burden shifting because Robert Keith Woodall had already pleaded guilty to the facts which the prosecutor was required to prove beyond a reasonable doubt to render Mr. Woodall eligible for the death penalty.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="158.125" stopTime="173.823">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="158.125" offset="739559">Do you think it would have been okay for the trial court to instruct the jury that they could use the defendant's silence against him?</text>
+            <text syncTime="166.732" offset="773936">Would the affirmative statement have been constitutional and not a violation of the Fifth Amendment?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="173.823" stopTime="180.586">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="173.823" offset="802357">I do not think it would have been proper.</text>
+            <text syncTime="176.274" offset="812075">Under Kentucky law, the attorney could not refer to--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="180.586" stopTime="188.285">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="180.586" offset="829420">No, I didn't ask about Kentucky law.</text>
+            <text syncTime="181.178" offset="831719">Do you think the Fifth Amendment permits the judge to have said, use silence?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="188.285" stopTime="195.109">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="188.285" offset="860140">--No.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="195.109" stopTime="200.171">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="195.109" offset="887516">Use silence to punish him because he's just a bad person.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="200.171" stopTime="202.638">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="200.171" offset="907683">I -- I don't think so.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="202.638" stopTime="203.497">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="202.638" offset="917609">I mean, that doesn't--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="203.497" stopTime="247.793">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="203.497" offset="921058">Under Federal law, you don't think the judge could say, ladies and gentlemen of the jury, this defendant has already pleaded guilty to a horrible crime.</text>
+            <text syncTime="207.481" offset="936940">This is a punishment hearing.</text>
+            <text syncTime="212.292" offset="956166">He has chosen not to -- not to testify in this -- in this hearing.</text>
+            <text syncTime="218.930" offset="982706">You -- you are -- if you wish, you may take his failure to testify as an indication that he does not have remorse, that he is not sorry.</text>
+            <text syncTime="230.661" offset="1029622">He could have come before you said and said I am terribly sorry, I wish I had never done it, I will never do it again.</text>
+            <text syncTime="238.030" offset="1059193">He has chosen not to testify.</text>
+            <text syncTime="239.592" offset="1065358">You may, if you wish, take that into account in determining whether -- whether there is remorse.</text>
+            <text syncTime="246.184" offset="1091794">You can't say that?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="247.793" stopTime="248.480">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="247.793" offset="1098168">Oh, absolutely.</text>
+            <text syncTime="247.917" offset="1098690">Absolutely.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="248.480" stopTime="249.839">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="248.480" offset="1100989">Well, then your answer should have been otherwise.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="249.839" stopTime="270.160">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="249.839" offset="1106422">Well, I guess I interpreted Justice Sotomayor's question a little bit different because she wasn't referring to facts in evidence or -- or to some type of evidence.</text>
+            <text syncTime="259.601" offset="1145397">But your question asks the -- the question about whether silence bears on the determination of a lack of remorse.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="270.160" stopTime="271.128">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="270.160" offset="1187715">Of course.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="271.128" stopTime="274.938">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="271.128" offset="1191582">And Mitchell specifically left that open.</text>
+            <text syncTime="272.830" offset="1198373">In fact, Mitchell--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="274.938" stopTime="286.200">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="274.938" offset="1206733">--Well, there was a factual dispute as to how much the witness -- the victim had suffered.</text>
+            <text syncTime="281.451" offset="1232855">How about a statement about that?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="286.200" stopTime="310.690">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="286.200" offset="1251872">--Well, I don't think there was actually a dispute about how much the victim suffered.</text>
+            <text syncTime="291.072" offset="1271307">There, I think, you are referring to the testimony of the blood spatter expert where -- wherein he was talking about how the blood was splattered around, it indicated that there had been quite a struggle when the victim's throat was slashed.</text>
+            <text syncTime="305.879" offset="1330553">And trial counsel--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="310.690" stopTime="333.212">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="310.690" offset="1349779">But take the -- take the hypothetical, Ms. Lenz, that suppose, you know, the prosecutor had said you just heard testimony from our expert that -- the blood spattering expert, that the victim's suffering was especially prolonged, and look, the defendant didn't take the stand.</text>
+            <text syncTime="323.950" offset="1402860">Why didn't he take the stand to deny that?</text>
+            <text syncTime="328.824" offset="1422295">All right?</text>
+            <text syncTime="329.338" offset="1424385">So could the prosecutor have said that at the sentencing hearing?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="333.212" stopTime="359.076">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="333.212" offset="1439849">--Yes, Justice Kagan.</text>
+            <text syncTime="336.305" offset="1452284">The prosecutor could have said that because that is a selection factor.</text>
+            <text syncTime="340.818" offset="1470256">That -- the fact of whether the victim struggled is not a fact that makes the defendant eligible for the death penalty.</text>
+            <text syncTime="348.830" offset="1502334">So because the -- the prosecutor had no burden of proof on that, the defendant wasn't in -- in jeopardy of having the burden shifted to him.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="359.076" stopTime="371.807">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="359.076" offset="1543294">So you're suggesting that what we haven't decided, if you will, goes beyond the remorse question of -- that we -- that we talked about in -- not Mitchell, but -- is it Mitchell?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="371.807" stopTime="373.758">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="371.807" offset="1594285">Mitchell, yes.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="373.758" stopTime="397.685">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="373.758" offset="1602018">It goes beyond the remorse question.</text>
+            <text syncTime="376.821" offset="1614347">And you're saying that really, in the sentencing hearing, the Fifth Amendment has nothing to do with -- with anything that happens there essentially, because once -- once the person has been found eligible for the death penalty, a prosecutor and a jury can -- can draw whatever inferences they want.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="397.685" stopTime="408.479">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="397.685" offset="1697730">I think that the core purpose of the Fifth Amendment has -- has been protected.</text>
+            <text syncTime="405.511" offset="1729077">Yes, I do.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="408.479" stopTime="538.567">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="408.479" offset="1740989">What do we do about -- I mean, I think the relevant pages are -- it's at 526 U.S. 328 to 330.</text>
+            <text syncTime="418.147" offset="1779650">Probably read those 17 times.</text>
+            <text syncTime="419.694" offset="1785815">All right.</text>
+            <text syncTime="421.411" offset="1792711">When I looked at those, I saw they reaffirmed Estelle.</text>
+            <text syncTime="426.564" offset="1813296">As they quote Estelle, they say its reasoning applies with full force.</text>
+            <text syncTime="432.080" offset="1835343">Estelle says,</text>
+            <text syncTime="434.093" offset="1843389">"The court could discern no basis to distinguish between the guilt and penalty phases of Respondent's capital trial so far as the protection of the Fifth Amendment privilege is concerned. "</text>
+            <text syncTime="445.292" offset="1888215">I marked five separate statements in those two pages that came to the same thing.</text>
+            <text syncTime="449.462" offset="1904829">I looked at Estelle.</text>
+            <text syncTime="451.758" offset="1914024">Estelle has to do with the right to note -- note the comment that he wanted in respect to a sentencing fact that the jury was going to decide; namely, future dangerousness.</text>
+            <text syncTime="465.751" offset="1970031">Nothing to do with a fact about the crime.</text>
+            <text syncTime="468.642" offset="1981629">A sentencing fact.</text>
+            <text syncTime="469.344" offset="1984450">So then I said, well, what favors you here?</text>
+            <text syncTime="473.156" offset="1999706">What favors you is the last sentence of the first paragraph on 330, which says,</text>
+            <text syncTime="479.621" offset="2025515">"Whether silence bears upon the determination of a lack of remorse or upon acceptance of responsibility for purposes of the downward adjustment provided in 3E1.1 of U.S. Sentencing Guidelines is a separate question. "</text>
+            <text syncTime="493.054" offset="2079222">"It is not before us and we express no view on it. "</text>
+            <text syncTime="495.569" offset="2089358">Right.</text>
+            <text syncTime="497.428" offset="2096777">It's, one, not just a sentencing fact, but a state of mind of the defendant, lack of remorse; two, it's in the sentencing guidelines; three, it is a decision for a judge, not the jury.</text>
+            <text syncTime="510.531" offset="2149126">If it isn't confined as I just said it, then Mitchell overrules Estelle, what it explicitly denies doing.</text>
+            <text syncTime="521.744" offset="2194057">Here we have sentencing facts, facts about his childhood.</text>
+            <text syncTime="525.697" offset="2209835">He wanted the Estelle instruction.</text>
+            <text syncTime="529.211" offset="2223836">The judge wouldn't give it.</text>
+            <text syncTime="531.460" offset="2232822">That's the argument against you, I think.</text>
+            <text syncTime="535.553" offset="2249227">And I would like to hear your specific response.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="538.567" stopTime="560.809">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="538.567" offset="2261348">Well, in Estelle, that sentencing factors future dangerousness, and the prosecution had to prove that beyond a reasonable doubt in order to make Mr. Smith eligible for the death penalty.</text>
+            <text syncTime="548.359" offset="2300427">That's a very different fact than a factor of what you're speaking about, which would be a selection factor and the prosecution has--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="560.809" stopTime="597.028">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="560.809" offset="2350269">Well, I thought the facts -- what was at issue here, he has put on witnesses that show that he had a bad childhood and he didn't himself testify about his bad childhood.</text>
+            <text syncTime="574.131" offset="2403559">And in that context, he asked for the no silence/silence instruction.</text>
+            <text syncTime="579.394" offset="2424561">The government did not object.</text>
+            <text syncTime="581.237" offset="2431980">The judge then refused to give the instruction.</text>
+            <text syncTime="586.483" offset="2452982">All right.</text>
+            <text syncTime="587.514" offset="2457058">Now, what's the difference between the facts about how his parents raised him and the fact of future dangerousness in Estelle?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="597.028" stopTime="616.785">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="597.028" offset="2495092">--The difference is the burden of proof.</text>
+            <text syncTime="599.497" offset="2505018">How his parents raised him is a mitigating circumstance.</text>
+            <text syncTime="600.138" offset="2507631">Mr. Woodall had the burden of proof on mitigating circumstances.</text>
+            <text syncTime="604.009" offset="2523095">The jury was instructed they had to consider the mitigating circumstances.</text>
+            <text syncTime="609.725" offset="2545978">So whether Mr. Woodall testified or not, we assume that the jury followed the instructions and considered the mitigating circumstances.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="616.785" stopTime="633.262">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="616.785" offset="2574191">Ms. Lenz, am I correct, the instruction that was requested but not given was as follows: Quote,</text>
+            <text syncTime="624.611" offset="2605433">"A defendant is not compelled to testify and the fact that the defendant did not testify should not prejudice him in any way. "</text>
+            <text syncTime="631.934" offset="2634795">That was the instruction?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="633.262" stopTime="633.824">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="633.262" offset="2640124">Yes, sir.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="633.824" stopTime="661.033">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="633.824" offset="2642318">So suppose that the -- you put on evidence of -- to show that he was qualified for the death penalty and put on evidence of aggravating factors, and the defense put on absolutely no mitigation evidence.</text>
+            <text syncTime="649.476" offset="2704907">The instruction would say, would it not, that the fact that the defendant did not testify should not prejudice him in any way with respect to the failure to put on any mitigation evidence at all?</text>
+            <text syncTime="659.174" offset="2743778">Is that correct?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="661.033" stopTime="670.889">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="661.033" offset="2751196">That's exactly right, Your Honor.</text>
+            <text syncTime="663.000" offset="2759033">That's exactly right.</text>
+            <text syncTime="664.641" offset="2765616">So, in essence, it really shifts the burden of proof, Mr. Woodall's burden of proof, back to the prosecution.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="670.889" stopTime="696.316">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="670.889" offset="2790589">In this case, of course, the question is even narrower.</text>
+            <text syncTime="671.294" offset="2792156">That instruction would forbid the jury from even taking into account his failure to testify on -- on the one factor of remorse -- the one psychological factor of remorse.</text>
+            <text syncTime="686.225" offset="2851924">And if you say that you're not entitled to such an instruction on that, that alone would have -- would have been enough to deny the requested instruction.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="696.316" stopTime="701.454">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="697.514" offset="2897064">That's exactly right.</text>
+            <text syncTime="699.642" offset="2905632">And I think the judge indicates--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="701.454" stopTime="717.040">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="701.454" offset="2912842">Could you call him to ask him if he feels sorry?</text>
+            <text syncTime="705.265" offset="2928098">If he has no Fifth Amendment right, could you call him to the stand and ask him, are you sorry?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="717.040" stopTime="753.573">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="717.040" offset="2975222">--No, Justice Sotomayor, because there are two rulings in Mitchell, and the first ruling in Mitchell says that -- said that Mitchell still had the Fifth Amendment right in the sentencing proceeding after the guilty plea.</text>
+            <text syncTime="729.895" offset="3026631">That's the first ruling in Mitchell.</text>
+            <text syncTime="731.192" offset="3031751">But the second ruling in Mitchell then limits that.</text>
+            <text syncTime="734.051" offset="3043245">It doesn't say there are no adverses, no adverse inferences whatsoever that can be inferred.</text>
+            <text syncTime="740.238" offset="3068009">It says no adverse inferences can be inferred on facts and circumstances that the prosecutor is required to prove which increase the penalty range.</text>
+            <text syncTime="750.421" offset="3108760">So there's a difference.</text>
+            <text syncTime="750.654" offset="3109596">So--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="753.573" stopTime="771.504">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="753.573" offset="3121299">Is your position basically that this is in the nature of a -- an affirmative defense and that defendant carries the burden on remorse -- and what was the other one that Mitchell saved out?</text>
+            <text syncTime="770.193" offset="3187755">Acceptance of responsibility?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="771.504" stopTime="774.378">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="771.504" offset="3193084">--Yes.</text>
+            <text syncTime="773.301" offset="3200189">Yes, Justice Ginsburg.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="774.378" stopTime="785.328">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="774.378" offset="3204578">So if defendant says nothing, then he hasn't -- he hasn't proved a mitigator.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="785.328" stopTime="797.120">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="785.328" offset="3248359">That's right, and -- and he bears the burden of proof on that and he bears the consequences from failing to meet his burden on that.</text>
+            <text syncTime="793.309" offset="3280228">The prosecution has absolutely no burden with regard to mitigating circumstances.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="797.120" stopTime="817.361">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="797.120" offset="3295484">So would it have been an acceptable and workable rule to say that in a sentencing hearing, on any point where the defendant has the burden of proof the government is entitled to testimony, that silence can be the basis for an adverse inference?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="817.361" stopTime="823.577">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="817.361" offset="3376463">Could you repeat the question?</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="823.577" stopTime="863.032">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="823.577" offset="3401332">Would it be an acceptable, workable rule to say that in a sentencing hearing, on any issue where the defendant has the burden of proof the prosecution is entitled to an instruction that silence can be the basis for an inference against the defendant on those issues?</text>
+            <text syncTime="845.912" offset="3490671">0 --.</text>
+            <text syncTime="850.051" offset="3507284">I mean, you have to either say yes or not.</text>
+            <text syncTime="854.847" offset="3526406">If -- if you say no, then I ask why remorse is different?</text>
+            <text syncTime="858.814" offset="3542289">If you say yes, then remorse is included within that.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="863.032" stopTime="871.982">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="863.032" offset="3559111">Well, I think no, and remorse is different because again that's a mitigating circumstance upon which Woodall has the burden of proof.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="871.982" stopTime="876.901">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="871.982" offset="3594951">I'm sorry.</text>
+            <text syncTime="874.886" offset="3606550">What did you just say?</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="876.901" stopTime="883.227">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="876.901" offset="3614595">I don't understand why you're not entitled to the instruction on all issues as to which the defendant has the burden of proof--</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="883.227" stopTime="885.321">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="883.227" offset="3639986">Well, it makes sense--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="885.321" stopTime="886.089">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="885.321" offset="3648346">--in a sentencing hearing.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="886.089" stopTime="902.234">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="886.089" offset="3651376">--It makes sense to not -- the purpose of the no-adverse-inference instruction is to protect the defendant from the prosecution shifting its burden of proof, in other words using his silence to prove one of the elements that the prosecution is required to prove.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="902.234" stopTime="928.506">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="902.234" offset="3715951">The -- the assumption in my question is that the defendant has the burden of proof on a certain number of issues in the sentencing hearing.</text>
+            <text syncTime="910.185" offset="3747820">As to all of those issues, it seems to me it has to be your position that the government is entitled to the instruction that I described.</text>
+            <text syncTime="919.760" offset="3786063">Or you're just going to stand up and say, well, remorse is different.</text>
+            <text syncTime="925.352" offset="3808424">But I -- we need to know what -- what your argument is.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="928.506" stopTime="932.177">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="928.506" offset="3821067">You need to know why remorse is different, is that what you're asking?</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="932.177" stopTime="935.761">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="932.177" offset="3835696">Well, that's one way of asking it, yes.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="935.761" stopTime="955.556">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="935.761" offset="3850115">Yes.</text>
+            <text syncTime="936.291" offset="3852205">Well, I think it would be the same answer.</text>
+            <text syncTime="939.805" offset="3866207">It's just that remorse is a mitigating circumstance and the prosecution has no burden of proof on mitigating circumstances.</text>
+            <text syncTime="947.716" offset="3897867">That's the defendant's choice as to whether he wants to place evidence in the record regarding any mitigating circumstances whatsoever.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="955.556" stopTime="976.190">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="955.556" offset="3929214">Well, when a party has the burden of producing evidence on something, isn't the customary way of dealing with that to instruct the jury that the defendant had the burden of producing evidence to show this, rather than to -- to talk about inferences that can be drawn from their failure, from that party's failure to produce evidence.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="976.190" stopTime="987.216">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="976.190" offset="4011761">Well, in this case the jury was not instructed that Mr. Woodall had the burden of proof on the mitigating circumstances.</text>
+            <text syncTime="984.030" offset="4043108">They were instructed to consider the mitigating circumstances.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="987.216" stopTime="990.497">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="987.216" offset="4055856">They also weren't instructed to draw any inferences, were they?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="990.497" stopTime="991.151">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="990.497" offset="4069022">No, they were not.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="991.151" stopTime="1001.790">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="991.151" offset="4071634">I mean the -- the issue here is whether you must instruct them not to draw inferences, not -- not whether -- whether -- anyway.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1001.790" stopTime="1034.713">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1001.790" offset="4114161">Well, the jury was instructed:</text>
+            <text syncTime="1003.663" offset="4121684">"You shall consider such mitigating or extenuating facts and circumstances as have been presented to you in the evidence and you believe to be true. "</text>
+            <text syncTime="1011.723" offset="4153972">Now, I suppose they could have been -- the mitigating evidence could have been put in by the prosecution, but for the most part they're going to be put in by the defense.</text>
+            <text syncTime="1018.268" offset="4180094">So when the judge says you can consider whatever mitigating evidence has been presented to you, isn't that tantamount to saying that the defendant has the burden of producing evidence of mitigation if the defendant wants to do that?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1034.713" stopTime="1039.055">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1034.713" offset="4245923">I don't think it speaks to who has the burden.</text>
+            <text syncTime="1036.633" offset="4253551">It just speaks to the fact that they're required to consider--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1039.055" stopTime="1046.615">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1039.055" offset="4263268">I thought we -- it wasn't controversial that on mitigating factors the defendant does have the burden.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1046.615" stopTime="1049.988">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1046.615" offset="4293466">--He does.</text>
+            <text syncTime="1047.816" offset="4298272">He does.</text>
+            <text syncTime="1048.988" offset="4302974">That's correct.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1049.988" stopTime="1075.774">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1049.988" offset="4306945">So is -- is there a difference between the prosecutor saying, judge, I want you to charge this jury that they can use defendant's silence against him, or a judge on his own telling the jury that, or the judge, as here, simply refusing to say you can't take it into account?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1075.774" stopTime="1076.680">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1075.774" offset="4410076">Well, I do think--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1076.680" stopTime="1080.649">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1076.680" offset="4413733">Are all those the same or would you distinguish them?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1080.649" stopTime="1092.331">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1080.649" offset="4429616">--I think there -- there is a difference between the prosecution and the court not telling the jury that, that they can take the defendant's silence into consideration, I do.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1092.331" stopTime="1118.384">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1092.331" offset="4476323">Well, where does that difference come from?</text>
+            <text syncTime="1094.284" offset="4484160">Because I thought that every time and in every circumstance that we've prohibited an adverse inference we've also required a requested jury instruction.</text>
+            <text syncTime="1105.435" offset="4528777">I don't know of a -- of a case or any principle that would suggest that we can tear those two things apart and say, well, look, an adverse inference is prohibited, but, no, you don't get an instruction.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1118.384" stopTime="1135.752">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1118.384" offset="4580604">Well, the -- the only situation that I I'm aware of that the Court has, that it has extended Griffin with this Carter instruction is in the guilt phase, where the prosecution is still required to prove guilt.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1135.752" stopTime="1154.666">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1135.752" offset="4650089">I guess I'm asking a different question.</text>
+            <text syncTime="1136.924" offset="4654687">Do you have any case that suggests that those two things don't go hand and hand?</text>
+            <text syncTime="1141.297" offset="4672241">Because my -- my sort of reading of our case law is that they do.</text>
+            <text syncTime="1146.015" offset="4691049">Any time we've said an adverse inference is prohibited, we've also said the defendant is titled -- is entitled to an instruction about adverse inferences if he requests it.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1154.666" stopTime="1172.061">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1154.666" offset="4725740">Well, you said that in every case, but one, I suppose, except for Mitchell; and that's the most important case here.</text>
+            <text syncTime="1163.554" offset="4761266">The Court in Mitchell said that the jury couldn't infer anything negative from the facts and circumstances of the crime upon which the prosecutor--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1172.061" stopTime="1292.816">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1172.061" offset="4795226">I didn't see that in Mitchell.</text>
+            <text syncTime="1173.346" offset="4800450">But let -- let me go back, just elaborating on that, to Justice Alito's first question.</text>
+            <text syncTime="1179.046" offset="4823229">I want to see if this issue is still in the case.</text>
+            <text syncTime="1181.249" offset="4832006">You looked at the instruction, and the instruction is just a broad instruction.</text>
+            <text syncTime="1187.528" offset="4857188">It says no adverse inference may be drawn from anything.</text>
+            <text syncTime="1190.887" offset="4870563">All right.</text>
+            <text syncTime="1192.103" offset="4875474">So there seemed to be some objection you had to the breadth of that instruction.</text>
+            <text syncTime="1196.478" offset="4892924">So I looked at the instruction.</text>
+            <text syncTime="1198.619" offset="4901492">The instruction does say exactly what Justice Alito said and you have said.</text>
+            <text syncTime="1203.992" offset="4923017">It says the -- the instruction is --</text>
+            <text syncTime="1208.476" offset="4940884">"The defendant is not compelled to testify, and the fact that he does not cannot be used as inference of guilt and should not prejudice him in any way. "</text>
+            <text syncTime="1217.222" offset="4975889">with a couple of, here, irrelevant modifications.</text>
+            <text syncTime="1220.266" offset="4988114">All right?</text>
+            <text syncTime="1221.093" offset="4991353">The instruction I just read you is not from this case.</text>
+            <text syncTime="1223.687" offset="5001802">It's from the Carter case.</text>
+            <text syncTime="1224.920" offset="5006713">In the Carter case, the court said that instruction must be given.</text>
+            <text syncTime="1230.966" offset="5030850">It must be given at the sentencing phase.</text>
+            <text syncTime="1232.293" offset="5036179">So what they did was copy the instruction out of the case, the very instruction that the court said, in Carter, the Fifth Amendment requires to be given in the sentencing phase.</text>
+            <text syncTime="1248.241" offset="5100022">And that was a noncapital case.</text>
+            <text syncTime="1248.426" offset="5100754">So what's the objection to the instruction, on its breadth?</text>
+            <text syncTime="1254.238" offset="5123951">Not only is it the same, but the government never objected that it was too broad, and the only issues in the case were factual.</text>
+            <text syncTime="1263.045" offset="5159164">They were about what happened to him in his childhood, namely, sentencing facts.</text>
+            <text syncTime="1270.621" offset="5189466">And the instruction that you did read about what they should consider referred to facts and circumstances.</text>
+            <text syncTime="1280.039" offset="5227186">And where in Estelle does it say that matters at sentencing related to facts and circumstances, you don't have to give the very instruction that Carter and Estelle required?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1292.816" stopTime="1316.430">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1292.816" offset="5278282">--All right.</text>
+            <text syncTime="1296.736" offset="5293955">I have several things to say.</text>
+            <text syncTime="1298.297" offset="5300225">First of all, I disagree with two things, respectfully, that you said about Carter.</text>
+            <text syncTime="1303.013" offset="5319033">The instruction in Carter was different.</text>
+            <text syncTime="1305.779" offset="5330109">The instruction in Carter was about guilt, and actually -- and Mr. Woodall concedes -- they left that part out of this instruction.</text>
+            <text syncTime="1311.120" offset="5351529">This instruction says no negative inferences about anything whatsoever.</text>
+            <text syncTime="1316.118" offset="5371487">That's not what Carter said.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1316.430" stopTime="1318.367">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1316.430" offset="5372741">I see.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1318.367" stopTime="1336.580">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1318.367" offset="5380473">Carter is talking about guilt, and it's limited.</text>
+            <text syncTime="1320.710" offset="5389877">And also, the Carter instruction had to do with the guilt phase rather than the sentencing phase.</text>
+            <text syncTime="1327.926" offset="5418716">And Estelle was not a jury instruction case and didn't say anything about Carter whatsoever.</text>
+            <text syncTime="1333.720" offset="5441913">So Estelle didn't extend Carter at all.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1336.580" stopTime="1340.454">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1336.580" offset="5453302">But Mitchell did, though, the sentencing aspect.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1340.454" stopTime="1341.392">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1340.454" offset="5468871">I'm sorry?</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1341.392" stopTime="1342.845">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1341.392" offset="5472633">Mitchell was about sentencing.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1342.845" stopTime="1368.005">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1342.845" offset="5478380">Yes, Mitchell was about sentencing.</text>
+            <text syncTime="1344.671" offset="5485694">And Mitchell is the case which answers the -- the last part of the question, Justice Breyer.</text>
+            <text syncTime="1349.294" offset="5504189">You said where does it say facts and circumstances of the crime?</text>
+            <text syncTime="1352.575" offset="5517355">That language is in Mitchell.</text>
+            <text syncTime="1353.043" offset="5519235">Mitchell clearly says that no adverse inferences may be made on facts and circumstances of the crime upon which the prosecution has the burden of proof and -- and upon which will increase--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1368.005" stopTime="1369.786">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1368.005" offset="5579004">Does it overrule -- does it overrule Estelle?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1369.786" stopTime="1370.880">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1369.786" offset="5586213">--Does Mitchell overrule Estelle?</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1370.880" stopTime="1381.251">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1370.880" offset="5590602">Yes.</text>
+            <text syncTime="1371.364" offset="5592483">Does Mitchell -- Estelle talks about -- you apply the same rule to facts and circumstances of the sentence, in a capital case anyway.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1381.251" stopTime="1385.093">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1381.251" offset="5632084">Well, I don't think Mitchell says that.</text>
+            <text syncTime="1383.390" offset="5640548">It's not that broad.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1385.093" stopTime="1385.568">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1385.093" offset="5647444">No, Mitchell doesn't.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1385.568" stopTime="1407.040">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1385.568" offset="5649325">Or excuse me.</text>
+            <text syncTime="1386.834" offset="5654341">Estelle doesn't say that.</text>
+            <text syncTime="1387.767" offset="5658102">Estelle's not that broad.</text>
+            <text syncTime="1388.904" offset="5662595">It doesn't speak about a jury instruction.</text>
+            <text syncTime="1391.654" offset="5673671">And even Mitchell doesn't say -- it -- it says something very broad, the Fifth Amendment applies during the penalty phase, but it doesn't make a distinction between the eligibility part of the penalty phase and the selection part of the penalty phase.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1407.040" stopTime="1436.199">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1407.040" offset="5735216">But in not making that distinction, I mean, it does speak very broadly, and it says, you know -- I'm reading another quotation from it.</text>
+            <text syncTime="1412.144" offset="5755591">"The rule against negative inferences at a criminal trial apply with equal force at sentencing. "</text>
+            <text syncTime="1420.157" offset="5787670">Now, it does have this exception for remorse or a possible exception for remorse.</text>
+            <text syncTime="1426.764" offset="5814106">But with that exception, otherwise, it says the rule against adverse inferences applies, doesn't it?</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1436.199" stopTime="1459.949">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1436.199" offset="5851826">Well, the rule against adverse inferences from Carter is all about incrimination and guilt.</text>
+            <text syncTime="1443.118" offset="5879516">And in this case, Mr. Woodall's pled guilty to all of the crimes and aggravating circumstances.</text>
+            <text syncTime="1450.035" offset="5907206">So his eligibility for the death penalty was already met before the penalty phase even began.</text>
+            <text syncTime="1456.752" offset="5934060">And I'm sorry.</text>
+            <text syncTime="1458.849" offset="5942419">What was your question?</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1459.949" stopTime="1477.494">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1459.949" offset="5946808">I think my question was just the breadth of these statements about everything that applies at trial with respect to adverse inferences also applies at the sentencing phase, with the possible exception of adverse inferences about remorse.</text>
+            <text syncTime="1474.073" offset="6003337">That's the way I read the cases.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="1477.494" stopTime="1518.447">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="1477.494" offset="6017025">Well, I'm not sure I agree with your reading of the cases, but even if -- even if that is the correct reading of the case and that adverse inferences apply to everything but factors such as lack of remorse or downward adjustment in the sentencing guidelines, that leaves a huge hole in Mitchell.</text>
+            <text syncTime="1496.423" offset="6092675">You could drive a truck through that hole because, as Justice Scalia pointed out in his dissent in Mitchell, the bulk of what sentencing is about are these other factors, the other factors, what kind of childhood he had, mitigation and all of that sort of thing.</text>
+            <text syncTime="1511.261" offset="6152026">So there's still a lot of room.</text>
+            <text syncTime="1515.635" offset="6169580">If I may, I'd like to reserve the remainder of my time.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1518.447" stopTime="1527.910">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1518.447" offset="6180865">Thank you, counsel.</text>
+            <text syncTime="1519.402" offset="6184626">Mr. Komp.</text>
+          </turn>
+        </section>
+        <section startTime="1527.910" stopTime="3345.247">
+          <heading>Argument of Laurence E. Komp</heading>
+          <turn speaker="laurence_e_komp" startTime="1527.910" stopTime="1581.639">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="1527.910" offset="6218690">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1531.300" offset="6232274">In Estelle, this Court held that there are no -- there's no basis to distinguish between guilt and penalty phases in a capital trial.</text>
+            <text syncTime="1538.671" offset="6261740">Mitchell did not disturb that ruling, did not overrule that ruling.</text>
+            <text syncTime="1544.091" offset="6283369">As -- as this Court indicated, the key components of the Mitchell opinion that have been discussed today are from pages 328 to 330.</text>
+            <text syncTime="1552.009" offset="6315030">And on those pages are littered with the discussion of what the clear principles of this Court's authority are.</text>
+            <text syncTime="1559.070" offset="6343346">For instance, on page 329,</text>
+            <text syncTime="1560.913" offset="6350661">"Our holding today is a product of existing precedent. "</text>
+            <text syncTime="1566.395" offset="6372604">"Not only Griffin, but also by Estelle v. Smith in which the Court could discern no basis to distinguish between the guilt and penalty phases of respondent's capital murder trial so far as the protection of the Fifth Amendment privilege is concerned. "</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1581.639" stopTime="1603.989">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1581.639" offset="6433626">But the courts in those cases had a specific issue before it.</text>
+            <text syncTime="1584.935" offset="6446791">Its attention wasn't called to what I suggested is in the nature of an affirmative defense.</text>
+            <text syncTime="1594.164" offset="6483676">The defendant has the burden to persuade the jury on mitigators.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="1603.989" stopTime="1653.046">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="1603.989" offset="6522964">Your Honor, if I may, and just to -- to -- under Kentucky law, there is -- I think Justice Alito sort of spoke to this, or I forget which justice.</text>
+            <text syncTime="1618.656" offset="6581688">There's a difference between a burden of production and a burden of proof.</text>
+            <text syncTime="1621.060" offset="6591301">And absolutely, a -- a defendant in -- in a sentencing hearing has the burden of production, as a proponent of what is going to be their mitigation theory.</text>
+            <text syncTime="1633.164" offset="6639680">That's much different than a burden of proof.</text>
+            <text syncTime="1635.383" offset="6648561">In this case, Instruction 6, which is found at Joint Appendix Page 44, the burden of proof was on the government to establish that the aggravating circumstances, both the statutory aggravating circumstances and the nonstatutory aggravating circumstances, had to outweigh the mitigating evidence.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1653.046" stopTime="1739.201">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1653.046" offset="6719196">Let me -- let me give you this example.</text>
+            <text syncTime="1654.750" offset="6725988">Let me pretend to be a juror in a -- in a Kentucky capital case.</text>
+            <text syncTime="1659.077" offset="6743333">And the -- and let's assume in this case the prosecution puts on evidence to show eligibility and some evidence of aggravating factors.</text>
+            <text syncTime="1670.414" offset="6788682">The defense puts on no evidence of mitigation.</text>
+            <text syncTime="1672.711" offset="6797877">Now, the judge tells me you shall consider such mitigating or extenuating facts and circumstances as have been presented to you in the evidence, and you believe to be true.</text>
+            <text syncTime="1682.786" offset="6838210">Okay?</text>
+            <text syncTime="1683.253" offset="6840091">That's Instruction Number 4.</text>
+            <text syncTime="1684.938" offset="6846778">I assume that you don't have an objection to that.</text>
+            <text syncTime="1687.994" offset="6859004">And then the judge gives the instruction that you requested: A defendant is not compelled to testify, and the fact that the defendant did not testify should not prejudice him in any way.</text>
+            <text syncTime="1698.467" offset="6900904">So now I'm back in the jury room, and I say, well, now I have to consider mitigating evidence.</text>
+            <text syncTime="1703.198" offset="6919817">And, you know, there are a lot of things that could be mitigating in a capital case.</text>
+            <text syncTime="1707.479" offset="6936953">I'd like to know about the defendant's childhood.</text>
+            <text syncTime="1708.322" offset="6940297">I'd like to know whether the defendant was -- was abused.</text>
+            <text syncTime="1711.211" offset="6951895">I'd like to know whether the defendant was remorseful.</text>
+            <text syncTime="1718.319" offset="6980316">And I haven't heard anything about this.</text>
+            <text syncTime="1721.802" offset="6994213">And I don't know what to do because the judge told me I should consider the mitigating evidence that's been presented to me.</text>
+            <text syncTime="1730.173" offset="7027755">On the other hand, the judge told me that the failure -- the fact that the defendant didn't put on any mitigating evidence can't prejudice him in any way.</text>
+            <text syncTime="1737.545" offset="7057221">So what am I supposed to do?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="1739.201" stopTime="1770.268">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="1739.201" offset="7063804">Well, in that case, again, if -- if there's no mitigating evidence presented, you don't know if it's what Instruction 4 will look -- look like.</text>
+            <text syncTime="1749.009" offset="7103092">But taking your hypothetical and you're in that jury room, if you're given the Carter instruction -- again, it wasn't given in this case.</text>
+            <text syncTime="1760.396" offset="7148649">So if you're given that Carter instruction, all that prohibits is -- is raising a negative inference against the defendant for the failure to exercise his right to testify.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1770.268" stopTime="1783.886">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1770.268" offset="7188146">No, it doesn't really.</text>
+            <text syncTime="1771.360" offset="7192431">It says the fact that he didn't testify, and he could have testified about child -- about his childhood or about remorse or any of these other things, that shouldn't prejudice him in any way.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="1783.886" stopTime="1792.195">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="1783.886" offset="7242586">And that's right -- that's the -- that's straight out of the Carter--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1792.195" stopTime="1807.689">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1792.195" offset="7275813">Well, just tell me what I'm supposed to do as a juror.</text>
+            <text syncTime="1795.101" offset="7287412">The judge says consider the evidence that's put before you, but the fact that the defendant didn't put this evidence before you in the form of his testimony shouldn't prejudice him in any way.</text>
+            <text syncTime="1805.674" offset="7329730">I'm -- I'm pulled in two different directions.</text>
+            <text syncTime="1807.596" offset="7337462">I don't know what to do.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="1807.689" stopTime="1822.870">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="1807.689" offset="7337776">--Well, but he can't -- again, I think in your hypothetical that he's presented nothing.</text>
+            <text syncTime="1815.514" offset="7369123">And so he can't be penalized again for presenting nothing.</text>
+            <text syncTime="1820.699" offset="7389812">And you can't allow--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1822.870" stopTime="1823.682">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1822.870" offset="7398484">Nothing -- zero equals zero.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="1823.682" stopTime="1826.853">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="1823.682" offset="7401724">--Correct.</text>
+            <text syncTime="1825.790" offset="7410187">And so--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1826.853" stopTime="1834.444">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1826.853" offset="7414471">And the zero just can't be added onto or taken away from.</text>
+            <text syncTime="1831.913" offset="7434638">Zero is zero, not a positive, not a negative.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="1834.444" stopTime="1835.359">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="1834.444" offset="7444773">--Right.</text>
+            <text syncTime="1834.903" offset="7446654">And--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1835.359" stopTime="1846.845">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1835.359" offset="7448431">So you can't take away from the zero, create evidence from his silence, just as you can't from his silence outweigh the aggravating circumstances; correct?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="1846.845" stopTime="1847.361">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="1846.845" offset="7494406">--Correct.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1847.361" stopTime="1866.337">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1847.361" offset="7496496">But that still doesn't answer Justice Alito's dilemma.</text>
+            <text syncTime="1851.126" offset="7511542">You say he can't be penalized for doing nothing, but the juror in Justice Alito's hypothetical says: What am I supposed to do when he didn't present anything, and I'm concerned about that?</text>
+            <text syncTime="1861.994" offset="7555010">I don't think you've answered the question.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="1866.337" stopTime="1903.790">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="1866.337" offset="7572355">In -- in that circumstance, again, he -- he can't -- they can't, for instance, Kentucky is a nonweighing State, so that means that they can -- that nonstatutory aggravation is on the table, anything they want to consider.</text>
+            <text syncTime="1881.721" offset="7633900">And what this Carter instruction would prohibit is -- is preventing his failure to testify, his failure to offer a lack of remorse, to say, I'm sorry, which are the natural inclinations of what jurors -- natural inclinations but constitutionally impermissible inclinations, from adding that onto the death side of the scale.</text>
+            <text syncTime="1902.962" offset="7718850">And--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1903.790" stopTime="1921.753">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1903.790" offset="7722194">Was there any other -- defendant didn't say, I'm sorry.</text>
+            <text syncTime="1909.725" offset="7745913">Was there -- was there anything else?</text>
+            <text syncTime="1912.475" offset="7756884">Did the defendant produce anything else in the way of remorse?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="1921.753" stopTime="1929.219">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="1921.753" offset="7794083">--In this -- in this case, no.</text>
+            <text syncTime="1922.237" offset="7795964">Remorse was not a mitigation theory that was presented by defense counsel.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1929.219" stopTime="1932.732">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1929.219" offset="7823862">A low IQ and a personality disorder, I take it, were the mitigating factors?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="1932.732" stopTime="1934.559">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="1932.732" offset="7837969">Correct.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1934.559" stopTime="1965.500">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1934.559" offset="7845283">So in a case where there are witnesses who says there are two mitigating factors, he has a very low IQ and he has a personality disorder, he says nothing.</text>
+            <text syncTime="1945.571" offset="7889273">The jurors go in the room.</text>
+            <text syncTime="1947.585" offset="7897319">They have to decide does he have a low IQ and personality disorder and what weight should we give that as mitigators?</text>
+            <text syncTime="1956.567" offset="7933263">This instruction says: Jurors, do it.</text>
+            <text syncTime="1957.472" offset="7936920">Just when you do it don't take account of the fact that he, himself, did not testify.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="1965.500" stopTime="1966.860">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="1965.500" offset="7968999">Correct.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1966.860" stopTime="2034.050">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1966.860" offset="7974432">Is that -- that -- so that jurors are perfectly clear, I would think.</text>
+            <text syncTime="1970.373" offset="7988538">What I think is difficult for you is just what your friend raised.</text>
+            <text syncTime="1973.309" offset="8000241">It is true that the Carter instruction refers to guilt.</text>
+            <text syncTime="1979.808" offset="8026259">You took that instruction, word for word, and you've cut out "guilt" because this has nothing to do with guilt, right.</text>
+            <text syncTime="1989.444" offset="8064816">Estelle says, I would think, that you have a right to a Carter instruction in respect to some sentencing factors, namely future dangerousness.</text>
+            <text syncTime="2002.517" offset="8117061">The last sentence on the page of Mitchell says: We are not deciding whether you're entitled to that instruction in respect to other sentencing fabricators, namely remorse.</text>
+            <text syncTime="2016.011" offset="8171082">So the question for you is why does that thing -- that sentence about remorse in Mitchell, why isn't it at least ambiguous about whether your client is entitled to that instruction here?</text>
+            <text syncTime="2032.161" offset="8235657">And your response to that is what?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2034.050" stopTime="2059.743">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2034.050" offset="8243180">My -- my response to that is -- is twofold.</text>
+            <text syncTime="2038.002" offset="8259062">One, as -- in -- as this Court was walking through in the opening presentation, Mitchell was not overruled -- or, I'm sorry, Estelle was not overruled by Mitchell.</text>
+            <text syncTime="2049.716" offset="8305874">It relied on Estelle and the Griffin line of cases as the -- as the clearly existing authority.</text>
+            <text syncTime="2058.667" offset="8341714">When you get to that--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2059.742" stopTime="2098.556">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2059.742" offset="8345998">Well, Estelle might not have been overruled, but there's a caveat that Mitchell puts in, and it's a caveat about remorse and that remorse might be different.</text>
+            <text syncTime="2068.412" offset="8380689">And the question is why doesn't that caveat suggest, at the very least, that the instruction that you asked for was so broad that it went beyond what this Court has decided.</text>
+            <text syncTime="2080.033" offset="8427186">Because the instruction that you asked for did not distinguish remorse from other issues that were going to come before the jury at the sentencing phase.</text>
+            <text syncTime="2093.543" offset="8481208">So at the very least it seems that instruction sort of blows by the question that we have reserved.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2098.556" stopTime="2123.671">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2098.556" offset="8501270">--Two points, and one is, when this instruction was requested, Mitchell had not been decided.</text>
+            <text syncTime="2108.130" offset="8539513">So the slate was Griffin, Carter, Estelle, and Mitchell came out prior to the Kentucky Supreme Court's ruling.</text>
+            <text syncTime="2114.440" offset="8564800">So this instruction was based on -- you know, without the reservation that exists.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2123.671" stopTime="2155.487">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2123.671" offset="8601684">Well, but then the reservation certainly suggests that at the time the instruction was requested, it wasn't beyond any fair-minded dispute, which is the standard.</text>
+            <text syncTime="2132.013" offset="8635121">No one's talked about the standard yet.</text>
+            <text syncTime="2134.011" offset="8643062">The standard is that -- which you're complaining about -- that the error has to be so well understood and comprehended in existing law to be beyond any possibility of fair-minded disagreement.</text>
+            <text syncTime="2143.836" offset="8682351">And it seems to me if shortly after the instruction was requested the court itself said, oh, that's different, we're not talking about that, it certainly suggests that it was a subject of fair-minded disagreement.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2155.487" stopTime="2208.685">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2155.487" offset="8728953">I think you have -- we have to examine what Mitchell -- Mitchell, again, was framed as a Federal sentencing guidelines case, and that passage I read earlier from Mitchell, the next sentence is:</text>
+            <text syncTime="2169.621" offset="8785482">"And although Estelle was a capital case, its reasoning applies with full force here, where the government seeks to use Petitioner's silence to infer commission of disputed acts. "</text>
+            <text syncTime="2179.401" offset="8824666">And what -- what this Court was doing was extending Estelle into the Federal sentencing guidelines case, and it wasn't at the same time cutting back on Estelle the Fifth -- the recognition that the Fifth Amendment applies at the capital sentencing.</text>
+            <text syncTime="2191.707" offset="8873880">Our read of that exception, the language, is that whether silence bears upon the determination of lack of remorse or upon acceptance of responsibility for purposes of the downward adjustment provided in the sentencing guidelines is a separate question.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2208.685" stopTime="2215.852">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2208.685" offset="8941799">Not only that.</text>
+            <text syncTime="2209.857" offset="8946501">Your position must be that that is so clear as to be beyond fair-minded disagreement.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2215.852" stopTime="2222.022">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2215.852" offset="8970429">It's clear that that relates to fair -- to Federal sentencing guidelines cases.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2222.022" stopTime="2222.616">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2222.022" offset="8995089">Right.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2222.616" stopTime="2230.254">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2222.616" offset="8997492">Or possibly noncapital cases, because this Court didn't simultaneously accept Estelle as the clearly existing law and then cut it.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2230.254" stopTime="2249.761">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2230.254" offset="9028003">Well, but you're saying it has to be clear, objectively beyond reasonable disagreement, to say that when the court says lack of remorse in a sentencing guideline case it still thinks there's a different rule for lack of remorse in a selection case such as this.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2249.761" stopTime="2280.860">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2249.761" offset="9106057">But I think the answer is found within Estelle, because Estelle was based on the future dangerousness, and the psychiatrist that -- or, pardon me, psychologist that testified in Estelle, his finding of future dangerousness, which is a selection question which has nothing to do with eligibility, his finding of future dangerousness was based on lack of remorse.</text>
+            <text syncTime="2276.813" offset="9214308">Estelle isn't just a compulsion case.</text>
+            <text syncTime="2279.344" offset="9224444">There was a component of silence.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2280.860" stopTime="2288.920">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2280.860" offset="9230504">I thought your friend told us that future dangerousness was an eligibility factor rather than a mere selection criteria.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2288.920" stopTime="2382.571">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2288.920" offset="9262687">Under this Court's -- the then Texas statute as defined by this Court in Jurek, that special circumstances question at that time was a selection factor.</text>
+            <text syncTime="2299.587" offset="9305423">It was not an eligibility factor.</text>
+            <text syncTime="2301.821" offset="9314305">Eligibility had already been determined.</text>
+            <text syncTime="2303.852" offset="9322455">And that's based on this Court's authority in Jurek.</text>
+            <text syncTime="2305.274" offset="9328098">And we -- and we cited to State v. Brethard in the Red Brief, which is Texas's description of their -- of those special circumstances questions at the time.</text>
+            <text syncTime="2319.457" offset="9384835">So this Court has applied this Fifth Amendment prohibition in a pure sentencing selection occasion, and Estelle deals with -- there's a component of silence to it because the psychologist that testified as to the future dangerousness factor relied on the silence of the individual, his failure specifically to say I'm sorry and express remorse about the actions that he did.</text>
+            <text syncTime="2349.833" offset="9506357">And this Court cited that component as part of what the psychologist relied on in making the future dangerousness assessment.</text>
+            <text syncTime="2358.034" offset="9539167">So Estelle is not totally -- it obviously has a compulsion component and it's driven by the Miranda violation, but there is a component of Estelle which relies specifically on silence and how the silence was used to penalize the individual in becoming a factor in favor of death in the selection process.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2382.571" stopTime="2409.824">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2382.571" offset="9637283">I'm curious about one facet of this case.</text>
+            <text syncTime="2384.913" offset="9646687">This instruction was sought by the defendant.</text>
+            <text syncTime="2387.756" offset="9658076">The prosecutor had no objection to it.</text>
+            <text syncTime="2390.739" offset="9669988">The judge said: I'm sorry, I am not going to use that instruction.</text>
+            <text syncTime="2399.298" offset="9704261">Is that common in Kentucky, that both parties agree that an instruction should be given and the judge says, I'm not going to give it?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2409.824" stopTime="2438.751">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2409.824" offset="9746370">I -- I can't speak -- I don't want to speak too broadly for what happens, but it's -- I think when both parties usually agree, the instruction is given.</text>
+            <text syncTime="2420.478" offset="9788898">But I don't want to stretch it too far and say that on every occasion.</text>
+            <text syncTime="2424.085" offset="9803422">And I -- I think it's important because this was a -- the fact that the government didn't object, you know, demonstrates that -- that the instruction should have been given.</text>
+            <text syncTime="2434.786" offset="9846158">If he -- if he felt that this instruction shouldn't have been given, or there was no legal basis for the instruction--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2438.751" stopTime="2443.250">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2438.751" offset="9862040">It doesn't demonstrate anything of the sort.</text>
+            <text syncTime="2440.829" offset="9870295">It just means that he didn't object.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2443.250" stopTime="2445.717">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2443.250" offset="9880013">--Well, I -- I think--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2445.717" stopTime="2456.712">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2445.717" offset="9889939">Maybe he was a very bad lawyer.</text>
+            <text syncTime="2448.512" offset="9901120">Who knows?</text>
+            <text syncTime="2449.012" offset="9903105">We're -- we're going to determine our law on the basis of whether a government lawyer made an objection or not?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2456.712" stopTime="2457.274">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2456.712" offset="9933929">--I--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2457.274" stopTime="2465.100">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2457.274" offset="9936124">At most, it shows that he didn't think that there was anything wrong with it.</text>
+            <text syncTime="2462.163" offset="9955663">Does that mean we have to think there was nothing wrong with it?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2465.100" stopTime="2466.506">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2465.100" offset="9967471">--Oh, absolutely not, Your Honor.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2466.506" stopTime="2467.193">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2466.506" offset="9973009">Okay.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2467.193" stopTime="2468.256">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2467.193" offset="9975830">Absolutely not.</text>
+            <text syncTime="2467.350" offset="9976457">And--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="2468.256" stopTime="2491.965">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="2468.256" offset="9980009">Well, what it may show is that the prosecutor didn't think that it was going to make a difference, and so why raise an objection that could create everything that's happened since then, over something that isn't going to make a difference in a case where you have an incredibly heinous crime.</text>
+            <text syncTime="2485.703" offset="10049809">The prosecutor may have thought, this jury is going to return the verdict that I want anyway, even if this instruction is given.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2491.965" stopTime="2493.715">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2491.965" offset="10074886">--I think that--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="2493.715" stopTime="2495.057">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="2493.715" offset="10081887">You don't think that's a possibility?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2495.057" stopTime="2514.799">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2495.057" offset="10087216">--I -- I think as a -- as a lawyer, if you -- your -- the basis of your objection or your failure to object is based on what you believe is -- is legally required, especially when you're a prosecutor, and -- and you have that added burden of not seeking a conviction or not seeking the death sentence--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2514.799" stopTime="2525.001">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2514.799" offset="10166210">What I say -- what we said here, what I've gathered from the record, as best we've been able to see it, is in that sentencing hearing -- you were there?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2525.001" stopTime="2526.547">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2525.001" offset="10207066">--I was not.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2526.547" stopTime="2527.485">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2526.547" offset="10213231">But you know it pretty well.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2527.485" stopTime="2528.031">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2527.485" offset="10216992">Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2528.031" stopTime="2577.061">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2528.031" offset="10219186">Okay.</text>
+            <text syncTime="2528.064" offset="10219291">There were five matters at issue.</text>
+            <text syncTime="2530.376" offset="10228486">He had a low IQ, a personality disorder, the child with a troubled home, he had grown up in poverty, he had been sexually abused.</text>
+            <text syncTime="2540.295" offset="10268192">All right.</text>
+            <text syncTime="2541.169" offset="10271745">All of those things are basically factual matters about his background.</text>
+            <text syncTime="2547.744" offset="10297972">Now, in that context, this instruction, which was the Carter instruction without the word "guilt", referring to his failure to testify is -- doesn't mention those five things specifically.</text>
+            <text syncTime="2563.129" offset="10359516">It doesn't say testify about those five things.</text>
+            <text syncTime="2566.176" offset="10371742">But in context, was there anything else in that hearing that the jury could have thought failure to testify referred to?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2577.061" stopTime="2580.061">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2577.061" offset="10415314">The -- in -- in--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2580.061" stopTime="2588.573">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2580.061" offset="10427226">Is there anything else any juror might have thought, oh, he didn't testify about this other thing, too?</text>
+            <text syncTime="2586.339" offset="10452408">Was there some other thing there?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2588.573" stopTime="2594.728">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2588.573" offset="10461289">--It doesn't, Your Honor, it just doesn't go to mitigation, because I -- I think that goes--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2594.728" stopTime="2595.976">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2594.728" offset="10485949">That's not what I'm thinking of.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2595.976" stopTime="2597.257">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2595.976" offset="10490964">--But -- but -- right.</text>
+            <text syncTime="2596.788" offset="10494204">But it goes--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2597.257" stopTime="2623.952">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2597.257" offset="10496084">I'm thinking of what is it that we -- is there an issue in this case about whether the instruction, on top of whatever other problems it had, was too broad?</text>
+            <text syncTime="2606.754" offset="10534014">So I'm thinking, if that was the only issue, if those are the only issues that this instruction could have been thought of as referring to, we don't have to get into the breadth matter.</text>
+            <text syncTime="2619.015" offset="10583124">That's why I ask you.</text>
+            <text syncTime="2620.421" offset="10588662">Was there something else in that hearing that the jury might have thought, oh, he didn't testify about it?</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2623.952" stopTime="2626.231">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2623.952" offset="10602873">He's trying to help you, counsel.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2626.231" stopTime="2634.572">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2626.231" offset="10611964">He's got the point.</text>
+            <text syncTime="2630.106" offset="10627428">But you have to answer in terms of what the facts are at the hearing.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2634.572" stopTime="2662.280">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2634.572" offset="10645296">--In this -- in this -- pardon me.</text>
+            <text syncTime="2640.056" offset="10667239">In this circumstance, what -- the facts that were going on in this hearing, the -- that instruction could go to, again, holding his -- his silence as to how -- and offering -- failure -- failing to offer an explanation and respond--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2662.280" stopTime="2664.389">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2662.280" offset="10756160">What about remorse?</text>
+            <text syncTime="2663.061" offset="10759294">Wasn't remorse at issue?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2664.389" stopTime="2667.950">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2664.389" offset="10764623">--Remorse wasn't put at issue by -- by Mr. Woodall.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2667.950" stopTime="2676.243">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2667.950" offset="10778834">Well, whatever.</text>
+            <text syncTime="2670.494" offset="10788969">I mean, the jury doesn't have to take that into account.</text>
+            <text syncTime="2674.181" offset="10803702">Isn't it one of -- one of the factors?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2676.243" stopTime="2686.692">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2676.243" offset="10811957">It -- it can be a factor, but it can't -- this -- the lack of remorse as the nonstatutory aggravator cannot be premised upon his silence.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2686.692" stopTime="2689.925">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2686.692" offset="10853753">But was his remorse an issue at the hearing?</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2689.925" stopTime="2691.845">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2689.925" offset="10866710">Right.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2691.845" stopTime="2694.204">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2691.845" offset="10874442">Yes, his lack of remorse.</text>
+            <text syncTime="2693.470" offset="10880920">Yes, I think so.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2694.204" stopTime="2694.953">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2694.204" offset="10883846">Then the answer--</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2694.953" stopTime="2695.718">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2694.953" offset="10886876">Yes.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2695.718" stopTime="2727.004">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2695.718" offset="10889906">I'm sorry.</text>
+            <text syncTime="2697.874" offset="10898475">So how was it an issue at the hearing?</text>
+            <text syncTime="2699.562" offset="10905266">Because that would seem to cut against you very strongly, Mr. Komp.</text>
+            <text syncTime="2703.379" offset="10920522">If remorse is an issue at the hearing, remorse is the very thing that in Mitchell we said we have not decided.</text>
+            <text syncTime="2712.432" offset="10956780">And then you have no clearly established law to rely on.</text>
+            <text syncTime="2715.399" offset="10968587">And I appreciate that this was before Mitchell rather than after Mitchell; but it suggests that there was always a question about whether Estelle applied to remorse.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2727.004" stopTime="2760.275">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2727.004" offset="11015085">Estelle dealt with that in the capital context.</text>
+            <text syncTime="2732.594" offset="11037446">Again, the -- the distinction that we're drawing from Mitchell is that -- that Mitchell did not modify Estelle.</text>
+            <text syncTime="2740.576" offset="11069315">It expanded Estelle into a Federal sentencing or other criminal case -- cases.</text>
+            <text syncTime="2746.309" offset="11092303">It did not touch -- it remained intact the prohibition of -- of using silence.</text>
+            <text syncTime="2751.964" offset="11114873">Again, Estelle dealt with silence, and silence that was used to support a lack of remorse, which was used to support the--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2760.275" stopTime="2763.259">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2760.275" offset="11148101">I'm sorry.</text>
+            <text syncTime="2761.431" offset="11152803">It left in -- Estelle left intact what?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2763.259" stopTime="2768.118">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2763.259" offset="11160117">--I'm -- pardon me.</text>
+            <text syncTime="2764.305" offset="11164297">Mitchell left intact Estelle's application at the capital sentencing proceeding.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2768.118" stopTime="2801.042">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2768.118" offset="11179552">Suppose we read Estelle as saying that on the issue of remorse, it is an open question whether or not the self-incrimination privilege is applicable.</text>
+            <text syncTime="2779.159" offset="11223647">Suppose we read it that way.</text>
+            <text syncTime="2780.831" offset="11230334">And suppose we think that in your case, remorse was an issue at the penalty phase.</text>
+            <text syncTime="2790.450" offset="11268786">Does that not mean that this issue was not clearly decided?</text>
+            <text syncTime="2795.964" offset="11290938">That's -- it has a bearing on this case?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2801.042" stopTime="2805.210">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2801.042" offset="11311209">Could you -- could you please repeat the -- the first part?</text>
+            <text syncTime="2804.961" offset="11326883">I--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2805.210" stopTime="2843.226">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2805.210" offset="11327823">Suppose we read Mitchell as saying that on the -- where remorse is at issue, it is not settled whether or not there is a Fifth Amendment self-incrimination right; and it is not settled that the defendant is entitled to an instruction about silence, number one.</text>
+            <text syncTime="2826.937" offset="11414759">Number two, suppose we think, as I think to be the case, that remorse was an issue in this trial in the penalty phase.</text>
+            <text syncTime="2836.448" offset="11452793">Does that not mean that the rule is unclear and you're not clearly entitled to an instruction on that issue?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2843.226" stopTime="2881.149">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2843.226" offset="11479960">--I -- I disagree.</text>
+            <text syncTime="2851.333" offset="11512352">Because these -- these capital sentencing proceedings are not just about remorse or lack of remorse.</text>
+            <text syncTime="2856.675" offset="11533773">And what -- what would happen in that circumstance is -- is right now you have a bright line.</text>
+            <text syncTime="2863.405" offset="11560626">And if -- if we accept remorse out of this in the capital sentencing context, there's two problems with that.</text>
+            <text syncTime="2871.418" offset="11592705">One, we would have hybrid Carter instructions and there would be -- we'd have to figure out all right, which instruction would fit if we looked--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2881.149" stopTime="2882.618">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2881.149" offset="11631575">But we could--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2882.618" stopTime="2889.538">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2882.618" offset="11637531">But your -- your answer that is what the law should be.</text>
+            <text syncTime="2883.257" offset="11640039">My question is whether or not at least the law is not open on that point, unsettled.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2889.538" stopTime="2908.550">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2889.538" offset="11665221">--I believe that Estelle settled this and Mitchell did not cut back on Estelle in the capital sentencing context, and that Estelle imported the no-adverse instruction that's required by Carter.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2908.550" stopTime="2926.537">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2908.550" offset="11741185">It is.</text>
+            <text syncTime="2909.043" offset="11743170">But you have to go beyond saying I believe that.</text>
+            <text syncTime="2911.684" offset="11753724">What you have to say to prevail here is not only do I believe it, but no reasonable juror -- no reasonable jurist could possibly believe otherwise.</text>
+            <text syncTime="2924.678" offset="11805760">Now, do you want to say that?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2926.537" stopTime="2932.518">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2926.537" offset="11813178">I -- pardon me.</text>
+            <text syncTime="2927.708" offset="11817880">If you -- if we look at Mitchell, and we look at the discussion of the no-adverse-inference instruction--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2932.518" stopTime="2936.283">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2932.518" offset="11837106">No reasonable jurors could say otherwise?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="2936.283" stopTime="2990.886">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="2936.283" offset="11852153">--One, I don't think this Court in Williams said that -- that -- or not -- that AEDPA is not a subjective juror/judge contest.</text>
+            <text syncTime="2946.169" offset="11891755">And if you read Mitchell and it talks about this is a product of our existing precedent, this is a rule of proven utility, this is an essential feature of our justice system, the -- the rule was -- was absolutely clear that -- that these no -- no-adverse-inferences could be raised.</text>
+            <text syncTime="2967.084" offset="11975346">And that was a -- a rule of proven utility.</text>
+            <text syncTime="2970.285" offset="11988199">And all that Mitchell did in that one sentence is reserve a question that -- that may or may not be applicable in Federal sentencing or noncapital sentencing.</text>
+            <text syncTime="2980.405" offset="12028636">It did not cut back on Estelle, which said for -- that there is no basis to distinguish between the guilt and penalty phases of capital cases.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2990.886" stopTime="3011.003">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2990.886" offset="12070537">So -- so your argument is when Mitchell said -- whether it applies to lack of remorse or acceptance of responsibility for the sentencing guidelines, that's a separate question.</text>
+            <text syncTime="3003.005" offset="12119020">We don't have any view on it.</text>
+            <text syncTime="3004.115" offset="12123513">But at the same time the Court said well, of course it applies in -- in the other -- other context.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="3011.003" stopTime="3012.347">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="3011.003" offset="12150994">Right.</text>
+            <text syncTime="3011.941" offset="12154755">This Court--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3012.347" stopTime="3035.354">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3012.347" offset="12156427">But that's perfectly clear.</text>
+            <text syncTime="3013.113" offset="12159458">I mean, if you were arguing the other way, you would say, well, the question is whether it's clearly if there's a clear difference between lack of remorse in the sentencing guideline case and lack of remorse in a capital case, and everybody knew that, so that when Mitchell just said it doesn't apply to lack of remorse in the sentencing guidelines nobody would think that meant that there was an open issue on the capital context.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="3035.354" stopTime="3064.827">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="3035.354" offset="12248483">--I -- no, we would think it's an open issue, because if you -- if you go through the -- the Mitchell opinion and how it builds on the no adverse -- no adverse inference and talks about Griffin and Estelle, and then the -- the key language is at -- at 329:</text>
+            <text syncTime="3053.676" offset="12321730">"Although Estelle was a capital case, its reasoning applies with full force here. "</text>
+            <text syncTime="3060.641" offset="12349629">So this was a pushing forward of Estelle.</text>
+            <text syncTime="3062.827" offset="12358302">It wasn't a cutting back on Estelle.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3064.827" stopTime="3096.237">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3064.827" offset="12366347">How could this be -- let's assume that you're right, that there was error.</text>
+            <text syncTime="3069.966" offset="12386932">How could it be harmful, given the -- that the mitigators -- that the aggravators were not in dispute, he had entered a guilty plea?</text>
+            <text syncTime="3084.008" offset="12443043">So how was the defendant harmed by the failure to give this instruction?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="3096.237" stopTime="3122.225">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="3096.237" offset="12491944">I think in two manners: One is when you're -- relates to using the right to silence as a penalty, which is the natural inclination of -- of the jurors.</text>
+            <text syncTime="3108.982" offset="12542935">So they're going to hold his -- his failure to testify against him.</text>
+            <text syncTime="3112.528" offset="12557146">And they'll do it twofold.</text>
+            <text syncTime="3113.511" offset="12561116">They'll actually put it on the scale: He didn't say that he was sorry, he didn't personally offer remorse, so we're going to consider that as not--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3122.225" stopTime="3123.772">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3122.225" offset="12595911">--Did the prosecutor argue that?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="3123.772" stopTime="3126.240">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="3123.772" offset="12602076">--No.</text>
+            <text syncTime="3125.693" offset="12609809">No.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3126.240" stopTime="3128.693">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3126.240" offset="12612003">So how would they have put that on the scale?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="3128.693" stopTime="3206.194">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="3128.693" offset="12621825">Well, they -- that's the natural, what this Court recognizes, the natural inclinations of what jurors do.</text>
+            <text syncTime="3135.770" offset="12650142">And this prosecutor -- and it's laid out in our Red Brief -- although he technically said,</text>
+            <text syncTime="3142.704" offset="12677831">"I'm not going to argue lack of remorse, but I'm going to do everything but that. "</text>
+            <text syncTime="3147.577" offset="12697371">So that was clearly where -- where he was pointing.</text>
+            <text syncTime="3151.077" offset="12711373">The other -- what -- the other impact it has is this was a case that there was strong mitigation.</text>
+            <text syncTime="3158.432" offset="12740734">This is somebody who's borderline mentally retarded, has a personality disorder which doesn't allow him to function in society.</text>
+            <text syncTime="3165.242" offset="12768006">But there's also a strong element of Skipper evidence.</text>
+            <text syncTime="3167.241" offset="12775947">So when you're asking for a life without parole and you have expert testimony saying this individual is not going to be a danger to correction officers, and you have a jailer that testifies that he's well-mannered and well-behaved and is not a problem at all, and you have the background that he has, this -- that's a strong mitigation narrative.</text>
+            <text syncTime="3190.325" offset="12868316">And if the defendant doesn't testify in support of that, that undermines that mitigation narrative.</text>
+            <text syncTime="3195.979" offset="12890991">So the failure to testify and the failure to offer this instruction has -- has sort of two -- two arms.</text>
+            <text syncTime="3205.366" offset="12928502">It--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3206.194" stopTime="3233.978">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3206.194" offset="12931846">And you think that made the difference, that the jury would not have condemned your client to death had it not been for the fact that they drew an adverse inference from -- they knew all the horrific details of the crime.</text>
+            <text syncTime="3219.065" offset="12983255">They had heard all of your mitigating evidence.</text>
+            <text syncTime="3222.797" offset="12998197">And you think what -- what tipped the balance, or at least we think it plausibly could have tipped the balance, is -- is this failure to give the no-adverse-inference instruction?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="3233.978" stopTime="3236.322">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="3233.978" offset="13042919">--Absolutely.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3236.322" stopTime="3236.853">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3236.322" offset="13052323">Really?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="3236.853" stopTime="3245.115">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="3236.853" offset="13054413">Absolutely.</text>
+            <text syncTime="3237.822" offset="13058279">And this Court considers the death penalty case -- all death -- any death penalty case has horrible facts.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3245.115" stopTime="3245.803">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3245.115" offset="13087536">Well, what--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="3245.803" stopTime="3255.502">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="3245.803" offset="13090253">Mr. Komp, did the Sixth Circuit apply the wrong harmlessness standard here?</text>
+            <text syncTime="3249.146" offset="13103627">It seemed to a apply the standard that would be applicable on direct review rather than on habeas review; is that correct?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="3255.502" stopTime="3260.407">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="3255.502" offset="13129018">I believe that they cited Brecht and they cited O'Neal appropriately.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="3260.407" stopTime="3268.668">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="3260.407" offset="13148662">Because it seems to rely primarily on Carter.</text>
+            <text syncTime="3262.484" offset="13156917">And Carter applies the Chapman standard, which is of course the direct review standard.</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="3268.668" stopTime="3307.467">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="3268.668" offset="13181681">I think the reference to Carter was to talk about -- we're talking about assessing the harmfulness of this error or the harmlessness of this error in the context of an instruction that wasn't given, where the instruction that's not given prevents negative inferences.</text>
+            <text syncTime="3285.021" offset="13247092">So the reference to Carter was to talk about what -- what the natural inclination for the failure to give the instruction is.</text>
+            <text syncTime="3293.831" offset="13282305">It was sort of a framework of what's going on.</text>
+            <text syncTime="3295.892" offset="13290560">So I don't think it was used in that circumstance.</text>
+            <text syncTime="3298.954" offset="13302889">Where -- and when they ultimately came to their conclusion, they relied, again, on citing expressly the O'Neal standard.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="3307.467" stopTime="3308.996">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="3307.467" offset="13336849">What do you think is the worse adverse inference they might have drawn?</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="3308.996" stopTime="3328.254">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="3308.996" offset="13343013">In this case, I think it's -- it's not offering an apology, not -- not saying why or not explaining how.</text>
+            <text syncTime="3324.443" offset="13404767">I think there's -- there's so many things that--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3328.254" stopTime="3331.377">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3328.254" offset="13420022">You can finish your--</text>
+          </turn>
+          <turn speaker="laurence_e_komp" startTime="3331.377" stopTime="3341.982">
+            <label>Mr. Laurence E. Komp</label>
+            <text syncTime="3331.377" offset="13432561">--that a juror wants to hear, naturally wants to hear.</text>
+            <text syncTime="3336.422" offset="13452728">And that's what the basis that this Court held in Carter is this -- why this instruction is appropriate.</text>
+            <text syncTime="3341.562" offset="13473312">Thank you.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3341.982" stopTime="3345.247">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3341.982" offset="13474984">--Thank you, counsel.</text>
+            <text syncTime="3342.966" offset="13478850">Ms. Lenz, you have 5 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3345.247" stopTime="3505.854">
+          <heading>Rebuttal of Susan R. Lenz</heading>
+          <turn speaker="susan_r_lenz" startTime="3345.247" stopTime="3387.745">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="3345.247" offset="13488045">Thank you.</text>
+            <text syncTime="3351.432" offset="13512809">I would just like to point out at the beginning of his responsive argument my colleague was talking about the selection factors in Estelle.</text>
+            <text syncTime="3361.163" offset="13551680">And whether they're called selection factors or whatever they're called, the prosecutor had to prove future dangerousness beyond a reasonable doubt in order to render the defendant in that case death eligible.</text>
+            <text syncTime="3372.486" offset="13596924">There were three things that the prosecution had to prove and that was one of them.</text>
+            <text syncTime="3377.703" offset="13617822">So those selection factors or whatever you want to call them operated as aggravating circumstances for the death penalty.</text>
+            <text syncTime="3386.793" offset="13654184">So I just wanted to make sure that the Court is clear on that.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3387.745" stopTime="3391.932">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3387.745" offset="13658050">Your friend says Jurek reads to the contrary.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="3391.932" stopTime="3418.046">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="3391.932" offset="13674769">No, Jurek does not read to the contrary, no.</text>
+            <text syncTime="3397.772" offset="13698070">I mean, I -- perhaps he's saying that because of the reference to calling them selection factors.</text>
+            <text syncTime="3405.019" offset="13727118">When one speaks of selection factors, one usually doesn't think of death-eligibility factors.</text>
+            <text syncTime="3410.766" offset="13750106">So my only point is, regardless of nomenclature, they operated as aggravating circumstances, the prosecution's burden.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3418.046" stopTime="3441.645">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3418.046" offset="13779258">If the only criteria to determine harmlessness is the gruesome -- gruesome nature of the crime, it appears to me that in almost every death-eligible case I've come across, gruesomeness is inherent.</text>
+            <text syncTime="3430.977" offset="13830981">By your argument, there's never a case in which a defendant can prove a harmful sentencing error.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="3441.645" stopTime="3465.699">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="3441.645" offset="13873613">That's not true, Justice Sotomayor, because it would depend on what the violation is, what the error is.</text>
+            <text syncTime="3446.471" offset="13892943">I think in this case, when you consider the absence of this prophylactic instruction in comparison with the heinousness of the crimes, the guilty plea, the overwhelming evidence, his prior convictions for sexual abuse, his post-crime conduct, all of it, when you consider that together--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3465.699" stopTime="3467.150">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3465.699" offset="13969848">But the mitigation was very close to Wiggins.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="3467.150" stopTime="3468.838">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="3467.150" offset="13975595">--The mitigation was?</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3468.838" stopTime="3469.852">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3468.838" offset="13982386">Was very close to the Wiggins case.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="3469.852" stopTime="3472.477">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="3469.852" offset="13986462">I'm sorry?</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3472.477" stopTime="3479.520">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3472.477" offset="13996911">The mitigation evidence offered here was very close to the Wiggins case, similar mitigation.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="3479.520" stopTime="3480.036">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="3479.520" offset="14025123">I think--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3480.036" stopTime="3481.800">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3480.036" offset="14027213">And there we held there was harmful error.</text>
+          </turn>
+          <turn speaker="susan_r_lenz" startTime="3481.800" stopTime="3504.573">
+            <label>Ms. Susan R. Lenz</label>
+            <text syncTime="3481.800" offset="14034213">--I think the mitigation was -- was negligible in comparison to -- to the rest of the crimes.</text>
+            <text syncTime="3491.142" offset="14071621">And the other point that I would just like to make is that there was not clearly established law in this case, and the Kentucky Supreme Court's decision was not an error beyond any possibility for fair-minded disagreement.</text>
+            <text syncTime="3503.028" offset="14119164">Thank you.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3504.573" stopTime="3506.994">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3504.573" offset="14125329">Thank you, counsel.</text>
+            <text syncTime="3505.854" offset="14130449">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="469922">/xml/cases/1982/81_1453/19830222o_81-1453.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1982/trs/81-1453op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="94.355">
+        <title>South Dakota v. Neville</title>
+        <section startTime="0" stopTime="94.355">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="7.153">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92296">The judgment and opinion of the Court in South Dakota against Neville will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="7.153" stopTime="92.559">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="7.153" offset="120822">This case comes to us on writ of certiorari to the Supreme Court of South Dakota.</text>
+            <text syncTime="12.649" offset="142869">A South Dakota statute permits a person suspected of driving while intoxicated to refuse to submit to a blood alcohol test.</text>
+            <text syncTime="21.918" offset="179963">But the statute authorizes revocation of the driver's license of a person refusing to take the test.</text>
+            <text syncTime="28.527" offset="206399">The statute also allows evidence of the refusal to be used against the person at trial.</text>
+            <text syncTime="35.299" offset="233462">Two police officers suspected the defendant, Neville of drunk driving and asked him to submit to a blood alcohol test.</text>
+            <text syncTime="43.665" offset="266898">Neville refused and the state tried to introduce evidence of his refusal at the trial.</text>
+            <text syncTime="50.277" offset="293334">The South Dakota Supreme Court ruled an introduction of the evidence would violate the privilege against self-incrimination.</text>
+            <text syncTime="57.584" offset="322592">We now reverse and remand because the officers did not force the defendant to refuse the test, the defendant has not been compelled to testify against himself within the meaning of the Fifth Amendment.</text>
+            <text syncTime="71.354" offset="377658">We hold also that it is not fundamentally unfair in violation of due process to use the defendant's refusal to take the blood alcohol test as evidence of guilt, even though the police failed to warn him, it could be so used.</text>
+            <text syncTime="87.748" offset="443277">Justice Stevens joined by Justice Marshall has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="92.559" stopTime="94.355">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="92.559" offset="462503">Thank you Justice O'Connor.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

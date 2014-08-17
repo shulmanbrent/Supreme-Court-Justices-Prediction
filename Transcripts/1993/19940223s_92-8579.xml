@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1994-02-23</transcribed>
+        <edit user="jclow26" date="2012-08-14T16:11:03" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="ruth_bader_ginsburg"/>
+        <identified user="jclow26">2012-08-14</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:45:07" startTime="0.000" oldSpeaker="ruth_bader_ginsburg" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="464231">/xml/cases/1993/92_8579/19940223o_92-8579.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1993/92-8579_19940223-opinion.xml</sourceFile>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="93.309">
+        <title>Elder v. Holloway</title>
+        <section startTime="0.000" stopTime="10.391">
+          <heading>Announcement of Justice Ginsburg</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.391">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90993">The opinion of the Court in No. 92-8579, Elder against Holloway will be announced by Justice Ginsburg.</text>
+          </turn>
+        </section>
+        <section startTime="10.391" stopTime="93.309">
+          <heading>Announcement of Justice Ginsburg</heading>
+          <turn speaker="ruth_bader_ginsburg" startTime="10.391" stopTime="93.309">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="10.391" offset="132475">The Court has reached a unanimous decision in this civil rights action brought by petitioner Charles Elder against Idaho Police Officers for injuries Elder sustained during a white list arrest.</text>
+            <text syncTime="25.044" offset="191094">The police officers prevailed in the District Court on the plea of qualified immunity.</text>
+            <text syncTime="31.847" offset="218366">Qualified immunity is a doctrine that shields public officials from suits for damages unless the officers' conduct violated clearly established law.</text>
+            <text syncTime="42.561" offset="261207">The District Court found that in arresting Elder the Idaho police did not violate clearly established law.</text>
+            <text syncTime="50.053" offset="291195">On Elder's appeal the Court of Appeals for the Ninth Circuit noticed a decision of that Circuit closely in point a decision that appeared to favor Elder.</text>
+            <text syncTime="61.233" offset="335917">However, the decision had not been mentioned in the District Court and for that reason the Court of Appeals refused to take it into account.</text>
+            <text syncTime="68.731" offset="365906">We hold that the Court of Appeals should have taken account of the decision, when an appellate court reviews the judgment holding a public official immune from an action for damages for violation of the federal right that review should be conducted and might of all relevant authorities not just those sided to or discovered by the District Court.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

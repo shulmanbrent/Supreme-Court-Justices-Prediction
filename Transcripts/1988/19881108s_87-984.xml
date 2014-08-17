@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1988-11-08</transcribed>
+        <identified user="tschaefer">2012-06-18</identified>
+        <identified user="jgoldman">2012-06-25</identified>
+        <edit user="jgoldman" date="2012-06-25T05:33:58" startTime="9.020" oldSpeaker="john_marshall" newSpeaker="thurgood_marshall"/>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T13:56:01" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="270252">/xml/cases/1988/87_984/19881108o_87-984.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1988/87-984_19881108-opinion.xml</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="45.923">
+        <title>Shell Oil Company v. Iowa Department of Revenue</title>
+        <section startTime="0.000" stopTime="8.979">
+          <heading>Announcement of Justice Marshall</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.979">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="86559">The opinion of the Court in No. 87-984, Shell Oil Company versus Iowa Department of Revenue will be announced by Justice Marshall.</text>
+          </turn>
+        </section>
+        <section startTime="8.979" stopTime="45.923">
+          <heading>Announcement of Justice Marshall</heading>
+          <turn speaker="thurgood_marshall" startTime="8.979" stopTime="45.923">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="8.979" offset="122399">This is an appeal from the Supreme Court of Iowa.</text>
+            <text syncTime="13.196" offset="139326">In an opinion filed with the Clerk today, we hold that the Outer Continental Shelf Lands Act does not preclude Iowa or any other states from including Outer Continental Shelf derived income in the unitary tax rate of an otherwise constitutionally permissible apportionment formula.</text>
+            <text syncTime="40.987" offset="250503">The Supreme Court of Iowa is hereby affirmed.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

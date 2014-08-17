@@ -1,0 +1,45 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1992-03-24</transcribed>
+        <edit user="tschaefer" date="2012-08-14T16:59:15" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="clarence_thomas"/>
+        <identified user="tschaefer">2012-08-14</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:30:42" startTime="0.000" oldSpeaker="clarence_thomas" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="571503">/xml/cases/1991/90_1745/19920324o_90-1745.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1991/90-1745_19920324-opinion.xml</sourceFile>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="120.163">
+        <title>United States v. Wilson</title>
+        <section startTime="0.000" stopTime="10.077">
+          <heading>Announcement of Justice Thomas</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.077">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90850">The opinion of the Court in No. 90-1745, United States against Wilson will be announced by Justice Thomas.</text>
+          </turn>
+        </section>
+        <section startTime="10.077" stopTime="120.163">
+          <heading>Announcement of Justice Thomas</heading>
+          <turn speaker="clarence_thomas" startTime="10.077" stopTime="120.163">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="10.077" offset="131079">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Sixth Circuit.</text>
+            <text syncTime="17.653" offset="161381">The respondent, Richard Wilson committed extortion and other crimes in Tennessee.</text>
+            <text syncTime="24.223" offset="187712">State authorities arrested Wilson and held him in jail pending the outcome of simultaneous state and federal prosecutions.</text>
+            <text syncTime="32.807" offset="221985">The United States District Court eventually gave Wilson a 96-month sentence.</text>
+            <text syncTime="39.730" offset="249674">Wilson appealed to the sentence to the Court of Appeals for the Sixth Circuit arguing that the District Court should have given him credit for the time that he spent in state jail.</text>
+            <text syncTime="53.363" offset="304218">The Court of Appeals for the Sixth Circuit agreed with Wilson and reversed the District Court.</text>
+            <text syncTime="58.606" offset="325221">In an opinion filed today with the Clerk's office, we now reverse the Court of Appeals.</text>
+            <text syncTime="64.839" offset="350194">A federal prisoner has a right to receive credit for certain pre-sentenced jail time under 18 U.S.C. Section 3585(b).</text>
+            <text syncTime="75.064" offset="391049">We conclude, however, that a District Court may not award this credit at sentencing.</text>
+            <text syncTime="81.424" offset="416545">Section 3585(b) gives a defendant a right to credit for "any time that he has spent in official detention before his sentence begins".</text>
+            <text syncTime="95.409" offset="472447">Calculation of this credit cannot occur at sentencing because a defendant's total detention time remains unknown until he actually goes to prison.</text>
+            <text syncTime="106.164" offset="515497">In our review, the credit must be determined as an administrative matter once the defendant begins to serve his sentence.</text>
+            <text syncTime="114.655" offset="549456">Justice Stevens has filed a dissenting opinion which Justice White has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

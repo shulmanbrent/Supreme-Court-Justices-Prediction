@@ -1,0 +1,36 @@
+<transcript>
+      <history>
+        <identified user="jgoldman">2014-04-17</identified>
+      </history>
+      <resources>
+        <audioFile size="408033">/xml/cases/1975/74_1033/19760331o_74-1033.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1975/trs/74-1033op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="101.953">
+        <title>Dann v. Johnston</title>
+        <section startTime="0" stopTime="101.953">
+          <heading>Opinion Announcement of Warren E. Burger</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="10.792">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="0">The judgment and opinion of the Court in No. 74-1033 Dann, the Commissioner of Patents against Johnston will be announced by Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="10.792" stopTime="94.950">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="10.792" offset="43154">This case is here on writ of certiorari to the United States Court of Customs and Patent Appeals.</text>
+            <text syncTime="16.711" offset="66769">The respondent developed a machine system for automatic record keeping of bank checks and deposits.</text>
+            <text syncTime="23.458" offset="93832">Under that, the system, checks and deposits are labeled by the Customs with code categories which are read and then processed by data processes such as programmable electronic digital computer having data storage files and a control system.</text>
+            <text syncTime="40.431" offset="161646">The system allows the bank to furnish customers with an individualized and categorized breakdown of their transactions with appropriate subtotals for the periods involved.</text>
+            <text syncTime="52.951" offset="211801">The Court of Customs and Patent Appeals held the respondent's system to be patentable, be reversed.</text>
+            <text syncTime="59.553" offset="238132">Title 35 of United States Code Section 103 mandates that a patent not be given when the differences between the subject matter sought to be patented and the prior art are such that the subject matter as a whole would have been obvious at the time of the invention was made, to a person having ordinary skill in the art to which said subject matter pertains.</text>
+            <text syncTime="82.371" offset="329456">We hold that under this standard, respondent system was obvious and hence unpatentable.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="94.950" stopTime="101.953">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="94.950" offset="379716">Mr. Justice Blackman and Mr. Justice Stevens took no part in the consideration of the case that Mr. Justice Marshall has just announced.</text>
+            <text syncTime="100.616" offset="402390">Thank you, Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="347847">/xml/cases/1979/78_5471/19800416o_78-5471.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1979/trs/78-5471op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="86.891">
+        <title>Whalen v. United States</title>
+        <section startTime="0.000" stopTime="86.891" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Potter Stewart</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.128">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">The judgment and opinion of the Court in Whalen against United States will be announced by Mr. Justice Stewart.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="8.128" stopTime="85.426">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="8.128" offset="32496">This case is here by reason of the grant of a writ of certiorari to the District of Columbia Court of Appeals.</text>
+            <text syncTime="15.117" offset="60395">After a jury trial, the petitioner was convicted in the Superior Court of the District of Columbia of rape, and of killing the same victim in the perpetration of rape.</text>
+            <text syncTime="27.352" offset="109401">He was sentenced to consecutive terms of imprisonment of 20 years to life for first-degree murder, and of 15 years to life for rape.</text>
+            <text syncTime="37.075" offset="148271">The District of Columbia Court of Appeals affirmed the convictions and the sentences.</text>
+            <text syncTime="42.598" offset="170318">We brought the case here to consider the contention that the imposition of cumulative punishments for the two offenses was contrary to federal statutory and constitutional law.</text>
+            <text syncTime="56.884" offset="227474">For the reasons set out in detail in the Court's written opinion, we have concluded that cumulative sentences cannot lawfully be imposed for the two offenses in the circumstances of this case.</text>
+            <text syncTime="69.851" offset="279301">Accordingly, the judgment is reversed.</text>
+            <text syncTime="72.831" offset="291318">Mr. Justice White and Mr. Justice Blackmun have each filed opinions concurring in the judgement.</text>
+            <text syncTime="79.137" offset="316500">Mr. Justice Rehnquist has filed a dissenting opinion which the Chief Justice has joined.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="85.426" stopTime="86.891">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="85.426" offset="341682">Thank you Mr. Justice Stewart.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

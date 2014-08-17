@@ -1,0 +1,44 @@
+<transcript>
+      <history/>
+      <resources>
+        <audioFile size="">/xml/cases/2008/07_773/20090309o_07-773.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2008/trs/07-773_20090309-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="264.360">
+        <title>Vaden v. Discover Bank</title>
+        <section startTime="0" stopTime="264.360">
+          <heading>Opinion Announcement of Ruth Bader Ginsburg</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="6.804">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="28">Justice Ginsburg has the Court opinion in two cases this morning.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="6.804" stopTime="264.360">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="6.804" offset="27195">The first case is No. 07-773, Vaden against Discover Bank.</text>
+            <text syncTime="14.696" offset="58751">Section 4 of the Federal Arbitration Act authorizes a United States district court to entertain a petition to compel arbitration if the Court would have jurisdiction, save for the arbitration agreement over a suit arising out of the controversy between the parties.</text>
+            <text syncTime="37.522" offset="150075">This case presents two questions concerning the meaning of Section 4.</text>
+            <text syncTime="42.740" offset="170973">First, should a District Court limit its jurisdictional inquiry to the discrete dispute about arbitrability?</text>
+            <text syncTime="51.851" offset="207336">Or should it instead look through the petition to compel arbitration and determine whether the underlying controversy between the parties presents a cognizable federal question.</text>
+            <text syncTime="64.745" offset="258954">Second, if a court should look through the petition and focus on the underlying controversy, may the Court exercise jurisdiction when the federal question arises only in a counterclaim.</text>
+            <text syncTime="79.464" offset="317781">The case we decide today began with proceedings in a Maryland state court.</text>
+            <text syncTime="84.837" offset="339306">Discover Bank's servicing affiliate filed a state law debt-collection action seeking to recover past-due charges from one of its credit cardholders, Betty Vaden.</text>
+            <text syncTime="99.797" offset="399179">Vaden counterclaimed alleging that Discover's finance charges, interests and late fees violated state law.</text>
+            <text syncTime="108.604" offset="434392">Invoking an arbitration clause in its cardholder agreement, Discover then petitioned a Federal District Court to compel arbitration of Vaden's counterclaims.</text>
+            <text syncTime="120.968" offset="483816">The federal court had jurisdiction Discover asserted because Vaden's counterclaims were entirely preempted by federal banking law.</text>
+            <text syncTime="130.952" offset="523835">The District Court ordered arbitration and the Court of Appeals for the Fourth Circuit ultimately affirmed.</text>
+            <text syncTime="138.802" offset="555182">We now reversed the Fourth Circuit's judgment.</text>
+            <text syncTime="142.765" offset="571065">As to the first question, we agree with the Fourth Circuit that a District Court may look through a Section 4 petition and home in on the party's underlying controversy.</text>
+            <text syncTime="154.152" offset="616622">The text of Section 4 strongly supports this conclusion the phrase, save for the arbitration agreement instructs courts to determine whether had there been no arbitration agreement, they would have jurisdiction over the substantive dispute between the parties.</text>
+            <text syncTime="174.685" offset="698751">As to the second question, however, we hold that the Fourth Circuit erred.</text>
+            <text syncTime="180.098" offset="720381">Because Section 4 does not enlarge federal-court jurisdiction, a party seeking to compel arbitration may gain a federal court's assistance, we hold, only if the parties underlying controversy in its entirety could be litigated in federal court.</text>
+            <text syncTime="198.402" offset="793628">Here, the controversy between Discover and Vaden was triggered by Discover's garden-variety state law, debt-collection claim against Vaden.</text>
+            <text syncTime="208.983" offset="835946">That claim plainly did not provide any basis for federal court jurisdiction and it is well established that federal jurisdiction cannot be premised on a defense or counterclaim.</text>
+            <text syncTime="221.582" offset="886310">We decline to read Section 4 to enable a party to commandeer a federal court to order arbitration of a slice of a controversy when the controversy as a whole would not qualify for federal court adjudication.</text>
+            <text syncTime="238.424" offset="953706">Discover we note remains free to petition a Maryland state court for assistance in enforcing the arbitration clause contained in its contracts with Maryland cardholders.</text>
+            <text syncTime="252.526" offset="1010131">The Chief Justice has filed an opinion concurring in part and dissenting in part in which Justices Stevens, Breyer, and Alito joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

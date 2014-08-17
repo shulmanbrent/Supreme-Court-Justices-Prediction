@@ -1,0 +1,55 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2013-12-12T11:55:21" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1579118">/xml/cases/2003/02_458/20040302o_02-458.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2003/trs/02-458_20040302-opinion.trs</sourceFile>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="348.726">
+        <title>Raymond B. Yates, M. D., P. C. Profit Sharing Plan v. Hendon</title>
+        <section startTime="0.000" stopTime="348.726" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice Ruth Bader Ginsburg</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.469">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No.02-458, Yates against Hendon will be announced by Justice Ginsburg.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="8.469" stopTime="348.726">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="8.469" offset="33855">This case presents the question, may the working owner of a business qualify as a participant in a pension plan sheltered by the Employee Retirement Income Security Act of 1974, familiarly known as ERISA?</text>
+            <text syncTime="25.946" offset="103758">The answer we hold is yes.</text>
+            <text syncTime="29.551" offset="118178">Provided that the plan harbors one or more employees other than the working owner and his or her spouse, the owner may participate in the plan on equal terms with other participants.</text>
+            <text syncTime="42.723" offset="170841">We reject the position taken by the Courts below that a working owner ranks only as an employer, never also as an employee for purposes of plan participation.</text>
+            <text syncTime="56.792" offset="227161">Enacted to protect employee benefit plant participants and their beneficiary, ERISA comprises four Titles.</text>
+            <text syncTime="65.662" offset="262583">This case concerns Title I's definition and coverage provision.</text>
+            <text syncTime="70.677" offset="282645">In particular, Title I defines participant to encompass any employee eligible to receive a benefit from an employee benefit plan, an employee circularly as any individual employed by an employer.</text>
+            <text syncTime="88.486" offset="353907">Dr. Raymond Yates was sole shareholder and president of a professional medical care corporation that maintained a profit sharing plan.</text>
+            <text syncTime="99.154" offset="396539">From the plan’s inception, at least one person other than Yates and his wife participated in the plan.</text>
+            <text syncTime="106.123" offset="424438">In December 1989, Yates borrowed $20,000 from another pension plan that later merged into the profit sharing plan.</text>
+            <text syncTime="117.233" offset="468846">For nearly seven years, Yates made not even one of the monthly payments the loan required.</text>
+            <text syncTime="124.552" offset="498207">In November 1996, just three weeks before other creditors filed an involuntary Chapter 7 Bankruptcy petition against Yates, he paid off the loan in full with the proceeds of the sale of his house.</text>
+            <text syncTime="140.130" offset="560483">The bankruptcy trustee filed a complaint against the profit sharing plan and Yates as the plan’s trustee to recover the loan repayments for the bankruptcy estate.</text>
+            <text syncTime="152.200" offset="608758">Awarding summary judgment to the bankruptcy trustee, the Bankruptcy Court held that the plan and Yates as trustee could not rely on the anti-alienation provision that every ERISA sheltered plan must contain a provision that shields plan assets from creditor’s reach.</text>
+            <text syncTime="173.668" offset="694648">That holding was dictated by Sixth Circuit precedent, under which a self-employed owner may not participate as an employee in his company’s pension plan and thus it may not involved ERISA's protection to block creditors from reaching his investment in the plan.</text>
+            <text syncTime="195.775" offset="783047">The District Court in this case and the Sixth Circuit affirmed on the same ground.</text>
+            <text syncTime="204.696" offset="818782">We granted certiorari in view of the division of opinion among the Circuits on the question whether a working owner may qualify as a participant in an ERISA protected plan.</text>
+            <text syncTime="216.641" offset="866534">Answering yes, we reverse the Court of Appeals’ judgment.</text>
+            <text syncTime="220.350" offset="881371">ERISA's definition of the employee and in turn, participant, are informative we therefore looked at other provisions of the Act for instruction.</text>
+            <text syncTime="230.696" offset="922749">Because ERISA's text contains multiple indications that Congress intended working owners to qualify as plan participants, we need not resort to common law to decide this case.</text>
+            <text syncTime="242.754" offset="970919">Title I includes several exemptions from ERISA's requirements the plans in which working owners participate.</text>
+            <text syncTime="250.943" offset="1003729">Those exemptions would be unnecessary if working owners were categorically excluded from participating in ERISA protected plans in the first place.</text>
+            <text syncTime="261.463" offset="1045838">Title I also cross-references several Internal Revenue Code provisions that plainly contemplate the participation of working owners intacts qualified pension plan.</text>
+            <text syncTime="272.362" offset="1089411">Other ERISA Titles are corroborative moreover a 1999 Department of Labor advisory opinion accords with our understanding of Title I's relevant provisions.</text>
+            <text syncTime="283.966" offset="1135804">Because Yates failed to honor his loan’s monthly repayment requirement, the following questions remain open to be addressed on remand.</text>
+            <text syncTime="295.605" offset="1182407">First, did the 1996 close-to-bankruptcy loan repayment become part of Yates' interest in the profit sharing plan has ordinarily shielded from the bankruptcy estate under the plan’s entity alienation provision?</text>
+            <text syncTime="312.184" offset="1248653">And second, even if the answer to the first question is yes, was the repayment beyond the reach of the bankruptcy trustee’s power to undo transfers benefiting particular creditors.</text>
+            <text syncTime="325.845" offset="1303301">Both Justice Scalia and Justice Thomas have filed opinions concurring in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,1370 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <verified user="jeffpar">2014-02-01</verified>
+        <edit user="abryan" date="2014-03-25T19:55:08" startTime="994.532" oldSpeaker="unknown_speaker" newSpeaker="ruth_bader_ginsburg"/>
+        <edit user="abryan" date="2014-03-25T19:56:25" startTime="1684.507" oldSpeaker="john_paul_stevens" newSpeaker="antonin_scalia"/>
+        <edit user="abryan" date="2014-03-25T19:56:34" startTime="1691.732" oldSpeaker="david_h_souter" newSpeaker="antonin_scalia"/>
+        <edit user="abryan" date="2014-03-25T19:56:45" startTime="1709.072" oldSpeaker="ruth_bader_ginsburg" newSpeaker="anthony_m_kennedy"/>
+        <edit user="abryan" date="2014-03-25T19:57:02" startTime="1830.815" oldSpeaker="david_h_souter" newSpeaker="stephen_g_breyer"/>
+        <edit user="abryan" date="2014-03-25T19:58:01" startTime="2568.941" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <edit user="abryan" date="2014-03-25T19:58:03" startTime="2577.161" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <edit user="abryan" date="2014-03-25T19:58:08" startTime="2630.537" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <edit user="abryan" date="2014-03-25T19:58:54" startTime="3192.210" oldSpeaker="stephen_g_breyer" newSpeaker="antonin_scalia"/>
+        <edit user="abryan" date="2014-03-25T19:58:57" startTime="3198.677" oldSpeaker="stephen_g_breyer" newSpeaker="antonin_scalia"/>
+        <identified user="abryan">2014-03-25</identified>
+      </history>
+      <resources>
+        <audioFile size="14641843">/xml/cases/2003/02_1389/20040112a_02-1389.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2003/trs/02-1389_20040112-argument.trs</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="kent_l_jones" type="advocate" gender="male" path="/advocates/kj/kent_l_jones" image="/advocates/kj/kent_l_jones/thumbnail.jpg">Kent L. Jones</speaker>
+        <speaker id="david_r_haberbush" type="advocate" gender="male" path="/advocates/dh/david_r_haberbush" image="/advocates/dh/david_r_haberbush/thumbnail.jpg">David R. Haberbush</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3578.421">
+        <title>United States v. Galletti</title>
+        <section startTime="0.000" stopTime="1516.226" revised="2014-02-01">
+          <heading>Argument of Kent L. Jones</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.910">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">We'll hear argument now in No. 02-1389, the United States v. Abel Cosmo Galletti.</text>
+            <text syncTime="8.423" offset="33646">Mr. Jones.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="9.910" stopTime="33.315">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="9.910" offset="39602">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="13.169" offset="52663">Federal employment taxes owed by a partnership were assessed by the commissioner, and when the partnership failed to pay the taxes, the United States brought this action to recover the taxes against the individual partners who were derivatively liable under State law for all debts of the partnership, including its tax debts.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="33.315" stopTime="41.982">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="33.315" offset="133224">Did the Government have to wait until the partnership failed to pay?</text>
+            <text syncTime="36.742" offset="146913">Could it have proceeded immediately against the partners under... under the governing State law?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="41.982" stopTime="51.270">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="41.982" offset="167915">You've addressed an... an unanswered question that isn't presented here, of course.</text>
+            <text syncTime="47.926" offset="191634">It's unanswered because Federal law--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="51.270" stopTime="67.717">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="51.270" offset="205009">It... it's not presented, depending on what you mean by derivative liability.</text>
+            <text syncTime="55.522" offset="222041">I... I always thought that derivative liability would be liability that doesn't attach unless and until the person primarily liable fails to... fails to pay up.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="67.717" stopTime="82.206">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="67.717" offset="270838">--And... and I agree with that, and... and the Uniform Partnership Act, which California has adopted, contains a provision that specifies that the creditor must exhaust his efforts to recover from the partnership before he can recover from the partners.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="82.206" stopTime="82.578">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="82.206" offset="328725">I see.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="82.578" stopTime="87.779">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="82.578" offset="330292">And... and so that's what makes it clear this indeed a derivative secondary liability.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="87.779" stopTime="95.747">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="87.779" offset="351086">You think maybe the United States may not be bound by that.</text>
+            <text syncTime="89.265" offset="357042">You... you don't want to... you don't want to concede that the United States is bound by that.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="95.747" stopTime="129.905">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="95.747" offset="382955">It's not so much I don't want to concede.</text>
+            <text syncTime="98.142" offset="392568">I don't feel that I'm able to concede that not because it is related to this case, but because of a... a structural intellectual problem about the extent to which whose law governs in that situation.</text>
+            <text syncTime="107.802" offset="431125">If it's a limitations provision, we know Federal law governs when the United States is bringing a claim that it acquires in its sovereign capacity.</text>
+            <text syncTime="114.944" offset="459755">Whether this would be regarded as a procedural restriction that the State substantive law didn't... now, whether you want to think this is substantive or procedural may affect the answer to the question... the hypothetical that you've raised.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="129.905" stopTime="146.894">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="129.905" offset="519523">Well, can you tell me as a matter of practice if... if you know?</text>
+            <text syncTime="134.179" offset="536660">Suppose there's a partnership which is a little murky.</text>
+            <text syncTime="136.326" offset="545228">It's in the Cayman Islands and they're behind, but that one of the... the general partners is in California.</text>
+            <text syncTime="142.270" offset="569051">Can you just proceed against him, do you know?</text>
+            <text syncTime="145.947" offset="583784">Does the Revenue Service--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="146.894" stopTime="147.144">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="146.894" offset="587546">Well, there--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="147.144" stopTime="147.903">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="147.144" offset="588487">--ever do that?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="147.903" stopTime="165.781">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="147.903" offset="591517">There... there is an... the uniform... in the case law, there's a discussion of situations where the partnership is known to be insolvent.</text>
+            <text syncTime="155.045" offset="620147">You're not required to do a senseless act.</text>
+            <text syncTime="157.357" offset="629342">You're not required to pursue and exhaust against the partnership when it's known to be insolvent.</text>
+            <text syncTime="161.444" offset="645747">So in that situation, you have exhausted because the partnership is insolvent.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="165.781" stopTime="183.364">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="165.781" offset="663092">And I take it in that situation... you correct me if I'm wrong... but you can't just levy on the account if the tax has not been assessed against that partner individually, but you can commence some other sorts of proceedings which would allow a subsequent levy.</text>
+            <text syncTime="181.878" offset="727458">Or am I wrong, or is that clear?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="183.364" stopTime="200.044">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="183.364" offset="733414">--Well, you've brought me through... to a lot of levels of complexity, but I think the answer to the question is we... we don't dispute that you need to give a... a notice of assessment in order to collect administratively through liens and levies.</text>
+            <text syncTime="196.617" offset="786390">That's not relevant to this case because this is a judicial collection case.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="200.044" stopTime="200.415">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="200.044" offset="800078">Of course.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="200.415" stopTime="211.849">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="200.415" offset="801646">But, nonetheless, there is case law that says that when you give notice to the partnership of its liability, that's sufficient as constructive notice to the partners to permit administrative collection through liens and levies.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="211.849" stopTime="240.456">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="211.849" offset="847308">Mr. Kent, if you're not right about that and you do have to have individual notice and demand to the partners, then there's a consequence other than liens and levies, isn't there, where you have whopping penalties and interest attached?</text>
+            <text syncTime="228.567" offset="914181">I thought if you don't give notice and demand within the 60-day period, then not only can't you impose liens, but that the interest and penalties stop running.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="240.456" stopTime="250.281">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="240.456" offset="961724">I'm... I'm familiar with the... the concept of interest doesn't run until notice of the assessment is made, but nonetheless again, notice to the partnership would be constructive to the partners.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="250.281" stopTime="266.795">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="250.281" offset="1001117">But if you're wrong about that constructive notice, then you could still say, well, the statute has been extended 10 years because of the assessment.</text>
+            <text syncTime="258.910" offset="1035598">However, one might conclude that the interest stops running and that you can't use administrative collection procedures.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="266.795" stopTime="278.190">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="266.795" offset="1067154">Well, I... I don't mean to be... I don't mean to sound like I'm retreating from that issue.</text>
+            <text syncTime="273.937" offset="1095680">I'm just... it's not presented here, and so I'm not really capable standing here--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="278.190" stopTime="290.738">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="278.190" offset="1112712">Well, it would be to the extent on... if... if this thing is remanded with instructions that the assessment counts against all of them, that there would be the question remaining about the interest and penalties.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="290.738" stopTime="299.755">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="290.738" offset="1162867">--That's... I don't... it is possible, and if the Court were to reverse and remand for further proceedings, it's possible that that issue would be raised.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="299.755" stopTime="306.425">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="299.755" offset="1199020">Are you... are you saying that we should maybe flag it but not decide it?</text>
+            <text syncTime="305.682" offset="1222635">Is it--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="306.425" stopTime="321.536">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="306.425" offset="1225665">I don't... I don't know what your practice would be.</text>
+            <text syncTime="309.564" offset="1238204">I would think your practice would be to decide the issue that's presented.</text>
+            <text syncTime="312.619" offset="1250429">You could note other issues haven't been raised, but since those issues haven't been briefed here, we're not really in a position to advise you on their proper resolution.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="321.536" stopTime="326.699">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="321.536" offset="1286060">--Why don't you go ahead with the issues that are presented?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="326.699" stopTime="437.085">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="326.699" offset="1306749">Okay.</text>
+            <text syncTime="327.359" offset="1309362">Well, the point I was making was that the court ruled against us because they said that the partnership taxes had not been assessed directly against the partners.</text>
+            <text syncTime="338.997" offset="1355964">But respondents now correctly concede that there is no requirement of Federal law that a derivative or secondary State law liability to pay a tax has to be assessed before it can be collected, and that concession is plainly correct in light of this Court's decision in 1933 in the Leighton case where the Court held that a derivative or secondary liability that arises under State law to pay a tax may be recovered... and I quote... without assessment of that liability.</text>
+            <text syncTime="367.937" offset="1471739">And there are numerous cases that have applied that principle in... in related secondary and derivative liability contexts.</text>
+            <text syncTime="374.846" offset="1499324">And as... as I've already indicated, those principles plainly apply here because under the Uniform Partnership Act, which applies in California, the liability of the partner is derivative for the... and secondary rather than principal, as I've discussed with Justice Scalia.</text>
+            <text syncTime="390.805" offset="1563167">Not only is it clear from the legal structure of the UPA, but the official comments to the... of... to that act state that the liability of the partnership for partnership debts is principal and that the liability of partners is... is in the nature of a guarantor.</text>
+            <text syncTime="409.009" offset="1635997">It's secondary.</text>
+            <text syncTime="409.564" offset="1638191">It arises only when the partnership doesn't pay its own debts.</text>
+            <text syncTime="412.724" offset="1650834">Federal law also makes clear that this is a liability that attaches directly to the partnership.</text>
+            <text syncTime="419.206" offset="1676748">This is a Federal employment tax.</text>
+            <text syncTime="420.981" offset="1683853">It applies to employers because, under California law, the... the partnership is a separate and distinct legal entity.</text>
+            <text syncTime="430.269" offset="1721051">It is the employer.</text>
+            <text syncTime="431.550" offset="1726171">It pays the wages.</text>
+            <text syncTime="432.748" offset="1730978">Its payment of wages is what causes the taxes to be imposed.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="437.085" stopTime="443.234">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="437.085" offset="1748323">But you... you agree that it's the law of California that imposes the derivative liability on the partners?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="443.234" stopTime="450.626">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="443.234" offset="1772878">That's the way the cases describe it.</text>
+            <text syncTime="444.970" offset="1779879">From my... and that's the way this Court described it in... in Commissioner v. Stern.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="450.626" stopTime="451.080">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="450.626" offset="1802449">What more do you want?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="451.080" stopTime="451.823">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="451.080" offset="1804225">Pardon me?</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="451.823" stopTime="453.105">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="451.823" offset="1807256">I say what more do you want.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="453.105" stopTime="641.381">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="453.105" offset="1812376">Well, I don't want more.</text>
+            <text syncTime="454.508" offset="1818018">I'm just being finicky I guess, because to me we... the Court in Commissioner v. Stern said that these... historically these are substantive liabilities that Congress accepts from State law.</text>
+            <text syncTime="466.851" offset="1867337">And therefore, the Court applies the substantive body of State rules in... in implementing that liability.</text>
+            <text syncTime="473.084" offset="1892310">You could also think of this... and I'm not asking the Court to reconsider Commissioner v. Stern.</text>
+            <text syncTime="477.625" offset="1910491">But you can... even in light of Commissioner v. Stern, you can think of this as Federal law borrowing State law for this remedial purpose, and Congress has sanctioned that by not altering the principles that have long existed on this.</text>
+            <text syncTime="490.750" offset="1962945">The... but the... the point that this Court made in Leighton is that these principles that they apply come from State law and you don't a... actually respondents now admit there's no mechanism in Federal law to assist this... assess this sort of secondary derivative State law liability, and that's correct.</text>
+            <text syncTime="508.211" offset="2032744">That's what the Court addressed in the Leighton case.</text>
+            <text syncTime="510.978" offset="2043820">And the court of appeals in this case just misapplied those well-accepted principles.</text>
+            <text syncTime="518.491" offset="2073913">Once the assessment of the partnership taxes was made, under section 6502 the United States has 10 years from the date of the assessment to bring any proceeding in court to collect the taxes.</text>
+            <text syncTime="531.579" offset="2126263">And in the Updike case in 1930, the Court held that that 10 years applies not only to actions against the directly liable party but also to a person whose liability is derivative or secondary and arises from State law.</text>
+            <text syncTime="545.446" offset="2181747">And the Court explained that the broad purpose and broad text of 6502 applies equally in both cases because in the Court's words, in a real sense the action against the derivatively liable party is a proceeding in court to collect the tax.</text>
+            <text syncTime="561.217" offset="2244859">As the Court said in Updike, the aim in the one case, as in the other, is the same.</text>
+            <text syncTime="565.675" offset="2262622">It's to collect the tax liability.</text>
+            <text syncTime="567.283" offset="2269100">Now, in this Court respondents do not dispute that accepted understanding of 6502.</text>
+            <text syncTime="573.765" offset="2295014">Instead, they raise here a new and, indeed, a radical claim that no court has adopted and that they did not raise prior to their merits brief in this Court.</text>
+            <text syncTime="582.865" offset="2331376">What they argue now for the first time is that the Federal statute of limitations should not govern this derivative liability claim because since it stems from substantive State law, the State statute of limitations should govern it.</text>
+            <text syncTime="596.261" offset="2384980">Now, since they didn't raise that claim at any time before their merits brief in this Court... and it is a statute of limitations which is an affirmative defense... they're... they've waived the claim as too rate to... too late to raise it.</text>
+            <text syncTime="608.416" offset="2433567">But nonetheless, I think it is important to note that their claim is plainly inconsistent with this Court's decisions.</text>
+            <text syncTime="614.799" offset="2459167">For example, in the Summerlin case, this Court held that whenever the United States acquires a claim acting in its governmental capacity, that claim of the United States is not subject to a State statute of limitations because of the sovereign rights... sovereign immunity of the United States.</text>
+            <text syncTime="630.979" offset="2523847">And they applied that holding in Summerlin to a situation where what the United States obtained was a right to enforce a private note and private mortgage that the--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="641.381" stopTime="657.357">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="641.381" offset="2565433">May I interrupt for this question?</text>
+            <text syncTime="642.701" offset="2570762">You know, there are some State statutes of limitations that... or some States have limitations provisions that are either affirmative defenses or some are, in effect, conditions precedent to bringing an action.</text>
+            <text syncTime="653.104" offset="2612349">If California had the latter form of action, how would you decide this case?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="657.357" stopTime="696.822">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="657.357" offset="2629381">--I think that in... in Commissioner v. Bresson where the Ninth Circuit addressed that very point, they... they were... they wrote a very useful opinion that seems to me to be perfectly correct, that the... that if it is the passage of time after the United States acquires its right that causes the claim to expire, that that is what is barred by the Summerlin rationale because the sovereign rights of the United States can't be extinguished.</text>
+            <text syncTime="681.134" offset="2724467">And so whether you think of it as extinguishing the claim or limiting the... the period of recovery, in either event what's instrumental is that the... the United States had the right at the time it obtained the claim and that the State law could not thereafter cut that right off.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="696.822" stopTime="753.664">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="696.822" offset="2787265">Why not?</text>
+            <text syncTime="697.565" offset="2790191">Why... why... suppose that you have a... a bank that guarantees a debt, and the debt is Smith's debt.</text>
+            <text syncTime="705.654" offset="2822583">And the guarantee is to pay, including tax debts.</text>
+            <text syncTime="711.516" offset="2845989">That's what it says.</text>
+            <text syncTime="712.713" offset="2850795">It was a condition of the borrowing or some other thing.</text>
+            <text syncTime="715.519" offset="2861976">Now, why wouldn't State law govern the period of time in respect to which any creditor, including the Government, has to assert a... a claim under that note, let's say, or under that particular written guarantee since the liability there is a creation of State law and the State would have the right to define its contours?</text>
+            <text syncTime="741.487" offset="2965943">And after all, that guarantor is not the taxpayer.</text>
+            <text syncTime="745.324" offset="2981198">The... the guarantor's liability arises solely out of the fact that he happens to have entered into a note with a guarantor who promised to pay.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="753.664" stopTime="756.886">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="753.664" offset="3014635">So you're talking about a... a private contractual right--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="756.886" stopTime="757.674">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="756.886" offset="3027487">Yes.</text>
+            <text syncTime="757.052" offset="3028114">Say a private--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="757.674" stopTime="760.274">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="757.674" offset="3030622">--that the United States somehow obtained rights under by--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="760.274" stopTime="760.646">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="760.274" offset="3041071">--Yes.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="760.646" stopTime="761.927">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="760.646" offset="3042534">--levying, for example--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="761.927" stopTime="762.382">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="761.927" offset="3047654">Yes, yes.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="762.382" stopTime="763.125">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="762.382" offset="3049430">--on the... on the right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="763.125" stopTime="764.777">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="763.125" offset="3052460">Yes, yes, and then I'm going to say why isn't this that.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="764.777" stopTime="769.319">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="764.777" offset="3059043">That's... that's a... that's exactly frankly what happened in Summerlin--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="769.319" stopTime="769.941">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="769.319" offset="3077224">Yes.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="769.941" stopTime="790.746">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="769.941" offset="3079732">--except Summerlin involved a housing program instead of the Internal Revenue Code.</text>
+            <text syncTime="773.406" offset="3093525">In Summerlin, the Government obtained a private note and enforced it, regardless of the State statute of limitations, and the Court's reasoning was that the... that the United States as sovereign cannot be subject to limitations imposed on the rights that it obtains.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="790.746" stopTime="815.737">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="790.746" offset="3162906">So if I... if I enter into a promise with you and say in return for my lending, you know, whatever it is, I... I promise that I will pay your tax debts, but by the way, I don't want to pay any tax debt that isn't definite before January the 5th, 2004 or 2010.</text>
+            <text syncTime="814.067" offset="3256216">I don't want to pay anything that arises--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="815.737" stopTime="829.217">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="815.737" offset="3262903">It's a limit... if you're talking about a substantive limitation in the document itself, well, the United States takes its... stands in the shoes of the assignor in that situation, and we don't get a better substantive right... substantive right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="829.217" stopTime="831.447">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="829.217" offset="3316820">--Okay.</text>
+            <text syncTime="829.589" offset="3318282">So it's a substantive procedural distinction.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="831.447" stopTime="834.048">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="831.447" offset="3325701">Well, certainly that's the way the Court has looked at it, and I--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="834.048" stopTime="863.088">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="834.048" offset="3336150">But you know, in... in other cases, let's say when the... when the Federal Government creates a Federal right without establishing a statute of limitations for that Federal right, State law does not govern, but Federal law looks to the... to the State statute of limitations as a matter of Federal law.</text>
+            <text syncTime="854.936" offset="3419742">I don't know why it wouldn't be the same thing with respect to a... a Federal claim.</text>
+            <text syncTime="859.373" offset="3437401">You mean there is no statute of limitations whatever on Federal claims?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="863.088" stopTime="877.206">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="863.088" offset="3452343">--No.</text>
+            <text syncTime="863.371" offset="3453388">Well, that's the second route that the Court has used to say the State's limitations don't control, and that is, when there's a Federal limitations period that applies to the claim, then the State provision doesn't control.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="877.206" stopTime="877.744">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="877.206" offset="3508767">Of course.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="877.744" stopTime="888.684">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="877.744" offset="3510962">And under... under Updike, what this Court concluded in Updike was that there is a Federal statute of limitations that applies to these proceedings in court to collect the taxes, which includes the derivative claim.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="888.684" stopTime="901.483">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="888.684" offset="3554638">Well, that... that's fine.</text>
+            <text syncTime="888.890" offset="3555474">But I'm talking about the more general proposition that... that you're... that you're defending or... or proposing that... that State law does not... never... never applies to a... to a Federal claim.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="901.483" stopTime="902.309">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="901.483" offset="3605838">Well, it doesn't--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="902.309" stopTime="903.135">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="902.309" offset="3609182">I mean, a claim by the United States.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="903.135" stopTime="903.590">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="903.135" offset="3612526">--It doesn't--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="903.590" stopTime="906.645">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="903.590" offset="3614302">I think it does.</text>
+            <text syncTime="904.044" offset="3616078">Now, it may not apply of its own force.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="906.645" stopTime="907.016">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="906.645" offset="3626527">--Exactly.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="907.016" stopTime="909.867">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="907.016" offset="3627990">But it applies because of adoption by the United States.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="909.867" stopTime="927.700">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="909.867" offset="3639380">If the... if the Court were to find it appropriate in a particular instance to adopt a State rule, that would not interfere with Summerlin, but that would... that would... I can't think of a case exactly like that.</text>
+            <text syncTime="924.744" offset="3698939">There may well be some.</text>
+            <text syncTime="925.592" offset="3702282">But most Federal claims--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="927.700" stopTime="931.248">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="927.700" offset="3710746">I can't imagine our not doing it.</text>
+            <text syncTime="929.269" offset="3717016">I can't imagine our saying that, you know--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="931.248" stopTime="931.991">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="931.248" offset="3724957">--Most--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="931.991" stopTime="934.963">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="931.991" offset="3727882">--the clock keeps ticking on Federal claims forever and ever.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="934.963" stopTime="941.650">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="934.963" offset="3739794">--Most Federal claims come within some general statute of limitations, and this is certainly a situation like that.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="941.650" stopTime="955.025">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="941.650" offset="3766544">Is it... is this question really academic in this case because you have not one but two Federal limitations, one, the regular 3-year period, then the extension by 10 years following an assessment?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="955.025" stopTime="963.903">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="955.025" offset="3820042">Well, I think the Updike case makes this discussion somewhat hypothetical, and I understood Justice Scalia's question to be in that vein.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="963.903" stopTime="975.996">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="963.903" offset="3855569">But here, what you're relying on are the Federal limitations period.</text>
+            <text syncTime="969.597" offset="3878348">So you don't need to worry about suppose there had been no Federal limitations.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="975.996" stopTime="988.710">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="975.996" offset="3903948">I... I don't need to worry about them, and I... but I'm only addressing them because respondents have raised them at this point in the case, and so I'm just discussing the two theories that this Court has applied in rejecting that kind of contention.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="988.710" stopTime="993.047">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="988.710" offset="3954834">You're saying it's doubly hypothetical because they can't raise the whole issue--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="993.047" stopTime="993.623">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="993.047" offset="3972180">Yes.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="993.623" stopTime="994.078">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="993.623" offset="3974478">--at this point anyway.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="994.078" stopTime="994.532">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="994.078" offset="3976255">Yes, sir.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="994.532" stopTime="1006.998">
+            <label>Justice Ginsburg</label>
+            <text syncTime="994.532" offset="3978031">I thought their primary position, though, was that the partners are not secondarily liable, they're primarily liable, so that they are the taxpayer and they're entitled to assessment notice and demand.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1006.998" stopTime="1019.879">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1006.998" offset="4027977">That is now clearly their primary position, and for the reasons I've already described that position can't be reconciled with the Uniform Partnership Act or with... or with the Federal law that applies to these taxes.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1019.879" stopTime="1038.045">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1019.879" offset="4079491">Can you... can you tell me in the case of a corporation, if the responsible officer does not withhold employment taxes, I... I take it... I thought I remembered that... that the responsible officer is personally liable.</text>
+            <text syncTime="1036.226" offset="4144901">Or am I wrong about that?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1038.045" stopTime="1044.361">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1038.045" offset="4152111">Yes.</text>
+            <text syncTime="1039.038" offset="4156082">There is a statute that authorizes an assessment of that liability against a responsible officer.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1044.361" stopTime="1045.354">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1044.361" offset="4177398">Ah, but you have to assess it.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1045.354" stopTime="1051.138">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1045.354" offset="4181368">It... it authorizes the assessment.</text>
+            <text syncTime="1047.749" offset="4190981">That's... you know, it's interesting.</text>
+            <text syncTime="1049.773" offset="4199027">There are certain types--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1051.138" stopTime="1053.860">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1051.138" offset="4204460">Can... can you proceed against the responsible officer without the assessment?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1053.860" stopTime="1071.776">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1053.860" offset="4215432">--If you have a claim based on State law or common law, and that's the reason we have a responsible officer statute is that this is a Federal claim.</text>
+            <text syncTime="1063.148" offset="4252526">There isn't... unlike in the partnership situation and in the ordinary transferee situation, there's not a backup State law action.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1071.776" stopTime="1088.949">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1071.776" offset="4287007">Well, if... if in the case of corporate officers, there must be an assessment, then by analogy it would seem that it wouldn't be too much trouble for the IRS to assess the partners in your case.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1088.949" stopTime="1096.751">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1088.949" offset="4355762">Well, sometimes it is troublesome, but it's not required in any situation under our understanding of the existing law.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1096.751" stopTime="1103.771">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1096.751" offset="4387004">I... I thought that it was required in the... in... in the corporate case.</text>
+            <text syncTime="1101.209" offset="4404767">You said it has to be assessed against the responsible officer.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1103.771" stopTime="1113.863">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1103.771" offset="4415007">Oh, I'm sorry.</text>
+            <text syncTime="1104.143" offset="4416470">I thought you were talking about the partnership then.</text>
+            <text syncTime="1105.795" offset="4423158">Yes.</text>
+            <text syncTime="1106.267" offset="4425038">I... the responsible officers... officer liability is created by Federal statute, unlike the partners' obligation for the debts of the partnership.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1113.863" stopTime="1141.561">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1113.863" offset="4455445">I'm simply wondering if... if that isn't a model, if that's what happens in the corporate instance, in this case where the statute is... is silent on the point, whether we shouldn't just assume that since it's not too much of a burden on the Government in the corporate context to require it to assess the responsible officer before the tax can be collected, that we shouldn't say the same thing here.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1141.561" stopTime="1142.016">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1141.561" offset="4566204">There is--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1142.016" stopTime="1142.470">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1142.016" offset="4567980">I'm just--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1142.470" stopTime="1176.239">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1142.470" offset="4569861">--I understand.</text>
+            <text syncTime="1143.008" offset="4571951">But the responsible officer liability is... is really a radically different concept.</text>
+            <text syncTime="1147.549" offset="4590132">It only... it only arises when that officer had knowledge of the fact that the taxes weren't being paid as they accrued and willfully failed to pay them and... and was responsible, had the responsibility to pay them.</text>
+            <text syncTime="1163.236" offset="4652931">It is a... it is a malfeasance claim, whereas the derivative liability claim is just under State law, you are liable as is the partnership, and we can enforce that State law.</text>
+            <text syncTime="1175.042" offset="4700160">There's another example--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1176.239" stopTime="1176.877">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1176.239" offset="4704862">--There's a--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1176.877" stopTime="1353.144">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1176.877" offset="4707474">--where the similar thing happened.</text>
+            <text syncTime="1177.725" offset="4710818">3505, which is the lender's liability.</text>
+            <text syncTime="1181.152" offset="4724506">There was no lender's liability for employment taxes that the Court discussed in the Jersey Shore case.</text>
+            <text syncTime="1187.735" offset="4750838">That liability didn't have a... a common law precedent, and so Congress created the liability because they saw a specific problem where lenders were allowing or in... in effect, helping employers evade employment taxes by loaning them money from which they paid wages but didn't pay taxes.</text>
+            <text syncTime="1209.245" offset="4836937">And so Congress created this separate statutory scheme.</text>
+            <text syncTime="1212.793" offset="4851148">But respondents are correct in their concession that there is no mechanism under Federal law for assessing the derivative State law liability of a partner for the debts of the partnership.</text>
+            <text syncTime="1223.567" offset="4894198">And so as the Court held in... in Leighton, we can proceed without assessment against them to enforce that liability.</text>
+            <text syncTime="1231.286" offset="4925127">Now, I do want to also mention the... the citations that respondents make to section 6303.</text>
+            <text syncTime="1239.914" offset="4959608">That section appears in the portion of the code that addresses administrative collection through liens and levies, and it states that the Secretary is to give notice of the assessment to any person liable for the tax.</text>
+            <text syncTime="1253.122" offset="5012480">The cases that have interpreted and applied that statute, which stem from 1954, have... have concluded correctly that that statute applies only to administrative collection through liens and levies and has no application to judicial collection actions.</text>
+            <text syncTime="1270.834" offset="5083324">And there's a... a sound historical explanation for that, and that is that prior to 1954, there were two independent routes for collecting taxes.</text>
+            <text syncTime="1280.409" offset="5121567">The Secretary was authorized by the code to bring a judicial collection suit, but there was a separate officer known as the collector of revenue for each district.</text>
+            <text syncTime="1290.357" offset="5161378">And the collector of revenue was, by the code, authorized to do the administrative collection through liens and levies.</text>
+            <text syncTime="1296.756" offset="5186978">And the predecessor of 6303 had said that the collector is to give notice of the assessment and make demands for payment.</text>
+            <text syncTime="1305.179" offset="5220624">And it was well established that that applied to his actions in administrative collection and had no application of the Secretary's independent authority to bring a judicial collection suit.</text>
+            <text syncTime="1315.332" offset="5261270">In 1954 in revising the code, Congress eliminated references to the collector in the code, placed the Secretary in charge both of the... of judicial and administrative enforcement and changed the predecessor language of 6303 from saying the collector is to give notice to saying the Secretary is to give notice.</text>
+            <text syncTime="1335.682" offset="5342668">But in doing so, Congress did not mean to change... and the courts that have reviewed this have correctly concluded did not change... the fact that this notice of assessment requirement applies only to the administrative collection area, has no application to judicial collection suits like this one.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1353.144" stopTime="1360.574">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1353.144" offset="5412571">--Are you conceding then that there could be no liens and levies against the partners here because there was no notice and demand--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1360.574" stopTime="1361.196">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1360.574" offset="5442247">I--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1361.196" stopTime="1362.022">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1361.196" offset="5444754">--individually to them?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1362.022" stopTime="1365.775">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1362.022" offset="5447993">--I don't think the record discusses whether there was notice to the partnership.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1365.775" stopTime="1367.633">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1365.775" offset="5463040">No, no.</text>
+            <text syncTime="1366.701" offset="5466802">To the partners.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1367.633" stopTime="1368.005">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1367.633" offset="5470459">No.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1368.005" stopTime="1369.657">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1368.005" offset="5471922">You just explained these two different routes.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1369.657" stopTime="1370.112">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1369.657" offset="5478609">Yes.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1370.112" stopTime="1372.963">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1370.112" offset="5480385">And you said that this is a judicial collection proceeding.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1372.963" stopTime="1373.501">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1372.963" offset="5491775">Yes.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1373.501" stopTime="1391.705">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1373.501" offset="5493969">So the other doesn't apply.</text>
+            <text syncTime="1374.904" offset="5499611">So I'm asking you if you are now making the concession that those words... what are they... each person liable for unpaid tax, would stop you from using the administrative collection route because you didn't give notice and demand individually.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1391.705" stopTime="1399.795">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1391.705" offset="5566798">Let me... I can't say what we did or didn't do in notice because there's nothing in the record on that in this case because administrative collection isn't involved in this case.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1399.795" stopTime="1403.594">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1399.795" offset="5599086">Well, let's assume you gave notice and demand only to the partnership.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1403.594" stopTime="1516.226">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1403.594" offset="5614341">Okay, let's assume that.</text>
+            <text syncTime="1404.875" offset="5619461">If we gave notice and demand to the partnership, what we would be authorized to do is clearly under 6321 and... make a lien and levy against any assets of the partnership.</text>
+            <text syncTime="1417.135" offset="5668467">And then as I said, although... the... the cases are also perfectly consistent that the notice to the partnership is valid as constructive notice to the partners.</text>
+            <text syncTime="1427.621" offset="5710472">And so, for example, if we have a partnership employment tax liability from Smith Construction and the two partners are Bob Jones and Bill Wilson, notice of the assessment to the partnership is valid as notice to its two partners.</text>
+            <text syncTime="1444.340" offset="5777345">And so our lien arises, if they don't pay the tax, but if a third party creditor is out there, First National Bank, the First... our notice to the partnership may not be notice to the First National Bank.</text>
+            <text syncTime="1458.169" offset="5832620">And so in a lien contest we might not have the prior lien vis-a-vis this other party, but vis-a-vis the two partners, the cases say that our notice is valid for 6303 purposes to them because, well, of course, a partnership only acts through its partners and notice to one of them or to the partnership is valid, constructive notice to all the others.</text>
+            <text syncTime="1479.634" offset="5918511">There is no case inconsistent with that conclusion, but again, it's plainly not presented in this case and we would not ask the Court to address it.</text>
+            <text syncTime="1490.713" offset="5962815">There's no need for it to.</text>
+            <text syncTime="1491.806" offset="5967203">This is just a judicial collection case.</text>
+            <text syncTime="1494.140" offset="5976503">The only issue that is really before the Court is whether we have to give notice... I'm sorry... whether we have to assess the individual partners to collect the State law derivative liability.</text>
+            <text syncTime="1505.840" offset="6023314">And for the reasons I've described, that the decision below is incorrect on that and... and should be reversed.</text>
+            <text syncTime="1513.087" offset="6052258">And I would like to reserve the balance of my time.</text>
+          </turn>
+        </section>
+        <section startTime="1516.226" stopTime="3264.527" revised="2014-02-01">
+          <heading>Argument of David R. Haberbush</heading>
+          <turn speaker="william_h_rehnquist" startTime="1516.226" stopTime="1519.586">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1516.226" offset="6064901">Very well, Mr. Jones.</text>
+            <text syncTime="1517.274" offset="6069081">Mr. Haberbush.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1519.586" stopTime="1537.297">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1519.586" offset="6078276">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1524.333" offset="6097293">We've heard some interesting arguments, and I'd like to address the history here of the way in which this alleged derivative liability is imposed upon the partners.</text>
+            <text syncTime="1535.561" offset="6142224">We contend that the partners--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1537.297" stopTime="1544.849">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1537.297" offset="6149120">Now, the Government says you... you did not raise what is now your principal argument until your merits brief.</text>
+            <text syncTime="1543.363" offset="6173362">Do you agree with that statement?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1544.849" stopTime="1570.484">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1544.849" offset="6179318">--Your Honor, no, I don't.</text>
+            <text syncTime="1546.335" offset="6185273">This case has always been about statutes of limitation.</text>
+            <text syncTime="1549.473" offset="6197812">We were addressing, in fact, a argument raised in the merits brief by the Government.</text>
+            <text syncTime="1555.706" offset="6222785">If the Court will note, at page 5... I'm sorry... page 12, footnote 5, this specific question is addressed by the Government stating that it's a Federal not a State statute of limitation that comes into play.</text>
+            <text syncTime="1567.512" offset="6270015">And our portion of the brief is simply a reply to that.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1570.484" stopTime="1602.972">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1570.484" offset="6281927">Wait.</text>
+            <text syncTime="1572.341" offset="6289345">It seems to me it's... it's... the burden is on you to make the claim that a State statute applies, and you never claimed that any State statute applies.</text>
+            <text syncTime="1583.487" offset="6333858">Now, the Government here, out of an excess of caution or maybe to explain the whole situation to us, puts in that footnote, but that doesn't create a claim on your part that the State statute governs.</text>
+            <text syncTime="1595.376" offset="6381401">Did you ever assert that... that this matter was governed by... by a State statute of limitations until your merits brief?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1602.972" stopTime="1605.823">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1602.972" offset="6411807">Yes, we did in the courts below and our briefs below.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1605.823" stopTime="1608.423">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1605.823" offset="6423197">You asserted that it was governed by a State statute of limitations.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1608.423" stopTime="1623.738">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1608.423" offset="6433646">Your Honor, what we argued was that if the Federal statutes did not apply, section 6303 requiring notice and demand, if these partners are not taxpayers under the Internal Revenue Code, then State law would govern.</text>
+            <text syncTime="1622.335" offset="6489339">And yes, we did raise it below.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1623.738" stopTime="1625.679">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1623.738" offset="6494877">Did the court of appeals touch on it?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1625.679" stopTime="1637.939">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1625.679" offset="6502713">The court of appeals did not need to touch upon it, because the court of appeals felt and decided that these partners are taxpayers under the Internal Revenue Code.</text>
+            <text syncTime="1635.051" offset="6540121">And that's the precise question I would like to address.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1637.939" stopTime="1641.366">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1637.939" offset="6551719">Did you raise the statute of limitations point in your pleadings in the district court?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1641.366" stopTime="1647.105">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1641.366" offset="6565407">In the United... this originated in the bankruptcy court, so the district court--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1647.105" stopTime="1647.848">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1647.105" offset="6588395">Well, I mean in the bankruptcy court.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1647.848" stopTime="1656.477">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1647.848" offset="6591321">--Your Honor, we did.</text>
+            <text syncTime="1650.282" offset="6601038">We raised it both in terms of the statute of limitations under section 6303 and under State law.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1656.477" stopTime="1659.549">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1656.477" offset="6625907">Did you raise it as an affirmative defense under State law?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1659.549" stopTime="1665.681">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1659.549" offset="6638132">Well, we objected to the proof of claim which is akin to an answer, and yes--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1665.681" stopTime="1669.024">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1665.681" offset="6662687">And one ground of your objection was under State law it's barred?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1669.024" stopTime="1672.824">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1669.024" offset="6676062">--Our objection was a fairly generic objection in all honesty--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1672.824" stopTime="1682.278">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1672.824" offset="6691213">So we're talking about did you ever say this claim is barred by... it... it is too late under this State statute of limitations, citing the State statute of limitations?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1682.278" stopTime="1682.650">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1682.278" offset="6729038">--Yes, we did.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1682.650" stopTime="1684.507">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1682.650" offset="6730501">Would you provide us with--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1684.507" stopTime="1685.416">
+            <label>Justice Scalia</label>
+            <text syncTime="1684.507" offset="6738024">--Where can we find that in the record?</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1685.416" stopTime="1686.076">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1685.416" offset="6741577">Where will we find that?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1686.076" stopTime="1691.732">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1686.076" offset="6744294">I believe you'll find that at the... the district court level after the bankruptcy court.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1691.732" stopTime="1698.048">
+            <label>Justice Scalia</label>
+            <text syncTime="1691.732" offset="6766864">Well, isn't the place to raise it in the bankruptcy court?</text>
+            <text syncTime="1692.475" offset="6769894">I mean, that's where your pleadings... that's where your responsive pleadings were filed.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1698.048" stopTime="1709.072">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1698.048" offset="6792150">If indeed it is an affirmative defense, yes.</text>
+            <text syncTime="1699.784" offset="6799047">Our objection to the claim was this was not an enforceable claim under law, State or Federal, and our reason for it was barred by the limitations periods.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1709.072" stopTime="1712.499">
+            <label>Justice Kennedy</label>
+            <text syncTime="1709.072" offset="6836245">As a Federal--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1712.499" stopTime="1717.207">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1712.499" offset="6849933">--Under California practice, I assume statute of limitations is an affirmative defense?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1717.207" stopTime="1785.073">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1717.207" offset="6868741">Yes, Your... Your Honor, it is.</text>
+            <text syncTime="1718.943" offset="6875742">We, however, believe that this case does not be controlled by State law, but rather by Federal law.</text>
+            <text syncTime="1727.116" offset="6908447">A partner's liability for the debts of a partnership may arise under State law, and this Court has noted in the case of United States v. Kraft that State law defines the rights as between the parties, but the manner by which it may be collected, the tax itself or the claim, is governed by Federal law.</text>
+            <text syncTime="1747.262" offset="6989009">And that is really the heart of what our argument is.</text>
+            <text syncTime="1749.901" offset="6999562">There is no specific Internal Revenue Code provision that makes a partner liable for a partnership debt.</text>
+            <text syncTime="1757.126" offset="7028402">What the Government in this case does is it relies specifically upon historical cases that stem from old section 280, which is adopted as section 6901 of the Internal Revenue Code, whereby assessments may be made against transferees, donees, and fiduciaries, and the cases interpreting those statutes basically find that there is a derivative liability with a coterminous statute of limitations.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1785.073" stopTime="1823.423">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1785.073" offset="7140206">This would be an odd State law, wouldn't it?</text>
+            <text syncTime="1787.303" offset="7149192">Imagine that I guarantee a debt or suppose a partner is like a guarantor.</text>
+            <text syncTime="1792.254" offset="7168940">And suppose that the primary... person primary... primarily liable is in litigation with the debtor... the creditor, rather.</text>
+            <text syncTime="1801.625" offset="7206452">And because of delays and so forth, it takes about 15 years to resolve this litigation.</text>
+            <text syncTime="1807.448" offset="7229753">I've never heard of a guarantor who wouldn't become liable at the time the thing is final and that the... he just becomes... I mean, how does it work?</text>
+            <text syncTime="1817.191" offset="7268728">I would have thought a guarantor is liable for the debt the debtor owes.</text>
+            <text syncTime="1820.617" offset="7282416">How does the statute work, the State statute?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1823.423" stopTime="1830.815">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1823.423" offset="7293597">Your Honor, we believe the State statute is... is one that does not require exhaustion of remedies as against the partnership.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1830.815" stopTime="1831.968">
+            <label>Justice Breyer</label>
+            <text syncTime="1830.815" offset="7323167">It has nothing to do with exhaustion of remedies.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1831.968" stopTime="1856.739">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1831.968" offset="7327869">I'm... and I'm talking about States... the State insofar as it sees the partner as a guarantor of the liability that is created by a different entity, namely the partnership.</text>
+            <text syncTime="1842.249" offset="7368934">And I'm asking if under State law of California, wouldn't it be the case that if he's a guarantor and you get the statute of limitations on a matter to determine liability extended, that the guarantee also extends.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1856.739" stopTime="1857.703">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1856.739" offset="7426926">That would--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1857.703" stopTime="1864.373">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1857.703" offset="7430792">There's no State law that says you have to sue the guarantor before the liability that he's guaranteeing is determined.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1864.373" stopTime="1865.655">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1864.373" offset="7457437">--That is correct.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1865.655" stopTime="1868.089">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1865.655" offset="7462557">All right.</text>
+            <text syncTime="1866.231" offset="7464856">If that's correct, what are we arguing about?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1868.089" stopTime="1873.252">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1868.089" offset="7472274">What we're arguing about here is that this is not a suretyship or a secondary liability--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1873.252" stopTime="1893.064">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1873.252" offset="7492963">Yes, yes.</text>
+            <text syncTime="1873.406" offset="7493590">You're back to your question of whether under partnership law in fact this is a guarantor or the equivalent or a surety.</text>
+            <text syncTime="1882.457" offset="7529744">I understand that argument, but it sounds to me as if that argument is resolved against you, this statute of limitations argument is a serious red herring because it won't matter.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1893.064" stopTime="1896.324">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1893.064" offset="7572167">--Well, unless Federal law controls.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1896.324" stopTime="1896.862">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1896.324" offset="7585228">Right.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1896.862" stopTime="1900.556">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1896.862" offset="7587422">Unless these parties are taxpayers under Federal law, in which case--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1900.556" stopTime="1915.045">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1900.556" offset="7602155">No, no.</text>
+            <text syncTime="1900.722" offset="7602887">If the primary argument, which you want to argue, that they're taxpayers or that they are primarily liable, you win it or you lose it.</text>
+            <text syncTime="1908.729" offset="7634860">If you win it, you win.</text>
+            <text syncTime="1910.465" offset="7641757">If you lose it, your statute of limitations argument adds nothing.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1915.045" stopTime="1915.667">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1915.045" offset="7660147">--I think not.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1915.667" stopTime="1917.236">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1915.667" offset="7662655">That's my... that's what I'm thinking.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1917.236" stopTime="1973.957">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1917.236" offset="7668924">I think not.</text>
+            <text syncTime="1917.525" offset="7670073">I think we win, and let me explain why.</text>
+            <text syncTime="1919.261" offset="7676970">It has nothing to do with limitations periods.</text>
+            <text syncTime="1922.483" offset="7689927">It has nothing to do with State law governing guarantees.</text>
+            <text syncTime="1925.288" offset="7701107">It has to do with the way this Court is asked to define this particular claim in this particular case.</text>
+            <text syncTime="1931.521" offset="7726080">Is it a tax claim or is it a claim which is derived from the partnership liability?</text>
+            <text syncTime="1938.003" offset="7751993">In other words, is it a tax debt or is it a debt because they're liable for a debt of the partnership so that it loses its nature as a tax claim?</text>
+            <text syncTime="1946.632" offset="7786475">If that's the case, this is a bankruptcy case.</text>
+            <text syncTime="1949.604" offset="7798387">Tax claims in bankruptcy have priority over other claims under section 507(a) of title 11 of the United States Code.</text>
+            <text syncTime="1958.065" offset="7832242">Those claims too are not dischargeable if they're a tax claim under section 523 of title 11.</text>
+            <text syncTime="1965.208" offset="7860767">So if the Court determines this is nothing more than a guarantee pursuant to State law and not a tax claim, then this debt will be discharged in this bankruptcy case.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1973.957" stopTime="1990.675">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1973.957" offset="7895771">Do you have... have any cases for that, that a tax claim loses its character as a tax claim when relief is sought not against the person primarily liable but against somebody derivatively liable?</text>
+            <text syncTime="1988.779" offset="7955017">It seems to me it's still a tax claim.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1990.675" stopTime="1994.269">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1990.675" offset="7962645">No, Your Honor, we do not have authority for that.</text>
+            <text syncTime="1992.987" offset="7971944">However, if it is a tax--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1994.269" stopTime="1995.505">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1994.269" offset="7977064">I wouldn't expect you to find any.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="1995.505" stopTime="2039.678">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="1995.505" offset="7981976">--However, if they are liable for the tax, this Court has already stated on a number of occasions, including the most recent case of U.S. v. Kraft, someone who is subject to the tax is someone who pays it, someone who is liable for it.</text>
+            <text syncTime="2009.130" offset="8036519">These parties are liable for the tax.</text>
+            <text syncTime="2011.480" offset="8045819">They are subject to the tax under section 7701(a)(14) of the Internal Revenue Code, and therefore they are taxpayers.</text>
+            <text syncTime="2019.365" offset="8077375">Once they are taxpayers, that invokes the provisions of section 6501 requiring assessment or suit within 3 years.</text>
+            <text syncTime="2029.396" offset="8117499">We don't claim that assessment is the only method.</text>
+            <text syncTime="2032.369" offset="8129411">We claim assessment or suit, which is consistent with the history of the cases, and that's a 3-year limitation period as to these--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2039.678" stopTime="2070.801">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2039.678" offset="8158668">No, but you say that they're taxpayers because they're partners, and therefore they... and... and that's why the... their... their right to an assessment can be claimed.</text>
+            <text syncTime="2049.830" offset="8199314">But by the same reasoning that you follow, if they are taxpayers because they are partners, why isn't notice to the partnership notice to the partners or assessment against the partnership assessment against the partners?</text>
+            <text syncTime="2064.281" offset="8257097">Why... why do you, in effect, make a metaphysical distinction in the latter case but not in the former?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2070.801" stopTime="2112.661">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2070.801" offset="8283115">--Well, Your Honor, I don't think that we do.</text>
+            <text syncTime="2072.947" offset="8291788">I think that the argument that there is constructive notice merely because one is a partner creates notice to... notice to the partnership is notice to the partners.</text>
+            <text syncTime="2083.146" offset="8332539">There is no controlling case on this idea, and that would be too a question I think of State law, whether notice to a partnership is notice to the partners.</text>
+            <text syncTime="2093.464" offset="8373812">And we've clearly cited to California law that says you must commence a separate suit against the partner in order to obtain a judgment against it.</text>
+            <text syncTime="2101.060" offset="8404219">There is no California law that says that by filing a suit against the partner, that's sufficient for due process purposes of creating notice to the partners such that--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2112.661" stopTime="2121.411">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2112.661" offset="8450612">We don't ordinarily decide questions of State law here.</text>
+            <text syncTime="2115.634" offset="8462524">I think we would generally feel perhaps the Ninth Circuit knows more about California law than we do.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2121.411" stopTime="2124.550">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2121.411" offset="8485616">--Well, certainly that's true.</text>
+            <text syncTime="2123.269" offset="8493035">And that's--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2124.550" stopTime="2126.119">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2124.550" offset="8498155">I said, we would think.</text>
+            <text syncTime="2125.543" offset="8502126">[Laughter]</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2126.119" stopTime="2151.632">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2126.119" offset="8504424">--Well, thank you.</text>
+            <text syncTime="2132.313" offset="8529189">And... and yes, this Court ordinarily does not address questions of State law.</text>
+            <text syncTime="2137.636" offset="8550504">We think that this is a Federal statutory interpretation.</text>
+            <text syncTime="2142.754" offset="8570984">Either these persons are taxpayers liable for a tax or they are not taxpayers liable some... for something that is not a tax.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2151.632" stopTime="2163.354">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2151.632" offset="8606511">The last part.</text>
+            <text syncTime="2153.257" offset="8612989">They are for... they are not taxpayers in the meaning of the statute who are liable for something that is a tax.</text>
+            <text syncTime="2160.753" offset="8642978">And I don't know why that wouldn't be.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2163.354" stopTime="2164.263">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2163.354" offset="8653322">Well, Your Honor--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2164.263" stopTime="2174.088">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2164.263" offset="8656980">And State law makes them, in effect, guarantors of debts.</text>
+            <text syncTime="2166.947" offset="8667742">This is a tax debt.</text>
+            <text syncTime="2168.061" offset="8672235">So they're guarantors of the tax debt.</text>
+            <text syncTime="2169.836" offset="8679340">So, therefore, they're liable for the tax or sureties or some other equivalent word.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2174.088" stopTime="2304.370">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2174.088" offset="8696268">--All of the cases referred to for the coterminous statute of limitations, which is what would be suggested would be applied here if in fact they are liable for this tax debt and therefore the provisions of the Internal Revenue Code apply, are all cases where specific enabling provisions created the liability of those persons.</text>
+            <text syncTime="2193.696" offset="8774740">Under section 6324, certain persons are made personally liable.</text>
+            <text syncTime="2198.609" offset="8794384">Under section 6901, certain persons may be assessed with taxes as transferees.</text>
+            <text syncTime="2205.668" offset="8822596">And those specific statutes have provisions in them that say that the assessment and collection and enforcement of the tax... this is 6901 and its predecessor, section 280, where the collection assessment and enforcement of the tax is subject to the same provisions and the same limitations as the tax itself.</text>
+            <text syncTime="2226.640" offset="8906501">So it's not surprising that you have cases like Leighton and Updike where the statute of limitations set forth in what is now 6502 applies to them because they're subject to the same limitation periods.</text>
+            <text syncTime="2239.021" offset="8956029">There is nothing in the Internal Revenue Code that sets forth a limitation period as to partners.</text>
+            <text syncTime="2246.163" offset="8984555">If one adopts the guarantor analogy, then this is conceivable a case where any number of years could pass where the partners would become liable.</text>
+            <text syncTime="2257.680" offset="9030635">Your... I would point out the Court's record in the joint appendix.</text>
+            <text syncTime="2261.563" offset="9046204">At pages 100 and 102, we have the proofs of claim that were filed in these bankruptcy cases, and these proofs of claim on their face show that the Government in this case is not simply filing a claim as though it were a lawsuit against these partners.</text>
+            <text syncTime="2277.948" offset="9111719">These proofs of claim were filed as secured claims in both of the two cases that are before the Court.</text>
+            <text syncTime="2283.771" offset="9135020">Secured by what?</text>
+            <text syncTime="2285.173" offset="9140663">Motor vehicles and real estate.</text>
+            <text syncTime="2288.229" offset="9152888">So the Internal Revenue Service is taking the position clearly, unequivocally that it can enforce this debt by the summary collection process which has been called awesome and... and super powers that are not available otherwise.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2304.370" stopTime="2309.777">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2304.370" offset="9217463">Whether they could or not, they're saying that the question here is a judicial action.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2309.777" stopTime="2311.513">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2309.777" offset="9239092">Well--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2311.513" stopTime="2317.169">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2311.513" offset="9245989">And... and so maybe they're wrong and maybe they're right about that, but that's not before the Court.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2317.169" stopTime="2353.289">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2317.169" offset="9268663">--That's not... that may not be before the Court, but the Government has taken the position the only way, the sole and single way, it can collect taxes is to file suits against partners.</text>
+            <text syncTime="2328.519" offset="9314011">We would suggest that if the Court were to permit assessment, rule that they are taxpayers subject to assessment, subject to suit, that that would enhance collection.</text>
+            <text syncTime="2342.265" offset="9368973">It would encourage partners at the earliest opportunity to cause their partnerships to pay taxes.</text>
+            <text syncTime="2346.929" offset="9387677">It would cause partners at the earliest opportunity to pay the taxes.</text>
+            <text syncTime="2350.894" offset="9403559">In this instance, you have proofs of claim--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2353.289" stopTime="2365.595">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2353.289" offset="9413068">It... it would also cause an enormous number of assessments to be made that ultimately would have no... no use.</text>
+            <text syncTime="2360.432" offset="9441698">I mean, the... the amount of administrative assessing going on would... would be staggering.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2365.595" stopTime="2371.372">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2365.595" offset="9462282">--Well, the amount of suits could be staggering as well to collect these kinds of taxes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2371.372" stopTime="2441.012">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2371.372" offset="9485479">What is the problem?</text>
+            <text syncTime="2373.851" offset="9495301">Suppose... I'm... I'm failing to see it but maybe... suppose it's true that what the Uniform Partnership Act says is true.</text>
+            <text syncTime="2383.055" offset="9532186">Partners are, quote, in the nature of guarantors, end quote, rather than principal debtors on the debts of the partnership.</text>
+            <text syncTime="2390.774" offset="9563011">So let's suppose they're like guarantors.</text>
+            <text syncTime="2393.625" offset="9574400">I would have thought that State law was something along the lines of a guarantor must be sued in order to collect a... a guaranteed debt within a period of time after it becomes determined that such a debt exists.</text>
+            <text syncTime="2410.260" offset="9640960">Now, I would think that that's how the normal State law runs.</text>
+            <text syncTime="2414.940" offset="9659664">So unless there's something Federal to the contrary... and by the way, if there is, they have 10 more years.</text>
+            <text syncTime="2421.239" offset="9684950">But unless there is something Federal to the contrary, there's no problem with bringing this case.</text>
+            <text syncTime="2427.266" offset="9708983">So the only question in this case is are they in the nature of guarantors.</text>
+            <text syncTime="2431.724" offset="9726851">And I'd be interested... well, A, I'm interested in your comment on what I just said, and I'm also interested in the comment of why they're not guarantors.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2441.012" stopTime="2512.881">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2441.012" offset="9763944">Very well.</text>
+            <text syncTime="2444.234" offset="9776901">Here the Internal Revenue Service has filed proofs of claim in the bankruptcy court not for the debt of the tax but for the tax, for the penalties, and for the interest.</text>
+            <text syncTime="2458.739" offset="9834893">Guarantors under California law are liable for the debt and perhaps the interest, but not for the penalties.</text>
+            <text syncTime="2467.018" offset="9868016">The Court will note that these proofs of claim are approximately three to four times as much as the amount of tax that was originally assessed against the partnership in the initial instance.</text>
+            <text syncTime="2478.701" offset="9914723">There is nothing in the record to suggest that these partners had knowledge or notice of these taxes at any time before these proofs of claim were filed.</text>
+            <text syncTime="2486.132" offset="9944503">Now, under California law, if you have a guarantor, the guarantor knows of the liability that that guarantor is offering surety for.</text>
+            <text syncTime="2497.111" offset="9988389">That guarantor knows that that liability exists.</text>
+            <text syncTime="2500.992" offset="10003958">That guarantor can encourage the principal party to pay the tax or the debt in question.</text>
+            <text syncTime="2507.104" offset="10028408">Here the policies that are urged by the Government do not encourage collection of this--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2512.881" stopTime="2517.556">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2512.881" offset="10051500">Mr. Haberbush, do you defend the decision of the Ninth Circuit in this case?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2517.556" stopTime="2518.099">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2517.556" offset="10070204">--Yes, we do.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2518.099" stopTime="2524.953">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2518.099" offset="10072294">That in order to collect against the partners, an assessment would have to be made against them?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2524.953" stopTime="2533.231">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2524.953" offset="10099775">No, not within that specific limitation.</text>
+            <text syncTime="2527.759" offset="10110955">We think that an assessment or a suit should be brought within the statutory period--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2533.231" stopTime="2540.540">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2533.231" offset="10132898">Well, I thought... I thought the reasoning of the Ninth Circuit was that you couldn't collect against the partners unless you assess them too.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2540.540" stopTime="2568.941">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2540.540" offset="10162155">--To that extent, the opinion is wrong for the reason that it is a well-held proposition that suit or assessment may be brought under section 6501 within the 3-year period, so that it's not exclusively assessment that's involved.</text>
+            <text syncTime="2556.765" offset="10227043">And this Court and other courts, I believe, have... have ruled that assessment is not a prerequisite to collection.</text>
+            <text syncTime="2563.453" offset="10253793">However, some action must be taken within the statutory limitations periods.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2568.941" stopTime="2572.369">
+            <label>Justice Stevens</label>
+            <text syncTime="2568.941" offset="10275736">And the filing of a claim in a bankruptcy court is insufficient because?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2572.369" stopTime="2577.161">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2572.369" offset="10289424">It's untimely.</text>
+            <text syncTime="2573.567" offset="10294230">It is not done within the period of time--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2577.161" stopTime="2578.851">
+            <label>Justice Stevens</label>
+            <text syncTime="2577.161" offset="10308545">So this is simply a statute of limitations case.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2578.851" stopTime="2614.024">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2578.851" offset="10315337">--That's our position.</text>
+            <text syncTime="2580.254" offset="10320980">Yes, Your Honor.</text>
+            <text syncTime="2580.876" offset="10323487">It is simply a statute of limitations case.</text>
+            <text syncTime="2584.053" offset="10336131">The Government has contended that this is a tax governed by the Internal Revenue Code.</text>
+            <text syncTime="2589.271" offset="10357029">The liability may be created by State law, and this Court has consistently said while liability may be... be created by State law, the enforceability of that liability is a subject of Federal law.</text>
+            <text syncTime="2601.968" offset="10407811">The Federal laws provide for 6303 notice and demand.</text>
+            <text syncTime="2605.889" offset="10423484">They provide for... 6501 provides that assessment must be made.</text>
+            <text syncTime="2611.423" offset="10445636">The... the Government suggests that there can--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2614.024" stopTime="2630.371">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2614.024" offset="10456085">Mr. Haberbush, would you be able, after the argument, to furnish the Court with the places in the record available to us where it shows that you raised the State statute of limitations issue below?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2630.371" stopTime="2630.537">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2630.371" offset="10521391">--Yes, I can.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2630.537" stopTime="2631.114">
+            <label>Justice O'Connor</label>
+            <text syncTime="2630.537" offset="10522122">Thank you.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2631.114" stopTime="2632.683">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2631.114" offset="10524421">Yes, I can.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2632.683" stopTime="2652.807">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2632.683" offset="10530691">Why shouldn't an assessment against the partnership be good as to the partners as well?</text>
+            <text syncTime="2640.802" offset="10563187">I mean, the whole difference is that you'd have to add the... the names of the individual partners.</text>
+            <text syncTime="2646.968" offset="10587847">I mean, the assessment itself is something in a file in some building.</text>
+            <text syncTime="2652.335" offset="10609267">Right?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2652.807" stopTime="2694.873">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2652.807" offset="10611148">Well, the assessment is the notation or recording of the liability.</text>
+            <text syncTime="2657.249" offset="10628911">However, section 6203 says that to be a proper assessment, it must record the liability of the taxpayer and we, of course, say that the taxpayer also includes the partners.</text>
+            <text syncTime="2670.002" offset="10680007">And yes, there could be a single assessment naming numerous parties.</text>
+            <text syncTime="2674.050" offset="10696098">There are examples of that.</text>
+            <text syncTime="2675.741" offset="10702890">For example, a husband and wife are jointly assessed.</text>
+            <text syncTime="2678.547" offset="10714175">An assessment against a husband or a wife independently is not an assessment against the other.</text>
+            <text syncTime="2683.727" offset="10734864">So there are multiple assessments that are capable of being made under the code.</text>
+            <text syncTime="2687.980" offset="10751896">There are numerous other instances where assessments are made.</text>
+            <text syncTime="2692.272" offset="10769032">6901, for example, assessment--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2694.873" stopTime="2711.098">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2694.873" offset="10779481">Is it... does it... would it matter if in fact the partners knew... had received the... I assume that the notice and demand would come to the partnership.</text>
+            <text syncTime="2703.789" offset="10815112">This is a small partnership.</text>
+            <text syncTime="2705.525" offset="10822008">There were what?</text>
+            <text syncTime="2706.184" offset="10824725">Four partners involved?</text>
+            <text syncTime="2708.126" offset="10832457">If they had actual notice, would that make any difference?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2711.098" stopTime="2749.569">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2711.098" offset="10844369">--Your Honor, that might make a difference.</text>
+            <text syncTime="2714.646" offset="10858580">We... we would contend that it does not make a difference.</text>
+            <text syncTime="2717.164" offset="10868611">We have cited to cases... and I don't recall them right off the top of my... my head at this moment... where the assessment... in fact, that was Cool Fuel, Inc. out of the Ninth Circuit where the assessment actually has to be received and made.</text>
+            <text syncTime="2730.417" offset="10921587">It has to name who the taxpayer is.</text>
+            <text syncTime="2732.768" offset="10930991">Marvel v. the United States.</text>
+            <text syncTime="2734.504" offset="10937992">While the taxpayer there was named as a partnership's name, the individuals' Social Security numbers, taxpayer identification numbers, were on that... that assessment, and that was found to be good as to those persons even though they were not individually named.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2749.569" stopTime="2759.228">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2749.569" offset="10998178">But certainly they had actual notice.</text>
+            <text syncTime="2751.798" offset="11007164">Your big due process objection that you make would not... would... would be very thin, would it not?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2759.228" stopTime="2771.737">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2759.228" offset="11036839">I don't disagree with that, Your Honor.</text>
+            <text syncTime="2760.593" offset="11042273">There is nothing in the record below where there is... that issue has been addressed.</text>
+            <text syncTime="2765.172" offset="11060663">There is no facts that were derived at the trial of this matter where that was addressed.</text>
+            <text syncTime="2770.168" offset="11080620">There is nothing in the record--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2771.737" stopTime="2777.764">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2771.737" offset="11086890">But you addressed it in your brief.</text>
+            <text syncTime="2772.730" offset="11090860">You said if they didn't get individual notice and demand, that would be a violation of due process.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2777.764" stopTime="2856.775">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2777.764" offset="11111027">--Yes.</text>
+            <text syncTime="2777.930" offset="11111654">It is not before the Court, however, whether they did or didn't, and there's nothing in the record suggesting that they did get such notice.</text>
+            <text syncTime="2784.534" offset="11138090">That's why the... the Government relies so heavily on its constructive notice theory, although starkly absent from that argument is any California law to support that idea that notice to a partnership is constructive notice to its partners.</text>
+            <text syncTime="2800.677" offset="11202664">Turning back to the... the idea of the... the assessment in this case, the... there are striking examples throughout the brief of the Government, although the Government contends that it is not able legally to assess partners, there are no less than 12 cases cited in the briefs, 10 of which were cited by the Government, in which summary collection process was instituted against partners, and in... in any of those cases there was an assessment.</text>
+            <text syncTime="2833.742" offset="11334949">In fact, the one case that's cited by the Government, the... the United States v. Wright... that's the case which came out of the Seventh Circuit that the Government contends is in direct conflict with the Ninth Circuit case in this instance is one where the United States District Court in its findings found that the partners were assessed.</text>
+            <text syncTime="2852.605" offset="11410390">And it's not surprising therefore, that the Wright court found that there were--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2856.775" stopTime="2869.656">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2856.775" offset="11427004">It said that... but I thought Judge Easterbrook said that that was irrelevant, that there might have been a fact question about that whether there were individual assessments.</text>
+            <text syncTime="2866.806" offset="11467128">But in any case, the court's rationale had nothing to do with that.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="2869.656" stopTime="3039.851">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="2869.656" offset="11478622">--That is correct.</text>
+            <text syncTime="2870.399" offset="11481548">However, the district court did find that there were assessments.</text>
+            <text syncTime="2874.608" offset="11498371">The Seventh Circuit found that that was irrelevant to the... the determination.</text>
+            <text syncTime="2879.233" offset="11516865">However, it is entirely consistent with the idea that in that case there were coterminous statute of limitations.</text>
+            <text syncTime="2886.125" offset="11544451">For the reason that assessments were made within the statutory period of time... that was still within the coterminous periods... then the collection.</text>
+            <text syncTime="2895.496" offset="11581962">The question was whether the 6502 allowed the collection against the partners who were jointly liable with the partnership in that instance.</text>
+            <text syncTime="2905.361" offset="11621355">The statutory period of time allowed to the partnership, because it had been tolled during a bankruptcy, the court found coterminous statute of limitations, relying on the Updike case as its example.</text>
+            <text syncTime="2918.158" offset="11672555">We... we believe that the collection of taxes would be enhanced by adopting the position that we have taken in this case.</text>
+            <text syncTime="2929.388" offset="11717486">We believe that requiring the filing of lawsuits in every instance where partners are liable for the debts of a partnership which has failed to pay its taxes and which may or may not be out of business, is simply a policy which would have litigation that is not required.</text>
+            <text syncTime="2949.450" offset="11797734">If the partnership is liable for the tax and this Court were to find that the notice provisions of 6302 and the provisions of 6501 allowing suit or assessment within 3 years applies, that that would enhance the collection of taxes.</text>
+            <text syncTime="2966.456" offset="11865757">We believe that... excuse me... we believe that by doing that, the tax will be paid at the earliest possible time.</text>
+            <text syncTime="2976.654" offset="11906612">Interest and penalties, such as have accrued in this case, would not accrue because the partners would be encouraged at every point and at every spot to cause their partnership to pay or to pay the tax themselves.</text>
+            <text syncTime="2988.664" offset="11954573">The Government is not in the business of banking tax claims, if you will, allowing them to accrue penalties and interest and thereafter, for who knows how many years, potentially as many as 3 plus 10, and if suit is filed within the 10 years under 6502, the... the term for enforcing a judgment.</text>
+            <text syncTime="3009.469" offset="12037851">So it could be 20-25 years that a partner could be out there liable for the tax during which penalties and interest continue to accrue, and then finally one day maybe that partner or that partner's estate or the partner's beneficiaries of the partner's estate might become liable for this tax.</text>
+            <text syncTime="3028.417" offset="12113607">We believe that by filing the tax... by filing an assessment at the earliest possible opportunity against the partners, this would encourage tax collection.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3039.851" stopTime="3043.277">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3039.851" offset="12159373">Nothing would stop a partner from paying the tax.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3043.277" stopTime="3046.250">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3043.277" offset="12173061">If the partner knows, that is correct.</text>
+            <text syncTime="3045.218" offset="12180793">If the--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3046.250" stopTime="3049.389">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3046.250" offset="12184973">Isn't it reasonable to assume most partners know what's happening in their business?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3049.389" stopTime="3063.757">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3049.389" offset="12197512">--I don't know that it's unreasonable to assume that, but I suppose it is reasonable.</text>
+            <text syncTime="3055.045" offset="12220082">However, there are partnerships and there are partnerships, and some partnerships have managing partners who are actively involved in the business of the partnership and--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3063.757" stopTime="3071.559">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3063.757" offset="12254981">Yes, but I... I would think, by and large, most partners know what's going on.</text>
+            <text syncTime="3067.965" offset="12271804">I mean, certainly there are exceptional cases, but certainly that's not typical.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3071.559" stopTime="3077.753">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3071.559" offset="12286224">--Unfortunately, I'm only involved in my law partnership and I know what's going on there.</text>
+            <text syncTime="3076.760" offset="12307017">I've not been involved--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3077.753" stopTime="3088.815">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3077.753" offset="12310988">Maybe you shouldn't be a general partner if... if you're not prepared to know what's going on.</text>
+            <text syncTime="3081.384" offset="12325512">It's pretty risky.</text>
+            <text syncTime="3082.127" offset="12328438">I mean, that's... that's the responsibility you assume when he... it only applies to general partners.</text>
+            <text syncTime="3087.617" offset="12350380">It doesn't apply to limited partners.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3088.815" stopTime="3089.763">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3088.815" offset="12355187">--That's exactly right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3089.763" stopTime="3095.586">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3089.763" offset="12358949">So don't become a general partner if you're not willing to know what's going on in the partnership.</text>
+            <text syncTime="3094.471" offset="12377861">I... I thought that's the deal.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3095.586" stopTime="3098.270">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3095.586" offset="12382250">Well, Your Honor, I don't know whether that--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3098.270" stopTime="3107.725">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3098.270" offset="12393012">That's what it means to be a general partner.</text>
+            <text syncTime="3099.673" offset="12398655">You're... you're going to be liable for what the partnership does.</text>
+            <text syncTime="3102.523" offset="12410044">So you better pay attention.</text>
+            <text syncTime="3104.092" offset="12416313">I... and you're saying this is unjust somehow?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3107.725" stopTime="3115.693">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3107.725" offset="12430838">--Well, yes, it is, Your Honor, for the reason that does that mean that every partner has to go through every single piece of mail that enters the partnership and be familiar with every single thing that occurs?</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3115.693" stopTime="3120.151">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3115.693" offset="12462707">No, but when you accumulate tax liabilities of several hundred thousand dollars, they ought to find that... be able to find that out.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3120.151" stopTime="3126.634">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3120.151" offset="12480575">Well, Your Honor, these are over a number of quarters.</text>
+            <text syncTime="3123.950" offset="12495726">These were not all assessed at one time.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3126.634" stopTime="3128.574">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3126.634" offset="12506488">Which is all the more reason they should have known about it a lot earlier.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3128.574" stopTime="3134.147">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3128.574" offset="12514220">Well, husbands oftentimes hide things from their wives who are a joint taxpayer as well.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3134.147" stopTime="3145.748">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3134.147" offset="12536581">But we're talking about a partnership that has not paid... what was it... FICA and FUTA taxes.</text>
+            <text syncTime="3139.432" offset="12557688">Surely, the partners were aware that they were not paying the taxes that were due year after year.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3145.748" stopTime="3147.317">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3145.748" offset="12582975">There's nothing in the record that suggests--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3147.317" stopTime="3150.167">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3147.317" offset="12589244">Who was responding to these letters from the Government?</text>
+            <text syncTime="3149.258" offset="12596976">The secretary?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3150.167" stopTime="3151.653">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3150.167" offset="12600633">--Your Honor--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3151.653" stopTime="3155.824">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3151.653" offset="12606589">I mean, does she take it in to... to her boss who was presumably one of the general partners and say, hey, you know--</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3155.824" stopTime="3156.446">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3155.824" offset="12623203">--If it's a--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3156.446" stopTime="3157.765">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3156.446" offset="12625711">--the Government says we owe a lot of money.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3157.765" stopTime="3175.121">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3157.765" offset="12631040">--If it's a managing... if it's a managing general partner, I assume that that's the case.</text>
+            <text syncTime="3161.563" offset="12646191">If in fact the partnership had ceased its operations and these notices came afterwards, who knows who received the notices.</text>
+            <text syncTime="3167.341" offset="12669283">I don't think that the law imposes a burden upon every single general partner to look at every single bill and piece of paper that comes into a partnership.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3175.121" stopTime="3182.285">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3175.121" offset="12700421">No, but you shouldn't rely on the United States Government to tell you what you... how your financial affairs are coming along and be the primary source of information.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3182.285" stopTime="3192.210">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3182.285" offset="12729051">That may be so, but if the... if the Government were required to do so, partners would at every point in time be encouraged to cause the partnership to meet its financial obligations.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3192.210" stopTime="3197.312">
+            <label>Justice Scalia</label>
+            <text syncTime="3192.210" offset="12768758">It doesn't place that kind of a burden on the partners that you're talking about.</text>
+            <text syncTime="3195.083" offset="12780251">They're entirely free not to read the mail.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3197.312" stopTime="3198.677">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3197.312" offset="12789238">Well, that's... that's correct.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3198.677" stopTime="3206.683">
+            <label>Justice Scalia</label>
+            <text syncTime="3198.677" offset="12794671">But... but the problem is they're going to be liable for whatever debts are incurred by the partnership if they don't do it.</text>
+            <text syncTime="3205.447" offset="12821734">That's the only burden imposed.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3206.683" stopTime="3221.051">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3206.683" offset="12826645">Well, Your Honor, and looking at burdens there is no... there is no insignificant... excuse me.</text>
+            <text syncTime="3211.020" offset="12843990">It's not a significant burden to place upon the Government to simply send another notice to the partners regarding their derivative liability for these claims.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3221.051" stopTime="3225.509">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3221.051" offset="12884114">And it's not a very significant burden to a partner to say you better make sure they're paying the taxes.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3225.509" stopTime="3231.704">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3225.509" offset="12901982">Well, of course.</text>
+            <text syncTime="3226.874" offset="12907416">However, there... there have been dishonest partners, and the cases that I cite--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3231.704" stopTime="3233.356">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3231.704" offset="12926746">You better be careful who you form a partnership--</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3233.356" stopTime="3252.304">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3233.356" offset="12933329">--Well, yes, and there are cases cited in the briefs that say exactly that.</text>
+            <text syncTime="3236.617" offset="12946390">However, if... if the policy is to collect taxes and collect them promptly, then that is encouraged, rather than filing suit against partners, by a simple assessment sent in the mail to the partners.</text>
+            <text syncTime="3251.106" offset="13004382">If there is nothing further--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3252.304" stopTime="3254.245">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3252.304" offset="13009189">--Does an assessment affect your credit rating?</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3254.245" stopTime="3257.772">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3254.245" offset="13016921">--Yes, it does.</text>
+            <text syncTime="3256.846" offset="13027370">It does.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3257.772" stopTime="3259.447">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3257.772" offset="13031027">So... so you want... all right.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3259.447" stopTime="3261.926">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3259.447" offset="13037714">Thank you, Mr. Haberbush.</text>
+          </turn>
+          <turn speaker="david_r_haberbush" startTime="3261.926" stopTime="3262.502">
+            <label>Mr. David R. Haberbush</label>
+            <text syncTime="3261.926" offset="13047641">Thank you.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3262.502" stopTime="3264.527">
+            <label>Unknown Speaker</label>
+            <text syncTime="3262.502" offset="13049940">Mr. Jones, you have 5 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3264.527" stopTime="3578.421" revised="2014-02-01">
+          <heading>Rebuttal of Kent L. Jones</heading>
+          <turn speaker="kent_l_jones" startTime="3264.527" stopTime="3382.132">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="3264.527" offset="13058090">Thank you.</text>
+            <text syncTime="3267.786" offset="13071047">At page 3 of respondents' brief on the merits, they say... and I quote... if respondents are secondarily liable for the partnership taxes, then the Ninth Circuit's ruling that the IRS must assess respondents to collect the partnership taxes is incorrect.</text>
+            <text syncTime="3285.703" offset="13142727">It is clear to us that there is... this is a secondary derivative liability that partners have under State law.</text>
+            <text syncTime="3294.907" offset="13179611">I didn't hear respondents give any explanation of why that isn't so.</text>
+            <text syncTime="3299.283" offset="13197061">Given those two facts, then this Court's holding in Leighton seems clearly applicable, which is that we don't have to assess a derivative State law liability to bring suit to recover upon that liability.</text>
+            <text syncTime="3312.907" offset="13251605">Now, respondents say, well, somehow that holding is influenced by the fact that transferee liability is provided in 6901 of the code.</text>
+            <text syncTime="3322.112" offset="13288385">It's interesting that in... in the Leighton case what the Court held was that the 6901 transferee liability is a supplementary remedy that did not displace and, indeed, left in place the right of the United States to bring its suit upon the derivative State law liability without assessment.</text>
+            <text syncTime="3343.410" offset="13373544">So the... the principle that we draw from the Leighton case is not dependent on any of the specific statutes that address specific types of... of assignments of transferees.</text>
+            <text syncTime="3356.414" offset="13425580">In fact, it's utterly independent of that, which was the very issue the Court decided in Leighton.</text>
+            <text syncTime="3361.493" offset="13445956">Given that and... and given that there's a derivative sub-secondary liability, we can recover against State law.</text>
+            <text syncTime="3369.417" offset="13477616">Then the only other question is, well, what statute of limitations applies to that, which the Court held in Updike that it's 6502 which applies both to the direct liability and the derivative liability.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3382.132" stopTime="3401.162">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3382.132" offset="13528503">See, that's what I'm really wondering about.</text>
+            <text syncTime="3383.535" offset="13534041">I mean... but... but I mean, A, they may have not have raised it below.</text>
+            <text syncTime="3386.757" offset="13546998">B, it's not within the scope of the question.</text>
+            <text syncTime="3389.191" offset="13556715">C, it may not make any difference because the State and Federal may give you enough time anyway.</text>
+            <text syncTime="3394.475" offset="13577822">But if you do have to get to it, I'm... I'm a little worried about it because I don't... I don't really see why it should be Federal.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="3401.162" stopTime="3525.749">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="3401.162" offset="13604571">The reason it should be Federal is because all of these actions are designed, as the Court stressed in Updike, to collect the tax.</text>
+            <text syncTime="3407.933" offset="13631634">We have different remedies.</text>
+            <text syncTime="3409.586" offset="13638322">Congress could Federalize all of this.</text>
+            <text syncTime="3411.565" offset="13646158">Congress could write a statute that said, you know, you can bring suits for derivative liabilities and that those suits will... specifically subject to 6502.</text>
+            <text syncTime="3421.596" offset="13686282">And what the Court noted in Stern was that Congress hasn't done that because the Court has consistently applied State law to permit such tax collection to occur.</text>
+            <text syncTime="3434.394" offset="13737482">And... and so that's why Updike has got to be right because this is a strong Federal interest in collecting taxes, not to be too big about it, but I mean, this Court has noted that the collection of taxes is the lifeblood of Government.</text>
+            <text syncTime="3448.800" offset="13795161">This is as sovereign a claim as we have, and... and because of that, we need to have a uniform statute of limitations, which Congress has provided under 6502.</text>
+            <text syncTime="3458.748" offset="13834971">If... if we were left to the haphazards of State law, we would certainly want Congress to... to address that and correct it, but they don't need to correct it because since 1930 in the Updike case, the Court has explained that 6502 is broad enough to cover both types of... of judicial collection proceedings.</text>
+            <text syncTime="3479.060" offset="13916160">In the Court's words, the action against derivatively liable party is in every real sense a proceeding in court to collect the tax, and that's the... that's the statutory language.</text>
+            <text syncTime="3490.121" offset="13960464">And... and I... there has been no contention that that's not a correct interpretation of 6502.</text>
+            <text syncTime="3496.521" offset="13986064">I do not know what references respondents may have in mind to arguments they raised under State statutes of limitations before.</text>
+            <text syncTime="3503.496" offset="14013962">We're not familiar with those.</text>
+            <text syncTime="3505.066" offset="14020232">The statute that's referred to in their merits brief is a specific State statute.</text>
+            <text syncTime="3510.267" offset="14041025">We're not aware that that statute was ever cited before by the parties in this case, but even if it was, it seems to us that the reasoning of the Summerlin case and... and of Updike, which is... there's already a Federal statute... should control that question and--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3525.749" stopTime="3543.377">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3525.749" offset="14102988">Mr. Jones, why isn't Mr. Haberbush right at least when he says everybody would be better off if you went ahead and listed the partners as well on the assessment and gave them notice and demand?</text>
+            <text syncTime="3536.811" offset="14147187">Then there would never be any hassle of whether you could use both remedies, administrative and judicial.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="3543.377" stopTime="3556.585">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="3543.377" offset="14173414">--I think it's a question for Congress what's... you know, what makes everybody better off.</text>
+            <text syncTime="3546.925" offset="14187624">And what Congress has said is that we can assess these taxes against the employer.</text>
+            <text syncTime="3551.633" offset="14206433">The employer under State law is a separate and distinct legal entity known as the partnership.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3556.585" stopTime="3563.189">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3556.585" offset="14226286">Do you think you're impeded that you have no authority to give the partners notice individually?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="3563.189" stopTime="3575.549">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="3563.189" offset="14252722">We... well, we have authority to give them notice of an assessment and collect from them administratively, but in terms of, if you will, making an assessment them directly, we're supposed to assess the party whose subject to the tax.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3575.549" stopTime="3578.421">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3575.549" offset="14302145">Thank you, Mr. Jones.</text>
+            <text syncTime="3576.442" offset="14305698">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

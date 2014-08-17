@@ -1,0 +1,27 @@
+<transcript>
+      <history>
+        <identified user="jgoldman">2014-04-02</identified>
+      </history>
+      <resources>
+        <audioFile size="125701">/xml/cases/1987/86_1836/19880620o_86-1836.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-1836op.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="31.355">
+        <title>New York State Club Association Inc. v. City of New York</title>
+        <section startTime="0" stopTime="31.355">
+          <heading>Opinion Announcement of Byron R. White</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.388">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 86-1836, New York State Club Association versus the City of New York will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="10.388" stopTime="31.355">
+            <label>Justice Byron R. White</label>
+            <text syncTime="10.388" offset="41482">We have filed an opinion in this case affirming the judgment of the Court of Appeals of New York. Our judgment is unanimous.</text>
+            <text syncTime="18.970" offset="75860">Justice O'Connor has filed a concurring opinion and Justice Kennedy has joined that opinion.</text>
+            <text syncTime="25.879" offset="103445">Justice Scalia has filed an opinion concurring in part and concurring in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

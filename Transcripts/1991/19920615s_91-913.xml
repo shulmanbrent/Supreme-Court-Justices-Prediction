@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:30:10" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="450088">/xml/cases/1991/91_913/19920615o_91-913.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/91-913_19920615-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="89.809">
+        <title>Patterson v. Shumate</title>
+        <section startTime="0.000" stopTime="89.809">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.200">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90852">The opinion of the Court in No. 91-913, Patterson against Shumate will be announced by Justice Blackmun.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="7.200" stopTime="89.809">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="7.200" offset="119587">This case comes to us from the Court of Appeals for the Fourth Circuit.</text>
+            <text syncTime="11.992" offset="138813">The respondent, Shumate, was a participant in his employer's pension plan.</text>
+            <text syncTime="17.200" offset="159606">It contained the antialienation provision that is required for a plan's qualification under the 1974 statute we call ERISA.</text>
+            <text syncTime="27.914" offset="202447">The District Court rejected his contention that his interest in the plan should be excluded from his bankruptcy estate under a section of the Bankruptcy Code.</text>
+            <text syncTime="39.372" offset="248318">That provision excludes property that is subject to a restriction on transfer enforceable under "applicable non-bankruptcy law".</text>
+            <text syncTime="50.573" offset="293144">The Trial Court held that the latter phrase embraced only state law.</text>
+            <text syncTime="55.248" offset="311743">The Court of Appeals reversed and ruled that the interest should be excluded from the bankruptcy estate.</text>
+            <text syncTime="61.328" offset="336090">In an opinion filed with the Clerk today, we affirm that judgment by a unanimous vote.</text>
+            <text syncTime="66.506" offset="356779">The plain language of the Bankruptcy Code and ERISA establishes that an antialienation provision in a qualified pension plan constitutes a restriction on transfer enforceable under applicable non-bankruptcy law.</text>
+            <text syncTime="82.445" offset="420622">Justice Scalia, while joining the opinion of the Court, has filed a separate concurring statement.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

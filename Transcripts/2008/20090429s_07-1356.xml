@@ -1,0 +1,51 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="1230768">/xml/cases/2008/07_1356/20090429o_07-1356.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2008/trs/07-1356_20090429-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="309.211">
+        <title>Kansas v. Ventris</title>
+        <section startTime="0" stopTime="309.211">
+          <heading>Opinion Announcement of Antonin Scalia</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="8.214">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="0">Justice Scalia has our opinion today in Case 07-1356, Kansas versus Ventris.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="8.214" stopTime="309.211">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="8.214" offset="32832">This case is here on writ of certiorari to the Supreme Court of Kansas.</text>
+            <text syncTime="12.806" offset="51120">Rhonda Theel and the respondent here, Donnie Ray Ventris robbed one Ernest Hicks in his home. In the course of the crime, one or both of them shot and killed Hicks.</text>
+            <text syncTime="27.477" offset="109872">The State charged both with murder, burglary, and robbery.</text>
+            <text syncTime="31.579" offset="126288">Before Ventris's trial, police officers planted an informant in his cell with the instructions to listen for incriminating statements.</text>
+            <text syncTime="42.599" offset="170352">Apparently, the informant did a bit more than merely listen.</text>
+            <text syncTime="48.312" offset="193248">And in response to some prodding, Ventris admitted that he had shot and robbed Hicks.</text>
+            <text syncTime="55.028" offset="220032">The prodding violated the Sixth Amendment which we have held prohibits deliberate elicitation of inculpatory statements from uncounseled defendant's postindictment.</text>
+            <text syncTime="66.804" offset="267120">At trial, Ventris took the stand and blamed both robbery and the shooting on Theel, asserting that he did not know his companion's intentions when they went to the victim's home.</text>
+            <text syncTime="79.170" offset="316656">In response to this testimony, the State sought over Ventris's objection to have the informant testify to Ventris's prior contradictory statement.</text>
+            <text syncTime="90.022" offset="360000">The State conceded that the informant had deliberately elicited the inculpatory statement in violation of Ventris's Sixth Amendment right to counsel but argued that the statement was nevertheless admissible for impeachment purposes.</text>
+            <text syncTime="103.745" offset="414864">That is to undermine Ventris's testimony.</text>
+            <text syncTime="107.591" offset="430272">The trial court allowed the informant's testimony and the jury convicted Ventris on counts of aggravated burglary and aggravated robbery but acquitted him on the murder charge.</text>
+            <text syncTime="118.555" offset="474192">The Kansas Supreme Court reversed the convictions, holding that the informant's statements were not admissible for any reason including impeachment.</text>
+            <text syncTime="128.603" offset="514368">We granted certiorari.</text>
+            <text syncTime="131.462" offset="525744">Whether a confession that was not admissible in the prosecution's case-in-chief, can nonetheless be admitted for impeachment purposes, depends on the nature of a constitutional guarantee that has been violated.</text>
+            <text syncTime="145.109" offset="580320">The Fifth Amendment guarantee against compelled self-incrimination for example is violated by introducing a coerced confession at trial, which means it simply cannot be used whether by way of impeachment or otherwise.</text>
+            <text syncTime="160.140" offset="640512">But for other constitutional guarantees such as the Fourth Amendment guarantee against unreasonable searches and seizures, which is violated when the search or seizure occurs and for certain prophylactic rules developed under the Fifth and Sixth Amendments, we have held that exclusion comes by way of deterrent sanction for the prior constitutional violation, rather than to avoid violation of the substantive guarantee at trial.</text>
+            <text syncTime="189.105" offset="756288">Admissibility in such cases is determined by an exclusionary-rule balancing test.</text>
+            <text syncTime="196.095" offset="784368">The core of the Sixth Amendment right to counsel is indeed a right to be enjoyed at trial, but we have held that the right extends to govern police conduct at certain critical stages prior to trial.</text>
+            <text syncTime="207.701" offset="830736">Whenever the assistance of counsel is denied at one of these pretrial critical stages, such as the one here when -- when a confession was -- was sought to be obtained by the police, whenever assistance of counsel was denied, the defendant's constitutional right is infringed at that time, not when evidence is later admitted at trial.</text>
+            <text syncTime="233.791" offset="935136">The earlier deprivation demands the remedy of exclusion from the prosecution's case-in-chief but its admissibility for impeachment is subject to the balancing test.</text>
+            <text syncTime="245.101" offset="980352">On one side of the balance, when the defendant has taken the stand to lie is the cause of denying a prosecution the traditional truth testing devices of the adversary process.</text>
+            <text syncTime="256.747" offset="1026864">On the other side of the balance is the deterrence which that denial will provide against such violations of the Sixth Amendment in the future.</text>
+            <text syncTime="266.652" offset="1066608">But in fact, preventing the impeachment would provide little incremental deterrence since officers already have strong incentive to comply with the Constitution in order to make the defendant's statements admissible in the prosecution's case-in-chief.</text>
+            <text syncTime="283.131" offset="1132416">In every other context, this Court has held that tainted evidence excluded from the prosecution's case-in-chief is admissible for impeachment and no distinction here alters that balance.</text>
+            <text syncTime="296.071" offset="1184256">The judgment of the Supreme Court of Kansas is reversed and the case is remanded for further proceedings not inconsistent with this opinion.</text>
+            <text syncTime="303.278" offset="1213056">Justice Stevens has filed a dissenting opinion in which Justice Ginsburg has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

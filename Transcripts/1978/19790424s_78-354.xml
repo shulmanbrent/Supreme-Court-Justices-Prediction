@@ -1,0 +1,33 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="382119">/xml/cases/1978/78_354/19790424o_78-354.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1978/trs/78-354op.trs</sourceFile>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="95.452">
+        <title>North Carolina v. Butler</title>
+        <section startTime="0.000" stopTime="95.452" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Potter Stewart</heading>
+          <turn speaker="potter_stewart" startTime="0.000" stopTime="93.000">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="0.000" offset="">I also have another announcement this morning that I'm authorized to make on behalf of the Court.</text>
+            <text syncTime="13.175" offset="52663">This is the case of North Carolina against Butler here on writ of certiorari to the Supreme Court of North Carolina.</text>
+            <text syncTime="22.043" offset="88085">In conflict with the view of every other court that has considered the issue, the North Carolina Supreme Court has held in this case that under this Court’s decision in Miranda against Arizona, no statement of a person under custodial interrogation may be admitted in evidence against him unless at the time the statement was made, he explicitly waived the right to the presence of a lawyer.</text>
+            <text syncTime="52.067" offset="208248">We granted certiorari to consider whether this per se rule reflects a proper understanding of the Miranda decision.</text>
+            <text syncTime="62.691" offset="250671">For the reasons set out in an opinion of the Court filed today, the judgment is vacated and the case is remanded to North Carolina Supreme Court for further proceedings.</text>
+            <text syncTime="73.849" offset="295393">Mr. Justice Blackmun while joining the Court opinion has filed a concurring statement.</text>
+            <text syncTime="79.599" offset="318380">Mr. Justice Brennan has filed a dissenting opinion which Mr. Justice Marshall and Mr. Justice Stevens have joined.</text>
+            <text syncTime="86.848" offset="347324">Mr. Justice Powell took no part in the consideration or decision of the case.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="93.000" stopTime="95.452">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="93.000" offset="371984">Thank you Mr. Justice Stewart.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

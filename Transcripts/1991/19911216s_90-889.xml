@@ -1,0 +1,32 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:25:56" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="379990">/xml/cases/1991/90_889/19911216o_90-889.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/90-889_19911216-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="72.281">
+        <title>King v. St. Vincent's Hospital</title>
+        <section startTime="0.000" stopTime="72.281">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.593">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90867">The opinion of the Court in No.90-889, King versus Saint Vincent's Hospital will be announced by Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="9.593" stopTime="72.281">
+            <label>Justice David H. Souter</label>
+            <text syncTime="9.593" offset="129215">This case comes to us on writ of certiorari to the Court of Appeals for the Eleventh Circuit.</text>
+            <text syncTime="14.582" offset="149172">We took the case to resolve a split between the Third, Fifth, and Eleventh Circuits on the one hand and the Fourth Circuit on the other on the question whether 38 U.S. Code 2024(d) implicitly limits the length of military service after which a member of the military protected by this Section retains a right to reemployment in the civilian job he filed prior to his duty.</text>
+            <text syncTime="38.100" offset="243213">We reverse the Eleventh Circuit and holding that the statute provides no such limitations.</text>
+            <text syncTime="43.289" offset="264007">Nothing in the plain language of the Section limits the duration of such military leaves and the structure of the statutory scheme fails to support the hospital's argument that the benefit provided by the Section falls at the bottom of a hierarchy of employment rights so as to indicate congressional intent to limit the provision's protection to those whose leave request are found to be reasonable.</text>
+            <text syncTime="65.210" offset="351674">The opinion is joined by all members of the Court except Justice Thomas who took no part in the consideration or decision of the case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

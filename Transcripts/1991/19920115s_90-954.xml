@@ -1,0 +1,29 @@
+<transcript verified="true">
+      <history>
+        <edit user="jgoldman" date="2013-09-02T13:42:15" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="220142">/xml/cases/1991/90_954/19920115o_90-954.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/90-954_19920115-opinion.trs</sourceFile>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="32.313">
+        <title>Rufo v. Inmates of Suffolk County Jail</title>
+        <section startTime="0.000" stopTime="32.313">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="11.049">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="90888">The opinion of the Court in No. 90-954, Rufo against the Inmates of Suffolk County Jail and a companion case will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="11.049" stopTime="32.313">
+            <label>Justice Byron R. White</label>
+            <text syncTime="11.049" offset="134983">For the reasons stated in an opinion on file with the Clerk, the judgment of the Court of Appeals for the First Circuit in these cases is vacated and remanded for further proceedings.</text>
+            <text syncTime="22.533" offset="180958">Justice Stevens has filed a dissenting opinion that Justice Blackmun has joined.</text>
+            <text syncTime="27.205" offset="199662">Justice Thomas took no part in the consideration and decision of the case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

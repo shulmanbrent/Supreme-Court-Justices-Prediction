@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-29</verified>
+        <edit user="jgoldman" date="2013-08-30T16:43:38" startTime="0.000" oldSpeaker="byron_r_white" newSpeaker="harry_a_blackmun"/>
+        <identified user="jgoldman">2013-08-30</identified>
+      </history>
+      <resources>
+        <audioFile size="445756">/xml/cases/1975/74_6212/19760629o_74-6212.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1975/trs/74-6212op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="92.985">
+        <title>Norton v. Mathews</title>
+        <section startTime="0" stopTime="92.985">
+          <heading>Opinion Announcement of Warren E. Burger</heading>
+          <turn speaker="harry_a_blackmun" startTime="0.000" stopTime="90.960">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="0.000" offset="73668">The third case 64-6212 Norton v. Mathews in its way is a companion case to Mathews against Mathews against Lucas just announced.</text>
+            <text syncTime="11.451" offset="119435">It comes to us from a decision of a three-judge federal court for the District of Maryland.</text>
+            <text syncTime="17.444" offset="143363">The issue on the merits is the same as in the Lucas case, this however is a class action.</text>
+            <text syncTime="24.247" offset="170635">Injunctive relief and the three-judge district court were requested and that court was convened.</text>
+            <text syncTime="30.399" offset="195190">It affirmed the statutory ruling of the single judge and ruled in favor of the secretary on a constitutional claim.</text>
+            <text syncTime="37.571" offset="223924">A summary judgment was thus granted for the secretary.</text>
+            <text syncTime="41.482" offset="239493">The case however contains a jurisdictional question as to whether a three-judge court was properly convened when injunctive relief was requested.</text>
+            <text syncTime="50.287" offset="274811">And thus whether this court has jurisdiction over a direct appeal under a certain statute, and we need not go into the detail as to this, where we hold that since the decision today in the Lucas case, renders the merits of the present one, a decided issue in favor of the appellee and thus one no longer substantial in the jurisdictional sense.</text>
+            <text syncTime="73.053" offset="365821">It is unnecessary to decide the jurisdictional question.</text>
+            <text syncTime="76.692" offset="380346">And the judgment of the district court therefore is affirmed.</text>
+            <text syncTime="80.224" offset="394556">Mr. Justice Stevens has filed a dissenting opinion and is joined in that opinion by Mr. Justice Brennan and Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="90.960" stopTime="92.985">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="90.960" offset="437501">Thank you Mr. Justice White.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

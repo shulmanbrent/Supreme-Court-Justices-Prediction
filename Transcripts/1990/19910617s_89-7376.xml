@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:07:52" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="448345">/xml/cases/1990/89_7376/19910617o_89-7376.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-7376_19910617-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="93.597">
+        <title>Wilson v. Seiter</title>
+        <section startTime="0.000" stopTime="93.597">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.633">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73958">The opinion of the Court in No. 89-7376 Wilson against Seiter will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="8.633" stopTime="93.597">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="8.633" offset="108440">The petitioner in this case, Pearly Wilson, is a prison inmate in Ohio.</text>
+            <text syncTime="15.667" offset="136547">He sued the respondents, who are prison officials, alleging that certain conditions of his confinement constituted cruel and unusual punishment in violation of the Eighth and Fourteenth Amendments.</text>
+            <text syncTime="25.947" offset="177716">The District Court granted summary judgment for the prison officials.</text>
+            <text syncTime="29.447" offset="191718">The Court of Appeals for the Sixth Circuit affirmed, concluding that Wilson's affidavits failed to establish the requisite culpable state of mind on the part of the officials.</text>
+            <text syncTime="41.101" offset="238320">In an opinion filed with the Clerk today, we agree with the Sixth Circuit that an inmate claiming that prison conditions violate the Eighth Amendment must show a culpable state of mind on the part of the officials.</text>
+            <text syncTime="53.702" offset="288685">This requirement is implicit in that Amendment's ban on cruel and unusual punishment.</text>
+            <text syncTime="59.473" offset="311777">The Sixth Circuit, however, appears to have applied an overly exacting intense standard, stating that the official's conduct must be marked by "persistent malicious cruelty."</text>
+            <text syncTime="72.213" offset="362768">The appropriate standard is the one we have long applied to prisoner claims involving medical care, namely deliberate indifference.</text>
+            <text syncTime="79.166" offset="390562">We vacate the judgment of the Court of Appeals and remand the case for reconsideration under that standard.</text>
+            <text syncTime="85.170" offset="414595">Justice White has filed an opinion concurring in the judgment in which Justices Marshall, Blackmun, and Stevens have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

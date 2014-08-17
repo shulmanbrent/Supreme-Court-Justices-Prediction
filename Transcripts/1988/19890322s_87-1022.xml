@@ -1,0 +1,35 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1989-03-22</transcribed>
+        <edit user="jclow" date="2012-07-02T14:59:10" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="byron_r_white"/>
+        <identified user="jclow">2012-07-02</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T13:54:33" startTime="0.000" oldSpeaker="byron_r_white" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="231073">/xml/cases/1988/87_1022/19890322o_87-1022.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1988/87-1022_19890322-opinion.xml</sourceFile>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="36.127">
+        <title>Board of Estimate of City of New York v. Morris</title>
+        <section startTime="0.000" stopTime="9.606">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.606">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="86564">The opinion of the Court in No. 87-1022, New York Board of Estimate versus Morris and a related case will be announced by Justice White.</text>
+          </turn>
+        </section>
+        <section startTime="9.606" stopTime="36.127">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="byron_r_white" startTime="9.606" stopTime="36.127">
+            <label>Justice Byron R. White</label>
+            <text syncTime="9.606" offset="124912">The judgments of the Court of Appeals for the Second Circuit in these two cases are affirmed.</text>
+            <text syncTime="20.090" offset="166917">An opinion to that effect is on file with the Clerk.</text>
+            <text syncTime="25.212" offset="187397">Justice Brennan, joined by Justice Stevens, has filed a separate concurring opinion; Justice Blackmun has filed an opinion concurring in part and concurring in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

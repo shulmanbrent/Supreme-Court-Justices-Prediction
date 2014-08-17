@@ -1,0 +1,50 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T16:02:30" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1080986">/xml/cases/2006/05_381/20070220o_05-381.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2006/trs/05-381_20070220-opinion.trs</sourceFile>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="247.772">
+        <title>Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co.</title>
+        <section startTime="0.000" stopTime="247.772" revised="2014-01-27">
+          <heading>Opinion Announcement of Justice Clarence Thomas</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="5.417">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="89900">Justice Thomas has the opinion in two cases this morning.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="5.417" stopTime="247.772">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="5.417" offset="111529">First case I have to announce is Weyerhaeuser versus Ross-Simmons Hardwood Lumber Company No. 05-381.</text>
+            <text syncTime="16.353" offset="155311">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="24.040" offset="186031">It involves two sawmills that competed to produce finished hardwood lumber in the Pacific Northwest.</text>
+            <text syncTime="31.912" offset="217482">Respondent Ross-Simmons blamed petitioner Weyerhaeuser for driving it out of business by bidding up the price of Red Alder saw logs which both mills processed into finished lumber.</text>
+            <text syncTime="45.998" offset="273802">Ross-Simmons filed an antitrust suit against Weyerhaeuser alleging monopolization, an attempted monopolization under Section 2 of the Sherman Act.</text>
+            <text syncTime="57.868" offset="321345">The District Court refused to issue a jury instruction that incorporated elements of the test we set forth for analyzing predatory-pricing claims in Brooke Group versus Brown &amp; Williamson.</text>
+            <text syncTime="73.702" offset="384666">A jury found Weyerhaeuser liable, the Court of Appeals for the Ninth Circuit affirmed holding that Brooke Group did not provide the appropriate standard for predatory-bidding claims.</text>
+            <text syncTime="86.267" offset="434925">In an opinion filed with the court today we vacate the judgment of the Court of Appeals and remand the case for further proceedings.</text>
+            <text syncTime="95.217" offset="470765">In a predatory-bidding scheme the purchaser bids up the market price of an input so high that rival buyers cannot afford to purchase the input.</text>
+            <text syncTime="106.428" offset="515591">Once the predatory bidder has caused competing buyers to exit the market, it then attempts to drive down the prices of inputs.</text>
+            <text syncTime="115.021" offset="549969">By lowering input prices the predatory bidder stands to make supracompetitive profits that will at least offset the losses it incurred while bidding up input prices.</text>
+            <text syncTime="127.892" offset="601378">The close connection between predatory-bidding and predatory-pricing suggest that similar legal standards should apply to both.</text>
+            <text syncTime="136.056" offset="634083">Predatory-bidding mirrors aspects of predatory-pricing that we considered important in Brooke Group.</text>
+            <text syncTime="143.705" offset="664698">We concluded in Brooke Group that predatory-pricing schemes are rarely tired and even more rarely successful.</text>
+            <text syncTime="151.090" offset="694164">That conclusion applies with equal force to predatory-bidding because rational businesses will rarely suffer certain short-term losses on the unlikely chance that they might later make supracompetitive profits.</text>
+            <text syncTime="167.228" offset="758739">Predatory-bidding schemes are unlikely to occur frequently.</text>
+            <text syncTime="171.756" offset="776920">Also, like predatory-pricing, the actions that serve as a basis for liability, bidding up prices for inputs are often the very essence of competition.</text>
+            <text syncTime="184.010" offset="825926">There are a number of procompetitive reasons why an input purchaser might take actions that raise the price of inputs.</text>
+            <text syncTime="193.343" offset="863229">Given these and other similarities we are convinced that the test we applied to predatory-pricing in Brooke Group should also apply to predatory-bidding claims.</text>
+            <text syncTime="204.638" offset="908369">A predatory-bidding plaintiff must therefore make two showings to succeed on its claim.</text>
+            <text syncTime="210.957" offset="933655">First, it must prove that the defendant’s high bidding caused the cost of the relevant output to rise above the revenues generated by the sale of those outputs.</text>
+            <text syncTime="223.811" offset="985064">Second, a plaintiff must show that the defendant has a dangerous probability of recouping the losses incurred in bidding up input prices.</text>
+            <text syncTime="234.624" offset="1028323">Ross-Simmons has conceded that it has not satisfied the Brooke Group test therefore its predatory-bidding theory of liability cannot support the jury’s verdict.</text>
+            <text syncTime="245.232" offset="1070746">The opinion of the court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

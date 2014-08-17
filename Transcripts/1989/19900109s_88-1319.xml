@@ -1,0 +1,43 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1990-01-09</transcribed>
+        <edit user="tschaefer" date="2012-07-03T16:48:21" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <identified user="tschaefer">2012-07-03</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:02:18" startTime="0.000" oldSpeaker="harry_a_blackmun" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="486509">/xml/cases/1989/88_1319/19900109o_88-1319.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1989/88-1319_19900109-opinion.xml</sourceFile>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="99.840">
+        <title>Commissioner of Internal Revenue v. Indianapolis Power &amp; Light Company</title>
+        <section startTime="0.000" stopTime="5.798">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="5.798">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87149">The opinions of the Court in two cases will be announced by Justice Blackmun.</text>
+          </turn>
+        </section>
+        <section startTime="5.798" stopTime="99.840">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="harry_a_blackmun" startTime="5.798" stopTime="99.840">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="5.798" offset="110241">The first of these cases is No. 88-1319, Commissioner of Internal Revenue against the Indianapolis Power &amp; Light Company.</text>
+            <text syncTime="15.426" offset="148798">As the title indicates, it is an income tax case, the respondent, the utility is a regulated Indiana utility and it is also an accrual basis tax payer.</text>
+            <text syncTime="28.024" offset="199162">It requires customers having suspect credit to make deposits with it to assure prompt payment of future electric bills.</text>
+            <text syncTime="40.892" offset="250676">Deposits at all times are subject, however, to the company’s use and control.</text>
+            <text syncTime="46.355" offset="272514">It does not treat them as income at receipt but carries them on its books as current liabilities.</text>
+            <text syncTime="53.793" offset="302293">And the issue in the case is whether the deposits are advance payments for electricity and therefore are taxable to the utility in the year of receipt.</text>
+            <text syncTime="63.989" offset="343045">The Tax Court ruled that the principal purpose of the deposits was to serve as security rather than as prepayment of income.</text>
+            <text syncTime="71.889" offset="374705">The Court of Appeals for the Seventh Circuit agreed and affirmed.</text>
+            <text syncTime="76.209" offset="391946">And because of the conflict, the direct conflict with the Eleventh Circuit, we took the case.</text>
+            <text syncTime="81.055" offset="411276">In an opinion filed with the Clerk today, we affirm the judgment of the Court of Appeals and hold that the deposits are not advance payments for electricity and therefore, do not constitute taxable income to the utility upon receipt.</text>
+            <text syncTime="96.858" offset="474493">The decision is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

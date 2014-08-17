@@ -1,0 +1,34 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1990-02-28</transcribed>
+        <edit user="tschaefer" date="2012-08-08T15:27:02" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="byron_r_white"/>
+        <identified user="tschaefer">2012-08-08</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:02:09" startTime="0.000" oldSpeaker="byron_r_white" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="210730">/xml/cases/1989/88_1369/19900228o_88-1369.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1989/88-1369_19900228-opinion.xml</sourceFile>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="30.903">
+        <title>Maryland v. Buie</title>
+        <section startTime="0.000" stopTime="4.941">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="4.941">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87119">No. 88-1369, Maryland against Buie will be announced by Justice White.</text>
+          </turn>
+        </section>
+        <section startTime="4.941" stopTime="30.903">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="byron_r_white" startTime="4.941" stopTime="30.903">
+            <label>Justice Byron R. White</label>
+            <text syncTime="4.941" offset="106868">For the reasons stated in an opinion on file with the Clerk, we vacate and remand for further proceedings the judgment of the Court of Appeals for Maryland.</text>
+            <text syncTime="19.358" offset="164546">Justices Stevens and Kennedy have filed concurring opinions; Justice Brennan has filed a dissent in which Justice Marshall joins.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

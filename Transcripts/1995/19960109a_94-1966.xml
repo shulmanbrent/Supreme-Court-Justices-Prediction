@@ -1,0 +1,1519 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1996-01-09</transcribed>
+        <edit user="dleib" date="2012-07-26T17:20:01" startTime="3355.941" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <identified user="dleib">2012-07-26</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="13981889">/xml/cases/1995/94_1966/19960109a_94-1966.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1995/94-1966_19960109-argument.xml</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_h_blume" type="advocate" gender="male" path="/advocates/jb/john_h_blume" image="/advocates/jb/john_h_blume/thumbnail.jpg">John H. Blume</speaker>
+        <speaker id="edwin_s_kneedler" type="advocate" gender="male" path="/advocates/ek/edwin_s_kneedler" image="/advocates/ek/edwin_s_kneedler/thumbnail.jpg">Edwin S. Kneedler</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3458.605">
+        <title>Loving v. United States</title>
+        <section startTime="0.000" stopTime="1763.932">
+          <heading>Argument of John H. Blume</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.248">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="144410">We'll hear argument now in No. 94-1966, Dwight Loving v. United States.</text>
+            <text syncTime="7.126" offset="172831">Mr. Blume.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="8.248" stopTime="73.059">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="8.248" offset="177324">Mr. Chief Justice, may it please the Court--</text>
+            <text syncTime="15.401" offset="205954">This case presents several questions regarding whether and under what circumstances the President is permitted to create aggravating factors for military capital cases.</text>
+            <text syncTime="24.757" offset="243362">In this Court we have presented several challenges to the creation of these factors, ranging from the most broad to this is a nondelegatable power to the most narrow, that Congress failed to provide the President with an intelligible principle.</text>
+            <text syncTime="37.686" offset="295084">In considering all of these issues, however, some historical perspective is necessary.</text>
+            <text syncTime="42.429" offset="314101">In Article I, section 8, clause 14, the Framers gave to Congress and not the President the plenary power to make rules for the Government regulation of the land and naval forces.</text>
+            <text syncTime="53.846" offset="359763">They did so for a reason and from a very historical vantage point.</text>
+            <text syncTime="57.479" offset="374288">Not only were they distrustful of executive control of the military in general, but they were wary of broad court martial jurisdiction.</text>
+            <text syncTime="64.614" offset="402813">The Framers and those who influenced their political thought had lived under martial law and had witnessed and suffered through the abuses of military power.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="73.059" stopTime="152.260">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="73.059" offset="436563">Mr. Lowenfield, before you go too much further... I'm sorry.</text>
+            <text syncTime="78.253" offset="457357">Mr. Blume.</text>
+            <text syncTime="79.054" offset="460596">I'm thinking of the case I'm going to ask you about.</text>
+            <text syncTime="81.255" offset="469373">There... most of your argument is based on separation of powers.</text>
+            <text syncTime="88.009" offset="496436">There is another separation of powers issue it seems to me and that is the standing problem.</text>
+            <text syncTime="94.792" offset="523499">Even if we assume that the President has no power to specify what crimes shall be subject to the death penalty, Congress itself in 10 U.S.C., section 918 has specified two.</text>
+            <text syncTime="109.331" offset="581700">It has specifically said that anyone who unlawfully kills a human being when he, number one, has a premeditated design to kill, and number four, is engaged in the perpetration or attempted perpetration of burglary, sodomy, rape, robbery or aggravated arson.</text>
+            <text syncTime="124.063" offset="640632">In those two instances, Congress has said he shall suffer death or imprisonment for life.</text>
+            <text syncTime="129.747" offset="663306">Now, it seems to me that if that specification is sufficient, it doesn't matter whether or not the President has authority to add additional aggravating circumstances so long as those two suffice.</text>
+            <text syncTime="144.025" offset="720462">Is it clear that those two alone don't suffice?</text>
+            <text syncTime="146.387" offset="729866">Premeditated design to kill or killing in the perpetration of those particular crimes?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="152.260" stopTime="166.640">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="152.260" offset="753377">Yes, Justice Scalia, I think it's clear that does not suffice.</text>
+            <text syncTime="155.724" offset="767274">All article 118 is... it sets forth four theories under which you can be found guilty of murder.</text>
+            <text syncTime="160.765" offset="787440">One is premeditated and number four is a felony murder theory.</text>
+            <text syncTime="164.790" offset="803532">This is much like every murder statute--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="166.640" stopTime="209.699">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="166.640" offset="810950">No, it doesn't.</text>
+            <text syncTime="167.341" offset="813772">No, it's quite different because the way 918... this is on page 145 of the joint appendix, by the way.</text>
+            <text syncTime="175.136" offset="844910">The way 918 ends is, in all four of those situations specified he's guilty of murder and shall suffer such punishment as a court martial may direct.</text>
+            <text syncTime="184.842" offset="883675">And if it ended there, then you would possibly be into the argument that you want to make to us whether the President has the authority to specify what shall obtain the death penalty.</text>
+            <text syncTime="193.708" offset="919202">It doesn't end there, though.</text>
+            <text syncTime="195.120" offset="924844">And it says, except that if found guilty under clause 1 or 4, he shall suffer death or imprisonment for life as a court martial may direct.</text>
+            <text syncTime="204.026" offset="960475">Now, why isn't that an adequate specification whether or not the President adds additional ones?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="209.699" stopTime="215.494">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="209.699" offset="983150">--Because the teaching of Furman is that there has to be something beyond murder.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="215.494" stopTime="216.715">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="215.494" offset="1006346">There was no Court opinion in Furman.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="216.715" stopTime="234.106">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="216.715" offset="1011257">That's true.</text>
+            <text syncTime="218.115" offset="1016795">There was... there were a number of different opinions, but the consensus of it seems to be that there has to be murder plus something.</text>
+            <text syncTime="223.548" offset="1038529">It is not enough if you are just merely found guilty of murder.</text>
+            <text syncTime="226.850" offset="1051799">All 118 does is sets forth a set of four theories.</text>
+            <text syncTime="230.012" offset="1064443">It does say and you can only get death for 118(1) or 118(4).</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="234.106" stopTime="238.801">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="234.106" offset="1080743">Right.</text>
+            <text syncTime="234.616" offset="1082833">And 1 is premeditated design to kill.</text>
+            <text syncTime="237.419" offset="1094013">That's something more than just murder.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="238.801" stopTime="257.913">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="238.801" offset="1099551">But, Justice Scalia, there were numerous statutes which existed like this at the time of Furman, all of which were found to be unconstitutional.</text>
+            <text syncTime="244.664" offset="1123061">Pennsylvania made the argument on rehearing after Furman that premeditation is enough, that we have narrowed because of premeditation, and rehearing was denied.</text>
+            <text syncTime="252.168" offset="1153050">This is the way all statutes looked.</text>
+            <text syncTime="253.559" offset="1158588">All 118 is is four different theories of murder.</text>
+            <text syncTime="257.232" offset="1173321">It does--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="257.913" stopTime="262.207">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="257.913" offset="1176038">We held in Furman that no statute that then existed in the United States was valid?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="262.207" stopTime="267.900">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="262.207" offset="1193174">--No, but a number of them were reversed and vacated in light of Furman and sent back for--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="267.900" stopTime="268.438">
+            <label>Unknown Speaker</label>
+            <text syncTime="267.900" offset="1215953">For reconsideration.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="268.438" stopTime="269.049">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="268.438" offset="1218147">--further work.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="269.049" stopTime="278.896">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="269.049" offset="1220550">Well, for reconsideration in the light of Furman.</text>
+            <text syncTime="271.841" offset="1231731">And there was no... there were... to get the majority in Furman, there were something like five different opinions which didn't agree with one another.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="278.896" stopTime="293.316">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="278.896" offset="1259943">They did not, but I do not see how it is consistent with Furman to say that premeditation alone is enough.</text>
+            <text syncTime="284.630" offset="1282826">There were numerous premeditation statutes.</text>
+            <text syncTime="287.071" offset="1292648">Murder, that was all they had.</text>
+            <text syncTime="288.153" offset="1296932">And you could get mandatory death or discretionary death for premeditated murder, and those were not sufficient.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="293.316" stopTime="317.782">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="293.316" offset="1317621">Where is the holding?</text>
+            <text syncTime="294.348" offset="1321801">That is, is there a case?</text>
+            <text syncTime="296.178" offset="1329115">Can you cite a case, which I would then like to read, which says that a statute which says the death penalty is reserved for those who murder with premeditation?</text>
+            <text syncTime="309.236" offset="1381256">Is there a case that says that that is insufficiently... is too broad, is not sufficiently narrow under Furman?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="317.782" stopTime="323.666">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="317.782" offset="1415528">No.</text>
+            <text syncTime="320.594" offset="1426709">I know of no case which says premeditation alone is enough, but if you look at--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="323.666" stopTime="326.538">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="323.666" offset="1439039">So, that issue then is open.</text>
+            <text syncTime="325.639" offset="1446875">Is that right?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="326.538" stopTime="338.467">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="326.538" offset="1450532">--I think if you look at all the statutes which were before the Court in Furman, the way they looked, this looks like numerous statutes which were in existence at the time.</text>
+            <text syncTime="334.633" offset="1482924">It looks a lot like 20 U.S.C. 111 which is the Federal murder statute.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="338.467" stopTime="355.547">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="338.467" offset="1498180">It might but, I mean, that's why I'm looking for a precedent.</text>
+            <text syncTime="339.969" offset="1504240">What is the strongest precedent in your opinion that would suggest or show or hold that a murder statute that says the death penalty is reserved for murder with premeditation is too broad?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="355.547" stopTime="361.370">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="355.547" offset="1566516">There is no case that says exactly that.</text>
+            <text syncTime="359.440" offset="1582085">If you look at Gregg and Furman--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="361.370" stopTime="363.193">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="361.370" offset="1589817">That's why I asked you for the strongest precedent.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="363.193" stopTime="370.567">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="363.193" offset="1597132">--And then if you look even at Lowenfield, which is the case which brought us to this, as I understand Lowenfield, it says that, well, this narrows because you have--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="370.567" stopTime="372.560">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="370.567" offset="1626598">Either Lowenfield or Blume.</text>
+            <text syncTime="371.218" offset="1629210">I don't remember which.</text>
+            <text syncTime="372.190" offset="1633076">[Laughter]</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="372.560" stopTime="409.774">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="372.560" offset="1634643">--I've been confused with many people.</text>
+            <text syncTime="375.752" offset="1647391">But Lowenfield indicates that the reason that is sufficient, the reason the guilt phase narrowing in Lowenfield is sufficient because they're very... it's very narrowly tailored.</text>
+            <text syncTime="385.737" offset="1687306">You have a specific mens rea requirement of premeditation plus some additional felony, and that is one of the things that distinguished that.</text>
+            <text syncTime="393.343" offset="1717713">You don't have that here.</text>
+            <text syncTime="394.184" offset="1721057">You have either premeditation, premeditation alone as a basis under which you can be found guilty of murder, or felony murder, garden variety felony murder under 118(4), which there's absolutely no mens rea requirement at all.</text>
+            <text syncTime="405.902" offset="1767972">If that was sufficient, there would be no narrowing in any event.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="409.774" stopTime="431.178">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="409.774" offset="1783437">It's not any felony murder.</text>
+            <text syncTime="412.535" offset="1794513">It's five specific crimes burglary, sodomy, rape, robbery, or aggravated arson.</text>
+            <text syncTime="416.989" offset="1812276">So, if... I suppose that if all that were at stake were that provision, I guess maybe that would comply with Furman, wouldn't it?</text>
+            <text syncTime="424.603" offset="1842787">If all... if that were the only thing because that's pretty specific, but there's this other thing.</text>
+            <text syncTime="428.737" offset="1859297">That's why I'm asking to be sure I get the--</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="431.178" stopTime="438.633">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="431.178" offset="1869119">But there is no mens rea requirement in 118(4).</text>
+            <text syncTime="432.887" offset="1875910">It's just a felony murder theory.</text>
+            <text syncTime="434.469" offset="1882284">It's a theory under which you can be found guilty of murder, and--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="438.633" stopTime="440.204">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="438.633" offset="1898898">--And is there a precedent on that?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="440.204" stopTime="460.006">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="440.204" offset="1905168">--It's substantive criminal law.</text>
+            <text syncTime="443.025" offset="1916452">All these are... if you look at them and you look at all the statutes, they are... they're like every statute which existed at the time.</text>
+            <text syncTime="449.130" offset="1940903">There were ways in which you could be found guilty of murder.</text>
+            <text syncTime="451.591" offset="1950725">You could be found guilty of murder in some States as premeditated murder; in some States it's felony murder.</text>
+            <text syncTime="456.374" offset="1969847">This just lays out the various four theories under which you can be found guilty.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="460.006" stopTime="479.590">
+            <label>Justice David H. Souter</label>
+            <text syncTime="460.006" offset="1984371">Yes, but it does... it doesn't dispense with a mens rea requirement, doesn't it?</text>
+            <text syncTime="463.799" offset="1999522">Because you still have the mens rea requirement necessary for murder.</text>
+            <text syncTime="467.753" offset="2015404">You simply have the overlay of these felonies as being the basis for the requirement that death be imposed.</text>
+            <text syncTime="476.956" offset="2052185">That's not a dispensation with mens rea.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="479.590" stopTime="482.162">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="479.590" offset="2062738">It is under 118(4).</text>
+            <text syncTime="481.451" offset="2070157">There is no--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="482.162" stopTime="488.684">
+            <label>Justice David H. Souter</label>
+            <text syncTime="482.162" offset="2072978">Does 118(4) say killing in connection with or murder in connection with?</text>
+            <text syncTime="486.924" offset="2092100">I don't have it in front of me.</text>
+            <text syncTime="487.945" offset="2096175">Kills a human being.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="488.684" stopTime="489.365">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="488.684" offset="2099101">--Kills.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="489.365" stopTime="490.807">
+            <label>Justice David H. Souter</label>
+            <text syncTime="489.365" offset="2101817">It says... oh, it says... merely says kills.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="490.807" stopTime="491.626">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="490.807" offset="2107564">Yes.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="491.626" stopTime="492.057">
+            <label>Unknown Speaker</label>
+            <text syncTime="491.626" offset="2110908">Okay.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="492.057" stopTime="494.621">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="492.057" offset="2112580">Yes.</text>
+            <text syncTime="492.478" offset="2114252">It's just a theory under which you can be found guilty of felony murder.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="494.621" stopTime="495.079">
+            <label>Unknown Speaker</label>
+            <text syncTime="494.621" offset="2122820">I see.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="495.079" stopTime="502.856">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="495.079" offset="2124701">That's the way virtually all the statutes look.</text>
+            <text syncTime="496.931" offset="2132119">I mean, in this regard it's just a little different grammatically of the Federal murder statute, 20 U.S.C. 1... 1011.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="502.856" stopTime="514.436">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="502.856" offset="2155734">Enmund I think supports your position there, that you can't automatically transpose the mens rea for a felony to a killing and still have capital punishment for it.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="514.436" stopTime="539.270">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="514.436" offset="2202128">That's correct.</text>
+            <text syncTime="515.885" offset="2207874">And what's also... I mean, it's also Furman and Gregg and the other cases when they indicate that there has to be murder plus something, and it has to be done at some phase of the proceeding.</text>
+            <text syncTime="525.231" offset="2245282">It's not merely enough.</text>
+            <text syncTime="526.493" offset="2250297">There has to be a principled way to distinguish people within the class of those guilty of murder as who's deserving of death and who's not.</text>
+            <text syncTime="534.287" offset="2281540">And 118 does not do that.</text>
+            <text syncTime="536.109" offset="2288750">It just sets forth various theories under which you can be found guilty of murder.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="539.270" stopTime="552.010">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="539.270" offset="2301393">Under--</text>
+            <text syncTime="539.861" offset="2303796">--But, of course--</text>
+            <text syncTime="540.552" offset="2306617">--Excuse me.</text>
+            <text syncTime="541.353" offset="2309752">Under subsection 4, at least one of those is arguably out under Coker v. Georgia.</text>
+            <text syncTime="547.876" offset="2335874">Rape is the basis.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="552.010" stopTime="566.999">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="552.010" offset="2352384">Well, if that... well, if it were murder in the commission of a rape, I guess it would depend on what the intent was.</text>
+            <text syncTime="557.432" offset="2374118">But, I mean, I don't think in any event no one has ever argued... the Government has never even argued... that 118 standing alone is constitutionally sufficient.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="566.999" stopTime="583.470">
+            <label>Justice David H. Souter</label>
+            <text syncTime="566.999" offset="2412361">May I just go back to where your answer takes us?</text>
+            <text syncTime="569.120" offset="2420825">Assuming that there are aggravating factors added to these definitions, we're still left without mens rea, aren't we?</text>
+            <text syncTime="579.789" offset="2463561">The aggravating factors don't apply... don't supply mens rea.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="583.470" stopTime="585.820">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="583.470" offset="2478190">Well, that's true.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="585.820" stopTime="596.608">
+            <label>Justice David H. Souter</label>
+            <text syncTime="585.820" offset="2487594">So, why isn't your argument that there's no mens rea requirement and therefore there's something more fundamentally defective than simply the problem of delegation with respect to aggravating factors?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="596.608" stopTime="607.417">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="596.608" offset="2530748">Well, it's... there are a number of States in which you can be found guilty of murder, and then there has... under some type of felony murder basis, and then at sentencing there has to be some other additional finding, some other aggravating finding.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="607.417" stopTime="633.674">
+            <label>Justice David H. Souter</label>
+            <text syncTime="607.417" offset="2574007">No, but I thought your argument... I just want to understand your argument, and I thought your argument was, in response to Justice Scalia, that in fact that still leaves us with an incomplete murder statute because there's no mens rea requirement.</text>
+            <text syncTime="619.574" offset="2622699">Now, if we add, let's assume, with proper delegation or with congressional action a series of aggravating factors on top of it, we're still left with the problem which was the basis for your answer to him.</text>
+            <text syncTime="632.122" offset="2672854">Or do... what am I missing?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="633.674" stopTime="641.929">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="633.674" offset="2679019">Well my answer to Justice Scalia is, is that 118 is only a substantive murder statute.</text>
+            <text syncTime="641.099" offset="2708799">There has--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="641.929" stopTime="650.603">
+            <label>Justice David H. Souter</label>
+            <text syncTime="641.929" offset="2712038">No, but your answer was that it isn't even that.</text>
+            <text syncTime="644.410" offset="2721964">It's not a complete murder statute, and you said it was incomplete because there was no mens rea requirement.</text>
+            <text syncTime="650.052" offset="2744534">Right?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="650.603" stopTime="656.998">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="650.603" offset="2746728">--No.</text>
+            <text syncTime="651.304" offset="2749550">What I was trying to say is, is that all 118 does is provide four different theories under which you can be found guilty of murder.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="656.998" stopTime="660.380">
+            <label>Justice David H. Souter</label>
+            <text syncTime="656.998" offset="2772328">Yes, and I thought you said one of the things that it doesn't provide is mens rea.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="660.380" stopTime="667.206">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="660.380" offset="2785912">Under 118(4).</text>
+            <text syncTime="661.412" offset="2789987">118(1) is if you kill somebody with a premeditated design to kill.</text>
+            <text syncTime="665.784" offset="2807541">That's 118(1).</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="667.206" stopTime="680.504">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="667.206" offset="2813184">Right.</text>
+            <text syncTime="667.825" offset="2815692">But he's asking you if 4 is bad for that reason, why don't you make that direct attack on 4 and say that there's no requirement that he have had an intent to kill which our case law requires?</text>
+            <text syncTime="678.172" offset="2857070">Isn't that intent to kill read into this statute?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="680.504" stopTime="684.698">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="680.504" offset="2866369">No.</text>
+            <text syncTime="681.836" offset="2871698">I don't think there's any intent to kill read into 118(4).</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="684.698" stopTime="697.296">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="684.698" offset="2883192">Is that right?</text>
+            <text syncTime="685.356" offset="2885804">Well, then I guess the conviction is invalid no matter what.</text>
+            <text syncTime="687.870" offset="2895835">We have a... yes.</text>
+            <text syncTime="688.680" offset="2899074">We have a much more fundamental problem.</text>
+            <text syncTime="690.153" offset="2904926">Is there a conviction here for premeditated murder under 1 as well as under 4?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="697.296" stopTime="698.127">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="697.296" offset="2933556">There are two convictions.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="698.127" stopTime="698.748">
+            <label>Unknown Speaker</label>
+            <text syncTime="698.127" offset="2936900">I thought so.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="698.748" stopTime="700.588">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="698.748" offset="2939303">One for 118(1) and one for 118(4).</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="700.588" stopTime="702.541">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="700.588" offset="2946722">Yes.</text>
+            <text syncTime="701.119" offset="2948812">So, we have both before us here.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="702.541" stopTime="703.440">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="702.541" offset="2954559">That's true.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="703.440" stopTime="705.801">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="703.440" offset="2958111">And then why don't you proceed with the remaining parts of your argument?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="705.801" stopTime="731.020">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="705.801" offset="2967515">The... on the separation of powers issue, our most broad submission that this is a power which cannot be delegated.</text>
+            <text syncTime="715.759" offset="3007430">The core constitutional value, as Justice Scalia stated in Mistretta and as Chief Justice Rehnquist stated in Industrial Union, is that basic and critical policy choices governing society are to be made by the Congress, or, put differently, it's the hard choices and not the filling in of blanks which the Congress--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="731.020" stopTime="736.862">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="731.020" offset="3068452">So, you want us to hold that Congress could not delegate to the President this authority.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="736.862" stopTime="742.767">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="736.862" offset="3091858">--I think this particular power is nondelegatable.</text>
+            <text syncTime="740.225" offset="3105233">We have several challenges to it, but I think it is nondelegatable.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="742.767" stopTime="745.228">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="742.767" offset="3115473">And what is your best case for that proposition?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="745.228" stopTime="759.529">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="745.228" offset="3125295">The best... I think the fundamental problem with delegating this to the President, if you want to get down to the root of it... there are several problems with it, in addition to the history and wanting to keep the executive out of this power, but it creates the impermissible blending of functions.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="759.529" stopTime="763.023">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="759.529" offset="3182451">I asked what your best case was for that proposition.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="763.023" stopTime="772.516">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="763.023" offset="3196452">The best case I think would be Ex parte Milligan and Reid v. Covert where they say that if the President has the power to create substantive rules of law in court martial context, then you have the impermissible blending of functions.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="772.516" stopTime="776.049">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="772.516" offset="3234382">Ex parte Milligan didn't deal with any sort of delegation.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="776.049" stopTime="788.948">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="776.049" offset="3248593">It dealt... it makes the statement that if you... if the President has substantive rule making power, substantive... the power to define crimes in the court martial context.</text>
+            <text syncTime="784.794" offset="3283492">Milligan was about whether the declaration of war suspended civil jurisdiction.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="788.948" stopTime="793.792">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="788.948" offset="3300106">Well, you don't take the position that the aggravating factors are an element of the crime, do you?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="793.792" stopTime="796.795">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="793.792" offset="3319541">This Court has referred to aggravating circumstances--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="796.795" stopTime="797.466">
+            <label>Unknown Speaker</label>
+            <text syncTime="796.795" offset="3331558">I thought that was clear.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="797.466" stopTime="805.310">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="797.466" offset="3334274">--I think you have to look at... this Court has called aggravating circumstances substantive criteria at the level of legislative definition.</text>
+            <text syncTime="804.660" offset="3363009">That's why--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="805.310" stopTime="810.052">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="805.310" offset="3365621">Do you take the position that the aggravating circumstances are elements of the crime?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="810.052" stopTime="812.704">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="810.052" offset="3384534">--No.</text>
+            <text syncTime="810.613" offset="3386833">I take the position that they are substantive factors.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="812.704" stopTime="813.895">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="812.704" offset="3395192">No?</text>
+            <text syncTime="813.214" offset="3397177">The answer is no?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="813.895" stopTime="815.738">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="813.895" offset="3399894">This Court has said they are not elements of the crime.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="815.738" stopTime="816.787">
+            <label>Unknown Speaker</label>
+            <text syncTime="815.738" offset="3407313">Right.</text>
+            <text syncTime="816.126" offset="3408880">That's correct.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="816.787" stopTime="828.414">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="816.787" offset="3411492">But substantive procedure, Justice O'Connor, is a spectrum and things fall along a spectrum.</text>
+            <text syncTime="821.529" offset="3430510">And it's true that aggravating circumstances, this Court has repeatedly held, delimit the pool of persons eligible for the death penalty.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="828.414" stopTime="851.209">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="828.414" offset="3457990">We also held in a case like Curtiss Wright that where the President has independent authority in the field, then delegation standards are much more lax.</text>
+            <text syncTime="837.601" offset="3494771">And here the President... the Constitution makes the President commander in chief, so that I think that your argument may be weaker in this area than it might be just in an ordinary context where the President doesn't have independent authority.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="851.209" stopTime="853.212">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="851.209" offset="3549210">Well, the question--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="853.212" stopTime="871.204">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="853.212" offset="3557256">Or to put that another way, if there were one worst of all case in which to revive Schechter, surely it's a case dealing with the President's power as commander in chief.</text>
+            <text syncTime="862.528" offset="3594454">We haven't used Schechter at all in over half a century, and you want us to revive it in a case involving the President's power as commander in chief.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="871.204" stopTime="879.809">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="871.204" offset="3629145">--Absolutely, and I think with all due respect it is precisely because the President is commander in chief that he can't do this because--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="879.809" stopTime="932.346">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="879.809" offset="3663626">Mr. Blume, I understood you to have an anterior argument, and if I'm wrong, please tell me.</text>
+            <text syncTime="885.285" offset="3685465">I thought you were arguing that there had, in fact, been no delegation to the President because this statute was made unconstitutional by your reading of Furman.</text>
+            <text syncTime="899.773" offset="3743457">Let's assume for the moment that you're correct about that.</text>
+            <text syncTime="902.485" offset="3754323">And, therefore, any delegation that might have been given under some other regime was not given under a statute written to conform to the Furman decision.</text>
+            <text syncTime="917.365" offset="3813778">I thought that you were saying there hasn't been any delegation, so the Court doesn't have to reach the question what if Congress rewrote this statute post Furman and had a delegation in it.</text>
+            <text syncTime="930.493" offset="3866337">I thought that was your position.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="932.346" stopTime="960.202">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="932.346" offset="3873755">--That is... we make a range of arguments from the most broad to the most narrow.</text>
+            <text syncTime="936.135" offset="3888906">This is a nondelegatable power, which is the issue I was addressing, and then even if it is a delegatable power, that there has been no delegation here, that after 118 was invalidated by the military courts in Matthews, was found to be inadequate under Furman, that it was the Congress and not the President which had to come back and do something.</text>
+            <text syncTime="953.359" offset="3957765">And Congress did not authorize the President to create the aggravating factors in R.C.M. 1004.</text>
+            <text syncTime="958.502" offset="3978350">And I think--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="960.202" stopTime="977.202">
+            <label>Justice David H. Souter</label>
+            <text syncTime="960.202" offset="3985141">Does that... that argument assumes that the statute was invalid, I take it, from the moment of Furman and, therefore, the statute which authorizes the President to narrow the circumstances of imposition could not have applied to it because it didn't exist at that point.</text>
+            <text syncTime="976.064" offset="4048567">Is that your argument?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="977.202" stopTime="979.195">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="977.202" offset="4053164">--That's true.</text>
+            <text syncTime="978.414" offset="4057971">I mean, I think--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="979.195" stopTime="1022.583">
+            <label>Justice David H. Souter</label>
+            <text syncTime="979.195" offset="4061106">Why do we make that assumption?</text>
+            <text syncTime="980.334" offset="4065703">Why don't we assume, taking even a very broad reading of Furman, that what Furman required was, among other things, as we now see with the benefit of hindsight, some narrowing function, and that in fact the delegation to provide that narrowing function was on the books?</text>
+            <text syncTime="1002.070" offset="4152639">And, therefore, unless the delegation itself is unconstitutional, Furman did not automatically result in the obliteration of the statute, and the statute was saved under the authority of the President to narrow the imposition of the death penalty.</text>
+            <text syncTime="1018.221" offset="4217213">Why isn't that just as good as... an analysis as the one that you assume?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1022.583" stopTime="1063.990">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1022.583" offset="4234663">--Because I think you have to look at it pragmatically as it unfolded.</text>
+            <text syncTime="1026.336" offset="4249710">What I think that does is try and make sense of events which happened beforehand from a 1996 perspective.</text>
+            <text syncTime="1032.861" offset="4275832">Look at this as it unfolded.</text>
+            <text syncTime="1033.960" offset="4280221">In 1950, the Congress enacted a murder statute which set forth several theories of murder and said you can be sentenced to death or life in the unfettered discretion of the court martial under one of these two theories.</text>
+            <text syncTime="1045.567" offset="4326614">That's all it said.</text>
+            <text syncTime="1047.060" offset="4332570">Furman comes along and says the statute and all the statutes like these are unconstitutional, that something else has to happen.</text>
+            <text syncTime="1053.325" offset="4357648">There has to be marder plus something.</text>
+            <text syncTime="1055.445" offset="4366111">Now, what remained then was a murder statute with a penalty of life imprisonment under the doctrine of severability.</text>
+            <text syncTime="1062.149" offset="4392965">You severe out what's bad--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1063.990" stopTime="1065.211">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1063.990" offset="4400279">Well, that's a total--</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1065.211" stopTime="1065.912">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1065.211" offset="4405190">--and you keep what's good.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1065.912" stopTime="1070.385">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1065.912" offset="4408012">--That's a totally abstract approach to the thing.</text>
+            <text syncTime="1067.663" offset="4415012">This statute was never held unconstitutional.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1070.385" stopTime="1076.128">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1070.385" offset="4425879">It was held unconstitutional by the military courts in the United States v. Matthews.</text>
+            <text syncTime="1074.548" offset="4442598">They said this does not satisfy Furman.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1076.128" stopTime="1077.769">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1076.128" offset="4448867">And when did that happen?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1077.769" stopTime="1079.731">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1077.769" offset="4455450">In 1983, and that's what led to this.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1079.731" stopTime="1145.264">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1079.731" offset="4463287">Let me ask you this question, if I may.</text>
+            <text syncTime="1081.932" offset="4472064">What if this case had come directly to us, let's say, post Furman and we had said, well, the statute as it stands may not be applied because there is... there's no narrowing function provided for it and, therefore, it simply may not be... the death... the statute may not be applied, the death penalty may not be imposed unless and until the President engages in this narrowing function or somebody engages in this narrowing function, the President or Congress?</text>
+            <text syncTime="1114.703" offset="4603199">Following our decision, the President had promulgated some aggravating factors in discharge of his legal authority to provide a narrowing of the statute's application.</text>
+            <text syncTime="1128.554" offset="4658578">Would we have been bound to declare that invalid?</text>
+            <text syncTime="1134.048" offset="4680521">In other words, would there have been something wrong with our... constitutionally wrong with our analysis in saying merely the statute may not be applied unless and until narrowing takes place?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1145.264" stopTime="1151.188">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1145.264" offset="4725452">I think that you would be wrong to the extent that the President can do this.</text>
+            <text syncTime="1150.377" offset="4745827">I don't think--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1151.188" stopTime="1153.299">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1151.188" offset="4749066">No, but that's not my question.</text>
+            <text syncTime="1152.029" offset="4752514">That's not my question.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1153.299" stopTime="1156.100">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1153.299" offset="4757530">--The question is... then--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1156.100" stopTime="1163.056">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1156.100" offset="4768710">The question is, assuming the... that this authority can be delegated... just assume that for the sake of argument.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1163.056" stopTime="1163.697">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1163.056" offset="4796609">--Okay.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1163.697" stopTime="1193.787">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1163.697" offset="4799117">Would we have committed a constitutional error, as it were, would we have overlooked something constitutionally if we had said not that the statute is unconstitutional forever and ever, but that it may not be applied until there is some promulgation of narrowing standards?</text>
+            <text syncTime="1183.258" offset="4877380">And once there is, if there is, the statute may then be applied.</text>
+            <text syncTime="1187.232" offset="4893262">Would we have overlooked something if we had chosen that way to analyze the statute's defect?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1193.787" stopTime="1196.498">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1193.787" offset="4919489">No, and I think that's similar to what happened.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1196.498" stopTime="1224.956">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1196.498" offset="4930356">Then why may we not look back to the statute now and say that is the effect which we are going to give to Furman, assuming a broad reading of Furman, and therefore since you are not trying to... the military is not trying to impose the death penalty until after the narrowing promulgation... the narrowing standards have been promulgated, there's no constitutional defect?</text>
+            <text syncTime="1221.443" offset="5030144">What's... what is... is there any solecism involved in that?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1224.956" stopTime="1237.425">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1224.956" offset="5044146">Well, the constitutional... I think, one, it's not... you're sort of trying to carry forward some underlaying congressional intent for there to be a death penalty in this context, which is difficult to do under these circumstances.</text>
+            <text syncTime="1236.333" offset="5089703">And, two, it's the--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1237.425" stopTime="1238.404">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1237.425" offset="5094092">Well, I would have thought that was very easy to do.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1238.404" stopTime="1240.046">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1238.404" offset="5097958">--I don't know that that's--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1240.046" stopTime="1246.802">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1240.046" offset="5104541">Congress is not demanding narrowing.</text>
+            <text syncTime="1242.568" offset="5114676">Our cases have demanded narrowing based on a constitutional analysis.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1246.802" stopTime="1249.884">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1246.802" offset="5131603">--But if you're trying to say that--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1249.884" stopTime="1288.028">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1249.884" offset="5143933">The... I guess... let me go back to the basic.</text>
+            <text syncTime="1252.656" offset="5155009">The whole question is, do we have to assume that the statute ceased to exist for all purposes and therefore could not have been rendered constitutional by a later promulgation of narrowing standards, or do we have the option to analyze the problem by saying the statute simply could not be imposed until there had been a promulgation of narrowing standards?</text>
+            <text syncTime="1277.710" offset="5255215">If the latter analysis is open to us, then the assumption of your argument in fact is false and you'll have to go to a different argument.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1288.028" stopTime="1299.576">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1288.028" offset="5296488">--I don't understand... it seems to me that all roads lead to Rome if you use your analysis.</text>
+            <text syncTime="1294.033" offset="5320521">The bottom line is that 118 was invalid as a basis for imposing the death penalty.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1299.576" stopTime="1307.921">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1299.576" offset="5342673">Well, it depends on when you can get to Rome, and on my second analysis you can get to Rome later.</text>
+            <text syncTime="1303.776" offset="5359496">On your analysis, you can't get to Rome until somebody builds a new road.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1307.921" stopTime="1319.909">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1307.921" offset="5376005">And, well, there's no question, I don't think, that something else had to happen to bring this into compliance.</text>
+            <text syncTime="1313.984" offset="5400247">The military court said this statute violates Furman.</text>
+            <text syncTime="1317.046" offset="5412577">Somebody has to go out and create some aggravating circumstances.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1319.909" stopTime="1353.561">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1319.909" offset="5423966">Didn't the military court say precisely what Justice Souter said?</text>
+            <text syncTime="1322.911" offset="5435982">That the statute as... is... has an infirmity, and the court said, and there are two people who can cure it, two bodies who can cure it the executive, the President, or the legislature.</text>
+            <text syncTime="1334.338" offset="5481749">So, that was exactly the theory that the Matthews case put forward.</text>
+            <text syncTime="1338.372" offset="5497840">And I thought earlier you were saying that Matthews misread Furman in thinking that the President could provide the cure, that the only person who could... the only body that could provide the cure was the legislature.</text>
+            <text syncTime="1352.670" offset="5554996">I thought that was your argument.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1353.561" stopTime="1372.773">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1353.561" offset="5558653">I think that's correct.</text>
+            <text syncTime="1354.410" offset="5561997">They did misread.</text>
+            <text syncTime="1355.212" offset="5565236">They said the statute was invalid.</text>
+            <text syncTime="1356.531" offset="5570461">They said there had to be some additional aggravating circumstances, and then they said either the President or the Congress can do it.</text>
+            <text syncTime="1360.965" offset="5588224">They were wrong about whether the President can do it.</text>
+            <text syncTime="1363.466" offset="5598255">And now in this Court the issue is, one, can the President do it and, two, even if he can do it, has Congress allowed him to do it?</text>
+            <text syncTime="1370.783" offset="5627512">And I think the answer to both those questions is no.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1372.773" stopTime="1389.973">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1372.773" offset="5635453">But you said that the States reacted to Furman, all of them, by having the legislature do the repair job, but was there anything in this Court decision that required the narrowing to be declared by a State legislature, say, as opposed to the State's highest court?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1389.973" stopTime="1400.712">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1389.973" offset="5704208">There... all the language in Furman and Gregg and all the opinions indicates that this is a quintessential legislative function, that it is the legislatures which express the moral will of the people--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1400.712" stopTime="1410.478">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1400.712" offset="5747257">Do you know any case of our that imposes a separation of powers obligation upon the States?</text>
+            <text syncTime="1405.725" offset="5767215">I had thought, as far as our case law is concerned, that States can go to an English parliamentary system.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1410.478" stopTime="1423.347">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1410.478" offset="5786232">--This case does not present the question of whether there's a State separation of powers doctrine.</text>
+            <text syncTime="1414.060" offset="5800547">In this particular context, the answer may be if you had a State case, then at least in this limited regard, that the legislatures have to do this.</text>
+            <text syncTime="1422.205" offset="5833148">That's not presented here.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1423.347" stopTime="1425.026">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1423.347" offset="5837746">Just under the Eighth Amendment.</text>
+            <text syncTime="1424.529" offset="5842448">Nothing--</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1425.026" stopTime="1434.362">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1425.026" offset="5844433">Under the Eighth Amendment, and this Court has said... what is the Eighth Amendment concerned about?</text>
+            <text syncTime="1427.768" offset="5855404">The evolution of standards, which is found in legislative embodiments, the collective will of the people, and in regularization of punishment.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1434.362" stopTime="1445.339">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1434.362" offset="5881840">--I don't think it was concerned with that.</text>
+            <text syncTime="1435.724" offset="5887274">I thought it was concerned with avoiding flukish results, and flukish results can be avoided whether it's the legislature that promulgates the narrowing or anybody else.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1445.339" stopTime="1463.111">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1445.339" offset="5925726">It's my understanding that the Eighth Amendment has... concerns both, regularization of punishment, which is the nonarbitrariness, which is certainly not an executive function, and evolution of standards.</text>
+            <text syncTime="1455.156" offset="5965014">That's what, if you look at the categorical cases, they say, well, we're going to look at how society has evolved and where do we see that?</text>
+            <text syncTime="1460.130" offset="5984867">We see that in the collective will of the people, the legislatures.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1463.111" stopTime="1486.418">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1463.111" offset="5996779">What if you had a State that... where the legislature had never defined any crimes and the result was that the common law crimes simply evolved through the decisions of its highest court?</text>
+            <text syncTime="1471.408" offset="6030007">You're saying that the highest court of a State couldn't say if the crime had the elements that we said was necessary to meet the Eighth Amendment.</text>
+            <text syncTime="1480.555" offset="6066578">It couldn't be promulgated by the highest court rather than the legislature?</text>
+            <text syncTime="1484.365" offset="6081834">That's a very strange--</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1486.418" stopTime="1490.520">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1486.418" offset="6089984">Well, I mean, my argument is not contingent on that at all.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1490.520" stopTime="1491.101">
+            <label>Unknown Speaker</label>
+            <text syncTime="1490.520" offset="6106389">--Well, but--</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1491.101" stopTime="1499.766">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1491.101" offset="6108792">I'm saying in this particular context the Court has indicated it is a legislative responsibility to decide who should live and who should die.</text>
+            <text syncTime="1497.626" offset="6134914">It's a fundamental policy choice which should be made--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1499.766" stopTime="1529.266">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1499.766" offset="6143378">--I just want you to make in a sentence remain... your main argument.</text>
+            <text syncTime="1504.179" offset="6161037">If I assume that Furman talked about law and said the law to sentence someone to death has to be reasonably specific.</text>
+            <text syncTime="1513.434" offset="6198131">If the law prior to the regulations was not specific enough, the law after the regulations was specific enough.</text>
+            <text syncTime="1521.272" offset="6229478">Then you said, but the President does not have the authority to promulgate the regulations because?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1529.266" stopTime="1536.251">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1529.266" offset="6261452">--Because if you allow him to do so, it will create the impermissible blending of functions which is separate.</text>
+            <text syncTime="1534.789" offset="6283499">Look at all the things he does in this context.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1536.251" stopTime="1538.242">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1536.251" offset="6289350">That's the part I'd like you xx explain--</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1538.242" stopTime="1538.943">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1538.242" offset="6297292">He--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1538.943" stopTime="1555.032">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1538.943" offset="6300113">--a little bit because the President does things very often under very broad delegations of authority, and why does that general principle, the only case to the contrary being Schechter and Panama Refining I guess, not apply here?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1555.032" stopTime="1605.420">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1555.032" offset="6364479">--Well, on the issue... I understand you to be asking me why would this create the blending of functions problem, which is... I mean, there are a number of other... on that particular issue, if you look at it, he has executive prosecutorial power.</text>
+            <text syncTime="1566.402" offset="6409932">He supervises the judge advocate general who picks the prosecuting lawyer, the defense lawyer, the trial judge, and the judges on the intermediate court of appeals.</text>
+            <text syncTime="1573.465" offset="6438248">He also picks the convening authority.</text>
+            <text syncTime="1576.567" offset="6450578">He supervises the convening authority, the post commander who decides that this is a capital case and then who selects the court martial panel.</text>
+            <text syncTime="1582.872" offset="6475865">He, the President, then appoints the judges on the United States Court of Appeals for the Armed Forces.</text>
+            <text syncTime="1589.386" offset="6501883">He under 71(a) has clemency power.</text>
+            <text syncTime="1592.020" offset="6512436">So, now you're saying that not only does he prosecute the cases, not only does he supervise the judges, he has prosecutorial power and judicial power, but he also has the substantive power to define the class, the legislative power, the power to define the class of persons eligible for the death penalty.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1605.420" stopTime="1606.991">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1605.420" offset="6566039">Does he oppress people into the army?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1606.991" stopTime="1634.739">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1606.991" offset="6572309">No, they volunteer.</text>
+            <text syncTime="1608.723" offset="6579205">But still... I mean, the fact that the service members have... may have limited rights under certain circumstances, this Court has repeatedly held that that's true, that it is a separate society, and there are some things you can do to military people you can't do to others.</text>
+            <text syncTime="1621.673" offset="6631032">But it's also said on every single occasion that it is Congress' job not the President's.</text>
+            <text syncTime="1627.306" offset="6653602">The Framers specifically wanted to keep the President out of this, that they wanted the Congress to decide and to balance the rights of service members, not the President.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1634.739" stopTime="1657.053">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1634.739" offset="6683277">I should think it is obvious from our history that the degree of separation of powers that we insist upon in the rest of society we have not insisted upon in the system of justice in the military.</text>
+            <text syncTime="1648.808" offset="6739597">I mean, it has always been the case that at least the executive and the judicial functions have been combined.</text>
+            <text syncTime="1655.443" offset="6766137">Is that not true?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1657.053" stopTime="1690.095">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1657.053" offset="6772616">There has been some combination, but it's also that's why in Milligan and Reid v. Covert they said if the President can define crimes which is... although this is not strictly the definition of a crime, functionally it works much more like that.</text>
+            <text syncTime="1669.662" offset="6822980">Aggravating circumstances create the pool.</text>
+            <text syncTime="1671.922" offset="6832070">That's on a spectrum from beginning to end.</text>
+            <text syncTime="1673.975" offset="6840221">It's much closer to that.</text>
+            <text syncTime="1674.836" offset="6843669">Then the blending is complete.</text>
+            <text syncTime="1676.316" offset="6849625">And this Court, in the military context, has said the President cannot have all that power.</text>
+            <text syncTime="1680.888" offset="6867910">I mean, in a way they... sure, they do have less power, but are we going to tell the parents of these service members that, yes, join the army and if you commit a capital crime, you have absolutely no rights?</text>
+            <text syncTime="1688.704" offset="6899153">This Court has never said that.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1690.095" stopTime="1692.038">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1690.095" offset="6904691">But there's a different way to look at it--</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1692.038" stopTime="1692.699">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1692.038" offset="6912528">It's Congress' job.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1692.699" stopTime="1721.296">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1692.699" offset="6915140">--because the aggravating circumstances are not an element... are not elements of the crime.</text>
+            <text syncTime="1699.181" offset="6941053">And Congress has authorized the President to prescribe limitations on punishment, including for the death penalty, and that seems to be a pretty specific authorization.</text>
+            <text syncTime="1713.650" offset="6998941">So, viewed in that way, why isn't it properly viewed as a limitation on punishment that the President has prescribed?</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1721.296" stopTime="1723.087">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1721.296" offset="7029556">My time is up.</text>
+            <text syncTime="1722.345" offset="7033736">May I answer the question?</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1723.087" stopTime="1724.729">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1723.087" offset="7036661">You may answer the question, Mr. Blume.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1724.729" stopTime="1759.741">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1724.729" offset="7043244">Article 56 is what you're referring to, Justice O'Connor, but it has no applicability in a capital case.</text>
+            <text syncTime="1729.601" offset="7062784">All it says is the President can set maximum punishments.</text>
+            <text syncTime="1732.193" offset="7073128">That has no applicability here.</text>
+            <text syncTime="1734.644" offset="7082950">The maximum is set.</text>
+            <text syncTime="1735.585" offset="7086712">But if you look at the history of the Uniform Code of Military Justice and you see the history of article 56 and these other articles, Congress was attempting to make clear that only it had the power to decide when a service member should be sentenced to death.</text>
+            <text syncTime="1747.773" offset="7135404">The when otherwise... when authorized by this chapter, the penalty of death under article 18 was put in there to assure Members of Congress that only the Congress could decide when you got death and 56 has no applicability.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1759.741" stopTime="1761.051">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1759.741" offset="7183365">I think you've answered the question.</text>
+          </turn>
+          <turn speaker="john_h_blume" startTime="1761.051" stopTime="1761.712">
+            <label>Mr. John H. Blume</label>
+            <text syncTime="1761.051" offset="7188590">Thank you.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1761.712" stopTime="1763.932">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1761.712" offset="7191202">We'll hear now from you, Mr. Kneedler.</text>
+          </turn>
+        </section>
+        <section startTime="1763.932" stopTime="3458.605">
+          <heading>Argument of Edwin S. Kneedler</heading>
+          <turn speaker="edwin_s_kneedler" startTime="1763.932" stopTime="1836.090">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="1763.932" offset="7200083">Mr. Chief Justice, and may it please the Court--</text>
+            <text syncTime="1772.349" offset="7233729">The President acted within his statutory and constitutional authority when he promulgated rule for courts martial 1004 to limit the circumstances in which the death penalty, when otherwise specifically authorized by the Uniform Code of Military Justice, may be imposed.</text>
+            <text syncTime="1787.730" offset="7295274">If the President had promulgated rule 1004 in 1964 prior to Furman, rather than in 1984 after Furman, his action would have been applauded by most as enlightened and protective of the rights of service members and properly so.</text>
+            <text syncTime="1803.108" offset="7356818">The rule establishes important limitations on the imposition of the death penalty and therefore guards against the arbitrary or wanton imposition of that penalty that this Court was concerned about in Furman.</text>
+            <text syncTime="1815.517" offset="7406451">The rule establishes procedures to be followed by a court martial in determining whether to impose the penalty, and it provides that the death penalty may be imposed only when the court martial finds one of... at least one of enumerated factors, aggravating factors, that the President concluded warranted the imposition of the death penalty.</text>
+            <text syncTime="1834.889" offset="7483878">Few would have--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1836.090" stopTime="1846.358">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1836.090" offset="7488684">Was it clear in this case that it was the felony aspect of the homicides committed with premeditation that were the aggravators?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="1846.358" stopTime="1857.525">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="1846.358" offset="7529749">--There were three aggravating factors, one of which was the murder... the killing committed in the course of the felony, in the case the robbery.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1857.525" stopTime="1865.530">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1857.525" offset="7574470">Were they specific in their findings, or did they just say that they were all aggravated under C which is the felony murder--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="1865.530" stopTime="1885.151">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="1865.530" offset="7606444">The court martial found all three aggravating factors to be present as... they were required to identify which aggravating factors they relied upon.</text>
+            <text syncTime="1874.216" offset="7641239">And then once having done that, the court martial is left to determine whether the aggravating factors substantially outweigh any mitigating factors that have been advanced.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1885.151" stopTime="1909.468">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1885.151" offset="7684916">--Mr. Kneedler, supposing that the President had never promulgated these regulations, but that the military trial court judge had simply instructed, simply perhaps making them up or looking at cases and saying I think we need these, would the defendant have standing to object that they had not been promulgated by either Congress or the President?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="1909.468" stopTime="1921.356">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="1909.468" offset="7782196">I think you would have standing to object that there were not pre specified factors and procedures to guide the court martial.</text>
+            <text syncTime="1920.665" offset="7827022">Now, whether that--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1921.356" stopTime="1922.988">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1921.356" offset="7829739">But they were all beneficial to him.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="1922.988" stopTime="1955.990">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="1922.988" offset="7836322">--That's correct.</text>
+            <text syncTime="1924.268" offset="7841442">Now, whether or not such a claim would be meritorious is different.</text>
+            <text syncTime="1927.700" offset="7855130">I was just addressing the question of standing.</text>
+            <text syncTime="1929.212" offset="7861190">And under Furman, the... what the Court was concerned about was that the death penalty had been imposed under a scheme that allowed for too high a risk that the death penalty may be imposed or may be imposed in a particular case in an arbitrary or wanton manner.</text>
+            <text syncTime="1948.795" offset="7939558">And that's what the President addressed by narrowing the circumstances under which the death penalty may be imposed.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1955.990" stopTime="1962.662">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1955.990" offset="7968292">Mr. Kneedler, did he narrow... is there a... an intent to kill requirement in section 918?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="1962.662" stopTime="1973.789">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="1962.662" offset="7995042">In paragraph 1, there is.</text>
+            <text syncTime="1967.016" offset="8012387">There has to be a... it has to be premeditated.</text>
+            <text syncTime="1969.889" offset="8023881">Under 118(4), it's... it is sufficient--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1973.789" stopTime="1976.762">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1973.789" offset="8039554">Accidental killing would be enough to impose the death penalty under 4?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="1976.762" stopTime="1988.312">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="1976.762" offset="8051362">--In the... if... in this... under 118(4), the crime is defined as a killing committed in the course of a felony, including robbery.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1988.312" stopTime="1988.910">
+            <label>Unknown Speaker</label>
+            <text syncTime="1988.312" offset="8097651">That's--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="1988.910" stopTime="1992.433">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="1988.910" offset="8099950">The aggravating factors provide... for 118(4)--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1992.433" stopTime="1995.796">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1992.433" offset="8114056">--I'm asking just about 4, not the aggravating factors.</text>
+            <text syncTime="1994.657" offset="8122937">Suppose--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="1995.796" stopTime="1996.347">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="1995.796" offset="8127535">--4--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1996.347" stopTime="2008.254">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1996.347" offset="8129729">--Suppose I drop a gun during a holdup.</text>
+            <text syncTime="1999.358" offset="8141746">The guns goes off and kills somebody.</text>
+            <text syncTime="2001.599" offset="8150732">Is that enough to satisfy the requirements of 10 U.S.C., section 918 (4)?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2008.254" stopTime="2027.808">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2008.254" offset="8177377">--That... I believe that would be sufficient to satisfy 118(4).</text>
+            <text syncTime="2012.979" offset="8196289">It would not be sufficient to satisfy this Court's Eighth Amendment jurisprudence.</text>
+            <text syncTime="2016.381" offset="8209873">But in this case the aggravating factor includes the... the one relied upon in this case is that the defendant was the triggerman in this case.</text>
+            <text syncTime="2026.686" offset="8251146">He committed the killing.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2027.808" stopTime="2032.269">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2027.808" offset="8255639">Yes, but that still doesn't get you to intent and the aggravating factor isn't an element.</text>
+            <text syncTime="2030.599" offset="8266715">How does the rescue the statute?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2032.269" stopTime="2041.786">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2032.269" offset="8273403">Well, for purposes of the death penalty, the aggravating factor limits... in this case limits the imposition of the death penalty in circumstances to where the defendant was the triggerman.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2041.786" stopTime="2044.317">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2041.786" offset="8311541">Well, it may limit it but it doesn't provide the missing element.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2044.317" stopTime="2063.962">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2044.317" offset="8321677">Well, the element of 118(4)... I misunderstood.</text>
+            <text syncTime="2048.982" offset="8340276">The element for 118(4) for the crime of murder does not require an intent to kill under 118(4) where you have felony murder.</text>
+            <text syncTime="2058.029" offset="8376430">He has to intend to commit the robbery, and in this case he was also--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2063.962" stopTime="2065.170">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2063.962" offset="8400253">Is that sufficient?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2065.170" stopTime="2067.773">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2065.170" offset="8405060">--Well, in this case he was also the triggerman.</text>
+            <text syncTime="2067.034" offset="8412479">It's sufficient to convict--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2067.773" stopTime="2072.806">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2067.773" offset="8415404">Yes, but the triggerman... that's--</text>
+            <text syncTime="2068.864" offset="8419793">--The triggerman can do it accidentally.</text>
+            <text syncTime="2070.393" offset="8425958">That's still enough.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2072.806" stopTime="2080.601">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2072.806" offset="8435571">--Well, that would be... that's enough to convict him of murder.</text>
+            <text syncTime="2076.197" offset="8449154">There's the further question of whether it's sufficient under this Court's Eighth Amendment jurisprudence--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2080.601" stopTime="2081.233">
+            <label>Unknown Speaker</label>
+            <text syncTime="2080.601" offset="8466813">Right.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2081.233" stopTime="2093.733">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2081.233" offset="8469321">--to impose the death penalty, and that's where the aggravating factor comes in that he was the triggerman.</text>
+            <text syncTime="2086.636" offset="8490950">Now, in this case there was that he also, it seems quite clear, intentionally killed both taxi drivers.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2093.733" stopTime="2097.202">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2093.733" offset="8519267">You can have an accidental triggerman, can't you?</text>
+            <text syncTime="2096.454" offset="8530134">I mean--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2097.202" stopTime="2098.945">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2097.763" offset="8535359">You could.</text>
+            <text syncTime="2098.284" offset="8537448">I mean, that--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2098.945" stopTime="2104.287">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2098.945" offset="8540165">--Well, but your... the basic introduction to the statute says unlawfully kills.</text>
+            <text syncTime="2102.849" offset="8555734">It doesn't just say kills.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2104.287" stopTime="2160.995">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2104.287" offset="8561481">--Right, and there would have to be presumably some level of culpability, recklessness or gross negligence or something like that.</text>
+            <text syncTime="2112.823" offset="8595649">But in this case the petitioner has not challenged the substance of the aggravating factors or the court martial's finding of guilt for either 118(1) or 118(4).</text>
+            <text syncTime="2124.360" offset="8641834">All that has been challenged in this case is not the substance of the aggravating factors, but whether the President could properly promulgate them.</text>
+            <text syncTime="2130.675" offset="8667016">And as to that question, we think the answer is clearly yes.</text>
+            <text syncTime="2133.957" offset="8680181">Three provisions of the Uniform of Code of Military Justice are relevant to this case and in our view specifically authorize the President to promulgate factors in these circumstances.</text>
+            <text syncTime="2143.544" offset="8718529">Those are articles 18, 36, and 56.</text>
+            <text syncTime="2146.375" offset="8729814">Article 18 in particular provides that the court martial, quote, may under such limitations as the President may prescribe, comma, adjudge any punishment not forbidden by this chapter, including the penalty of death when specifically authorized.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2160.995" stopTime="2195.267">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2160.995" offset="8788328">Mr. Kneedler, may I interrupt you at this point?</text>
+            <text syncTime="2162.284" offset="8793448">Because you are assuming that a statute written before Furman with this regime can govern afterwards.</text>
+            <text syncTime="2172.813" offset="8835662">In other words, you're assuming the correctness of the military court's position in Matthews that there was an infirmity, the lack of narrowing circumstances, and that that infirmity could be cured by the executive or by the legislature.</text>
+            <text syncTime="2188.193" offset="8897102">So, you're rejecting Mr. Blume's first point.</text>
+            <text syncTime="2191.273" offset="8909432">You're assuming that that's not worth arguing.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2195.267" stopTime="2219.915">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2195.267" offset="8925419">Well, we think that's not correct, and as you pointed out, the rationale of the decision in Matthews was not that the death authorizing provision in 118 was unconstitutional and had to be stricken.</text>
+            <text syncTime="2206.016" offset="8968469">To the contrary, the court in Matthews concluded that the statute was still valid and specifically contemplated that the President could promulgate the aggravating factors and indeed contemplated that those could then be applied in the case of Matthews himself.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2219.915" stopTime="2221.087">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2219.915" offset="9024057">My question--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2221.087" stopTime="2221.738">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2221.087" offset="9028655">Now, the President did not do that.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2221.738" stopTime="2224.847">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2221.738" offset="9031267">--My question to you is, was Matthews right to that extent?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2224.847" stopTime="2238.096">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2224.847" offset="9043701">Yes.</text>
+            <text syncTime="2225.478" offset="9046314">We think Matthews was correct because there's nothing in this Court's... in Furman or this Court's Eighth Amendment jurisprudence that establishes the separation of powers principle requiring that it be a legislature to prescribe the aggravating factors.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2238.096" stopTime="2255.037">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2238.096" offset="9096782">Well, not so far as the State level is concerned, as Justice Scalia asked... said.</text>
+            <text syncTime="2241.058" offset="9108590">I don't know anything that requires the States to have any particular separation of powers.</text>
+            <text syncTime="2244.941" offset="9124159">But the... on the Federal level, the Constitution does require the division that we know between the legislature and the executive.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2255.037" stopTime="2327.496">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2255.037" offset="9164492">Right, and under the Federal system we believe the Matthews court got it right as well because in the military justice system, the... using the Furman framework, what the Matthews court found was that the overall system for determining whether death shall be imposed did not sufficiently protect against the arbitrary imposition of the death penalty.</text>
+            <text syncTime="2275.550" offset="9246516">Well, in the military the system is erected by the combined power of Congress in passing statutes, in this case a statute both authorizing the imposition of the death penalty and authorizing the President to establish procedures and limits on the penalties, and of course, the President's powers both pursuant to that statute and pursuant to his inherent authority as commander in chief.</text>
+            <text syncTime="2295.435" offset="9326137">So, the... particularly in the military context, we think that the separation of powers argument does not carry any force because the President has preexisting inherent authority which is aided and augmented by the Congress in the Uniform Code of Military Justice.</text>
+            <text syncTime="2311.483" offset="9390294">The Matthews court recognized that and said all we are holding is that the system currently in place, as erected by the combined powers of the Congress and the President, is not sufficient, but either one can cure the defect we've identified.</text>
+            <text syncTime="2324.273" offset="9441494">And, of course, the President immediately did exactly that.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2327.496" stopTime="2336.412">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2327.496" offset="9454346">In a non military case, could Congress have the authority to delegate the power to the President to specify aggravating factors for capital offenses?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2336.412" stopTime="2338.322">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2336.412" offset="9489977">We think--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2338.322" stopTime="2340.362">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2338.322" offset="9497605">It's obviously a much different case--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2340.362" stopTime="2366.749">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2340.362" offset="9505755">--Yes, and I would think Congress... we think Congress could delegate that power under Mistretta.</text>
+            <text syncTime="2343.125" offset="9516831">The delegation of the authority to the sentencing commission was sustained, and whether it would go to the President would not be a question of delegation.</text>
+            <text syncTime="2351.050" offset="9548596">The Court had a footnote in Mistretta putting to one side the question of delegation to the executive, but on the military justice system where the President sits at the... as commander in chief sits at the head of the military and the military justice system, he's uniquely positioned.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2366.749" stopTime="2383.773">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2366.749" offset="9611394">--Turning back to the hypothetical case of delegation in the civil... or the non military context, is your statement that the delegation would be permitted based on the premise that this is a procedural act versus a substantive act?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2383.773" stopTime="2385.152">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2383.773" offset="9679417">Well--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2385.152" stopTime="2386.865">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2385.152" offset="9684955">The act of aggravating?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2386.865" stopTime="2463.645">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2386.865" offset="9691852">--Well, we do believe it's procedural as it has been... as was described in Dobbert and other cases.</text>
+            <text syncTime="2391.887" offset="9711914">But also in Mistretta, the Court addressed that very question and said that this may be in a gray area between substance and procedure, but notwithstanding that, it may be a sign to the sentencing commission.</text>
+            <text syncTime="2403.624" offset="9758830">There's another important distinction between this case and Mistretta, and that is in this case all the President is doing is imposing a limit on the sentences, unlike in Mistretta in the sentencing guidelines.</text>
+            <text syncTime="2413.541" offset="9798536">There's no floor.</text>
+            <text syncTime="2414.282" offset="9801461">There's no minimum prescribed by the President here.</text>
+            <text syncTime="2416.093" offset="9808776">So, the President's authority is entirely ameliorative both as authorized in articles 18 and 56 and also in practice.</text>
+            <text syncTime="2424.230" offset="9841272">What the President has done is impose limits.</text>
+            <text syncTime="2426.771" offset="9851408">We think that that confirms that this power was confirmed... was conferred for the benefit of service members and that in fact that's the way that it operates.</text>
+            <text syncTime="2436.416" offset="9890069">When the power was first given to the President expressly by statute in 1890 to impose limitations on sentences established by court martial... courts martial, that was done for really two reasons.</text>
+            <text syncTime="2449.265" offset="9941373">One was the concern about a lack of uniformity in the sentences imposed by courts martial and also by concerns that those sentences may in many cases be excessive.</text>
+            <text syncTime="2457.740" offset="9975332">Both of those are the sorts of concerns that animated this Court's decision in Furman and subsequent cases.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2463.645" stopTime="2480.745">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2463.645" offset="9998947">If Congress had enacted a statute or a scheme where there were four aggravating factors and then the President added, say, four more, you wouldn't consider that as being ameliorative or limiting, would you?</text>
+            <text syncTime="2474.630" offset="10042833">Because then President is expanding the universe of offenses that are subject to capital punishment.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2480.745" stopTime="2481.366">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2480.745" offset="10067388">Well--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2481.366" stopTime="2487.810">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2481.366" offset="10069791">The specification of aggravating factors is... isn't always a limiting function.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2487.810" stopTime="2510.775">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2487.810" offset="10095600">--No, but under the statutory authorization in this case in article 18 and 56, we think that it clearly has that effect, and that was the purpose that was behind Congress... Congress' giving that power to the President was to ensure some rationality and consistency with sentences.</text>
+            <text syncTime="2505.181" offset="10165086">And Congress concluded that the commander in chief was the natural officer to provide for that.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2510.775" stopTime="2520.592">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2510.775" offset="10187447">Whether aggravating... the specification of aggravating factors are limiting or not limiting, it seems to me is quite important given article 56.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2520.592" stopTime="2523.935">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2520.592" offset="10226735">Well, both article 56 and article 18.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2523.935" stopTime="2524.776">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2523.935" offset="10240110">And article 18.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2524.776" stopTime="2553.646">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2524.776" offset="10243453">Right.</text>
+            <text syncTime="2525.397" offset="10245961">Petitioner argues that article 56 makes no reference to the death penalty and then somehow the President's authority to limit sentences doesn't apply to the death penalty.</text>
+            <text syncTime="2534.132" offset="10280861">Well, article 18, which establishes the jurisdiction and concomitant sentencing authority of the courts martial, specifically refers to the sentence of death.</text>
+            <text syncTime="2542.560" offset="10314611">It says that the... a court martial shall have jurisdiction over all offenses and also may impose any punishment authorized by the code and not specifically forbidden by it.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2553.646" stopTime="2560.441">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2553.646" offset="10358914">If the President tomorrow were to add a further list of aggravating factors, would this be limiting the punishment, do you think?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2560.441" stopTime="2571.418">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2560.441" offset="10386082">Well, if Congress... Congress would be expanding the category of cases in which the death penalty may now be imposed under what the President--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2571.418" stopTime="2573.448">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2571.418" offset="10430072">No.</text>
+            <text syncTime="2571.949" offset="10432162">My assumption is, is that the President tomorrow--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2573.448" stopTime="2574.259">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2573.448" offset="10438118">--I'm sorry.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2574.259" stopTime="2579.763">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2574.259" offset="10441357">--enacts of further list of aggravating factors.</text>
+            <text syncTime="2576.631" offset="10450866">It would be a little bit hard to say that that limits the death penalty.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2579.763" stopTime="2594.052">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2579.763" offset="10463404">Well, but I think for constitutional purposes, what Congress has done is authorized the death penalty in any case falling within 118, and what the President has done is draw back from that and limit the circumstances in which the death penalty may be imposed.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2594.052" stopTime="2596.272">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2594.052" offset="10520560">In the hypothetical, I asked how is that limiting.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2596.272" stopTime="2603.899">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2596.272" offset="10529442">Because prior to the promulgation of rule 1004, the court martial could have imposed the death penalty in any case.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2603.899" stopTime="2608.390">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2603.899" offset="10559953">No, no.</text>
+            <text syncTime="2604.600" offset="10562774">My hypothetical is that tomorrow he adds a further list of aggravating factors.</text>
+            <text syncTime="2607.322" offset="10573641">I'm asking how that is limiting.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2608.390" stopTime="2615.817">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2608.390" offset="10577925">Right.</text>
+            <text syncTime="2608.941" offset="10580119">I... my point about limitation is only what the President is limiting from the universe of cases Congress has authorized the death penalty--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2615.817" stopTime="2617.948">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2615.817" offset="10607600">In limiting the statutory authorization--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2617.948" stopTime="2618.478">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2617.948" offset="10616168">--Right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2618.478" stopTime="2620.719">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2618.478" offset="10618258">--not the constitutional authorization is your point.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2620.719" stopTime="2634.587">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2620.719" offset="10627244">That... that's correct.</text>
+            <text syncTime="2621.660" offset="10631006">The President has drawn back from the category of cases and therefore satisfies the concerns in this Court's Eighth Amendment jurisprudence by genuinely narrowing.</text>
+            <text syncTime="2631.766" offset="10671443">And, again, petitioner doesn't claim that there's not a genuine narrowing.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2634.587" stopTime="2651.861">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2634.587" offset="10682728">But to say that it's ameliorative is a little bit playing with words I think because without these regulations issued by the President, nobody could have been sentenced to death.</text>
+            <text syncTime="2646.795" offset="10731525">With the regulations issued by the President, if they're valid, people can be sentenced to death.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2651.861" stopTime="2698.121">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2651.861" offset="10751796">Right.</text>
+            <text syncTime="2652.640" offset="10754931">I'm addressing here... and let me make myself clear.</text>
+            <text syncTime="2655.304" offset="10765589">I'm addressing here the question of whether the relevant articles of the Uniform of Code of Military Justice should be read as a statutory matter to authorize the President to do this.</text>
+            <text syncTime="2664.597" offset="10802787">And we think that question really has to be analyzed without regard to the intervening decision in Furman.</text>
+            <text syncTime="2668.860" offset="10819819">And if one puts Furman to one side and we have a regime, as we did prior to rule 1004's promulgation in which it was essentially up to the court martial to decide whether to impose the death penalty or not, and the President then establishes a regime under which a far narrower category of cases would be eligible for the death penalty, we think that, as I said at the outset, that that would have been regarded by most as an enlightened and ameliorative sort of undertaking by the President--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2698.121" stopTime="2704.277">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2698.121" offset="10936848">Simply because narrowing factors categorically limit.</text>
+            <text syncTime="2702.254" offset="10953357">I mean, that's in a nutshell.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2704.277" stopTime="2707.059">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2704.277" offset="10961507">--Right.</text>
+            <text syncTime="2704.867" offset="10963806">That's exactly right, and therefore we--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2707.059" stopTime="2715.624">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2707.059" offset="10972583">So, any narrowing... any aggravating factor should be subsumed in that category, and if you subsume it in that category, it is in fact performing a limiting function.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2715.624" stopTime="2716.535">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2715.624" offset="11006856">--That's correct and--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2716.535" stopTime="2725.121">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2716.535" offset="11010513">Perhaps we shouldn't call them narrowing factors because the same thing is true about any narrowing factor.</text>
+            <text syncTime="2720.176" offset="11025037">It's really an expanding factor.</text>
+            <text syncTime="2721.428" offset="11030052">If a State does not adopt them, the State cannot impose the death penalty.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2725.121" stopTime="2744.322">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2725.121" offset="11044890">--Right.</text>
+            <text syncTime="2725.959" offset="11048234">But for these purposes... and we think particularly for whether the code should be read to authorize the President to adopt these factors, we think it would be odd, indeed, if Congress had withheld from the commander in chief the authority to narrow the circumstances in which courts martial, convened under his ultimate authority, may impose the death penalty.</text>
+            <text syncTime="2743.192" offset="11117092">And there--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2744.322" stopTime="2759.112">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2744.322" offset="11121690">I still think there's a problem.</text>
+            <text syncTime="2745.603" offset="11126810">Are you... you're not saying, are you, that the President... if the President promulgates five aggravating circumstances, that's somewhat ameliorating, but if he promulgates 15 aggravating circumstances, that's even more ameliorating?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2759.112" stopTime="2768.247">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2759.112" offset="11180831">--No.</text>
+            <text syncTime="2759.743" offset="11183339">I would think in common parlance, that would be less so.</text>
+            <text syncTime="2763.324" offset="11197654">Again, I am addressing the question of whether Congress should be thought to have withheld from the President--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2768.247" stopTime="2774.012">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2768.247" offset="11217298">The reason I brought that up... and I still have some trouble... is because articles 18 and is it 50?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2774.012" stopTime="2774.973">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2774.012" offset="11240390">--56.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2774.973" stopTime="2788.143">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2774.973" offset="11244257">56.</text>
+            <text syncTime="2775.544" offset="11246555">You talk about the President limiting the punishment, and I had thought that was a very strong argument for his delegation authority in this case.</text>
+            <text syncTime="2783.709" offset="11279156">But I'm having a problem in that I don't think that expanding the universe is a limitation.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2788.143" stopTime="2800.549">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2788.143" offset="11296919">Well, it's always limiting whenever the President is permitting the death penalty in less than the full category of cases that Congress has authorized.</text>
+            <text syncTime="2797.747" offset="11335372">And, again, when the Congress gave the President the power--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2800.549" stopTime="2806.843">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2800.549" offset="11346552">Except that assuming Furman applies to the military and is applicable here, the Congress can't do that under this statute.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2806.843" stopTime="2808.014">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2806.843" offset="11371734">--I'm sorry.</text>
+            <text syncTime="2807.564" offset="11374660">Congress--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2808.014" stopTime="2812.438">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2808.014" offset="11376436">Assuming the applicability of Furman here, that statute is not operative.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2812.438" stopTime="2839.646">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2812.438" offset="11394095">--Well, the court in Matthews did not so hold.</text>
+            <text syncTime="2815.650" offset="11406947">What the court held is that the death penalty could not be imposed under that statute unless something further happened to prevent the arbitrary imposition, which is what the President did in filling it up.</text>
+            <text syncTime="2825.847" offset="11447698">But we think that there are... given the special concerns with the death penalty in the Uniform Code of Military Justice, it would be perverse to conclude that Congress withheld from the President power over that.</text>
+            <text syncTime="2837.884" offset="11495868">There's automatic appellate review of that--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2839.646" stopTime="2888.237">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2839.646" offset="11502973">Well, Mr. Kneedler, let's go back to the... putting Furman in because that's the big question.</text>
+            <text syncTime="2843.737" offset="11519274">It would be perverse.</text>
+            <text syncTime="2845.109" offset="11524812">All of this is highly speculative because Congress passed this regime with article 18, 36, 56 long before there was a Furman.</text>
+            <text syncTime="2853.655" offset="11558980">So, it's now going back and saying if Congress knew about Furman, it would have done the same thing.</text>
+            <text syncTime="2861.279" offset="11589491">And I know about the special context in which we're operating, but can you give me an example of any other situation in which there is a constitutional flaw, as the military court said, in a statute and the executive is allowed to do the repair job?</text>
+            <text syncTime="2884.814" offset="11683636">Is there any other example that comes to mind?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2888.237" stopTime="2905.629">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2888.237" offset="11697324">--I... with all respect, I would respond by saying the problem was not in the statute but in the overall scheme in which the death penalty was assessed, and this is the framework for imposition of the penalties.</text>
+            <text syncTime="2900.716" offset="11747270">It would be very much like a situation where any agency had rule making authority and--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2905.629" stopTime="2913.384">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2905.629" offset="11766914">I thought, am I wrong, that the military court said this statutory regime, as it now exists, won't do.</text>
+            <text syncTime="2911.782" offset="11791470">There must be something more--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2913.384" stopTime="2914.005">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2913.384" offset="11797843">--No.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2914.005" stopTime="2915.815">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2914.005" offset="11800351">--added to what Congress has legislated.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2915.815" stopTime="3012.371">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2915.815" offset="11807666">What the court said is the death penalty may not be imposed under the combination of situations that were then available, but specifically said that the President could fill up that gap by... under his article 36 authority.</text>
+            <text syncTime="2930.975" offset="11868270">And this is... it's something like a severability question.</text>
+            <text syncTime="2936.249" offset="11889377">Does the bare authorization from Congress survive or not?</text>
+            <text syncTime="2939.392" offset="11901915">And the Matthews court said clearly that it does.</text>
+            <text syncTime="2942.045" offset="11912573">It's clear we think that Congress wanted the death penalty to be available in appropriate cases in the military.</text>
+            <text syncTime="2947.729" offset="11935248">And when you combine that with a... with provisions... the Uniform Code of Military Justice has a severability clause, and when you combine it too with provisions for the President to adopt limitations on punishment and to establish procedures under article 36, we think it's clear, that putting all those together, that the Matthews court got it right in not striking down the death penalty authorization in article 118 altogether.</text>
+            <text syncTime="2971.902" offset="12032005">I should also say that what we have here is the combined judgment of not only the President of the United States, as advised by the Justice Department and the Secretary of Defense when he promulgated rule 1004, but also the Court of Military Appeals in Matthews itself and later in Curtis and finally by Congress a year after the promulgation of rule 1004 when Congress enacted the special espionage provision.</text>
+            <text syncTime="2995.628" offset="12126882">Congress identified aggravating factors, but then went on to say plus any other aggravating factor adopted by the President pursuant to article 36, thereby recognizing that the President had this authority under article 36, and the legislative history of that 1985 enactment makes that clear.</text>
+            <text syncTime="3011.469" offset="12190203">So, we have the--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3012.371" stopTime="3030.332">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3012.371" offset="12193860">Mr. Kneedler, help me out here.</text>
+            <text syncTime="3014.452" offset="12202114">This may be a little bit beside the path, but it's just bugging me.</text>
+            <text syncTime="3016.942" offset="12212146">I cannot figure out where the intent to kill requirement in article 118 comes from.</text>
+            <text syncTime="3023.538" offset="12238477">All the President has added to the text by his order is that the defendant be the actual perpetrator of the killing.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3030.332" stopTime="3030.801">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3030.332" offset="12265644">--That's right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3030.801" stopTime="3032.703">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3030.801" offset="12267525">You can perpetrate the killing without intending to kill.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3032.703" stopTime="3041.448">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3032.703" offset="12275153">Right.</text>
+            <text syncTime="3033.214" offset="12277243">I did not mean to suggest that the... first of all, 118 doesn't contain that intent requirement, but the aggravating factor--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3041.448" stopTime="3048.044">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3041.448" offset="12310157">Is that you be the perpetrator.</text>
+            <text syncTime="3043.239" offset="12317262">But you do say there is an intent to kill requirement in 118, or isn't there?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3048.044" stopTime="3050.678">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3048.044" offset="12336488">--No, there's not... no.</text>
+            <text syncTime="3049.025" offset="12340459">In 118... no, I'm sorry.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3050.678" stopTime="3051.128">
+            <label>Unknown Speaker</label>
+            <text syncTime="3050.678" offset="12347042">There isn't.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3051.128" stopTime="3052.619">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3051.128" offset="12348818">I misspoke if I said that.</text>
+            <text syncTime="3051.657" offset="12351012">118(4) does not--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3052.619" stopTime="3056.462">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3052.619" offset="12354879">No, no.</text>
+            <text syncTime="3053.159" offset="12356968">By... it hasn't been imported into it by the presidential order and--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3056.462" stopTime="3058.071">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3056.462" offset="12370239">--In 118--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3058.071" stopTime="3065.047">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3058.071" offset="12376612">--So, is it now... as it now stands, I guess that means 118(4) is invalid, constitutionally invalid.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3065.047" stopTime="3074.873">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3065.047" offset="12404511">--Again, for the substantive offense it's not invalid because there's... Congress does not have to have an intent requirement in a murder statute.</text>
+            <text syncTime="3072.723" offset="12435231">Then the only question is--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3074.873" stopTime="3075.704">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3074.873" offset="12443799">The death penalty.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3075.704" stopTime="3084.170">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3075.704" offset="12447143">--what limitations may be imposed for the death penalty.</text>
+            <text syncTime="3078.887" offset="12459891">And as to that, again there has been no claim here that the aggravating factor is substantively--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3084.170" stopTime="3114.510">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3084.170" offset="12480998">I don't want to make matters worse, but as I read this, at least on page 4 of the petitioner's appendix where they have it here, the aggravating factors in respect to robbery, felony murder, et cetera apply only in the case of violation of article 118(1), and article 118(1) is the article that says you have to have premeditation.</text>
+            <text syncTime="3111.489" offset="12590294">So, am I right about that?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3114.510" stopTime="3119.093">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3114.510" offset="12602415">--Yes.</text>
+            <text syncTime="3115.181" offset="12605132">Paragraph 8, which is reproduced immediately before that--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3119.093" stopTime="3123.688">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3119.093" offset="12620701">Oh, it's paragraph--</text>
+            <text syncTime="3119.874" offset="12623835">--H.--</text>
+            <text syncTime="3120.285" offset="12625507">--in other words.</text>
+            <text syncTime="3122.538" offset="12634493">It's H.--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3123.688" stopTime="3133.775">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3123.688" offset="12639091">--No, 8.</text>
+            <text syncTime="3124.439" offset="12642121">Number 8 addresses the circumstances under article 118(4) for felony murder, and in that case it says where the accused was the actual perpetrator of the--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3133.775" stopTime="3164.934">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3133.775" offset="12679424">--Well, then I'm, with Justice Scalia, somewhat confused because of the... 118(4) does permit conviction of a person engaged in robbery who, let's say, negligently and therefore unlawfully without excuse or justification kills someone else.</text>
+            <text syncTime="3156.189" offset="12769076">And that, provided he's the person who did it negligently and therefore unlawfully, would permit the imposition of the death penalty.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3164.934" stopTime="3168.807">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3164.934" offset="12804080">--If negligence is sufficient to satisfy the unlawful requirement, and I'm not--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3168.807" stopTime="3170.219">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3168.807" offset="12819545">Or, let's say, gross negligence or whatever.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3170.219" stopTime="3174.654">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3170.219" offset="12825187">--And I'm not sure what it is.</text>
+            <text syncTime="3170.780" offset="12827486">But he would have to have specific intent with respect to the robbery.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3174.654" stopTime="3182.909">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3174.654" offset="12842950">This person has been convicted under number 8, which I hadn't focused on.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3182.909" stopTime="3184.018">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3182.909" offset="12875969">The aggravating factor, and that was--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3184.018" stopTime="3201.460">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3184.018" offset="12880462">And which means that this person has been convicted under a provision that allows a person to be sentenced to death if that person has either negligently or recklessly, let's say, without excuse in the course of a robbery killed someone.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3201.460" stopTime="3217.961">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3201.460" offset="12950157">--Well, that was one of three aggravating factors.</text>
+            <text syncTime="3203.662" offset="12959039">There was also... yes, that was one of three aggravating factors.</text>
+            <text syncTime="3206.203" offset="12969174">But there was... there were two others, one that the... premeditated murder committed in the course of another crime as well as murder where the person was convicted in the same proceeding of another murder, which we--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3217.961" stopTime="3220.362">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3217.961" offset="13016194">Mr. Kneedler, where's the number 8 you're referring to?</text>
+            <text syncTime="3219.591" offset="13022673">I don't--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3220.362" stopTime="3249.490">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3220.362" offset="13025808">--On page 4 of the petition, there is... it identifies the aggravating factors that are relevant to the case.</text>
+            <text syncTime="3228.046" offset="13056528">There's paragraph 7(b) and (j) and then paragraph 8 which specifically deals with murder under article 118(4).</text>
+            <text syncTime="3235.793" offset="13087561">But, again, there's been no claim by petitioner in this case that the aggravating factors are substantively invalid, and there has been independent weighing of all the aggravating circumstances and mitigating circumstances by the Court of Military Appeals.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3249.490" stopTime="3258.626">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3249.490" offset="13142314">--That's in the manual.</text>
+            <text syncTime="3250.171" offset="13145030">8 in the manual is H in the statute... in the executive order, as I read it.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3258.626" stopTime="3271.486">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3258.626" offset="13178885">Yes.</text>
+            <text syncTime="3259.247" offset="13181393">The executive order, as originally promulgated, was lettered and numbered differently.</text>
+            <text syncTime="3262.731" offset="13195290">Rule 1000... the executive order, as first issued in January 1984, was before the entire revision of the rules for court martial.</text>
+            <text syncTime="3270.765" offset="13227368">That may have been--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3271.486" stopTime="3286.897">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3271.486" offset="13230294">Mr. Kneedler, going back to our earlier point, if I don't think that the listing of aggravators is a limiting of the sentence, then what is the strongest statutory authority that I can cite for the proposition that Congress has delegated this power to the President?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3286.897" stopTime="3290.908">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3286.897" offset="13291943">--Article 36 is a further authorization for the President to establish--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3290.908" stopTime="3291.819">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3290.908" offset="13308034">The general rules and procedures.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3291.819" stopTime="3303.367">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3291.819" offset="13311587">--Right.</text>
+            <text syncTime="3292.560" offset="13314617">And Congress we think confirmed that in 1985 when it enacted the espionage statute and referred to further aggravating circumstances that the President could adopt pursuant to article 36.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3303.367" stopTime="3303.967">
+            <label>Unknown Speaker</label>
+            <text syncTime="3303.367" offset="13357876">In the espionage--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3303.967" stopTime="3355.941">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3303.967" offset="13360175">And we think the two of them together... even if there was doubt as to one of them, the two of them together is certainly authorization enough.</text>
+            <text syncTime="3310.272" offset="13385461">I should also point out that article 71 provides that before the death penalty may be imposed, the... it has to be approved by the President.</text>
+            <text syncTime="3317.569" offset="13414614">So, we think it's particularly unlikely that Congress would have... would not have authorized the President to adopt restrictions to be imposed directly on the court martials themselves.</text>
+            <text syncTime="3325.303" offset="13445543">With respect to the President's constitutional authority, we think that 200 years of practice of the President's inherent powers as commander in chief, as well as Congress's broader than usual delegations of power to the President and to courts martial, are sufficient to answer any delegation claims.</text>
+            <text syncTime="3342.412" offset="13513984">Such cases as Swaim and Mott by this Court recognize both the President's inherent authority to convene the court martial and, in addition, the President's inherent authority in identifying circumstances that warrant military discipline.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3355.941" stopTime="3362.587">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3355.941" offset="13568110">--Mr. Kneedler, does the Government believe that premeditation is a sufficient narrowing to comply with Furman?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3362.587" stopTime="3451.407">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3362.587" offset="13594754">We have not taken issue with that.</text>
+            <text syncTime="3364.700" offset="13603114">The court in Matthews held that it was not as premeditation as defined... or has been defined under the military statute.</text>
+            <text syncTime="3372.563" offset="13634565">We do say, though, in footnote 6 of our brief that there may be sufficient narrowing in this case within the Lowenfield definition because this is a statute that applies in the special separate society that this Court has recognized in Parker v. Levy.</text>
+            <text syncTime="3386.164" offset="13689004">That combined with the existence of the element of premeditation, for example, we think would... might well be sufficient to satisfy requirements.</text>
+            <text syncTime="3395.380" offset="13725889">But we have not taken issue with that.</text>
+            <text syncTime="3396.930" offset="13732054">The President acted in response to Matthews, and we believe acted responsibly in response to Matthews.</text>
+            <text syncTime="3404.487" offset="13762356">It fills out an overall system and scheme within the military justice system to protect against the arbitrary or wanton imposition of the death penalty which is the fundamental principle of this Court's decision in Furman.</text>
+            <text syncTime="3417.443" offset="13814079">I would also point out that article 55 of the U.C.M.J. contains its own cruel or unusual punishment prohibition, and we think that that adds further force to the authority of the President to tailor punishments within the military justice system in response to a situation such as Furman to... not to mention his responsibility to take care that the laws be faithfully executed, to tailor the military justice system to satisfy constitutional requirements and in this case to tailor the imposition of the death penalty to article 55 which the Court of Military Appeals has read to contain much the same standards.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3451.407" stopTime="3452.829">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3451.407" offset="13950020">Thank you, Mr. Kneedler.</text>
+            <text syncTime="3452.038" offset="13952528">The case is submitted.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3452.829" stopTime="3458.605">
+            <label>Unknown Speaker</label>
+            <text syncTime="3452.829" offset="13955662">The honorable court is now adjourned until tomorrow morning at ten o'clock.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

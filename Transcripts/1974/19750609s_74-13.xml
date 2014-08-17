@@ -1,0 +1,36 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-28</verified>
+      </history>
+      <resources>
+        <audioFile size="333322">/xml/cases/1974/74_13/19750609o_74-13.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1974/trs/74-13op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="83.253">
+        <title>Mullaney v. Wilbur</title>
+        <section startTime="0.000" stopTime="83.253" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Lewis F. Powell, Jr.</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.458">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">The judgment and opinion of the Court in 74-13, Mullaney against Wilbur will be announced by Mr. Justice Powell.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="8.458" stopTime="80.988">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="8.458" offset="33750">This case comes to us from the Court of Appeals for the First Circuit.</text>
+            <text syncTime="12.409" offset="49633">Petitioners are the State of Maine and its prison warden.</text>
+            <text syncTime="17.014" offset="68023">Respondent was convicted of murder under a Maine procedure that placed the burden on him to prove that he had acted in a heat of passion on sudden provocation.</text>
+            <text syncTime="29.335" offset="117238">Only if he carried this burden could he reduce the charge of murder to manslaughter.</text>
+            <text syncTime="35.734" offset="142838">After exhausting his state remedies, respondent filed a writ of habeas corpus in the Federal District Court challenging the Maine procedure.</text>
+            <text syncTime="44.970" offset="179827">For the reasons stated in our opinion filed today, we hold that the imposition of this burden on respondent constituted a denial of due process.</text>
+            <text syncTime="56.053" offset="224131">We follow this Court's decision in In re Winship which requires the prosecution in a criminal case to prove beyond a reasonable doubt every fact necessary to constitute the charge -- the crime charged.</text>
+            <text syncTime="72.559" offset="290168">Mr. Justice Rehnquist filed a concurring opinion in which the Chief Justice joined.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="80.988" stopTime="83.253">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="80.988" offset="323918">Thank you Mr. Justice Powell.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

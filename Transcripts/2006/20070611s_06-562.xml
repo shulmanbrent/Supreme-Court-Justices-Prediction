@@ -1,0 +1,47 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T16:01:46" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1063552">/xml/cases/2006/06_562/20070611o_06-562.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2006/trs/06-562_20070611-opinion.trs</sourceFile>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="243.383">
+        <title>United States v. Atlantic Research Corp.</title>
+        <section startTime="0.000" stopTime="243.383" revised="2014-01-27">
+          <heading>Opinion Announcement of Justice Clarence Thomas</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.587">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="90021">Justice Thomas has the opinion of the court in case 06-562, United States versus Atlantic Research Corporation.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="9.587" stopTime="243.383">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="9.587" offset="128369">This case comes to us on the writ of certiorari to the United States Court of Appeals for the Eighth Circuit.</text>
+            <text syncTime="16.169" offset="154596">Respondent Atlantic Research leads the facility where it retrofitted rocket motors for petitioner the United States.</text>
+            <text syncTime="25.574" offset="192317">The retrofitting process resulted in contamination of the facility.</text>
+            <text syncTime="31.832" offset="217290">Under the Comprehensive Environmental Response Compensation and Liability Act (CERCLA), both Atlantic Research and the United States are potentially responsible for the contamination.</text>
+            <text syncTime="45.930" offset="273714">After Atlantic Research voluntarily cleaned up the site it sought to recover some of its expenses from the United States by filing suit under CERCLA Sections 107(a) and 113(f).</text>
+            <text syncTime="62.123" offset="338498">After Atlantic Research filed suit we decided Cooper Industries versus Aviall Services, which foreclose Atlantic Research’s Section 113(f) claim for contribution.</text>
+            <text syncTime="76.560" offset="396176">The District Court then dismissed Atlantic Research’s 107(a) claim but the Court of Appeals reversed and held that Section 107(a) permitted one potentially responsible party sue another.</text>
+            <text syncTime="91.894" offset="457512">In an opinion filed with the clerk today we affirm the judgment of the Court of Appeals.</text>
+            <text syncTime="99.328" offset="487291">CERCLA Section 107(a) defines four categories of persons as potentially responsible parties and makes those persons liable for certain contamination cause.</text>
+            <text syncTime="112.294" offset="539118">CERCLA also authorizes two causes for the actions for private parties.</text>
+            <text syncTime="117.922" offset="561688">In Section 107(a), that permits cost recovery by certain parties and Section 113(f) it permits liable parties to seek contribution.</text>
+            <text syncTime="131.134" offset="614455">The dispute here seen is on what person subparagraph (B) of Section 107(a) permits to seek cost recovery.</text>
+            <text syncTime="140.908" offset="653639">The text of subparagraph (B) allows suits by “any other person.”</text>
+            <text syncTime="148.226" offset="682896">In our view the phrase “any other person” in subparagraph (B) can be understood only with reference to the immediately preceding subparagraph.</text>
+            <text syncTime="160.348" offset="731379">Accordingly, we hold that the phrase “any other person” refers to persons other than those listed in the preceding subparagraph because this preceding subparagraph list only the United States or State or an Indian tribe all persons other than those three may sue under subparagraph (B).</text>
+            <text syncTime="184.504" offset="828032">Atlantic Research therefore qualifies as any other person and may recover its cost under the plain language of subparagraph (B).</text>
+            <text syncTime="195.229" offset="870873">Contrary to the government’s arguments this interpretation of Section 107(a) will not unduly conflict with Section 113(f)’s cause of action for contribution.</text>
+            <text syncTime="210.485" offset="931895">The two provisions authorized clearly distinct remedies and provide causes of actions to persons in different procedural circumstances.</text>
+            <text syncTime="221.632" offset="976512">Accordingly, Section 107(a) does not swallow the remedy provided by Section 113(f).</text>
+            <text syncTime="231.821" offset="1017263">Nor does today’s decision undermine the settlement bar provided in Section 113(f)(2).</text>
+            <text syncTime="240.484" offset="1051954">The opinion of the court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

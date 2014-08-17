@@ -1,0 +1,54 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:15:45" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="1081101">/xml/cases/2001/00_1567/20020304o_00-1567.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2001/trs/00-1567_20020304-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="248.424">
+        <title>Young v. United States</title>
+        <section startTime="0.000" stopTime="248.424">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.777">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87403">The opinion of the Court in No. 00-1567, Young against the United States will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="8.777" stopTime="248.424">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="8.777" offset="122407">This case comes to us on writ of certiorari to the United States Court of Appeals for the First Circuit.</text>
+            <text syncTime="14.505" offset="145395">The Bankruptcy Code provides that income tax indebtedness has eighth priority in bankruptcy and is non-dischargeable.</text>
+            <text syncTime="24.012" offset="183429">This provision applies however only to tax indebtedness pertaining to returns due within three years before filing of the bankruptcy petition.</text>
+            <text syncTime="34.198" offset="224180">This is commonly known as a three-year lookback period.</text>
+            <text syncTime="38.702" offset="242152">The Internal Revenue Service assessed the tax liability against petitioner's Cornelius and Suzanne Young for their failure to include payment with their 1992 income tax return filed on October 15, 1993.</text>
+            <text syncTime="53.077" offset="299622">They have gotten an extension from the normal filing date.</text>
+            <text syncTime="56.507" offset="313414">On May 1, 1996, slightly less than three years later, the Young’s filed a Chapter 13 Bankruptcy Petition which looks to reorganization of indebtedness.</text>
+            <text syncTime="69.110" offset="363779">They move to dismiss this petition however before a reorganization plan was approved.</text>
+            <text syncTime="75.062" offset="387602">On March 12, 1997, the day before the Bankruptcy Court dismissed the Chapter 13 petition; the Young’s filed another Bankruptcy petition, this time under Chapter 7.</text>
+            <text syncTime="87.952" offset="439116">A discharge was ultimately granted and the case was closed.</text>
+            <text syncTime="91.955" offset="455207">When the IRS subsequently demanded that they pay the tax debt, petitioners asked the Bankruptcy Court to reopen the Chapter 7 case and declare the tax debt discharge.</text>
+            <text syncTime="103.408" offset="500974">Since the debt pertain to a tax return due more than three years before their Chapter 7 filing, petitioners argue that it fell outside the Bankruptcy Code three-year lookback period and therefore had been discharged.</text>
+            <text syncTime="117.576" offset="557607">The Court reopened the case but sided with the IRS.</text>
+            <text syncTime="121.045" offset="571504">Petitioner’s tax return was indeed due more than three years before their Chapter 7 filing but it was also due less than three years before their earlier Chapter 13 filing.</text>
+            <text syncTime="133.788" offset="622495">Holding that lookback period is tolled suspended during the pendency of a prior bankruptcy petition, the court concluded that 1992 debt had not been discharged.</text>
+            <text syncTime="144.505" offset="665336">The District Court and the First Circuit agreed.</text>
+            <text syncTime="147.269" offset="676412">We affirmed.</text>
+            <text syncTime="148.843" offset="682681">The lookback period we conclude is a limitations period subject to traditional equitable tolling principles.</text>
+            <text syncTime="154.961" offset="707236">Petitioners contend it is a substantive component of the Bankruptcy Code not a procedural limitations period for two reasons:  first, because it defines a subset of claims that received special priority in bankruptcy; and second because the IRS may discover an unpaid tax after the three-year lookback period has commenced.</text>
+            <text syncTime="176.472" offset="793232">We find these arguments unpersuasive.</text>
+            <text syncTime="179.056" offset="803576">All limitations periods define a subset of claims that are eligible for certain remedies and it is not uncommon for limitations period to commence before claimant is aware that he has a complete and present cause of action.</text>
+            <text syncTime="195.611" offset="869823">Congress is presumed to draft limitations periods in light of the principle that such periods are subject to equitable tolling unless tolling would be inconsistent with statutory text.</text>
+            <text syncTime="206.305" offset="912559">We believe tolling is appropriate here.</text>
+            <text syncTime="208.804" offset="922590">Petitioner’s Chapter 13 petition are acted on automatic stay under Section 362(a) of the Bankruptcy Code which prevented the Internal Revenue Service from taking any steps to collect the unpaid taxes.</text>
+            <text syncTime="222.057" offset="975566">When petitioners later filed a Chapter 7 petition, the three-year lookback period therefore excluded time during which their Chapter 13 was pending.</text>
+            <text syncTime="232.145" offset="1015899">Because their 1992 tax return was due within the three-year lookback period after accounting for tolling the lower courts properly held that petitioner’s tax debt was not discharged when they were granted a Chapter 7 discharge.</text>
+            <text syncTime="245.959" offset="1071174">The Court’s decision is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,36 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:28:53" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="494591">/xml/cases/1991/91_372/19920618o_91-372.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/91-372_19920618-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="100.937">
+        <title>Georgia v. McCollum</title>
+        <section startTime="0.000" stopTime="100.937">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="5.240">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90842">The opinions of the Court in two cases will be announced by Justice Blackmun.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="5.240" stopTime="100.937">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="5.240" offset="111740">One of these is No. 91-372, Georgia against McCollum.</text>
+            <text syncTime="11.146" offset="135355">The respondents who are White were charged with assaulting two African-Americans.</text>
+            <text syncTime="17.706" offset="161582">Before the jury selection began, the trial judge denied the prosecution to motion to prohibit the defendants from exercising preemptory challenges in a racially discriminatory manner.</text>
+            <text syncTime="31.072" offset="215080">The Georgia Supreme Court affirmed and distinguished a recent case here where this Court had held that private litigants cannot exercise preemptory strikes in a racially discriminatory manner.</text>
+            <text syncTime="47.511" offset="280804">In an opinion filed with the Clerk today, we reverse that judgment and hold that the Constitution prohibits a criminal defendant from engaging in purposeful discrimination on the grounds of race in the exercise of preemptory challenges.</text>
+            <text syncTime="63.769" offset="345902">Doing this inflicts the harms addressed in the Batson case decided here sometime ago.</text>
+            <text syncTime="69.249" offset="367740">A criminal defendant's exercise of preemptory challenges constitutes state action.</text>
+            <text syncTime="74.788" offset="389892">The state has third party standing to challenge the defendants' discriminatory use of challenges and the prohibition does not violate a criminal defendant's constitutional right.</text>
+            <text syncTime="86.450" offset="436599">The Chief Justice, while joining the opinion, has filed a concurring statement; Justice Thomas has filed an opinion concurring in the judgment; Justice O'Connor and Justice Scalia each have filed dissenting opinions.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

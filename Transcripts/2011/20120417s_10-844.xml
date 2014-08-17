@@ -1,0 +1,62 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-20</identified>
+      </history>
+      <resources>
+        <audioFile size="2012622">/xml/cases/2011/10_844/20120417o_10-844.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2011/trs/10-844_20120417-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="elena_kagan" type="justice" gender="male" path="/justices/elena_kagan" image="/justices/elena_kagan/thumbnail.jpg">Elena Kagan</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="476.500">
+        <title>Caraco Pharmaceutical Laboratories, Ltd. v. Novo Nordisk A/S</title>
+        <section startTime="0.000" stopTime="476.500">
+          <heading>Opinion Announcement of Elena Kagan</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="10.276">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="106496">Justice Kagan has our opinion this morning in case 10-844, Caraco Pharmaceutical Laboratories versus Novo Nordisk.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="10.276" stopTime="476.500">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="10.276" offset="147560">In this case, we consider the scope of a statute authorizing a generic drug manufacturer to bring a counterclaim against a branch named manufacturer in patent litigation.</text>
+            <text syncTime="23.593" offset="200850">Now, to understand anything about the statute, you need to know a little bit about how the Food and Drug Administration, the FDA, approves the marketing of prescription drugs, both brand name and generic.</text>
+            <text syncTime="38.084" offset="258738">When the manufacturer seeks to market a new drug, it must submit an application to the FDA, showing that the drug is safe and effective.</text>
+            <text syncTime="46.713" offset="293324">In this case, a company called Novo submitted an application for a diabetes drug called Prandin, which is the brand name for a drug compound called Repaglinide and the FDA approved that application for three distinct methods of using the drug.</text>
+            <text syncTime="66.970" offset="374303">Once a new drug is approved in this way, other companies may seek approval from the FDA to market a generic version which will be cheaper for consumers, but the FDA cannot approve a generic drug if it would infringe the brand manufacturer's patents.</text>
+            <text syncTime="84.442" offset="444207">So, the FDA requires the brand manufacturer to provide it with information about what patents it holds and in particular, when a brand manufacturer holds a patent on a particular method of using a drug, it has to submit a description of that patent, which is known and this is important to determine this opinion as a use code.</text>
+            <text syncTime="108.843" offset="541800">Now, for better or worse, the FDA doesn't actually check whether the use code is accurate.</text>
+            <text syncTime="114.971" offset="566356">The agency simply assumes that it is and makes decisions about whether to approve generic drugs on that basis.</text>
+            <text syncTime="123.814" offset="601673">Okay now, when a generic manufacturer applies to the FDA, it checks the brand manufacturer's use codes, which are published in something called the Orange Book and then it tries to assure the FDA that its drug will not infringe the brand's patents.</text>
+            <text syncTime="142.896" offset="678055">You can do this in a few ways, one of which is by what's called a Section 8 statement which certifies that the generic drug will be marketed only from methods of use that are not covered by the brand manufacturer's patents.</text>
+            <text syncTime="159.404" offset="744093">Here, the generic manufacturer is a company called Caraco, which wants to market a generic version of Repaglinide.</text>
+            <text syncTime="167.330" offset="775753">Caraco thought that it could file a Section 8 statement because the FDA had approved Repaglinide for three methods of use, but Novo, the brand manufacturer holds a patent on only one of them and Caraco wanted to sell its drug, its generic version, only for the other two.</text>
+            <text syncTime="187.927" offset="858196">So, Caraco filed a Section 8 statement in the hopes of getting FDA approval, but here's the problem.</text>
+            <text syncTime="196.397" offset="892050">Novo's use code, its description of its own patent was overbroad.</text>
+            <text syncTime="202.099" offset="914829">It inaccurately claimed that the company held a patent on all three approved uses of Repaglinide and because that's what the use code said, and as I told you before, the FDA doesn't check its accuracy, because that's what the use code said, the FDA could not approve Caraco's application based on a Section 8 statement.</text>
+            <text syncTime="226.304" offset="1011691">The only thing left for Caraco to do under the statute was to file a different kind of statement which the law -- which the law treats as itself an act of patent infringement entitling the brand manufacturer to sue the generic company and that's what Novo did and now finally, we get to the question in this case.</text>
+            <text syncTime="249.160" offset="1103120">Once having been sued by Novo, could Caraco bring a counterclaim to force Novo to correct its use code?</text>
+            <text syncTime="257.836" offset="1137810">That's important because if the use code is corrected, Caraco could re-file its Section 8 statement.</text>
+            <text syncTime="264.087" offset="1162783">The FDA would approve it and then Caraco could market its generic drug.</text>
+            <text syncTime="269.972" offset="1186294">Now, there's a statute that specifies when a generic manufacturer can bring a counterclaim against a brand manufacturer in patent litigation.</text>
+            <text syncTime="280.170" offset="1227149">The statute allows a counterclaim and I'm going to quote now, it's kind of a mouthful, “When the generic company seeks an order, requiring the brand manufacturer to correct or delete the patent information submitted by the brand manufacturer under two particular statutory provisions on the ground that the patents does not claim an approved method of using the drug.”</text>
+            <text syncTime="307.767" offset="1337490">So, what we had to do in this case was to decide whether this statutory language entitles a generic manufacturer like Caraco to use the counterclaim method to seek correction of a brand manufacturer's use code.</text>
+            <text syncTime="323.937" offset="1402169">We hold today that the statutory language does allow such a counterclaim.</text>
+            <text syncTime="329.698" offset="1425262">Caraco can bring a claim against Novo to force Novo to narrow its use code so that the FDA can approve Caraco's generic product.</text>
+            <text syncTime="339.708" offset="1465281">Our opinion focuses on two phrases in the statute.</text>
+            <text syncTime="343.424" offset="1480119">First, the statute says that a generic may bring a counterclaim when the patent does not claim an approved method of using the drug.</text>
+            <text syncTime="353.005" offset="1518467">Now, Novo would have us read that provision to require the generic company to show that the patent does not claim any approved method of using the drug and if that's -- if that's right, then Novo was in the clear because its patent does claim one approved method of use.</text>
+            <text syncTime="373.240" offset="1599446">By contrast, Caraco says, “All it has to prove is that the patent does not claim a particular method of use, the one for which it seeks to market its product,” and if that's so, Caraco wins, because Novo's patent does not in fact claim two other approved methods of use, the methods of use that Caraco seeks to market its product for.</text>
+            <text syncTime="397.841" offset="1697771">We think this is a pretty interesting question as a grammatical matter and the opinion has a bit of fun with it, but in the end, we say that the context of this statute shows that Caraco is right.</text>
+            <text syncTime="409.984" offset="1746359">The statute is concerned not with whether the brand's patent claims any method of use, but with whether it claims the method for which the generic seeks to market its drug.</text>
+            <text syncTime="421.097" offset="1790872">So here, we think the phrase, “not an,” means not a particular one, rather than “not any.”</text>
+            <text syncTime="429.627" offset="1824935">Second, the counterclaim applies only to patent information submitted under subsections 355 (b) and (c) of Title 21.</text>
+            <text syncTime="438.855" offset="1861820">Novo contends that use codes are not submitted under these subsections, but instead, under FDA regulations.</text>
+            <text syncTime="447.013" offset="1894525">But we reject that arguments too because the regulations requiring the submission of use codes are themselves based on subsections 355 (b) and (c) and that's it.</text>
+            <text syncTime="460.586" offset="1948756">We hold that Caraco may use the counterclaim to challenge Novo's use code and we reverse the Federal Circuit's contrary judgment.</text>
+            <text syncTime="470.415" offset="1988148">Our decision is unanimous.</text>
+            <text syncTime="472.498" offset="1996403">Justice Sotomayor has filed a concurring opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

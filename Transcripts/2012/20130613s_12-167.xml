@@ -1,0 +1,53 @@
+<transcript verified="true">
+      <history>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="1543150">/xml/cases/2012/12_167/20130613o_12-167.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/12-167_20130613-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="359.112">
+        <title>United States v. Davila</title>
+        <section startTime="0" stopTime="359.112">
+          <heading>Opinion Announcement of Ruth Bader Ginsburg</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="8.316">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="106496">Justice Ginsburg has our opinion this morning in case 12-167, United States versus Davila.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="8.316" stopTime="359.112">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="8.316" offset="139724">Rule 11 of the Federal Rules of Criminal Procedure governs guilty pleas.</text>
+            <text syncTime="15.548" offset="168667">This case involves two parts of that rule.</text>
+            <text syncTime="19.368" offset="183923">The first, Rule 11(c)(1) bars judges from participating in plea negotiations.</text>
+            <text syncTime="27.905" offset="218091">The second, Rule 11(h) states, a variance from the requirements of Rule 11 is harmless error if does not affect the defendant's substantial rights.</text>
+            <text syncTime="42.609" offset="276919">Anthony Davila, respondent here, was indicted on multiple federal tax fraud charges.</text>
+            <text syncTime="50.404" offset="308057">Early on he wrote to the U.S. District Court expressing dissatisfaction with his court appointed attorney because he offered no defensive strategy but simply advised Davila to plead guilty.</text>
+            <text syncTime="65.578" offset="368765">At an in camera hearing with only Davila and his lawyer present, a Magistrate Judge told Davila he would not get another court appointed attorney and said Davila's best course, given the strength of the government's case, was to plead guilty.</text>
+            <text syncTime="85.934" offset="450163">Over three months later, Davila pleaded guilty before a U.S. District Court judge.</text>
+            <text syncTime="93.358" offset="479838">Under oath Davila affirmed that he had not been pressured to enter the plea.</text>
+            <text syncTime="99.227" offset="503348">The plea hearing complied in all respects with Rule 11.</text>
+            <text syncTime="103.686" offset="521216">Davila said nothing to the district judge about the in camera hearing before the Magistrate Judge.</text>
+            <text syncTime="111.433" offset="552145">On appeal, the Eleventh Circuit, unprompted by Davila, found the transcript of the hearing before the Magistrate Judge as ordering Davila to plead to guilty, all agreed violated Rule 11(c)(1).</text>
+            <text syncTime="128.300" offset="619645">Following circuit precedent, the Court of Appeals held that violation of the ban on judicial participation in plea bargaining requires automatic vacatur of a guilty plea whether or not the error was prejudicial.</text>
+            <text syncTime="146.901" offset="694042">We granted review to resolve a circuit conflict on this issue.</text>
+            <text syncTime="153.015" offset="718493">Does violation of Rule 11(c)(1) require automatic vacatur of a guilty plea as the Eleventh Circuit held or as the government urges must a reviewing court consider case specific facts and circumstances to assess the impact of the error on the defendant's decision to plead guilty?</text>
+            <text syncTime="175.817" offset="809712">We hold that the latter inquiry is the one called for by the rule and our decisions. Acknowledging that automatic vacatur is inappropriate for most Rule 11 violations, Davila argues that conduct banned by Rule 11(c)(1) is different.</text>
+            <text syncTime="195.269" offset="887557">He distinguishes plea-colloquy omissions from pre-plea exhortations to admit guilt; the former come into play after a defendant has already decided to plead guilty, the latter, before a defendant has made that choice.</text>
+            <text syncTime="216.233" offset="971358">Improper judicial involvement in plea discussions, Davila maintains, heightens the risk that a defendant's guilty plea would be the result of coercion and not a genuine exercise of freewill.</text>
+            <text syncTime="234.090" offset="1042829">But nothing in Rule 11's text indicates that the ban on judicial involvement in plea discussions is more basic than other Rule 11 descriptions.</text>
+            <text syncTime="245.170" offset="1087133">And nothing in the rule or its history suggest that the ban, if dishonored, requires automatic vacatur without regard to case specific circumstances.</text>
+            <text syncTime="257.130" offset="1134989">Of overriding importance, the Rule 11(h) specifically designed to stop automatic vacaturs falls for across the board application of the harmless error rule.</text>
+            <text syncTime="270.795" offset="1189637">Rule 11(c)(1) was adopted as prophylactic measure not one impelled by the Due Process Clause.</text>
+            <text syncTime="279.266" offset="1223492">Violation of the rule thus does not belong in the highly exceptional category of structural errors that trigger automatic reversal because they undermine the fairness of the entire criminal proceeding.</text>
+            <text syncTime="293.468" offset="1280334">Instead, in assessing Rule 11 errors, a reviewing court generally should take into account all that transpired in the trial court.</text>
+            <text syncTime="303.617" offset="1320876">Here, that includes the three- month interval between the hearing before the magistrate judge and Davila's guilty plea, and exemplary plea-colloquy conducted by a district judge and the opportunity Davila had at the plea-colloquy to raise any questions he might have about matters relating to his plea.</text>
+            <text syncTime="328.307" offset="1419724">Because the appellate court did not engage in a full record assessment of the particular facts of Davila's case, we vacate its judgment.</text>
+            <text syncTime="336.859" offset="1453892">We decide only that the automatic vacatur rule is incompatible with Rule 11(h) and leave all remaining issues to be addressed by the Court of Appeals on remand.</text>
+            <text syncTime="350.101" offset="1506868">Justice Scalia has filed an opinion concurring in part and concurring in the judgment in which Justice Thomas joins.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

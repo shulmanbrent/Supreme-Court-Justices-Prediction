@@ -1,0 +1,1536 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <verified user="jeffpar">2014-02-01</verified>
+        <edit user="tjohnson" date="2014-03-18T15:49:25" startTime="1559.255" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <edit user="tjohnson" date="2014-03-18T15:49:37" startTime="1588.707" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="tjohnson" date="2014-03-18T15:49:43" startTime="1619.909" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="tjohnson" date="2014-03-18T15:49:48" startTime="1635.605" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="tjohnson" date="2014-03-18T15:49:51" startTime="1643.359" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <edit user="tjohnson" date="2014-03-18T15:49:53" startTime="1644.344" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <identified user="tjohnson">2014-03-18</identified>
+      </history>
+      <resources>
+        <audioFile size="13762240">/xml/cases/2003/03_6539/20040330a_03-6539.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2003/trs/03-6539_20040330-argument.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="stephen_b_bedrick" type="advocate" gender="male" path="/advocates/sb/stephen_b_bedrick" image="/advocates/sb/stephen_b_bedrick/thumbnail.jpg">Stephen B. Bedrick</speaker>
+        <speaker id="seth_k_schalit" type="advocate" gender="male" path="/advocates/ss/seth_k_schalit" image="/advocates/ss/seth_k_schalit/thumbnail.jpg">Seth K. Schalit</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3359.744">
+        <title>Johnson v. California</title>
+        <section startTime="0.000" stopTime="1567.628" revised="2014-02-01">
+          <heading>Argument of Stephen B. Bedrick</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="12.273">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">We'll hear argument now in No. 03-6539, Jay Shawn Johnson v. California.</text>
+            <text syncTime="36.673" offset="146599">Mr. Bedrick.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="12.273" stopTime="31.753">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="12.273" offset="49006">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="14.525" offset="58096">I would like to address three points.</text>
+            <text syncTime="16.827" offset="67291">First, the correct prima facie standard under Batson is whether there is sufficient evidence to permit a reasonable judge to infer discrimination.</text>
+            <text syncTime="24.933" offset="99683">The California threshold is too high and incorrectly conflates step one and step three of Batson analysis.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="31.753" stopTime="47.678">
+            <label>Unknown Speaker</label>
+            <text syncTime="31.753" offset="126955">Well now, Mr. Bedrick, are... are you talking about enough evidence, say, to... for a trial judge to let a case go to a jury or enough evidence to persuade a trial judge who's sitting as the finder of fact?</text>
+            <text syncTime="45.762" offset="182962">I think those are two different things.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="47.678" stopTime="58.320">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="47.678" offset="190694">I would say the former rather than the latter, Your Honor.</text>
+            <text syncTime="50.314" offset="201247">I'm suggesting sufficient evidence to permit a reasonable trial judge to infer that there was racial discrimination in jury selection.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="58.320" stopTime="64.122">
+            <label>Unknown Speaker</label>
+            <text syncTime="58.320" offset="233221">So it... it doesn't have to be proven by a preponderance of the evidence.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="64.122" stopTime="81.400">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="64.122" offset="256418">Absolutely not.</text>
+            <text syncTime="64.690" offset="258717">California uses a standard of preponderance of the evidence and we believe that is substantially higher than that which the... the standard which this Court suggested in Batson and in Purkett v. Elem and in Hernandez v. New York.</text>
+            <text syncTime="77.532" offset="310126">This standard is substantially higher than used by anywhere else in the country.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="81.400" stopTime="97.611">
+            <label>Unknown Speaker</label>
+            <text syncTime="81.400" offset="325590">What's the best analog that you have?</text>
+            <text syncTime="83.351" offset="333322">Probable cause doesn't seem to fit.</text>
+            <text syncTime="88.172" offset="352653">Reasonable suspicion, reasonable grounds for belief.</text>
+            <text syncTime="91.291" offset="365087">Are... are there cases which tell us what little semantic formulation you want to use?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="97.611" stopTime="114.990">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="97.611" offset="390374">That's a good question.</text>
+            <text syncTime="98.278" offset="393091">In discussion with associates, we thrashed that around.</text>
+            <text syncTime="101.230" offset="404898">Probable cause is much too high.</text>
+            <text syncTime="103.014" offset="412003">Reasonable suspicion, which is lower than probable cause, starts to get near it, but I know the Court had a reasonable suspicion case last week and I don't know all the intricacies of it.</text>
+            <text syncTime="113.971" offset="455784">My sense is somewhat--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="114.990" stopTime="137.717">
+            <label>Unknown Speaker</label>
+            <text syncTime="114.990" offset="459860">Well, that's... that's not the standard for letting a case go to the jury, though.</text>
+            <text syncTime="117.906" offset="471562">It seems to me that if that's what you're appealing to, what the test ought to be is not whether the judge thinks it's more likely than not, but whether a reasonable jury could think that it's more likely than not.</text>
+            <text syncTime="131.647" offset="526524">Surely that's the standard for letting a case go to the jury, not a suspicion.</text>
+            <text syncTime="134.682" offset="538645">You know, if the judge thinks--</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="137.717" stopTime="137.950">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="137.717" offset="550766">--No.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="137.950" stopTime="147.840">
+            <label>Unknown Speaker</label>
+            <text syncTime="137.950" offset="551706">--he has to say a reasonable juror could find that it is more likely than not that the plaintiff's case is... is sustainable.</text>
+            <text syncTime="146.288" offset="585143">Isn't that the test for going to the jury?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="147.840" stopTime="153.827">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="147.840" offset="591308">When the test goes to the jury, the plaintiff has the burden of proving his case by a preponderance of the evidence.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="153.827" stopTime="155.845">
+            <label>Unknown Speaker</label>
+            <text syncTime="153.827" offset="615236">The jury has to find it by a preponderance.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="155.845" stopTime="156.211">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="155.845" offset="623282">Yes.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="156.211" stopTime="168.403">
+            <label>Unknown Speaker</label>
+            <text syncTime="156.211" offset="624744">But in order to let it go to the jury, I had always thought that the criterion was not whether the judge thought it was more likely than not but whether in his view a reasonable jury could think it more likely than not.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="168.403" stopTime="170.771">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="168.403" offset="673541">I think that is close to the test that I'm asking for, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="170.771" stopTime="183.096">
+            <label>Unknown Speaker</label>
+            <text syncTime="170.771" offset="683050">Okay.</text>
+            <text syncTime="171.621" offset="686393">You had a model--</text>
+            <text syncTime="172.371" offset="689424">--Of course, that standard applies after the... after the case has been... has been tried and... and both sides have had an opportunity be heard.</text>
+            <text syncTime="179.961" offset="719830">All... all you're asking for is the opportunity to make inquiry.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="183.096" stopTime="193.887">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="183.096" offset="732369">Absolutely, Your Honor.</text>
+            <text syncTime="184.063" offset="736235">All we're asking is that prosecutor be... or the... or the challenger, whoever that may be, be asked the reason.</text>
+            <text syncTime="189.817" offset="759223">So what we are ask... our standard is somewhat closer to a discovery standard.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="193.887" stopTime="203.076">
+            <label>Unknown Speaker</label>
+            <text syncTime="193.887" offset="775523">You're asking more than that.</text>
+            <text syncTime="195.037" offset="780121">You're asking under our law that if the... if the prosecutor doesn't come back with a reason, you win.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="203.076" stopTime="204.359">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="203.076" offset="812304">Absolutely not, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="204.359" stopTime="204.692">
+            <label>Unknown Speaker</label>
+            <text syncTime="204.359" offset="817424">You're not?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="204.692" stopTime="206.244">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="204.692" offset="818678">I respectfully disagree.</text>
+            <text syncTime="205.176" offset="820663">The series--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="206.244" stopTime="212.682">
+            <label>Unknown Speaker</label>
+            <text syncTime="206.244" offset="824947">The... the prosecutor can stand silent and... and... and the... the judge can still find against you.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="212.682" stopTime="229.377">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="212.682" offset="850651">--Very much so because the... the series of cases from this Court, the Batson-Hernandez-Elem trilogy, and... and also the... some of the Title VII cases provide that even though the burden of producing evidence shifts, the burden of persuasion never shifts.</text>
+            <text syncTime="229.125" offset="916480">So--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="229.377" stopTime="265.214">
+            <label>Unknown Speaker</label>
+            <text syncTime="229.377" offset="917420">But the persuasion burden would be for the jury if you submit enough to make out a prima facie case.</text>
+            <text syncTime="238.082" offset="952320">The Title VII cases deal with a situation where you've made the prima facie showing.</text>
+            <text syncTime="247.105" offset="988369">You don't necessarily win if the defendant comes up with a nondiscriminatory reason.</text>
+            <text syncTime="256.461" offset="1025776">But if the defendant just stands silent... you've made your prima facie case.</text>
+            <text syncTime="261.781" offset="1047092">Defendant says nothing.</text>
+            <text syncTime="263.798" offset="1055138">Don't you win at that point?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="265.214" stopTime="281.593">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="265.214" offset="1060780">--No, Your Honor, I do not win either under Batson or under Title VII.</text>
+            <text syncTime="268.500" offset="1073946">This Court decided a couple of cases, including Reeves and St. Mary's Honor Center in which the finding was a prima facie case was made, the employer gave a reason, the trial judge said I disbelieve that reason--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="281.593" stopTime="284.978">
+            <label>Unknown Speaker</label>
+            <text syncTime="281.593" offset="1126296">Yes, of course, but suppose the employer gives no reason.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="284.978" stopTime="285.578">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="284.978" offset="1139879">--I don't--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="285.578" stopTime="299.221">
+            <label>Unknown Speaker</label>
+            <text syncTime="285.578" offset="1142282">Suppose that the prosecutor stands silent.</text>
+            <text syncTime="288.096" offset="1152313">Those are all cases where the prosecutor does what you would expect.</text>
+            <text syncTime="293.317" offset="1173211">The defendant does what you expect: come up with a reason.</text>
+            <text syncTime="296.352" offset="1185332">But if no reason is given--</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="299.221" stopTime="308.493">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="299.221" offset="1196826">--In the Batson context, Your Honor, we have never come across a case... there may be one.</text>
+            <text syncTime="303.339" offset="1213336">We have never come across one where the prosecutor stood silent.</text>
+            <text syncTime="307.058" offset="1228173">The prosecutor always has a reason.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="308.493" stopTime="326.288">
+            <label>Unknown Speaker</label>
+            <text syncTime="308.493" offset="1233920">--Well, you... you were asked to consider what... what does it mean, this prima facie case, if the defendant does stand silent.</text>
+            <text syncTime="319.266" offset="1276970">It may be implausible that the prosecutor would or a defendant would in Title VII.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="326.288" stopTime="345.583">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="326.288" offset="1305078">Yes, but even so, even... even in this theoretical and I think inconceivable hypothetical situation, if the challenger stood silent, the trial judge still has to determine whether or not the objector has proven discrimination at that point, at stage three, by a preponderance of the evidence.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="345.583" stopTime="355.038">
+            <label>Unknown Speaker</label>
+            <text syncTime="345.583" offset="1382296">I... I suggest that the reason you've never come across a case in which the prosecutor stands silent is because the prosecutors know that if they stand silent, they lose.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="355.038" stopTime="355.721">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="355.038" offset="1420121">No.</text>
+            <text syncTime="355.371" offset="1421479">The prosecutor--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="355.721" stopTime="372.917">
+            <label>Unknown Speaker</label>
+            <text syncTime="355.721" offset="1422838">It's not at all inconceivable.</text>
+            <text syncTime="357.173" offset="1428689">I mean, that... that's why they always come up with a reason because, as I understand the way we formulated our... our Title VII test, you... you have to come up with an excuse, and if you don't have an excuse, the plaintiff wins.</text>
+            <text syncTime="370.365" offset="1481456">I'm... I'm not sure I agree with that, but that's what our law is.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="372.917" stopTime="410.740">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="372.917" offset="1491592">--The prosecutor knows that he will look bad if he does not come up with a reason.</text>
+            <text syncTime="376.637" offset="1506534">A prosecutor knows that the trial judge could infer that something is up or something has been done wrong if he doesn't come up with a reason.</text>
+            <text syncTime="382.958" offset="1531820">But our prosecutors are bright and energetic and talkative and garrulous people.</text>
+            <text syncTime="387.593" offset="1550315">They always have a reason for everything.</text>
+            <text syncTime="389.611" offset="1558361">So in this case... and even there are many cases.</text>
+            <text syncTime="392.663" offset="1570586">In the many cases where the question of prima facie case is being discussed and it looks like it's a close case, in many of those, a careful prosecutor will say, Your Honor, let's not hang this case up at the prima facie level.</text>
+            <text syncTime="404.471" offset="1617816">I would... let's... let me not leave a record that is not clear.</text>
+            <text syncTime="408.490" offset="1633907">I would like to tell you what my reason is and here--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="410.740" stopTime="434.221">
+            <label>Unknown Speaker</label>
+            <text syncTime="410.740" offset="1642893">May I ask you a hypothetical question?</text>
+            <text syncTime="411.942" offset="1647700">I hate to push you to the wall on it, but supposing you had a prosecutor who conducted the voir dire for the first day and then was hit by a truck and died and wasn't able to continue the trial.</text>
+            <text syncTime="424.166" offset="1696601">And he had made one challenge of one African American juror, but he had let six others on the jury.</text>
+            <text syncTime="430.486" offset="1721887">What... what would you do with that case?</text>
+            <text syncTime="432.105" offset="1728366">Would that be a prima facie case or not?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="434.221" stopTime="444.829">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="434.221" offset="1736829">--With one juror challenged, six remain, from the defense perspective, I would say I have a very lousy... lousy chance of making a prima facie case, and I would not make that argument.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="444.829" stopTime="448.448">
+            <label>Unknown Speaker</label>
+            <text syncTime="444.829" offset="1779252">What if there were one and otherwise it was an all-white jury?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="448.448" stopTime="454.185">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="448.448" offset="1793776">Then I guess we would hope to find some evidence of the prosecutor's reason.</text>
+            <text syncTime="453.602" offset="1814361">Perhaps he had--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="454.185" stopTime="462.558">
+            <label>Unknown Speaker</label>
+            <text syncTime="454.185" offset="1816660">I'm... I'm positing a case in which for reasons beyond the control of the prosecutor, they can't tell what the real reason was of the man who conducted the voir dire.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="462.558" stopTime="487.340">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="462.558" offset="1850201">--At that point I would suggest that the wise trial judge would find a prima facie case, avoid any possible discrimination and ask jury selection to begin anew.</text>
+            <text syncTime="474.265" offset="1897012">At that point, the cost to the system is 1 day of poor jurors parading through.</text>
+            <text syncTime="479.502" offset="1917910">That's a much lower cost than the risk of this case going to the jury and being tried by a jury that has been chosen with racial discrimination.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="487.340" stopTime="494.744">
+            <label>Unknown Speaker</label>
+            <text syncTime="487.340" offset="1949257">What if it comes up... comes up on appeal?</text>
+            <text syncTime="490.457" offset="1961796">I mean, it's happened.</text>
+            <text syncTime="491.058" offset="1964199">In the case... because the trial judge lets the case go forward.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="494.744" stopTime="495.577">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="494.744" offset="1978932">I... I need some more facts.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="495.577" stopTime="499.545">
+            <label>Unknown Speaker</label>
+            <text syncTime="495.577" offset="1982276">No.</text>
+            <text syncTime="496.010" offset="1983948">The appellate court has to decide whether... whether the conviction has to be thrown out--</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="499.545" stopTime="500.312">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="499.545" offset="1998158">Yes.</text>
+            <text syncTime="500.012" offset="2000039">The--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="500.312" stopTime="505.282">
+            <label>Unknown Speaker</label>
+            <text syncTime="500.312" offset="2001189">--on the basis of a... a strike that the appellate court has no way of finding out the reason for.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="505.282" stopTime="505.632">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="505.282" offset="2021042">--If--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="505.632" stopTime="508.651">
+            <label>Unknown Speaker</label>
+            <text syncTime="505.632" offset="2022504">The only prospective black juror was struck.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="508.651" stopTime="529.481">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="508.651" offset="2034521">--That is why we are arguing here for this... for the threshold that we are arguing for, which is a relatively... relatively low threshold at which the trial judge examines all the circumstances and, when in doubt, rules that there should be a prima facie case, and then we get an answer, and then the trial judge makes a decision based on an answer, and then we get a record.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="529.481" stopTime="542.805">
+            <label>Unknown Speaker</label>
+            <text syncTime="529.481" offset="2117904">Why do you say when in doubt?</text>
+            <text syncTime="531.699" offset="2126785">I mean, isn't it enough to say the trial judge has to... can find that there's a prima facie case of discrimination, but why slant it one way or the other?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="542.805" stopTime="582.865">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="542.805" offset="2171193">Because in response to the last question, I was trying to show that one of the things that are missing when a... when the questions are not asked of the challenger is a record.</text>
+            <text syncTime="552.930" offset="2211631">We do not know what the answer would be, and that puts the appellate court in a much more difficult situation.</text>
+            <text syncTime="558.064" offset="2232216">So that is what I was saying.</text>
+            <text syncTime="559.333" offset="2237231">When we're... when in doubt, one of the benefits that we obtain from an answer is a record so that it can be reviewed.</text>
+            <text syncTime="566.153" offset="2264607">Furthermore, my guess is most of the prosecutor's answers will, in fact, show race-neutral reasons.</text>
+            <text syncTime="572.241" offset="2288953">Then we have no problem.</text>
+            <text syncTime="573.593" offset="2294282">Everyone knows what the situation is.</text>
+            <text syncTime="575.793" offset="2303164">The answer has been revealed.</text>
+            <text syncTime="577.295" offset="2309120">It does not become an appellate issue and everyone then has confidence that the jury has been fairly chosen.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="582.865" stopTime="608.130">
+            <label>Unknown Speaker</label>
+            <text syncTime="582.865" offset="2331376">Tell me how it works.</text>
+            <text syncTime="583.599" offset="2334302">You have some suspicion, because of the issues in the case and so forth after the first minority juror is excused, and say oh-oh, there may be something going on here.</text>
+            <text syncTime="593.305" offset="2373172">At... at what point under California procedure do you think you should make the objection?</text>
+            <text syncTime="599.208" offset="2396787">At the earliest possible opportunity when they've excused the first minority juror or you wait until the whole jury is empaneled and ready to be sworn?</text>
+            <text syncTime="607.397" offset="2429492">How does that work?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="608.130" stopTime="624.409">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="608.130" offset="2432418">I would say it depends on the discretion of the objecting party.</text>
+            <text syncTime="612.218" offset="2448823">If there was only one minority juror and defense counsel thought that that was a good juror and therefore smelled possible discrimination, then defense counsel might make the challenge at the time of the first juror.</text>
+            <text syncTime="624.109" offset="2496366">If--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="624.409" stopTime="627.394">
+            <label>Unknown Speaker</label>
+            <text syncTime="624.409" offset="2497620">What happened here?</text>
+            <text syncTime="625.026" offset="2500023">Was it after the second juror or after the first?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="627.394" stopTime="632.696">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="627.394" offset="2509531">--The first motion here was made after the second African American juror and the second--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="632.696" stopTime="633.632">
+            <label>Unknown Speaker</label>
+            <text syncTime="632.696" offset="2530743">And then renewed on the third.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="633.632" stopTime="649.907">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="633.632" offset="2534504">--and the second motion was made after the third African American juror.</text>
+            <text syncTime="637.434" offset="2549656">So defense counsel did not... did not make his motion at the earliest possible opportunity.</text>
+            <text syncTime="642.237" offset="2568882">He may have been giving his opponent the benefit of the doubt.</text>
+            <text syncTime="644.689" offset="2578704">But after the opponent challenged two out of two, he no longer thought there should be a benefit of the doubt.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="649.907" stopTime="666.769">
+            <label>Unknown Speaker</label>
+            <text syncTime="649.907" offset="2599602">And under your procedure, how long would this take?</text>
+            <text syncTime="652.359" offset="2609424">You say, Your Honor, I want an inquiry into why this juror was excused and the... I guess the judge excuses the... the panel, or the prospective panel, and then says, Mr. Prosecutor, can you tell me why you excused the jury.</text>
+            <text syncTime="665.686" offset="2662713">Is that the way it works?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="666.769" stopTime="667.903">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="666.769" offset="2666998">Yes.</text>
+            <text syncTime="667.136" offset="2668460">In... in this--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="667.903" stopTime="671.423">
+            <label>Unknown Speaker</label>
+            <text syncTime="667.903" offset="2671595">Don't... don't they just go up to the bench?</text>
+            <text syncTime="669.821" offset="2679223">Do they have to excuse the whole jury panel?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="671.423" stopTime="682.478">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="671.423" offset="2685597">--I've seen it done all different ways.</text>
+            <text syncTime="673.290" offset="2693120">I've seen it done out in the back hall.</text>
+            <text syncTime="675.125" offset="2700434">I've seen it done at the bench.</text>
+            <text syncTime="676.409" offset="2705554">I've seen it done with the room cleared, and I've seen it done in front of the whole jury.</text>
+            <text syncTime="681.278" offset="2725094">They do it all different ways.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="682.478" stopTime="683.480">
+            <label>Unknown Speaker</label>
+            <text syncTime="682.478" offset="2729900">What happened here?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="683.480" stopTime="690.301">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="683.480" offset="2733871">Here both motions were discussed outside of the presence of the jury, and that was, of course--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="690.301" stopTime="697.455">
+            <label>Unknown Speaker</label>
+            <text syncTime="690.301" offset="2761143">And the trial judge did what?</text>
+            <text syncTime="692.253" offset="2768980">He decided on his own that there were good reasons?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="697.455" stopTime="711.465">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="697.455" offset="2789773">--The trial judge in this case on the first motion, decided that there was no prima facie case because the trial judge speculated as to possible reasons on the record that might theoretically and arguably have provided a race-neutral reason.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="711.465" stopTime="718.202">
+            <label>Unknown Speaker</label>
+            <text syncTime="711.465" offset="2845780">And was the judge asked if the prosecutor could be asked to explain?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="718.202" stopTime="730.609">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="718.202" offset="2872738">The trial judge asked the prosecutor, Mr. Prosecutor, I'm about to... I'm in the... I'm about to rule that there's no prima facie case.</text>
+            <text syncTime="724.974" offset="2899801">Do you have anything you want to add?</text>
+            <text syncTime="726.724" offset="2906802">Do you have any reasons you want to state?</text>
+            <text syncTime="728.426" offset="2913698">And the prosecutor said, no, Your Honor, I don't want to--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="730.609" stopTime="734.413">
+            <label>Unknown Speaker</label>
+            <text syncTime="730.609" offset="2922371">Well, why should he--</text>
+            <text syncTime="731.159" offset="2924565">--Why should he?</text>
+            <text syncTime="731.461" offset="2925819">--if he's already been told?</text>
+            <text syncTime="733.228" offset="2932820">[Laughter]</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="734.413" stopTime="746.804">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="734.413" offset="2937626">--That was clearly too late in the process, but there are many other cases I mentioned earlier where when a prima facie case seems relatively close, the intelligent prosecutor will give a reason and make his record and protect his record.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="746.804" stopTime="762.464">
+            <label>Unknown Speaker</label>
+            <text syncTime="746.804" offset="2987154">Counsel--</text>
+            <text syncTime="747.121" offset="2988408">--in the law--</text>
+            <text syncTime="747.871" offset="2991438">--before you exhaust your time here, on appeal did you challenge also an evidentiary point, a Brady claim?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="762.464" stopTime="764.447">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="762.464" offset="3049848">There are other issues--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="764.447" stopTime="766.416">
+            <label>Unknown Speaker</label>
+            <text syncTime="764.447" offset="3057685">There are other issues in the case.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="766.416" stopTime="766.916">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="766.416" offset="3065626">--Yes.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="766.916" stopTime="772.152">
+            <label>Unknown Speaker</label>
+            <text syncTime="766.916" offset="3067611">The Brady claim, some evidentiary... and... and a new trial was granted on some of those issues?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="772.152" stopTime="795.602">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="772.152" offset="3088509">No.</text>
+            <text syncTime="772.436" offset="3089659">This... this case has been tried three times.</text>
+            <text syncTime="775.438" offset="3101675">In the... the first case got three-quarters of the way through.</text>
+            <text syncTime="778.073" offset="3112229">There was a Brady problem.</text>
+            <text syncTime="780.258" offset="3121006">A mistrial was granted.</text>
+            <text syncTime="782.408" offset="3129574">There was a second trial.</text>
+            <text syncTime="783.710" offset="3134798">There was a conviction after the second trial.</text>
+            <text syncTime="785.912" offset="3143576">In that second trial, there were instructional errors regarding concurrent causes.</text>
+            <text syncTime="790.798" offset="3163115">There was a reversal on that.</text>
+            <text syncTime="792.483" offset="3169907">This now is the appeal from the third trial.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="795.602" stopTime="798.070">
+            <label>Unknown Speaker</label>
+            <text syncTime="795.602" offset="3182341">On the third trial, were there other issues?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="798.070" stopTime="801.439">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="798.070" offset="3192268">There are other issues that the court of appeal did not reach.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="801.439" stopTime="803.208">
+            <label>Unknown Speaker</label>
+            <text syncTime="801.439" offset="3205747">That were not reached.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="803.208" stopTime="803.674">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="803.208" offset="3212748">Yes.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="803.674" stopTime="808.576">
+            <label>Unknown Speaker</label>
+            <text syncTime="803.674" offset="3214629">But do we have a jurisdictional problem?</text>
+            <text syncTime="807.160" offset="3228630">Do we have a final judgment?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="808.576" stopTime="824.971">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="808.576" offset="3234273">We certainly have a... we certainly have a final judgment from a trial which is a conviction of the defendant.</text>
+            <text syncTime="813.829" offset="3255275">We have a... we have a decision from the intermediate court of appeal that says reversed.</text>
+            <text syncTime="818.717" offset="3274815">We have a decision from the State supreme court that says reversed again.</text>
+            <text syncTime="822.419" offset="3289652">So that we have lost our... we have lost our Batson argument.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="824.971" stopTime="831.875">
+            <label>Unknown Speaker</label>
+            <text syncTime="824.971" offset="3299788">Well, but it's sent back.</text>
+            <text syncTime="825.871" offset="3303445">Wasn't it sent back to the court of appeals for further proceedings in this case?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="831.875" stopTime="834.643">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="831.875" offset="3327478">The... yes.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="834.643" stopTime="839.214">
+            <label>Unknown Speaker</label>
+            <text syncTime="834.643" offset="3338553">Well--</text>
+            <text syncTime="835.060" offset="3340225">--And you may win on two... on either of two issues that are left in the court of appeals.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="839.214" stopTime="841.583">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="839.214" offset="3356839">That is theoretically possible, but I think--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="841.583" stopTime="856.342">
+            <label>Unknown Speaker</label>
+            <text syncTime="841.583" offset="3366243">But that's on three of those issues.</text>
+            <text syncTime="843.049" offset="3372095">Isn't it the case that the intermediate appellate court said there's something going for your side on those three?</text>
+            <text syncTime="852.038" offset="3408144">It's kind of hinted that you have a good case on the issues that didn't get decided.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="856.342" stopTime="861.577">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="856.342" offset="3425280">--Yes, that's correct, Your Honor, but I very much hope that the Court would reach the issues here.</text>
+            <text syncTime="860.460" offset="3441789">We've put in a lot of time on that.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="861.577" stopTime="870.566">
+            <label>Unknown Speaker</label>
+            <text syncTime="861.577" offset="3446282">But we have a firm finality rule.</text>
+            <text syncTime="863.412" offset="3453597">So how can we if the judgment that you're bringing to us is non-final?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="870.566" stopTime="871.268">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="870.566" offset="3482227">I believe that--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="871.268" stopTime="872.768">
+            <label>Unknown Speaker</label>
+            <text syncTime="871.268" offset="3485048">We've put in a lot of time on it too.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="872.768" stopTime="874.137">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="872.768" offset="3491004">--I understand.</text>
+            <text syncTime="873.168" offset="3492571">[Laughter]</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="874.137" stopTime="877.256">
+            <label>Unknown Speaker</label>
+            <text syncTime="874.137" offset="3496542">I... I--</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="877.256" stopTime="888.897">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="877.256" offset="3508976">We have a... California has... differs from every other court in the Nation on several of these jury selection points.</text>
+            <text syncTime="884.576" offset="3538233">California has a standard that is much higher than virtually everyone else in the Nation.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="888.897" stopTime="902.554">
+            <label>Unknown Speaker</label>
+            <text syncTime="888.897" offset="3555579">--We understand that it's a good case to address the issue, but only if there's a final judgment so that we have jurisdiction.</text>
+            <text syncTime="898.752" offset="3594971">Can you enlighten us any more on that jurisdiction point?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="902.554" stopTime="905.489">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="902.554" offset="3610122">This issue has not been raised by either side in this case.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="905.489" stopTime="906.525">
+            <label>Unknown Speaker</label>
+            <text syncTime="905.489" offset="3621930">Well, it's raised now.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="906.525" stopTime="924.318">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="906.525" offset="3626005">I understand that, Your Honor.</text>
+            <text syncTime="907.625" offset="3630498">So that it is my understanding that we have a final... we have a final judgment from the trial court of convicting the defendant.</text>
+            <text syncTime="915.445" offset="3661740">We have what is a final judgment from the intermediate court of appeal, which was a reversal.</text>
+            <text syncTime="920.033" offset="3680131">That court did not need to reach the other issues.</text>
+            <text syncTime="922.266" offset="3689012">It felt it did not need to bother to reach them.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="924.318" stopTime="938.060">
+            <label>Unknown Speaker</label>
+            <text syncTime="924.318" offset="3697267">But now it does because it's been reversed and there's a remand.</text>
+            <text syncTime="929.455" offset="3717747">And when it's remanded, it is certainly going to take up the issues that it left undecided.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="938.060" stopTime="940.096">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="938.060" offset="3752229">If it needs to reach those, that's correct, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="940.096" stopTime="976.749">
+            <label>Unknown Speaker</label>
+            <text syncTime="940.096" offset="3760379">Well, it's been instructed.</text>
+            <text syncTime="941.212" offset="3764767">There... there are exceptions under our Cox case, and I've looked at them.</text>
+            <text syncTime="945.814" offset="3783158">I don't think this comes under them.</text>
+            <text syncTime="947.666" offset="3790576">We don't like to ambush you this way, but I mean, if there's a... there's a real jurisdictional problem here.</text>
+            <text syncTime="953.570" offset="3814191">Especially since we gave you the case to... to argue.</text>
+            <text syncTime="957.272" offset="3829029">You are very kindly appearing here pro bono.</text>
+            <text syncTime="965.378" offset="3861420">[Laughter]</text>
+            <text syncTime="964.092" offset="3856300">It seems like a dirty trick.</text>
+            <text syncTime="967.161" offset="3868630">No.</text>
+            <text syncTime="967.478" offset="3869884">But may I ask on the finality question?</text>
+            <text syncTime="970.763" offset="3883050">Is the decision of the California Supreme Court final with respect to the disposition of the Batson claim?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="976.749" stopTime="977.601">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="976.749" offset="3906978">It very much is, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="977.601" stopTime="980.137">
+            <label>Unknown Speaker</label>
+            <text syncTime="977.601" offset="3910322">There's nothing more to be decided relevant to that issue.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="980.137" stopTime="995.430">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="980.137" offset="3920457">Absolutely not.</text>
+            <text syncTime="982.520" offset="3930070">So that what I was hoping to argue to the Court was we have a very distinct and sharp conflict between the State of California and the Ninth Circuit and, indeed, between the State of California and the rest of the country on several of these issues.</text>
+            <text syncTime="994.795" offset="3979180">What is the--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="995.430" stopTime="1037.974">
+            <label>Unknown Speaker</label>
+            <text syncTime="995.430" offset="3981688">May I ask you one question that is relevant to that?</text>
+            <text syncTime="997.613" offset="3990361">And that is, that California, as I understand it, is taking the position each State is free to implement Batson as it chooses, and California points out that it has a standard that's more stringent than the Federal standard on disqualifying a juror for race bias.</text>
+            <text syncTime="1017.742" offset="4070922">The California standard is significant likelihood that the juror is biased, where the Federal standard is a reasonable possibility.</text>
+            <text syncTime="1026.832" offset="4107285">So California says if we can have a more stringent standard on disqualifying a juror for race bias, why can't we have a more stringent standard on Batson.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1037.974" stopTime="1053.936">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1037.974" offset="4151798">--Because California did not present any federalism issues at the State supreme court nor does my opponent.</text>
+            <text syncTime="1045.496" offset="4181891">California said we are deciding the Federal constitutional issues.</text>
+            <text syncTime="1049.032" offset="4196101">We are deciding this case under Batson.</text>
+            <text syncTime="1051.484" offset="4205923">We believe that our standard complies with Batson.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1053.936" stopTime="1069.195">
+            <label>Unknown Speaker</label>
+            <text syncTime="1053.936" offset="4215641">I thought part of that was that Batson leaves room for the States.</text>
+            <text syncTime="1059.922" offset="4239673">It doesn't require every State to... to handle Batson challenges the same way.</text>
+            <text syncTime="1066.659" offset="4266632">I think that is an argument that California made.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1069.195" stopTime="1086.038">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1069.195" offset="4276767">There are... there... there are some... I'm not sure what aspects were left to the States, but California's Supreme Court did not... the State makes this argument, but the California Supreme Court did not.</text>
+            <text syncTime="1080.753" offset="4322952">The California Supreme Court did not say anything addressing any independent State ground.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1086.038" stopTime="1117.176">
+            <label>Unknown Speaker</label>
+            <text syncTime="1086.038" offset="4344059">More a question for the State than for you.</text>
+            <text syncTime="1088.657" offset="4354612">I... I can't really think of an analog here.</text>
+            <text syncTime="1091.859" offset="4367360">Our search and seizure jurisprudence, our arrest jurisprudence, our Miranda jurisprudence is all uniform.</text>
+            <text syncTime="1098.464" offset="4393796">Here, of course, State jury selection procedures vary, and so there has to be some allowance for that.</text>
+            <text syncTime="1107.236" offset="4428904">On the other hand, I'm not sure what the State is going to tell me so far as a helpful analog for having a different... different rule.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1117.176" stopTime="1137.689">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1117.176" offset="4468611">The best standard we could come up with, Your Honor, was something that was similar to the standard on a Federal civil procedure 12(b)(6) motion.</text>
+            <text syncTime="1127.282" offset="4509048">On a motion to dismiss, could a reasonable trial... could a reasonable trier of fact find for the plaintiff?</text>
+            <text syncTime="1134.554" offset="4538201">That was... that is the closest analog we have.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1137.689" stopTime="1145.509">
+            <label>Unknown Speaker</label>
+            <text syncTime="1137.689" offset="4550740">Yes, but what you're talking about is a judgment at the close of the plaintiff's case, aren't you?</text>
+            <text syncTime="1141.574" offset="4566204">You're not talking about a motion to dismiss a complaint before trial.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1145.509" stopTime="1180.949">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1145.509" offset="4581982">That... that's what 12(b)(6) would be, Your Honor.</text>
+            <text syncTime="1148.711" offset="4594834">So the question is can the plaintiff get out... can the plaintiff get out of the batter's box.</text>
+            <text syncTime="1153.032" offset="4612075">So that that is... that is the type of language that... that we are seeing in the Federal courts interpreting the raise in inference.</text>
+            <text syncTime="1161.304" offset="4645198">That's also what we are... in Title VII contexts we're actually seeing a lower threshold.</text>
+            <text syncTime="1167.791" offset="4671112">In Title VII, to establish a prima facie case, the plaintiff needs to show that he was part of... of a protected group, that he was qualified for a job, that he applied, that he was rejected, and the employer is still looking.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1180.949" stopTime="1199.410">
+            <label>Unknown Speaker</label>
+            <text syncTime="1180.949" offset="4723775">But you... you do have some difference on a motion to dismiss because the rule is that if any conceivable allegations could have been proved in support of what the complaint says, it shouldn't be dismissed.</text>
+            <text syncTime="1192.240" offset="4768914">But at the close of the plaintiff's evidence, I think it's a little more stringent.</text>
+            <text syncTime="1195.608" offset="4782393">It's what... what does the plaintiff's evidence show, not what could it have shown.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1199.410" stopTime="1236.699">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1199.410" offset="4797544">I... I guess I'm persuaded that we are somewhat higher than rule 12(b)(6).</text>
+            <text syncTime="1203.528" offset="4814054">I think we're also somewhat lower than reasonable suspicion.</text>
+            <text syncTime="1206.194" offset="4824712">But I think this standard comes up in many other kinds of motions where ordinary civil procedure motions where a plaintiff wants to proceed and for... a motion for challenged discovery, for example.</text>
+            <text syncTime="1217.336" offset="4869329">The plaintiff wants to proceed and the defendant says we don't want our witness brought in here.</text>
+            <text syncTime="1222.655" offset="4890540">He's an important person.</text>
+            <text syncTime="1223.605" offset="4894407">He's an officer of an important corporation, and the judge... show me why we should take that person's deposition.</text>
+            <text syncTime="1229.559" offset="4918230">Now, you don't have to prove anything beyond a preponderance.</text>
+            <text syncTime="1232.611" offset="4930351">You need to show some reasonable facts that can be learned from that person.</text>
+            <text syncTime="1236.265" offset="4944980">In this--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1236.699" stopTime="1245.355">
+            <label>Unknown Speaker</label>
+            <text syncTime="1236.699" offset="4946756">But the typical discovery motion isn't appealable, so there isn't much writing on the subject of what sort of a standard should apply in that sort of discovery.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1245.355" stopTime="1293.050">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1245.355" offset="4981342">--But it... it could turn out to be appealable.</text>
+            <text syncTime="1247.221" offset="4988865">The chances of them showing prejudice are limited, but it's the same kind of situation.</text>
+            <text syncTime="1251.259" offset="5004957">The plaintiff here is trying to obtain some evidence, and here it's actually the crucial evidence so that in my discovery analogy, it wouldn't work for... it wouldn't work for garden-variety discovery, but if we had a major witness and a major point, that issue might show up as a... as the... as the issue on which an appeal turned.</text>
+            <text syncTime="1269.970" offset="5079876">Here the information we're trying to find is... goes to the guts of the question of racial discrimination.</text>
+            <text syncTime="1274.922" offset="5099624">It goes to the reason that the prosecutor... the reason for the prosecutor's challenge.</text>
+            <text syncTime="1280.742" offset="5122926">The trial judge has to decide whether there is a race-neutral reason and whether that was in fact the prosecutor's reason and whether that reason was credible.</text>
+            <text syncTime="1290.015" offset="5160020">None of that can be determined unless we know the prosecutor's reason.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1293.050" stopTime="1314.047">
+            <label>Unknown Speaker</label>
+            <text syncTime="1293.050" offset="5172140">What if... what if the trial court at the prima facie stage says it... it seems perfectly obvious to me... and I think this is perhaps what the judge here did... that the reason the prosecutor did this was thus and so.</text>
+            <text syncTime="1305.476" offset="5221878">And then the... so he doesn't call on the prosecutor, but nonetheless, it's very plausible what he said.</text>
+            <text syncTime="1311.813" offset="5247164">Now, isn't that a form of harmless error?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1314.047" stopTime="1333.727">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1314.047" offset="5256150">I can't see anything remotely obvious here, Your Honor, between the State judges and the attorney... State Attorney General's office has speculated as to two reasons for challenges to Clodette Turner.</text>
+            <text syncTime="1325.771" offset="5303066">They speculated as to five possible reasons for the challenges to Sara Edwards, and they speculated on eight possible reasons for the challenges to Ruby Lanere.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1333.727" stopTime="1334.144">
+            <label>Unknown Speaker</label>
+            <text syncTime="1333.727" offset="5334831">Well, what... what--</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1334.144" stopTime="1336.663">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1334.144" offset="5336503">If it was so obvious, they wouldn't have 15 speculations.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1336.663" stopTime="1351.839">
+            <label>Unknown Speaker</label>
+            <text syncTime="1336.663" offset="5346638">--What if the prosecutor, after the prima facie stage, says I did it for this reason?</text>
+            <text syncTime="1345.250" offset="5380911">All parties... the... the defense isn't bound by that statement, is it?</text>
+            <text syncTime="1349.304" offset="5397211">But I suppose the prosecutor is.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1351.839" stopTime="1420.183">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1351.839" offset="5407347">The prosecutor is, and then the defense gets to argue, as one does in a Title VII case, that there is something wrong with that answer which therefore shows prejudice.</text>
+            <text syncTime="1361.878" offset="5447471">Perhaps the prosecutor has said I challenge this juror because in voir dire, the juror said he was... I believe the juror was illiterate.</text>
+            <text syncTime="1369.217" offset="5476833">And it turns out the question was, Mr. Juror, how do you get your news?</text>
+            <text syncTime="1372.936" offset="5491670">From the newspaper or television?</text>
+            <text syncTime="1374.652" offset="5498567">And the juror said, I get it from television.</text>
+            <text syncTime="1376.704" offset="5506717">And the prosecutor thought that showed illiteracy.</text>
+            <text syncTime="1378.906" offset="5515598">If that's the test for literacy, then two-thirds of our population is illiterate.</text>
+            <text syncTime="1383.025" offset="5532003">That's why we need to get the reasons.</text>
+            <text syncTime="1385.660" offset="5542557">The... the defense is not bound by it.</text>
+            <text syncTime="1387.596" offset="5550289">The defense is entitled to show that the reason may be pretextual.</text>
+            <text syncTime="1391.298" offset="5565127">Sometimes it will be.</text>
+            <text syncTime="1393.000" offset="5571918">Sometimes it will not.</text>
+            <text syncTime="1394.583" offset="5578292">But unless the... the whole guts of Title VII where the employer always gives a reason is trying to show in one way or another from the facts and circumstances and all the evidence that the reason is pretextual.</text>
+            <text syncTime="1406.573" offset="5626253">And that should apply in... in... under Batson in the same way.</text>
+            <text syncTime="1409.775" offset="5639001">But one cannot evaluate from either position, from the defense position or the prosecution position, whether the reason is pretextual unless one hears the reason.</text>
+            <text syncTime="1419.733" offset="5678916">And if--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1420.183" stopTime="1447.050">
+            <label>Unknown Speaker</label>
+            <text syncTime="1420.183" offset="5680692">I suppose... suppose one problem that is more difficult in the Batson context... we're talking about a reason that would justify a peremptory challenge, not a challenge for cause.</text>
+            <text syncTime="1435.593" offset="5742341">And I imagine that a good judge and a good lawyer could come up with that kind of reason for almost any potential juror.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1447.050" stopTime="1460.124">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1447.050" offset="5788108">--We are... most of the time the... the prosecutors are going to have race-neutral reasons.</text>
+            <text syncTime="1451.768" offset="5807020">All... all we're doing is asking for, to check for the unusual circumstance when the reason is not race-neutral or when the reason is pretextual.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1460.124" stopTime="1465.262">
+            <label>Unknown Speaker</label>
+            <text syncTime="1460.124" offset="5840457">I thought you didn't need a reason for a peremptory challenge.</text>
+            <text syncTime="1463.060" offset="5852160">I thought that's the beauty of... of a peremptory challenge.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1465.262" stopTime="1465.928">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1465.262" offset="5861042">A peremptory challenge--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1465.928" stopTime="1474.534">
+            <label>Unknown Speaker</label>
+            <text syncTime="1465.928" offset="5863654">I don't know.</text>
+            <text syncTime="1466.745" offset="5866893">There's just something about this guy.</text>
+            <text syncTime="1467.812" offset="5871177">I just... you know, my antennae tell me that this person isn't going to be good for my side of the case.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1474.534" stopTime="1474.984">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1474.534" offset="5898136">--A peremptory--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1474.984" stopTime="1475.751">
+            <label>Unknown Speaker</label>
+            <text syncTime="1474.984" offset="5899912">Is... is that enough of a reason?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1475.751" stopTime="1480.355">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1475.751" offset="5902942">--A peremptory challenge is valid for any reason except an unconstitutional reason.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1480.355" stopTime="1480.622">
+            <label>Unknown Speaker</label>
+            <text syncTime="1480.355" offset="5921332">Right.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1480.622" stopTime="1525.317">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1480.622" offset="5922482">When this Court considered Batson, the argument made by the State is we have a peremptory challenge statute which is very important and you shouldn't just brush it aside.</text>
+            <text syncTime="1489.560" offset="5958217">And this Court decided in Batson, yes, peremptory challenge statutes are important, but the Equal Protection Clause and the U.S. Constitution are even more important, and as in the conflict between those two, the Equal Protection Clause, which is preventing racial discrimination, which is protecting the rights of the individual jurors not to be discriminated, which is protecting the right of the defendant not to be tried by a jury chosen with discrimination, and which is protecting the rights of the public not to have the criminal system upset by discrimination, the... this Court in Batson decided that the Equal Protection Clause under... trumps the right for--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1525.317" stopTime="1528.002">
+            <label>Unknown Speaker</label>
+            <text syncTime="1525.317" offset="6101264">So what I said wouldn't suffice.</text>
+            <text syncTime="1526.567" offset="6106175">You say that wouldn't suffice as a reason.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="1528.002" stopTime="1559.255">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="1528.002" offset="6111922">--I would say any... I would say a... the... I don't want to put you... Your Honor in those shoes, but a prosecutor... we've never seen a prosecutor not have a reason.</text>
+            <text syncTime="1536.691" offset="6146717">So if you... so if you were the prosecutor and you said, I have a hunch, the trial judge would probably ask, counsel, please I need more than a hunch.</text>
+            <text syncTime="1543.428" offset="6173675">Please give me the reason for your hunch.</text>
+            <text syncTime="1544.728" offset="6178900">And your answer is I don't like jurors who have beards, I don't like jurors who have long hair, I don't like postal workers, some basis for the hunch.</text>
+            <text syncTime="1551.868" offset="6207425">Any prosecutor who is not discriminating would have a basis for that hunch.</text>
+            <text syncTime="1557.022" offset="6228010">If there are no questions, I'd like to save my remaining time for rebuttal.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1559.255" stopTime="1567.628">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="1559.255" offset="6236996">Very well, Mr. Bedrick.</text>
+            <text syncTime="1560.557" offset="6242220">Mr. Schalit, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="1567.628" stopTime="3119.706" revised="2014-02-01">
+          <heading>Argument of Seth K. Schalit</heading>
+          <turn speaker="seth_k_schalit" startTime="1567.628" stopTime="1588.707">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1567.628" offset="6270433">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1570.162" offset="6280568">The more likely than not standard identified by the California Supreme Court gives content to the prima facie case requirement and preserves the proper balance between the anti-discrimination principles enshrined in the Equal Protection Clause and the State's and parties' interest in using peremptory challenges to select a qualified and unbiased jury.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1588.707" stopTime="1596.730">
+            <label>Justice Scalia</label>
+            <text syncTime="1588.707" offset="6354756">Just so we can get it behind us, do you have any observation on the apparent jurisdictional problem we have?</text>
+            <text syncTime="1595.111" offset="6380356">Can you give us a hand?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1596.730" stopTime="1619.909">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1596.730" offset="6386834">I'll attempt to do so, Your Honor.</text>
+            <text syncTime="1598.830" offset="6395298">The situation I think is akin to that under which multiple claims are raised and a court of appeal disposes of it based on one ground and does not discuss anything else.</text>
+            <text syncTime="1608.538" offset="6434064">And that court is therefore... thereafter reversed on appeal.</text>
+            <text syncTime="1611.388" offset="6445453">I think that is a final judgment.</text>
+            <text syncTime="1613.090" offset="6452349">The... the defendant in this case has been deprived of his reversal and that is what--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1619.909" stopTime="1627.499">
+            <label>Justice Scalia</label>
+            <text syncTime="1619.909" offset="6479621">Even when it's been remanded, when the judgment is, you know, I decided on this ground and then I remand it for further proceedings in the case?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1627.499" stopTime="1635.605">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1627.499" offset="6509923">--I think so, Your Honor, in that the... the legal issue is... is still present as to the--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1635.605" stopTime="1641.425">
+            <label>Justice Scalia</label>
+            <text syncTime="1635.605" offset="6542420">That's not the test.</text>
+            <text syncTime="1636.405" offset="6545554">The test is whether the case is final.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1641.425" stopTime="1643.359">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1641.425" offset="6565616">--Regrettably, Your Honor, unfortunately I haven't had time--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1643.359" stopTime="1643.961">
+            <label>Justice Scalia</label>
+            <text syncTime="1643.359" offset="6573349">Yes, we sort of sprung it on you.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1643.961" stopTime="1644.344">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1643.961" offset="6575752">--Yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1644.344" stopTime="1647.163">
+            <label>Justice Scalia</label>
+            <text syncTime="1644.344" offset="6577319">Okay.</text>
+            <text syncTime="1645.011" offset="6580036">I just thought you might have an answer.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1647.163" stopTime="1649.629">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1647.163" offset="6588604">That's as best as I can do.</text>
+            <text syncTime="1648.313" offset="6593202">My apologies.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1649.629" stopTime="1653.400">
+            <label>Unknown Speaker</label>
+            <text syncTime="1649.629" offset="6598426">You have an issue that's finally decided in this case.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1653.400" stopTime="1654.233">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1653.400" offset="6613577">Correct, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1654.233" stopTime="1683.352">
+            <label>Unknown Speaker</label>
+            <text syncTime="1654.233" offset="6616921">And that will be law on the case.</text>
+            <text syncTime="1656.435" offset="6625698">But you don't have a judgment, a final judgment in the case because now there are all those issues that the intermediate appellate court said it left open.</text>
+            <text syncTime="1667.207" offset="6668748">It gave some hints about what validity it thought they had, but... but there is... there are a number of issues that are still to be opened.</text>
+            <text syncTime="1677.848" offset="6711380">So the judgment isn't final.</text>
+            <text syncTime="1680.300" offset="6721097">Only one issue in the case is.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1683.352" stopTime="1692.858">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1683.352" offset="6733322">My apologies, Your Honor.</text>
+            <text syncTime="1684.219" offset="6736875">Beyond what I've already articulated in terms of that... deprivation of that reversal based on that issue is the extent of my knowledge, this issue not having been briefed.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1692.858" stopTime="1712.820">
+            <label>Unknown Speaker</label>
+            <text syncTime="1692.858" offset="6771357">May I ask you this question about the California standard?</text>
+            <text syncTime="1696.310" offset="6785149">Is it... did you just say the standard is the judge must decide that it's more likely than not that there was discrimination?</text>
+            <text syncTime="1702.797" offset="6811167">Or... and I think it would be quite different to say... the judge must decide that a reasonable juror could conclude that it's more likely than not that there was a... discrimination.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1712.820" stopTime="1714.938">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1712.820" offset="6851187">No, Your Honor.</text>
+            <text syncTime="1713.353" offset="6853381">It is not the latter test.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1714.938" stopTime="1715.505">
+            <label>Unknown Speaker</label>
+            <text syncTime="1714.938" offset="6859651">It's not the latter.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1715.505" stopTime="1715.888">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1715.505" offset="6861949">No.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1715.888" stopTime="1717.389">
+            <label>Unknown Speaker</label>
+            <text syncTime="1715.888" offset="6863517">And why shouldn't it be the latter?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1717.389" stopTime="1730.864">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1717.389" offset="6869473">Because the judge is operating as the fact finder in this setting, and given the nature of the prima facie case requirement, which is one that when the prima facie case is met, entitles the objecting party to prevail--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1730.864" stopTime="1739.137">
+            <label>Unknown Speaker</label>
+            <text syncTime="1730.864" offset="6923389">In your... in your ordinary civil trials, which view does the... is... what is the rule in California?</text>
+            <text syncTime="1735.851" offset="6943347">Would... would it be the one I stated or the one you stated?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1739.137" stopTime="1745.891">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1739.137" offset="6956513">--That depends on the function of the prima facie case in term... in... in the context in which it's being used.</text>
+            <text syncTime="1744.541" offset="6978142">There are two--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1745.891" stopTime="1755.480">
+            <label>Unknown Speaker</label>
+            <text syncTime="1745.891" offset="6983471">Say it's a tort case where he sued for, you know, negligence in driving a car.</text>
+            <text syncTime="1751.361" offset="7005414">Which... which would be the correct statement under California law?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1755.480" stopTime="1758.015">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1755.480" offset="7021819">--Well, if it is a question of has the--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1758.015" stopTime="1760.417">
+            <label>Unknown Speaker</label>
+            <text syncTime="1758.015" offset="7032059">Do I let the case go to the jury?</text>
+            <text syncTime="1759.301" offset="7037179">That's what's before him.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1760.417" stopTime="1764.003">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1760.417" offset="7041567">--If that's the question, then it is an inference--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1764.003" stopTime="1766.620">
+            <label>Unknown Speaker</label>
+            <text syncTime="1764.003" offset="7055987">It's whether a reasonable jury could find that there was--</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1766.620" stopTime="1767.504">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1766.620" offset="7066436">--Correct, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1767.504" stopTime="1788.820">
+            <label>Unknown Speaker</label>
+            <text syncTime="1767.504" offset="7069989">--And why do you say there's a distinction here?</text>
+            <text syncTime="1769.739" offset="7078870">I... I understood you to... to say that the... the distinction rests on the fact that the... at the... at the close of... of whatever argument or point the... the defense counsel makes, that he's entitled, in effect, to... to win the point.</text>
+            <text syncTime="1786.701" offset="7146789">But that's not so.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1788.820" stopTime="1790.520">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1788.820" offset="7155252">In the face of his opponent's silence, Your Honor--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1790.520" stopTime="1791.772">
+            <label>Unknown Speaker</label>
+            <text syncTime="1790.520" offset="7162044">In the face of silence.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1791.772" stopTime="1792.138">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1791.772" offset="7167060">--Correct, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1792.138" stopTime="1822.624">
+            <label>Unknown Speaker</label>
+            <text syncTime="1792.138" offset="7168522">That's a further... I mean, a further fact in evidence.</text>
+            <text syncTime="1794.724" offset="7178867">I mean, if... if somebody puts in a... a permissive case in a... in a civil action and the defense puts in nothing, the... the jury may or may not ultimately award for the... for the plaintiff.</text>
+            <text syncTime="1810.833" offset="7243233">They may... but in... in this case, I take it the way it works, there is a... a presumption that aids the objecting party and therefore the objecting party wins.</text>
+            <text syncTime="1820.839" offset="7283252">Is... is that your understanding?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1822.624" stopTime="1823.574">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1822.624" offset="7290462">Essentially, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1823.574" stopTime="1823.974">
+            <label>Unknown Speaker</label>
+            <text syncTime="1823.574" offset="7294224">Yes.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1823.974" stopTime="1830.897">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1823.974" offset="7295896">In the... in the Batson context.</text>
+            <text syncTime="1825.826" offset="7303210">It is not a presumption in the McDonnell sense of having proved certain predicate elements.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1830.897" stopTime="1844.004">
+            <label>Unknown Speaker</label>
+            <text syncTime="1830.897" offset="7323585">Okay.</text>
+            <text syncTime="1831.280" offset="7325048">But if the... if, on the other hand, the prosecutor does make a response, then there's no presumption.</text>
+            <text syncTime="1840.302" offset="7361202">Then the... the judge simply has to make a determination.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1844.004" stopTime="1851.492">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1844.004" offset="7375935">Correct, Your Honor.</text>
+            <text syncTime="1844.488" offset="7377920">The judge must evaluate the response and the... and the rest of the evidence in determining whether the objector has met his ultimate burden of persuasion.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1851.492" stopTime="1868.802">
+            <label>Unknown Speaker</label>
+            <text syncTime="1851.492" offset="7405923">And... and when he does that, he may very well, in effect, say, yes, there's evidence here from which I could infer discriminatory intent, but I don't infer it.</text>
+            <text syncTime="1862.549" offset="7450122">I am not wholly convinced by it for whatever reason.</text>
+            <text syncTime="1865.684" offset="7462661">And that's... that's a possible resolution by the court, isn't it?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1868.802" stopTime="1870.419">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1868.802" offset="7475200">In a stage three, Your Honor, of a Batson proceeding?</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1870.419" stopTime="1870.652">
+            <label>Unknown Speaker</label>
+            <text syncTime="1870.419" offset="7481574">Yes.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1870.652" stopTime="1871.002">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1870.652" offset="7482514">Yes.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1871.002" stopTime="1882.544">
+            <label>Unknown Speaker</label>
+            <text syncTime="1871.002" offset="7483977">So at... at the last stage, the trial judge is acting as if he were... it were a bench trial, and it's up to him to decide whether there was or was not a discriminatory purpose.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1882.544" stopTime="1895.017">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1882.544" offset="7530162">Correct, Your Honor.</text>
+            <text syncTime="1883.396" offset="7533505">Having now heard the reasons, the trial court will evaluate the credibility of the prosecutor.</text>
+            <text syncTime="1887.597" offset="7550328">As the plurality recognized in Hernandez, frequently the credibility of the striking party will be dispositive.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1895.017" stopTime="1902.707">
+            <label>Unknown Speaker</label>
+            <text syncTime="1895.017" offset="7580003">But... but if no reasons are given, it's your position that automatically it's determined that there's a constitutional violation.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1902.707" stopTime="1903.923">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1902.707" offset="7610828">Correct, Your Honor.</text>
+            <text syncTime="1903.390" offset="7613544">That is--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1903.923" stopTime="1905.575">
+            <label>Unknown Speaker</label>
+            <text syncTime="1903.923" offset="7615634">The other side says no.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1905.575" stopTime="1921.169">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1905.575" offset="7622217">--Well, that ignores the disposition in Batson itself in which the Court explained that on remand it was up to the trial court to determine whether there was a prima facie case, and if the prosecutor did not come forward with his race-neutral reasons, the judgment had to be reversed.</text>
+            <text syncTime="1920.735" offset="7682926">It is that--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1921.169" stopTime="1952.956">
+            <label>Unknown Speaker</label>
+            <text syncTime="1921.169" offset="7684598">But isn't the... the position that... that you are advocating, if I understand it correctly, is that the court saves the prosecutor that burden by the court, before turning to the prosecutor, to say what's your nondiscriminatory reason.</text>
+            <text syncTime="1937.863" offset="7751367">The court itself first thinks of can the court think of a good reason, and if the court thinks of a good reason, it never asks the prosecutor.</text>
+            <text syncTime="1947.736" offset="7790864">That's the... that's... as I understand your case, you say that's how it works.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1952.956" stopTime="1973.286">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1952.956" offset="7811762">--Not entirely, Your Honor, in that it is not the court's obligation nor do California courts seek out to save the striking party.</text>
+            <text syncTime="1962.062" offset="7848229">What they do do is attempt to determine whether the objecting party has met its burden of persuasion at that first step, and in considering everything before it, it will make that determination.</text>
+            <text syncTime="1972.703" offset="7890756">Now, there may be--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1973.286" stopTime="1992.700">
+            <label>Unknown Speaker</label>
+            <text syncTime="1973.286" offset="7893055">Well, do you think... suppose there were 12 peremptory challenges and there were 12 African American prospective jurors there and all of them were stricken.</text>
+            <text syncTime="1986.713" offset="7946762">Is there enough case made if there's an objection by the defense counsel?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1992.700" stopTime="1998.687">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1992.700" offset="7970795">--Well, Justice O'Connor, certainly numerosity is an important point or an important consideration.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1998.687" stopTime="1999.937">
+            <label>Unknown Speaker</label>
+            <text syncTime="1998.687" offset="7994723">--in my example.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="1999.937" stopTime="2018.331">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="1999.937" offset="7999739">Your... Your Honor, your example actually needs additional facts.</text>
+            <text syncTime="2002.972" offset="8011860">If, for example, one of those African American prospective jurors said, I hate cops and the second was wearing, you know, crypts colors in a case involving the blood, and the third was half asleep and the fourth had some other obvious explanation, then no.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2018.331" stopTime="2026.920">
+            <label>Unknown Speaker</label>
+            <text syncTime="2018.331" offset="8073300">Well, so, the trial judge can look into that as a part of the prima facie case.</text>
+            <text syncTime="2023.969" offset="8095869">He can look into what the jurors responded?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2026.920" stopTime="2041.097">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2026.920" offset="8107677">Yes, Your Honor, because of the... it is the trial judge's obligation under Batson to evaluate all the facts and circumstances.</text>
+            <text syncTime="2032.741" offset="8130873">Batson itself recognized that the prosecutor's questioning during voir dire may support or refute--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2041.097" stopTime="2057.023">
+            <label>Unknown Speaker</label>
+            <text syncTime="2041.097" offset="8164310">Suppose I'm the trial judge and I consider, you know, there are reasons why the prosecutor... legitimate reasons why the prosecutor might have exercised this challenge.</text>
+            <text syncTime="2050.719" offset="8202867">Do I go further?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2057.023" stopTime="2064.962">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2057.023" offset="8228049">--I think it's up to the trial... trial judge to determine whether the objector has met his burden of persuasion as more likely than not.</text>
+            <text syncTime="2063.260" offset="8253022">If I can see a legitimate reason--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2064.962" stopTime="2091.114">
+            <label>Unknown Speaker</label>
+            <text syncTime="2064.962" offset="8259814">Well, I... the... the case is the one I... I gave you.</text>
+            <text syncTime="2068.164" offset="8272562">There's an objection.</text>
+            <text syncTime="2069.449" offset="8277786">And I say, you know, there are reasons why this prosecutor might have done this.</text>
+            <text syncTime="2074.668" offset="8298580">Do I quit at that point and say, well, you haven't made out your case?</text>
+            <text syncTime="2078.020" offset="8312059">That's the way I understand the California rule, incidentally.</text>
+            <text syncTime="2081.258" offset="8325016">If there... if there are reasons that might have allowed the prosecutor to give the peremptory challenge, the prima facie case may not have been made out.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2091.114" stopTime="2114.062">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2091.114" offset="8364408">--And I think it's important, Your Honor, to distinguish the rule as understood on appeal in California from the rule in application in the trial courts.</text>
+            <text syncTime="2099.635" offset="8398472">It is not can we hypothesize a potential reason in... from the trial judge's perspective that there's a challenge here.</text>
+            <text syncTime="2106.806" offset="8427207">It is up to the trial judge to determine from all of the evidence whether it is more likely than not.</text>
+            <text syncTime="2112.027" offset="8448104">And maybe I have a reason but--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2114.062" stopTime="2118.681">
+            <label>Unknown Speaker</label>
+            <text syncTime="2114.062" offset="8456150">But it's very odd that he would do that without even asking the prosecutor to comment.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2118.681" stopTime="2121.666">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2118.681" offset="8474645">--Not... not particularly, Your Honor.</text>
+            <text syncTime="2120.299" offset="8481123">If the prosecutor has--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2121.666" stopTime="2125.001">
+            <label>Unknown Speaker</label>
+            <text syncTime="2121.666" offset="8486661">I mean, it's odd in the sense that California is one of the only States that does it.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2125.001" stopTime="2175.601">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2125.001" offset="8499931">--Well, Your Honor, if the prosecutor three African American prospective jurors, all of whom are defense attorneys and they're struck by the prosecutor, there's nothing odd about not asking about that.</text>
+            <text syncTime="2134.893" offset="8539533">They're all defense attorneys.</text>
+            <text syncTime="2136.576" offset="8546220">If, however, maybe, you know, there was a little something that one of the jurors did and I can sort of see the reason for that, but they struck 12 of them and I sort of see a reason, that's not enough most likely in the more likely than not context.</text>
+            <text syncTime="2149.485" offset="8597838">And the prosecutor will be required to state reasons.</text>
+            <text syncTime="2152.187" offset="8608705">Now, that is different than on appeal where, of course, the judgment of the trial court is presumed correct and the trial court is the entity that has seen everything.</text>
+            <text syncTime="2161.210" offset="8644754">And if on the face of the record, there's something that appears to be the reason, well, then that must be used on appeal, just as in the other appeal to support the judgment below.</text>
+            <text syncTime="2170.316" offset="8681221">But it is the trial court's obligation to evaluate everything before it, and to determine--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2175.601" stopTime="2248.649">
+            <label>Unknown Speaker</label>
+            <text syncTime="2175.601" offset="8702328">Well... no, I didn't mean to... complete your... the... the problem I have with... with, I guess, that argument and... and with the California position is this.</text>
+            <text syncTime="2185.741" offset="8742870">I assume that under Batson when and if the time comes for the prosecutor to make a response, we want a... a context in... in which the prosecutor at least has got a fair shake to... to persuade the court.</text>
+            <text syncTime="2200.751" offset="8802952">And on the California system, what you're defending, the judge does not, in effect, as the prosecutor for a response until the judge, in effect, has already found against him on the merits because on your view, the prosecutor has said implicitly, by a preponderance of the evidence, they have proven discrimination.</text>
+            <text syncTime="2224.283" offset="8897097">Anything you'd like to say about that?</text>
+            <text syncTime="2226.485" offset="8905874">That's a very different thing from saying, this side's case in and I might find for them, but I... I haven't yet.</text>
+            <text syncTime="2234.758" offset="8938998">What do you have to say?</text>
+            <text syncTime="2236.541" offset="8946103">It... it in effect on... on the California scheme forces the... the court to say I've already ruled against you based on the merits unless you say something.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2248.649" stopTime="2262.258">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2248.649" offset="8994586">--Yes, Your Honor, and that is the purpose of the... of the prima facie case requirement.</text>
+            <text syncTime="2253.720" offset="9014857">It is to allocate the introduction of the burden of proof and it is to protect the constitutionality of the State statute and the nature of the challenges as being peremptory.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2262.258" stopTime="2269.912">
+            <label>Unknown Speaker</label>
+            <text syncTime="2262.258" offset="9049025">But it puts the prosecutor in a... in rather a difficult spot if... if you get to that point.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2269.912" stopTime="2270.347">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2269.912" offset="9079641">Yes, and that--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2270.347" stopTime="2276.168">
+            <label>Unknown Speaker</label>
+            <text syncTime="2270.347" offset="9081313">Because the prosecutor has already been told you lose unless you've got a darned good reason.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2276.168" stopTime="2283.655">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2276.168" offset="9104614">--Just as the employer is told that essentially in a Title VII case when the evidence is introduced on those four McDonnell Douglas factors and the evidence is persuasive.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2283.655" stopTime="2292.011">
+            <label>Unknown Speaker</label>
+            <text syncTime="2283.655" offset="9134602">But... but it seems to me--</text>
+            <text syncTime="2284.172" offset="9136588">--No.</text>
+            <text syncTime="2284.388" offset="9137528">--the opposite is also true for what Justice Souter is saying.</text>
+            <text syncTime="2286.857" offset="9147350">The... the judge says, you're going to win unless you say something.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2292.011" stopTime="2292.561">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2292.011" offset="9168039">Well, then there's--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2292.561" stopTime="2296.546">
+            <label>Unknown Speaker</label>
+            <text syncTime="2292.561" offset="9170233">No.</text>
+            <text syncTime="2292.961" offset="9171801">So I... I... in that instance, he obviously says nothing.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2296.546" stopTime="2297.331">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2296.546" offset="9186116">--Correct, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2297.331" stopTime="2311.774">
+            <label>Unknown Speaker</label>
+            <text syncTime="2297.331" offset="9189251">He doesn't say you're going to win.</text>
+            <text syncTime="2299.014" offset="9196042">He's going to say there is enough to require you to respond.</text>
+            <text syncTime="2305.068" offset="9220180">Whether... whether you win or lose is up to me after the response.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2311.774" stopTime="2328.851">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2311.774" offset="9247033">In the... in the Batson setting, in the Title VII cases, in any case in which there is a prima facie case found, going back to Kelly v. Peters with Justice Story, there is such evidence that unless rebutted, the party with the burden of persuasion will prevail.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2328.851" stopTime="2364.975">
+            <label>Unknown Speaker</label>
+            <text syncTime="2328.851" offset="9315370">That is true if you've got a presumption working.</text>
+            <text syncTime="2331.653" offset="9326550">It is not true if you simply have a... a standard that... that allows for the permissive inference.</text>
+            <text syncTime="2341.110" offset="9364376">If... if nothing more than a permissive inference is involved and the case... and the defense puts in no case, the plaintiff may or may not win.</text>
+            <text syncTime="2350.132" offset="9400424">The only thing that makes the difference is... is whether a presumption operates to convert the permissive case into a victory, and whether the presumption is going to operate or not is a question of... of policy.</text>
+            <text syncTime="2362.273" offset="9449012">It's not a question of logical relationships.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2364.975" stopTime="2379.651">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2364.975" offset="9459879">Certainly it does operate when there is a presumption established by the court, as this Court did in McDonnell Douglas.</text>
+            <text syncTime="2370.610" offset="9482344">It also operates when there is a... what Wigmore referred to as a strong mass of evidence.</text>
+            <text syncTime="2375.348" offset="9501362">That concept cannot be alighted from the definition of a prima facie case in that--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2379.651" stopTime="2395.744">
+            <label>Unknown Speaker</label>
+            <text syncTime="2379.651" offset="9518602">May I ask you this question just to be sure I... I have your position?</text>
+            <text syncTime="2383.019" offset="9531977">The other side says California is the only State in the Union that follows this strict a rule and the Federal courts all follow the... the other rule.</text>
+            <text syncTime="2390.607" offset="9562384">Are they right on that, or do you think they're... you have company in other parts of the country?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2395.744" stopTime="2408.185">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2395.744" offset="9582968">--We are... there are... there are other cases that announced the same standard.</text>
+            <text syncTime="2399.129" offset="9596447">Maryland announced it.</text>
+            <text syncTime="2399.829" offset="9599269">Connecticut announced it.</text>
+            <text syncTime="2401.165" offset="9604598">The court below recognized that.</text>
+            <text syncTime="2403.048" offset="9612121">There are a handful of cases on the other side that recognize inference.</text>
+            <text syncTime="2407.302" offset="9629153">The Ninth Circuit does.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2408.185" stopTime="2411.221">
+            <label>Unknown Speaker</label>
+            <text syncTime="2408.185" offset="9632705">The legislature overturned it in Connecticut.</text>
+            <text syncTime="2410.587" offset="9642318">Isn't that so?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2411.221" stopTime="2417.508">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2411.221" offset="9644826">My belief is that actually the Supreme Court of Connecticut under its supervisory authority established a sort of--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2417.508" stopTime="2420.459">
+            <label>Unknown Speaker</label>
+            <text syncTime="2417.508" offset="9670008">Anyway, it's no... Connecticut is not out of line anymore.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2420.459" stopTime="2452.664">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2420.459" offset="9681816">--Not... yes.</text>
+            <text syncTime="2421.394" offset="9685473">They don't apply it, but they don't apply it based on their supervisory authority.</text>
+            <text syncTime="2424.846" offset="9699370">As an understanding of the meaning of Batson, it's still valid.</text>
+            <text syncTime="2428.298" offset="9713162">And because it's actually California, Maryland, and Connecticut that have considered the meaning of Batson and the Title VII cases.</text>
+            <text syncTime="2434.452" offset="9737718">The other cases... the Ninth Circuit just looked at the word and said inference.</text>
+            <text syncTime="2437.404" offset="9749525">They isolated that word from the rest of the Batson opinion.</text>
+            <text syncTime="2440.623" offset="9762482">That's not the appropriate way to read an opinion.</text>
+            <text syncTime="2442.975" offset="9771886">It must be considered in context.</text>
+            <text syncTime="2444.594" offset="9778364">Batson expressly told the courts to look to the Title VII cases for an explanation of the operation of the prima facie case rules.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2452.664" stopTime="2481.367">
+            <label>Unknown Speaker</label>
+            <text syncTime="2452.664" offset="9810651">But in Title VII there would be a presumption if the employer said nothing.</text>
+            <text syncTime="2456.402" offset="9825593">If the... if the plaintiff shows the McDonnell Douglas factors and the employer doesn't come up with any reason at all, I thought at that point, plaintiff wins because there's a reasonable inference, plus presumption.</text>
+            <text syncTime="2470.375" offset="9881496">Plaintiff wins.</text>
+            <text syncTime="2471.327" offset="9885257">When defendant comes forward with a nondiscriminatory reason, then the presumption drops out of the case.</text>
+            <text syncTime="2478.398" offset="9913574">Plaintiff shoulders the burden of persuasion.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2481.367" stopTime="2505.698">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2481.367" offset="9925381">Correct, Your Honor.</text>
+            <text syncTime="2482.517" offset="9929979">And that is one example of a prima facie case with a shifting burden of production that entitles the party to prevail in the face of silence.</text>
+            <text syncTime="2489.706" offset="9958818">The other example included in that same section of Wigmore is the strong mass of evidence, and he later explains that those things are different in operation and they differ... but the same in effect.</text>
+            <text syncTime="2502.013" offset="10008033">And the effect is the same.</text>
+            <text syncTime="2504.298" offset="10017123">The operation is different and the operation--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2505.698" stopTime="2516.023">
+            <label>Unknown Speaker</label>
+            <text syncTime="2505.698" offset="10022766">But I thought that... that this Title VII, the idea of reasonable inference plus presumption... that that's supposed to be the formula for Batson as well.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2516.023" stopTime="2556.231">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2516.023" offset="10064039">--Not presumption in the sense that there are four elements of McDonnell Douglas that apply in a Batson context.</text>
+            <text syncTime="2520.975" offset="10083892">There can't be those four elements.</text>
+            <text syncTime="2523.110" offset="10092356">Every time there's a challenge in a Batson setting, the four elements of McDonnell Douglas, for example, would have been met.</text>
+            <text syncTime="2528.498" offset="10113985">The juror would have been a minority qualified, excused, and replaced.</text>
+            <text syncTime="2533.235" offset="10132898">So the... the reference in Batson to the Title VII is not to a presumption, but to the operation of the prima facie case rules, and the operation of those rules are such that you provide sufficient evidence to entitle you to prevail in the face of silence.</text>
+            <text syncTime="2549.577" offset="10198204">And Wigmore ties that together with being synonyms for the same mechanism.</text>
+            <text syncTime="2554.481" offset="10217848">They are akin to presumptions.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2556.231" stopTime="2573.757">
+            <label>Unknown Speaker</label>
+            <text syncTime="2556.231" offset="10224849">I thought he said that the presumption operates in the run... mine run of cases, it's the presumption that the... what you call the strong evidence test... that's Batson for special instances and it isn't the dominant rule.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2573.757" stopTime="2607.830">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2573.757" offset="10294962">That... Your Honor, Wigmore recognized there are these two means in which you can create the prima facie case.</text>
+            <text syncTime="2581.279" offset="10325055">One is the presumption.</text>
+            <text syncTime="2582.512" offset="10329966">And that is helpful in a case in which there's a run of the mill type facts and in the run of the cases, that fact that is presumed, more likely than not, follows from the predicate facts.</text>
+            <text syncTime="2593.170" offset="10372598">That cannot be applied in Batson.</text>
+            <text syncTime="2594.856" offset="10379389">What does apply in Batson, however, is the other aspect of the prima facie case mechanism recognized by Wigmore which is the strong mass of evidence concept.</text>
+            <text syncTime="2604.562" offset="10418155">That has to be what is applied here in that the nature of the jury selection--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2607.830" stopTime="2661.631">
+            <label>Unknown Speaker</label>
+            <text syncTime="2607.830" offset="10431216">The... the problem with... with this is, though, is that, say, in the employment discrimination case, there's been discovery.</text>
+            <text syncTime="2614.501" offset="10457966">The events have happened outside the hearings of the court.</text>
+            <text syncTime="2617.202" offset="10468728">There has been time to look at it.</text>
+            <text syncTime="2618.804" offset="10475207">Here the alleged wrong is occurring right in the courtroom in front of the judge.</text>
+            <text syncTime="2625.541" offset="10502060">And so all they're saying is that the judge should, in an appropriate case, say, hey, what's going on here, Mr. Prosecutor.</text>
+            <text syncTime="2632.462" offset="10529750">That's all.</text>
+            <text syncTime="2633.897" offset="10535497">And... and it seems to me that's a very, very minimal intrusion on... on the trial.</text>
+            <text syncTime="2640.885" offset="10563500">And the... the State of California's rule seems to presume that the defense counsel, if... if he's the one objecting, has the resources of discovery and... and the opportunity to... to reflect and... and to find other evidence.</text>
+            <text syncTime="2658.228" offset="10632882">He doesn't.</text>
+            <text syncTime="2659.847" offset="10639360">The jury is being selected now.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2661.631" stopTime="2685.045">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2661.631" offset="10646465">--Precisely, Your Honor, and that is to his advantage.</text>
+            <text syncTime="2665.183" offset="10660676">As... as U.S. v. Armstrong recognized, the res gestae takes place in front of the court.</text>
+            <text syncTime="2670.135" offset="10680529">It takes place in front of the parties therefore.</text>
+            <text syncTime="2671.987" offset="10687948">Everything that that party needs is available to the party.</text>
+            <text syncTime="2675.189" offset="10700696">This is not Swain where the objecting party would have to engage in some sort of historical discovery and analysis.</text>
+            <text syncTime="2681.426" offset="10725669">Everything the party needs is there, and the striking party has--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2685.045" stopTime="2689.532">
+            <label>Unknown Speaker</label>
+            <text syncTime="2685.045" offset="10740088">Everything the party needs except the state of mind of the prosecutor, and the--</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2689.532" stopTime="2702.690">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2689.532" offset="10758060">--Correct, Your Honor, to which he is not entitled until he demonstrates entitlement to relief and is able to overturn the statute and make it unconstitutional as applied.</text>
+            <text syncTime="2700.507" offset="10801946">This Court has already rejected--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2702.690" stopTime="2720.235">
+            <label>Unknown Speaker</label>
+            <text syncTime="2702.690" offset="10810723">--Of course, the irony of that is that if... if you had an ordinary civil lawsuit and the plaintiff files a complaint on information and belief... I have good faith and belief such and such happened... then he takes a deposition and asks the defendant did it happen.</text>
+            <text syncTime="2714.849" offset="10859311">But here you can't do that.</text>
+            <text syncTime="2716.116" offset="10864431">You got to know the answer to what your information and belief is before you file your complaint.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2720.235" stopTime="2741.251">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2720.235" offset="10880940">--That's... that's the nature of privilege of peremptory challenges, the nature of any other privilege that protects information.</text>
+            <text syncTime="2727.324" offset="10909257">This Court has already rejected this sort of inference standard in its voir dire cases.</text>
+            <text syncTime="2733.811" offset="10935171">It's... it requires that you inquire of jurors, if there's a possibility of... not if there's a possibility of prejudice but if it's constitutionally significant.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2741.251" stopTime="2755.491">
+            <label>Unknown Speaker</label>
+            <text syncTime="2741.251" offset="10964950">Is it appropriate in a case like this to weigh, on the one hand, the importance of the interests that are protected by the Batson rule and, the other hand, the burden on the prosecutor by having to answer the question?</text>
+            <text syncTime="2751.272" offset="11005074">Is that an important part of the analysis?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2755.491" stopTime="2799.281">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2755.491" offset="11021897">No, Your Honor.</text>
+            <text syncTime="2756.010" offset="11023987">It's not a question of the burden of the... of the 10 seconds it takes to state an answer.</text>
+            <text syncTime="2760.045" offset="11040078">It is a question of the burden on the peremptory challenge system and the effect on the voir dire process.</text>
+            <text syncTime="2766.049" offset="11064111">A low standard will create an incentive to bring these motions more frequently.</text>
+            <text syncTime="2770.234" offset="11080934">That requires excusing the jury every time.</text>
+            <text syncTime="2772.769" offset="11091069">That requires taking a proceeding and getting an answer.</text>
+            <text syncTime="2776.055" offset="11104131">And that may, in turn, require proceedings through rebuttal.</text>
+            <text syncTime="2779.090" offset="11116356">Well, let's go through our dozen discharged jurors and piles of questionnaires to do a determination of whether this is pretext.</text>
+            <text syncTime="2786.177" offset="11144673">Moreover, it is the nature of the peremptory challenge system that is entitled to protection.</text>
+            <text syncTime="2790.294" offset="11161078">These challenges are peremptory.</text>
+            <text syncTime="2791.711" offset="11166824">We don't want to discourage challenges based on hunches which will be discouraged under a lower standard.</text>
+            <text syncTime="2797.115" offset="11188454">This gives the trial courts a clear guidance.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2799.281" stopTime="2812.458">
+            <label>Unknown Speaker</label>
+            <text syncTime="2799.281" offset="11197022">Of course, there are those... I remember Justice Marshall used to take the position that it would be better for the system as a whole if we entirely abandoned peremptories because you... you're better off if you always know what the reason is.</text>
+            <text syncTime="2810.506" offset="11241953">At least that's a permissible view.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2812.458" stopTime="2827.715">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2812.458" offset="11249789">Yes, that was his view, Your Honor.</text>
+            <text syncTime="2813.791" offset="11255118">And the reason he had that view was because he did not like the Batson rule which required a flagrant showing of discrimination in order to rise to the level of a prima facie case.</text>
+            <text syncTime="2823.413" offset="11293571">He understood that a prima facie case was one that entitled the party to relief.</text>
+            <text syncTime="2826.865" offset="11307363">That was the--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2827.715" stopTime="2849.028">
+            <label>Unknown Speaker</label>
+            <text syncTime="2827.715" offset="11310811">But they... most... most jurisdictions... most courts that considered this issue have the reasonable inference and that gives rise to the presumption.</text>
+            <text syncTime="2838.506" offset="11353966">California is in a minority.</text>
+            <text syncTime="2841.125" offset="11364415">Are you saying that California is right and everyone else is wrong?</text>
+            <text syncTime="2846.242" offset="11384895">Or that you're both right?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2849.028" stopTime="2853.115">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2849.028" offset="11396075">--Well, Your Honor, I'm not sure that the numbers are that stark, given that most cases--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2853.115" stopTime="2854.548">
+            <label>Unknown Speaker</label>
+            <text syncTime="2853.115" offset="11412376">Whatever.</text>
+            <text syncTime="2853.515" offset="11414047">There is a divergence.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2854.548" stopTime="2855.648">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2854.548" offset="11418122">--There's certainly a divergence.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2855.648" stopTime="2864.740">
+            <label>Unknown Speaker</label>
+            <text syncTime="2855.648" offset="11422511">Now, are you saying there is only one right way and that's California's, or are you saying it's up to the States?</text>
+            <text syncTime="2862.288" offset="11449051">They can have one rule or the other.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2864.740" stopTime="2875.346">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2864.740" offset="11458873">Your Honor, I think that certainly the footnote in Batson in the final part of the discussion recognizes the... that it is left to the States to determine procedures to govern Batson.</text>
+            <text syncTime="2873.596" offset="11494296">Now, on the other hand--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2875.346" stopTime="2885.820">
+            <label>Unknown Speaker</label>
+            <text syncTime="2875.346" offset="11501296">Does that mean... procedures to govern... that one State can have reasonable inference gives rise to presumption and in another, as California, can have strong likelihood?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2885.820" stopTime="2917.875">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2885.820" offset="11543197">--Quite possibly, Your Honor, in that we believe more likely than not is... is the result from Batson given the Title VII description.</text>
+            <text syncTime="2894.342" offset="11577365">On the other hand, there is that... that footnote and leaving to the States.</text>
+            <text syncTime="2897.461" offset="11589799">And it is not unheard of, to return to Justice Kennedy's earlier question, to have some variance.</text>
+            <text syncTime="2903.448" offset="11613727">And I think one good example of that is incompetence and Medina v. California, which recognized that California could use the more likely than not standard and place that burden on the party claiming he was incompetent.</text>
+            <text syncTime="2915.839" offset="11663256">Other States can have a different burden.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2917.875" stopTime="2942.240">
+            <label>Unknown Speaker</label>
+            <text syncTime="2917.875" offset="11671406">Because you... you said something about one of the reasons you're resisting this is it may... it prolongs the trial and you have to clear the jury and the... in the... the places that have reasonable inference plus presumption, has there been this slowing down, the clogging of the court?</text>
+            <text syncTime="2937.586" offset="11750296">Has... has what you're predicting played out in reality?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2942.240" stopTime="2974.045">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2942.240" offset="11768895">Your Honor, I'm not aware of anyone having conducted a time in motion study of... of voir dire in the various States to find out how they're proceeding.</text>
+            <text syncTime="2949.660" offset="11798570">Certainly the system does not have to collapse in order to conclude that the more likely than not standard, with its advantages and its compliance with Title VII, with the holding in Batson, with the nature of declaring the statute unconstitutional as applied, is constitutionally prohibited.</text>
+            <text syncTime="2966.439" offset="11865652">It is a somewhat surprising notion to suggest that using the lowest of the three basic burdens of persuasion is constitutionally prohibited.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2974.045" stopTime="2999.410">
+            <label>Unknown Speaker</label>
+            <text syncTime="2974.045" offset="11896163">I... I did... the question I asked you was just a purely practical one.</text>
+            <text syncTime="2977.829" offset="11911314">Has what you predicted as the adverse consequences, if you loosen up the... what the plaintiff has to show... what the defendant has to show... and my understanding is that... that it hasn't been a big problem in the Federal courts, in States.</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="2999.410" stopTime="3015.455">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="2999.410" offset="11997623">I think it's unknowable, Your Honor, that the... the extent to which the system is burdened is not something that can be readily determined.</text>
+            <text syncTime="3007.016" offset="12028029">You can infer that there is a burden imposed on it, one that California can legitimately seek to avoid by using the most common burden of persuasion.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3015.455" stopTime="3029.779">
+            <label>Unknown Speaker</label>
+            <text syncTime="3015.455" offset="12061780">Well, how does California handle a challenge for cause?</text>
+            <text syncTime="3018.240" offset="12072960">Does it clear a courtroom every time someone makes a challenge to cause?</text>
+            <text syncTime="3021.542" offset="12086126">Does it call counsel up to the bench to give their reasons simply to the judge on the record or some third way?</text>
+            <text syncTime="3027.679" offset="12110681">How does... how does it handle it?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="3029.779" stopTime="3031.798">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="3029.779" offset="12119040">Frequently it's done at the... at the bench, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3031.798" stopTime="3035.766">
+            <label>Unknown Speaker</label>
+            <text syncTime="3031.798" offset="12127190">Well, this... couldn't the same thing be done on... on a Batson challenge?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="3035.766" stopTime="3037.635">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="3035.766" offset="12142968">It's not typically done that way.</text>
+            <text syncTime="3036.868" offset="12147461">The... the--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3037.635" stopTime="3038.518">
+            <label>Unknown Speaker</label>
+            <text syncTime="3037.635" offset="12150491">Well, why couldn't it be?</text>
+          </turn>
+          <turn speaker="seth_k_schalit" startTime="3038.518" stopTime="3113.968">
+            <label>Mr. Seth K. Schalit</label>
+            <text syncTime="3038.518" offset="12154044">--The... the first step perhaps could be, but at some point there's going to need to be most likely further proceedings or to then go back and determine whether those reasons are pretextual.</text>
+            <text syncTime="3050.878" offset="12203468">We'll have to excuse the jury to go through the questionnaires and... and do a comparison.</text>
+            <text syncTime="3055.330" offset="12221231">And that wouldn't happen in a... in a challenge for cause.</text>
+            <text syncTime="3058.199" offset="12232725">The... the challenge for cause is pretty much over at that point because the judge knows it's just that one juror and... and can make that determination based on that juror and... and the information presented by the... the challenging party.</text>
+            <text syncTime="3068.589" offset="12274312">A Batson proceeding is much larger than that.</text>
+            <text syncTime="3076.427" offset="12305659">Your Honors, the... the more likely than not standard is an appropriate standard.</text>
+            <text syncTime="3080.231" offset="12320914">It is supported by the effect on the statute declaring it unconstitutional as applied.</text>
+            <text syncTime="3085.099" offset="12340349">It avoids using an inference standard that does not provide guidance to the trial courts, a standard that this Court has already rejected in the voir dire context.</text>
+            <text syncTime="3094.539" offset="12378070">It maintains the proper balance between the anti-discrimination goals of the Equal Protection Clause and the peremptory challenge system what this Court... which this Court has repeatedly recognized plays an important function in serving the selection of a fair and qualified jury.</text>
+            <text syncTime="3111.833" offset="12447242">The judgment should, therefore, be affirmed.</text>
+            <text syncTime="3113.368" offset="12453407">Thank you.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3113.968" stopTime="3119.706">
+            <label>Unknown Speaker</label>
+            <text syncTime="3113.968" offset="12455811">Thank you, Mr. Bedrick... or rather, Mr. Schalit.</text>
+            <text syncTime="3116.654" offset="12466573">Mr. Bedrick, you have 4 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3119.706" stopTime="3359.744" revised="2014-02-01">
+          <heading>Rebuttal of Stephen B. Bedrick</heading>
+          <turn speaker="stephen_b_bedrick" startTime="3119.706" stopTime="3209.547" flagged="true">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="3119.706" offset="12478798">Thank you, Your Honor.</text>
+            <text syncTime="3120.989" offset="12483918">In this case, the prosecutor preempted all three African American jurors, leaving a black defendant to be tried before an all-white jury in a case that had racial issues.</text>
+            <text syncTime="3132.330" offset="12529267">If this Court... this is a paradigm of a prima facie case.</text>
+            <text syncTime="3136.318" offset="12545254">This is a much stronger prima facie case than that which is required in virtually all of the Federal courts.</text>
+            <text syncTime="3142.987" offset="12571899">If this Court does not reach this question because it finds something that still is alive below, I respectfully submit that this Court would be sending a very poor message to the State courts and a very poor message to the Federal courts, namely, that yes, it is technically in error but it's not important enough for us to decide.</text>
+            <text syncTime="3161.266" offset="12645042">I'd respectfully ask the Court to reach this issue.</text>
+            <text syncTime="3164.385" offset="12657476">In terms of what would happen if the States... at the State court, I don't think I... I could never get back to this Court or anywhere else.</text>
+            <text syncTime="3172.991" offset="12691958">Let us say I go back to the State court of appeal.</text>
+            <text syncTime="3175.609" offset="12702407">The State court of appeal rules against me on the evidentiary issues and says, counsel, on the Batson issue we'd like to rule for you but the State supreme court said no, so we can't do anything.</text>
+            <text syncTime="3188.583" offset="12754233">Review at the State supreme court is discretionary.</text>
+            <text syncTime="3190.868" offset="12763429">I file a petition for review and the State supreme court says we decide that... we already decided that.</text>
+            <text syncTime="3195.522" offset="12782028">We don't care.</text>
+            <text syncTime="3196.322" offset="12785267">Get out of here.</text>
+            <text syncTime="3197.206" offset="12788820">Review dismissed.</text>
+            <text syncTime="3198.641" offset="12794462">I then will be trying to come to this Court, having gotten no opinions from the court of appeal, having gotten a postcard denial from the State supreme court and I would not be able to get here.</text>
+            <text syncTime="3208.764" offset="12835004">I think that will be--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3209.547" stopTime="3235.081">
+            <label>Unknown Speaker</label>
+            <text syncTime="3209.547" offset="12838139">Yes, you would.</text>
+            <text syncTime="3210.366" offset="12841378">You'd have a--</text>
+            <text syncTime="3211.616" offset="12846393">--We'll be waiting.</text>
+            <text syncTime="3212.632" offset="12850469">[Laughter]</text>
+            <text syncTime="3216.020" offset="12864052">You'd have a decision from the highest Court in the State that has ruled on it, and you could... you could come here.</text>
+            <text syncTime="3223.589" offset="12894354">You would have then... let's say you have a judgment affirming the conviction.</text>
+            <text syncTime="3230.593" offset="12922358">You could come here from that.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="3235.081" stopTime="3241.801">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="3235.081" offset="12940225">--If... if that was a guaranteed invitation, Your Honor, I would accept it.</text>
+            <text syncTime="3238.033" offset="12952033">[Laughter]</text>
+            <text syncTime="3238.883" offset="12955481">But odds on getting to this Court aren't quite so guaranteed as--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3241.801" stopTime="3247.322">
+            <label>Unknown Speaker</label>
+            <text syncTime="3241.801" offset="12967184">We will... we will already have done the work.</text>
+            <text syncTime="3244.170" offset="12976588">Your odds are better than most people.</text>
+            <text syncTime="3245.287" offset="12981081">[Laughter]</text>
+            <text syncTime="3246.455" offset="12985783">So will you.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="3247.322" stopTime="3248.189">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="3247.322" offset="12989231">--Yes.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3248.189" stopTime="3252.776">
+            <label>Unknown Speaker</label>
+            <text syncTime="3248.189" offset="12992679">Well, and importantly, we know what the California Supreme Court's final word is on it already.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="3252.776" stopTime="3303.808">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="3252.776" offset="13011069">We don't know.</text>
+            <text syncTime="3253.259" offset="13012950">Every time around, they make up a new definition.</text>
+            <text syncTime="3255.645" offset="13022563">They had strong likelihood.</text>
+            <text syncTime="3257.680" offset="13030713">They had not... they had dispositive inference.</text>
+            <text syncTime="3260.030" offset="13040118">They had conclusive presumption.</text>
+            <text syncTime="3262.299" offset="13049104">This time we... this time they made up more likely than not.</text>
+            <text syncTime="3265.583" offset="13062269">They may make some other standard.</text>
+            <text syncTime="3269.320" offset="13077211">We don't know what they're going to do, and it's a... it's a moving target and it is... the target is moving in the direction of denying... denying consideration of these cases and the target is moving in the direction of denying the opportunity to show whether or not there's discrimination.</text>
+            <text syncTime="3284.247" offset="13136980">If the California court's standard of preponderance of the evidence is allowed to apply, we believe that will eviscerate Batson because that means you cannot get in California what you would get... at least eviscerate Batson in California because that would mean you cannot get in California what you could get anywhere else in this country on these facts--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3303.808" stopTime="3307.862">
+            <label>Unknown Speaker</label>
+            <text syncTime="3303.808" offset="13215138">But maybe they can get it from the Ninth Circuit.</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="3307.862" stopTime="3310.897">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="3307.862" offset="13231438">--That is possibly true.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3310.897" stopTime="3314.683">
+            <label>Unknown Speaker</label>
+            <text syncTime="3310.897" offset="13243559">It's definitely true.</text>
+            <text syncTime="3311.981" offset="13247843">Hasn't the Ninth Circuit disagreed with the California Supreme Court?</text>
+          </turn>
+          <turn speaker="stephen_b_bedrick" startTime="3314.683" stopTime="3357.443">
+            <label>Mr. Stephen B. Bedrick</label>
+            <text syncTime="3314.683" offset="13258710">Yes, and we have this continuing battle where counsel is required to spend and waste enormous amounts of time going back and forth and back and forth.</text>
+            <text syncTime="3323.389" offset="13293505">I mean, I guess this case could become my career.</text>
+            <text syncTime="3326.241" offset="13304895">I'd sort of ask the Court--</text>
+            <text syncTime="3331.828" offset="13327256">[Laughter]</text>
+            <text syncTime="3328.041" offset="13312104">--to let me go on and... I want to represent my client, but I'd ask the Court to let me go and do something else.</text>
+            <text syncTime="3335.780" offset="13343033">In conclusion, I would ask to point out to the Court that obtaining the reason is the most important thing we're asking here.</text>
+            <text syncTime="3342.850" offset="13371350">It's very simple.</text>
+            <text syncTime="3343.969" offset="13375843">Most of the time it will solve the problem.</text>
+            <text syncTime="3345.602" offset="13382322">We won't be bouncing back and forth between courts.</text>
+            <text syncTime="3348.354" offset="13393398">Discrimination cannot be shown unless the challenger's reasons are known.</text>
+            <text syncTime="3353.407" offset="13413564">I would ask this Court to decide this case in a way that challenger's reasons become known.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3357.443" stopTime="3359.744">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3357.443" offset="13429760">Thank you, Mr. Bedrick.</text>
+            <text syncTime="3358.478" offset="13433835">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

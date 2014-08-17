@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="593825">/xml/cases/1980/79_5780/19810224o_79-5780.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1980/trs/79-5780op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="125.401">
+        <title>Weaver v. Graham</title>
+        <section startTime="0" stopTime="125.401">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.242">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92065">The judgments and opinion of the Court in Weaver against Florida will be announced by Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="8.242" stopTime="123.922">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="8.242" offset="124979">This case is here on writ of certiorari in the Supreme Court of Florida.</text>
+            <text syncTime="13.662" offset="146713">That Court rejected petitioner's effort to obtain writ of habeas corpus in which the petitioner challenged the application of a Florida statute enacted after the day of his defense.</text>
+            <text syncTime="28.630" offset="206481">That statute reduced the availability of what's called gain-time for good conduct.</text>
+            <text syncTime="35.624" offset="234485">To this gain-time provision, the State rewards each prisoner for good conduct and obedience to prison rules by shortening the portion of his sentence he must serve.</text>
+            <text syncTime="49.352" offset="289446">The new Florida statute reduced the amount of his gain-time for good conduct.</text>
+            <text syncTime="55.524" offset="314106">We granted certiorari to consider the petitioner's claim that this reduction violated the constitution ban against ex post facto laws and we hold that the application of Florida's new gain-time statute to petitioner, it does in fact constitute a violation of the ex post facto ban as applied to petitioner.</text>
+            <text syncTime="80.038" offset="412117">The statute alters the consequences of a crime already completed.</text>
+            <text syncTime="84.604" offset="430403">For the reasons stated more fully in an opinion filed today with the clerk, we conclude that Florida's new gain-time provision constricts petitioner's opportunity to earn early release and thus makes the consequence of his crime worse than when the crime occurred.</text>
+            <text syncTime="105.748" offset="515040">The judgment of the Supreme Court of Florida is therefore vacated and the case is remanded.</text>
+            <text syncTime="111.849" offset="539386">Justice Blackmun has filed an opinion concurring in the judgment in which the Chief Justice had joined.</text>
+            <text syncTime="118.756" offset="567076">Justice Rehnquist has also filed an opinion concurring in the judgment.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="123.922" stopTime="125.401">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="123.922" offset="587660">Thank you Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,49 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:52:56" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1114740">/xml/cases/2005/04_1324/20060426o_04-1324.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-1324_20060426-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="256.496">
+        <title>Day v. McDonough</title>
+        <section startTime="0.000" stopTime="256.496">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="7.143">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88755">Justice Ginsburg has the opinion in 04-1324, Day v. McDonough.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="7.143" stopTime="256.496">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="7.143" offset="117281">This case concerns a federal court’s authority, unprompted by a party, to raise a question concerning the timeliness of a Petition of a writ of habeas corpus.</text>
+            <text syncTime="20.370" offset="170153">The federal statute at issue allows one year for state prisoners to file petitions for habeas corpus seeking federal-court review of the legality of their imprisonment.</text>
+            <text syncTime="32.867" offset="220203">The time clock for such petitions starts once the prisoner’s state conviction becomes final.</text>
+            <text syncTime="40.252" offset="249669">In this case, Florida prisoner Patrick Day filed a petition for federal habeas relief, and the State conceded the timeliness of his petition.</text>
+            <text syncTime="51.701" offset="295540">The U.S. magistrate judge assigned to review Day’s petition, however, noticed the State had made a computation error.</text>
+            <text syncTime="61.582" offset="335037">Under the controlling circuit precedent, a correct calculation would have revealed the untimeliness of Day’s petition.</text>
+            <text syncTime="70.796" offset="371922">The judge called the calculation error to the parties’ attention and gave Day an opportunity to show why his petition should not be dismissed for failure to meet the statutory deadline.</text>
+            <text syncTime="85.026" offset="428765">Day was unable to justify the late filing.</text>
+            <text syncTime="88.635" offset="443289">The U.S. District Court therefore dismissed Day’s petition, and the dismissal was upheld by the U.S. Court of Appeals for the 11th Circuit, whose judgment we now affirm.</text>
+            <text syncTime="100.571" offset="490936">The question presented is one on which courts of appeals have divided.</text>
+            <text syncTime="105.209" offset="509535">May a U.S. trial-court judge, acting on his or her own initiative, raise an issue as to the timeliness of a state prisoner’s federal habeas corpus petition?</text>
+            <text syncTime="117.837" offset="560004">Ordinarily, a defending party, here the State of Florida, forfeits an objection to the opposing party’s pleading as untimely if the objection is not asserted in the answer to the opening pleading or in an amendment thereto.</text>
+            <text syncTime="133.871" offset="624161">In Day’s case, the State did not intelligently forego the objection.</text>
+            <text syncTime="139.841" offset="648089">Its assumption that Day’s petition was timely stemmed from an evident miscalculation.</text>
+            <text syncTime="146.479" offset="674629">It would have been proper, all members of this Court agree, if the federal judge instead of acting on his own initiative had informed the State of the computation error and invited amendment of the State’s answer to allege the time bar.</text>
+            <text syncTime="164.547" offset="746936">That move, as the Court’s majority sees it, is substantially equivalent to the path taken here.</text>
+            <text syncTime="171.965" offset="776611">In the opinion released today, we hold that in the circumstances Day’s case presents an apparent counting slip on the part of the State.</text>
+            <text syncTime="183.740" offset="823632">No rule, statute or constitutional provision commands the judge who spotted the error to suppress that knowledge.</text>
+            <text syncTime="192.033" offset="856859">The judge, we stress, is not obliged to check the state’s math to uncover a miscalculation and then raise the timeliness of the prisoner’s habeas petition sua sponte.</text>
+            <text syncTime="204.885" offset="908268">Our opinion rejects both an inflexible rule requiring dismissal whenever the court notices that the one-year clock has run and, at the opposite pole, a rule treating the State’s failure initially to plead the one-year time bar as an irretrievable forfeiture.</text>
+            <text syncTime="223.931" offset="984442">We hold simply and only that upon noticing a calculation error, a federal court has discretion to ask and answer this question:  Is the administration of justice better served by dismissing the case as time-barred or by reaching the merits of the petition?</text>
+            <text syncTime="243.582" offset="1063018">Two dissenting opinions have been filed, one by Justice Stevens, in which Justice Breyer joins; the other by Justice Scalia, in which Justice Thomas and Justice Breyer join.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

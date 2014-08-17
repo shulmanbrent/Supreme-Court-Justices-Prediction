@@ -1,0 +1,36 @@
+<transcript>
+      <history/>
+      <resources>
+        <audioFile size="624956">/xml/cases/1981/80_846/19820303o_80-846.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1981/trs/80-846op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="136.848">
+        <title>Rose v. Lundy</title>
+        <section startTime="0" stopTime="136.848">
+          <heading>Opinion Announcement of Warren E. Burger</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="9.194">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="77429">The judgment of the Court in Rose against Lundy will be announce by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="9.194" stopTime="135.598">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="9.194" offset="114105">The case comes to this Court on writ of certiorari to the United States Court of Appeals for the Sixth Circuit.</text>
+            <text syncTime="16.625" offset="143885">In the opinion filed today, we hold that the principle of comity underlying the exhaustion requirement of 28 U.S. Code Section 2254 and the policy of avoiding piecemeal litigation in the federal courts require Federal District Courts to dismiss petitions for writs of habeas corpus that contain any claims that have not been exhausted in the state courts.</text>
+            <text syncTime="44.283" offset="254539">After the District Court has dismissed a next petition containing both exhausted and unexhausted claims, the prisoner has the choice of returning to a state court to exhaust his claims or of amending or resubmitting his habeas petition to present only the exhausted claims to the District Court.</text>
+            <text syncTime="67.175" offset="346072">In Part III-C of the opinion, a plurality of the Court has written that by deleting his unexhausted claims and returning immediately to federal court, thus deliberately setting aside his unexhausted claims, the prisoner risks dismissal of subsequent habeas petitions under Rule 9(b) of the habeas statute.</text>
+            <text syncTime="92.695" offset="448159">The judgment of the Court of Appeals is reversed.</text>
+            <text syncTime="95.712" offset="460175">The case is remanded to the District Court for proceedings consistent with our opinion.</text>
+            <text syncTime="101.723" offset="484312">Justice Brennan with whom Justice Marshall joins has joined Parts I, II, III-A, III-B, and IV of the Court’s opinion and has filed a separate opinion in which he disagrees with the plurality in Part III-C.</text>
+            <text syncTime="119.806" offset="556619">Justice Blackmun has filed a separate opinion concurring in the judgment.</text>
+            <text syncTime="125.544" offset="579502">Justice White has filed an opinion concurring in part and dissenting in part.</text>
+            <text syncTime="131.346" offset="602804">Justice Stevens has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="135.598" stopTime="136.848">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="135.598" offset="619731">Thank you, Justice O’Connor.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

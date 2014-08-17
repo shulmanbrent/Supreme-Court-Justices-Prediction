@@ -1,0 +1,43 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="768627">/xml/cases/1979/78_1418/19800303o_78-1418.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1979/trs/78-1418op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="192.092">
+        <title>Bloomer v. Liberty Mutual Insurance Company</title>
+        <section startTime="0.000" stopTime="192.092" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Thurgood Marshall</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="7.943">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">The judgement and opinion of the Court in Bloomer versus Liberty Mutual Insurance Company will be announced by Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="7.943" stopTime="188.943">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="7.943" offset="31765">This case is here on writ of certiorari to the Court of Appeals for the Second Circuit.</text>
+            <text syncTime="14.310" offset="57156">Under the Longshoremen's and Harbor Workers' Compensation Act, an insured longshoreman may receive compensation claims from the stevedore and then bring a negligence action against owner of the vessel on which the injury occurred.</text>
+            <text syncTime="31.635" offset="126537">The longshoreman's recovery from the ship owner is subject to the stevedore's lien in the amount of the compensation payments.</text>
+            <text syncTime="41.747" offset="166975">The question presented in this case is whether the stevedore's lien must be reduced by a proportionate share of the longshoreman's expenses in obtaining recovery from the ship owner or whether the ship stevedore is instead entitled to be reimbursed for the full amount of the compensation payments.</text>
+            <text syncTime="66.091" offset="264359">The petitioner was injured during the course of his employment as a longshoreman and received $17,000 in compensation from the respondent, Mutual Insurance Company, the carrier of Workers' Compensation for petitioner's employer.</text>
+            <text syncTime="85.252" offset="340950">Thereafter, the petitioner brought a negligence action against the owner of the vessel on which his injury occurred.</text>
+            <text syncTime="92.556" offset="370207">Petitioner and the ship owner settled for $60,000 and respondent intervened into the action asserting that he was entitled to full reimbursement of its compensation payments.</text>
+            <text syncTime="106.599" offset="426318">Petitioner agreed that respondent should not receive all of its compensation payments but that respondent should instead be required to pay a proportionate share of petitioner's expenses of suit including attorney's fees.</text>
+            <text syncTime="124.365" offset="497371">Petitioner, a reason that since part of the recovery from the shipowner would be returned to respondent equity required the respondent bear portion of the expenses of obtaining that recovery.</text>
+            <text syncTime="137.944" offset="551706">The District Court rejected petitioner's argument.</text>
+            <text syncTime="141.430" offset="565708">The Court of Appeals for the Second Circuit affirmed.</text>
+            <text syncTime="145.219" offset="580859">We granted certiorari to resolve this recurring question on which the Courts of Appeals have divided.</text>
+            <text syncTime="154.033" offset="616072">For reasons stated in detail in our opinion filed with the clerk today, we affirmed the language structure and history of the Longshoremen's and Harbor Workers' Compensation Act and say that that demonstrates that Congress intended that the stevedore should recover the full amount of its compensation payment and that the stevedore should not be required to bear share of the longshoreman's expenses of suit.</text>
+            <text syncTime="184.789" offset="739056">Mr. Justice Blackmun has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="188.943" stopTime="192.092">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="188.943" offset="755670">Thank you, Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

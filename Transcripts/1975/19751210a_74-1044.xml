@@ -1,0 +1,796 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-28</verified>
+        <edit user="jgoldman" date="2014-04-17T17:09:13" startTime="303.064" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:15" startTime="311.727" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:16" startTime="315.617" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:18" startTime="321.298" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:19" startTime="330.570" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:21" startTime="379.142" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:23" startTime="391.454" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:28" startTime="427.484" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:29" startTime="432.152" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:30" startTime="435.421" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:31" startTime="450.953" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:34" startTime="472.905" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:36" startTime="480.388" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:39" startTime="483.564" oldSpeaker="unknown_speaker" newSpeaker="byron_r_white"/>
+        <edit user="jgoldman" date="2014-04-17T17:09:43" startTime="636.827" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-04-17T17:10:06" startTime="731.247" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:10:07" startTime="765.630" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:10:08" startTime="793.086" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:10:10" startTime="798.353" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:10:11" startTime="808.222" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:10:16" startTime="838.360" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:10:23" startTime="1864.370" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T17:10:27" startTime="1914.817" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <identified user="jgoldman">2014-04-17</identified>
+        <edit user="jgoldman" date="2014-05-01T10:08:40" startTime="1122.972" oldSpeaker="unknown_speaker" newSpeaker="warren_e_burger"/>
+        <identified user="jgoldman">2014-05-01</identified>
+      </history>
+      <resources>
+        <audioFile size="8426155">/xml/cases/1975/74_1044/19751210a_74-1044.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1975/trs/74-1044_19751210.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="terence_p_o’malley" type="advocate" gender="male" path="/advocates/to/terence_p_o’malley" image="/advocates/to/terence_p_o’malley/thumbnail.jpg">Terence P. O’malley</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="robert_d_city" type="advocate" gender="male" path="/advocates/rc/robert_d_city" image="/advocates/rc/robert_d_city/thumbnail.jpg">Robert D. City</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="2080.303">
+        <title>Massachusetts Board of Retirement v. Murgia</title>
+        <section startTime="0.000" stopTime="883.091" revised="2014-01-21">
+          <heading>Argument of Terence P. O’malley</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="33.958">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="104669">We will hear arguments next in Massachusetts Board of Retirement against Murgia.</text>
+            <text syncTime="30.897" offset="228176">Mr. O’Malley you may proceed whenever you are ready.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="33.958" stopTime="105.189">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="33.958" offset="240401">Mr. Chief Justice and may it please the Court.</text>
+            <text syncTime="36.602" offset="251059">This is an appeal from the order of a Three-Judge District Court enjoining the enforce in the Massachusetts General Laws, Chapter 32, Section 26, sub-section 3.</text>
+            <text syncTime="46.382" offset="290138">That statute requires that members of the Uniformed Branch of the Massachusetts State Police retire upon reaching the age of 50 or on serving 20 years which ever occurs later.</text>
+            <text syncTime="58.033" offset="336741">The action was initiated by the plaintiff, a member of the Uniformed Branch, shortly after he was notified by the Board in May of 1972 that he would be retired on his 50th birthday.</text>
+            <text syncTime="69.950" offset="384388">The complaint filed in the Federal District Court essentially alleged that this statute denied him equal protection of the laws.</text>
+            <text syncTime="76.497" offset="410615">The District Judge who initially heard the case dismissed the case for failure to raise a substantial federal question.</text>
+            <text syncTime="82.860" offset="436006">The District Judge recognized the interest of the Commonwealth insuring a high level of physical capability of uniformed officers of the State Police.</text>
+            <text syncTime="91.058" offset="468816">The Court rules that retirement at age 50 was at least irrational if not the only means of achieving these purposes.</text>
+            <text syncTime="98.737" offset="499536">Plaintiff appealed to the Court of Appeals which court remanded for the convening of the Three-Judge District Court.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="105.189" stopTime="106.524">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="105.189" offset="525345">Was this a class action?</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="106.524" stopTime="108.590">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="106.524" offset="530674">No it was not, Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="108.590" stopTime="148.638">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="108.590" offset="538929">The -- I asked because the Joint Supplemental Memorandum was filed here by recently on December 8 in the case that Mr. Murgia has materially changed his employment, I am reading, he is presently employed as the Security Manager in the Westminster, Massachusetts Plant of Digital Equipment Incorporated.</text>
+            <text syncTime="130.280" offset="625760">He began this $17,000 per year job, supervising a 12-man security force in August of 1975.</text>
+            <text syncTime="138.935" offset="660346">Does that indicate or imply that he no longer is interested in getting his job back on the Massachusetts Police Force?</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="148.638" stopTime="161.213">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="148.638" offset="699216">I have not been informed to that effect Your Honor; I am informally informed that he would, if granted reinstatement, retake his position of the State Police.</text>
+            <text syncTime="157.715" offset="735474">Therefore, I do not believe the case is moot or affected by that.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="161.213" stopTime="165.339">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="161.213" offset="749476">You or at least your side of case, this is a joint submission, as I understand.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="165.339" stopTime="165.935">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="165.339" offset="765985">Yes your Honor it was not a --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="165.935" stopTime="168.176">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="165.935" offset="768388">Thus I think I feel free to ask you about it.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="168.176" stopTime="177.343">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="168.176" offset="777270">Yes Your Honor.</text>
+            <text syncTime="168.611" offset="779046">I do not -- I think that evidence, concerning his new job, might relate to the question of what kind of effect retirement has on whether he can get other employment or not.</text>
+            <text syncTime="176.801" offset="811856">This shows that he can not.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="177.343" stopTime="181.805">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="177.343" offset="813946">It does not -- it is not -- it does not imply that there is a -- this case moot in any way or it is not.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="181.805" stopTime="267.999">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="181.805" offset="831813">Certainly, yeah there is nothing in that Joint Supplemental Memorandum that the Commonwealth believed material affects the case.</text>
+            <text syncTime="187.511" offset="854697">We just had the admonition of the Court in mind and if any new material does come to light that be presented.</text>
+            <text syncTime="194.957" offset="884476">After the Three-Judge District Court took the evidence in documentary form, it issued an opinion declaring the statute unconstitutional.</text>
+            <text syncTime="202.780" offset="915719">It stated that was irrational because under State Police procedures an officer over the age of 40 takes a medical examination annually.</text>
+            <text syncTime="212.890" offset="956156">The Court ruled that this medical examinations were available and did not justify retirement at the age of 50.</text>
+            <text syncTime="219.366" offset="982070">The Court also noted that the Board of Retirement had not proved that a critical area was reached at age 50 which would justify disregarding these examinations.</text>
+            <text syncTime="228.877" offset="1020104">The issue brought to this Court is whether mandatory retirement of members of the Uniformed Branch of the Massachusetts State Police contravenes the Equal Protection Clause of the Fourteenth Amendment.</text>
+            <text syncTime="239.853" offset="1063990">Plaintiffs appear to concede the retirement statutes are generally constitutional.</text>
+            <text syncTime="244.814" offset="1083843">These are rational means of effectuating legitimate state purposes.</text>
+            <text syncTime="249.232" offset="1101502">These purposes are increasingly inefficiency of the public service in providing financial security for retired employees.</text>
+            <text syncTime="257.697" offset="1135356">There is no reason to cover exception for the retirement statute of the State Police.</text>
+            <text syncTime="262.726" offset="1155523">It is clearly rationally related to the effectuations of a legitimate state interest.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="267.999" stopTime="287.904">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="267.999" offset="1176630">Isn’t one of the purposes sometimes advanced for these kind of statutes to the desirability of avoiding having to make individualized determinations and tell Officer Smith that you have to retire at 62 because you are not quite in as good shape as you used to be but Officer John you can stay on for three or four more years?</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="287.904" stopTime="303.064">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="287.904" offset="1256251">Exactly Your Honor.</text>
+            <text syncTime="288.725" offset="1259490">We stated in our brief that this is a demeaning and not depressing task and is also one taken in an area of very great medical uncertainty.</text>
+            <text syncTime="295.677" offset="1287285">It is highly questionable whether the State can actually quantify the degree of diminishing productivity of an individual.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="303.064" stopTime="310.860">
+            <label>Justice Jr.</label>
+            <text syncTime="303.064" offset="1316855">That may -- I am talking about -- probably tell us, that may, on reaching 50, an office be continued?</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="310.860" stopTime="311.727">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="310.860" offset="1348098">He may not Your Honor unless—</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="311.727" stopTime="313.010">
+            <label>Justice Jr.</label>
+            <text syncTime="311.727" offset="1351546">And not under circumstances.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="313.010" stopTime="315.617">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="313.010" offset="1356666">Unless he has not served 20 years yet.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="315.617" stopTime="316.038">
+            <label>Justice Jr.</label>
+            <text syncTime="315.617" offset="1367115">Well, I see.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="316.038" stopTime="321.298">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="316.038" offset="1368787">He must serve 20 years before he is granted a pension.</text>
+            <text syncTime="318.722" offset="1379549">That problem does not come up in any substantial --</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="321.298" stopTime="329.892">
+            <label>Justice Jr.</label>
+            <text syncTime="321.298" offset="1389789">Now, but if he has served 20 years and reaches age 50, he may not be continued, there is no process for continuing him, and he must retire.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="329.892" stopTime="330.570">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="329.892" offset="1424166">Exactly Your Honor.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="330.570" stopTime="331.242">
+            <label>Justice Jr.</label>
+            <text syncTime="330.570" offset="1426883">I see.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="331.242" stopTime="344.887">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="331.242" offset="1429600">Mr. O’Malley how can the problem, the 20 year problem, ever come up if you have, as I understand from your brief, you do have another statute that says one may not enter into the service beyond age 30?</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="344.887" stopTime="379.142">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="344.887" offset="1484143">Historically Your Honor, about 35 people have been over the age of 50 upon retirement.</text>
+            <text syncTime="350.815" offset="1507862">A large number of that group was kept on after age 50 because they are veterans in World War II and went over the enlistment age and special act was enacted so that they could still enlist.</text>
+            <text syncTime="362.010" offset="1552689">There were a few people that were members of the Uniform Branch before that enlistment statute was enacted in 1939.</text>
+            <text syncTime="370.061" offset="1584871">So it is very few cases and there might be a few others where a leave of absence was granted and then an officer returned to the service.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="379.142" stopTime="385.045">
+            <label>Justice Blackmun</label>
+            <text syncTime="379.142" offset="1621234">Well if someone came in at age 48 then he could serve until 68 on the face of the statute, could he not?</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="385.045" stopTime="391.454">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="385.045" offset="1644849">Yes.</text>
+            <text syncTime="385.679" offset="1647356">But no one could come in at the age of 48 now and historically no one has come in at age 48.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="391.454" stopTime="409.923">
+            <label>Justice Blackmun</label>
+            <text syncTime="391.454" offset="1670449">One more question now that I have interrupted you.</text>
+            <text syncTime="393.883" offset="1680166">Is there any right on the part of the Colonel here or anyone else at age 50 to transfer to some other division of the State Police where the retirement age is later?</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="409.923" stopTime="427.484">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="409.923" offset="1744323">Not that I know of Your Honor.</text>
+            <text syncTime="411.003" offset="1748607">Well that has not really come up.</text>
+            <text syncTime="412.785" offset="1755712">The procedures, joining the Detective Branch or any other public service job, are very separate and there is no particular statute which gives them any particular rights to another type of employment.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="427.484" stopTime="431.953">
+            <label>Justice Jr.</label>
+            <text syncTime="427.484" offset="1814540">In Massachusetts there are other Mandatory Retirement Statute, does it not?</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="431.953" stopTime="432.152">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="431.953" offset="1832408">It does Your Honor.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="432.152" stopTime="434.205">
+            <label>Justice Jr.</label>
+            <text syncTime="432.152" offset="1833244">And now there is one affecting judges, do you?</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="434.205" stopTime="435.421">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="434.205" offset="1841394">Yes Your Honor.</text>
+            <text syncTime="435.009" offset="1844633">Yes, that happens.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="435.421" stopTime="436.915">
+            <label>Justice Jr.</label>
+            <text syncTime="435.421" offset="1846305">And some other --</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="436.915" stopTime="450.953">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="436.915" offset="1852261">There is a -- well we have a very comprehensive retirement scheme of which are about four basic groups.</text>
+            <text syncTime="446.534" offset="1890713">Group 1 is the general category of employees, retirement age is 70.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="450.953" stopTime="451.938">
+            <label>Justice Jr.</label>
+            <text syncTime="450.953" offset="1908476">That is mandatory.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="451.938" stopTime="472.905">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="451.938" offset="1912342">No, they are all mandatory.</text>
+            <text syncTime="453.449" offset="1918403">Group 2 is generally more hazardous duties than the average employee which is 65.</text>
+            <text syncTime="459.733" offset="1943585">Group 3 is the Uniformed Branch of the State Police, the age of 50.</text>
+            <text syncTime="462.966" offset="1956437">And group 4 Your Honor, is essentially local policemen and firemen and so forth which is age 65.</text>
+            <text syncTime="468.372" offset="1978067">So there are great number of public employees covered by retirement provisions.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="472.905" stopTime="477.052">
+            <label>Justice Blackmun</label>
+            <text syncTime="472.905" offset="1996248">And you are not uncomfortable because everyone’s pension is over 50, are you?</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="477.052" stopTime="480.388">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="477.052" offset="2012862">I am uncomfortable Your Honor but not essentially because of that.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="480.388" stopTime="482.243">
+            <label>Justice Blackmun</label>
+            <text syncTime="480.388" offset="2026132">[Laughter]We are not here for the explanations.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="482.243" stopTime="483.564">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="482.243" offset="2033551">Exactly Your Honor.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="483.564" stopTime="487.400">
+            <label>Justice White</label>
+            <text syncTime="483.564" offset="2038880">We are not uncomfortable with that either?[Laughter]</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="487.400" stopTime="636.827">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="487.400" offset="2054240">The fact the age for the retirement at 50 is lower than the general retirement age does not justify carving out an exception for the general rule that retirement statutes are constitutional.</text>
+            <text syncTime="497.483" offset="2094573">Performance of the public safety duties of the State Police requires a high degree of strength, agility and stamina.</text>
+            <text syncTime="504.294" offset="2121845">It was found by the District Court that the ability to perform these functions can only decreases of age.</text>
+            <text syncTime="509.824" offset="2143892">Drawing the line at age 50 is well within the legislative discretion in setting a mandatory retirement age.</text>
+            <text syncTime="517.450" offset="2174403">In fact the District Court acknowledged that the service in the Uniformed Branch is significantly different from that of other law enforcement groups in that age.</text>
+            <text syncTime="527.077" offset="2212960">The fact that a higher retirement age was set for the State Police Detectives and Local Police did not provide the basis for viable equal protection claim.</text>
+            <text syncTime="537.344" offset="2254024">The attack on the statute made by the plaintiff essentially is that because there is this medical examination procedure, it is irrational to use any other procedure relative to retirement.</text>
+            <text syncTime="549.039" offset="2300731">It is very important to note what the medical examination does and what it does not.</text>
+            <text syncTime="554.195" offset="2321420">It has a very limited function.</text>
+            <text syncTime="556.058" offset="2328839">As described by the State Police Surgeon in his testimony, the purpose of the examination is to determine whether an officer has a physical defect which would disqualify him from performing State Police duties.</text>
+            <text syncTime="568.879" offset="2380143">An example of a temporary defect would be a knee injury or a hernia; a permanent injury might be hypertension or cardiovascular disease.</text>
+            <text syncTime="579.285" offset="2421730">The examination does not measure that the decrease in strength, stamina or agility that generally occurs as one ages.</text>
+            <text syncTime="587.384" offset="2454122">Nor does it measure the rate of aging of a functional age of an officer.</text>
+            <text syncTime="591.794" offset="2471781">These are all areas where there is a great degree of medical uncertainty and the testing in the area is still in its stages of infancy.</text>
+            <text syncTime="600.915" offset="2508248">Because of this testimony, there is a great degree of uncertainty and a legislative determination should be upheld.</text>
+            <text syncTime="607.689" offset="2535415">Indeed when concerning the area of incurring disease is generally associated with aging.</text>
+            <text syncTime="613.330" offset="2557985">The plaintiff’s expert and testified, that we do not know much about the cause of most of diseases we think of as diseases of aging.</text>
+            <text syncTime="621.973" offset="2592467">Showing the distinct purposes of the medical exam also shows the distinct purposes of the retirement statute.</text>
+            <text syncTime="629.294" offset="2621828">The medical is based on definable medical conditions which may be determined by a medical examination.</text>
+            <text syncTime="636.216" offset="2649518">The goal --</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="636.827" stopTime="647.726">
+            <label>Justice Blackmun</label>
+            <text syncTime="636.827" offset="2651921">Mr. O’Malley would you be making the same argument if your system or did not have the built in physical examination.</text>
+            <text syncTime="643.314" offset="2677835">Just age 50 as his retirement age?</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="647.726" stopTime="675.434">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="647.726" offset="2695493">The District Court ruled that because we have the examinations available, the statute was irrational.</text>
+            <text syncTime="652.764" offset="2715660">We would also state that the statute would certainly be rational if there were no medical procedures.</text>
+            <text syncTime="658.443" offset="2738439">In fact the major point we wish to make today Your Honor that if this statute is held unconstitutional solely because the State has attempted in some manner to make individualized determination and the effect would be to hinder experimentation and the utilization of individualized medical test.</text>
+            <text syncTime="674.897" offset="2804163">The --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="675.434" stopTime="699.741">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="675.434" offset="2806357">(Inaudible) to the existence of the medical examination requirement after age 40 means that a decisions had been made that after age 40 the policemen in uniform is in a suspect class in a sense, and they cut it off at 50 with a per se rule.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="699.741" stopTime="731.247">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="699.741" offset="2903533">Yes Your Honor.</text>
+            <text syncTime="701.259" offset="2909698">The District Court said that we had not proved that a critical area was reached at age 50.</text>
+            <text syncTime="705.435" offset="2926311">The experience of the State Police is that they have examinations biannually before the age of 40. Once they reach the age of 40, because of the test -- as the State Police Surgeon testified, there is a higher degree of incurring hypertension and other cardiovascular diseases, the test must be given annually.</text>
+            <text syncTime="722.766" offset="2995693">Moreover, the test is also expanded to include electrocardiograms and other procedures because of the concern they have with officers at that age.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="731.247" stopTime="762.305">
+            <label>Justice Jr.</label>
+            <text syncTime="731.247" offset="3029652">Mr. O’Malley, you are obviously -- and I thought (Inaudible), your summary, there is Footnote 90 suggest 70 and in the fact you are talking about 55 as every other State has this kind of law, mandates retirement at 55 rather than 50.</text>
+            <text syncTime="758.260" offset="3137694">And I thought largely they thought that 50 was just too young.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="762.305" stopTime="765.630">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="762.305" offset="3153786">I think that explains the opinion that he just thought 50 was too young.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="765.630" stopTime="776.360">
+            <label>Justice Jr.</label>
+            <text syncTime="765.630" offset="3167160">Well thus what I am trying to get at that really is the thrust of his invalidation that Massachusetts has to this individual medical examination requirement.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="776.360" stopTime="793.086">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="776.360" offset="3210106">He never really defined what the critical area or how it was defined.</text>
+            <text syncTime="780.284" offset="3225779">But the first thing he did note Your Honor was that medical screening, individualized judgments are not only practicable but available.</text>
+            <text syncTime="787.577" offset="3254932">Therefore, it is irrational to have this overall cut off.</text>
+            <text syncTime="791.930" offset="3272382">And from there he --</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="793.086" stopTime="797.622">
+            <label>Justice Jr.</label>
+            <text syncTime="793.086" offset="3276979">I believe it certainly sounds that 50 was just irrational under any circumstances.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="797.622" stopTime="798.353">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="797.622" offset="3295056">I think so Your Honor.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="798.353" stopTime="802.337">
+            <label>Justice Jr.</label>
+            <text syncTime="798.353" offset="3297982">That 55 might be all right; 70 certainly might be all right.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="802.337" stopTime="808.222">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="802.337" offset="3313969">If you apply the analysis of the District Court to a 55-year-old Retirement Statute, I do not see how it could be any different.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="808.222" stopTime="826.605">
+            <label>Justice Jr.</label>
+            <text syncTime="808.222" offset="3337479">I guess it is true, is it not?</text>
+            <text syncTime="810.619" offset="3347092">He says that a plaintiff as fart as the list of statutes from which it appears that Massachusetts is the only State compulsorily retiring police officers before age 55 of age, Page 28 of the jurisdiction statement.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="826.605" stopTime="838.360">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="826.605" offset="3411040">Your Honor with respect to the other States and their Retirement Statutes, I did note that State of Delaware has a 20 year service requirement and an officer must retire upon reaching serving 20 years.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="838.360" stopTime="839.682">
+            <label>Justice Jr.</label>
+            <text syncTime="838.360" offset="3458060">Even if he is only in his 40’s?</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="839.682" stopTime="883.091">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="839.682" offset="3463389">Yes.</text>
+            <text syncTime="839.970" offset="3464538">So that might well work out to be an early retirement age.</text>
+            <text syncTime="843.451" offset="3478436">Moreover the State of Maine has a 25-year service requirement and if the average age of enlistment is 25, a 50-year-old Retirement Statute would pertain in there.</text>
+            <text syncTime="854.495" offset="3522635">However, the State having undertaken these medical examinations is not confined in merely removing the physically unfit.</text>
+            <text syncTime="861.339" offset="3550011">The Retirement Statute is a very positive objective and that is to remote the overall capability of the force as a whole.</text>
+            <text syncTime="868.200" offset="3577387">Therefore the Retirement Statute for Uniformed Members of the State Police is irrational exercise of legislative power and the judgment of the District Court should be reversed.</text>
+          </turn>
+        </section>
+        <section startTime="883.091" stopTime="2075.697" revised="2014-01-21">
+          <heading>Argument of Robert D. City</heading>
+          <turn speaker="warren_e_burger" startTime="883.091" stopTime="887.261">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="883.091" offset="3636947">Mr. City.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="887.261" stopTime="930.697">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="887.261" offset="3653665">Mr. Chief Justice and may it please the Court.</text>
+            <text syncTime="890.403" offset="3666204">The single issue before this Court is whether the United States District Court of the District of Massachusetts was declaring unconstitutional, that portion of a Massachusetts statute which separated members of the Uniformed Branch of the Massachusetts State Police from the general retirement classification in which they had been placed, enforced mandatory retirement upon this officers at the age of 50 on the grounds that these men were superannuated.</text>
+            <text syncTime="916.469" offset="3770485">The undisputed facts show that each officer has been determined fit to continue in his duties.</text>
+            <text syncTime="923.559" offset="3798801">The basis of the decision of the court below rests upon its analysis of the statute in terms of Equal Protection Clause of the Fourteenth Amendment.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="930.697" stopTime="936.883">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="930.697" offset="3827431">You say each officer Mr. City, I have thought earlier someone said this was not a class action.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="936.883" stopTime="955.546">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="936.883" offset="3852196">It is not a class action Your Honor.</text>
+            <text syncTime="938.812" offset="3859823">The point that I am making here is that the elaborate medical screening which the Uniformed Branch uniformly applies across the Board from the time at which a man first joins to the time he reaches his 50th year is applied to every single member.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="955.546" stopTime="955.985">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="955.546" offset="3926801">I see.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="955.985" stopTime="993.580">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="955.985" offset="3928578">And it is our contention that having screened this group through this fine mesh, the only group that reaches 50, the only group that can continue to serve at age 50 because everyone who does not meet this standards is set aside, he just cannot continue to serve.</text>
+            <text syncTime="975.284" offset="4005796">So the only way that you get to reach your 50th year is to continue to be fit.</text>
+            <text syncTime="980.261" offset="4025649">Therefore the group upon which this statute applies its across the board classification is a group which by definition the Commonwealth has already defined as fully fit and fully qualified to perform.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="993.580" stopTime="1016.964">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="993.580" offset="4078938">Does this not show that the Massachusetts has a view that beginning at age 40 they must check their members of their police force annually to determine their fitness for duty and then they cut it off permanently at age 50.</text>
+            <text syncTime="1014.180" offset="4161381">Is that not the essence of it?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1016.964" stopTime="1042.396">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1016.964" offset="4172457">Your Honor there is no doubt about the fact that the burden upon the individual member increases at age 40, he has to be found to be fit every single year.</text>
+            <text syncTime="1026.075" offset="4208924">The problem that we have is that these members continued to be fit.</text>
+            <text syncTime="1030.166" offset="4225329">Those members in their 40th, their 41st, their 42nd year who are unfit are separated and only those men who are fit continue.</text>
+            <text syncTime="1038.676" offset="4259288">The question is why then draw the line at the 50th year?</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1042.396" stopTime="1045.992">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1042.396" offset="4274230">Would you be here if they had drawn it at 55?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1045.992" stopTime="1062.140">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1045.992" offset="4288545">Well I think that the District Court opinion addresses itself to that problem and I think the later that we get in age, the inevitable aging does set in and the problems that are incumbent upon us become greater.</text>
+            <text syncTime="1061.069" offset="4348940">But Your Honor let me suggest this that --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1062.140" stopTime="1068.875">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1062.140" offset="4353224">Well have you answered my question, would you be here if the age had been 55?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1068.875" stopTime="1122.972">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1068.875" offset="4380078">I would not be here provided that at age 55 the medical testing which is already the order of the day showed one of two things.</text>
+            <text syncTime="1076.926" offset="4412365">One, it showed that some of the group, at least some of the group, were not being fit, we would just not be able to meet standards.</text>
+            <text syncTime="1086.171" offset="4449250">That is not -- in any given year the number who would come back were significantly less.</text>
+            <text syncTime="1091.778" offset="4471716">Secondly, the District Court suggest that perhaps the issue of predictive validity is another reason to retire a man, that perhaps at age 50 or 51, even though a man passes a physical examination, it is no assurance that he is going to continue to be fit for the next year until he is examined again.</text>
+            <text syncTime="1108.885" offset="4540156">The evidence show that as in the case of airline pilots, the predictive validity of physical examinations is extensive and elaborate, and this one really only begins to break down at around the age of 60.</text>
+            <text syncTime="1120.428" offset="4586341">So the point is, that I would --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1122.972" stopTime="1123.928">
+            <label>Chief Justice Burger</label>
+            <text syncTime="1122.972" offset="4596476">That is for airline pilots?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1123.928" stopTime="1150.632">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1123.928" offset="4600342">That is for airline pilots.</text>
+            <text syncTime="1125.386" offset="4606194">I would say Your Honor that that would be the most critical situation where you have to worry about a man suffering a disability under a stress situation.</text>
+            <text syncTime="1135.056" offset="4644855">I think that while State Police may be in analogous situations I think that they are not as regularly.</text>
+            <text syncTime="1140.990" offset="4668574">So I would submit to the Court that the standard used in airline pilots are certainly the most rigorous one and I think the Commonwealth is a hard placed to --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="1150.632" stopTime="1155.368">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="1150.632" offset="4707131">It is also true that you have (Inaudible) much more extensive.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1155.368" stopTime="1155.640">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1155.368" offset="4726044">Your Honor --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="1155.640" stopTime="1156.839">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="1155.640" offset="4727193">Much more.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1156.839" stopTime="1165.606">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1156.839" offset="4732000">I would submit that the examination used in this case which covers 60 pages of the Appendix here is extremely extensive physical examination.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="1165.606" stopTime="1169.506">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="1165.606" offset="4767004">Is it as extensive as the airlines pilots?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1169.506" stopTime="1236.861">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1169.506" offset="4782677">Your Honor we had a medical expert who testified in this case who was familiar with the medical -- he was a doctor for the airlines and was familiar with the medical tests and he felt that they were comparable.</text>
+            <text syncTime="1192.109" offset="4873061">I think one point ought to be cleared up.</text>
+            <text syncTime="1193.779" offset="4879748">State Police Officers are members of the Department of Public Safety and are classified under the General Massachusetts Retirement Statute as Group 3 employees.</text>
+            <text syncTime="1203.046" offset="4916842">If you look in the General Massachusetts Retirement Statute you will be find that Group 3 employees are required to retire at age 55.</text>
+            <text syncTime="1211.458" offset="4950488">The statute which is the subject of the case before this Court selects particular members, the Massachusetts State Police, that is members of the Uniformed Branch, selects them out of Group 3 and puts him into a separate sub-classifications which requires retirement at age 50.</text>
+            <text syncTime="1226.656" offset="5011196">And the statute by its terms says it does this on the grounds that these men are superannuated.</text>
+            <text syncTime="1232.811" offset="5035856">That is that the State’s necessary interest in keeping a fit force.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1236.861" stopTime="1243.315">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1236.861" offset="5052052">But they mean superannuated in relation to the duties that are called underperformed, do they not?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1243.315" stopTime="1246.399">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1243.315" offset="5077861">That is -- I think that is correct Your Honor.</text>
+            <text syncTime="1245.994" offset="5088623">I think it is a functional relationship.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1246.399" stopTime="1267.384">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1246.399" offset="5090191">Now an airline pilot is presumed superannuated possibly so beginning at 60 and not later I think it is than 64, but lawyers and judges are not necessarily or librarians are superannuated at 60 or 64 or 65, are they?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1267.384" stopTime="1306.202">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1267.384" offset="5174200">There is no doubt Your Honor that they are different retirement ages for different activities.</text>
+            <text syncTime="1274.414" offset="5202308">And again I want to make clear, we are not challenging here the variable retirement ages which the General Statute applies in Massachusetts.</text>
+            <text syncTime="1283.551" offset="5238775">We are talking about 70 for the general employees; 65 for the ones, policeman whose duties are quite similar to the State Police after retiring at age 65, even age 55 from members of the Department of Public Safety.</text>
+            <text syncTime="1296.976" offset="5292483">We are talking about a situation here where they take and remove this particular sub group from age 55 and require them to retire at age 50.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1306.202" stopTime="1322.715">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1306.202" offset="5329472">What language -- what statutory language were you referring to Mr. City when you said that language makes -- the statute makes specific reference or it has -- and gave us a specific reason, the hypothesis that these people were superannuated?</text>
+            <text syncTime="1321.637" offset="5391121">What language were you referring to?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1322.715" stopTime="1345.554">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1322.715" offset="5395510">The language Your Honor in the first part of Chapter 32 in the Definition Section provides that a man will be retired for superannuation.</text>
+            <text syncTime="1331.929" offset="5432290">I think the Appendix will show that the notice that Colonel Murgia received from the Board Of Retirement provides that you will be retired for superannuation on your 50th birthday.</text>
+            <text syncTime="1345.443" offset="5486416">So that --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1345.554" stopTime="1364.350">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1345.554" offset="5486834">Now in assessing the constitutional validity of this State Statute are you suggesting that we are confined in assessing to the reason that the State gave for it?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1364.350" stopTime="1364.944">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1364.350" offset="5562067">I would submit --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1364.944" stopTime="1382.149">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1364.944" offset="5564365">In other words, if we found that perhaps the presumption of superannuation might not support this constitutionally but other factors or considerations might, we are not bound by the reason the State gave, are we?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1382.149" stopTime="1388.301">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1382.149" offset="5633224">I would suggest Your Honor that this Court should be bound by the purposes stated in the statute, the --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1388.301" stopTime="1393.508">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1388.301" offset="5657779">It is not necessary for you own suggestiveness of the traditional and conventional constitutional law?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1393.508" stopTime="1408.944">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1393.508" offset="5678677">No sir.</text>
+            <text syncTime="1393.859" offset="5680036">I think there is -- I will admit that there is some dicta in some of the cases in this Court, particularly dealing with areas of economic regulation where there is language that if this Court can conceive of any rational basis to support the statute I would say that that --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1408.944" stopTime="1412.556">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1408.944" offset="5740431">There is a presumption of course you would agree whether that the statute is valid, you rule that.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1412.556" stopTime="1423.351">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1412.556" offset="5754850">There is no doubt about it.</text>
+            <text syncTime="1413.770" offset="5759657">That burden remained on the plaintiff throughout and I think that the District Court adequately found that we adequately carried our burden.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1423.351" stopTime="1438.129">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1423.351" offset="5798005">And the Equal Protection Clause is that if any rational set of facts can be conceived which would support this legislation, it will be upheld.</text>
+            <text syncTime="1433.344" offset="5838024">You say that is economic legislation and what else is this but economic legislation?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1438.129" stopTime="1473.602">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1438.129" offset="5857146">Well Your Honor, I think there are really a number of issues in here.</text>
+            <text syncTime="1442.030" offset="5872715">I think this is somewhat of a novel case.</text>
+            <text syncTime="1444.826" offset="5883895">Without any doubt, this is economic legislation and that the Commonwealth has a legitimate right to provide for retirement benefits for its employees.</text>
+            <text syncTime="1453.570" offset="5918899">On the other hand, I think that we have here issues which deal with age discrimination.</text>
+            <text syncTime="1460.379" offset="5946171">We have issues here dealing with a man’s employment.</text>
+            <text syncTime="1464.479" offset="5962576">I think the fundamental issue that we are talking about here which is a personal right is the right not to be classified irrationally on the basis of age.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1473.602" stopTime="1489.239">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1473.602" offset="5999043">Well that is just a on words, it seems to me, and it does not fit in at all with our equal protection decisions which Justice Stewart just reminded you of.</text>
+            <text syncTime="1483.407" offset="6038227">Let us say, if any rational set of facts can be conceived that will support the thing it will be upheld.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1489.239" stopTime="1502.567">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1489.239" offset="6061528">My position is even under that test Your Honor, there is no rational set of facts on the -- there is no rational basis on the facts that we have had before us here.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1502.567" stopTime="1519.293">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1502.567" offset="6114922">But it is not the question of the facts we have before us here or the facts on or the basis at which the State says it relied.</text>
+            <text syncTime="1511.595" offset="6150971">It said, any set of facts can be conceived of.</text>
+            <text syncTime="1514.830" offset="6163928">That is what this Court had said time and time again.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1519.293" stopTime="1568.916">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1519.293" offset="6181796">Your Honor I will have to maintain my position.</text>
+            <text syncTime="1521.132" offset="6189110">I cannot -- I agree that that standard exist and we -- I cannot conceive of irrational basis we have gone through a number of hearings in this matter.</text>
+            <text syncTime="1533.637" offset="6239160">I think that any justification should be permitted to be tested before the bar, before the Court -- and I think it is a very difficult standard if ultimately the justification for any particular statute can rest on a justification which this Court might simply conceive of at this point.</text>
+            <text syncTime="1557.690" offset="6335396">I think at the very least if that were the case we should be permitted the opportunity perhaps to go back to the Lower Court and to test and see if in fact if the justification suggested here is in fact rational.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1568.916" stopTime="1596.338">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1568.916" offset="6380326">But it is not a question of fact; it is a question of Constitutional Law.</text>
+            <text syncTime="1574.202" offset="6401433">It is not something that you try in the District Court and decide whether the District Court reaches a different view than the legislature which has the principal jurisdiction over the matter.</text>
+            <text syncTime="1584.056" offset="6440826">It is a question, I think of constitutional law and I think that is what those questions that Justice Stewart propound to your mean.</text>
+            <text syncTime="1590.550" offset="6466844">It is not a question that you need more factual hearings on.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1596.338" stopTime="1617.360">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1596.338" offset="6489936">I agree with you Your Honor.</text>
+            <text syncTime="1598.309" offset="6497877">I would suggest that a rationale or an explanation for a statute must withstand the scrutiny of some examinations to whether in fact it is rational.</text>
+            <text syncTime="1613.807" offset="6559840">I agree.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1617.360" stopTime="1647.703">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1617.360" offset="6574050">What if a State just want it all of its placement not to have gray hairs as a matter of image or identification just as a person making a movie might want to have the lead roles played by people who do not have gray hair regardless of their health, would that be -- and what if a State said any placement of whose hair turns gray can no longer be a policeman working for us because we want only people whose hair is not gray.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1647.703" stopTime="1647.939">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1647.703" offset="6695467">I would submit to you --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1647.939" stopTime="1649.526">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1647.939" offset="6696408">As a matter of image of our police force.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1649.526" stopTime="1650.908">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1649.526" offset="6702677">I would submit your Honor that that is just the --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1650.908" stopTime="1652.078">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1650.908" offset="6708215">No matter how healthy.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1652.078" stopTime="1653.466">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1652.078" offset="6712917">That is just not a rational basis --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1653.466" stopTime="1653.714">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1653.466" offset="6718455">Why would not it be?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1653.714" stopTime="1655.251">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1653.714" offset="6719500">-- on which to make a determination.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1655.251" stopTime="1656.965">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1655.251" offset="6725665">What could we make on that --</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1656.965" stopTime="1657.485">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1656.965" offset="6732457">I think that the—</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1657.485" stopTime="1659.848">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1657.485" offset="6734547">-- as a matter of the United States Constitution.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1659.848" stopTime="1676.718">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1659.848" offset="6744055">I think as a matter of the United States Constitution the classification which a state makes in which it selects to treat its people has got to have some functional relationship to the job that it seeks to accomplish.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1676.718" stopTime="1693.583">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1676.718" offset="6811451">What you are saying is that a legislature of a state cannot act on the generalization that men over 50 are not as competent to perform rigorous police duties as men 50 and under.</text>
+            <text syncTime="1692.031" offset="6872787">That is what you are saying, is it not?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1693.583" stopTime="1715.889">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1693.583" offset="6878951">No sir.</text>
+            <text syncTime="1694.198" offset="6881459">I am not quite saying that; I am saying that the legislature may well be able to do that but we have a unique factual situation here.</text>
+            <text syncTime="1701.253" offset="6909671">We in fact have preexisting individual testing and the data which that testing shows, shows the legislature that the classification that it is making is irrational.</text>
+            <text syncTime="1714.814" offset="6963902">So I would like to qualify what you said --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1715.889" stopTime="1721.745">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1715.889" offset="6968186">Then if they abolished all of the medical examinations you would not be here, is that what you are saying?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1721.745" stopTime="1745.378">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1721.745" offset="6991591">I think that the holding of the District Court, which is really the only issue that we have here before us, says that when the legislature is involved in an admittedly arbitrary line drawing, which is the classification here.</text>
+            <text syncTime="1735.122" offset="7045090">And two, it already has the data; it is not burdened to go out and get it; it all ready has the data which shows that the operation of that classification is totally irrational.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1745.378" stopTime="1753.917">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1745.378" offset="7086155">Do you think that the data in the record shows that men over 50 do not get tired quicker, more quickly?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1753.917" stopTime="1755.714">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1753.917" offset="7120323">I think the record shows that every single --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1755.714" stopTime="1759.544">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1755.714" offset="7127428">Or that the men over 50 do not have the endurance than men under 50?</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1759.544" stopTime="1762.208">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1759.544" offset="7142788">Or the reflexes are not as swift?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1762.208" stopTime="1767.353">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1762.208" offset="7153446">I think that the standard that is required by the State Police is set forth in its examination.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1767.353" stopTime="1779.420">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1767.353" offset="7174031">Well, that is not what I asked you.</text>
+            <text syncTime="1770.743" offset="7187614">I asked you does a record is the record (Inaudible) him is the questions I asked you?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1779.420" stopTime="1786.919">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1779.420" offset="7222305">Mr. Justice White I think without any question age is a factor here.</text>
+            <text syncTime="1783.155" offset="7237247">A man who is 50 may in some instance be lesser than a man --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1786.919" stopTime="1791.484">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1786.919" offset="7252293">Yes.</text>
+            <text syncTime="1787.204" offset="7253443">We know but some personal knowledge on this matter.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1791.484" stopTime="1827.902">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1791.484" offset="7270579">Exactly Your Honor.</text>
+            <text syncTime="1792.877" offset="7276117">The fact to the matter is though that the standards which are required to perform the duties are fully met by the testing.</text>
+            <text syncTime="1801.655" offset="7311226">So that I would submit that even though a man of 50 may not be as fast as a man who is 20, the man who is 50 so long as he meets the regulations set by the police, by the State Police here is capable enough to do his job and I submit that the difference that he may experience personally between when he was 20 and when he was 50 is irrelevant to his competence to complete his job.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1827.902" stopTime="1854.928">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1827.902" offset="7416238">Well, again you are just saying that we are -- he should not be entitled to add to the possible qualifications that the State is asking of its policemen.</text>
+            <text syncTime="1840.997" offset="7468587">If they might have thought that men over 50 get tired faster and if they might have thought that was an important matter to consider in having policemen, can we recognize them?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1854.928" stopTime="1864.370">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1854.928" offset="7524280">I am suggesting that they could recognize that except in this instance Your Honor.</text>
+            <text syncTime="1860.032" offset="7544760">I think again we have this individualized medical testing it belies at.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="1864.370" stopTime="1902.141">
+            <label>Justice Jr.</label>
+            <text syncTime="1864.370" offset="7562106">Actually those requirements that after 40 each officer have a medical examination.</text>
+            <text syncTime="1871.930" offset="7592303">I would suppose really evidence that what the legislature thought was, you ought to go at 50, but it maybe that you deteriorate before age 50, between 40 and 50, and we want to examine you each year to see if we ought to let you out before you reach age 50.</text>
+            <text syncTime="1890.949" offset="7668372">And that is the fact that the medical -- that they introduce the requirement of medical examination to determine whether at 50 or after, when they are still capable.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1902.141" stopTime="1914.817">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1902.141" offset="7713198">I think Senior Judge Aldrich said to the legislature that is something that you cannot do.</text>
+            <text syncTime="1908.171" offset="7737335">If you are going to do that testing, then you cannot have it both ways; you cannot have this arbitrary line that you established at 50 because --</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="1914.817" stopTime="1921.771">
+            <label>Justice Jr.</label>
+            <text syncTime="1914.817" offset="7763876">Well I gather if that is what he said, that is what we -- what we have got before is whether he was right for saying it.</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1921.771" stopTime="1990.284">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1921.771" offset="7791670">I think that is what the Court was saying.</text>
+            <text syncTime="1924.109" offset="7801074">It is a combination of factors and I think without the medical examination the issue may not have existed.</text>
+            <text syncTime="1933.460" offset="7838481">I would like to speak just briefly about the point of the retirement benefits which has been brought up here.</text>
+            <text syncTime="1942.620" offset="7875053">It has been suggested that the provision of retirement benefits is the reason for the sub-classification.</text>
+            <text syncTime="1948.510" offset="7898667">I would submit that on examination that is just not the case.</text>
+            <text syncTime="1951.818" offset="7911938">We have here State Police Officers who are classified under the statute as belonging to Group 3.</text>
+            <text syncTime="1957.871" offset="7936075">As officers under Group 3 they are entitled retirement benefits.</text>
+            <text syncTime="1962.474" offset="7954465">The particular statute which is the subject of this case takes the members out of Group 3 and puts them into a classification which requires them to retire five years earlier.</text>
+            <text syncTime="1974.202" offset="8001381">Since they were all ready entitled to all of the benefits in Group 3 and this sub-classification does not supply any substantially different or additional benefits, it cannot be a justification for the statute to provide this sub-classification on the basis that it is providing for retirement benefits which are --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1990.284" stopTime="1998.131">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1990.284" offset="8065747">But is that not just a matter of drawing different lines for different functions in the government?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="1998.131" stopTime="2057.574">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="1998.131" offset="8097093">No Your honor.</text>
+            <text syncTime="1998.489" offset="8098556">I think the legislative package here clearly shows that the -- what we are talking about here is a particular sub-classification and the statute in its first one or two sections sets out the general terms, establishes these three general classifications, then we are going to get all the way back to Section 26, we find the specific sub-classification which is limited just to members of the Uniformed Branch.</text>
+            <text syncTime="2025.782" offset="8207748">So I think we are not talking about four classifications here, we are really talking about three classifications, and then a sub-classification of that.</text>
+            <text syncTime="2034.086" offset="8240976">And I would submit that if the rationale of supplying retirement benefits is a justification for taking this sub-classification out and treating these members essentially different from many others, then retirement statutes, in general, will simply be a subterfuge for the State to practice age discrimination.</text>
+            <text syncTime="2057.060" offset="8332822">Thank you.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2057.574" stopTime="2070.297">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2057.574" offset="8334912">Mr. City, as I understand the original complaint it also alleged sex discrimination in that women officers or at least some of them are not required to retire at age 50.</text>
+            <text syncTime="2068.746" offset="8379634">Is that issue still in the case?</text>
+          </turn>
+          <turn speaker="robert_d_city" startTime="2070.297" stopTime="2072.735">
+            <label>Mr. Robert D. City</label>
+            <text syncTime="2070.297" offset="8385799">No sir.</text>
+            <text syncTime="2071.556" offset="8390814">That issue is not.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2072.735" stopTime="2075.697">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2072.735" offset="8395516">Thank you.</text>
+          </turn>
+        </section>
+        <section startTime="2075.697" stopTime="2080.303" revised="2014-01-21">
+          <heading>Rebuttal of Terence P. O’malley</heading>
+          <turn speaker="warren_e_burger" startTime="2075.697" stopTime="2077.440">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2075.697" offset="8407428">Do you have anything further Mr. O’Malley.</text>
+          </turn>
+          <turn speaker="terence_p_o’malley" startTime="2077.440" stopTime="2078.380">
+            <label>Mr. Terence P. O’malley</label>
+            <text syncTime="2077.440" offset="8414429">No Your Honor.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2078.380" stopTime="2080.303">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2078.380" offset="8418086">Thank you gentlemen.</text>
+            <text syncTime="2079.076" offset="8420907">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

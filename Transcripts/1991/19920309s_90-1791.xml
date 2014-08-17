@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1992-03-09</transcribed>
+        <edit user="tschaefer" date="2012-08-14T16:59:46" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="clarence_thomas"/>
+        <identified user="tschaefer">2012-08-14</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:30:16" startTime="0.000" oldSpeaker="clarence_thomas" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="565201">/xml/cases/1991/90_1791/19920309o_90-1791.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1991/90-1791_19920309-opinion.xml</sourceFile>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="118.570">
+        <title>Connecticut National Bank v. Germain</title>
+        <section startTime="0.000" stopTime="10.800">
+          <heading>Announcement of Justice Thomas</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.800">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90922">The opinion of the Court in No. 90-1791, Connecticut National Bank versus Germain will be announced by Justice Thomas.</text>
+          </turn>
+        </section>
+        <section startTime="10.800" stopTime="118.570">
+          <heading>Announcement of Justice Thomas</heading>
+          <turn speaker="clarence_thomas" startTime="10.800" stopTime="118.570">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="10.800" offset="134076">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Second Circuit.</text>
+            <text syncTime="18.777" offset="165946">Respondent Thomas M. Germain, trustee for the estate of the bankrupt O'Sullivan Fuel Oil Company, sued petitioner, Connecticut National Bank, for assorted torts and breaches of contract.</text>
+            <text syncTime="34.954" offset="230729">Connecticut National Bank moved to strike Germain's demand for a jury trial.</text>
+            <text syncTime="41.368" offset="256329">The Bankruptcy Court denied the motion and the District Court affirmed.</text>
+            <text syncTime="47.219" offset="279735">Connecticut National Bank then attempted to appeal to the Second Circuit but the court dismissed holding that it lacked jurisdiction over interlocutory decisions rendered by the District Court acting as an Appellate Court in bankruptcy.</text>
+            <text syncTime="64.438" offset="348594">In an opinion filed today with the Clerk, we reverse the judgment of the Court of Appeals and remand for further proceedings.</text>
+            <text syncTime="71.263" offset="375970">Tittle 28 Section 1292 of the United States Code provides for jurisdiction in the Courts of Appeals over interlocutory orders of the District Courts.</text>
+            <text syncTime="82.089" offset="419229">We see nothing in the language of this or any other statute that limits Congress' grant of jurisdiction to any particular subset of such orders.</text>
+            <text syncTime="92.295" offset="460084">Because the order of the District Court affirming the order of the Bankruptcy Court is within the language of Section 1292, the Court of Appeals could have exercised jurisdiction over Connecticut National Bank's appeal.</text>
+            <text syncTime="106.522" offset="516927">Justice Stevens has filed an opinion concurring in the judgment; Justice O'Connor also has filed an opinion concurring in the judgment in which Justice White and Justice Blackmun have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

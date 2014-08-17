@@ -1,0 +1,887 @@
+<transcript verified="true">
+      <history>
+        <edit user="tschaefer" date="2013-04-19T14:03:06" startTime="2385.378" oldSpeaker="william_o_douglas" newSpeaker="byron_r_white"/>
+        <identified user="tschaefer">2013-04-19</identified>
+        <verified user="jgoldman">2013-08-25</verified>
+      </history>
+      <resources>
+        <audioFile size="16713563">/xml/cases/1962/405/19630417a_405.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1962/405_19630417-argument.xml</sourceFile>
+        <speaker id="earl_warren" type="justice" gender="male" path="/justices/earl_warren" image="/justices/earl_warren/thumbnail.jpg">Earl Warren</speaker>
+        <speaker id="richard_m_roberts" type="advocate" gender="male" path="/advocates/rr/richard_m_roberts" image="/advocates/rr/richard_m_roberts/thumbnail.jpg">Richard M. Roberts</speaker>
+        <speaker id="john_m_harlan2" type="justice" gender="male" path="/justices/john_m_harlan2" image="/justices/john_m_harlan2/thumbnail.jpg">John M. Harlan</speaker>
+        <speaker id="arthur_j_goldberg" type="justice" gender="male" path="/justices/arthur_j_goldberg" image="/justices/arthur_j_goldberg/thumbnail.jpg">Arthur J. Goldberg</speaker>
+        <speaker id="tom_c_clark" type="justice" gender="male" path="/justices/tom_c_clark" image="/justices/tom_c_clark/thumbnail.jpg">Tom C. Clark</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="owen_c_pearce" type="advocate" gender="male" path="/advocates/op/owen_c_pearce" image="/advocates/op/owen_c_pearce/thumbnail.jpg">Owen C. Pearce</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="4152.439">
+        <title>United States v. Pioneer American Insurance Company</title>
+        <section startTime="0" stopTime="1836.297">
+          <heading>Argument of Richard M. Roberts</heading>
+          <turn speaker="earl_warren" startTime="0.000" stopTime="19.396">
+            <label>Chief Justice Earl Warren</label>
+            <text syncTime="0.000" offset="103424">Number 405, United States, petitioner, versus Pioneer American Insurance Company et al.</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="19.396" stopTime="21.003">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="19.396" offset="180955">Mr. Chief Justice --</text>
+          </turn>
+          <turn speaker="earl_warren" startTime="21.003" stopTime="22.122">
+            <label>Chief Justice Earl Warren</label>
+            <text syncTime="21.003" offset="187434">Mr. Roberts.</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="22.122" stopTime="232.102">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="22.122" offset="191822">-- members of the Court.</text>
+            <text syncTime="23.916" offset="199032">This case involves the priority of a federal tax lien versus a lien for attorney's fees.</text>
+            <text syncTime="32.545" offset="233514">It is before this Court on a writ of certiorari to the Supreme Court of the State of Arkansas.</text>
+            <text syncTime="39.845" offset="262771">The facts may be briefly summarized.</text>
+            <text syncTime="43.170" offset="276041">They're really not in dispute.</text>
+            <text syncTime="45.699" offset="286177">The taxpayers against whom the tax assessments, the federal tax assessments were made had purchased in 1958, a parcel of real estate located in Sebastian County, Arkansas.</text>
+            <text syncTime="59.883" offset="342915">In the note, which they assumed when they bought the property, the maker had agreed in the event of default the price of the placing of the -- and of the placing of the note in the hands of attorney for collection, or if the note is collected through any court proceedings, the maker had agreed to pay a reasonable attorney's fee.</text>
+            <text syncTime="83.596" offset="437791">The mortgage which secured the note provided that if the grantor should fail to pay any interest or installment or principal when due then at the option of the holder, all of the indebtedness secured by the mortgage would become due and the mortgage could be foreclosed.</text>
+            <text syncTime="104.270" offset="520443">The taxpayers here did default on the payments under the note in October of 1960 and all payments subsequent thereto.</text>
+            <text syncTime="116.147" offset="567986">On March 24, 1961, the respondent filed a suit to foreclose its mortgage and sought in that suit the allowance of a reasonable attorney's fee.</text>
+            <text syncTime="129.774" offset="622425">The United States was named a party defendant pursuant to Section 2410 of Title 28, because of then two existing tax liens that had been filed of record, one, November 29, 1960, the month following to the default and one on January 30, 1961.</text>
+            <text syncTime="153.404" offset="716988">In its answer, the United States admitted that its liens were junior to the mortgage and subordinate thereto to the extent of principal and interest.</text>
+            <text syncTime="165.760" offset="766412">It did however assert that its liens were superior to the lien of the mortgagor or the mortgagee rather for an attorney's fees.</text>
+            <text syncTime="175.373" offset="804864">On November 9, 1961, the United States amended its answer, and in its amended answer, included three additional federal tax liens that had been filed on April 14, July 17, and October 3, 1961.</text>
+            <text syncTime="196.813" offset="890650">On November 15, 1961, the Chancery Court of Sebastian County, Arkansas entered its decree foreclosing the mortgage and fixed an attorney's fee of $1250.</text>
+            <text syncTime="212.704" offset="954180">It held that that attorney's fee was entitled to priority over the federal tax lien.</text>
+            <text syncTime="218.731" offset="978317">On appeal by the United States, the Supreme Court of Arkansas with the dissent by the Chief Justice affirmed the lower court's decree.</text>
+            <text syncTime="229.350" offset="1020740">This Court has many times held --</text>
+          </turn>
+          <turn speaker="john_m_harlan2" startTime="232.102" stopTime="237.386">
+            <label>Justice John M. Harlan</label>
+            <text syncTime="232.102" offset="1031816">What were the dates of the determination in the amount of the fee?</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="237.386" stopTime="471.717">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="237.386" offset="1052923">On November 15, 1961, that was after the last notice of the federal tax lien had been filed Your Honor.</text>
+            <text syncTime="247.941" offset="1095137">This Court has many times held that the federal tax lien is a court lien as of the date that it arises.</text>
+            <text syncTime="257.197" offset="1132126">The tax liens arise under Section 6321 and 6322 of the Internal Revenue Code of 1954.</text>
+            <text syncTime="267.883" offset="1174862">These assessments that caused the liens to come into being are made before the filing of the notice, so that the liens had actually been and being ahead of a filing of a notice here.</text>
+            <text syncTime="280.522" offset="1225435">However, Section 6323 (a) of the Revenue Code of 1954 requires that prior to their being entitled to priority over a mortgagee, pledgee, judgment creditor or purchaser, the notice of the lien must be filed.</text>
+            <text syncTime="303.880" offset="1318849">Recently, this Court in the case of United States versus Buffalo Savings Bank which was decided on January 7th, 1963 held that the federal tax lien was entitled to priority over a lighter accruing state tax or local tax even though under state law, the local tax was entitled to priority over the mortgagee's mortgage.</text>
+            <text syncTime="334.224" offset="1440266">Now, in that case as here, the Buffalo Savings Bank in -- argued and contended that because the state taxes were required it could be paid and added to the mortgage that they also should be entitled to the same standing as the mortgagee to be ahead of the federal taxes.</text>
+            <text syncTime="362.575" offset="1553638">They also contended, as the state court had held there that the property should be sold and the taxes paid as a cost of the proceeding that they were entitled to have the property sold and the taxes paid as part of the cost.</text>
+            <text syncTime="378.753" offset="1618422">This Court held that that could not be done.</text>
+            <text syncTime="381.744" offset="1630333">It cited the New Britain case and said that the New Britain case was controlling.</text>
+            <text syncTime="388.114" offset="1655829">Now, it is settled law, we submit, that the federal tax lien when it comes into competition with other liens is a Choate lien.</text>
+            <text syncTime="398.849" offset="1698774">This Court has held that a lien to be entitled to award -- to an award of priority over and ahead of the federal tax lien must be Choate.</text>
+            <text syncTime="410.644" offset="1745899">Now, in its test of Choateness, it has developed three standards that that competing lien must obtain.</text>
+            <text syncTime="419.439" offset="1781112">One is that the identity of the property against which the liens tended must be known, the identity of the lienor must be known, and the amount of the lien must be fixed and definite.</text>
+            <text syncTime="435.468" offset="1845269">It is in the last category that the Government submits that this lien for attorney's fees was not perfect.</text>
+            <text syncTime="443.059" offset="1875571">In other words, it was not known until after the liens were filed sometime in November when -- at 1961, when the foreclosure decree was entered, and the Court awarded the attorney's fees for $1250.</text>
+            <text syncTime="458.597" offset="1937742">It was not until that date that the competing attorney's lien met the test set out by this Court to meet the requirement of Choateness.</text>
+            <text syncTime="469.865" offset="1982882">Now, respondent says --</text>
+          </turn>
+          <turn speaker="arthur_j_goldberg" startTime="471.717" stopTime="474.001">
+            <label>Justice Arthur J. Goldberg</label>
+            <text syncTime="471.717" offset="1990196">[Inaudible] --</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="474.001" stopTime="474.503">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="474.001" offset="1999391">Yes sir.</text>
+          </turn>
+          <turn speaker="arthur_j_goldberg" startTime="474.503" stopTime="500.589">
+            <label>Justice Arthur J. Goldberg</label>
+            <text syncTime="474.503" offset="2001377">Do you concede that being the amount of the attorney's fees wasn't fixed, or has he known, if they have the foreclosure, obviously you will have an attorney's fee and referring to [Inaudible] of the foreclosure decision.</text>
+            <text syncTime="494.444" offset="2081102">Is that the vital [Inaudible]?</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="500.589" stopTime="1093.001">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="500.589" offset="2105762">Yes Your Honor.</text>
+            <text syncTime="502.209" offset="2112240">In other words, we contend that it is not until the fee is fixed that it becomes known.</text>
+            <text syncTime="508.517" offset="2137422">Now, it is known that in the foreclosure, if there is to be a foreclosure procedure.</text>
+            <text syncTime="515.104" offset="2163754">Now actually, in a default situation there is not always a foreclosure.</text>
+            <text syncTime="520.539" offset="2185488">It is only a right that comes into being.</text>
+            <text syncTime="523.432" offset="2197086">It might not be foreclosed.</text>
+            <text syncTime="525.135" offset="2203878">It could even under the instrument before this Court which is really a deed of trust rather than a mortgage, it contained the power of sale which could have been exercised without a foreclosure proceeding.</text>
+            <text syncTime="541.343" offset="2268766">Now, in that connection, this Court has held many times and even though the lien may be known, that that is not itself sufficient in the White Bear Brewing Company case for instance.</text>
+            <text syncTime="555.528" offset="2325504">There, the competing mechanic's lien had already gotten a judgment ahead of the filing of the notice of the tax lien.</text>
+            <text syncTime="564.109" offset="2359777">It was in the hands of the sheriff for execution.</text>
+            <text syncTime="567.631" offset="2373883">Then the tax liens came into being and this Court reversed per curiam a Seventh Circuit holding that that competing lien was entitled to priority.</text>
+            <text syncTime="577.457" offset="2413171">It was not Choate at that time even though the lien itself had come into being.</text>
+            <text syncTime="582.738" offset="2434278">Now, we admit that the lien for attorney's fees had -- or liens for attorney's fees had come into being at the time that the mortgage was created.</text>
+            <text syncTime="591.481" offset="2469282">It was just that it was not Choate within the -- as that term has been defined by this Court.</text>
+            <text syncTime="598.505" offset="2497390">Now, it is the contention of the respondent as I understand it that the Choateness Test has not been applied to the four categories set out in Section 6323 (a); that is the category of the mortgagee, pledgee, judgment creditor, or purchaser.</text>
+            <text syncTime="619.126" offset="2579832">It is our position that it has been in the Ball Construction Company case, the parties agreed that there was a mortgage involved in that situation.</text>
+            <text syncTime="630.289" offset="2624554">The dissent points out that the parties agreed and stipulated more or less that there was a mortgage under state law.</text>
+            <text syncTime="637.981" offset="2655274">This Court has held that it is the state law that will determine what type of lien or whether there is a lien.</text>
+            <text syncTime="645.310" offset="2684635">The priority of the lien however is for the federal law.</text>
+            <text syncTime="649.194" offset="2700100">Now, Ball Construction Company, while some of the lower courts have had some difficulty in determining just what this Court did hold in its per curiam opinion, but it was briefed, it was argued on the contention that there was a mortgage involved and that the dissent pointed out that the parties did concede that a mortgage was involved.</text>
+            <text syncTime="670.870" offset="2786826">But there, these amounts advanced that this lien covered had not come into being until after the federal tax liens had been filed.</text>
+            <text syncTime="680.868" offset="2826846">Now the same is true in White Bear Brewing Company.</text>
+            <text syncTime="683.944" offset="2839176">There you had a judgment creditor competing with the federal tax lien.</text>
+            <text syncTime="689.371" offset="2860805">He already had his judgment.</text>
+            <text syncTime="691.614" offset="2869791">It was even in the hands of the sheriff for execution at the time the federal tax liens came into being.</text>
+            <text syncTime="697.977" offset="2895287">So again, this Court has applied the Choateness test where the four categories may be involved or one of the four hasn't done so in all four.</text>
+            <text syncTime="709.495" offset="2941367">Now, there has been -- there have been two recent appellate court decisions upholding the Choateness test where a lien is competing with the Federal Government.</text>
+            <text syncTime="726.138" offset="3007927">One is a local District of Columbia Circuit Court case involving a pledgee, the Stevan, S-T-E-V-A-N trustee, versus Union Trust Company.</text>
+            <text syncTime="742.896" offset="3074905">It was decided March 28, 1963 by the United States Court of Appeals for the District of Columbia Circuit, Number 16865 in which that court while finding the pledgee to be entitled to priority, did apply the Choateness test as it applies to a pledgee.</text>
+            <text syncTime="767.374" offset="3172916">The Government's concession in the Crest Finance Company case was based on the Government's belief that there, the advances having been made prior to the filing of the tax lien, the Crest Finance had a Choate lien.</text>
+            <text syncTime="784.345" offset="3240730">The other appellate court has an interim that has ruled this and as it applies to attorney's fees is a -- intermediate Court of Appeals in Illinois.</text>
+            <text syncTime="798.511" offset="3297468">I have it in my notes here but I can't find the citation, it's a recent case involving attorney's fees.</text>
+            <text syncTime="807.350" offset="3332786">It is the Apollo, A-P-O-L-L-O Savings and Loan Association versus Purow, P-U-R-O-W, to intermediate Court of Appeals, the Appellate Court of Illinois, Second District, Second Division, Number 11629 decided February the 19th in which the Court held that the attorney's fees were not incurred or the amount thereof definitely fixed until after the filing of the notice of the federal tax lien.</text>
+            <text syncTime="842.091" offset="3471757">In such case, the federal lien is superior to the lien for attorney's fees.</text>
+            <text syncTime="849.236" offset="3500283">Now, respondent cites this Court's case in Powers, Powers case as contending that the lien for the attorney's fees was Choate at the time the mortgage was entered into as opposed to our contention that it is not Choate until the fees are definitely fixed.</text>
+            <text syncTime="872.339" offset="3592756">The Powers case did not involve a federal tax lien.</text>
+            <text syncTime="877.069" offset="3611669">It involved the basic question of whether the attorney was in the position of a lien holder.</text>
+            <text syncTime="884.476" offset="3641240">That case arose under the Bankruptcy Act, and under the Bankruptcy Act at that time, a contingent claim was not provable in bankruptcy.</text>
+            <text syncTime="895.600" offset="3685752">And you had a situation where the attorney was claiming he had a lien and that he should be entitled to perfect the lien after the adjudication of bankruptcy.</text>
+            <text syncTime="906.604" offset="3729742">Under the Bankruptcy Act, there are certain liens that maybe perfected after the adjudication as long as they were in being before the adjudication of bankruptcy.</text>
+            <text syncTime="918.400" offset="3776972">And there, the use of the term that the lien was not inChoate was the way this Court put it was in describing really whether they had a lien or not.</text>
+            <text syncTime="927.556" offset="3813648">This Court went on and in language -- and in language said that it was contingent upon his perfecting it and obtaining the amount so that we feel that the Court while it used the term that the lien was not inChoate.</text>
+            <text syncTime="942.522" offset="3873416">It was only in the sense of whether he had a lien or did not have a lien.</text>
+            <text syncTime="947.290" offset="3892537">We admit here that the attorney had a lien.</text>
+            <text syncTime="950.956" offset="3907166">Now, there is some discussion in some lower court cases allowing the attorney's fees of equating the attorney's fees with interest.</text>
+            <text syncTime="963.453" offset="3957217">We conceded here and do concede that the balance due on the mortgage, the principal amount still owing plus interest is due and entitled to priority over the federal tax lien.</text>
+            <text syncTime="978.433" offset="4017089">Now, some of the lower courts in awarding priority to the federal tax lien or rather in awarding priority to the attorney's fees over a federal tax lien have said that it is the same as interest.</text>
+            <text syncTime="991.676" offset="4070066">Now, we submit that that is not true that interest is definite in amount and that it is only a mathematical computation that gets to the exact amount of interest that maybe owed to the mortgagee.</text>
+            <text syncTime="1006.262" offset="4128371">Once the mortgage is in default and the principal is known, the property is known, the lienor is known and it only takes a mathematical computation to ascertain the amount of the interest that is due.</text>
+            <text syncTime="1020.578" offset="4185736">And we submit that therefore the interest does meet the Choateness test and we do not contest or contend that we would come ahead of interest.</text>
+            <text syncTime="1031.299" offset="4228577">It's also a contention that we have allowed local cost to be paid ahead of a federal tax lien.</text>
+            <text syncTime="1039.951" offset="4263163">The Federal Government has always conceded at least in tax cases where it goes into a state court and goes into the proceeding that it is bound by any cost that are allowable.</text>
+            <text syncTime="1056.181" offset="4328051">It is also bound as it was here.</text>
+            <text syncTime="1058.506" offset="4337351">Your Honors will note the records, the United States put up a supersidious bond in this proceeding which of course it would not be required to do in federal courts.</text>
+            <text syncTime="1067.994" offset="4375385">So we submit that in recognizing that we have to pay cost, that we do so under the theory that we are using the state courts for our litigation and that we are subject to their cost, the same as any other litigant who comes in to their courts and uses them.</text>
+            <text syncTime="1087.551" offset="4453543">We do not feel that that makes this attorney's fee however, come ahead of us.</text>
+          </turn>
+          <turn speaker="tom_c_clark" startTime="1093.001" stopTime="1112.596">
+            <label>Justice Tom C. Clark</label>
+            <text syncTime="1093.001" offset="4475382">Suppose Mr. Roberts the attorney's fees were passed as cost by the court not under the mortgage and like the British practice, they tax cost for attorney's fee, is there -- would you then assume that those costs [Inaudible]</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="1112.596" stopTime="1128.689">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="1112.596" offset="4553749">No, I would not Your Honor for this reason.</text>
+            <text syncTime="1115.349" offset="4564720">Cost historically in this country has not been a part.</text>
+            <text syncTime="1120.913" offset="4586977">That is attorney's fees rather historically have not been looked upon as a part of the cost of litigation.</text>
+          </turn>
+          <turn speaker="tom_c_clark" startTime="1128.689" stopTime="1131.154">
+            <label>Justice Tom C. Clark</label>
+            <text syncTime="1128.689" offset="4618115">Or a state may do it.</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="1131.154" stopTime="1179.482">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="1131.154" offset="4627937">A state may do it as it did in Buffalo Savings Bank, Your Honor, and this Court 8 to 1 said that it could not in a per curiam opinion, said that the Court or the State cannot characterize this as cost and therefore, jump ahead of the federal tax lien.</text>
+            <text syncTime="1149.440" offset="4701184">I believe that Buffalo Savings Bank decided this term, answers that question completely and New Britain which was decided prior.</text>
+            <text syncTime="1157.691" offset="4734098">Now, this case is really in the same posture as New Britain or Buffalo Savings in that you have a fund, you have competing lienors.</text>
+            <text syncTime="1168.841" offset="4778715">This again is not quite the case that New Britain did not meet which was what the mortgagee had paid and then was seeking reimbursement.</text>
+          </turn>
+          <turn speaker="tom_c_clark" startTime="1179.482" stopTime="1224.670">
+            <label>Justice Tom C. Clark</label>
+            <text syncTime="1179.482" offset="4821347">Buffalo involved the taxing of cost arising out of the language of the [Inaudible].</text>
+            <text syncTime="1188.052" offset="4855620">My question is [Inaudible] -- suppose the state adopted a general policy of taxing all lawyers who [Inaudible] language is contrary, that is to say it is something different.</text>
+            <text syncTime="1204.412" offset="4921031">And the general state policy is that there ought to be cost expense for lawyers, general cost. And then all the litigant wanted a [Inaudible] mortgage, non- mortgage and saying assessed cost, and [Inaudible] that would be governed [Inaudible], isn't it?</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="1224.670" stopTime="1575.631">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="1224.670" offset="5002010">We submit that it would, Your Honor Buffalo and the other cases of this Court.</text>
+            <text syncTime="1228.344" offset="5016743">This is then taking something that is not historically a part of cost and adding to it which is really what the attempt that was made in Buffalo.</text>
+            <text syncTime="1238.030" offset="5055509">And even I don't believe the statute in Buffalo be -- would only cover those where the instrument itself said that they could be added and were entitled to priority.</text>
+            <text syncTime="1249.924" offset="5103052">So, I remember the statute in Buffalo is just a general statute that attorney's fees in foreclosure suits could be added and made a part of the cost.</text>
+            <text syncTime="1259.232" offset="5140250">It left it up.</text>
+            <text syncTime="1260.143" offset="5143907">The statute was general and left it up to the -- I believe it's a referee in New York who actually conducts the sale.</text>
+            <text syncTime="1267.836" offset="5174732">They left it up to his decision and judgment how we would handle this particular attorney's fee.</text>
+            <text syncTime="1278.220" offset="5216214">Now, in the federal cases that this Court has handled and lower courts, the -- what is distilled from them is that the federal tax lien once it attaches to the taxpayer's property, his interest cannot be decreased by any later occurring event that in order for his interest or the federal tax lien to be defeated by a lien, that lien must have already attached to the property and to the taxpayer's interest.</text>
+            <text syncTime="1318.557" offset="5377651">And if so that it was ahead of the taxpayer, so that at the time the tax lien went on, the taxpayer did not have that interest.</text>
+            <text syncTime="1329.512" offset="5421432">Now, respondent has cited several recent cases of this Court holding that the taxpayer affirming lower courts decision in one instance, sending one back to the New York Court of Appeals for further holding, finding that there was no property right of the taxpayer in this fund to which the federal tax lien could attach, Durham Lumber and Aquilino.</text>
+            <text syncTime="1359.024" offset="5539506">Now in most instances, the state procedures had been followed by a mechanic in Durham Lumber and there was a separate state statute in Aquilino.</text>
+            <text syncTime="1373.975" offset="5599274">In Durham Lumber, once the mechanics filed the notice of lien, the mechanics had a right then against the owner or contractor as opposed to his right against the subcontractor, the subcontractor being the taxpayer.</text>
+            <text syncTime="1391.312" offset="5668655">So that the Court found there was no right of the subcontractor any longer to this fund and therefore, our tax lien it could not attach to it.</text>
+            <text syncTime="1401.353" offset="5708779">But there, you did not have as here an award here of attorney's fees against who, against the taxpayer.</text>
+            <text syncTime="1409.636" offset="5741902">So that also this attorney's fees coming up attaching to this fund through the taxpayer, the same avenue that our lien is attaching to this fund which is through the taxpayer.</text>
+            <text syncTime="1422.403" offset="5792998">Now, a similar argument was made in Bank of America, which was argued before this Court several years ago, but where when there's a mortgage involved, that all the tax lien could attach to was the mortgage or its interest which could be defeated by a default in payments on the mortgage.</text>
+            <text syncTime="1448.677" offset="5898115">And this Court said the fallacy of this contention is evident.</text>
+            <text syncTime="1453.388" offset="5916923">In best, we held that a decedents -- the deceased property -- deceased property and insurance policies on his own life was limited to their cash surrender value and did not extend to their proceeds which he could never enjoy.</text>
+            <text syncTime="1470.544" offset="5985573">Here however, the mortgagors only entire fee interest in the properties subject only to the mortgage -- mortgages.</text>
+            <text syncTime="1478.782" offset="6018487">This Court has repeatedly rejected their contention that because a fee owned by a taxpayer was already encumbered by a lien which enjoyed seniority under state law, the Government's lien necessarily sub -- attached subject to that lien.</text>
+            <text syncTime="1496.751" offset="6090376">Now therefore, we submit that the fact that the taxpayers' interest here could be defeated by later events such as the award of the attorney's fees or his default under the mortgage.</text>
+            <text syncTime="1508.661" offset="6138023">And under the cases of this Court that that cannot defeat the federal tax lien which has already attached to his property.</text>
+            <text syncTime="1519.443" offset="6181177">Now, Arkansas does have the title theory of mortgages which under their holdings, the title is in the -- here the trustee, but the title is gland in his work on mortgages, one gland on mortgages, Section 28 at page 191 has said, “The truth is that the title theory must always be adjusted to the idea that the mortgagee has a security interest only.”</text>
+            <text syncTime="1551.819" offset="6310640">And we submit that it makes no difference whether you're in a title theory or lien theory state where you have a mortgage involved that really all it is, is a security device.</text>
+            <text syncTime="1562.854" offset="6354840">And that the taxpayer has the basic interest that our lien attached to that interest ahead of the attorney's fees and that the federal lien is entitled to priority.</text>
+            <text syncTime="1573.056" offset="6395591">I'd like to save the remainder of my time for rebuttal.</text>
+          </turn>
+          <turn speaker="earl_warren" startTime="1575.631" stopTime="1576.854">
+            <label>Chief Justice Earl Warren</label>
+            <text syncTime="1575.631" offset="6405935">You may, Mr. Roberts.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1576.854" stopTime="1588.934">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1576.854" offset="6410742">Mr. Roberts, [Inaudible]</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="1588.934" stopTime="1615.898">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="1588.934" offset="6459120">It is respondent's position that the mortgage itself provided for attorney's fees.</text>
+            <text syncTime="1596.675" offset="6490049">As I read the provision, he cites at least if I read his brief correctly, that is ambiguous as to whether the mortgage does or doesn't, the note definitely did.</text>
+            <text syncTime="1609.126" offset="6539891">The mortgage has a provision in it which --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1615.898" stopTime="1622.584">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1615.898" offset="6566954">[Inaudible]</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="1622.584" stopTime="1704.046">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="1622.584" offset="6593703">In the record, I'm trying to find it now, Your Honor.</text>
+            <text syncTime="1635.602" offset="6645739">Page 13 of the record, as I understand their position, the first full complete paragraph on that page; it is our position that if that is all that they -- it is pointed out in the mortgage and I have read deed of trust, and I find no other provision that that only talks of the party, the second part, the party of the first part, the mortgagee here being the party of the third part.</text>
+            <text syncTime="1669.031" offset="6779486">And if that is what they contend brings in to the mortgage, the right to pay the attorney's fees as opposed to the note, that its ambiguous and that there's a much better way of drafting to provide that the mortgagee may pay attorney's fees and add them to the mortgage.</text>
+            <text syncTime="1687.749" offset="6854405">It is submitted however, that that would really make no difference, Your Honor, by the Government.</text>
+            <text syncTime="1692.774" offset="6874467">That is the same contention that was made in Buffalo that the mortgage there allowed the mortgagee to pay the local taxes and add to the mortgage and that therefore they would be entitled the priority on that basis.</text>
+          </turn>
+          <turn speaker="john_m_harlan2" startTime="1704.046" stopTime="1714.152">
+            <label>Justice John M. Harlan</label>
+            <text syncTime="1704.046" offset="6919607">What would be your view if the mortgage liquidated the amount of the attorney's fees, mortgage instrument?</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="1714.152" stopTime="1827.630">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="1714.152" offset="6959940">There, Your Honor, I think you would have to look then to the state law to determine whether or not it really could do so.</text>
+            <text syncTime="1725.129" offset="7003930">Arkansas law prior to 1951, a provision in a mortgage providing for attorney's fees was not enforceable under the Arkansas cases.</text>
+            <text syncTime="1737.652" offset="7053981">It was deemed to be a penalty.</text>
+            <text syncTime="1740.586" offset="7065684">Now in 1951, the Arkansas legislatures changed its statute, and said that notes calling for the payment of attorney's fees would be alright and they would be enforceable as contracts for -- of indemnity.</text>
+            <text syncTime="1755.764" offset="7126392">Now, if I understand the contract for indemnity, if you have to enforce it, you bring a suit.</text>
+            <text syncTime="1761.121" offset="7147813">You would then get a judgment and that would be our position here that when this note went in default.</text>
+            <text syncTime="1767.125" offset="7171845">The attorney, in order to get his fee, would either have to bring a separate judge -- a suit or he could, of course, as he did here join it with the principal suit which was the foreclosure action.</text>
+            <text syncTime="1779.891" offset="7222941">But if it provided for liquidated damages and I assume you mean by that, if the mortgage provided that in the event of default, there should be a $250 attorney's fees.</text>
+            <text syncTime="1792.304" offset="7272573">Then you would have to look to state law to see whether that is valid or not.</text>
+            <text syncTime="1796.904" offset="7290964">Because really, once it's in default, many mortgages never reach the foreclosure stage.</text>
+            <text syncTime="1803.994" offset="7319385">They can -- the default can be paid up the default payments.</text>
+            <text syncTime="1807.411" offset="7332968">And the fact then, if I understand correctly, your contention would be that the attorney's fees of $250 would be payable even though the man three days late came in and paid up his mortgage and it no longer went in to default.</text>
+            <text syncTime="1822.868" offset="7394826">I don't think that many states would allow that.</text>
+          </turn>
+          <turn speaker="earl_warren" startTime="1827.630" stopTime="1829.561">
+            <label>Chief Justice Earl Warren</label>
+            <text syncTime="1827.630" offset="7413844">You may have three minutes to close --</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="1829.561" stopTime="1829.815">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="1829.561" offset="7421576">Thank you.</text>
+          </turn>
+          <turn speaker="earl_warren" startTime="1829.815" stopTime="1836.297">
+            <label>Chief Justice Earl Warren</label>
+            <text syncTime="1829.815" offset="7422621">-- if you wish, Mr. Roberts.</text>
+            <text syncTime="1831.752" offset="7430353">And you may have three extra minutes if you wish.</text>
+            <text syncTime="1834.836" offset="7442683">Mr. Pearce.</text>
+          </turn>
+        </section>
+        <section startTime="1836.297" stopTime="3865.495">
+          <heading>Argument of Owen C. Pearce</heading>
+          <turn speaker="owen_c_pearce" startTime="1836.297" stopTime="2334.161">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="1836.297" offset="7448534">Mr. Chief Justice may it please the Court.</text>
+            <text syncTime="1840.869" offset="7466820">To the vague statement of facts that Mr. Roberts gave out, I would like to add some facts particularly dealing with what we contend as the contract under which we have the rest that we claim in this case.</text>
+            <text syncTime="1852.855" offset="7514781">On page 7 of the record appears the provision concerning the attorney's fee.</text>
+            <text syncTime="1859.042" offset="7539545">It reads that the undersigned also agrees that in the event of default herein and of the placing of this note in the hands of an attorney for collection or this note is collected through any court proceedings to pay a reasonable attorney's fee.</text>
+            <text syncTime="1872.955" offset="7595238">Now, we feel it's also an important part of the facts, that the statute providing for attorney's fees was part of the Arkansas law at this time and had been since 1951.</text>
+            <text syncTime="1885.748" offset="7646333">Also that this attorney's fee is not unlimited but it is limited to the extent of 10% of the principal and the accrued interest at the time that the award is made.</text>
+            <text syncTime="1897.990" offset="7695339">Now, we feel that there are three provisions which adequately care for the attorney's fees and the mortgage.</text>
+            <text syncTime="1903.580" offset="7717700">On page 12 of the record, right at the top of the page, it's provided that the party of the third part who is the mortgagee, may also pay any other sum that is necessary to protect the security of this instrument.</text>
+            <text syncTime="1917.830" offset="7774647">All such sums as well as the costs paid by the party of the third part pursuant to this instrument shall be secured hereby.</text>
+            <text syncTime="1925.855" offset="7806830">The second provision in the mortgage, which the deals with the matter of the attorney's fee, and was mentioned by Mr. Roberts; on page 13 of the record, I would call the attention of the Court to the fact that in -- toward the end of the paragraph the word “to” was changed by stipulation of the parties from the first printed record to read by.</text>
+            <text syncTime="1947.699" offset="7894183">So that this provision now reads as follows leaving up the unimportant words, that if the party of the first part shall become a party to any suit or proceeding at law or in equity in reference to its interest in the premises herein conveyed, the attorney's fees in such suit or proceeding shall be added to the principal sum then owing by the party of the first part and shall be secured by this instrument.</text>
+            <text syncTime="1974.152" offset="8000031">Finally, for the third provision of the mortgage which deals with the matter of attorney's fees, page 14 of the record toward the middle of the page, it's stated the application of the proceeds of the foreclosure sale.</text>
+            <text syncTime="1986.745" offset="8050395">It says that the proceeds of any sale under this deed of trust shall be applied by the party of the second part as follows.</text>
+            <text syncTime="1994.752" offset="8082369">First; to pay the cost and expenses of executing this trust and -- and it goes ahead and mentions attorney's fees and then down to the third item; to pay off the debt secured hereby, including accrued interest thereon; and last, to pay the balance, if any, to the party of the first part or the mortgagors.</text>
+            <text syncTime="2018.405" offset="8177037">I shall address myself to three propositions.</text>
+            <text syncTime="2021.799" offset="8190516">First, that the mortgagee is a protected category under 26 U.S. Code 6323, and that the Court in its principle should not be applied in this case to deprive the mortgagee of an important right that he has acquired by a contract and as a result of the provisions that I just outlined.</text>
+            <text syncTime="2042.431" offset="8273063">Secondly, that the attorney's fee is just as Choate as other items which the Government admits to be Choate dealing with the amount, there is no question as to the identity of the lienor or the -- the identity of the property and thirdly, that the result contended for by the Government is unjust to lenders.</text>
+            <text syncTime="2063.585" offset="8357700">Now, as a background that concerned the Court in this rule, I think that we have to consider what the law was from the year of 1866, when the statute was first enacted establishing the federal tax lien up to the year 1913.</text>
+            <text syncTime="2080.780" offset="8426454">This provision is now 26 U.S. Code 6321.</text>
+            <text syncTime="2086.588" offset="8449755">It provides simply that when one fails to pay a tax after demands that the amount of the tax shall be a lien upon all the property of the taxpayer and the matter of recording under this statute was not dealt with and it is not important.</text>
+            <text syncTime="2100.657" offset="8505971">If there are tax liens in New York then if there were mortgage placed to record, and in Arkansas even though there was no recording, the tax lien still was a good lien between the years 1866 and 1913.</text>
+            <text syncTime="2115.979" offset="8567306">In the year 1913 was enacted Section 6323 which provides in substance that the liens shall not be valid as against any mortgagee, clergy, purchaser or judgment creditors.</text>
+            <text syncTime="2131.440" offset="8629164">Now most of the cases, now we contend all but two cases, the New Britain case and the Buffalo Savings Bank case, dealt with local liens of one count or another but not with mortgage liens, such things as labor or material liens, attachment liens, garnishment liens, the landlord liens.</text>
+            <text syncTime="2152.568" offset="8713592">The old law was the law of the first in time as a first in arrival that's -- that's still the law but this was a basic to the law between 1866 and 1913.</text>
+            <text syncTime="2162.521" offset="8753507">And because of that, it became necessary to make some determination as to when these local liens became perfect or fixed, or determined, so they could be determined which of these came first; the federal lien or the local lien.</text>
+            <text syncTime="2180.340" offset="8824769">However, in 1913, when Section 6323 was passed, it gave protection to these four categories that I mentioned, mortgagees, pledgees, purchasers of judgment creditors and the word mortgagee was not qualified in the statutes.</text>
+            <text syncTime="2200.666" offset="8906062">Now the Choate test, we contend has not been applied to mortgagees.</text>
+            <text syncTime="2206.604" offset="8929782">A mentioned was made of the Ball case.</text>
+            <text syncTime="2209.769" offset="8942425">This involved an unrecorded assignments and through the four dissenting judges on this Court referred to the fact that in Texas, it was considered to be a mortgage and it was felt that the state law should be given some consideration, but the majority opinion was a very brief opinion which simply reversed this case stating that this lien was inChoate and unperfected.</text>
+            <text syncTime="2236.425" offset="9049109">There was some discussion in this case about the fact that the assignment had not been recorded under certain fraudulent conveyance statutes of the State of Texas.</text>
+            <text syncTime="2246.621" offset="9089860">But any rate, this was not a mortgagee in the usual context of what one would think of as being a mortgagee.</text>
+            <text syncTime="2254.262" offset="9120371">Now, the New Britain case did not even involve the mortgage situation but it did not even have a mortgagee as a party.</text>
+            <text syncTime="2262.485" offset="9153285">This case was a contest between local tax authorities and the United States.</text>
+            <text syncTime="2268.566" offset="9177631">And therefore, the mortgagee was not claiming under its contract as we are claiming and as we are in court claiming our contract as in this case.</text>
+            <text syncTime="2280.352" offset="9224756">As to the Buffalo Savings Bank case, in this case we do not feel that the mortgagee was claiming its mortgage -- under its mortgage contract either.</text>
+            <text syncTime="2291.248" offset="9268328">The mortgage in that case provided that upon default, the mortgaged properties could be sold according to law.</text>
+            <text syncTime="2299.068" offset="9299675">Now the statute provided that upon foreclosure sale, the referee could either pay these local taxes out of the proceeds or that they could be either, either paid out of the proceeds or not, that the property could be sold subject to the local taxes if the referee saw fit to do this.</text>
+            <text syncTime="2321.773" offset="9390477">So this was not a case of where there was a contract providing specifically as we have in this case where we are entitled to recover our attorney's fees in the event that there is a default.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2334.161" stopTime="2360.215">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2334.161" offset="9440005">[Inaudible] that the Buffalo Savings Bank case that if the mortgagee had immediately prior to sale paid delinquent local taxes and added it to the mortgage, your argument would be that that's part of the mortgage, secured by the mortgage and the federal lien must give way.</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2360.215" stopTime="2375.213">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2360.215" offset="9544182">Still we do not believe that in the Buffalo Savings Bank case under the note and the mortgage that the matter was specifically contracted for as it is in this case.</text>
+            <text syncTime="2373.428" offset="9597053">This Court --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2375.213" stopTime="2382.527">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2375.213" offset="9604263">Does your mortgage for example provide that the mortgagee may pay delinquent taxes if it wants to and added it to the mortgage?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2382.527" stopTime="2383.762">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2382.527" offset="9633520">Yes it does, but --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2383.762" stopTime="2384.264">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2383.762" offset="9638431">But wouldn't you claim --</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2384.264" stopTime="2385.378">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2384.264" offset="9640417">-- but this was not provided --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2385.378" stopTime="2393.954">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2385.378" offset="9644910">Wouldn't you claim -- wouldn't you claim that if the mortgagee did so that those amounts are added to the lien and have priority over the federal tax.</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2393.954" stopTime="2435.119">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2393.954" offset="9679182">If that question was before the Court no doubt we would, yes.</text>
+            <text syncTime="2399.627" offset="9701857">This Court actually treated the local taxes in the Buffalo Savings Bank case as a contest between the local authorities and the United States.</text>
+            <text syncTime="2410.706" offset="9746160">The opinion reads in part as follows.</text>
+            <text syncTime="2414.224" offset="9760266">The States may not avoid the priority rules of the federal tax lien by the formalistic device of characterizing subsequently accruing local liens as expenses of sale and I stress the fact that he State was mentioned in this opinion, whereas we are claiming that we are entitled to the attorney's fee under the mortgage contract.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2435.119" stopTime="2455.314">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2435.119" offset="9843858">The Buffalo Saving didn't involve -- when the liens became Choate to the -- when it claims to be Choate.</text>
+            <text syncTime="2446.139" offset="9887953">And that certainly is involved in this case, but when your claim for the attorney's fee that it became -- it became Choate or part of the (Voice Overlap) --</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2455.314" stopTime="2464.831">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2455.314" offset="9924629">Well, we contend that it should be recognized whether -- and we contend that it is Choate but that it should be recognized whether or not it is.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2464.831" stopTime="2474.983">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2464.831" offset="9962663">Why do you think its Choate prior -- why do you think it was Choate prior to the time the Government filed that lien?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2474.983" stopTime="2475.106">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2474.983" offset="10003310">The Government --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2475.106" stopTime="2477.481">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2475.106" offset="10003832">Just by the filing of the action?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2477.481" stopTime="2495.603">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2477.481" offset="10013341">No, the Government referred to the matter of being fixed and determined at a certain time.</text>
+            <text syncTime="2483.014" offset="10035388">That time of course would have to be -- when the federal tax lien was placed on record.</text>
+            <text syncTime="2488.314" offset="10056600">Now, there are five different things in the mortgage that we contend this is as just as Choate as any of them.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2495.603" stopTime="2507.931">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2495.603" offset="10085752">Well, yes, but at the time the Government's lien was filed, could you tell that, could you have told anyone about the attorney's fee was going to be in amount?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2507.931" stopTime="2514.094">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2507.931" offset="10135071">No, but it could be determined what the maximum amount of it might have been, just to -- it computed -- it could be computed --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2514.094" stopTime="2519.606">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2514.094" offset="10159731">It was simply the maximum but it wasn't the -- they might not have gotten anything.</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2519.606" stopTime="2529.684">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2519.606" offset="10181778">The principal is in terms of maximum too so far as the date that the federal tax lien is affixed that the principal may be paid after that date, enters the same way, it maybe (Voice Overlap).</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2529.684" stopTime="2543.305">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2529.684" offset="10222111">But as of the date the federal tax lien was filed, no attorney's fee result to anybody, but the Court has to order its payment.</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2543.305" stopTime="2558.820">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2543.305" offset="10276551">There was a default and it was clear that there would be an attorney's fee the amount that was not known, that's true, but except in the same sense that we contend that all of these other elements were known, it was subject to a maximum amount, it might have been diminished.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2558.820" stopTime="2564.534">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2558.820" offset="10338617">But the obligation to pay the fee wasn't settled either at that time.</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2564.534" stopTime="2566.481">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2564.534" offset="10361501">It had been contracted for.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2566.481" stopTime="2570.944">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2566.481" offset="10369337">Yes, but -- but you couldn't have sued for an attorney's fee on that day.</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2570.944" stopTime="2571.985">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2570.944" offset="10387101">Quite right.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2571.985" stopTime="2576.036">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2571.985" offset="10391280">You'd have been subject to [Inaudible]</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2576.036" stopTime="2578.763">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2576.036" offset="10407476">Well, we hadn't earned as much as we did later on when the --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2578.763" stopTime="2578.948">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2578.763" offset="10418448">Yes.</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2578.948" stopTime="2581.834">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2578.948" offset="10419179">-- proceeding was finished.</text>
+            <text syncTime="2579.799" offset="10422523">That's right.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2581.834" stopTime="2586.682">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2581.834" offset="10430673">You don't think that it has anything to do with the case of being Choate?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2586.682" stopTime="2609.477">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2586.682" offset="10450108">Well, we feel that this is a matter of contract.</text>
+            <text syncTime="2590.556" offset="10465573">We feel that it is as Choate as the other items but we feel that it's a matter of contract and that whether or not it's Choate that it should be recognized as one of the routes of a mortgagee.</text>
+            <text syncTime="2603.568" offset="10517608">When the statute was passed, it didn't say that Choate routes of the mortgagee would be recognized.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2609.477" stopTime="2630.381">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2609.477" offset="10541328">Well, do you -- do you think the Government would take the same position if their lien was filed after the -- let's assume that there'd been a -- its lien was filed at a time after the amount of attorney's fees had been definitely settled and order to be paid?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2630.381" stopTime="2891.012">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2630.381" offset="10624920">I would say they would not claim priority in that case.</text>
+            <text syncTime="2636.654" offset="10649997">We contend that the Choateness test should not be applied to mortgagees because of the essential difference between the mortgagees and the local lienors under the old law in effect 1866 to 1913.</text>
+            <text syncTime="2652.212" offset="10712168">Under this later -- latter category of liens such things as attaching creditors, material lien and so forth, the lienor starts adding an adverse position to the property owner, that he has got to establish the fact and the amount of his lien, he's got to go through certain legal procedure.</text>
+            <text syncTime="2671.780" offset="10790536">In some cases he has to make a bond and all of the procedures that are common to the provisional remedies.</text>
+            <text syncTime="2680.018" offset="10823450">However, in a case such as ours, the mortgagee's lien is already established of record.</text>
+            <text syncTime="2686.117" offset="10847796">He has contracted for this with the mortgagor and the mortgage contract has been placed to record.</text>
+            <text syncTime="2695.077" offset="10883636">Now, the statute says that until the federal tax lien is filed, it is not valid against the mortgagee.</text>
+            <text syncTime="2703.809" offset="10918640">And I call the Court's attention to the fact that there is no suggestion in the statute that this term mortgagee is to be confined only to principal and interest.</text>
+            <text syncTime="2713.567" offset="10957615">The HR report has a represented report which accompanied the 1913 legislation indicates at least two things at which thereupon the intention in passing the statute, this is shown at page 32 of our brief.</text>
+            <text syncTime="2729.446" offset="11021145">First, that the Government should occupy the same position regarding liens as does the individual.</text>
+            <text syncTime="2735.817" offset="11046640">And secondly, that this legislation was for the purpose of facilitating business transactions. Now, if the Government should occupy the same position as an individual, certainly the Government's contention should be denied here.</text>
+            <text syncTime="2749.817" offset="11102647">There were individuals involved in this case.</text>
+            <text syncTime="2752.707" offset="11114245">One individual that was involved for example was Arthur Andersen, who was the third lienor and there's no suggestion in any part of the record that the liens of any of the individuals would come against the claim for attorney's fee.</text>
+            <text syncTime="2767.438" offset="11173073">Also, I would mention our statute, Number 51, Arkansas Statutes 51-1002 and which is cited at page 41 of our brief which provides that every mortgage on real state shall be a lien on the mortgage property and it does deal in terms of the mortgage, not in the terms of component parts of the mortgage, principal, interests, court costs, attorney's fees or any of the other things, but this statute speaks in terms of the mortgage itself.</text>
+            <text syncTime="2798.301" offset="11296580">Now also, the Government contention is contrary to the legislative intention expressed in the House of Representative report to facilitate business transactions.</text>
+            <text syncTime="2808.642" offset="11337958">It requires a mortgagee to take a loss in every case where the federal tax lien is filed and this lien maybe filed by a stranger to the transaction.</text>
+            <text syncTime="2819.733" offset="11382262">If we could round-off the figures of the principal and interest to this mortgage to say $17,000 and then the taking terms of an attorney fee of exactly $1250 and then a federal tax lien of $6000.</text>
+            <text syncTime="2833.132" offset="11435865">We see why this is true.</text>
+            <text syncTime="2835.011" offset="11443388">In the usual case, the mortgagee can go in and he can plan on making a bid of $17,000 or rather $18,250 which would cover the principal interest of the mortgage and also would cover his fee.</text>
+            <text syncTime="2847.991" offset="11495320">Now under the Government contention here this $1250 would have to be paid over in cash because the Government claims priority of the lien of that extent.</text>
+            <text syncTime="2859.535" offset="11541504">Now on the other hand, if the mortgagee goes in and submits a bid of $17,000, then some outsider might come in and submit a bid of $17,001 in which case the mortgagee has lost in that event too.</text>
+            <text syncTime="2878.103" offset="11615796">So, the mortgagee has just consigned or committed to take a loss here in every case where the federal tax lien that he has filed even though that lien might be filed by a stranger.</text>
+          </turn>
+          <turn speaker="earl_warren" startTime="2891.012" stopTime="2905.104">
+            <label>Chief Justice Earl Warren</label>
+            <text syncTime="2891.012" offset="11667414">We'll recess now Mr. – [Recess] Mr. Pearce, you may continue your argument.</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="2905.104" stopTime="3102.723">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="2905.104" offset="11723839">Mr. Chief Justice, may it please the Court.</text>
+            <text syncTime="2908.079" offset="11735646">I will conclude the first proposition to which I address myself by stating that the interpretation contended for by the Government in this case would prevent a lender from making a contract which in all reasonable circumstances would be enforceable for what certainly is a legal and valid purpose especially in Arkansas namely to recover -- for the mortgagee to recover his expenses including attorney's fees in the event that foreclosure is necessary.</text>
+            <text syncTime="2937.088" offset="11851734">Now, I would like to go on to point two which is that the attorney's fee is just as Choate in this case as the other items which the Government admits to be Choate.</text>
+            <text syncTime="2947.789" offset="11894575">And we're thinking in terms of a fixed and definite amount to use the words of Government counsel at the time that the federal tax lien has pay -- placed on record.</text>
+            <text syncTime="2959.624" offset="11941909">Now, as far as the public record is concerned in this case, this mortgage was for $20,000.</text>
+            <text syncTime="2965.426" offset="11965106">Actually, everything that we are claiming and including the attorney's fees come to less than $19,000.</text>
+            <text syncTime="2972.970" offset="11995303">But even if we get off of the public record and if we consider the amount of the mortgage debt at the time that the federal lien is placed on record, it should be paid and can be paid after that time, so it is in no sense fixed and established.</text>
+            <text syncTime="2988.975" offset="12059251">The same thing is true as to interest except interest might vary either way.</text>
+            <text syncTime="2992.541" offset="12073566">It may accumulate or it maybe paid.</text>
+            <text syncTime="2995.541" offset="12085582">So interest also is not fixed or definite at that time.</text>
+            <text syncTime="3000.337" offset="12104704">In the literal sense, we contend that none of these items is Choate in the sense of being fixed and definite.</text>
+            <text syncTime="3006.796" offset="12130513">We have court cost in this case.</text>
+            <text syncTime="3009.170" offset="12140022">Court costs are not as Choate as attorney's fees are because there's no statutory limitation on those.</text>
+            <text syncTime="3014.450" offset="12161128">There was involved in this case $257.55 court cost as shown at page 51 of the record.</text>
+            <text syncTime="3022.129" offset="12191848">Also in this case, there was a Commissioner's fee in the amount of $35.</text>
+            <text syncTime="3027.718" offset="12214209">This fee was awarded after the foreclosure decree.</text>
+            <text syncTime="3030.244" offset="12224345">It was awarded on January 16 of 1962.</text>
+            <text syncTime="3034.073" offset="12239705">And finally, there was a receiver's fee in the amount of $175 which was awarded as the part of the foreclosure decree on November 15th of 1961.</text>
+            <text syncTime="3047.502" offset="12293413">Now, under Arkansas law, these attorney's fees are Choate.</text>
+            <text syncTime="3052.492" offset="12313370">The Arkansas Supreme Court has held that in this case and in doing so, they have cited Arkansas statute 68-102 which is a part of the negotiable instrument's law to the effect that the sum payable, and a notice, a sum certain even though it might include a provision for an attorney's fee.</text>
+            <text syncTime="3074.086" offset="12399679">Concerning the case which was decide by this Court and referred to by Mr. Roberts of Security Mortgage Company versus Powers, the Government has taken the position here as it has in the other courts that because the federal tax lien was not involved in that case that it should not be considered as authority here.</text>
+            <text syncTime="3092.998" offset="12475329">But I submit that that was a case in which it was necessary for the court to make an inquiry into the true nature of an attorney's fee provided in a mortgage.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3102.723" stopTime="3103.899">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3102.723" offset="12514304">It was a bankruptcy case?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3103.899" stopTime="3148.053">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3103.899" offset="12519006">Yes which was mentioned by Mr. Roberts in his presentation.</text>
+            <text syncTime="3108.330" offset="12536665">The Court stated that in that case, an attorney's fee which we feel is substantial -- similar to what we had in this case was not inChoate but perfect.</text>
+            <text syncTime="3117.063" offset="12571669">And the word “perfect” was used in that case and we feel that it is equally applicable to the case at bar.</text>
+            <text syncTime="3124.356" offset="12600822">Now, as has been brought out under Arkansas law, attorney's fees are limited to 10% of principal and accrued interest and at the time that the federal tax lien attached, all of the world knows from the public record and there was enough on the public record for the Government to know the same as everyone else that attorney's fees were provided for in this mortgage.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3148.053" stopTime="3170.511">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3148.053" offset="12695594">[Inaudible]</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3170.511" stopTime="3177.447">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3170.511" offset="12785455">Well, it would be limited to the amount by statute and I would presume that the additional amount would be like it was under the old law which was unenforceable.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3177.447" stopTime="3209.066">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3177.447" offset="12813145">[Inaudible]</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3209.066" stopTime="3214.296">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3209.066" offset="12939682">I think that would be a matter of contract and it would seem that it'd be limited to the $500.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3214.296" stopTime="3220.143">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3214.296" offset="12960580">[Inaudible]</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3220.143" stopTime="3220.917">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3220.143" offset="12983986">Well, the Court can.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3220.917" stopTime="3221.995">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3220.917" offset="12987016">The Court can?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3221.995" stopTime="3222.485">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3221.995" offset="12991404">Yes.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3222.485" stopTime="3224.301">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3222.485" offset="12993285">And why is that?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3224.301" stopTime="3229.355">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3224.301" offset="13000600">Well, the Court passes on these fees just as it did -- in foreclosure just as they did in this case.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3229.355" stopTime="3231.626">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3229.355" offset="13020766">[Inaudible]</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3231.626" stopTime="3245.941">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3231.626" offset="13029857">Yes, that's true.</text>
+            <text syncTime="3233.477" offset="13037275">In fact there have been cases I understand particularly in the lower courts where it has been cut back by the Court.</text>
+            <text syncTime="3239.519" offset="13061413">The Court reserves the right in each case to determine the amount of fees being reasonable as well as within the statutory limitation.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3245.941" stopTime="3251.227">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3245.941" offset="13087117">[Inaudible]</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3251.227" stopTime="3414.189">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3251.227" offset="13108328">That's correct Your Honor.</text>
+            <text syncTime="3255.554" offset="13125569">Point number three, I would like to urge that the result contended for here by the Government is unjust to lenders and if we consider certain facts in this case side by side, I think that it can be realized that this is true and these facts are these.</text>
+            <text syncTime="3272.288" offset="13192547">When this property was sold to taxpayers Rogers, there was no problem regarding federal taxes and there was no reason at that time to anticipate any problems regarding it.</text>
+            <text syncTime="3282.445" offset="13233194">Now, if the property had been sold to someone other than to taxpayers Rogers or to some other tax delinquents, this problem could not have come up even if there had been a foreclosure in this case.</text>
+            <text syncTime="3294.070" offset="13279692">Also, neither Pioneer American Insurance Company nor the Development Company Incorporated, the two mortgagees in this case have any responsibility whatsoever regarding these taxes.</text>
+            <text syncTime="3305.744" offset="13326399">Furthermore, there is no negligence suggested on the part of Pioneer or the Development Company at any place in the record.</text>
+            <text syncTime="3312.814" offset="13354611">Yet despite these things, what is proposed in this case is that an amount equal to the attorney's fee would be taken away from the mortgagees, then it would be used to pay taxes owed by the taxpayers O C and Florine Rogers.</text>
+            <text syncTime="3327.628" offset="13413857">Now, whether we refer to this as Choateness, whether referred to as circular priorities or whatever we might say about it, we contend that the substance of what is proposed to be done here is that the Development Company Incorporated would be required to pay a part of tax -- of the taxes that are owed solely by our taxpayers Rogers and not by these taxpayers.</text>
+            <text syncTime="3349.634" offset="13501942">The real nature of the interest of the taxpayers Rogers in this property can be better analyzed if we imagine or if we assume that the property in this case sold for even more than it is, say that it's sold for $30,000 or $35,000 so that there's enough money to go around to all of the lienors and claimants and then some to pay to the Rogers.</text>
+            <text syncTime="3371.580" offset="13589713">Now even if that's true, and even if the Government lien is paid off here, and we get down to taxpayers Rogers still and this does not seemed to be challenged by anyone, the Government or anyone who is in this case still the attorney's fee is going to be taken out before the surplus is paid to taxpayers Rogers.</text>
+            <text syncTime="3391.605" offset="13669752">Consequently, their interest in this property is subject to the attorney's fee.</text>
+            <text syncTime="3398.192" offset="13696188">And therefore, they have no rights in the property until that attorney's fee has been paid.</text>
+            <text syncTime="3404.919" offset="13723042">Now, not only concerning taxpayer's Rogers here, but the Government proposal here that we contend would cast a cloud over most of the mortgages of the country.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3414.189" stopTime="3425.017">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3414.189" offset="13760136">Your last point -- your -- your last point was that this a Durham Lumber or an Aqualino situation where the attorney's fee was never the property of the taxpayer, is that it --</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3425.017" stopTime="3425.282">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3425.017" offset="13803395">Yes Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3425.282" stopTime="3426.560">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3425.282" offset="13804544">-- under state law?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3426.560" stopTime="3460.767">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3426.560" offset="13809664">Any situation we can imagine here whether the Government lien played a part here or what it did not play a part here if there were sufficient funds to go around, still the taxpayer does not get the funds that are used to pay the attorney's fee.</text>
+            <text syncTime="3440.815" offset="13866611">He comes in after that.</text>
+            <text syncTime="3443.420" offset="13877060">And under the Aqualino case, they spoke not only of the nature of the taxpayer's interest but the extent of his interest.</text>
+            <text syncTime="3451.125" offset="13907884">And we contend that in this case, the extent of this taxpayer's interest is what is left after the attorney's fee has been paid.</text>
+            <text syncTime="3460.372" offset="13944874">Now --</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3460.767" stopTime="3471.007">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3460.767" offset="13946441">But that is -- is that your law?</text>
+            <text syncTime="3462.445" offset="13953128">It's a law that Rogers had no interest but rather the Rogers' property interest is subject to a lien in favor of the attorney's fee or which?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3471.007" stopTime="3483.997">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3471.007" offset="13987401">In subject to the mortgage lien, a component part of which is the attorney's fee and the Rogers, the Rogers would not realize any money from the surplus if they were a surplus until after the attorney's fee had been paid.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3483.997" stopTime="3492.798">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3483.997" offset="14039333">Well, of course, I take it to the Rogers could pay the attorney's fee without requiring his payment of the proceeds to the foreclosure sale, couldn't they know it?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3492.798" stopTime="3494.576">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3492.798" offset="14074546">The Rogers are the owners of the property.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3494.576" stopTime="3497.835">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3494.576" offset="14081651">[Inaudible]</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3497.835" stopTime="3546.247">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3497.835" offset="14094712">The Rogers haven't paid it and they're not going to pay unless it's paid out of the proceeds of the property.</text>
+            <text syncTime="3502.730" offset="14114252">But my point is that whether the Government lien is in this case or whether it's not in the case.</text>
+            <text syncTime="3509.444" offset="14141106">If we assume a situation where the property sales enough that it will pay all of the prior lienors including the Government lien so that there is a surplus for the Rogers.</text>
+            <text syncTime="3519.893" offset="14182902">The surplus available to the Rogers will be diminished to the extent of the attorney's fee.</text>
+            <text syncTime="3525.130" offset="14203904">They will not real -- they will not realize the amount that goes to pay the attorney's fee and consequently, our opposition is that they do not have rights in the property to the extent of the funds that will be required to pay the attorney's fee.</text>
+            <text syncTime="3540.316" offset="14264613">Under the state law, they will not real -- they wouldn't realize it even if there were enough to get to them (Voice Overlap).</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3546.247" stopTime="3555.267">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3546.247" offset="14288332">Well, I'm -- what concerns me, its conceptually whether that means that the Rogers have no interest in the property and the proceeds until after the (Voice Overlap).</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3555.267" stopTime="3557.201">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3555.267" offset="14324485">They have some interest if Your Honor please.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3557.201" stopTime="3566.875">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3557.201" offset="14332217">They do but you say that if there's $5000 left that they have an interest only in $3750.</text>
+            <text syncTime="3565.017" offset="14363460">In effect that's what you're saying, isn't it?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3566.875" stopTime="3573.001">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3566.875" offset="14370879">Well -- yes, if there's a $5000 left before the attorney's fee is taken out.</text>
+            <text syncTime="3571.841" offset="14390732">After the Government --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3573.001" stopTime="3584.270">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3573.001" offset="14395329">Not if -- let's still assume that there's going to be an attorney's fee and even if they kept literally what you said.</text>
+            <text syncTime="3579.473" offset="14421243">You don't how much it's going to be or you don't know whether there's going to be any.</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3584.270" stopTime="3587.715">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3584.270" offset="14440469">Well I'm talking about -- I'm talking Your Honor about after the foreclosure sales.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3587.715" stopTime="3596.293">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3587.715" offset="14454262">I understand that.</text>
+            <text syncTime="3589.382" offset="14460949">I understand that but after the foreclosure -- but at that point it maybe there won't be any attorney's fee.</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3596.293" stopTime="3601.335">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3596.293" offset="14488534">Well, the court decree has awarded the attorney's fee before the -- before the foreclosure of sale.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3601.335" stopTime="3602.902">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3601.335" offset="14508701">Well, if the court awards one, yes.</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3602.902" stopTime="3604.918">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3602.902" offset="14514970">Yes, and which it has done it this case.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3604.918" stopTime="3616.764">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3604.918" offset="14523016">But at the time the -- but at the time the federal lien attaches to the interest of the taxpayer, you say that its interest has already been diminished by the attorney's fee?</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3616.764" stopTime="3625.142">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3616.764" offset="14570454">No, I did not say that.</text>
+            <text syncTime="3617.870" offset="14574843">I didn't intend to say that Your Honor.</text>
+            <text syncTime="3620.209" offset="14584247">At that time, the exact amount of the fee has yet to be determined.</text>
+            <text syncTime="3623.339" offset="14596681">It will be determined in the foreclosure decree.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3625.142" stopTime="3632.187">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3625.142" offset="14603891">And so it is, and still it is determined, the taxpayer has that interest in the property.</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3632.187" stopTime="3775.068">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3632.187" offset="14632103">He has an interest in the property subject to the attorney's fee if it goes into foreclosure.</text>
+            <text syncTime="3637.026" offset="14651434">He cannot realize the property without paying the debt or without going through the foreclosure procedure.</text>
+            <text syncTime="3642.844" offset="14674735">And if it goes through the foreclosure procedure, the attorney's fees will be paid under our state procedure if there's enough money to pay them from the sale of the property.</text>
+            <text syncTime="3654.183" offset="14720084">Now, concerning not to Rogers but other mortgagees, and we pointed out on page 35 of our brief that on June 30, 1961, the amount of unpaid taxpayer accounts with the Internal Revenue Service amounted to approximately a billion dollars.</text>
+            <text syncTime="3671.280" offset="14788524">Now, we cannot believe that this technique of collection will mean too much in collecting these unpaid taxes.</text>
+            <text syncTime="3679.037" offset="14819558">Some of this undoubtedly will be collected by the sending out of notices, some of them will be collected by collection fee of work, and some of them, the mere filing of the lien that when it's filed will cause the collection of those accounts.</text>
+            <text syncTime="3691.768" offset="14870444">And in some cases of course you will have involve taxpayers whose property is foreclosed.</text>
+            <text syncTime="3697.534" offset="14893537">But in the foreclosure cases even, there'll be no collection unless there's a surplus over the principal and over -- and the interest of all prior mortgages and incidentally in this case, this is not at all the case where the Government is coming out empty-handed.</text>
+            <text syncTime="3712.100" offset="14951737">They will get about to $3750 in any case and under the contention that they're making, they'll get approximately $5000.</text>
+            <text syncTime="3722.489" offset="14993324">And its -- but it's only in cases where there is a surplus over the payment of all of the prior mortgagees that this will be of any assistance in collecting delinquent taxpayer accounts.</text>
+            <text syncTime="3731.833" offset="15030732">On the other hand, on this same date of June 30th, 1961, and this is pointed also at page 35 of our brief.</text>
+            <text syncTime="3739.208" offset="15060198">There is over $215 billion of the mortgage debt in the country.</text>
+            <text syncTime="3743.697" offset="15078170">Now, 39 states in the United States allow attorney's fees in some form, 6 did not rule on the question and only 6 of them deny recovery.</text>
+            <text syncTime="3753.071" offset="15115682">This is pointed in the appendix to our brief, so that the rule contended for by the Government would mean that in the great majority of mortgages all over the United States, lenders will be placed in the position where they will be required to take a loss if the tax lien is filed against the property owner's property where there's a mortgage.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3775.068" stopTime="3779.023">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3775.068" offset="15203662">Your statistics add up to 51 states, 39 states --</text>
+          </turn>
+          <turn speaker="owen_c_pearce" startTime="3779.023" stopTime="3864.267">
+            <label>Mr. Owen C. Pearce</label>
+            <text syncTime="3779.023" offset="15219440">And District of Columbia, thank you, Your Honor.</text>
+            <text syncTime="3781.720" offset="15230203">51 jurisdictions, I should have said.</text>
+            <text syncTime="3784.189" offset="15240129">It does include the District of Columbia.</text>
+            <text syncTime="3787.640" offset="15253922">Another thing, the inequities which will be worked here, the work so -- work harder against the taxpayer than they do against the Government for the reason that the attorney's fee in these cases is going to be an amount which will be in some reason were relation to the principle mortgage debt.</text>
+            <text syncTime="3807.448" offset="15333125">In our case in Arkansas, it's limited to 10% of the principal and interest.</text>
+            <text syncTime="3811.747" offset="15350366">In some cases, it's limited to a reasonable fee to be set by the court.</text>
+            <text syncTime="3816.003" offset="15367398">But in any rate of this some relationship there that will have -- that will be reasonable in some degree with the amount of the mortgage debt.</text>
+            <text syncTime="3823.365" offset="15396864">On the other hand, the tax lien maybe any amount.</text>
+            <text syncTime="3826.755" offset="15410343">In this case, where the attorney's fee was $1250, the tax lien amounted to $6000.</text>
+            <text syncTime="3833.708" offset="15438242">It could of course have been $50,000 or $100,000 which we contend makes this greatly inequitable so far as the taxpayer is concerned.</text>
+            <text syncTime="3843.007" offset="15475440">In closing, I submit that the fair rule in these cases should be the rule of the best, the Aquilino and the Durham cases where it was said that the threshold question was whether and to what extent the taxpayer has property or as to property under state law.</text>
+            <text syncTime="3862.187" offset="15552136">Thank you.</text>
+          </turn>
+          <turn speaker="earl_warren" startTime="3864.267" stopTime="3865.495">
+            <label>Chief Justice Earl Warren</label>
+            <text syncTime="3864.267" offset="15560391">Mr. Roberts.</text>
+          </turn>
+        </section>
+        <section startTime="3865.495" stopTime="4152.439">
+          <heading>Rebuttal of Richard M. Roberts</heading>
+          <turn speaker="richard_m_roberts" startTime="3865.495" stopTime="3922.000">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="3865.495" offset="15565302">Mr. Chief Justice, may it please the Court.</text>
+            <text syncTime="3867.953" offset="15575228">In closing, I'd like to comment on the legislative history of 6323 (a) which is a recording statute.</text>
+            <text syncTime="3877.001" offset="15611382">And it's clear to me from the legislative history that when they're talking about that the Government should be treated as other parties, it means in being required to record its lien.</text>
+            <text syncTime="3887.846" offset="15654745">This Court has held many times that in priority of lien situations that your lien has to be Choate whereas under state law, it may not be necessary to have a Choate lien in order to defeat other lien holders.</text>
+            <text syncTime="3902.571" offset="15713677">But under federal law, to defeat the federal tax lien, you must have a Choate lien.</text>
+            <text syncTime="3908.454" offset="15737187">Now, the argument that the property right interest, it is the property right at the time the federal tax lien attaches that is in part not the property right at some later time as in New Britain --</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3922.000" stopTime="3926.953">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3922.000" offset="15791417">But once that property interest concededly is the question of state law?</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="3926.953" stopTime="3928.113">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="3926.953" offset="15811166">The interest is a --</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3928.113" stopTime="3928.233">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3928.113" offset="15815868">Yes.</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="3928.233" stopTime="3929.156">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="3928.233" offset="15816286">At that time, (Voice Overlap) --</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3929.156" stopTime="3936.606">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3929.156" offset="15820048">Now what is the law of -- does the law ever say -- your adversary suggests it to be?</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="3936.606" stopTime="3937.099">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="3936.606" offset="15849827">That it's subject to --</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3937.099" stopTime="3937.724">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3937.099" offset="15851813">In this state?</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="3937.724" stopTime="3940.068">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="3937.724" offset="15854320">It's subject to the mortgage, yes.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3940.068" stopTime="3940.217">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3940.068" offset="15863620">But --</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="3940.217" stopTime="3943.680">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="3940.217" offset="15864247">And under state law, the mortgage -- the attorney's fees are allowed ahead of other liens.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3943.680" stopTime="3947.523">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3943.680" offset="15878144">But the property interest -- at the time is in the property owner.</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="3947.523" stopTime="3947.625">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="3947.523" offset="15893504">Yes.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3947.625" stopTime="3952.590">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3947.625" offset="15893922">Here, the taxpayers, is that it, subject to these various liens, is that the state law?</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="3952.590" stopTime="3971.229">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="3952.590" offset="15913775">Well, subject to the mortgage.</text>
+            <text syncTime="3954.987" offset="15923284">And at that time, there is no attorney's lien other than as called might be come into being through the necessity of using the attorney.</text>
+            <text syncTime="3966.269" offset="15968423">Now in this case, the federal tax lien came on before the foreclosure to --</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3971.229" stopTime="3977.404">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3971.229" offset="15988276">Well, you have a whole piece of property.</text>
+            <text syncTime="3973.582" offset="15997680">Now, I gather a mortgagee has an interest in that piece of property.</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="3977.404" stopTime="3977.578">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="3977.404" offset="16013040">Yes.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3977.578" stopTime="3979.969">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3977.578" offset="16013667">The -- there maybe taxes due, maybe municipalities --</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="3979.969" stopTime="3980.663">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="3979.969" offset="16023280">Yes.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3980.663" stopTime="3989.935">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3980.663" offset="16025997">-- have some kind of interest in it.</text>
+            <text syncTime="3982.996" offset="16035401">The attorney -- maybe it's not right but he may also have an interest in that piece of property, is that right?</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="3989.935" stopTime="3990.753">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="3989.935" offset="16063091">He may have.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3990.753" stopTime="3993.511">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3990.753" offset="16066435">But the owner also has an interest in it.</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="3993.511" stopTime="3994.570">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="3993.511" offset="16077406">That is correct.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3994.570" stopTime="4008.791">
+            <label>Justice William J. Brennan, Jr.</label>
+            <text syncTime="3994.570" offset="16081690">And at the time -- what you're saying is that at the time of the federal lien, what's -- what that attaches to is the owner's interest which at that juncture is not subject to any attorney's lien because that hasn't yet been fixed.</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="4008.791" stopTime="4012.674">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="4008.791" offset="16138533">That is correct.</text>
+            <text syncTime="4009.714" offset="16142190">There has been no attorney coming to being at that time.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="4012.674" stopTime="4033.827">
+            <label>Justice Byron R. White</label>
+            <text syncTime="4012.674" offset="16154102">But if -- if the property's worth a $100,000 and the loan on it is $50,000 and there's a 10% attorney's fee provision in the mortgage.</text>
+            <text syncTime="4024.551" offset="16201540">Your position is that the day after the mortgage is executed and delivered and recorded, the owner's interest is $50,000, not 45.</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="4033.827" stopTime="4041.933">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="4033.827" offset="16238634">Yes, that is correct.</text>
+            <text syncTime="4035.998" offset="16247411">There's been no occasion then for any attorney's fees to have been earned.</text>
+            <text syncTime="4039.753" offset="16262353">Now, the same would have been true in New Britain.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="4041.933" stopTime="4076.273">
+            <label>Justice Byron R. White</label>
+            <text syncTime="4041.933" offset="16271130">Let's assume the -- let's assume for the moment the Arkansas law is contrary that the -- that under Arkansas law, the interest of the property owner was only $45,000 the day after the mortgage was filed and recorded simply because there's a 10% reservation attorney's fee which becomes part of the mortgage under Arkansas law.</text>
+            <text syncTime="4066.887" offset="16370918">It's like a debt.</text>
+            <text syncTime="4069.634" offset="16381889">Do you still say that you can get off the hook by an argument about Choateness?</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="4076.273" stopTime="4090.732">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="4076.273" offset="16408430">Yes Your Honor, we think that your case in New Britain stands exactly further -- in New Britain and in the Buffalo Savings Bank case.</text>
+            <text syncTime="4085.818" offset="16446673">There, state taxes are always ahead of the mortgagor.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="4090.732" stopTime="4096.072">
+            <label>Justice Byron R. White</label>
+            <text syncTime="4090.732" offset="16466317">If the state tax is one part of the mortgage, no one contended they were.</text>
+          </turn>
+          <turn speaker="richard_m_roberts" startTime="4096.072" stopTime="4150.651">
+            <label>Mr. Richard M. Roberts</label>
+            <text syncTime="4096.072" offset="16487633">Well they did contend that, Your Honor, as I remember in Buffalo Savings.</text>
+            <text syncTime="4100.210" offset="16504247">They were a part of the mortgage.</text>
+            <text syncTime="4102.705" offset="16514173">And they were for -- it was pointed to this Court that they were but the state taxes always attach ahead of the taxpayer's interest.</text>
+            <text syncTime="4110.154" offset="16543953">They even attach ahead of the mortgage.</text>
+            <text syncTime="4112.560" offset="16553566">Under state law, the state taxes have first priority and that's what how you got in to the circular priority situation in New Britain where you had a mortgage ahead of the federal taxes, the state ahead of the mortgage.</text>
+            <text syncTime="4126.145" offset="16607901">The state taxes almost universally attached to the property ahead of anyone's interests.</text>
+            <text syncTime="4132.099" offset="16631724">So we say that that is not important here and that it is the taxpayer's interest at the time our tax lien went on and it was not subject at that time because these attorney's fees were unknown as to amount and it was not subject to their -- his interest which affects that our lien attached to that interest at that time.</text>
+          </turn>
+          <turn speaker="earl_warren" startTime="4150.651" stopTime="4152.439">
+            <label>Chief Justice Earl Warren</label>
+            <text syncTime="4150.651" offset="16706017">Very well.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,48 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:59:42" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="932708">/xml/cases/1999/98_2060/20000425o_98-2060.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1999/trs/98-2060_20000425-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="212.114">
+        <title>Edwards v. Carpenter</title>
+        <section startTime="0.000" stopTime="212.114">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.934">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="84251">The opinion of the Court in No. 98-2060, Edwards against Carpenter, will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="8.934" stopTime="212.114">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="8.934" offset="119987">This case is here on writ of certiorari to the Court of Appeals for the Sixth Circuit.</text>
+            <text syncTime="14.202" offset="140989">The respondent who had been convicted by the Ohio Courts of aggravated murder and aggravated robbery filed a federal habeas corpus petition contending that there was insufficient evidence to support the conviction.</text>
+            <text syncTime="28.222" offset="197100">He had failed to raise this contention on the direct appeal of his conviction to the Ohio Court Of Appeals, which would by the federal habeas action unless there were some cause for that default.</text>
+            <text syncTime="40.181" offset="244956">He claimed his cause that he had had a constitutionally ineffective counsel.</text>
+            <text syncTime="45.857" offset="267631">The problem is that this claim also had been defaulted in the State Courts.</text>
+            <text syncTime="51.185" offset="288947">Respondent had raised it in an application to reopen his direct appeal, but the application had been filed too late under the State’s procedural rules.</text>
+            <text syncTime="60.992" offset="328130">The Sixth Circuit held in this case that that did not matter, that so long as he had presented his ineffective assistance claim to the State Courts, it was of no relevance whether he had presented it in compliance with the State Court procedures.</text>
+            <text syncTime="74.798" offset="383405">In an opinion filed with the Clerk of Court today, we reverse the Sixth Circuit.</text>
+            <text syncTime="79.901" offset="403781">It is the general rule, when a federal habeas prisoner asserts a claim that was procedurally defaulted in State Court, the Federal Court will not entertain the claim unless the prisoner can demonstrate cause meaning a good reason for his State Court default.</text>
+            <text syncTime="94.455" offset="461982">In a case called Murray versus Carrier we held that counsel's ineffectiveness in failing properly to present a claim can constitute cause excusing the procedural default, when that ineffectiveness rises to the level of the constitutional violation of failure to provide effective assistance of counsel.</text>
+            <text syncTime="113.709" offset="538991">But, we also held that principles of comity and federalism require the prisoner to have exhausted his claim of ineffective-assistance of counsel before the Federal Court would consider it as cause.</text>
+            <text syncTime="124.227" offset="581100">That is we held in Carrier that the prisoner must have presented his ineffective assistance claim to the State Courts.</text>
+            <text syncTime="130.585" offset="606491">The question raised by the present case is whether this exhaustion requirement of ineffective-assistance asserted as cause is uniquely immune from the procedural-default rule that accompanies the exhaustion requirement in all other contexts.</text>
+            <text syncTime="145.313" offset="665423">Whether, in other words, it suffices that the ineffective-assistance claim was presented to the State Courts, even though it was not presented in the manner that State law requires.</text>
+            <text syncTime="154.558" offset="702413">That is not a hard question.</text>
+            <text syncTime="156.479" offset="710145">An affirmative action would render the exhaustion requirement illusory.</text>
+            <text syncTime="160.202" offset="724982">As we recognized just last term in a case called O'Sullivan versus Boerckel, the procedural default doctrine is necessary to protect the integrity of the federal exhaustion rule.</text>
+            <text syncTime="170.815" offset="767510">The purposes of the exhaustion requirement would be utterly defeated if the prisoner were able to obtain federal habeas review simply by letting the time run so that state remedies were no longer available when he asked for them.</text>
+            <text syncTime="183.654" offset="818814">Those purposes would be no less frustrated were we to allow federal review to a prisoner who had presented his claim to the State Court, but in such a manner that the State Court could not, consistent with its own procedural rules, have entertained it.</text>
+            <text syncTime="196.541" offset="870328">In such circumstances it could hardly be said as comity and federalism require that the state had been given a fair opportunity to pass upon the prisoner’s claims.</text>
+            <text syncTime="206.571" offset="910452">Justice Breyer has filed an opinion concurring in the judgment in which Justice Stevens has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

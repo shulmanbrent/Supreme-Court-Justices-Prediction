@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="485889">/xml/cases/1980/80_5060/19810309o_80-5060.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1980/trs/80-5060op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="98.415">
+        <title>Carter v. Kentucky</title>
+        <section startTime="0" stopTime="98.415">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.022">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92067">The judgments and the opinion of the Court in Carter against Kentucky will be announced by Mr. Justice Stewart.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="8.022" stopTime="96.547">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="8.022" offset="124145">This case No. 80-5060 is here by a reason of the grant of petition for writ of certiorari to the Supreme Court of Kentucky.</text>
+            <text syncTime="21.170" offset="176704">In this case, a Kentucky criminal trial judge refused a defendant's request to give the following instruction to the jury.</text>
+            <text syncTime="31.912" offset="219649">“The defendant is not compelled to testify and the fact that he does not cannot be use as an inference of guilt and should not prejudice him in anyway.”</text>
+            <text syncTime="44.450" offset="269804">The Supreme Court of Kentucky found no error.</text>
+            <text syncTime="48.625" offset="286523">We granted certiorari to consider the petitioner's contention that a defendant upon request has a right to such an instruction under Fifth and Fourteenth Amendments of the Constitution.</text>
+            <text syncTime="61.302" offset="337200">For the reasons stated in detail in the Court's written opinion filed today, we have concluded that the petitioner is correct.</text>
+            <text syncTime="69.762" offset="371055">Accordingly, the judgment is reversed and the case is remanded to the Supreme Court of Kentucky for further proceedings not inconsistent with this Court's opinion.</text>
+            <text syncTime="80.707" offset="414836">Although, joining the opinion of the Court, Justice Powell and Justice Stevens have each filed concurring opinions and Justice Brennan has joined Justice Steven's concurrence.</text>
+            <text syncTime="92.442" offset="461752">Justice Rehnquist has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="96.547" stopTime="98.415">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="96.547" offset="478157">Thank you, Mr. Justice Stewart.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

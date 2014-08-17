@@ -1,0 +1,28 @@
+<transcript>
+      <history>
+        <identified user="jgoldman">2014-04-01</identified>
+      </history>
+      <resources>
+        <audioFile size="200411">/xml/cases/1987/86_1520/19880516o_86-1520.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-1520op.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="50.034">
+        <title>McLaughlin v. Richland Shoe Company</title>
+        <section startTime="0" stopTime="50.034">
+          <heading>Opinion Announcement of John Paul Stevens</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.259">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 86-1520, McLaughlin versus Richland Shoe Company will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="9.259" stopTime="50.034">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="9.259" offset="36989">The Fair Labor Standards Act requires that a civil enforcement action be commenced within two years after the cause of action accrued unless the violation was willful in which event the statute of limitations is three years.</text>
+            <text syncTime="23.319" offset="93205">There's a conflict among the Courts of Appeals as to the proper meaning of the word, “proper standard” to use in interpreting the word “willful”.</text>
+            <text syncTime="31.034" offset="124134">And for reasons stated in an opinion filed with the clerk today, we resolved that conflict by agreeing with the approach taken by the Court of Appeals for the Third Circuit and affirm its judgment in this case.</text>
+            <text syncTime="43.003" offset="171990">Justice Marshall has filed a dissenting opinion joined by Justice Brennan and Justice Blackmun.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

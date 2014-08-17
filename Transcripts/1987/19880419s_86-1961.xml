@@ -1,0 +1,38 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-02T09:56:53" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-02</identified>
+      </history>
+      <resources>
+        <audioFile size="598482">/xml/cases/1987/86_1961/19880419o_86-1961.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-1961op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="129.985">
+        <title>Tulsa Professional Collection Services, Inc. v. Pope</title>
+        <section startTime="0" stopTime="129.985">
+          <heading>Opinion Announcement of Sandra Day O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="18.402">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80944">The opinions of the court in two cases No. 86-1013, Lyng versus Northwest Indian Cemetary Protective Association, No. 89-1961 Tulsa the Professional Collection Services versus Pope will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="18.402" stopTime="129.985">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="18.402" offset="154505">The Tulsa Professional Collection Services versus Pope case comes to us on appeal from the Supreme Court of Oklahoma.</text>
+            <text syncTime="27.257" offset="189927">It involve a Due Process Clause challenge to apportion of the Oklahoma probate code which provides for publication of notice in the newspaper advising creditors that they must file their claim against the State within two months or their claims will be barred.</text>
+            <text syncTime="44.542" offset="259099">No other form of notice is required.</text>
+            <text syncTime="48.419" offset="274564">The question presented is whether this provision of notice solely by publication satisfies the Due Process Clause.</text>
+            <text syncTime="57.230" offset="309777">The appellant has a claim against the State for unpaid medical expenses but failed to file the claim within the 2-month period.</text>
+            <text syncTime="66.507" offset="346871">The Oklahoma Supreme Court accordingly held that the appellant could not recover on the claim rejecting the appellant's argument that providing only publication notice violated the Due Process Clause.</text>
+            <text syncTime="79.324" offset="398175">In an opinion filed today we reverse and remand we have construed the Due Process Clause to require actual notice of legal proceedings that will adversely affect the property interest of any reasonably acertainable party.</text>
+            <text syncTime="95.017" offset="460973">Here the appellant has an unsecured claim that the probate proceeding will completely extinguished.</text>
+            <text syncTime="101.364" offset="486364">Accordingly, the appellant's identity was reasonably acertainable.</text>
+            <text syncTime="105.977" offset="504755">We hold that due process requires that the appellant receive actual notice.</text>
+            <text syncTime="111.409" offset="526488">Because the record does not reveal whether appellant's identity as a creditor was reasonably acertainable, we remand for further proceedings not inconsistent with our opinion.</text>
+            <text syncTime="122.329" offset="570165">Justice Blackmun concurs in the result, and Chief Justice Renquest has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

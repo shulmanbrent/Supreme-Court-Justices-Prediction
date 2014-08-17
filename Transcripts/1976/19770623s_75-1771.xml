@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-30</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="922789">/xml/cases/1976/75_1771/19770623o_75-1771.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1976/trs/75-1771op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="205.508">
+        <title>Commissioner v. Standard Life &amp; Accident Ins. Company</title>
+        <section startTime="0.000" stopTime="205.508" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice John Paul Stevens</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="19.647">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="100559">The judgment and opinion of the Court in 75-1771, Commissioner of Internal Revenue Against Standard Life and Accident Company, and 76-423, Puyallup Tribe against Washington will be announced by Mr. Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="19.647" stopTime="205.508">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="19.647" offset="179135">In the tax case, we decide how a life insurance company should account for unpaid premiums in computing its federal income taxes.</text>
+            <text syncTime="30.232" offset="221454">An unpaid premium is an installment which is payable within the policy year, but has not been paid at the end of the calendar year.</text>
+            <text syncTime="38.066" offset="252801">Thus, for example, if a policy is written on May 1, 1976, an installment due on February 1, 1977 would be an unpaid premium on December 31, 1976.</text>
+            <text syncTime="52.030" offset="308598">If such a premium is not paid in due course, the policy will lapse but the company has no legal right to collect its unpaid premiums.</text>
+            <text syncTime="60.694" offset="343289">For that reason, they are not typical accounts receivable and would not be accrued under normal accounting principles.</text>
+            <text syncTime="67.942" offset="372232">The life insurance industry however, is subject to extensive state regulation which uniformly requires the companies to compute their reserves as though these unpaid premiums had in fact been paid.</text>
+            <text syncTime="79.385" offset="417999">In general, the addition to the reserves is equal to the net valuation portion of the unpaid premium.</text>
+            <text syncTime="85.834" offset="443808">That is to say the portion of the premium that state law requires to be set aside in order to enable the company to meet its policy obligation.</text>
+            <text syncTime="95.015" offset="480588">The so-called loading portion of the premium, which is the part of the premium that covers company expenses and profit if any, is not added to its reserves.</text>
+            <text syncTime="105.387" offset="522071">It is the Government's primary position that the loading portion of unpaid premiums should also be treated as through it had been paid.</text>
+            <text syncTime="113.272" offset="553627">Such treatment would increase the income tax liability of the companies.</text>
+            <text syncTime="118.378" offset="574002">On the other hand, the company in this case takes the position that the net valuation portion of the unpaid premium should be treated as though paid for the purpose of calculating its reserves, but should be ignored when it is calculating its assets and gross premium income.</text>
+            <text syncTime="134.320" offset="637741">That approach, which was accepted by the Court of Appeals in this case, tends to decrease the company's tax liability.</text>
+            <text syncTime="142.028" offset="668670">We reject both of these positions and hold that the net valuation portion of the premium should be treated as paid in calculating reserves, assets and gross premium income, and that the loading portion should be excluded from all these calculations.</text>
+            <text syncTime="158.042" offset="732722">This is the accounting procedure followed since 1871 by an official organization responsible for auditing insurance companies on behalf of various state regulatory agencies.</text>
+            <text syncTime="169.385" offset="778071">Congress has directed the companies to follow that organization's approach in various situations and we read that statutory direction as controlling in this case.</text>
+            <text syncTime="180.102" offset="820912">We accordingly reverse the contrary judgement of the Court of Appeals for the Tenth Circuit and remand for further proceedings consistent with this opinion.</text>
+            <text syncTime="188.629" offset="854975">Mr. Justice White, with whom the Chief Justice has joined, has filed a separate opinion dissenting from our analysis but agreeing that the judgment of the Court of Appeals must be set aside.</text>
+            <text syncTime="199.326" offset="897816">Mr. Justice Stewart took no part in the consideration or decision of this case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

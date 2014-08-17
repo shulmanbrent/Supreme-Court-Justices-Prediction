@@ -1,0 +1,49 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:09:43" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="875595">/xml/cases/1990/89_1717/19910620o_89-1717.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1717_19910620-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="200.359">
+        <title>Florida v. Bostick</title>
+        <section startTime="0.000" stopTime="200.359">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="5.557">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="74158">The opinions of the Court in two cases will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="5.557" stopTime="200.359">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="5.557" offset="96310">The first case, 89-1717 is the case of Florida versus Bostick.</text>
+            <text syncTime="13.404" offset="127761">This case comes to us on certiorari to the Florida Supreme Court.</text>
+            <text syncTime="18.331" offset="147405">The respondent, Terrence Bostick, claims that his Fourth Amendment rights were violated when police searched his luggage after he gave them consent to do so.</text>
+            <text syncTime="29.134" offset="190664">At the time the search took place, Bostick was a passenger on a bus.</text>
+            <text syncTime="34.384" offset="211667">Two officers boarded the bus at a scheduled stop, asked Bostick a few questions and then, even though they had no reason to suspect Bostick of a crime, the officers asked whether they could search his luggage.</text>
+            <text syncTime="49.781" offset="273211">The officers specifically advised Bostick that he had the right to refuse.</text>
+            <text syncTime="55.269" offset="295154">Bostick gave the officers permission to search.</text>
+            <text syncTime="58.183" offset="306857">The search revealed cocaine and Bostick was arrested and prosecuted.</text>
+            <text syncTime="63.651" offset="328695">His motion to suppress the cocaine as the fruit of an unlawful seizure was denied by the Trial Court and the State Court of Appeals affirmed the conviction.</text>
+            <text syncTime="73.398" offset="367670">The Florida Supreme Court reversed it, however.</text>
+            <text syncTime="76.914" offset="381776">It determined that Bostick had been unlawfully seized because a reasonable passenger would not have felt free to leave the bus to avoid questioning by the police.</text>
+            <text syncTime="87.952" offset="425871">We understand the Florida Supreme Court who have established a per se rule that an impermissible seizure inevitably results when police asks questions of bus passengers in the absence of an articulable suspicion.</text>
+            <text syncTime="103.386" offset="487624">In an opinion filed today, we reverse and remand.</text>
+            <text syncTime="107.289" offset="503298">The Florida Supreme Court erred in adapting a per se rule that every encounter on a bus is a seizure.</text>
+            <text syncTime="114.560" offset="532346">An encounter that is consensual does not trigger Fourth Amendment scrutiny.</text>
+            <text syncTime="119.394" offset="551676">Our cases, applying this principle, leave no doubt that the police may, consistent with the Fourth Amendment, ask questions of an individual even though the police have no articulable suspicion that a crime has been committed, and they may request consent to search the persons luggage so long as the officers do not convey a message that compliance with their request is required.</text>
+            <text syncTime="146.114" offset="658569">The appropriate test, as our prior cases made clear, is whether taking into account all of the circumstances surrounding the encounter, a reasonable person would feel free to decline the officers request or otherwise terminate the encounter.</text>
+            <text syncTime="163.509" offset="728160">That the encounter took place in the cramped confines of a bus is one relevant factor that should be taken into account.</text>
+            <text syncTime="171.788" offset="761283">We do not agree, however, with the Florida Supreme Court that this single factor is dispositive in every case.</text>
+            <text syncTime="179.325" offset="791376">The facts leave some doubt whether a seizure actually occurred in this case.</text>
+            <text syncTime="184.314" offset="811334">But we refrain from deciding the issue ourselves and remand it so the Florida Courts may evaluate the seizure question under the correct legal standard.</text>
+            <text syncTime="193.969" offset="849995">Justice Marshall has filed a dissenting opinion which Justices Balckmun and Stevens have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

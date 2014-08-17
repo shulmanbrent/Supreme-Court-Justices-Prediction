@@ -1,0 +1,1328 @@
+<transcript verified="true">
+      <history>
+        <transcribed>2008-01-16</transcribed>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="14548629">/xml/cases/2007/06_937/20080116a_06-937.mp3</audioFile>
+        <sourceFile>/data/sites/oyez.org/cases/2007/2007_06_937/06-937_20080116-argument.xml</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="maureen_e_mahoney" type="advocate" gender="female" path="/advocates/mm/maureen_e_mahoney" image="/advocates/mm/maureen_e_mahoney/thumbnail.jpg">Maureen E. Mahoney</speaker>
+        <speaker id="thomas_g_hungar" type="advocate" gender="male" path="/advocates/th/thomas_g_hungar" image="/advocates/th/thomas_g_hungar/thumbnail.jpg">Thomas G. Hungar</speaker>
+        <speaker id="carter_g_phillips" type="advocate" gender="male" path="/advocates/cp/carter_g_phillips" image="/advocates/cp/carter_g_phillips/thumbnail.jpg">Carter G. Phillips</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3593.502">
+        <title>Quanta Computer, Inc., et al. v. LG Electronics, Inc.</title>
+        <section startTime="0.000" stopTime="990.656">
+          <heading>Argument of Maureen E. Mahoney</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.939">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="169788">We'll hear argument first today in Case 06-937, Quanta Computer v. LG Electronics.</text>
+            <text syncTime="7.987" offset="201657">Ms. Mahoney.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="9.939" stopTime="79.830">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="9.939" offset="209494">Mr. Chief Justice, and may it please the Court: Under this Court's exhaustion cases, exhaustion has always been triggered when two criteria have been satisfied and the district court properly dismissed these claims because it found that they were satisfied here on the undisputed facts.</text>
+            <text syncTime="27.650" offset="280338">The first is that there must be an authorized sale under the patent that was allegedly infringed.</text>
+            <text syncTime="34.554" offset="307924">That's never been in dispute in this case.</text>
+            <text syncTime="37.154" offset="318372">The Federal Circuit recognized that Intel was authorized to sell these components under the system and method patents at issue in the case that have been allegedly infringed.</text>
+            <text syncTime="47.695" offset="360482">And the second criteria is that the article sold must be one that falls within the protection of the patent that was allegedly infringed, here the system and method patents.</text>
+            <text syncTime="59.503" offset="407711">But as Univis holds, that test doesn't apply simply to articles that would directly infringe the patent, because the law with contributory infringement standards provides that protection to the patent owner also to articles that would contributorily infringe.</text>
+            <text syncTime="79.064" offset="485974">In other words--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="79.830" stopTime="93.490">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="79.830" offset="489004">Ms. Mahoney, can I just get one thing straight in my mind.</text>
+            <text syncTime="82.582" offset="500080">Which transaction triggered the exhaustion doctrine in your judgment, the general license to Intel or the sale by Intel to Quanta.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="93.490" stopTime="113.637">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="93.490" offset="543652">--I think they work in combination here, Your Honor, because once the sale was... once the license was entered into with Intel and once unrestricted rights were given to make, use and sell components that would infringe, otherwise infringe these patents, there was really nothing else that could happen--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="113.637" stopTime="119.374">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="113.637" offset="624319">Was the license unrestricted?</text>
+            <text syncTime="114.737" offset="628707">That's one of the reasons I asked the question.</text>
+            <text syncTime="116.255" offset="634768">Wasn't there a use restriction on the resale?</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="119.374" stopTime="125.361">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="119.374" offset="647202">--Well, there was... what there was, the sale was authorized.</text>
+            <text syncTime="123.243" offset="662666">The sale was authorized.</text>
+            <text syncTime="124.861" offset="669145">What--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="125.361" stopTime="129.080">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="125.361" offset="671130">On the condition that it be sold to someone who would not use it on non-Intel products.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="129.080" stopTime="196.522">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="129.080" offset="686072">--I don't think that's what the lower courts found and I don't think that's what the argument has ever been, Your Honor.</text>
+            <text syncTime="133.634" offset="704253">I think this is just like Bobbs-Merrill.</text>
+            <text syncTime="135.567" offset="711986">There is a... this Court has recognized that there is a difference between actually conditioning the seller's authority to sell to someone who's going to use it for some prohibited purpose, and that would be a case like General Talking Pictures, where it says, you do not have authority to sell to someone who's going to use it for the home market.</text>
+            <text syncTime="154.814" offset="788995">But Bobbs-Merrill says if what you do instead... it was a copyright case that was applied in Motion Picture Patents.</text>
+            <text syncTime="161.534" offset="815848">If what you do instead is you give them authority to sell, you don't say you'll be in breach if you sell it to somebody who's going to sell books at below the retail price I've specified, if instead what you do is say, you have to agree you'll give them notice that the... that the owner of the invention, or in that case the copyright, is not agreeing to your use of these books or sale of these books at below a certain price, that doesn't count.</text>
+            <text syncTime="188.285" offset="922846">There's still an authorized sale, that when... that you can't... that the patent owner can't try to retain part of the monopoly right to sell.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="196.522" stopTime="224.256">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="196.522" offset="955865">Well, if that's true then this case really isn't a big deal at all.</text>
+            <text syncTime="201.307" offset="974986">It just depends on exactly how you word the contract when the patentee sells it to a purchaser.</text>
+            <text syncTime="211.782" offset="1016887">You can word it... in other words, you can word it in such a way that the patentee's rights extend further downstream and you're saying all this case turns on is whether the wording here was correct or not.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="224.256" stopTime="243.467">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="224.256" offset="1066728">Well, the wording hasn't been in dispute, but a lot of important things turn on it, because of course if Intel didn't have the authority to make these sales, it would be liable for contributory infringement.</text>
+            <text syncTime="234.528" offset="1107897">And undoubtedly when Intel decided how much to pay for this license it cared deeply about whether it was going to be exposed to that liability.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="243.467" stopTime="253.775">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="243.467" offset="1143633">Well, I understand your position to... to acknowledge that they could have structured the sale to Intel in such a way as to achieve the same result that you're saying is so bad under the patent laws.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="253.775" stopTime="260.928">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="253.775" offset="1184802">I don't think so, Your Honor.</text>
+            <text syncTime="254.675" offset="1188459">Once they have an authorized sale, then the results are different, because if there has been an authorized sale--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="260.928" stopTime="294.436">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="260.928" offset="1213432">May I give you a specific example?</text>
+            <text syncTime="263.231" offset="1222627">I think the Chief has something on this order in mind.</text>
+            <text syncTime="267.767" offset="1240808">Could the patentee say to the licensee, to the Intel, that, I license you to sell only to buyers who have a license from the patentee?</text>
+            <text syncTime="289.465" offset="1327639">Could... could the licensee be limited in that way?</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="294.436" stopTime="338.529">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="294.436" offset="1347492">--They could do that, and let me explain the consequences of doing that.</text>
+            <text syncTime="297.971" offset="1361599">If Intel then under those circumstances sold to a buyer who did not have a license, Intel would be liable for contributory infringement because it wouldn't be an authorized sale, and the buyer would be liable for infringement because it didn't acquire the goods through an authorized sale.</text>
+            <text syncTime="315.849" offset="1433174">If the buyer instead has the license, has obtained the license from the patentowner, then there has been an authorized sale and any remedies that the owner of the patent would have against the buyer would be those found in contract, because the triggering line under this Court's cases is has there been an authorized sale?</text>
+            <text syncTime="336.846" offset="1517079">And this makes perfect sense because--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="338.529" stopTime="364.077">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="338.529" offset="1523871">But explain to me... perhaps I should ask Mr. Phillips this question... but why isn't it done that way?</text>
+            <text syncTime="347.385" offset="1559293">The way... if the patentee wants to maintain control further down the line, why doesn't the patentee just limit the licensee to selling to people who are licensed?</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="364.077" stopTime="397.115">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="364.077" offset="1626062">--Presumably because in this circumstance... it's not in the record... but presumably Intel wouldn't agree to these terms unless it in fact was given authority to sell, no matter how it was going to be used, because otherwise it would still be on the hook for liability.</text>
+            <text syncTime="379.237" offset="1686666">And... and presumably they could have done something that would have required an agreement with... you know, between... only sell to someone with an agreement.</text>
+            <text syncTime="391.045" offset="1733896">But for whatever reason the parties didn't negotiate that term.</text>
+            <text syncTime="394.865" offset="1749151">Perhaps Intel wasn't willing to do it that way.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="397.115" stopTime="426.718">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="397.115" offset="1758242">So the parties are unwilling to spell out exactly how this is going to work out in their contract, and each side, it prefers to take their chances on how the Federal Circuit's going to rule.</text>
+            <text syncTime="406.804" offset="1796903">It's easier to sell these things if they're not encumbered by these additional license requirements and the manufacturer presumably gets a lot more, but there's a lot of uncertainty, uncertainty that could have been cured by how the contract was drafted, and people prefer to live with that uncertainty and litigate rather than clear it up in the contract.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="426.718" stopTime="442.877">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="426.718" offset="1876629">Well, I think that this Court's ruling would certainly make things clear, but I think that the language of the contract recognizes that the... specifically says that, notwithstanding anything to the contrary, the ordinary operation of patent exhaustion is supposed to apply here.</text>
+            <text syncTime="441.560" offset="1935979">In other words, I think Intel knew--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="442.877" stopTime="462.058">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="442.877" offset="1941204">Fine, and the person who wrote that provision knows that the question of how the patent-exhaustion doctrine applies is the subject of great confusion, so much confusion that the Supreme Court's going to have to decide it, and yet they put that in there rather than spelling out in the contract exactly which they had in mind, whether or not you could impose these further restrictions or couldn't.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="462.058" stopTime="475.616">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="462.058" offset="2018004">--But, Your Honor, I think that under this Court's decision in Univis Lens, as the district court recognized, the answer in this case is actually quite clear what the patent-exhaustion doctrine would require.</text>
+            <text syncTime="473.747" offset="2064710">And the reason it's clear--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="475.616" stopTime="477.167">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="475.616" offset="2072234">Well, it wasn't clear to the Federal Circuit, I guess.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="477.167" stopTime="613.404">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="477.167" offset="2078399">--It wasn't clear to the Federal Circuit, but it was clear to the district court, showing that the idea that somehow it was absolutely known to everybody what the outcome of this issue would be is not correct.</text>
+            <text syncTime="487.173" offset="2118418">The district court, I think correctly, understood that Univis Lens was the controlling case.</text>
+            <text syncTime="491.660" offset="2136390">Of course, the Federal Circuit didn't even cite it.</text>
+            <text syncTime="493.743" offset="2144750">But the district court found that the Univis Lens standard was satisfied because these components were necessarily manufactured in a manner that satisfied, that included the functionality of the system and method patents at issue here.</text>
+            <text syncTime="511.722" offset="2216639">At 30a, the district court looks to LGE's own claim charts and says that their own allegations show that they were manufactured in a way that met many of the limitations of the claims.</text>
+            <text syncTime="523.346" offset="2263137">In addition, at 67 of the petition appendix, she says that by attaching the components, the Intel chips, to the... the other generic wires and memory, it necessarily caused these products to infringe.</text>
+            <text syncTime="543.474" offset="2343594">And, at 46, she says,</text>
+            <text syncTime="545.676" offset="2352475">"Failure to follow Intel's design specifications would render the computers inoperable. "</text>
+            <text syncTime="551.330" offset="2375045">So, this is a case where there's just no question that if LGE's allegations are correct these products would have contributorily infringed.</text>
+            <text syncTime="560.786" offset="2412870">So Intel knew that in order to avoid potential liability to... to LGE, that it had to get full authority to sell, and it did.</text>
+            <text syncTime="572.910" offset="2461354">And there's never been any dispute about that.</text>
+            <text syncTime="575.462" offset="2471594">Instead, there's simply the Federal Circuit's view that even if you have an authorized sale, that the patentowner is nevertheless allowed to say, okay, I authorize the seller to sell it to anybody, but I want to retain the right to control the use of the... of the buyer.</text>
+            <text syncTime="592.991" offset="2541706">And that's exactly what this Court's cases have always said, with the exception of A.B. Dick, cannot be done because the whole point of the exhaustion doctrine is to demarcate the line between where the monopoly power to control rights to use and sell end and where any rights under contract must begin.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="613.404" stopTime="629.782">
+            <label>Justice David H. Souter</label>
+            <text syncTime="613.404" offset="2623313">Well, there's one... there's one more wrinkle that you don't expressly advert to and that is the argument that what is in issue here are the... are the systems and methods patents, rather than the... the equipment component patents.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="629.782" stopTime="630.582">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="629.782" offset="2688828">Yes.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="630.582" stopTime="642.889">
+            <label>Justice David H. Souter</label>
+            <text syncTime="630.582" offset="2692067">And that with respect to the equipment component patents nothing is being retained, but with respect to the systems and method patents nothing was being granted.</text>
+            <text syncTime="638.752" offset="2724772">What is your answer to that answer to your argument?</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="642.889" stopTime="679.758">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="642.889" offset="2741282">It's completely inconsistent with the way the case has been litigated from the outset as well as the terms of the contract.</text>
+            <text syncTime="647.841" offset="2761135">At page 5 of the petition appendix, the Federal Circuit acknowledges that Intel had full authority to sell these components under all of the patents, including the system and method patents.</text>
+            <text syncTime="659.649" offset="2808364">If it didn't have authority to manufacture and sell under the system and method patents, it would be potentially liable for contributory infringement.</text>
+            <text syncTime="668.319" offset="2843055">And in fact LGE has acknowledged in its brief in footnote 7 that Intel isn't potentially liable for contributory infringement under the terms of this agreement.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="679.758" stopTime="685.579">
+            <label>Justice David H. Souter</label>
+            <text syncTime="679.758" offset="2888717">So the answer simply is that that the argument rests upon a mistake of fact which has not been challenged in the record?</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="685.579" stopTime="686.880">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="685.579" offset="2912018">It absolutely has not.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="686.880" stopTime="687.497">
+            <label>Justice David H. Souter</label>
+            <text syncTime="686.880" offset="2917243">Yes.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="687.497" stopTime="747.402">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="687.497" offset="2919750">The component patents are not at issue here at all.</text>
+            <text syncTime="689.065" offset="2926020">And the idea that you couldn't have one patent on a component and another patent on a system where the component would contributorily infringe is nonsensical.</text>
+            <text syncTime="699.187" offset="2966457">These components had thousands of patents on them.</text>
+            <text syncTime="701.956" offset="2977533">And certainly the argument isn't that by authorizing the sale of the component all of the owner's rights are released in that.</text>
+            <text syncTime="710.311" offset="3010970">If, instead, there had been a sale of a component where a patent owner says, I'll authorize you to sell my... my... that component under my component patent, but if you sell it under my system patent... I'm not giving you authority to sell it under my system patent, so if you sell it, I'm going to sue you for infringement, that didn't happen here, and it's never been litigated in that way.</text>
+            <text syncTime="732.142" offset="3098324">Instead, that first criteria of the authorized sale has plainly been satisfied, and the only question in this case has been whether or not this satisfied the contributory infringement standard that Univis Lens uses to define what articles--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="747.402" stopTime="764.196">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="747.402" offset="3159346">Ms. Mahoney, I understand that's really the way it's been litigated, but I have to confess I was puzzled by the court of appeals' statement that the granting of the license constituted a sale for exhaustion purposes, and they cited the Masonite case for that proposition, but it doesn't seem to me to support that proposition.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="764.196" stopTime="785.510">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="764.196" offset="3226532">--Your Honor, I think all that that really is saying is that at a point when you enter into... a patentowner enters into an unrestricted license to make, use, and sell with a manufacturer, then at that point any articles that are manufactured under that license, effectively the patent's been exhausted.</text>
+            <text syncTime="783.610" offset="3304168">But I think it's easier to--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="785.510" stopTime="787.729">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="785.510" offset="3311796">It's not exhausted by the manufacturer, is it?</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="787.729" stopTime="790.280">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="787.729" offset="3320678">--No.</text>
+            <text syncTime="788.312" offset="3322977">For contributorily infringing--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="790.280" stopTime="796.167">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="790.280" offset="3330813">It's exhausted under this view by the licensee's sale of an article that it manufactured pursuant to the license.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="796.167" stopTime="797.850">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="796.167" offset="3354428">--But... right, manufactured pursuant--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="797.850" stopTime="809.558">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="797.850" offset="3361115">And it seems to think there's no distinction between the sale itself and the basic underlying license, whereas I had thought for years that there was recognized a distinction between those two transactions.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="809.558" stopTime="927.716">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="809.558" offset="3407927">--Well, I think that it just means that once you have that transaction any sales that occur for those articles under that license are going to be exhausted by definition.</text>
+            <text syncTime="819.782" offset="3448887">But, you know, we have certainly focused on the sale of the articles to Quanta from Intel, and I think, you know, it makes sense to look at it that way.</text>
+            <text syncTime="829.721" offset="3488593">And, as indicated, there really is... there have been arguments that somehow this deprives the patentowner of the right to collect its full royalty, but that doesn't make any sense.</text>
+            <text syncTime="842.796" offset="3540942">Because if you... if you look at the rights that are afforded under contributory infringement, what Congress has done in Section 271(c) and what this Court had done before was to say that if you are the owner of a system patent or a method patent, you can go ahead and collect your royalty when someone sells a product that will contributorily infringe.</text>
+            <text syncTime="867.677" offset="3640417">In other words, your... your product is sufficiently... your patent is sufficiently embodied in those contributorily infringing products that it's appropriate for you to collect your royalty there.</text>
+            <text syncTime="877.616" offset="3680227">That's exactly what happened in this case.</text>
+            <text syncTime="879.985" offset="3689631">LGE did get its royalty from Intel, did give them authority to sell products which would otherwise contributorily infringe, and now what it's seeking to do is to say, despite the authorized sale, despite the fact it would contributorily infringe, we want to collect another royalty from the buyer of the product that can't use it for any other purpose.</text>
+            <text syncTime="901.148" offset="3774372">Why?</text>
+            <text syncTime="901.814" offset="3776985">Well, because we have... we had them sent a notice that said we wanted to do that.</text>
+            <text syncTime="906.635" offset="3796315">Under this Court's cases, that is completely impermissible.</text>
+            <text syncTime="910.504" offset="3811780">In two cases in particular, Motion Picture Patents, they tried to do the exact same thing.</text>
+            <text syncTime="915.408" offset="3831319">And in the Millinger case the patentowner said that it had never gotten paid for the extension rights under its patent.</text>
+            <text syncTime="923.062" offset="3861935">And this Court said: Nope; once you've sold the article, that's the royalty you get.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="927.716" stopTime="945.093">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="927.716" offset="3880639">I see your white light is on.</text>
+            <text syncTime="929.149" offset="3886281">I have just one question.</text>
+            <text syncTime="930.334" offset="3891088">Are there cases where some downstream restrictions on use might be necessary to prevent the patent from becoming worthless, i.e., in the biological area for replication of seeds in agriculture and so forth?</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="945.093" stopTime="969.876">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="945.093" offset="3950124">Well, what we're... exhaustion is triggered when... with respect to the rights to control and use.</text>
+            <text syncTime="952.164" offset="3978441">Rights to make are treated differently.</text>
+            <text syncTime="955.449" offset="3991502">Univis, of course, though, holds that when you're talking about the sale of a contributorily infringing product, you're really talking about the right to... to make it, to use it, to complete the... complete the article.</text>
+            <text syncTime="969.376" offset="4047195">But I think--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="969.876" stopTime="972.328">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="969.876" offset="4049285">I thought Univis was one of your principal cases.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="972.328" stopTime="990.656">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="972.328" offset="4059003">--It is, absolutely.</text>
+            <text syncTime="973.028" offset="4061824">It holds... in other words, what Univis holds is that when you have an article that is uncompleted... it's not finished... as in this case, by the... the sale will... will mean, by definition, that you can use it to complete the article.</text>
+            <text syncTime="988.170" offset="4122428">I'd like to reserve the remainder of my time.</text>
+            <text syncTime="990.222" offset="4130578">Thank you.</text>
+          </turn>
+        </section>
+        <section startTime="990.656" stopTime="1624.296">
+          <heading>Argument of Thomas G. Hungar</heading>
+          <turn speaker="john_g_roberts_jr" startTime="990.656" stopTime="1004.632">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="990.656" offset="4132355">Thank you, Ms. Mahoney.</text>
+            <text syncTime="991.672" offset="4136430">Mr. Hungar?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1004.632" stopTime="1072.674">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1004.632" offset="4188257">Thank you, Mr. Chief Justice, and may it please the Court: For 150 years this Court has held that an authorized sale removes the particular item sold from the protection of the patent laws.</text>
+            <text syncTime="1017.440" offset="4239457">The court below erroneously transformed that patent-exhaustion doctrine from a definitional principle that delimits the scope of the patent grant into an optional default assumption that can be discarded at the whim of the patentee.</text>
+            <text syncTime="1032.531" offset="4299852">If the rationale of the court of appeals were correct, this Court's decisions in cases like Univis, Motion Picture Patents, Straus, Bauer and Boston Store would have to have gone the other way, because in each of those cases this Court held that the exhaustion principle overrode express restrictions that the patentee had attempted to impose on after-sale use or resale by an authorized purchaser.</text>
+            <text syncTime="1057.231" offset="4398699">This Court should follow its precedents and reaffirm the principle that the patent-exhaustion doctrine precludes a patentee from employing the patent law to enforce post-sale restrictions on use or resale by authorized purchasers, that is--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1072.674" stopTime="1084.298">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1072.674" offset="4460452">Mr. Hungar, is there a reason why Congress codified this doctrine in the Copyright Act, but not in the Patent Act?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1084.298" stopTime="1120.985">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1084.298" offset="4506950">--We... there's nothing in the legislative record that would explain that, Your Honor.</text>
+            <text syncTime="1090.083" offset="4530043">Presumably it's because Congress wanted to specify particular limits, which Section 109 of the Copyright Act does.</text>
+            <text syncTime="1097.320" offset="4558986">It wanted to specify particular limits to define the scope of the doctrine in the copyright context in a way that it has not sought... found it necessary to do in the patent area.</text>
+            <text syncTime="1107.426" offset="4599424">But there's no legislative history about this.</text>
+            <text syncTime="1109.545" offset="4607888">I mean, this Court has said that the 1952 act codified, recodified, and readopted, reaffirmed, the principles of the Court's cases on infringement generally.</text>
+            <text syncTime="1120.018" offset="4649788">Obviously--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1120.985" stopTime="1127.256">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1120.985" offset="4653654">And the PTO didn't take any position on whether it should be codified?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1127.256" stopTime="1181.057">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1127.256" offset="4678732">--I'm not aware of anything in the legislative history of the 1952 codification on the subject of the patent exhaustion doctrine one way or the other; but, obviously, Congress did not express any dissatisfaction with it.</text>
+            <text syncTime="1140.147" offset="4730350">It did change certain aspects of patent law, but it did not attempt in any way to override or change the effect of the first-sale doctrine, which under this Court's cases has been perfectly clear for well over a century and has the effect we've suggested.</text>
+            <text syncTime="1155.775" offset="4792835">And we submit that, although the Respondent essentially ignores or runs away from the rationale of the court of appeals, we submit it's important for this Court to explicitly address and explicitly reject the Federal Circuit's misunderstanding of the patent-exhaustion doctrine, its view that a patentee can essentially override it simply by attaching a notice to the article that has been sold in an authorized sale.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1181.057" stopTime="1188.913">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1181.057" offset="4893981">Although you think it can be overridden simply by providing in the contract that the same rights and remedies would be available?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1188.913" stopTime="1214.128">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1188.913" offset="4925432">No, Your Honor.</text>
+            <text syncTime="1192.032" offset="4937866">I mean, it depends a little bit on what contract we're talking about and what it says.</text>
+            <text syncTime="1196.166" offset="4954376">It is true, as Justice Stevens indicated, it has always been true, that this Court has deemed a license under a patent to be different from a sale of a particular article under a patent.</text>
+            <text syncTime="1206.438" offset="4995440">It is the sale of the article that exhausts.</text>
+            <text syncTime="1208.724" offset="5004635">The license does not... exhaustion doesn't... isn't relevant at the mere licensing stage.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1214.128" stopTime="1218.263">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1214.128" offset="5026265">A mere license can prevent the application of the patent-exhaustion doctrine?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1218.263" stopTime="1236.558">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1218.263" offset="5042774">Well, only at the... only at the level of the licensee.</text>
+            <text syncTime="1221.115" offset="5054164">That is, if it is true, as Ms. Mahoney said, if the... if LG here had given a restricted license that restricted the right to sell, that said you can only sell in these instances, and if Intel then sold outside those permitted instances, that would be patent infringement.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1236.558" stopTime="1242.461">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1236.558" offset="5115917">And it would be patent infringement by the use of the product by the people that Intel sold to?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1242.461" stopTime="1244.397">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1242.461" offset="5139532">Yes, because it was an unauthorized sale.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1244.397" stopTime="1249.301">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1244.397" offset="5147368">That would sound like your friend on the other side, the Respondent, had actually won in this case.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1249.301" stopTime="1274.833">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1249.301" offset="5166908">Well, that's right.</text>
+            <text syncTime="1250.501" offset="5171715">If this had been an authorized sale... I mean an unauthorized sale, they would win.</text>
+            <text syncTime="1254.519" offset="5187806">But, of course, it's been accepted throughout the case, and the court of appeals explicitly said at page 5A, and it's been undisputed, that Intel had the right to sell these items to these Petitioners.</text>
+            <text syncTime="1266.494" offset="5235662">They had the right to sell.</text>
+            <text syncTime="1267.346" offset="5239110">It was not infringing.</text>
+            <text syncTime="1268.379" offset="5243290">And if it's not "infringing", by definition, it's an "authorized" sale.</text>
+            <text syncTime="1271.881" offset="5257292">It's authorized under the patent explicitly by the license agreement.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1274.833" stopTime="1296.012">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1274.833" offset="5269099">But you couldn't put in... you are authorized to sell the bicycle pedals that I have patented only if you impose a restriction that will tell the bicycle user that he must send me a check for $15 in addition to whatever he pays you.</text>
+            <text syncTime="1292.342" offset="5339107">That sounds unlawful under contract law.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1296.012" stopTime="1301.483">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1296.012" offset="5353736">Well, it might be lawful.</text>
+            <text syncTime="1298.531" offset="5363871">You could certainly do what, in fact, I think some of the seed companies--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1301.483" stopTime="1307.720">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1301.483" offset="5375679">Or you are going to have... I mean, there's a doctrine that you cannot impose equitable servitude's upon chattel.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1307.720" stopTime="1308.204">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1307.720" offset="5400652">--Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1308.204" stopTime="1309.537">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1308.204" offset="5402532">That's a contract law doctrine.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1309.537" stopTime="1320.243">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1309.537" offset="5407861">It would not be enforceable as a matter of patent law against the authorized purchaser.</text>
+            <text syncTime="1313.589" offset="5424057">If... if the licensee does what the licensee is obligated to do, it imposes the... it attaches the notice or it requires the--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1320.243" stopTime="1340.037">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1320.243" offset="5450702">My thought is that the reason that these things are important and you can't just draft your way around them is because there are antitrust doctrines, there are contract-law doctrines, that also limit in significant ways what you can and cannot write into a contract.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1340.037" stopTime="1341.289">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1340.037" offset="5529906">--That's exactly right.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1341.289" stopTime="1374.342">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1341.289" offset="5534921">Well, I think that's an important question.</text>
+            <text syncTime="1344.274" offset="5546833">I understood the argument at page 16 of your brief to say that the patent-exhaustion doctrine doesn't apply in that situation and that you, therefore, can't have the rights and remedies under patent law.</text>
+            <text syncTime="1355.416" offset="5591450">You told me earlier that if the person to whom Intel sells the product uses it contrary to the license stipulation, they would be liable for patent infringement.</text>
+            <text syncTime="1366.188" offset="5634500">Your answer to Justice Breyer suggests to me that you're saying only that they're liable to... for contract infringement, and that's a very big difference.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1374.342" stopTime="1383.547">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1374.342" offset="5667101">Well... but, Your Honor, it all goes back to the question: Was there an authorized sale of the article at issue?</text>
+            <text syncTime="1380.828" offset="5693014">If the sale is authorized, if what the licensee--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1383.547" stopTime="1384.649">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1383.547" offset="5703881">Sale from whom to whom?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1384.649" stopTime="1405.729">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1384.649" offset="5708374">--The sale from the licensee to the purchaser.</text>
+            <text syncTime="1388.017" offset="5721853">The license is not a sale... is not a sale for purposes of the patent exhaustion.</text>
+            <text syncTime="1393.438" offset="5743483">I think that the Federal Circuit was just wrong in saying that, because what the patent-exhaustion doctrine talks about is the sale of an article.</text>
+            <text syncTime="1399.659" offset="5768351">All the cases say the sale of the particular article removes that article from the... from the patent monopoly.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1405.729" stopTime="1423.207">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1405.729" offset="5792697">But what you... well, but what you say in your brief is that in the situation we're talking about the licensee stands in the shoes of the patentee.</text>
+            <text syncTime="1415.335" offset="5831045">Now, if that's right it seems to me that you're telling me that the patent remedies are available and not simply contractual remedies.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1423.207" stopTime="1434.346">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1423.207" offset="5862601">No.</text>
+            <text syncTime="1424.907" offset="5869393">What we're saying is this.</text>
+            <text syncTime="1425.840" offset="5873050">If... if the licensee has a restricted license, that is its right to sell is restricted, it can only sell on Mondays and not on Tuesdays--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1434.346" stopTime="1435.096">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1434.346" offset="5907114">Well--</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1435.096" stopTime="1436.163">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1435.096" offset="5910144">--and it sells on a Tuesday.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1436.163" stopTime="1441.250">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1436.163" offset="5914428">--Well, or, more pertinently, it can only sell if the person they sell to agrees not to use the product in a certain way.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1441.250" stopTime="1458.559">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1441.250" offset="5934699">Fine.</text>
+            <text syncTime="1441.717" offset="5936580">If they have that restriction and they sell and they do not... they do not obtain the contractual promise of the party that they are obligated to obtain, they're violating the terms of their right to sell.</text>
+            <text syncTime="1453.874" offset="5985272">It's patent infringement by the seller, and if the buyer uses it it's patent infringement by them as well.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1458.559" stopTime="1483.377">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1458.559" offset="6003976">Exactly.</text>
+            <text syncTime="1459.142" offset="6006275">That's the critical point.</text>
+            <text syncTime="1460.344" offset="6011081">You're telling me that if the buyer, in other words, the kind of third person in this chain, uses the patented article in a way that is contrary to the license that was given to the second person in the chain, then he is liable for contributory infringement under the patent laws and not, as I understood you to answer to Justice Breyer, only under contract law.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1483.377" stopTime="1484.510">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1483.377" offset="6103241">Yes, because--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1484.510" stopTime="1488.227">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1484.510" offset="6107734">Do you sue under patent law or just contract law?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1488.227" stopTime="1501.451">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1488.227" offset="6122676">--If... in your hypothetical, as I understand it, it's an unauthorized sale.</text>
+            <text syncTime="1492.095" offset="6138141">The licensee does not have the right to sell under the patent in those circumstances, and therefore the exhaustion principle does not apply.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1501.451" stopTime="1505.503">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1501.451" offset="6175548">But not every infringement of the license is necessarily an unauthorized sale.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1505.503" stopTime="1506.855">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1505.503" offset="6191744">That's correct.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1506.855" stopTime="1518.543">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1506.855" offset="6197177">So there could be a restriction in the license which is not a restriction on sale and that could be violated.</text>
+            <text syncTime="1512.925" offset="6221419">And the exhaustion doctrine would still apply, and you might have remedies in some another theory, i.e., contract.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1518.543" stopTime="1532.153">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1519.079" offset="6246079">That's correct.</text>
+            <text syncTime="1519.462" offset="6247541">Likewise, what happens in the real world is the patentee, if the patentee wants to restrict what people can do downstream, they say to the licensee, you can only sell if you obtain a contractual promise from the purchaser.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1532.153" stopTime="1553.466">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1532.153" offset="6298324">Are you saying that this case would come out differently if instead of just requiring a notice that the... the item should only be used on Intel products, that had been a condition of the license.</text>
+            <text syncTime="1542.610" offset="6340224">If the license itself said you may manufacture and sell to only people who agree to use the product exclusively with Intel products?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1553.466" stopTime="1558.787">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1553.466" offset="6383587">Yes.</text>
+            <text syncTime="1554.050" offset="6385886">In if those circumstances, if Quanta had... if that... if that license condition--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1558.787" stopTime="1564.358">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1558.787" offset="6404903">So the key fact in this case is it was just a requirement of giving notice rather than a condition in the license?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1564.358" stopTime="1572.078">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1564.358" offset="6427159">--But let me be clear.</text>
+            <text syncTime="1565.091" offset="6430085">The key distinction is between an authorized sale and an unauthorized sale.</text>
+            <text syncTime="1569.043" offset="6445863">So if there is an authorized sale, that is, Intel--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1572.078" stopTime="1572.828">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1572.078" offset="6458088">I understand that.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1572.828" stopTime="1576.899">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1572.828" offset="6461014">--Well, I think I haven't been clear, because I want to make sure that that the consequences are clear--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1576.899" stopTime="1598.895">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1576.899" offset="6477315">The big key is what is an authorized sale?</text>
+            <text syncTime="1579.499" offset="6487764">And I'm asking you if the... if the license agreement to the... to Intel had said you may only sell to people who agree to use the products on the patentee's products, that then would... and they did otherwise, they didn't get... then it would not have been an authorized sale?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1598.895" stopTime="1624.296">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1598.895" offset="6565295">--Correct, and it would be patent infringement.</text>
+            <text syncTime="1600.428" offset="6571460">But if they sold and the purchaser did agree, they did enforce that requirement, they did require the purchaser to sign a promise... may I finish, Your Honor... to promise to limit the use and the purchaser then violated that promise, the point is that would be a breach of contract but it would not be patent infringement because the sale was authorized, the patent monopoly ends and only contract principles control thereafter.</text>
+          </turn>
+        </section>
+        <section startTime="1624.296" stopTime="3361.840">
+          <heading>Argument of Carter G. Phillips</heading>
+          <turn speaker="john_g_roberts_jr" startTime="1624.296" stopTime="1632.985">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1624.296" offset="6666964">Thank you, Mr. Hungar.</text>
+            <text syncTime="1626.262" offset="6674800">Mr. Phillips.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1632.985" stopTime="1675.126">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1632.985" offset="6701654">Thank you, Mr. Chief Justice, and may it please the Court: Justice Souter, I want to go to your question, because, frankly, I think it is the key to the entirety of this case.</text>
+            <text syncTime="1641.405" offset="6735404">And that is, what is the "it" that we are talking about?</text>
+            <text syncTime="1644.857" offset="6749197">And what's absolutely critical here is, yes, there was... you know, this is the first sale doctrine.</text>
+            <text syncTime="1650.225" offset="6770617">It's easy to call it patent-exhaustion, but the truth is it's the first sale doctrine.</text>
+            <text syncTime="1653.611" offset="6784201">And the question is, what was sold here?</text>
+            <text syncTime="1655.546" offset="6791933">And the only sale that was involved here was the chipsets.</text>
+            <text syncTime="1660.367" offset="6811159">And there is a completely separate patent that deals with the rest of the system and that deals with the method.</text>
+            <text syncTime="1668.354" offset="6843133">And nothing... and this is the key point of this.</text>
+            <text syncTime="1671.388" offset="6855254">The exhaustion doctrine only goes as far as the sale.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1675.126" stopTime="1691.100">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1675.126" offset="6870196">Well, but there's nothing to do with these chipsets other than use them in the computers.</text>
+            <text syncTime="1681.030" offset="6893811">I mean, you don't put them on your shelf.</text>
+            <text syncTime="1682.446" offset="6899558">They're not good for anything other than using in the computer.</text>
+            <text syncTime="1685.564" offset="6911992">So saying there's a separate patent for how you use them with the other systems doesn't seem to be very significant.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1691.100" stopTime="1779.739">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1691.100" offset="6934144">It would be... and that's why you would ordinarily... you don't deal with this as an exhaustion issue.</text>
+            <text syncTime="1695.754" offset="6952743">That's why you would deal with this as an implied licensing issue.</text>
+            <text syncTime="1698.472" offset="6963610">The assumption would be, in the absence of clear evidence to the contrary, that if I'm selling you something that only has a single use and that's in a separate patent, that you in fact are being licensed to go and use it that way.</text>
+            <text syncTime="1710.697" offset="7012511">But what's absolutely critical in this case is that both the district court and the court of appeals specifically rejected the notion that there was any implied license.</text>
+            <text syncTime="1720.552" offset="7051904">And it's important to realize this.</text>
+            <text syncTime="1723.135" offset="7062248">Even as we approach this case, we didn't sue for any of the activities that predated when the other side received its notice.</text>
+            <text syncTime="1732.360" offset="7099133">We sued only for the activities post notice.</text>
+            <text syncTime="1735.728" offset="7112612">Why?</text>
+            <text syncTime="1736.328" offset="7115016">Because at that stage it was absolutely clear that there was no implied license any longer and there's no basis for expanding the exhaustion doctrine to try to fill that void.</text>
+            <text syncTime="1747.452" offset="7159528">The exhaustion doctrine ought to be retained as a very narrow first sale doctrine, because it doesn't have any congressional support or approval at this point.</text>
+            <text syncTime="1756.725" offset="7196622">It is a logical way of proceeding.</text>
+            <text syncTime="1758.908" offset="7205399">It protects people against being surprised when they purchase a particular product.</text>
+            <text syncTime="1764.229" offset="7226611">But to go beyond that and to say that simply because that sale, that particular product is, quote, an "essential feature" of a separate patent and therefore you have now exhausted the rights to that second patent seems to me a stretch that--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1779.739" stopTime="1860.107">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1779.739" offset="7288678">Well, there's a reason, I guess, that would be so.</text>
+            <text syncTime="1782.106" offset="7298186">Imagine that I want to buy some bicycle pedals, so I go to the bicycle shop.</text>
+            <text syncTime="1789.527" offset="7327861">These are fabulous pedals.</text>
+            <text syncTime="1791.546" offset="7335907">The inventor has licensed somebody to make them, and he sold them to the shop, make and sell them.</text>
+            <text syncTime="1799.818" offset="7369030">He sold them to the shop.</text>
+            <text syncTime="1801.285" offset="7374882">I go buy the pedals.</text>
+            <text syncTime="1802.770" offset="7380838">I put it in my bicycle.</text>
+            <text syncTime="1804.854" offset="7389197">I start pedaling down the road.</text>
+            <text syncTime="1806.989" offset="7397661">Now, we don't want 19 patent inspectors chasing me or all of the other companies and there are many doctrines in the law designed to stop that.</text>
+            <text syncTime="1817.162" offset="7438412">One is the equitable servitudes on chattel.</text>
+            <text syncTime="1820.047" offset="7449906">Another is the exhaustion of a patent.</text>
+            <text syncTime="1822.232" offset="7458683">And now you talk about implied license.</text>
+            <text syncTime="1824.267" offset="7466833">I would say, why does it make that much difference?</text>
+            <text syncTime="1827.302" offset="7478954">What we're talking about here is whether after those pedals are sold to me under an agreement that the patent... you know, you have a right to sell them to me... why can't I look at this as saying that patent is exhausted, the patent on the pedals and the patent for those bicycles insofar as that patent for the bicycles says I have a patent on inserting the pedal into a bicycle.</text>
+            <text syncTime="1855.989" offset="7593684">Call it exhaustion, call it implied license.</text>
+            <text syncTime="1859.107" offset="7606118">Who cares?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1860.107" stopTime="1891.559">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1860.107" offset="7610193">--I don't have any problem with your hypothetical because it's not this case.</text>
+            <text syncTime="1863.225" offset="7622627">Your hypothetical deals with the situation of what would have happened if you had bought the chip.</text>
+            <text syncTime="1867.260" offset="7638823">Would we be in a position to say, even though you bought the chip, we nevertheless want to retain some right to come out... to come after you claiming we still have a patent in that chip?</text>
+            <text syncTime="1876.799" offset="7676962">And the answer is no.</text>
+            <text syncTime="1877.782" offset="7680828">We exhausted... that was exhausted by the sale of the chip.</text>
+            <text syncTime="1881.603" offset="7696188">The question is if you buy a pedal, can you then take that pedal that was designed for a bicycle, put it into a Stair Master--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1891.559" stopTime="1892.911">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1891.559" offset="7735999">Ah, but I thought--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1892.911" stopTime="1895.261">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1892.911" offset="7741432">--patent in the Stair Master--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1895.261" stopTime="1938.107">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1895.261" offset="7750732">--Yes.</text>
+            <text syncTime="1895.696" offset="7752508">Of course, I think the answer to that is no, probably no, but, but, but, but.</text>
+            <text syncTime="1900.232" offset="7770689">Now you can clarify this because I may be off on a wrong track.</text>
+            <text syncTime="1904.184" offset="7786467">I thought we're talking about using the sold item in those mechanisms which account for virtually almost the only logical use of the sold item.</text>
+            <text syncTime="1917.109" offset="7838190">Thus, if you took the bicycle blanks... not the bicycle blanks; they are eyeglass blanks.</text>
+            <text syncTime="1923.680" offset="7864417">I'm mixed up between bicycles and eyeglasses, there we are.</text>
+            <text syncTime="1926.882" offset="7877269">But if you took the eyeglass blanks and you use them for the purpose of growing plants instead of inserting them into eyeglasses, I guess we'd have had a different case.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1938.107" stopTime="1938.440">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1938.107" offset="7922199">--Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1938.440" stopTime="1951.431">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1938.440" offset="7923453">And I take it here they are using those chips in those mechanisms that the chips are almost exclusively designed for and there isn't much else to use them for.</text>
+            <text syncTime="1950.165" offset="7970369">Am I right or wrong?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="1951.431" stopTime="2034.735">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="1951.431" offset="7975489">That is true.</text>
+            <text syncTime="1952.215" offset="7978624">But the... but the point here is that that's not the relevant distinction.</text>
+            <text syncTime="1955.700" offset="7992521">It's not whether or not this is in some sense an essential use.</text>
+            <text syncTime="1958.685" offset="8004433">What this Court said in Univis is that this would be a very... that would have been a very different case if there had been a separate patent on the grinding and finishing of those lenses.</text>
+            <text syncTime="1968.709" offset="8044557">And that is precisely our case.</text>
+            <text syncTime="1970.994" offset="8053752">There is a separate patent when you take those components and you then put them into our separate system.</text>
+            <text syncTime="1976.732" offset="8076635">And from my perspective, Your Honor, the better way to analyze this is not as a question of exhaustion.</text>
+            <text syncTime="1983.069" offset="8102026">Let's keep the exhaustion doctrine where it fits.</text>
+            <text syncTime="1985.504" offset="8111744">It's a first sale component.</text>
+            <text syncTime="1987.454" offset="8119581">You buy it, you exhaust.</text>
+            <text syncTime="1988.956" offset="8125537">Let's use the implied licensing as the mechanism for dealing with related patents.</text>
+            <text syncTime="1994.360" offset="8147166">But the beauty of that in this case, obviously, is that... is that the implied license in this case the courts below have flatly said doesn't exist.</text>
+            <text syncTime="2003.482" offset="8183633">And it goes to the point that you made, Justice Breyer, as well when you said, you know, I buy this and I sort of assume that I'm going to be able to use it in a particular way.</text>
+            <text syncTime="2011.719" offset="8216652">These... this is a $10 billion company that at the time they bought these components, these chips, received explicit and specific notice that the one thing they could not do was use these chips to build new systems and then sell those systems, obviously, beyond... you know, under a completely separate patent.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2034.735" stopTime="2035.521">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2034.735" offset="8308707">Mr. Phillips.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2035.521" stopTime="2042.340">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2035.521" offset="8311842">So it's not as though they didn't know what they were getting when they bought it.</text>
+            <text syncTime="2037.704" offset="8320515">They bought cheap chips and turned them into $2,000 laptops because they didn't--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2042.340" stopTime="2042.824">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2042.340" offset="8339114">Mr. Phillips?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2042.824" stopTime="2043.674">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2042.824" offset="8340995">--Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2043.674" stopTime="2079.431">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2043.674" offset="8344443">What in the world does clause 3.8 of the license mean?</text>
+            <text syncTime="2048.244" offset="8362728">It says,</text>
+            <text syncTime="2049.161" offset="8366386">"notwithstanding anything to the contrary in this agreement, the parties agree that nothing herein shall in any way limit or alter the effect of patent exhaustion that would otherwise apply when a party hereto sells any of its licensed products. "</text>
+            <text syncTime="2063.920" offset="8425422">In other words, the patent exhaustion doctrine may not apply for all the reasons that we've been talking about, but it applies in the way it would apply if we just sold these licensed products.</text>
+            <text syncTime="2075.911" offset="8473383">That seems to me to give away everything you're talking about.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2079.431" stopTime="2143.888">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2079.431" offset="8487489">No.</text>
+            <text syncTime="2079.882" offset="8489266">Because that... that depends on the scope of the patent exhaustion doctrine.</text>
+            <text syncTime="2082.815" offset="8500968">If the patent exhaustion doctrine is limited to the sale of the specific product... let's for instance assume for a moment that what in fact happened was that Intel sold the system, rather than the chips.</text>
+            <text syncTime="2093.940" offset="8545481">Then that would... that would exhaust the patent doctrine.</text>
+            <text syncTime="2097.927" offset="8561468">Now, you know, the question is... and here there is a disconnect in some respects between the Mallinckrodt decision in the Federal Circuit and some of this Court's previous decisions on to the extent to which you can condition a sale, and I think in some ways that language may have been given up what rights we might have been able to assert under Mallinckrodt on a somewhat broader basis.</text>
+            <text syncTime="2116.238" offset="8634715">But I don't think it can be read any further than that, and it certainly... and the key to this is it certainly doesn't in any way waive our rights, you know, as an implied license matter, because that's... specifically what both the district court and the court of appeals held is there is no implied license in this particular context, and so therefore for them to prevail they have to expand the patent exhaustion doctrine or the first sale doctrine beyond the first sale; and that I submit to you is something that's simply not appropriate.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2143.888" stopTime="2148.276">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2143.888" offset="8745266">Am I correct in understanding that you do not defend the Mallinckrodt decision?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2148.276" stopTime="2174.058">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2148.276" offset="8762820">I do not defend the Mallinckrodt decision, Justice Stevens, and clearly I don't believe I have to.</text>
+            <text syncTime="2152.811" offset="8781001">All I need to do is have this Court recognize that the central limiting feature of Univis was the fact that it was all one patent and that all you were doing was fulfilling the rights that had been provided for you in that single patent, and that that that's fundamentally... and that the Court recognized that if there were a separate patent involved and you were trying to enforce those rights, that would be a completely different matter.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2174.058" stopTime="2182.264">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2174.058" offset="8865951">I understand you also do not challenge the proposition that the sale by the licensee in this case should be treated as a first sale.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2182.264" stopTime="2183.532">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2182.264" offset="8898761">Right, the chip.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2183.532" stopTime="2184.215">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2183.532" offset="8903881">Yes.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2184.215" stopTime="2219.706">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2184.215" offset="8906598">Absolutely.</text>
+            <text syncTime="2184.832" offset="8909106">There's no question about that.</text>
+            <text syncTime="2185.799" offset="8912972">We have never challenged that, and I think the point I made earlier is also valid.</text>
+            <text syncTime="2190.686" offset="8932511">We didn't challenge their use, their otherwise infringement of our system until we gave them notice; and at that point we said there is no implied license, because I do think, Mr. Chief Justice, it's a fair point, and it's the same point Justice Breyer made, which is, look, if you buy something and you think this is your normal assumption that you're going to use it in a particular way, that ought to be protected.</text>
+            <text syncTime="2211.450" offset="9015581">I think that's ordinary kind of contract expectation rules.</text>
+            <text syncTime="2214.069" offset="9026030">But the point here is that the language of this notice could not have been plainer to anyone--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2219.706" stopTime="2238.967">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2219.706" offset="9048599">All right, now if it should be protected... and here I'm not sure I'm understanding it, so correct me.</text>
+            <text syncTime="2225.026" offset="9069811">Let's suppose we have this contract.</text>
+            <text syncTime="2227.644" offset="9080364">So everything is identical except we've got my bicycle example in here because I'm more comfortable with that.</text>
+            <text syncTime="2233.280" offset="9102830">I know how to ride a bicycle and I don't know how to work the chips.</text>
+            <text syncTime="2237.500" offset="9119757">So what I do--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2238.967" stopTime="2239.536">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2238.967" offset="9125608">--Me too.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2239.536" stopTime="2242.238">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2239.536" offset="9127907">--But you see the analogy I'm making.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2242.238" stopTime="2242.621">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2242.238" offset="9138670">Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2242.621" stopTime="2283.796">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2242.621" offset="9140237">So what I do I go to the shop and I buy this, this mechanism with the pedals on it, and then I insert it in my bicycle.</text>
+            <text syncTime="2249.575" offset="9168031">Now, actually I need help in doing that, but I do it.</text>
+            <text syncTime="2253.177" offset="9182451">Okay.</text>
+            <text syncTime="2254.093" offset="9186108">Now I start pedaling off, and now what is it for all these things here that would stop that original inventor from catching me and hauling me into court, and say, what you've done, Breyer, is you've put my... my mechanism here in this bicycle and I happen to have a patent on the system.</text>
+            <text syncTime="2276.523" offset="9275865">And now you start talking to me about, well, the patent was exhausted on the bicycle--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2283.796" stopTime="2285.279">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2283.796" offset="9304913">Pedal.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2285.279" stopTime="2286.648">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2285.279" offset="9310869">--pedals, but not on the system.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2286.648" stopTime="2287.231">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2286.648" offset="9316302">Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2287.231" stopTime="2288.364">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2287.231" offset="9318706">And you agree that shouldn't happen.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2288.364" stopTime="2289.016">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2288.364" offset="9323199">Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2289.016" stopTime="2292.552">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2289.016" offset="9325811">But if I follow you and I write an opinion just for you, what stops it from happening?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2292.552" stopTime="2304.443">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2292.552" offset="9339917">Well, in that... in that particular context, in the absence of relatively clear notice, I think it would be quite reasonable to potentially find that there was an implied license to use it under those circumstances.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2304.443" stopTime="2305.476">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2304.443" offset="9387460">What--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2305.476" stopTime="2306.895">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2305.476" offset="9391639">Then why isn't it in your case?</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2306.895" stopTime="2310.614">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2306.895" offset="9397282">--I'm sorry.</text>
+            <text syncTime="2307.795" offset="9400939">No.</text>
+            <text syncTime="2308.295" offset="9402924">I didn't mean to interrupt you.</text>
+            <text syncTime="2310.014" offset="9409821">It's your--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2310.614" stopTime="2314.782">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2310.614" offset="9412224">Why doesn't it mean that?</text>
+            <text syncTime="2313.049" offset="9421941">Why isn't it in your case equally?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2314.782" stopTime="2318.702">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2314.782" offset="9428838">Because the courts below specifically analyzed whether there was--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2318.702" stopTime="2321.654">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2318.702" offset="9444511">You mean that they just got it all wrong?</text>
+            <text syncTime="2319.935" offset="9449527">You mean it should be that they got it wrong?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2321.654" stopTime="2333.462">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2321.654" offset="9456319">--No, no.</text>
+            <text syncTime="2322.471" offset="9459662">They got it right because there was very specific and explicit notice provided to the purchaser at the time of the purchase that, while this clearly gives you the right to use this particular product, what it doesn't give you the right--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2333.462" stopTime="2354.043">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2333.462" offset="9503548">Oh, so if I go in the bicycle shop, I go in the bicycle shop and I buy the pedals and then they give me, you know, one of these pieces of paper that has all of the 42,000 words on it and there in these 42,000 words it says, and now you are put on notice that once you put it in your bicycle and you pedal away, they're going to get you and you're going to be hauled into Patent Court, then... then that's okay?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2354.043" stopTime="2376.789">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2354.043" offset="9585886">--Well, Justice Breyer, we can quarrel about sort of the nature of the notice and what notice is adequate to do that, but the basic point here, which I think is indisputable, is that, one, the notice here is quite clear.</text>
+            <text syncTime="2365.148" offset="9630294">It's one page.</text>
+            <text syncTime="2365.866" offset="9633220">It's very specific.</text>
+            <text syncTime="2367.250" offset="9638758">These are very sophisticated parties and they understood that they were not obtaining an implied license by purchasing the chips rather than going out and purchasing the systems.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2376.789" stopTime="2382.443">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2376.789" offset="9676897">--Okay.</text>
+            <text syncTime="2377.158" offset="9678359">But assuming a simple notice, the answer to his bicycle hypo is yes, they can chase me down the road.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2382.443" stopTime="2409.293">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2382.443" offset="9699466">Oh, to be sure.</text>
+            <text syncTime="2383.645" offset="9704273">If I have separate patent on the bicycle, I'm entitled to stop people from using that particular bicycle.</text>
+            <text syncTime="2389.466" offset="9727574">Now, generally speaking, to be sure, you don't go after the consumers because most people who are in the business of manufacturing don't develop a really good following by suing their ultimate consumers.</text>
+            <text syncTime="2399.504" offset="9767803">So what you do is you find the people who are in the middle, the middle spot, who are actually doing the manufacturing and who are in fact violating the patent, and that's who you go after.</text>
+            <text syncTime="2408.343" offset="9803120">And in this context--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2409.293" stopTime="2409.879">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2409.293" offset="9806882">That's other--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2409.879" stopTime="2411.429">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2409.879" offset="9809285">--Precisely... I'm sorry.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2411.429" stopTime="2422.853">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2411.429" offset="9815450">--Is the reason that there's no implied license here, one, because you got the notice, or two, because the component has uses in other kinds of methods than the patented method?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2422.853" stopTime="2426.739">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2422.853" offset="9861112">I think the better answer is one, because they had clear notice.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2426.739" stopTime="2428.591">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2426.739" offset="9876681">You think the notice on that to defeat the implied--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2428.591" stopTime="2436.045">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2428.591" offset="9884100">Right.</text>
+            <text syncTime="2429.157" offset="9886399">I think there is an argument as to whether there might be non-infringing uses.</text>
+            <text syncTime="2432.043" offset="9897892">We disagree about that.</text>
+            <text syncTime="2433.745" offset="9904684">But I think the better argument is one.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2436.045" stopTime="2440.347">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2436.045" offset="9913879">--The court below did not rely on the fact that there might be non-infringing uses, did it?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2440.347" stopTime="2442.446">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2440.347" offset="9931120">No.</text>
+            <text syncTime="2441.030" offset="9933837">The court below did not rely on that.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2442.446" stopTime="2443.163">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2442.446" offset="9939479">It relied on the notice.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2443.163" stopTime="2448.184">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2443.163" offset="9942405">Right, right.</text>
+            <text syncTime="2444.898" offset="9949301">Well, I mean, the court of appeals had a much... it was a much easier case, frankly--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2448.184" stopTime="2463.359">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2448.184" offset="9962467">It seems to be kind of an unusual answer to the implied license argument, because normally it doesn't depend on what the patentee decides to say somewhere down... down the line.</text>
+            <text syncTime="2457.706" offset="10000606">That's kind of an unusual reason for not finding an implied license, I think.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2463.359" stopTime="2488.344">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2463.359" offset="10023176">--Well, I mean I think the district court just said, look, that... you know, ordinarily you would say, if you're buying something with the understanding that you're going to... that its primary or maybe exclusive use will be in a particular way, that that would be a reasonable implied... you could imply a license by those facts alone.</text>
+            <text syncTime="2481.588" offset="10096110">Then the question is whether or not that implication has in some sense been clearly overridden by the conduct of the parties under the circumstances.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2488.344" stopTime="2505.203">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2488.344" offset="10123068">But it's subsequent conduct.</text>
+            <text syncTime="2489.677" offset="10128397">If the implied license occurred, it didn't occur at the time of the sale; and it couldn't be... it couldn't be negated at the time of the sale.</text>
+            <text syncTime="2499.217" offset="10166640">If it occurred, it occurred at the time of the license, right, from the patentee of the patent at stake.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2505.203" stopTime="2506.972">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2505.203" offset="10190568">Right.</text>
+            <text syncTime="2505.686" offset="10192449">And once he received... and once the--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2506.972" stopTime="2515.244">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2506.972" offset="10197674">And there was no such notice there.</text>
+            <text syncTime="2508.688" offset="10204466">There was no such statement there that this does not... you don't have the right to sell this for its normal uses?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2515.244" stopTime="2517.128">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2515.244" offset="10230692">--No, but every... every sale after--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2517.128" stopTime="2520.815">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2517.128" offset="10238216">Yeah, but the horse is out of the barn.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2520.815" stopTime="2522.498">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2520.815" offset="10252949">--No, no, but that just means that the patent--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2522.498" stopTime="2532.271">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2522.498" offset="10259741">That... I mean if both parties... if both parties agree to that notice, I guess that would be something else.</text>
+            <text syncTime="2530.254" offset="10290774">Did both parties agree to that notice?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2532.271" stopTime="2533.956">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2532.271" offset="10298820">--Well, you mean both Intel and--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2533.956" stopTime="2534.590">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2533.956" offset="10305612">Yes.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2534.590" stopTime="2550.834">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2534.590" offset="10308119">--Oh, yes.</text>
+            <text syncTime="2535.256" offset="10310732">Both Intel and... and Quanta clearly agreed... I mean, both Intel and and LG clearly agreed to that, if that's what you're asking about.</text>
+            <text syncTime="2544.930" offset="10349497">But the... but the point here is that the notice was prior to the sale.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2550.834" stopTime="2561.457">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2550.834" offset="10373112">Yes, but that... that doesn't matter to me.</text>
+            <text syncTime="2553.636" offset="10384292">What matters to me is whether it was prior to the license.</text>
+            <text syncTime="2556.905" offset="10397354">If there was an implied license here, it occurred at the time that the--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2561.457" stopTime="2562.892">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2561.457" offset="10415535">Of the sale.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2562.892" stopTime="2565.344">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2562.892" offset="10421282">--No.</text>
+            <text syncTime="2564.342" offset="10427133">No.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2565.344" stopTime="2573.331">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2565.344" offset="10431104">Well, when else... an implied license clearly can't extend to the ultimate purchaser until the ultimate purchaser gives something.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2573.331" stopTime="2589.459">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2573.331" offset="10463078">You give the licensee... you implicitly give the licensee the right to permit the people to whom he sells the product to use the license.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2589.459" stopTime="2590.042">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2589.459" offset="10527548">Right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2590.042" stopTime="2591.578">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2590.042" offset="10529951">But it's given to the licensee surely.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2591.578" stopTime="2596.530">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2591.578" offset="10536012">But we clearly didn't do that.</text>
+            <text syncTime="2592.744" offset="10540714">That... I mean that... the two court rulings clearly resolved that.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2596.530" stopTime="2601.100">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2596.530" offset="10555865">Unless it's implicit, unless it's implicit when you sell a... a bicycle pedal that can only be used in bicycles.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2601.100" stopTime="2606.921">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2601.100" offset="10574150">Right.</text>
+            <text syncTime="2601.734" offset="10576658">But if I say at the time,</text>
+            <text syncTime="2602.834" offset="10581047">"but you cannot use it in a bicycle because it has a separate patent, and therefore-- "</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2606.921" stopTime="2607.604">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2606.921" offset="10597452">Did you say that?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2607.604" stopTime="2609.456">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2607.604" offset="10600168">--Yes, that's exactly what the notice says.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2609.456" stopTime="2610.890">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2609.456" offset="10607587">That's what the notice says.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2610.890" stopTime="2615.460">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2610.890" offset="10613334">That's the notice.</text>
+            <text syncTime="2611.606" offset="10616155">That's later.</text>
+            <text syncTime="2612.242" offset="10618663">That's downstream.</text>
+            <text syncTime="2613.058" offset="10622007">That's after the license.</text>
+            <text syncTime="2614.308" offset="10626918">That's at the time of the sale.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2615.460" stopTime="2660.389">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2615.460" offset="10631620">But that goes to clear... I mean, but that goes to the clear understanding... I mean the question is... if the question is did Intel have the right to sell the system as a system, the answer is yes.</text>
+            <text syncTime="2630.703" offset="10692537">It was licensed to do that.</text>
+            <text syncTime="2632.586" offset="10700061">But it didn't sell the system as a system.</text>
+            <text syncTime="2635.571" offset="10711972">It sold the components of the system.</text>
+            <text syncTime="2637.440" offset="10719496">And then the question is, does it have as a consequence of that some kind of an implied license to do this?</text>
+            <text syncTime="2644.011" offset="10745827">And the courts below both specifically held no.</text>
+            <text syncTime="2646.979" offset="10757635">And I think the other thing about this, Justice Scalia, is that this was not an issue in this case.</text>
+            <text syncTime="2650.783" offset="10772890">Both courts below held that that's not the question presented.</text>
+            <text syncTime="2653.569" offset="10783966">In order for the Petitioner in this case to prevail, they have to demonstrate that this is an exhaustion concept.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2660.389" stopTime="2661.706">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2660.389" offset="10811342">Yes, because they're saying--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2661.706" stopTime="2662.841">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2661.706" offset="10816567">That's the question presented in the petition.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2662.841" stopTime="2732.985">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2662.841" offset="10821060">--They're saying the reason they have done so is that the following distinction is significant.</text>
+            <text syncTime="2667.976" offset="10841644">There's a distinction between a license that says you can't sell this unless certain conditions are satisfied and, on the other hand, a license that says you can sell this, but if you sell it to a buyer who is described by conditions A and B, you've got to tell the buyer that we're going to make a claim against A and B.</text>
+            <text syncTime="2694.794" offset="10948955">And the ones... in the first example, there is a limit to the right to sell.</text>
+            <text syncTime="2701.633" offset="10976227">In the second example, there is no limit on the right to sell, but there's a warning about what we're going to do if you do sell under certain conditions.</text>
+            <text syncTime="2711.088" offset="11014052">And I think they're saying that unless you have a contract of the former sort which limits your right to sell, then when you do sell, exhaustion applies and whatever you may do against the ultimate buyer is... is a contract problem or what-not, but it's not... it's not a matter of patent.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2732.985" stopTime="2734.021">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2732.985" offset="11101719">Right, and the problem--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2734.021" stopTime="2740.925">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2734.021" offset="11105795">Number one, do you think I am being correct in characterizing, describing the distinction they make?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2740.925" stopTime="2741.708">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2740.925" offset="11133484">--I think so.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2741.708" stopTime="2745.579">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2741.708" offset="11136619">And B, if I am, why isn't that distinction an answer to your argument?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2745.579" stopTime="2785.120">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2745.579" offset="11152084">Because, because it ignores the fact that there are separate patents involved in this case.</text>
+            <text syncTime="2750.946" offset="11173504">There is no question that... there is an issue.</text>
+            <text syncTime="2754.684" offset="11188446">I mean I don't think there's a question that... you know, as to how far you can go down the road in trying to condition a particular sale.</text>
+            <text syncTime="2761.004" offset="11213732">I thought this Court may have resolved this already.</text>
+            <text syncTime="2762.988" offset="11221674">Mallinckrodt leaves that issue open, but that's not... that's not the question.</text>
+            <text syncTime="2766.992" offset="11237661">The issue here is if I sell to you, Justice Souter, a particular chip, whether I condition it or not, I think that's... to me that's unenforceable.</text>
+            <text syncTime="2777.781" offset="11280815">But the question is, can you then take that chip and use it to violate a separate patent?</text>
+            <text syncTime="2782.502" offset="11299728">And the reason you know that it's not exhaustion--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2785.120" stopTime="2794.841">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2785.120" offset="11310177">No.</text>
+            <text syncTime="2785.620" offset="11312266">I understand where you're going.</text>
+            <text syncTime="2787.087" offset="11318118">So then what you're saying, I guess, is that the real issue does not involve this distinction between a--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2794.841" stopTime="2795.657">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2794.841" offset="11349151">--Right.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2795.657" stopTime="2797.673">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2795.657" offset="11352390">--a limited right and a right--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2797.673" stopTime="2798.273">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2797.673" offset="11360436">Exactly.</text>
+            <text syncTime="2798.006" offset="11361795">later.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2798.273" stopTime="2798.939">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2798.273" offset="11362839">--to go after people--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2798.939" stopTime="2799.956">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2798.939" offset="11365452">That's not the issue in this case.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2799.956" stopTime="2818.684">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2799.956" offset="11369527">--What it... what it involves is the statement that they make that if you license the manufacture, use, and sale of a particular component and that particular component has only one reasonable use--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2818.684" stopTime="2819.268">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2818.684" offset="11444446">Right.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2819.268" stopTime="2839.664">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2819.268" offset="11446849">--then you have necessarily licensed them to sell with that ultimate use in mind, and when you do... when you license them to sell, the patent-exhaustion doctrine attaches to any patent right that you may have, whether you call it system--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2839.664" stopTime="2839.981">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2839.664" offset="11528351">Right.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2839.981" stopTime="2841.283">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2839.981" offset="11529710">--or whether you call it component.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2841.283" stopTime="2841.933">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2841.283" offset="11534830">Right.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2841.933" stopTime="2850.805">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2841.933" offset="11537442">And you are saying that argument is no good because that, in fact, is an implied license argument, and there were findings that there was no implied license.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2850.805" stopTime="2851.505">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2850.805" offset="11572968">That's--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2851.505" stopTime="2852.088">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2851.505" offset="11575790">So I understand your position.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2852.088" stopTime="2853.171">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2852.088" offset="11578088">--That is correct, Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2853.171" stopTime="2853.488">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2853.171" offset="11582372">Okay.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2853.488" stopTime="2854.238">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2853.488" offset="11583731">And let me further--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2854.238" stopTime="2947.132">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2854.238" offset="11586657">Then explain... now this you might know because it's just following up on what Justice Souter said better than I did.</text>
+            <text syncTime="2860.009" offset="11609749">I think from these briefs I've gotten the impression that at least some people think that where you invent a component, say, like the bicycle pedals, and it really has only one use, which is to go into a bicycle, it's the easiest thing in the world to get a patent not just on that component but to also get a patent on the system, which is called handlebars, body, and pedals.</text>
+            <text syncTime="2888.678" offset="11724479">And since that's just a drafting question, all that we would do by finding in your favor is to destroy the exhaustion doctrine, because all that would happen, if it hasn't happened already, is these brilliant patent lawyers, and they don't even... they can be great patent lawyers, not just fine lawyers, and just draft it the way I said and that's the end of the exhaustion doctrine.</text>
+            <text syncTime="2914.745" offset="11828759">And that's why it is preferable to say it is exhausted.</text>
+            <text syncTime="2919.982" offset="11849657">What is exhausted?</text>
+            <text syncTime="2921.099" offset="11854150">One, the patent on this component and, two, the patent on any system involving this component where that system is the only reasonable use of the component, rather than using the terminology "implied license".</text>
+            <text syncTime="2941.313" offset="11935026">Now, I think that's an argument that's being made in some of these briefs, and if so I'd like to you reply.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2947.132" stopTime="2983.890">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2947.132" offset="11958222">--Well, I think that clearly understates the role of the PTO in granting a separate patent.</text>
+            <text syncTime="2952.120" offset="11978180">I mean, this is not... these are not things you pick up at the corner drugstore.</text>
+            <text syncTime="2956.322" offset="11995003">You have to justify them.</text>
+            <text syncTime="2957.538" offset="11999914">And if you look at Section 282,</text>
+            <text syncTime="2959.190" offset="12006497">"a patent shall be presumed valid. "</text>
+            <text syncTime="2961.492" offset="12015692">each claim shall be presumed valid independently of the validity of other claims.</text>
+            <text syncTime="2965.594" offset="12032097">And there's an independence that's embedded in this entire scheme.</text>
+            <text syncTime="2968.796" offset="12044949">If it's true that the PTO has in fact granted patent rights on something that's fundamentally not different from the other... from some other patent, the solution to that is a validity challenge.</text>
+            <text syncTime="2980.688" offset="12092492">And candidly, I think that's exactly what all of those arguments are--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2983.890" stopTime="2984.341">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2983.890" offset="12105344">Well, then--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2984.341" stopTime="2985.607">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2984.341" offset="12107120">--is patent validity challenges.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2985.607" stopTime="2998.749">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2985.607" offset="12112136">--That argument didn't prevail last year in the KSR case, right?</text>
+            <text syncTime="2990.745" offset="12132720">I mean, we're... we've had experience with the Patent Office where it tends to grant patents a lot more liberally than we would enforce under the patent law.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="2998.749" stopTime="3031.536">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="2998.749" offset="12164694">Right, but all... I'm not... I'm not particularly criticizing the PTO.</text>
+            <text syncTime="3003.553" offset="12183920">What I'm saying is that the statutory scheme presumes that there is a separateness when a patent is issued and, therefore... and which is why... again, the first... there's no reason to go to an expansion of the first-sale doctrine in order to deal with the kinds of problems you have here because in general... in general you can deal with it as a matter of implied license, but that issue has been resolved adverse to the other side in this case, and there's no reason to sort of fill in that void.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3031.536" stopTime="3037.440">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3031.536" offset="12295829">Mr. Phillips, when you say that was resolved adversely, you say there was a finding of no implied license.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3037.440" stopTime="3038.024">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3037.440" offset="12319548">That's correct.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3038.024" stopTime="3047.296">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3038.024" offset="12321847">Was that a finding of no implied license from LGE to Intel or no implied license from Intel to the buyers?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3047.296" stopTime="3049.498">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3047.296" offset="12358941">From Intel to the buyers.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3049.498" stopTime="3051.498">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3049.498" offset="12367718">Mr. Phillips--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3051.498" stopTime="3053.764">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3051.498" offset="12375764">Is that the crucial... is that the crucial step?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3053.764" stopTime="3056.866">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3053.764" offset="12384750">Yes.</text>
+            <text syncTime="3054.198" offset="12386526">That's... that's the critical component of this case.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3056.866" stopTime="3057.383">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3056.866" offset="12397184">If that--</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3057.383" stopTime="3059.216">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3057.383" offset="12399274">The buyer would have to assert exhaustion.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3059.216" stopTime="3067.072">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3059.216" offset="12406588">--If that was an implied license from LGE to Intel, then Intel would have authority to sell... to sell these things for their... for their use.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3067.072" stopTime="3094.187">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3067.072" offset="12438039">To be sure, Intel has the authority to sell these things, and it has the authority to sell... it depends on what the things are.</text>
+            <text syncTime="3074.309" offset="12466983">It has the authority to sell the chips.</text>
+            <text syncTime="3076.225" offset="12474611">It has the authority to sell the systems, but what it doesn't have the authority to do is to allow somebody downstream to take the chips and put them into the separately patented systems, and the... and the people downstream know that they don't have that entitlement.</text>
+            <text syncTime="3090.319" offset="12531035">Justice Souter, to me the patent-exhaustion doctrine is--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3094.187" stopTime="3119.338">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3094.187" offset="12546500">I think the exhaustion, if Intel got... if Intel got... I'm sorry.</text>
+            <text syncTime="3098.757" offset="12564786">Yes, if Intel got an implied license to the system from LGE when it sold those products, it seems to me the exhaustion doctrine would take hold and would... would apply to that implied license just as it applied to the... to the license of the chips.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3119.338" stopTime="3167.985">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3119.338" offset="12647124">--I think the answer to that is it shouldn't, that the exhaustion doctrine should be retained as a first-sale doctrine alone.</text>
+            <text syncTime="3127.075" offset="12678052">That's the way it's always been understood for 150 years.</text>
+            <text syncTime="3130.194" offset="12690487">And to expand it this way is to undermine the rights of... in the separate patents.</text>
+            <text syncTime="3135.348" offset="12711176">And now I'll try to make the point I wanted to make to Justice Souter.</text>
+            <text syncTime="3138.549" offset="12723924">Read the reply brief: A sale authorized by one patentee does not exhaust patents held by a different patentee.</text>
+            <text syncTime="3145.238" offset="12750673">So we wouldn't even be in this case if it turned out that we didn't just... we didn't happen to have all of these rights in the first place.</text>
+            <text syncTime="3153.059" offset="12782020">I mean, if they bought the chips and if Wang had held on to some portion of the system patent in this case, there is no question that Wang would have the full opportunity... that sale didn't exhaust their rights in that patent.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3167.985" stopTime="3192.266">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3167.985" offset="12841684">--And the way you achieve that result is to condition the sale.</text>
+            <text syncTime="3173.139" offset="12862268">What you're trying to do is expand what you get under a condition to what you get under a notice.</text>
+            <text syncTime="3178.292" offset="12882852">And the reason that troubles me is because if you had imposed a condition on the sale, Intel wouldn't have paid you as much for it.</text>
+            <text syncTime="3184.946" offset="12909497">But you say, all right, we'll take the money because... additional money because there's no condition, but we want to achieve the same result because of the notice.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3192.266" stopTime="3224.654">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3192.266" offset="12938755">I mean there can't... there's no serious basis for doubting what Intel knew precisely what it was getting in this.</text>
+            <text syncTime="3197.187" offset="12958503">It was getting peace on both sides of the aisle in terms of litigation, and it knew that there were separate patents here and that when it sold the chips it would certainly be entitled to assume that there would be exhaustion.</text>
+            <text syncTime="3209.828" offset="13009076">That's the provision you read.</text>
+            <text syncTime="3210.930" offset="13013465">But when it sells the chips, it didn't know and it specifically gave notice that it recognized that that doesn't remotely say what the right answer is with respect to the systems and with respect to the methods.</text>
+            <text syncTime="3222.202" offset="13058500">And that to me, Mr. Chief Justice, is the fundamental distinction.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3224.654" stopTime="3231.427">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3224.654" offset="13068322">Well, they're happy with that because the notice says you can't... you can only use this with Intel products.</text>
+            <text syncTime="3228.725" offset="13084622">So they're happy with that solution as well.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3231.427" stopTime="3275.956">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3231.427" offset="13095489">Well, that's part of the reason why it was negotiated in that way.</text>
+            <text syncTime="3234.193" offset="13106461">But I mean that is... so far as I know, there is no particular issue by reference to that particular limitation.</text>
+            <text syncTime="3240.366" offset="13131225">The reality is if we entered into the same agreement with AMD, which is one of the other chipmakers, I am sure they would ask for the same restriction on it: That you could only do it with AMD products, as well.</text>
+            <text syncTime="3250.822" offset="13173021">I mean that doesn't have anything to do with the nature of the underlying problem that we are confronting in this particular context.</text>
+            <text syncTime="3256.459" offset="13195590">It seems to me the fundamental issue here is they have a limited right when they purchase that product.</text>
+            <text syncTime="3262.462" offset="13219623">They didn't get the right to make other products.</text>
+            <text syncTime="3264.981" offset="13229654">They didn't get the right to breach or infringe a completely separate patent.</text>
+            <text syncTime="3269.600" offset="13248149">And that is the basis on which the judgment of the Court of Appeals, which is all that is before the Court, should be affirmed.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3275.956" stopTime="3280.658">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3275.956" offset="13273540">Before you sit down, to what extent do you think the Court of Appeals has already adopted your theory of the case?</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3280.658" stopTime="3300.301">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3280.658" offset="13292348">Well, I mean they recognized specifically that these are completely separate.</text>
+            <text syncTime="3286.228" offset="13314604">That the claims that are at issue here are different from the amounts that were... from the products that were, in fact, purchased.</text>
+            <text syncTime="3292.382" offset="13339264">So the elements, the constituent elements, they have clearly embraced.</text>
+            <text syncTime="3297.584" offset="13360057">The conclusion, they have clearly not embraced.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3300.301" stopTime="3304.772">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3300.301" offset="13370924">They did not get your theory of the case out of my reading of their opinion.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3304.772" stopTime="3305.739">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3304.772" offset="13388792">Well, my--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3305.739" stopTime="3318.247">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3305.739" offset="13392658">Isn't the difference between "conditional sale" and "limited sale"... you are saying they used the word "conditional".</text>
+            <text syncTime="3311.093" offset="13414079">You are saying it was a "limited sale" that only... a "limited license".</text>
+            <text syncTime="3314.545" offset="13427871">It only licensed Patents A and B and not Patents C and D.</text>
+          </turn>
+          <turn speaker="carter_g_phillips" startTime="3318.247" stopTime="3361.840">
+            <label>Mr. Carter G. Phillips</label>
+            <text syncTime="3318.247" offset="13442709">--Well, what I was actually saying is that if you read the language in 4a and 5a where it says: The patents asserted by LGE do not cover the products licensed to, or sold by, Intel.</text>
+            <text syncTime="3327.353" offset="13479176">They have to be combined with additional components.</text>
+            <text syncTime="3329.738" offset="13488684">And then in 5a they say: Notably, the sale involved a component of the inserted, patented invention, not the entire patented system.</text>
+            <text syncTime="3335.975" offset="13513657">So they recognize, to my mind, what are the predicate factual bases from which I say the "exhaustion doctrine" shouldn't have been... shouldn't have been triggered.</text>
+            <text syncTime="3345.097" offset="13550124">But, to be sure, they... they... it was a much easier task for them because they... as far as they are concerned, all kinds of conditions are permissible.</text>
+            <text syncTime="3353.234" offset="13582621">And we don't need that in order to win this case.</text>
+            <text syncTime="3355.769" offset="13592861">I'm not asking the Court to embrace that particular approach.</text>
+            <text syncTime="3358.471" offset="13603623">If there are no other questions, I would ask you to affirm the decision.</text>
+          </turn>
+        </section>
+        <section startTime="3361.840" stopTime="3593.502">
+          <heading>Rebuttal of Maureen E. Mahoney</heading>
+          <turn speaker="john_g_roberts_jr" startTime="3361.840" stopTime="3365.411">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3361.840" offset="13617102">Thank you, Mr. Phillips.</text>
+            <text syncTime="3362.975" offset="13621595">Ms. Mahoney, you have four minutes remaining.</text>
+          </turn>
+          <turn speaker="maureen_e_mahoney" startTime="3365.411" stopTime="3591.352">
+            <label>Ms. Maureen E. Mahoney</label>
+            <text syncTime="3365.411" offset="13631417">I'd like to start by emphasizing what counsel did not say.</text>
+            <text syncTime="3370.696" offset="13652524">He never said that Intel lacked the authority under the system and method patents to sell these components.</text>
+            <text syncTime="3379.433" offset="13687424">He never said that.</text>
+            <text syncTime="3380.702" offset="13692544">In fact, he said that Intel was released.</text>
+            <text syncTime="3383.504" offset="13703724">Why were they released?</text>
+            <text syncTime="3384.454" offset="13707590">This would have been contributory infringement, otherwise.</text>
+            <text syncTime="3386.888" offset="13717308">The reason they were released was because they had the authority under this license to sell these components under the system patent.</text>
+            <text syncTime="3395.811" offset="13752939">And that's what the Federal Circuit acknowledged, and that's what the district court recognized, and it's never been in dispute.</text>
+            <text syncTime="3400.898" offset="13773315">Their position is simply that, despite that, despite express authority to sell these under that patent... not just under some other patent, under the patents at issue here... that they can enforce conditions on post-sale use.</text>
+            <text syncTime="3415.891" offset="13833292">And that's what this Court has never allowed.</text>
+            <text syncTime="3418.343" offset="13843114">Univis is on all fours.</text>
+            <text syncTime="3420.609" offset="13852204">They say, well, that just involved a single patent.</text>
+            <text syncTime="3423.645" offset="13864325">Well, as far as this case is concerned, it just involves a single patent, too.</text>
+            <text syncTime="3427.449" offset="13879581">The whole issue here is whether or not Quanta's taking of the components and combining them with some generic things like wires and memory necessarily infringed under LGE's allegations.</text>
+            <text syncTime="3442.708" offset="13940603">And the district court found that they would, and that's not in dispute.</text>
+            <text syncTime="3446.243" offset="13954709">And what that means is that, just as in Univis where you had... the court finds there were really two products there.</text>
+            <text syncTime="3452.480" offset="13979682">It finds there were two different commodities, the lens blank and the finished lens.</text>
+            <text syncTime="3458.301" offset="14002983">It says under Miller, the Miller/Tydings Act, these are two different commodities, and the patent was only on the finished lens.</text>
+            <text syncTime="3466.205" offset="14034539">But, in order to make that finished lens, you had to... you had to make a lens blank that would embody many of the limitations of the claim.</text>
+            <text syncTime="3475.561" offset="14071946">That's exactly what the district court found happened here.</text>
+            <text syncTime="3478.798" offset="14084903">For this, when Intel manufactured these chips, the microprocessors and the chipsets, it manufactured them in a way that embodied many of the limitations of the system and method patents that are at issue here.</text>
+            <text syncTime="3496.592" offset="14156061">So, as in the language of Univis, there they said, well, we are dealing with a product that is being manufactured in multiple stages.</text>
+            <text syncTime="3506.448" offset="14195558">And during that first stage, while it's true it wasn't... it didn't directly infringe because the lens blank wasn't the patented product, they, nevertheless, practiced the patent in part.</text>
+            <text syncTime="3519.506" offset="14247803">Why?</text>
+            <text syncTime="3520.124" offset="14250206">Because they... they... some of the... while manufacturing it, they have met some of the limitations of the claim.</text>
+            <text syncTime="3526.111" offset="14274134">And they said when that lens blank was sold, that it exhausted the rights of the patent owner to enforce any conditions, any type of conditions on use or resale after that sale.</text>
+            <text syncTime="3539.253" offset="14326797">And it didn't have to rely on implied license because of the exhaustion doctrine.</text>
+            <text syncTime="3544.407" offset="14347381">Once there is an authorized sale of a product that is protected by the patent that covered that final finished product, exhaustion is triggered.</text>
+            <text syncTime="3553.846" offset="14385102">That's exactly what we have here.</text>
+            <text syncTime="3555.429" offset="14391476">And they said, oh, but you could disclaim that with an agreement.</text>
+            <text syncTime="3557.714" offset="14400567">Well, in Univis there was an agreement.</text>
+            <text syncTime="3560.166" offset="14410389">The purchaser of that lens blank specifically agreed by contract that it would only use it in certain ways and only charge certain prices.</text>
+            <text syncTime="3568.606" offset="14444139">So they expressly disclaimed, you know, the idea that they were... that they couldn't use it in those ways.</text>
+            <text syncTime="3577.009" offset="14477785">And, nevertheless, this Court found exhaustion.</text>
+            <text syncTime="3579.894" offset="14489279">When the district court found no "implied license", all the court was saying was, well, under the Federal Circuit precedent "implied license" is an "equitable doctrine".</text>
+            <text syncTime="3588.833" offset="14525119">I see my time is finished.</text>
+            <text syncTime="3590.852" offset="14533164">Thank you.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3591.352" stopTime="3593.502">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3591.352" offset="14535150">Thank you, Ms. Mahoney.</text>
+            <text syncTime="3592.185" offset="14538493">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

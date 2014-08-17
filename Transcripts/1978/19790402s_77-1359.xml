@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="548467">/xml/cases/1978/77_1359/19790402o_77-1359.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1978/trs/77-1359op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="137.044">
+        <title>United States v. Kimbell Foods, Inc.</title>
+        <section startTime="0.000" stopTime="137.044" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Thurgood Marshall</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="11.484">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">Mr. Justice Marshall will announce the judgment and opinion of the Court in United States against Kimbell Foods and the consolidated case, United States against Crittenden.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="11.484" stopTime="134.174">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="11.484" offset="45871">This case is here on certiorari to the United States Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="18.014" offset="71993">At issue here is whether state or federal law should be used to establish a relative priority of private items, private liens and federal contractual liens.</text>
+            <text syncTime="32.072" offset="128209">The federal liens arise from lending activities of the small business administration and the farmers' own administration.</text>
+            <text syncTime="41.786" offset="167079">These loan programs are authorized by a statute that do not, in any ways, specify priority rules to govern such liens.</text>
+            <text syncTime="51.816" offset="207203">The Court of Appeals rejected the Government's argument that the rules developed by this Court for determining the priority of federal tax liens should also apply when the United States acts as a commercial lender.</text>
+            <text syncTime="66.701" offset="266762">Instead, it fashioned a special federal rule based largely on the model, Uniform Commercial Code.</text>
+            <text syncTime="76.043" offset="304170">In an opinion filed today, we hold that choice of law for assessing the priority of these competing liens is federal.</text>
+            <text syncTime="84.989" offset="339905">However, a national rule is unnecessary in order to protect federal interest underlying the loan programs.</text>
+            <text syncTime="93.886" offset="375536">Accordingly, we adopt the state commercial law as the appropriate federal rule of decision, leaving Congress free to establish uniform priority rules through legislation.</text>
+            <text syncTime="108.092" offset="432274">Because the Court of Appeals in Number 1359 found that the Texas law gave the private lien preference over the federal lien, we affirm that judgment.</text>
+            <text syncTime="119.916" offset="479608">We remand 16044 for the Court to determine whether the private or federal lien involved in that case is superior under Georgia law.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="134.174" stopTime="137.044">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="134.174" offset="536660">Thank you, Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

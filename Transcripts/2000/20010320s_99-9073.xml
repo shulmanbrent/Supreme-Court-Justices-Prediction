@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:08:20" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="533438">/xml/cases/2000/99_9073/20010320o_99-9073.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2000/trs/99-9073_20010320-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="110.184">
+        <title>Buford v. United States</title>
+        <section startTime="0.000" stopTime="110.184">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.338">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="92700">The opinion of the Court in No. 99-9073, Buford against United States will be announced by the Justice Breyer.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="8.338" stopTime="110.184">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="8.338" offset="126032">This case raises a narrow question of federal sentencing law, a very narrow.</text>
+            <text syncTime="14.607" offset="151110">Imagine under the sentencing guidelines a trial court is supposed to determine whether an offender’s prior convictions were or were not consolidated, and if they were consolidated then they are related and if they are related they count as a single conviction, so, his sentence does not go up as much as if they were not consolidated.</text>
+            <text syncTime="38.280" offset="245778">Imagine the trial judge makes that determination and then the question before us is what standard of review should a Court of Appeals apply when it reviews that determination?</text>
+            <text syncTime="50.735" offset="295619">The relevant statute tells the Appeals Court to give due deference to the Trial Court’s decision.</text>
+            <text syncTime="58.193" offset="325399">The offender here wants de novo review and so the offender argues that the deference that is due is no deference at all.</text>
+            <text syncTime="67.915" offset="364269">The Court of Appeals rejected the offenders claim.</text>
+            <text syncTime="71.442" offset="378375">It thought that it should review the Trial Court’s determination deferentially and we conclude that the Court of Appeals was right.</text>
+            <text syncTime="79.958" offset="412439">Our reasons rest primarily upon the fact that the Trial Court is normally in a better position to determine, whether or not two earlier convictions had been consolidated.</text>
+            <text syncTime="94.739" offset="471580">The Trial Court is in a better position to make that determination than is the Court of Appeals.</text>
+            <text syncTime="99.900" offset="492269">Hence, we think that deference is called for.</text>
+            <text syncTime="103.149" offset="505226">We explain all this further along with certain other related matters in our opinion.</text>
+            <text syncTime="107.804" offset="523825">The decision is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

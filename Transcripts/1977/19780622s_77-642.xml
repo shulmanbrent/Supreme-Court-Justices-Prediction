@@ -1,0 +1,80 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="2600270">/xml/cases/1977/77_642/19780622o_77-642.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1977/trs/77-642op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="630.047">
+        <title>Parker v. Flook</title>
+        <section startTime="0.000" stopTime="467.258" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice John Paul Stevens</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="12.141">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="79976">The judgment and opinion of the Court in Parker, the Acting Commissioner of Patents and Trademarks against Flook will be announced by Mr. Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="12.141" stopTime="465.404">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="12.141" offset="128459">Because of the novelty and importance of this case, I would take a few minutes to explain it.</text>
+            <text syncTime="18.386" offset="153432">It is a patent case, which comes here by somewhat unusual procedure.</text>
+            <text syncTime="24.065" offset="176211">The patent examiner denied an application for a patent and was sustained by the Board of Review that on appeal to the Court of Customs and Patent Appeals that court held that the patent application should have been granted.</text>
+            <text syncTime="38.277" offset="233054">The Acting Commissioner of Patents then petitioned for certiorari to this Court and represented that the ruling in this case might affect the patent ability of thousands of other patent applications that concern computer software, an area in which the Court has had a little to say before this case and we granted certiorari based on the representations of the Acting Commissioner of Patents.</text>
+            <text syncTime="63.004" offset="331901">The patent is one, on a method for updating an alarm limit.</text>
+            <text syncTime="68.881" offset="355411">An alarm limit is a number and I might explain it this way.</text>
+            <text syncTime="73.851" offset="375369">In the petrochemical industry, in the oil refining industry, there are some catalytic conversion processes that are carried on at high temperatures and under great pressures, and cause both danger and loss of efficiency if there is a significant deviation from the norm.</text>
+            <text syncTime="95.946" offset="463663">For example, you might expect you have a temperature of 400 degrees and the safety margin of say 50 degrees and if the temperature get above 450 degrees, there might be some need to change the process.</text>
+            <text syncTime="110.264" offset="521027">If that should happen, the 450 degree figure would be the alarm limit and when the alarm limit would be reached for that pressure or that temperature, say, then an alarm would go off and the operator would make some change in the functioning of the system and in some of these systems, they don't have a constant alarm limit, but rather there are changes in the processes so it's periodically important to change the alarm limit.</text>
+            <text syncTime="136.755" offset="626980">As doing a start up of an operation, for example, the temperatures may gradually increase and the necessity for triggering the alarm will change as the pressures go up.</text>
+            <text syncTime="148.290" offset="673060">The patent application covers a procedure for updating the alarm limit during these changes in processes of -- in these particular industries.</text>
+            <text syncTime="160.249" offset="720916">And the patent covers basically a series of steps for computing a new number.</text>
+            <text syncTime="167.009" offset="747979">It requires a monitoring of the process variable, the temperature, the pressure, the flow of material, the catalytic bit, whatever it might be, it's monitored constantly and periodically there is a change made in the alarm limit.</text>
+            <text syncTime="182.601" offset="810360">The change is made by taking the preceding normal operating temperature which is called the alarm base, in the most recent measurement of the process variable that is of interest, say, that the temperature is gone from 400 to 450, you put the 400 to the prior norm into the computer, or into your calculations, and take the more recent measurement of 450 and then a series of calculations are made that produce an average between those two, that varies depending on the process and one thing another and then, that new average between those two numbers becomes a new alarm limit.</text>
+            <text syncTime="221.279" offset="965005">The invention in this case consist of the formula by which that calculation is made.</text>
+            <text syncTime="228.187" offset="992694">It does not include any change in the method of monitoring the process variables or in the method of causing the alarm to go off or anything to do with the process itself.</text>
+            <text syncTime="239.576" offset="1038252">It's merely a new method of making the calculation that produces this new number.</text>
+            <text syncTime="246.768" offset="1066987">The application for a patent was filed describing it as a method of updating the alarm limit and the question before the Court is whether such a method is a process within the meaning of Section 101 of the patent code, which determines what kinds of matter maybe given patent protection.</text>
+            <text syncTime="267.989" offset="1151832">A few years ago, the Court held that a mathematical formula which some have referred to as an algorithm is like a law of nature and may not itself be patented.</text>
+            <text syncTime="279.145" offset="1196554">Laws of nature such as the Pythagorean theorem or the law of gravity or certain fundamental laws of nature are treated as though they are part of the public domain at all times, and may not become the subject of a patent.</text>
+            <text syncTime="292.532" offset="1250053">In this case, the applicant does not claim that he wants a monopoly on this mathematical formula.</text>
+            <text syncTime="298.315" offset="1273145">He claims a monopoly on the used of the mathematical formula in computing this particular new number for use in a limited area, namely the changing of alarm limits in a petrochemical industry and the petroleum refining industry and the question is whether the fact that the mathematical formula itself cannot be patented, makes it impossible for a process which includes the mathematical formula as the only novel element in the process to be patented.</text>
+            <text syncTime="331.350" offset="1405325">The Court holds that this is not patentable subject matter and the reasoning, goes something like this.</text>
+            <text syncTime="338.287" offset="1433119">That in a case, involving the patent on a telegraph of Samuel Morse many years ago, the Court considered some of these problems and mentioned that when you have a principle, in that case, it was the fact that hot air is somewhat is a higher temperature than cold air, there was an older English case involved there, the Court commented on the existence of the natural law and said that we think the case must be considered as if the principle, that's the natural law or in this case, the mathematical formula, being well known, the plaintiff had first invented a mode of applying it.</text>
+            <text syncTime="376.271" offset="1585047">As we understand, the basic reasoning behind this it is you -- the natural law or in this case, mathematical formula is treated as though it were already a part of the prior art and already well known to the inventor.</text>
+            <text syncTime="391.397" offset="1645547">And if one makes that assumption with respect to this process application, there really is nothing new at all in the process because all he has done is made a conventional application of something which is treated as though it had always been well known because the natural law or the principle itself not being capable of discovery within the meaning of Section 101 of the Patent code.</text>
+            <text syncTime="413.935" offset="1735617">Therefore a process which does -- adds nothing to that which is presumed to be part of the prior art, itself cannot be patentable.</text>
+            <text syncTime="422.117" offset="1768427">So we hold that as a matter of statutory construction, the patent should not issue because this is not patentable subject matter within the meaning of the patent code.</text>
+            <text syncTime="432.760" offset="1810954">And in so holding, we are careful to point out that we are limiting our holding to a construction of the statute and that we recognize that there is a new industry, that is assumed very large dimensions in recent years which maybe affected by the holding and it remains within the power of Congress to reexamine this area and to determine whether or not, it would be appropriate to give patent protection to computer software and if so to determine what the duration of such protection would be and that is the holding of the Court which is more fully explain in the opinion filed with the clerk.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="465.404" stopTime="467.258">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="465.404" offset="1941566">Thank you, Mr. Justice Stevens.</text>
+          </turn>
+        </section>
+        <section startTime="467.258" stopTime="630.047" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Potter Stewart</heading>
+          <turn speaker="potter_stewart" startTime="467.258" stopTime="628.542">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="467.258" offset="1948985">I have filed a dissenting opinion in this case, which the Chief Justice and Mr. Justice Rehnquist have joined.</text>
+            <text syncTime="475.532" offset="1982004">It is a common place that laws of nature, physical phenomenon and abstract ideas are not patentable subject matter.</text>
+            <text syncTime="485.842" offset="2023277">A patent could not issue, in other words, on the law of gravity or the multiplication tables or the phenomenon of magnetism or the fact that water at sea-level boils at a 100 degree centigrade and freezes at 0, even though newly discovered.</text>
+            <text syncTime="503.174" offset="2092658">The recent case to which my brother Stevens has just referred, the case of Gottschalk against Benson, reported in Volume 409 of the United States Reports, stands for no more than this long established principle.</text>
+            <text syncTime="518.760" offset="2154934">The present case, however, is a far different one.</text>
+            <text syncTime="522.808" offset="2171130">The issue here is whether a claimed process loses its status of subject matter patentability simply because one step in the process would not be patentable subject matter, if considered in isolation.</text>
+            <text syncTime="539.136" offset="2236436">The Court of Customs and Patent Appeals held that the process is patentable subject matter and that decision seems to, the Chief Justice and Mr. Justice Rehnquist and to me, as wholly and conformity with basic principles of patent law.</text>
+            <text syncTime="556.677" offset="2306654">Indeed, and I suppose that thousands of patents have been issued over the years that contained one or more steps or elements that themselves in isolation would have been unpatentable subject matter.</text>
+            <text syncTime="570.931" offset="2363600">The Eibel process case reported in 261 of the United States Reports is a case directly in point illustrating this truism.</text>
+            <text syncTime="585.492" offset="2421906">There the Court upheld the validity of an improvement patent that may use the law of gravity which by itself, of course, was clearly unpatentable.</text>
+            <text syncTime="596.437" offset="2465687">It may well be, that under the criteria of other provisions of the patent law, specifically Sections 102 and 103, no patent should issue on the process claimed in this case because of anticipation or obviousness or for some other statutory reason, but in our view, the claimed process clearly meets the standards of subject matter patentability under the provisions of Section 101 of the statute.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="628.542" stopTime="630.047">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="628.542" offset="2594105">Thank you, Mr. Justice Stewart.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1992-06-08</transcribed>
+        <edit user="tschaefer" date="2012-07-03T17:09:36" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <identified user="tschaefer">2012-07-03</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:29:43" startTime="0.000" oldSpeaker="harry_a_blackmun" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="477281">/xml/cases/1991/90_1029/19920608o_90-1029.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1991/90-1029_19920608-opinion.xml</sourceFile>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="96.601">
+        <title>Eastman Kodak Company v. Image Technical Services., Inc.</title>
+        <section startTime="0.000" stopTime="10.001">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.001">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90878">The opinion of the Court in No. 90-1029, Eastman Kodak Company against Image Technical Services, Inc. will be announced by Justice Blackmun.</text>
+          </turn>
+        </section>
+        <section startTime="10.001" stopTime="96.601">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="harry_a_blackmun" startTime="10.001" stopTime="96.601">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="10.001" offset="130793">This litigation which comes to us from the Ninth Circuit is an anti-trust case.</text>
+            <text syncTime="15.759" offset="153885">The respondents brought this lawsuit alleging that Kodak unlawfully had tied the sale of service for its machines to the sale of parts in violation of Section One of the Sherman Act, and had monopolized the sale of service in parts for those machines in violation of Section 2 of that Act.</text>
+            <text syncTime="37.090" offset="239149">The District Court granted summary judgment for Kodak but the Court of Appeals reversed.</text>
+            <text syncTime="42.294" offset="260047">It ruled that the plaintiffs had presented enough evidence to raise a genuine issue concerning Kodak's market power in the service and parts markets.</text>
+            <text syncTime="52.811" offset="302052">It also rejected Kodak's contention that lack of market power in service and parts must be assumed when such power is absent in the equipment market.</text>
+            <text syncTime="63.433" offset="344579">In an opinion filed with the Clerk today, we affirm that judgment.</text>
+            <text syncTime="67.117" offset="359312">We rule that Kodak has not met the requirements of the rules of civil procedure for an award of summary judgment on the Section 1 claim, and we also hold that plaintiffs have presented genuine issues per trial as to whether Kodak had monopolized the service and parts market in violation of Section 2.</text>
+            <text syncTime="87.957" offset="442695">Justice Scalia has filed a dissenting opinion and is joined therein by Justices O'Connor and Thomas.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

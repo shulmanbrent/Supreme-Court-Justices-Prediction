@@ -1,0 +1,29 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:24:46" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="183417">/xml/cases/1991/91_611/19920421o_91-611.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/91-611_19920421-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="23.145">
+        <title>Barker v. Kansas</title>
+        <section startTime="0.000" stopTime="23.145">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="4.705">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90839">The opinions of the Court in two cases will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="4.705" stopTime="23.145">
+            <label>Justice Byron R. White</label>
+            <text syncTime="4.705" offset="109647">The first case is Barker against Kansas, No. 91-611, and for the reasons stated in an opinion on file with the Clerk, the judgment of the Kansas Supreme Court is reversed and the case is remanded.</text>
+            <text syncTime="17.476" offset="160743">Justice Stevens has filed a concurring opinion in which Justice Thomas has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

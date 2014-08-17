@@ -1,0 +1,51 @@
+<transcript verified="true">
+      <history>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="1144020">/xml/cases/2012/11_8976/20130109o_11-8976.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/11-8976_20130109-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="259.584">
+        <title>Smith v. United States</title>
+        <section startTime="0" stopTime="259.584">
+          <heading>Opinion Announcement of Antonin Scalia</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.322">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="105472">Justice Scalia has the opinion of the Court this morning in case 11-8976, Smith versus United States.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="9.322" stopTime="259.584">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="9.322" offset="142670">This case is here on writ of certiorari to United States Court of Appeals for the District of Columbia Circuit.</text>
+            <text syncTime="16.215" offset="170256">The petitioner, Smith, was indicted for crimes connected to his role in an organization that distributed illegal drugs in Washington, D.C. for about a decade.</text>
+            <text syncTime="28.751" offset="220411">Among other things, he was charged with two conspiracy crimes.</text>
+            <text syncTime="33.527" offset="239532">One, conspiracy to distribute narcotics and to poses narcotics with the intent to distribute in violation of 21 U.S.C. Section 846.</text>
+            <text syncTime="43.675" offset="280074">And two, Racketeer Influenced and Corrupt Organizations Act to conspiracy, RICO, in violation of 18 U.S.C. 1962(d).</text>
+            <text syncTime="56.375" offset="330961">At trial, Smith argued that the conspiracy counts were barred by the applicable five-year statute of limitations which is 18 U.S.C. Section 3282 because he was no longer a member of the conspiracy on the earliest date as to which that statute permitted prosecution.</text>
+            <text syncTime="76.499" offset="411418">The Court instructed the jury that “the relevant date for purposes of determining the statute of limitations is the date, if any, on which a conspiracy concludes or a date on which that defendant withdrew from that conspiracy.”</text>
+            <text syncTime="93.426" offset="479128">Over the defense's objection, the Court also instructed the jury that “once the government has proven that a defendant was a member of a conspiracy, the burden is on the defendant to prove withdrawal from a conspiracy by a preponderance of the evidence.”</text>
+            <text syncTime="111.385" offset="550912">The jury convicted Smith of the conspiracy counts and the D.C. Circuit affirmed those convictions, we granted certiorari, and today, affirmed the D.C. Circuits' judgment.</text>
+            <text syncTime="122.677" offset="596156">Petitioner asserts that once he presented some evidence that he ended his membership in the conspiracy, prior to the statute of limitations cut off, it became the government's burden to disprove his affirmative defense of withdrawal.</text>
+            <text syncTime="140.333" offset="666791">This position draws support neither from the Constitution nor from the conspiracy and limitations statutes at issue here.</text>
+            <text syncTime="149.412" offset="703049">Allocating to the defendant, the burden of proving withdrawal, does not violate the Due Process Clause.</text>
+            <text syncTime="156.523" offset="731470">Our precedent established that unless an affirmative defense negates an element of the crime, the government has no constitutional duty to overcome the defense beyond a reasonable doubt.</text>
+            <text syncTime="168.240" offset="778386">Withdrawal does not negate an element of the conspiracy crimes charged here, it terminates a defendant's liability for his co-conspirators' post-withdrawal acts but he remains guilty of conspiracy.</text>
+            <text syncTime="182.542" offset="835542">Moreover, withdrawal that occurs before the earliest date on which the statute of limitations permits prosecution does not render the underlying conduct non-criminal but merely non-prosecutable.</text>
+            <text syncTime="196.136" offset="889981">Thus, while union of withdrawal with a statute of limitations defense can free a defendant of criminal liability, it does not place upon the prosecution a constitutional responsibility to prove that the defendant did not withdraw.</text>
+            <text syncTime="210.082" offset="945779">As with other affirmative defenses, the burden is on him.</text>
+            <text syncTime="214.285" offset="962602">Of course even though the constitution does not place the burden on the prosecution, Congress may do so by statute.</text>
+            <text syncTime="220.362" offset="986843">It did not do so here.</text>
+            <text syncTime="222.275" offset="994471">Neither conspiracy statute at issue addresses the burden of proof for withdrawal, so it is presumed that the common law rule subsists.</text>
+            <text syncTime="230.957" offset="1029266">Affirmative defenses are for the defendant to prove.</text>
+            <text syncTime="234.658" offset="1044104">The analysis does not change when withdrawal is the basis for a statute of limitations defense.</text>
+            <text syncTime="239.989" offset="1065420">In that circumstance, the government need only prove that the conspiracy continued past the statute of limitations cut off.</text>
+            <text syncTime="247.979" offset="1097289">The burden of establishing withdrawal before that cut off rests upon the defendant.</text>
+            <text syncTime="253.145" offset="1117978">The judgment of the Court of Appeals is therefore affirmed.</text>
+            <text syncTime="256.187" offset="1130203">The Court's decision is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

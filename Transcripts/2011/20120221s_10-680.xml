@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-20T17:50:49" startTime="0.000" oldSpeaker="elena_kagan" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2014-01-20</identified>
+      </history>
+      <resources>
+        <audioFile size="755109">/xml/cases/2011/10_680/20120221o_10-680.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2011/trs/10-680_20120221-opinion.trs</sourceFile>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="162.377">
+        <title>Howes v. Fields</title>
+        <section startTime="0.000" stopTime="162.377">
+          <heading>Opinion Announcement of Samuel A. Alito, Jr.</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="6.038">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="105472">Justice Alito has our opinion this morning in case 10-680, Howes verus Fields.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="6.038" stopTime="162.377">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="6.038" offset="129609">This case which comes to us from the Sixth Circuit concerns the test for determining whether a prisoner is in custody within the meaning of the Miranda rule.</text>
+            <text syncTime="15.281" offset="166494">Respondent Fields was serving a sentence in the Michigan jail when he was taken from his cell to a conference room and questioned about the sexual abuse of a 12-year-old boy.</text>
+            <text syncTime="27.835" offset="216754">He was not given Miranda warnings or advised that he did not have to speak with the interviewing deputies, but he was told more than once that he was free to leave and return to his cell.</text>
+            <text syncTime="38.668" offset="260117">Fields confessed and he was later charged with criminal sexual conduct and convicted.</text>
+            <text syncTime="44.777" offset="284568">The state courts rejected Fields' contention that his confession should have been suppressed because he was subjected to custodial interrogation without a Miranda warning, but the Federal District Court granted habeas relief and the Sixth Circuit affirmed holding that our precedents clearly establish that a prisoner is always in custody within the meaning of Miranda when he is removed from general prison population and questioned about conduct that occurred outside the prison.</text>
+            <text syncTime="72.505" offset="395431">Our decisions, however, do not clearly establish such a categorical rule and therefore the Court of Appeals erred in holding that this rule provides a permissible basis for federal habeas relief under the relevant provision of the Antiterrorism and Effective Death Penalty Act of 1986.</text>
+            <text syncTime="91.318" offset="470664">Indeed, the rule applied by the Sixth Circuit does not represent a correct interpretation of our Miranda case law.</text>
+            <text syncTime="98.116" offset="497936">Under Miranda, custody is a term of art, not all restraints on freedom of movement amount to Miranda custody and imprisonment alone is not enough to create a custodial situation for Miranda purposes.</text>
+            <text syncTime="112.736" offset="556345">Although taking a prisoner aside for questioning may necessitate some additional limitations on the prisoner's freedom of movement, it does not necessarily convert a noncustodial situation into Miranda custody and neither does questioning a prisoner about criminal activity that took place outside the prison have a greater potential for coercion than questioning under otherwise identical circumstances about criminal activity that took place within prison walls.</text>
+            <text syncTime="142.019" offset="673479">The record in this case reveals that respondent was not taken into custody for Miranda purposes.</text>
+            <text syncTime="148.131" offset="697929">For these reasons and others stated in our opinion, the judgment of the Court of Appeals is reversed.</text>
+            <text syncTime="153.650" offset="719976">Justice Ginsburg has filed an opinion concurring in part and dissenting in part in which Justice Breyer and Justice Sotomayor have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

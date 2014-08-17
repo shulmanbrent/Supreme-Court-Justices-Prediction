@@ -1,0 +1,29 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-02T16:59:46" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-02</identified>
+      </history>
+      <resources>
+        <audioFile size="300977">/xml/cases/1987/86_651/19871201o_86-651.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-651op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="55.249">
+        <title>United Paperworkers Int'l Union, AFL-CIO v. Misco, Inc.</title>
+        <section startTime="0" stopTime="55.249">
+          <heading>Opinion Announcement of Byron R. White</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.656">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80921">The opinion of the Court in No. 86-651, United Paperworkers International versus Misco will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="9.656" stopTime="55.249">
+            <label>Justice Byron R. White</label>
+            <text syncTime="9.656" offset="119478">In this case the Court of Appeals for the Fifth Circuit agreed with the District Court at an arbitration award under collective bargaining contract should be set aside because it was contrary to what the Court of Appeals considered to be public policy.</text>
+            <text syncTime="31.453" offset="206727">For the reasons stated in an opinion on file with the Clerk, we unanimously hold that the Court of Appeals exceeded its authority in entering its judgment, and hence, its judgment must be reversed.</text>
+            <text syncTime="46.765" offset="267958">Justice Blackmun has file a concurring opinion in which Justice Brennan has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

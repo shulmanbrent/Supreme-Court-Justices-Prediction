@@ -1,0 +1,33 @@
+<transcript>
+      <history>
+        <transcribed>1988-01-20</transcribed>
+        <edit user="dleib" date="2012-08-18T16:35:38" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="thurgood_marshall"/>
+        <identified user="dleib">2012-08-18</identified>
+      </history>
+      <resources>
+        <audioFile size="283744">/xml/cases/1987/86_1021/19880120o_86-1021.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1987/86-1021_19880120-opinion.xml</sourceFile>
+        <speaker id="john_marshall" type="justice" gender="male" path="/justices/john_marshall" image="/justices/john_marshall/thumbnail.jpg">John Marshall</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="50.939">
+        <title>Carneigie-Mellon Univ. v. Cohill</title>
+        <section startTime="0" stopTime="8.413">
+          <heading>Opinion Announcement of Thurgood Marshall</heading>
+          <turn speaker="thurgood_marshall" startTime="0.000" stopTime="8.413">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="0.000" offset="80929">The opinion of the Court in No. 86-1021, Carnegie-Mellon University versus Cohill will be announced by Justice Marshall.</text>
+          </turn>
+        </section>
+        <section startTime="8.413" stopTime="50.939">
+          <heading>Opinion Announcement of John Marshall</heading>
+          <turn speaker="john_marshall" startTime="8.413" stopTime="50.939">
+            <label>Justice John Marshall</label>
+            <text syncTime="8.413" offset="114575">This case is here on certiorari to the Court of Appeals to the Third Circuit.</text>
+            <text syncTime="14.117" offset="137353">Here we hold that a Federal District Court has discretion under the doctrine of pendant jurisdiction to remand and remove the case to a State court when all federal-law claims in the action have been eliminated and only state law claims remain.</text>
+            <text syncTime="35.607" offset="223349">Accordingly, we affirm the order of the Third Circuit denying petitioners' application for a writ of mandamus.</text>
+            <text syncTime="43.601" offset="255322">Justice White has filed a dissenting opinion in which the Chief Justice and Justice Scalia have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

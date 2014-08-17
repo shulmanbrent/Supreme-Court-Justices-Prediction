@@ -1,0 +1,52 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:33:43" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="1169081">/xml/cases/1998/97_1868/19990420o_97-1868.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1998/trs/97-1868_19990420-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="270.720">
+        <title>UNUM Life Insurance Company of America v. Ward</title>
+        <section startTime="0" stopTime="270.720">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="11.765">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="86044">The opinion of the Court in No. 97-1868, UNUM Life Insurance Company of America versus Ward will be announced by Justice Ginsburg.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="11.765" stopTime="270.720">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="11.765" offset="133064">This case concerns the Employee Retirement Income Security Act ERISA is its acronym.</text>
+            <text syncTime="20.071" offset="166292">It is complex legislation and it is a constant supplier of questions in need of adjudication.</text>
+            <text syncTime="27.806" offset="197221">Two of ERISA's most litigated clauses, the Preemptions Clause and the Saving Clause are again at issue.</text>
+            <text syncTime="35.912" offset="229613">The Preemption Clause broadly states that ERISA provisions shall supersede state laws that relate to any employee benefit plan.</text>
+            <text syncTime="47.109" offset="274439">The Saving Clause prays with similar breadth exempts from preemption "any law of any State which regulates insurance".</text>
+            <text syncTime="58.447" offset="319788">The key words "regulate insurance" in the Saving Clause and relate to in the Preemption Clause require interpretation for their meaning is not plain.</text>
+            <text syncTime="71.884" offset="373495">To apply ERISA sensibly we must measure its key words in context.</text>
+            <text syncTime="76.635" offset="392513">The context here is a suit to recover disability benefits under an ERISA-governed policy issued by the defendant-petitioner UNUM Life Insurance Company.</text>
+            <text syncTime="90.384" offset="447579">Plaintiff-respondent, John Ward submitted his proof of disability claim to UNUM outside the time limit set in the policy, and UNUM therefore denied Ward's application for benefits.</text>
+            <text syncTime="103.212" offset="498883">Ruling in Ward's favor and reversing the District Court's judgment for UNUM, the Court of Appeals for the Ninth Circuit relied on decisional law in California, the State in which Ward worked.</text>
+            <text syncTime="116.931" offset="553740">We affirm the Court of Appeals' judgment in Prime Part.</text>
+            <text syncTime="121.543" offset="572131">The Ninth Circuit's judgment rested on two grounds.</text>
+            <text syncTime="124.643" offset="584565">That court relied first on California's "notice-prejudice" rule, under which an insurer cannot avoid liability although the proof of claim is untimely, unless the insurer shows it was prejudiced by the delay.</text>
+            <text syncTime="142.669" offset="656663">The "notice-prejudice" rule is saved from ERISA preemption, the Court of Appeals held, because it is law which regulates insurance.</text>
+            <text syncTime="151.794" offset="693130">We agree.</text>
+            <text syncTime="153.099" offset="698354">By its very terms, the "notice-prejudice" rule is specifically directed at the insurance industr.</text>
+            <text syncTime="160.294" offset="727193">Our opinion explains in detail why we are satisfied that the "notice-prejudice" rule is not simply an industry-specific application of the general principle that law abhors a forfeiture rather it is a notably stringent adaptation of that principle of rule made mandatory only for insurance contracts.</text>
+            <text syncTime="185.310" offset="827190">The Court of Appeals stated a second contingent ground for reversing the District Court's judgment for UNUM, one that would come into play only if on remand the insurer proved prejudice due to the delayed notice.</text>
+            <text syncTime="202.584" offset="896362">Under California decisions, the Ninth Circuit said, an employer could be deemed an agent of the insurer in administering group insurance policies.</text>
+            <text syncTime="212.959" offset="937845">Ward's employer knew of his disability within the time the policy allowed for proof of claim.</text>
+            <text syncTime="219.624" offset="964490">The generally applicable agency law of California the Ninth Circuit held, does not relate to employee benefit plans, and therefore is not preempted by ERISA.</text>
+            <text syncTime="230.614" offset="1008480">We disagree with this contingent ruling deeming the employer or the agent of the insurer would have a marked effect on plan administration, forcing the employer to assume a role with attendant legal duties and consequences that the employer had not bargained for.</text>
+            <text syncTime="247.629" offset="1076503">We are therefore satisfied that the California agency law involved, does relate to ERISA plans and accordingly does not escape preemption.</text>
+            <text syncTime="259.098" offset="1122374">In sum, we affirm on the main ground the "notice-prejudice" rule and reverse on the contingent employer as agent holding.</text>
+            <text syncTime="267.332" offset="1155288">The opinion of the Court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

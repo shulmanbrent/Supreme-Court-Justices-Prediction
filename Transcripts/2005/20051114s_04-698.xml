@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:52:25" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="747725">/xml/cases/2005/04_698/20051114o_04-698.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-698_20051114-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="164.833">
+        <title>Schaffer v. Weast</title>
+        <section startTime="0.000" stopTime="164.833">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="7.748">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88394">Justice O'Connor has the opinion in No. 04-698, Schaffer versus Weast.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="7.748" stopTime="164.833">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="7.748" offset="119323">This case comes here on writ of certiorari to the Court of Appeals for the 4th Circuit.</text>
+            <text syncTime="13.044" offset="140534">In 1970, Congress passed what today is called the Individuals with Disabilities Education Act; the acronym of that is IDEA.</text>
+            <text syncTime="24.981" offset="188286">That Act is intended to ensure all disabled children a free, appropriate public education.</text>
+            <text syncTime="31.663" offset="215036">It requires public schools to identify disabled children; it establishes procedures for schools and for parents to work together to create an Individualized Education Program, called an IEP, for each disabled child.</text>
+            <text syncTime="49.244" offset="285357">If the parents disagree with the school about what services are appropriate, the Act gives the parents the right to request a so-called due-process hearing.</text>
+            <text syncTime="61.609" offset="334781">The Act specifies various requirements for these hearings, but it does not specify which party bears the burden of persuasion at the hearing.</text>
+            <text syncTime="72.068" offset="376577">In this case, the 4th Circuit Court of Appeals put the burden of persuasion on the parents, concluding that there was no sufficient reason to depart from the usual rule that the burden of persuasion lies with the party seeking relief.</text>
+            <text syncTime="86.989" offset="436345">In an opinion filed today with the Clerk of the Court, we affirm that judgment.</text>
+            <text syncTime="92.819" offset="459646">We hold that the burden of persuasion in an administrative hearing challenging an IEP is properly placed upon the party seeking relief -- in this case, that’s the parents, the petitioners -- but where a school district initiates a hearing, it will bear the burden of persuasion.</text>
+            <text syncTime="112.191" offset="537073">Because the Individuals with Disabilities Act is silent about where the burden of persuasion should lie, we follow the ordinary default rule that plaintiffs bear the burden regarding the essential aspects of their claims.</text>
+            <text syncTime="127.407" offset="597991">Although this default rule has exceptions, we only rarely place the entire burden of persuasion at the outset of a proceeding upon the opposing party, as petitioners urge us to do in this case.</text>
+            <text syncTime="142.242" offset="657341">Absent some reason to believe that Congress intended otherwise, we conclude that the burden of persuasion lies where it usually does, with the party seeking relief.</text>
+            <text syncTime="153.195" offset="701122">Justice Stevens has filed a concurring opinion, and Justice Ginsburg and Justice Breyer have each filed dissenting opinions.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

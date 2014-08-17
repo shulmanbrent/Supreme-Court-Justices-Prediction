@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:10:19" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="800159">/xml/cases/1990/90_149/19910520o_90-149.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/90-149_19910520-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="181.551">
+        <title>Michigan v. Lucas</title>
+        <section startTime="0.000" stopTime="181.551">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="5.658">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73955">The opinions of the Court in two cases will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="5.658" stopTime="181.551">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="5.658" offset="96525">The first of the cases is Michigan against Lucas which comes to us on certiorari to the Michigan Court of Appeals.</text>
+            <text syncTime="14.876" offset="133410">Like most states, Michigan has a rape shield statute designed to protect victims of rape from being questioned at trial about their past sexual behavior.</text>
+            <text syncTime="25.170" offset="174579">The statute contains a limited exception that allows a defendant to introduce evidence of his own past sexual conduct with the victim provided that he gives a timely notice to the court and the victim by filing a written motion and offer of proof.</text>
+            <text syncTime="42.247" offset="242915">The respondent in this case was charged with two counts of criminal sexual conduct.</text>
+            <text syncTime="47.781" offset="265067">The state alleged that the respondent had used a knife to force his ex-girlfriend into his apartment where he forced her to engage in several non-consensual sexual acts.</text>
+            <text syncTime="62.290" offset="323059">At no time did Lucas file a written motion and offer of proof as the Michigan statute required.</text>
+            <text syncTime="68.773" offset="348972">Nonetheless, at the start of the trial, the respondent's attorney asked the court to allow the defense to present evidence of a prior sexual relationship between the respondent and the alleged victim.</text>
+            <text syncTime="80.845" offset="397246">The Trial Court denied the motion relying on the requirements of the statute which were not met.</text>
+            <text syncTime="87.518" offset="423996">The Michigan Court of Appeals reversed the conviction adapting a per se rule that the state's notice requirement violates the Sixth Amendment in all cases where it is used to preclude evidence of past sexual conduct between a rape victim and a criminal defendant.</text>
+            <text syncTime="106.541" offset="500064">In an opinion filed today, we vacate and remand.</text>
+            <text syncTime="111.157" offset="518559">In the case of Taylor against Illinois, this Court rejected the argument that probative evidence may never be precluded as a penalty for a criminal defendant's failure to comply with a legitimate state procedural rule.</text>
+            <text syncTime="126.187" offset="578641">The same is true here.</text>
+            <text syncTime="128.250" offset="586895">Michigan's rape shield statute serves legitimate state interest in protecting rape victims against surprised harassment and undue delay.</text>
+            <text syncTime="137.194" offset="622631">Failure to comply with the statute may in some cases justify even the severe sanction of preclusion of evidence.</text>
+            <text syncTime="145.479" offset="655859">Respondent argues that the preclusion of evidence was unconstitutional in this case.</text>
+            <text syncTime="151.582" offset="680205">We express no opinion on this question, and leave it to the Michigan Courts on remand to address in the first instance whether the State's rape shield statute authorizes preclusion and whether on the facts of this case, preclusion violated respondent's rights under the Sixth Amendment.</text>
+            <text syncTime="172.299" offset="763065">Justice Blackmun has filed an opinion concurring in the judgment; Justice Stevens has filed a dissenting opinion which Justice Marshall has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

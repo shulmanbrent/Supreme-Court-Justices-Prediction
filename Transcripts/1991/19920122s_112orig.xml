@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1992-01-22</transcribed>
+        <edit user="jeffpar" date="2012-03-30T23:49:06" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jeffpar">2012-03-31</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="309756">/xml/cases/1991/112orig/19920122o_112orig.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1991/112orig_19920122-opinion.xml</sourceFile>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="54.727">
+        <title>Wyoming v. Oklahoma</title>
+        <section startTime="0.000" stopTime="6.582">
+          <heading>Announcement of Chief Justice Rehnquist</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="6.582">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="90850">The opinion of the Court in No. 112 original, Wyoming against Oklahoma will be announced by Justice White.</text>
+          </turn>
+        </section>
+        <section startTime="6.582" stopTime="54.727">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="byron_r_white" startTime="6.582" stopTime="54.727">
+            <label>Justice Byron R. White</label>
+            <text syncTime="6.582" offset="117077">This case is before us on exceptions that were filed to the Special Master’s report which was filed on this original action.</text>
+            <text syncTime="17.650" offset="161381">For reasons stated in an opinion of file with the Court, the recommendations of the Special Master are adapted in part.</text>
+            <text syncTime="26.051" offset="195026">The exceptions filed by Wyoming are sustained.</text>
+            <text syncTime="29.094" offset="207147">The exceptions filed by Oklahoma are rejected.</text>
+            <text syncTime="33.027" offset="222925">Wyoming’s motion for summary judgment is granted.</text>
+            <text syncTime="37.250" offset="239748">Oklahoma’s motion for summary judgment is denied.</text>
+            <text syncTime="40.835" offset="254168">Justice Scalia has filed a dissenting opinion in which the Chief Justice and Justice Thomas have joined; Justice Thomas has also filed a dissenting opinion, and the Chief Justice and Justice Scalia have joined that opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

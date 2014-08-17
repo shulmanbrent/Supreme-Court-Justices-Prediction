@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <edit user="jgoldman" date="2013-09-02T15:34:32" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="725450">/xml/cases/1998/97_1536/19990302o_97-1536.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1998/trs/97-1536_19990302-opinion.trs</sourceFile>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="159.912">
+        <title>Arizona Department of Revenue v. Blaze Construction Company</title>
+        <section startTime="0" stopTime="159.912">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.429">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="85659">The opinion of the Court in No. 97-1536, Arizona Department of Revenue versus Blaze Construction Company will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="9.429" stopTime="159.912">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="9.429" offset="123275">This case comes to us on a writ of certiorari to the Arizona Court of Appeals.</text>
+            <text syncTime="14.566" offset="143860">Respondent is a construction company incorporated under the laws of Blackfeet Tribe of Montana.</text>
+            <text syncTime="21.949" offset="173430">Bureau of Indian Affairs contracted with respondent to perform work on several Indian reservation roads in Arizona.</text>
+            <text syncTime="32.500" offset="215644">Because none of the work occurred on it’s own reservation, respondent is treated as a non-Indian private company for purposes of this case.</text>
+            <text syncTime="41.412" offset="251275">Arizona imposes a tax on the gross receipts of the companies doing business in that state.</text>
+            <text syncTime="48.568" offset="279906">Respondent failed to pay this tax on the proceeds from its contract with the Bureau.</text>
+            <text syncTime="54.158" offset="302266">Arizona issued a tax deficiency assessment and respondent protested, arguing that the federal law preempted Arizona’s tax and hence it owed no taxes to Arizona.</text>
+            <text syncTime="68.336" offset="358900">The Arizona Tax Court rejected the protest, but the Arizona Court of Appeals reversed.</text>
+            <text syncTime="76.112" offset="390038">Employing a test which balanced the Federal, State and Tribal interest the Court of Appeals held that a congressional intent to preempt Arizona’s tax could be inferred from the federal laws regulating the welfare of Indian Tribes.</text>
+            <text syncTime="91.698" offset="452418">The Arizona’s Supreme Court denied a petition for review.</text>
+            <text syncTime="97.321" offset="474883">In an opinion filed with the clerk today, we reverse.</text>
+            <text syncTime="100.973" offset="489512">A state generally may impose a nondiscriminatory tax on a private company’s proceeds from its contracts with the Federal Government.</text>
+            <text syncTime="110.682" offset="528382">Congress may displace its authority by expressly exempting the contracts from such taxation.</text>
+            <text syncTime="118.213" offset="558475">In this case Congress has not expressly exempted respondent’s contract from Arizona’s gross receipt tax.</text>
+            <text syncTime="125.319" offset="586897">And the incidence of that tax falls on respondent not the United States.</text>
+            <text syncTime="130.731" offset="608526">The Court of Appeals was mistaken in its efforts to balance the federal, state and tribal interest while that balancing test has been applied to state taxation of on reservation transactions between tribes and private parties.</text>
+            <text syncTime="144.869" offset="665055">It does not apply to taxation of transactions between Federal Government and its private contractors even when those transactions happen to take place on Indian reservations.</text>
+            <text syncTime="157.007" offset="713643">The opinion of the Court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

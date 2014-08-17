@@ -1,0 +1,47 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="740728">/xml/cases/1979/78_1202/19800318o_78-1202.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1979/trs/78-1202op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="185.125">
+        <title>Chiarella v. United States</title>
+        <section startTime="0.000" stopTime="185.125" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Lewis F. Powell, Jr.</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="7.695">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">The judgment and opinion in Chiarella against the United States will be announced by Mr. Justice Powell.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="7.695" stopTime="183.258">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="7.695" offset="30720">This case is here on certiorari to the United States Court of Appeals for the Second Circuit.</text>
+            <text syncTime="13.531" offset="54021">Petitioner, an employee of a financial printing firm in New York, was convicted in a criminal prosecution of violating Section 10 (b) of the Securities Exchange Act of 1934 and Rule 10b-5 adopted pursuant to that Act.</text>
+            <text syncTime="34.462" offset="137822">His conviction was affirmed by the Second Circuit.</text>
+            <text syncTime="38.231" offset="152869">As an employee of a printing firm, he had access to nonpublic information as to takeover bids that were to be made to stockholders of target corporations.</text>
+            <text syncTime="52.165" offset="208562">Petitioner used that information to purchase stock in target companies.</text>
+            <text syncTime="58.272" offset="233012">He made these purchases through stock exchanges but did not disclose the nonpublic information to the sellers of the stock.</text>
+            <text syncTime="68.407" offset="273554">In this way, he made substantial profits.</text>
+            <text syncTime="71.726" offset="286824">The question in this case is whether petitioner's failure to disclose the nonpublic information constituted a fraud within the meaning of Section 10 (b).</text>
+            <text syncTime="85.663" offset="342622">The answer to this question turns on whether petitioner owed a duty to the sellers from whom he purchased.</text>
+            <text syncTime="94.093" offset="376372">For reasons stated in the opinion of the Court filed today, we hold that a duty to disclose under this statute does not arise from the mere possession of nonpublic market information.</text>
+            <text syncTime="109.329" offset="437290">It also was argued here that petitioner breached a duty to the acquiring corporation, that is the corporation that planned to make the takeover bids, but this theory was not presented to the trial jury and accordingly, we do not decide whether or not such a duty exist.</text>
+            <text syncTime="131.244" offset="524957">Section 10 (b) of the Act is drawn in quite general terms.</text>
+            <text syncTime="137.009" offset="547944">This is a criminal prosecution and nothing in the legislative history suggests a congressional intent to create a duty and consequent criminal liability upon persons such as petitioner who are not corporate insiders, not fiduciaries and not persons in whom the sellers had placed their trust or confidence.</text>
+            <text syncTime="161.219" offset="644807">Accordingly, we reversed the judgment of the Court of Appeals.</text>
+            <text syncTime="165.599" offset="662361">Mr. Justice Stevens has filed a concurring opinion.</text>
+            <text syncTime="169.059" offset="676153">Mr. Justice Brennan concurs in the judgment.</text>
+            <text syncTime="172.109" offset="688379">The Chief Justice has filed a dissenting opinion.</text>
+            <text syncTime="175.262" offset="701022">Mr. Justice Blackmun, with whom Mr. Justice Marshall joins, also has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="183.258" stopTime="185.125">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="183.258" offset="732996">Thank you, Mr. Justice Powell.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

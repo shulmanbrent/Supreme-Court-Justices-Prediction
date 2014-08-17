@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-29</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="666561">/xml/cases/1975/74_869/19760330o_74-869.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1975/trs/74-869op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="148.175">
+        <title>United States v. United Continental Tuna Corporation</title>
+        <section startTime="0.000" stopTime="148.175" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Thurgood Marshall</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="10.949">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="73686">The judgment and opinion of the Court in No. 74-869, United States against United Continental Tuna Corporation will be announced by Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="10.949" stopTime="146.182">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="10.949" offset="117467">This case is here on writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="17.113" offset="142127">The case arises out of the collision that see between the United States naval destroyer and respondent’s fishing vessel.</text>
+            <text syncTime="24.954" offset="173474">Respondent, a Philippine corporation brought suit against United States for damages under the Public Vessels Act and the Suits in Admiralty Act.</text>
+            <text syncTime="35.020" offset="213702">The Public Vessels Act authorizes  suit against the United States for damages caused by public vessel of the United States, but the Public Vessels Act contains a reciprocity provision that bars suit by a foreign national unless his government allows the United States nationals to sue in its court under similar circumstances.</text>
+            <text syncTime="58.170" offset="306280">On the United States' motion for summary judgment, the District Court for the Central District of the California held that this suit could be brought only under the Public Vessels Act since the naval destroyer involved was indeed a public vessel.</text>
+            <text syncTime="73.175" offset="366362">The District Court further held that the suit was barred by the reciprocity provision.</text>
+            <text syncTime="78.200" offset="386424">The Court of Appeals for the Ninth Circuit reversed, holding that the suit could also be brought under the Suits in Admiralty Act, which contains no reciprocity provision.</text>
+            <text syncTime="88.234" offset="426548">It is undisputed, but before 1960 suits for damages caused by Public Vessels could not be brought under the Suits in Admiralty Act.</text>
+            <text syncTime="97.248" offset="462597">The Court of Appeals held, however, that the 1960 amendment of the Suits in Admiralty Act had the effect of expanding the Act to encompass these suits.</text>
+            <text syncTime="106.741" offset="500631">We disagree.</text>
+            <text syncTime="108.572" offset="507946">The amendment in question did not explicitly authorize suits previously governed by the Public Vessel Act to be brought under the Suits in Admiralty Act, free from the reciprocity provisions and other restrictive provisions of the Public Vessel Act.</text>
+            <text syncTime="123.101" offset="566042">And for the reasons set forth in opinion filed today with the clerk, we conclude that the amendment was not intended to accomplish that result.</text>
+            <text syncTime="131.183" offset="598329">Accordingly, the judgment of the Court of Appeals is reversed and the case is remanded for further proceedings consistent with our opinion.</text>
+            <text syncTime="138.775" offset="628736">Justice Stewart has filed a dissenting opinion.</text>
+            <text syncTime="141.619" offset="640125">Mr. Justice Stevens took no part in the consideration or decision of this case.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="146.182" stopTime="148.175">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="146.182" offset="658411">Thank you Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

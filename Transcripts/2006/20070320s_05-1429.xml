@@ -1,0 +1,48 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T16:03:40" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="981292">/xml/cases/2006/05_1429/20070320o_05-1429.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2006/trs/05-1429_20070320-opinion.trs</sourceFile>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="222.877">
+        <title>Travelers Casualty &amp; Surety Co. of America v. Pacific Gas &amp; Elec. Co.</title>
+        <section startTime="0.000" stopTime="222.877" revised="2014-01-27">
+          <heading>Opinion Announcement of Justice Samuel A. Alito, Jr.</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="11.658">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="89785">Justice Alito has the opinion this morning in case 05-1429, Travelers Casualty &amp; Surety versus Pacific Gas &amp; Electric Co.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="11.658" stopTime="222.877">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="11.658" offset="136387">Now this case comes to us writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="17.657" offset="160316">The question before us is whether a Federal Bankruptcy Law precludes recovery of attorney’s fees authorized by contract based solely on the fact does fees were incurred litigating issues of Bankruptcy Law.</text>
+            <text syncTime="30.604" offset="212143">We hope but it does not and therefore vacate and remand.</text>
+            <text syncTime="34.501" offset="227712">Respondent Pacific Gas and Electric Company (PG&amp;E) filed for chapter 11 Bankruptcy in April, 2001.</text>
+            <text syncTime="42.735" offset="260626">Petitioner Travelers Casualty &amp; Surety Company of America which previously issued a Surety bond to guarantee PG&amp;E’s payment of state workers’ compensation benefits filed the claim in the bankruptcy case.</text>
+            <text syncTime="56.971" offset="317573">To protect itself against the possibility of default by PG&amp;E with the Bankruptcy Courts approval PG&amp;E eventually agreed to insert language into its reorganization plan and disclosure statement to protect Travelers in the event of such a default.</text>
+            <text syncTime="74.308" offset="386954">Additional litigation over the negotiated language nevertheless ensued and result ultimately resolved by a court-approved stipulation stating among other things that Travelers could assert a general unsecured claim for attorney’s fees incurred during the bankruptcy proceedings as authorized by the party’s original indemnity agreements.</text>
+            <text syncTime="96.783" offset="476815">Travelers then field an amended claim seeking attorney’s fees.</text>
+            <text syncTime="100.644" offset="492280">PG&amp;E objected to that claim based on the Ninth Circuit’s rule originally announced in that courts decision and in In re Fobian that attorney’s fees may not be awarded in connection with the litigation of issues of Federal Bankruptcy Law.</text>
+            <text syncTime="116.215" offset="554556">The bankruptcy court rejected travelers claim based on the Fobian rule and the District Court and the Ninth Circuit affirmed on the same basis.</text>
+            <text syncTime="125.107" offset="590187">We granted certiorari to resolve the conflict in the Lower Court on this issue.</text>
+            <text syncTime="129.681" offset="608472">Today we conclude that the Fobian rule is unsound.</text>
+            <text syncTime="133.519" offset="623832">Under the American rule the prevailing litigant is normally not entitled to collect attorney’s fees from the loser that rule can however be overcome by statute.</text>
+            <text syncTime="142.677" offset="660404">It can also be overcome by contract even in bankruptcy proceedings.</text>
+            <text syncTime="147.068" offset="677958">So long as the contract is in enforceable under substantive Non-Bankruptcy Law.</text>
+            <text syncTime="152.636" offset="700319">A claim for fees based on an otherwise enforceable contract is allowable in bankruptcy except for bankruptcy law provides otherwise.</text>
+            <text syncTime="162.146" offset="738353">Section 502(b) of the Bankruptcy Code provides the Bankruptcy Court “shall allow” a creditors’ claim “except to the extent that” the claim implicates any of the nine exceptions enumerated in that Section.</text>
+            <text syncTime="176.765" offset="796763">None of those exceptions mandates or even supports the denial of the contract based claim for attorney’s fees based solely on the fact that the issues litigated involved issues of bankruptcy law nor does any other provision of the Bankruptcy Code support such rule.</text>
+            <text syncTime="194.016" offset="865831">In concluding otherwise the Court of Appeals relied exclusively on its own precedent most notably Fobian that precedent however finds no support in and affirmatively conflicts with Federal Bankruptcy Law.</text>
+            <text syncTime="207.146" offset="918285">PG&amp;E raises several arguments suggesting that Travelers claim might fail even in the absences of Fobian rule.</text>
+            <text syncTime="215.080" offset="950049">But because those arguments are not fairly included within the question before us we will not address that.</text>
+            <text syncTime="220.615" offset="972201">The court’s opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

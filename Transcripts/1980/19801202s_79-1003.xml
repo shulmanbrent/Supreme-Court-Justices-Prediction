@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="432190">/xml/cases/1980/79_1003/19801202o_79-1003.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1980/trs/79-1003op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="84.984">
+        <title>County of Imperial, California v. Munoz</title>
+        <section startTime="0" stopTime="84.984">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.797">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92076">The judgment on the opinion of the Court in the County of Imperial California against Munoz will be announced by Mr. Justice Stewart.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="8.797" stopTime="82.785">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="8.797" offset="127185">This case is here by way of the grant of a writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="17.025" offset="160099">A federal statute known as the Anti-Injunction Act provides that, and I'm quoting, "A court of the United States may not grant an injunction to stay proceedings in a State court except as expressly authorized by Act of Congress, or where necessary in aid of its jurisdiction, or to protect or effectuate its judgments."</text>
+            <text syncTime="44.496" offset="270022">For the reasons stated in an opinion on file with the clerk this morning, we hold that the under the circumstances of this case, the Court of Appeals for the Ninth Circuit did not give sufficient deference to that statute.</text>
+            <text syncTime="58.834" offset="327387">Accordingly, the judgment is vacated and the case is remanded to the Court of Appeals.</text>
+            <text syncTime="63.864" offset="347449">Justice Powel while joining the opinion of the Court has filed a concurring opinion.</text>
+            <text syncTime="69.248" offset="368974">Justice Blackmun has filed an opinion concurring in the result.</text>
+            <text syncTime="73.498" offset="386006">Justice Brennan has filed a dissenting opinion which Justice Stevens has joined.</text>
+            <text syncTime="78.233" offset="404918">And Justice Marshall has filed a separate dissenting statement.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="82.785" stopTime="84.984">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="82.785" offset="423204">Thank you, Mr. Justice Stewart.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

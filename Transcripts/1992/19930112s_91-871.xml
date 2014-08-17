@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1993-01-12</transcribed>
+        <edit user="tschaefer" date="2012-08-15T19:07:29" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <identified user="tschaefer">2012-08-15</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:38:56" startTime="0.000" oldSpeaker="john_paul_stevens" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="495951">/xml/cases/1992/91_871/19930112o_91-871.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1992/91-871_19930112-opinion.xml</sourceFile>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="103.523">
+        <title>Bath Iron Works Corp. v. Director, Office of Workers' Compensation Programs</title>
+        <section startTime="0.000" stopTime="12.906">
+          <heading>Announcement of Justice Stevens</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="12.906">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="81858">The opinion of the Court in No. 91-871, Bath Iron Works Corporation versus the Director of the Office of Workers' Compensation Programs will be announced by Justice Stevens.</text>
+          </turn>
+        </section>
+        <section startTime="12.906" stopTime="103.523">
+          <heading>Announcement of Justice Stevens</heading>
+          <turn speaker="john_paul_stevens" startTime="12.906" stopTime="103.523">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="12.906" offset="133476">We granted certiorari in this case to resolve the conflict in the Circuits over the proper interpretation of certain provisions of the Longshore and Harbor Workers' Compensation Act relating to claims for hearing loss.</text>
+            <text syncTime="29.201" offset="198573">There are essentially three systems for compensating partially disabled workers under the statute two of which are at issue in this case.</text>
+            <text syncTime="37.271" offset="230860">The first system provides for compensation for claimants who have separate statutorily scheduled injuries one of which is hearing loss.</text>
+            <text syncTime="45.751" offset="264820">The third system provides for compensation for retirees who suffer from latent occupational diseases that do not become disabling until after retirement.</text>
+            <text syncTime="56.714" offset="308705">The question presented in this case is whether a claimant who discovers after retirement that he suffers from a work related hearing loss should be compensated under the first system because loss of hearing is a scheduled injury or under the third system because he did not become aware of the disabling condition until after his retirement.</text>
+            <text syncTime="77.257" offset="390834">In the decision below the Court of Appeals for the First Circuit held that the benefits in such cases should be calculated under first system while on similar facts the Court of Appeals for the Fifth and Eleventh Circuits have applied the provisions of the third system.</text>
+            <text syncTime="91.519" offset="447886">Relying primarily on the plan meeting of the statutory language and the Director's undisputed characterization of occupation hearing loss, we now affirm.</text>
+            <text syncTime="101.104" offset="486234">The opinion of the Court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

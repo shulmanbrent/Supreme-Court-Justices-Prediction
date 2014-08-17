@@ -1,0 +1,47 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1990-01-17</transcribed>
+        <edit user="tschaefer" date="2012-07-02T14:28:23" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <identified user="tschaefer">2012-07-02</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T13:58:22" startTime="0.000" oldSpeaker="harry_a_blackmun" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="606886">/xml/cases/1989/88_1105/19900117o_88-1105.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1989/88-1105_19900117-opinion.xml</sourceFile>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="129.933">
+        <title>Guidry v. Sheet Metal Workers National Pension Fund</title>
+        <section startTime="0.000" stopTime="8.968">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.968">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87154">The opinion of the Court in No. 88-1105, Guidry versus Sheet Metal Workers National Pension Fund will be announced by Justice Blackmun.</text>
+          </turn>
+        </section>
+        <section startTime="8.968" stopTime="129.933">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="harry_a_blackmun" startTime="8.968" stopTime="129.933">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="8.968" offset="122994">The petitioner, Robert Guidry, is a former official of the respondent, Union, and a former trustee of the Union’s pension plan.</text>
+            <text syncTime="20.990" offset="171059">He pleaded guilty to embezzling funds from the Union and has been incarcerated.</text>
+            <text syncTime="28.829" offset="202406">His Union employment, however, made him eligible for benefits from three pension funds.</text>
+            <text syncTime="35.985" offset="231036">Guidry filed suit in Federal Court against the other two plans when they concluded that he had forfeited his rights to benefits because of his criminal activity.</text>
+            <text syncTime="46.128" offset="271578">His own Union intervened, and it and Guidry stipulated to the entry of judgment in the Union’s favor.</text>
+            <text syncTime="54.253" offset="304075">The District Court, however, rejected the contention that Guidry had forfeited his right to benefits.</text>
+            <text syncTime="60.653" offset="329675">It imposed a constructive trust in the Union’s favor on Guidry’s pension benefits.</text>
+            <text syncTime="67.861" offset="358514">In doing this, the court concluded that a narrow exception to the Employment Retirement Income Security Act was appropriate where the Union and the member’s pension plans were damaged.</text>
+            <text syncTime="82.696" offset="417864">The Tenth Circuit affirmed.</text>
+            <text syncTime="85.196" offset="427895">In an opinion filed today, we reverse that judgment.</text>
+            <text syncTime="88.772" offset="442210">We hold that the constructive trust violated the statute’s prohibition on assignment or alienation of pension benefits.</text>
+            <text syncTime="98.322" offset="480349">A constructive trust remedy is prohibited unless some exception to the general statutory ban is applicable.</text>
+            <text syncTime="106.376" offset="512636">It is also inappropriate, we feel, to approve any generalized equitable exception to ERISA’s anti-alienation provision.</text>
+            <text syncTime="116.551" offset="553283">That is a task for Congress, not the courts.</text>
+            <text syncTime="120.246" offset="568121">This decision is unanimous except that Justice Marshall does not join part 2C of the opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

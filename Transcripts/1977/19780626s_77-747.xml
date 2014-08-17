@@ -1,0 +1,35 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="473295">/xml/cases/1977/77_747/19780626o_77-747.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1977/trs/77-747op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="98.258">
+        <title>Allied Structural Steel Company v. Spannaus</title>
+        <section startTime="0.000" stopTime="98.258" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Potter Stewart</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="13.849">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="80100">The judgment and the opinion of the Court in 77-747, Allied Structural Steel Company against Spannaus, the attorney general of Minnesota will be announced by Mr. Justice Stewart.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="13.849" stopTime="95.763">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="13.849" offset="135480">This case is here on direct appeal from the United States District Court for the district of Minnesota.</text>
+            <text syncTime="23.642" offset="174663">This is an important case, both as a matter of abstract constitutional law and as a matter of practical impact and I shall make only a very brief oral announcement this morning.</text>
+            <text syncTime="37.570" offset="230356">The question presented is whether the application of Minnesota's Private Pension Benefits Protection Act to the appellant company violates the contract clause of the Constitution.</text>
+            <text syncTime="51.663" offset="286676">This is the constitutional provision that was at issue in the famous Darmouth College case, argued here by Daniel Webster more than a 150 years ago, but it is a constitutional provision that has been largely quiescent in this century.</text>
+            <text syncTime="69.910" offset="359715">For the reasons set out in detail in the written opinion of the Court we conclude that the Minnesota law does violate this provision of the constitution, accordingly the judgment is reversed.</text>
+            <text syncTime="82.922" offset="411751">Mr. Justice Blackmun took no part in the consideration or decision of this case, and Mr. Justice Brennan has filed a dissenting opinion in which Mr. Justice White and Mr. Justice Marshall have joined.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="95.763" stopTime="98.258">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="95.763" offset="463055">Thank you, Mr. Justice Stewart.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

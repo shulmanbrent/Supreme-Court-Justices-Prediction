@@ -1,0 +1,972 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1996-03-18</transcribed>
+        <edit user="jclow26" date="2012-08-09T12:09:27" startTime="2589.816" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <identified user="jclow26">2012-08-09</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="10686630">/xml/cases/1995/95_591/19960318a_95-591.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1995/95-591_19960318-argument.xml</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="jeffrey_p_minear" type="advocate" gender="male" path="/advocates/jm/jeffrey_p_minear" image="/advocates/jm/jeffrey_p_minear/thumbnail.jpg">Jeffrey P. Minear</speaker>
+        <speaker id="james_r_atwood" type="advocate" gender="male" path="/advocates/ja/james_r_atwood" image="/advocates/ja/james_r_atwood/thumbnail.jpg">James R. Atwood</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="2639.061">
+        <title>United States v. International Business Machines Corporation</title>
+        <section startTime="0.000" stopTime="1427.871">
+          <heading>Argument of Jeffrey P. Minear</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.429">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="127832">We'll hear argument now in Number 95-591, the United States v. International Business Machines Corporation.</text>
+            <text syncTime="9.227" offset="164717">Mr. Minear.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="10.429" stopTime="97.366">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="10.429" offset="169523">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="13.540" offset="181958">The issue in this case is whether section 4371 of the Internal Revenue Code runs afoul of the Export Clause of the Constitution.</text>
+            <text syncTime="21.804" offset="214976">Section 4371 imposes a generally applicable tax not limited to exports on premiums paid by foreign insurers for risks that occur wholly or partly within the United States.</text>
+            <text syncTime="32.552" offset="258026">It eliminates a competitive advantage that foreign insurers would otherwise enjoy by virtue of their exemption from the Federal income tax.</text>
+            <text syncTime="39.967" offset="287597">The Federal Circuit ruled that the Export Clause prohibits the application of that tax to insurance associated with exports.</text>
+            <text syncTime="47.681" offset="318526">They concluded that this Court's decision in Thames &amp; Mersey v. United States compelled that result.</text>
+            <text syncTime="53.676" offset="342454">We submit that this Court's ruling in Thames &amp; Mersey is no longer viable.</text>
+            <text syncTime="57.860" offset="359172">That decision was a departure from precedent when it was decided 80 years ago, and it rested on a Commerce-Clause rationale this Court has since repudiated.</text>
+            <text syncTime="65.924" offset="391460">But perhaps most important, Thames cannot be reconciled with this Court's modern tax decisions, which have worked a basic change in the law.</text>
+            <text syncTime="73.610" offset="422180">Those decisions, Michelin Tire and Washington Stevedoring, have, in the words of the Court, abandoned the past practice of examining when goods lose their character as imports or exports, and has refocused the inquiry on the nature of the tax at issue.</text>
+            <text syncTime="88.240" offset="480694">Using that approach, the Court has concluded that the Import-Export Clause does not prohibit the application of generally applicable taxes, but rather prohibits--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="97.366" stopTime="103.658">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="97.366" offset="517265">Well, Mr. Minear, we're dealing here with the Export Clause, not the Import-Export Clause, isn't that right?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="103.658" stopTime="104.789">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="103.658" offset="542448">--That is correct, Your Honor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="104.789" stopTime="111.925">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="104.789" offset="546941">And it certainly is possible that the Export Clause has different purposes than the Import-Export Clause.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="111.925" stopTime="117.909">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="111.925" offset="575466">That is possible, but we do not think it is borne out by either the language or the content of the clause itself.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="117.909" stopTime="126.585">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="117.909" offset="599394">You do concede that if we do not overrule the Thames case that you lose?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="126.585" stopTime="129.297">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="126.585" offset="634085">That is correct.</text>
+            <text syncTime="127.755" offset="638787">We have made that concession in the briefs.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="129.297" stopTime="139.482">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="129.297" offset="644952">And it obviously would require ultimately overruling more than just Thames &amp; Mersey.</text>
+            <text syncTime="135.310" offset="668985">There are some other cases that are of the same genre, are they not?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="139.482" stopTime="144.814">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="139.482" offset="685703">But relatively few, Your Honor.</text>
+            <text syncTime="140.273" offset="688838">In fact, there were four cases that were decided before Thames and Mersey--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="144.814" stopTime="148.417">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="144.814" offset="707019">Well, why should we do that at all?</text>
+            <text syncTime="145.996" offset="711721">Why not leave them in place?</text>
+            <text syncTime="147.348" offset="717154">What harm does it do?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="148.417" stopTime="155.243">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="148.417" offset="721439">--The harm that it does is, it results in a lack of coherence in this Court's overall approach to the problem in this area.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="155.243" stopTime="182.882">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="155.243" offset="748710">Well, occasionally one has that.</text>
+            <text syncTime="157.613" offset="758219">We certainly have the precedents out there, and I just... you're going to have to persuade me that there are some very important reasons for overturning these longstanding precedents.</text>
+            <text syncTime="169.882" offset="807329">And this is a separate provisions, too.</text>
+            <text syncTime="171.943" offset="815584">It's not as if it's based on the Commerce Clause.</text>
+            <text syncTime="174.505" offset="825824">It's based on a separate prohibition against taxes on imports, on exports, which is... the language is different even in the Export-Import Clause.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="182.882" stopTime="225.268">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="182.882" offset="859261">Your Honor, I'd like to answer both of the questions, both of the points that you made there.</text>
+            <text syncTime="187.273" offset="876919">First, this Court has consistently interpreted the Export Clause and the Import-Export Clause as imposing a parallel limitation on the Federal and State Governments with respect to exports.</text>
+            <text syncTime="196.740" offset="914745">If there's one element of consistency that has run through this Court's cases in the past 175 years, it is that those two clauses should be interpreted consistently.</text>
+            <text syncTime="206.126" offset="952256">And secondly, there is a question of the language difference.</text>
+            <text syncTime="208.918" offset="963437">Respondent asserts that the Export Clause should be read as a more extensive prohibition because it uses the term, tax or duty, rather than the term, impost or duty, but the terms tax and impost are synonymous, and the operative phrase in this context is functionally identical.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="225.268" stopTime="228.550">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="225.268" offset="1028848">Well, why are they synonymous?</text>
+            <text syncTime="226.430" offset="1033550">Why did the Framers use different language, then?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="228.550" stopTime="252.637">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="228.550" offset="1042013">The Framers frequently used synonymous terms to express the same idea.</text>
+            <text syncTime="232.034" offset="1055910">For example, the Framers stated that Congress would have the power to raise and support armies, but also to provide and maintain a Navy.</text>
+            <text syncTime="241.390" offset="1093318">It said that Congress would have the power to establish post offices, but to constitute tribunals.</text>
+            <text syncTime="247.865" offset="1119231">The very nature of a synonym is, frequently it can be used interchangeably with no change in meaning.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="252.637" stopTime="263.597">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="252.637" offset="1138353">Well, I don't think that carries you very... to provide and maintain a Navy, you're providing ships, whereas to raise and support armies, you're conscripting troops.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="263.597" stopTime="282.727">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="263.597" offset="1182134">But this... the overall content of those phrases, they convey the same general meaning, and that's the point that Chief Justice Marshall made in 1827 in the case of Brown v. Maryland.</text>
+            <text syncTime="272.729" offset="1218705">As he stated, there is some diversity in language, but the act that is prohibited is the same, and that provision, that statement has been followed by this Court, as I say, in numerous cases.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="282.727" stopTime="284.597">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="282.727" offset="1258725">Yes, even though the case itself hasn't been followed.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="284.597" stopTime="312.787">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="284.597" offset="1266144">The case itself has been followed in significant part.</text>
+            <text syncTime="288.080" offset="1280145">It's true that the aspect of the case originally... relating to the original package doctrine has not been followed.</text>
+            <text syncTime="294.475" offset="1305641">At least it has not been seen as a restriction, but one of the ironies of this case is that what the respondent's position would do is actually reintroduce the very notion of the original package doctrine, or at least the converse of it in the sense of taxes on exports.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="312.787" stopTime="330.248">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="312.787" offset="1378888">Are you concerned that the original package doctrine has to be introduced, or something like it, if we attempt some halfway solution where we rule in your favor saying there cannot be a tax on the export, but that if there is an indirect tax, then the discrimination rule applies?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="330.248" stopTime="340.734">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="330.248" offset="1448792">Yes.</text>
+            <text syncTime="330.609" offset="1450255">That is a problem, that we believe that one of the basic points in this Court's decision in Michelin Tire and Washington Stevedoring was to abandon that type of inquiry, this inquiry--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="340.734" stopTime="348.380">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="340.734" offset="1490692">Mr. Minear, you mentioned Washington Stevedoring, which involved the cost of loading, and--</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="348.380" stopTime="350.891">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="348.380" offset="1521308">--Yes.</text>
+            <text syncTime="348.670" offset="1522457">The tax was applied to loading and unloading the ships.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="350.891" stopTime="379.289">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="350.891" offset="1531339">--And I thought that the whole idea of that is that that was a discrete item, that you could separate the stevedoring, the loading of the vessel from the goods, and I was struck by your brief that you don't make any lesser argument.</text>
+            <text syncTime="365.221" offset="1588704">You don't say, this tax is okay because it's on the insurance and not on the goods.</text>
+            <text syncTime="372.797" offset="1619006">You seem to concede that the tax should be treated as though it were on the goods.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="379.289" stopTime="384.763">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="379.289" offset="1644919">Well, we believe that that's a separate problem with Thames &amp; Mersey.</text>
+            <text syncTime="382.352" offset="1657145">It's another problem that was introduced by that case.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="384.763" stopTime="386.996">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="384.763" offset="1666862">But you've conceded that.</text>
+            <text syncTime="385.935" offset="1671564">You've conceded--</text>
+            <text syncTime="386.345" offset="1673132">--You've conceded that.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="386.996" stopTime="387.597">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="386.996" offset="1675744">But that is--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="387.597" stopTime="391.047">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="387.597" offset="1678147">So that problem's over the falls, right?</text>
+            <text syncTime="389.757" offset="1686820">We don't have to worry about that.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="391.047" stopTime="396.142">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="391.047" offset="1691940">--The bigger problem is the one that we're concerned with, and that was the application... yes.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="396.142" stopTime="412.011">
+            <label>Justice David H. Souter</label>
+            <text syncTime="396.142" offset="1712315">Excuse me.</text>
+            <text syncTime="398.863" offset="1723182">It seems to me that you could, in this case, say this is not a tax on the goods themselves, and then invoke your antidiscrimination principle, leaving a tax on the goods themselves for another day.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="412.011" stopTime="413.203">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="412.011" offset="1775845">That's correct.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="413.203" stopTime="414.064">
+            <label>Justice David H. Souter</label>
+            <text syncTime="413.203" offset="1780547">The Spalding case, et cetera.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="414.064" stopTime="425.381">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="414.064" offset="1783995">And the problem, the reason why we chose not to do that is because it is... it requires us to fall back onto an analysis similar to the original package doctrine.</text>
+            <text syncTime="422.620" offset="1818268">What is an export, and what is not an export?</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="425.381" stopTime="431.385">
+            <label>Justice David H. Souter</label>
+            <text syncTime="425.381" offset="1829344">But is it so hard in this case to do that?</text>
+            <text syncTime="428.244" offset="1840733">Can't we reserve the difficult question for a later case?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="431.385" stopTime="438.819">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="431.385" offset="1853272">Well, of course you could do that, but it seems to me that the issue ought to be addressed now, that this is a problem that has continued to plague this area--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="438.819" stopTime="463.566">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="438.819" offset="1883052">Well, how does your theory not require us to figure out what are imports and what aren't imports?</text>
+            <text syncTime="444.352" offset="1905203">Even to decide whether a tax is discriminatorily placed on imports you have to decide the same question.</text>
+            <text syncTime="451.307" offset="1932998">Let's assume you have a task that is only placed upon insurance of exports.</text>
+            <text syncTime="459.012" offset="1963822">Wouldn't you still have to decide whether that's, in effect, a tax upon exports?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="463.566" stopTime="466.679">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="463.566" offset="1982003">--Then you might well have to face that question, but the test--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="466.679" stopTime="472.211">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="466.679" offset="1994542">Of course.</text>
+            <text syncTime="466.979" offset="1995692">I don't see how that question is eliminated by adopting the theory that you're pressing upon us.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="472.211" stopTime="482.317">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="472.211" offset="2016590">--The test that we propose will eliminate that inquiry in most every case, because the initial question will be, is this tax discriminatory, and that's a question that can usually be answered quite easily.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="482.317" stopTime="492.173">
+            <label>Justice David H. Souter</label>
+            <text syncTime="482.317" offset="2057027">Oh, but you've got to say discriminatory against what, and to determine the what, you've got to decide whether the subject of the tax should be treated as an export.</text>
+            <text syncTime="490.343" offset="2089105">I don't see how you can get away from it.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="492.173" stopTime="501.871">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="492.173" offset="2096524">Well, on the other hand, Your Honor, if a tax applies across the board to all types of transactions, it is not discriminatory, so you do not need to get into the question of what is an export and what isn't, as long as--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="501.871" stopTime="525.056">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="501.871" offset="2135290">So if the South, in other words, exports 100 percent of its indigo crop... no, let's say only 99.99 percent, and Congress were to pass a tax saying all shipments of indigo pay a 10 percent tax, in your view that's nondiscriminatory and, therefore, at the time this Constitution was enacted, the court should have upheld it?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="525.056" stopTime="531.910">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="525.056" offset="2227972">--I think that the question of whether any particular tax is going to be discriminatory may require a further analysis.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="531.910" stopTime="533.401">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="531.910" offset="2255453">What about the case I put?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="533.401" stopTime="540.386">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="533.401" offset="2261409">At the moment that that tax is imposed, perhaps it is a tax on exports, but you must remember that markets constantly change.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="540.386" stopTime="547.420">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="540.386" offset="2289308">The question I think that was being asked is, isn't... don't you have to figure out whether the tax is on an export or not even under your analysis?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="547.420" stopTime="567.953">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="547.420" offset="2317416">You do, but you can... the analysis we propose simplifies this area in the same way that it has simplified the area in the Import-Export Clause cases by focusing on the nature of the tax.</text>
+            <text syncTime="559.647" offset="2366317">If the tax is a general tax, if it applies across the board to all of the products, then it would not fall within the purview of the Export Clause.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="567.953" stopTime="592.469">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="567.953" offset="2399545">Mr. Minear--</text>
+            <text syncTime="568.914" offset="2403411">--No, but that's--</text>
+            <text syncTime="569.485" offset="2405710">--would you explain to me why you don't make the argument, the simple argument that what Congress had in mind was evening out the situation for domestic insurers, because this would apply to the... suppose there were a foreign company that was insuring entirely domestic transport, the tax would apply, right?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="592.469" stopTime="592.799">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="592.469" offset="2497661">Yes.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="592.799" stopTime="600.443">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="592.799" offset="2499019">And yet that seems such a simple argument that you avoid, and I'm not clear on why you're doing that.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="600.443" stopTime="634.477">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="600.443" offset="2529530">We do not mean to avoid that argument.</text>
+            <text syncTime="602.426" offset="2537471">That's part of our argument of why this is a tax of general application.</text>
+            <text syncTime="605.579" offset="2550114">In this particular context, in fact, the tax appears to be more an import tax than an export tax.</text>
+            <text syncTime="611.062" offset="2572057">Remember, this is a tax that is being imposed on the basis of foreign insurers selling insurance in this country on the basis... to protect against risks that occur wholly or partly in the United States, but our argument is addressed to the broader problem here, and that's why we think that you need to reconsider Thames &amp; Mersey.</text>
+            <text syncTime="627.813" offset="2639035">The... our concerns here are not limited to just this case, but rather to add incoherence to the overall body of law here.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="634.477" stopTime="668.110">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="634.477" offset="2665680">Mr. Minear, I'm just skeptical that the canny southerners who got this provision included in the Constitution were resigned to the notion that if a tax were placed upon indigo, it would be up to the courts as to whether that was a discriminatory... you know, upon shipments of indigo.</text>
+            <text syncTime="654.700" offset="2746555">It would depend upon what percentage was being exported, and that's your analysis, right, that if, in fact, almost all indigo was being exported, that would be a discriminatory tax.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="668.110" stopTime="669.550">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="668.110" offset="2800263">It could be.</text>
+            <text syncTime="668.559" offset="2802039">I'm not saying that it would be.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="669.550" stopTime="669.931">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="669.550" offset="2806010">I--</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="669.931" stopTime="671.651">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="669.931" offset="2807473">Your Honor--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="671.651" stopTime="677.464">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="671.651" offset="2814369">--I'm skeptical that that's all the protection the southerners thought they got when they got the Export Clause included in the Constitution.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="677.464" stopTime="711.919">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="677.464" offset="2837670">--Well, if we're looking to what the Framers were concerned about, I think that the Convention debates indicate they were concerned about export taxes.</text>
+            <text syncTime="684.379" offset="2865256">At that period, they were familiar with the types of taxes that were commonly imposed on trade and, during that era, it was very common to impose a tax on exports.</text>
+            <text syncTime="693.556" offset="2902036">In fact, the Convention debates make specific reference to the tax that France imposed upon her wines and brandies that were exported and the tax that England imposed on its woollen products as well.</text>
+            <text syncTime="703.581" offset="2942056">That is what they saw as the danger... a tax that would be imposed upon exports that would fall disproportionately on the southern States which had developed an export economy.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="711.919" stopTime="758.648">
+            <label>Justice David H. Souter</label>
+            <text syncTime="711.919" offset="2975492">Well, it isn't just disproportionality, is it?</text>
+            <text syncTime="714.990" offset="2987718">Weren't they concerned with the fact that, if there was a tax on the exports, they would go broke one way or the other?</text>
+            <text syncTime="721.602" offset="3014154">Either they wouldn't be able to make any money on their exports or... because the Government would take their profit, or they couldn't, conversely, sell on the world market because the price would be too high, and it wouldn't have been any consolation to them whatsoever to find that, in fact, they were not being discriminated against within sort of the general field of taxation in the United States.</text>
+            <text syncTime="744.009" offset="3103806">They... if they couldn't do business, they couldn't do business, and as a region that was a... basically a net exporter of raw materials, it was the ultimate economic effect that they were worried about, not discrimination, isn't that fair to say?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="758.648" stopTime="770.906">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="758.648" offset="3162320">I think that they were... they realized that their ultimate protection from taxation in the southern States, as well in the North, lie in the establishment of a Congress composed of two Houses that would provide the representation that would give weight to their concerns.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="770.906" stopTime="795.761">
+            <label>Justice David H. Souter</label>
+            <text syncTime="770.906" offset="3211430">Well, if that's all they were concerned about, then they didn't need the clause in the first place.</text>
+            <text syncTime="774.577" offset="3226059">I mean, they wanted that clause.</text>
+            <text syncTime="776.500" offset="3233791">They were not taking this on faith, and the reason they wanted that clause ultimately turned on the economic effect of the tax, and I suppose the economic effect of the tax is going to be exactly the same, or was expected to be exactly the same whether you or I called it discriminatory or not.</text>
+            <text syncTime="793.591" offset="3302128">I mean, isn't that a fair objection?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="795.761" stopTime="805.799">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="795.761" offset="3310800">I think that their objection was actually more pointed.</text>
+            <text syncTime="797.993" offset="3319786">It was to the notion of the export tax, the export tax that they were familiar with that they saw posing a serious threat to their economies as they existed--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="805.799" stopTime="819.638">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="805.799" offset="3350924">You're... well, then you're being inconsistent in your analysis.</text>
+            <text syncTime="809.021" offset="3363881">Then you shouldn't say that if 99 percent of indigo is exported, a tax generally on the sale of indigo would be a discriminatory tax.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="819.638" stopTime="821.080">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="819.638" offset="3406304">--My view on that is--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="821.080" stopTime="828.925">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="821.080" offset="3412051">Which is it?</text>
+            <text syncTime="821.551" offset="3414036">If they're concerned only with taxes on exports, then that hypothetical should not be a dis... should not come within the Export Clause.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="828.925" stopTime="870.271">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="828.925" offset="3443502">--I'd like to clarify my answer on that, and that is that the tax on an object that is 100 percent exported might very well be a discriminatory tax if it's a pretext for imposing a tax on exports.</text>
+            <text syncTime="839.850" offset="3487179">But there are other types of taxes that would, in fact, fall exclusively on an exported product, yet we would hesitate to call them an export tax, and let me give you the example of a medicine, for instance, that is not approved for use in the United States but is approved for use elsewhere, and as a result it is... tends to be exported.</text>
+            <text syncTime="857.602" offset="3558232">Congress could impose a tax on that, I believe, without violating the Export Clause to cover the specific cost that the Government incurs in going through the FDA approval process, and that's why I say you need to look to the actual purpose of the tax--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="870.271" stopTime="870.852">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="870.271" offset="3608910">Well--</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="870.852" stopTime="871.903">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="870.852" offset="3611208">--that's being rendered in any particular case.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="871.903" stopTime="882.298">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="871.903" offset="3615388">--what leads you to that conclusion, that the Government can levy a tax on medicine being exported if it has gone to some expense to test it in this country?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="882.298" stopTime="890.704">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="882.298" offset="3656975">By... the reason for that is because, even now, the Congress can levy that type of tax if it's a tax on the manufacturer rather than at some later point.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="890.704" stopTime="896.428">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="890.704" offset="3690621">Well, but you say it can levy a tax on the medicine itself being exported?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="896.428" stopTime="904.773">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="896.428" offset="3713504">It can levy a tax on the medicine, not on the medicine... what I'm saying... my point here, Your Honor, is that you have to focus on the specific tax that's at issue.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="904.773" stopTime="913.689">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="904.773" offset="3746836">Well, of course, the constitutional language says no tax or duty.</text>
+            <text syncTime="910.238" offset="3768779">Now, presumably that includes more than just a tax.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="913.689" stopTime="929.950">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="913.689" offset="3782572">Yes.</text>
+            <text syncTime="915.692" offset="3790513">I... oh, I think that it can... it embraces the same types of imposts and duties as are included within the Import-Export Clause.</text>
+            <text syncTime="922.845" offset="3819143">Our view is that there was no difference in meaning in the tax and duty in the Export Clause and the impost and duty in the Import-Export Clause.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="929.950" stopTime="947.682">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="929.950" offset="3847564">But it seems to me your answer to the Chief Justice betrays what is the... betrays your argument and what's of concern to the Court.</text>
+            <text syncTime="937.724" offset="3878702">You say, well, that's a tax on manufacturing.</text>
+            <text syncTime="939.675" offset="3886434">We're right back into asking the difference between a tax on an export and the tax on manufacturing.</text>
+            <text syncTime="944.490" offset="3905765">Your discrimination rationale does not save us that inquiry.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="947.682" stopTime="966.563">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="947.682" offset="3918513">It eliminates the inquiry in most cases, is my point here.</text>
+            <text syncTime="952.304" offset="3937008">In virtually all cases it will eliminate that inquiry.</text>
+            <text syncTime="955.356" offset="3949233">We look to whether... excuse me, Your Honor.</text>
+            <text syncTime="957.149" offset="3956338">You look to whether the tax is, in fact, nondiscriminatory, and if the tax is nondiscriminatory, then it will not run afoul of those concerns that are indicated by the Export Clause.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="966.563" stopTime="969.525">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="966.563" offset="3994059">And nondiscriminatory means what?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="969.525" stopTime="972.116">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="969.525" offset="4005866">It's a tax of general application that's applied to goods across the board.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="972.116" stopTime="977.932">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="972.116" offset="4016211">Well, do we have to, then, look at the percentage of the thing that's exported as opposed to the percentage that isn't?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="977.932" stopTime="983.446">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="977.932" offset="4039512">No.</text>
+            <text syncTime="978.551" offset="4042020">I think that in the usual case you'll be able, as in this case, simply to look to the character of the tax.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="983.446" stopTime="1004.279">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="983.446" offset="4061559">The character of the tax?</text>
+            <text syncTime="984.865" offset="4067202">You always phrase... you know, all... nondiscriminatory, rich and poor can sleep under the bridges of Paris.</text>
+            <text syncTime="991.160" offset="4092384">Nondiscriminatory.</text>
+            <text syncTime="992.372" offset="4097295">All indigo is taxed, even though it happens to be the case that 99.999 percent is exported.</text>
+            <text syncTime="999.724" offset="4126656">Is that... how do you avoid looking at the percentages?</text>
+            <text syncTime="1003.688" offset="4142539">I--</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1004.279" stopTime="1013.305">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1004.279" offset="4144942">My point to you on the indigo example is, we would not say that you are... that a party is precluded from challenging even a nondiscriminatory, a tax that on it's face is nondiscriminatory--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1013.305" stopTime="1014.326">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1013.305" offset="4180991">--All right, let me ask you a different--</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1014.326" stopTime="1014.616">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1014.326" offset="4185066">--on the basis--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1014.616" stopTime="1015.237">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1014.616" offset="4186216">--Can I ask you a different question--</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1015.237" stopTime="1015.638">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1015.237" offset="4188723">--Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1015.638" stopTime="1090.656">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1015.638" offset="4190291">--because this is what is actually worrying me, but I can't... if, it seems to me, if... if, and it's a very big if, a tax on premiums paid to foreign insurers who have no U.S. offices for casualty insurance is in fact a tax on the item that is insured, then we are to look to this as a tax on the item insured.</text>
+            <text syncTime="1051.472" offset="4333651">Then I would guess it is relevant as to how many, what the percent of items is that buys this kind of insurance that is exported, and I would imagine it's very, very high, and therefore we're back to the 99.9 percent indigo.</text>
+            <text syncTime="1070.434" offset="4409510">What's wrong with the reasoning I just said, and I said it's a very big if, because it sounds to me as if your brief has assumed the if, and if we're supposed to go into the if, or not go into the if, how do we go into it, given the arguments in front of us and our lack of knowledge of the empirical facts that underlie them?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1090.656" stopTime="1103.465">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1090.656" offset="4490385">My view on how you approach the question is as follows.</text>
+            <text syncTime="1093.718" offset="4502611">You look at the tax, and how the tax is phrased.</text>
+            <text syncTime="1096.111" offset="4512224">The tax in this case is phrased to cover all casualty insurance that's issued by a foreign insurer that involves a risk--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1103.465" stopTime="1109.470">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1103.465" offset="4541690">No.</text>
+            <text syncTime="1104.166" offset="4544407">I take it, foreign insurer who has no U.S. office, is that right?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1109.470" stopTime="1111.610">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1109.470" offset="4565618">--Yes.</text>
+            <text syncTime="1109.810" offset="4566976">It applies to an insurer that has no U.S. office.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1111.610" stopTime="1125.869">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1111.610" offset="4574186">So that must not be very normal that an American buys insurance casualty from an insurer who has no U.S. office but does not intend to ship the goods so insured abroad.</text>
+            <text syncTime="1124.639" offset="4626327">I mean, I don't know.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1125.869" stopTime="1157.331">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1125.869" offset="4631238">This tax applies not simply to export insurance but across the board to all types of casualty insurance, but again, to get back to the problem that you're postulating here, the approach is to look at the tax and determine whether or not it discriminates against exports.</text>
+            <text syncTime="1140.859" offset="4691215">If it does not discriminate against exports, then the tax is valid.</text>
+            <text syncTime="1145.053" offset="4708038">I would not rule out the possibility that a party could say that, even though the tax on its face is nondiscriminatory and therefore valid, that in fact it has a pretext or a different motive that requires a further analysis.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1157.331" stopTime="1158.139">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1157.331" offset="4757148">Mr. Minear, do we have any--</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1158.139" stopTime="1158.880">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1158.139" offset="4760387">But that's a very small number of cases.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1158.880" stopTime="1170.277">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1158.880" offset="4763313">--Do we have any idea whether there is any business of insuring domestic transport by foreign insurance companies that have no office in the U.S.?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1170.277" stopTime="1188.312">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1170.277" offset="4808870">I believe that there is.</text>
+            <text syncTime="1171.719" offset="4814617">The total amount of tax revenue that is collected each year from section 4371 is about $100 million, and we don't know what proportion of that tax relates to export insurance and which portion relates to flood insurance, fire insurance, or any other type of casualty insurance that might be imposed under this tax.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1188.312" stopTime="1199.347">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1188.312" offset="4881073">Well, I suppose the tax covers reinsurance so that things like insurance carried by Lloyd's would be covered by this tax--</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1199.347" stopTime="1199.638">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1199.347" offset="4925168">Yes.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1199.638" stopTime="1200.188">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1199.638" offset="4926317">--is that right?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1200.188" stopTime="1204.831">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1200.188" offset="4928511">It does cover reinsurance at a different rate.</text>
+            <text syncTime="1201.749" offset="4934781">It does provide for a 1-cent rather a 4-cent--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1204.831" stopTime="1208.063">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1204.831" offset="4947110">But that could explain the large revenues.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1208.063" stopTime="1211.006">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1208.063" offset="4960067">--That might explain it, that's true.</text>
+            <text syncTime="1209.796" offset="4966963">We simply don't know the answer to that.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1211.006" stopTime="1248.620">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1211.006" offset="4971770">Let me ask you this.</text>
+            <text syncTime="1212.348" offset="4977203">I thought that under cases like this stevedoring case we wouldn't say that a tax is nondiscriminatory unless it bears a reasonable relationship with the privilege of doing business within the taxing jurisdiction.</text>
+            <text syncTime="1230.029" offset="5047943">I'm not certain that a tax imposed on insurance on goods traveling overseas bears a reasonable relationship to the United States under that test.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1248.620" stopTime="1270.548">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1248.620" offset="5122235">Oh, I believe that the tax here is designed to eliminate the competitive advantage that foreign insurers enjoy in this market by their exemption from the Federal income tax, and this Court has recognized that that type of tax is permissible.</text>
+            <text syncTime="1259.108" offset="5164240">It's very similar to a tariff tax for, as I say, a service that's being provided in this country.</text>
+            <text syncTime="1263.162" offset="5180436">I think overall it's... viewed from the Framers' perspective the Thames decision would be viewed as an anomaly, and--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1270.548" stopTime="1300.097">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1270.548" offset="5210007">Mr. Minear, to come back to the Framers' perspective, I note in your reply brief even Justice Story's description of the word impost... I'm coming back to the difference between the... in the phrasing of the two clauses.</text>
+            <text syncTime="1287.177" offset="5276462">Story's... observes that it is sometimes used in the large sense of taxes, and sometimes in the more restrained sense of a duty on imported goods and merchandise.</text>
+            <text syncTime="1298.117" offset="5320243">That's what he says--</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1300.097" stopTime="1300.478">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1300.097" offset="5328185">--Yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1300.478" stopTime="1340.533">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1300.478" offset="5329648">--in 1833.</text>
+            <text syncTime="1301.600" offset="5334141">Merriam Webster's 1828 dictionary says the same thing, that it could be used... well, I'll read it.</text>
+            <text syncTime="1309.164" offset="5364443">Any tax or tribute imposed by authority, particularly a duty or a tax laid by a Covernment on goods imported.</text>
+            <text syncTime="1316.489" offset="5393700">Imposts are also called customs.</text>
+            <text syncTime="1319.449" offset="5405612">I think, given the difference in the language, why... wouldn't it be normal to give... that is, between taxes in one clause and imports and exports in the other, duties in the other.</text>
+            <text syncTime="1334.209" offset="5464648">Wouldn't it be normal for us to give it its more limited meaning here?</text>
+            <text syncTime="1338.532" offset="5481889">It can bear a more limited meaning.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1340.533" stopTime="1346.319">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1340.533" offset="5489935">No, I don't believe that it is appropriate, first of all because it has a more general meaning, second, because even Justice--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1346.319" stopTime="1346.898">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1346.319" offset="5513027">Well, I--</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1346.898" stopTime="1347.148">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1346.898" offset="5515326">--Story recognizes--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1347.148" stopTime="1348.029">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1347.148" offset="5516371">--No, of course it has a more general--</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1348.029" stopTime="1348.610">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1348.029" offset="5519923">--Yes, and Justice--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1348.610" stopTime="1355.384">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1348.610" offset="5522222">--But as between giving it the more general or giving it the narrower, giving it the narrower meaning makes it different.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1355.384" stopTime="1404.216">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1355.384" offset="5549285">--But you've already given it a broader meaning than that in Justice Marshall's, Chief Justice Marshall's first opinion, where he felt that impost reached a licensing fee, which would never have been viewed as an impost in the normal, limited meaning of that term.</text>
+            <text syncTime="1367.992" offset="5599754">I think these terms have really become, in a sense, terms of art that are tied to the objectives that the Framers sought to convey through the Constitution.</text>
+            <text syncTime="1377.058" offset="5636012">I would also point out that this Court has used the term tax and impost interchangeably.</text>
+            <text syncTime="1381.522" offset="5653879">In a 1906 decision called New Jersey v. Anderson, this Court described a tax as an impost for the support of the Government.</text>
+            <text syncTime="1389.216" offset="5684599">That appears at 203 U.S. at 492.</text>
+            <text syncTime="1393.580" offset="5702049">So I don't think that a word search will really provide us the answer here.</text>
+            <text syncTime="1397.151" offset="5716364">Instead, I think we have to take a look at the broader perspective and make sure that the Export-Clause jurisprudence is consistent with the Import-Export-Clause jurisprudence.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1404.216" stopTime="1408.269">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1404.216" offset="5744681">Well, why should we do that, when they're two different clauses and different language?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1408.269" stopTime="1424.319">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1408.269" offset="5760877">Because that is the one source of consistency in this area of law in the past 170 years, and even in Washington Stevedores, this Court cited Export Clause cases... the Spalding case in particular, as a case that it viewed as taking the wrong approach in this area of law.</text>
+            <text syncTime="1421.877" offset="5815316">I'd like to reserve the remainder of my time for rebuttal.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1424.319" stopTime="1427.871">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1424.319" offset="5825034">Very well, Mr. Minear.</text>
+            <text syncTime="1425.661" offset="5830467">Mr. Atwood, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="1427.871" stopTime="2348.767">
+          <heading>Argument of James R. Atwood</heading>
+          <turn speaker="james_r_atwood" startTime="1427.871" stopTime="1475.453">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1427.871" offset="5839244">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1435.856" offset="5871218">The holding of Michelin and Washington Stevedoring which the Government is relying on so heavily in this case is that impost did not mean tax.</text>
+            <text syncTime="1446.514" offset="5913850">The key holding in Michelin was that impost referred to a subcategory of taxes, those taxes which are of a customs nature.</text>
+            <text syncTime="1455.811" offset="5951048">Those are the cases the Government's relying upon, and now they're turning the rationale of that case inside-out.</text>
+            <text syncTime="1461.842" offset="5975185">Impost and tax in some instances are used synonymously, but rarely, and certainly the jurisprudence under these clauses has been absolutely to the contrary.</text>
+            <text syncTime="1473.801" offset="6022937">Even Chief--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1475.453" stopTime="1481.157">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1475.453" offset="6029625">Absolutely... I mean, you have John Marshall, for starters, as saying that the two clauses mean the same thing.</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1481.157" stopTime="1656.151">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1481.157" offset="6052403">--Not on this point, Justice Scalia, and I think this is very important.</text>
+            <text syncTime="1485.527" offset="6069853">I think the Government has put together in a way that ends up being misleading two different things that John Marshall said, Chief Justice Marshall.</text>
+            <text syncTime="1493.054" offset="6099946">In the... where he said the clauses are similar, he was addressing the issue of whether a tax imposed on an occupation is a tax on an import, and it was in that context that he drew an analogy to the Export Clause and said both clauses are similar in that they use similar language as to what's prohibited, what act is prohibited the laying on of a tax.</text>
+            <text syncTime="1514.188" offset="6184583">That's where he said the clauses were similar.</text>
+            <text syncTime="1516.270" offset="6192838">Separately, eight pages earlier, he addressed the difference between tax and imports.</text>
+            <text syncTime="1521.512" offset="6213840">Justice Thompson... you may remember the Senate in that case saying the Maryland tax was a tax, not an impost, and therefore was outside the scope of the Import-Export Clause.</text>
+            <text syncTime="1531.669" offset="6254487">Marshall rejected that argument and concluded there, to quote the Government's reply brief on page 12, the Court concluded that the term impost is not used in a narrow or fixed manner, but generally signifies a tax levied on articles brought into the country, so we agree with Marshall's statement.</text>
+            <text syncTime="1549.962" offset="6327630">I think his statement is consistent with Michelin that in the context of these clauses, impost had a rather specific meaning.</text>
+            <text syncTime="1556.234" offset="6352707">Thames &amp; Mersey was not a departure from existing law at the time.</text>
+            <text syncTime="1564.132" offset="6384263">The Court's decisions on the Export Clause have been perfectly consistent.</text>
+            <text syncTime="1568.542" offset="6401922">They have said from the beginning that Federal taxes may not be applied to the export process itself.</text>
+            <text syncTime="1574.406" offset="6425432">They've also said that if the export journey has not begun, such as in a manufacturing tax, then the issue of discrimination is important.</text>
+            <text syncTime="1585.543" offset="6469945">But all of the cases, starting with Turpin v. Burgess, have said that you can... the Federal Government cannot tax the export process itself, and Thames &amp; Mersey is squarely within that line of authority.</text>
+            <text syncTime="1597.083" offset="6516129">Now, concerning the questions, I guess Justice Kennedy raised and perhaps Justice Ginsburg, as to whether this is sufficiently indirect that it's not a tax on exports, the record doesn't reveal the sort of statistical information Justice Breyer was suggesting might be relevant because the Government has conceded throughout that they are not disputing that this tax, if discriminatory, is in violation of the Constitution.</text>
+            <text syncTime="1623.770" offset="6622813">They are not challenging that aspect of Thames &amp; Mersey.</text>
+            <text syncTime="1626.031" offset="6631904">They haven't challenged it throughout.</text>
+            <text syncTime="1627.291" offset="6636919">To do so, they would have to challenge not just Thames &amp; Mersey, they'd have to go back and challenge Chief Justice Marshall's holding in Brown v. Maryland that a tax on occupation is a tax on an import, they'd have to challenge the Fairbank decision, which they've embraced throughout their briefs, which involved a indirect tax, they'd have to challenge Hvoslef, they'd have to challenge Thames &amp; Mersey.</text>
+            <text syncTime="1648.285" offset="6720929">And the reality is that a tax on insurance is very... is about as close as you can come to an ad valorem tax on the property.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1656.151" stopTime="1659.294">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1656.151" offset="6752381">Why?</text>
+            <text syncTime="1656.882" offset="6755306">Just satisfy my curiosity.</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1659.294" stopTime="1660.704">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1659.294" offset="6764919">There is a separate premium--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1660.704" stopTime="1663.265">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1660.704" offset="6770562">My particular question would be, why is a tax on a premium--</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1663.265" stopTime="1663.905">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1663.265" offset="6780802">--Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1663.905" stopTime="1671.650">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1663.905" offset="6783414">--It's a tax on a premium that paid for an insurance policy of a sort that exporters might buy and also people who are not exporters might buy.</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1671.650" stopTime="1672.131">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1671.650" offset="6814343">Well--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1672.131" stopTime="1688.262">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1672.131" offset="6816328">And so why is a tax that is applied to an item that both exporters and nonexporters might buy, in some proportion we know not what, why is that a tax on the good that is exported?</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1688.262" stopTime="1713.899">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1688.262" offset="6880799">--Because when it is purchased for a shipment of goods, as in the case here, there is a separate premium charged for every shipment.</text>
+            <text syncTime="1697.208" offset="6916639">Every box, every computer that's boxed up, a separate premium is charged for that shipment from the time it leaves IBM's plant to the time it's delivered abroad.</text>
+            <text syncTime="1705.313" offset="6949030">That premium varies directly with the value of that product, because if it's an expensive machine it has a higher premium than if it's an inexpensive--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1713.899" stopTime="1734.301">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1713.899" offset="6983408">But that's not the only variable.</text>
+            <text syncTime="1716.160" offset="6992394">If you ship from Chicago to Toronto I'm sure that the value of the good is the predominant part of the premium, but if you ship from an IBM headquarters to India by steamship, I'm sure those other factors are much more significant in calculating the premium than the value of the goods.</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1734.301" stopTime="1758.057">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1734.301" offset="7065014">--The extent to which the value of the good determines the premium will vary with the length of shipment, but you know, the longer shipments, longer exports are taxed more than shorter shipments.</text>
+            <text syncTime="1745.368" offset="7109213">That seems to us, again, to get back to a direct tax on the export process... separate premium for each product, it varies with the value, it varies with the distance.</text>
+            <text syncTime="1753.425" offset="7141501">That's a tax on the export process.</text>
+            <text syncTime="1756.137" offset="7152368">It's slightly different--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1758.057" stopTime="1778.290">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1758.057" offset="7159995">Well, that's the way you characterize it.</text>
+            <text syncTime="1759.349" offset="7165220">You might also say that that's a tax on the insurance aspect, which brings us back to what we're arguing about.</text>
+            <text syncTime="1764.242" offset="7184759">I suppose that's an interesting philosophical question, whether you continue to export until you reach India, or has your export stopped at least when you reach the territorial waters of the United States?</text>
+            <text syncTime="1775.988" offset="7231780">I'm not sure where the exporting stops.</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1778.290" stopTime="1826.342">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1778.290" offset="7240975">--I guess the way this tax has been administered is, it goes from one... from where the good takes off from where the good lands, and in terms of the Court's jurisprudence under the Export Clause and under the Import Clause, I think they treat that entire journey as an integrated whole.</text>
+            <text syncTime="1795.122" offset="7308266">The Spalding case says the export process starts when you turn over the goods to a common carrier.</text>
+            <text syncTime="1800.376" offset="7329269">Marshall, you recall, in Brown v. Maryland, addressed the question, does the import and export only occur when the goods cross the border?</text>
+            <text syncTime="1809.531" offset="7365945">He said, no, it's a longer process than that.</text>
+            <text syncTime="1812.173" offset="7376498">You can't apply and prohibit an import tax even though the goods are now in the United States, and you can't apply... this was his hypothetical under the Export Clause.</text>
+            <text syncTime="1820.288" offset="7408890">You can't apply the Export clause to a later point once the goods have left.</text>
+            <text syncTime="1823.950" offset="7423623">The trip is an integrated journey.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1826.342" stopTime="1838.981">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1826.342" offset="7433132">Is a tax on diesel fuel exempt if that's a major portion of the cost of exporting the item, say bulk goods such as wheat or corn?</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1838.981" stopTime="1850.017">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1838.981" offset="7483705">I think that would be a very good argument that that tax would be unconstitutional.</text>
+            <text syncTime="1842.353" offset="7497184">This, I think, is a stronger case, because you're taxing the shipper, and clearly the premium does vary--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1850.017" stopTime="1852.569">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1850.017" offset="7527799">Well, that's a very good reason for me to worry about your rationale.</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1852.569" stopTime="1878.839">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1852.569" offset="7538039">--It's not my rationale, Your Honor.</text>
+            <text syncTime="1854.321" offset="7545040">This is what the Court held in Thames &amp; Mersey.</text>
+            <text syncTime="1856.652" offset="7554340">This has been the Court's consistent theory of how the Export Clause applies, and it has not proven to be a problem.</text>
+            <text syncTime="1862.707" offset="7578581">We're not suggesting some novel theory that's going to disrupt the Republic.</text>
+            <text syncTime="1867.031" offset="7595927">The Export Clause has been consistently interpreted for more than 200 years, and the Republic has survived quite well.</text>
+            <text syncTime="1873.907" offset="7623408">I don't think this is going to create enormous problems of administration for the courts.</text>
+            <text syncTime="1877.718" offset="7638663">It hasn't so far.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1878.839" stopTime="1903.846">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1878.839" offset="7643156">Mr. Atwood, the concern of Congress was with domestic insurers, and I take it from your argument that there couldn't be this tax as to exports, but to the extent that they are insuring or reinsuring risks in the United States, the premiums could be taxed.</text>
+            <text syncTime="1897.211" offset="7716612">That's certainly inconsistent with what Congress was trying to regulate in the interest of domestic insurers.</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1903.846" stopTime="1912.542">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1903.846" offset="7743153">Well, we understand Congress' objective.</text>
+            <text syncTime="1908.118" offset="7760289">It was twofold.</text>
+            <text syncTime="1908.889" offset="7763319">It was to raise revenue and it was to plug what was perceived as a loophole.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1912.542" stopTime="1920.817">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1912.542" offset="7777948">But your response has got to be that Congress can't... it's just too bad for these domestic insurers.</text>
+            <text syncTime="1916.573" offset="7794039">They'll fall by the wayside and business will go to the foreign companies.</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1920.817" stopTime="1928.481">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1920.817" offset="7811071">We don't think the perceived problem in effect authorizes a tax in violation of the Constitution, that's right.</text>
+            <text syncTime="1927.680" offset="7838552">There are--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1928.481" stopTime="1933.663">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1928.481" offset="7841687">Your response is that it's the fault of the Constitution.</text>
+            <text syncTime="1931.081" offset="7852136">The Constitution favors exports, doesn't it?</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1933.663" stopTime="1944.643">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1933.663" offset="7862480">--It does, and there are a lot of tax exemptions in our laws.</text>
+            <text syncTime="1936.886" offset="7875332">You can make arguments for or against almost any tax exemption.</text>
+            <text syncTime="1941.330" offset="7893096">The one thing that's different about this tax exemption--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1944.643" stopTime="1945.114">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1944.643" offset="7906366">But--</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1945.114" stopTime="1945.962">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1945.114" offset="7908247">--is it's in the Constitution--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1945.962" stopTime="1946.583">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1945.962" offset="7911590">--Can Congress--</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1946.583" stopTime="1949.325">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1946.583" offset="7914098">--and it's in the Constitution because the Framers thought it was important.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1949.325" stopTime="1958.792">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1949.325" offset="7925070">--Why is it inevitable that this must be classed as a tax on the goods rather than a tax on the service of providing insurance?</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1958.792" stopTime="1978.333">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1958.792" offset="7962999">Well, I... it seems to me the Court's decision on that aspect in Thames &amp; Mersey is correct and has been conceded by the Government, that this is... this bears so closely to the export process that it is a tax on goods.</text>
+            <text syncTime="1974.022" offset="8023917">Now, Congress had other means of addressing this perceived inequality.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1978.333" stopTime="1979.444">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1978.333" offset="8041158">Could it say, "Buy American"?</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="1979.444" stopTime="2107.959">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="1979.444" offset="8045546">Yes, it probably could say, "Buy American".</text>
+            <text syncTime="1982.547" offset="8057981">It could also provide tax relief for American insurers.</text>
+            <text syncTime="1986.230" offset="8072714">It could also... I mean, this tax was passed many years ago.</text>
+            <text syncTime="1990.322" offset="8089119">They could rethink their jurisdiction over foreign insurers and whether or not they could apply the income tax to foreign insurers, which, of course, would be constitutional under Peck v. Lowe, so Congress' hands aren't completely tied, but they... it seems to us they're not entitled to adopt a provision contrary to the Constitution to try to solve that particular problem.</text>
+            <text syncTime="2009.466" offset="8165605">The Court has, as the Government said, construed the Import-Export Clause and the Export Clause consistently for many years.</text>
+            <text syncTime="2019.081" offset="8204057">Going back to Chief Justice Marshall's point, I think there the consistency is not one that's at odds here.</text>
+            <text syncTime="2025.724" offset="8230702">The whole point of the Export-Import Clause cases, though, was to break that link between the two clauses.</text>
+            <text syncTime="2034.092" offset="8264139">One applies to taxes, the other only applies to imports and duties, and that was the holding of the cases, that under the Import-Export Clause we will look at whether the tax is of a customs nature, and you cannot apply that analysis to the Export Clause and come to the Government's conclusion here.</text>
+            <text syncTime="2051.402" offset="8333416">And at the Constitution, there was... there were strong, compelling reasons advanced and fought over very hard as to whether or not exports should be exempt.</text>
+            <text syncTime="2061.387" offset="8373331">It was one of the closest votes at the Constitutional Convention, and there were several reasons to coalesce behind this tax exemption.</text>
+            <text syncTime="2068.342" offset="8401125">One was the concern of the southern States that were dependent upon the export economy.</text>
+            <text syncTime="2072.797" offset="8418993">There were also those from New England that thought an export exemption would benefit domestic industries, would encourage the development of domestic industries, and there were others that were simply concerned about the scope of taxing authority being given to the United States, which, of course, was happening now the first time at the convention.</text>
+            <text syncTime="2089.907" offset="8487434">That came together to result in a tax exemption, which is clearly written and was intended by the Framers to be very broad, and there's no contemporary evidence from that Constitutional Convention that impost was intended to be synonymous with tax.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2107.959" stopTime="2146.294">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2107.959" offset="8559636">Well, we could make it very broad and still adopt the manner of analysis that we've used for the Import-Export Clause.</text>
+            <text syncTime="2116.335" offset="8593073">That is to say, there's no necessary connection between insisting upon discrimination on the one hand and applying it only to customslike impositions on the other hand.</text>
+            <text syncTime="2131.854" offset="8655244">It seems to me that distinction doesn't come from the text of the two clauses, does it?</text>
+            <text syncTime="2137.559" offset="8678023">I mean, I can apply it broadly to all sorts of taxes, but still insist, as we do under the Import-Export Clause, that it discriminate.</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="2146.294" stopTime="2226.166">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="2146.294" offset="8712923">Well, I think the... at least under this Court's holding in Michelin and Washington Stevedoring, the concept of discrimination is in the Import-Export clause, and it's in it because of the words duty and impost.</text>
+            <text syncTime="2160.883" offset="8771332">The Court read those terms to mean taxes that tax imports and exports, qua imports and exports that are focused on, that discriminated against them as opposed to general taxes, so that's how there is a respectable, indeed, perhaps strong constitutional basis to limit the Import-Export Clause to discriminatory taxes.</text>
+            <text syncTime="2183.818" offset="8863074">That same analysis just doesn't carry forward when the Framers used the generic term, tax, in the Export Clause.</text>
+            <text syncTime="2193.055" offset="8899959">And you go back to Franklin's testimony, Ben Franklin's testimony to the House of Commons when he went over as part of the delegation to protest the Stamp Act, and he reminded Members of the House of Commons that in the United States tax and duty very often had different meanings, that while the colonists recognized the authority of Parliament to impose duties, now for the first time they were imposing internal taxes, and that, Franklin said, crossed the line and, of course, Franklin was there at the convention--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2226.166" stopTime="2267.333">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2226.166" offset="9032452">I must say, I just don't see that.</text>
+            <text syncTime="2228.057" offset="9039976">It seems to me if... we're getting the discriminatory notion not from the words imports or imposts or duties but from the discrimination, articles exported.</text>
+            <text syncTime="2244.008" offset="9103819">Is it a tax on articles exported from any State if it's a general tax?</text>
+            <text syncTime="2247.588" offset="9118134">If the answer to that is no, it's not because of the use of the word tax, it's because of the phrase, laid-on articles exported.</text>
+            <text syncTime="2261.008" offset="9171842">That's where you get the discriminatory content, not from the word tax versus impost.</text>
+          </turn>
+          <turn speaker="james_r_atwood" startTime="2267.333" stopTime="2339.922">
+            <label>Mr. James R. Atwood</label>
+            <text syncTime="2267.333" offset="9197128">--That was not the analysis the Court applied in Michelin and Washington Stevedoring.</text>
+            <text syncTime="2272.037" offset="9215936">They did not focus on the laid-on language that's in the Import-Export Clause as well.</text>
+            <text syncTime="2277.360" offset="9237252">They said, that clause is narrower and different because... and this is cited on page xx of our brief.</text>
+            <text syncTime="2283.835" offset="9263166">It's from 423 U.S. at 287.</text>
+            <text syncTime="2287.518" offset="9277899">Imposts or duties mean essentially taxes on the commercial privilege of bringing goods into a country, and then they applied the same analysis to exports in Washington Stevedoring.</text>
+            <text syncTime="2300.064" offset="9328054">That's the textual basis the Court relied upon, and they spent a good deal of time analyzing Marshall's opinion in Brown v. Maryland to reach that specific, narrower definition of impost, and that's why one clause... and again, the background as well, if you look back at the Constitutional Convention, clearly the Import-Export Clause was intended to prevent discrimination.</text>
+            <text syncTime="2324.100" offset="9424185">The Export Clause was intended to provide a broad tax immunity.</text>
+            <text syncTime="2327.241" offset="9436723">The Framers simply did not think it proper that the Federal Government burden the export process.</text>
+            <text syncTime="2332.896" offset="9459398">That's what this tax does.</text>
+            <text syncTime="2334.648" offset="9466399">If there are no further questions, Mr. Chief Justice, that concludes.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2339.922" stopTime="2348.767">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2339.922" offset="9487505">Very well, Mr. Atwood.</text>
+            <text syncTime="2341.161" offset="9492416">Mr. Minear, you have 5 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="2348.767" stopTime="2639.061">
+          <heading>Rebuttal of Jeffrey P. Minear</heading>
+          <turn speaker="jeffrey_p_minear" startTime="2348.767" stopTime="2371.651">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="2348.767" offset="9522823">Thank you, Mr. Chief Justice.</text>
+            <text syncTime="2349.896" offset="9527316">I would like to point out, first, that what respondent is arguing for here is something that is truly peculiar.</text>
+            <text syncTime="2355.540" offset="9549990">In this one area under the Constitution the States would have broader authority than the Federal Government on a matter respecting foreign commerce.</text>
+            <text syncTime="2363.577" offset="9582069">That is the result of their interpretation, their differing interpretations of the Export Clause and the Import-Export Clause.</text>
+            <text syncTime="2369.791" offset="9606937">I think that strikes one as surprising.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2371.651" stopTime="2379.315">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2371.651" offset="9614356">Well, but that's certainly the result of the cases decided under the Export Clause.</text>
+            <text syncTime="2376.524" offset="9633896">It's true in Fairbank, is it not, and certainly in Mersey?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="2379.315" stopTime="2402.593">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="2379.315" offset="9645076">No, I think if we look at the actual cases... now, Fairbanks was the only... the first case in which this Court struck down a Federal tax on an Export Clause theory, and that was a discriminatory tax, and that tax would have been viewed as violative of the Import-Export Clause as well at that time.</text>
+            <text syncTime="2394.767" offset="9706830">What we're arguing is the same prohibition basically applies with respect to exports whether the taxes are Federal or State taxes.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2402.593" stopTime="2404.574">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2402.593" offset="9738176">But certainly it was true in Thames &amp; Mersey.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="2404.574" stopTime="2436.243">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="2404.574" offset="9746118">The tax there, I think that under the Import-Export Clause, until this Court's reasoning, new reasoning in Michelin Tires and Washington Stevedores, a State tax on insurance related to exports would have also been struck down.</text>
+            <text syncTime="2417.720" offset="9798676">So in other words, the tax... the extent of the prohibition would have been the same under either clause.</text>
+            <text syncTime="2423.016" offset="9819888">Now that the prohibition has... this Court has recognized that the Import-Export Clause involves a narrower prohibition, it's time to reconsider whether the Export Clause ought to be read as a broader prohibition itself.</text>
+            <text syncTime="2434.313" offset="9865027">Respondent--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2436.243" stopTime="2444.081">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2436.243" offset="9872759">Even if that weren't so, I take it that the tax in Washington Stevedoring was a tax that wasn't related directly to the value of the goods.</text>
+            <text syncTime="2443.390" offset="9901390">It was on--</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="2444.081" stopTime="2445.069">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="2444.081" offset="9904106">--It was on--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2445.069" stopTime="2450.081">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2445.069" offset="9908077">--services and, moreover, the tax in Michelin, I guess, was a tax on goods that weren't in transit.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="2450.081" stopTime="2451.173">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="2450.081" offset="9928139">--Yes, that's correct.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2451.173" stopTime="2461.662">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2451.173" offset="9932423">And so I'm not certain that those cases really are contrary to Thames &amp; Mersey if you look at Thames &amp; Mersey as a case where the incidence of the tax fell directly on the export.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="2461.662" stopTime="2472.157">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="2461.662" offset="9974428">I think that they are, though, if you look at the cases in combination.</text>
+            <text syncTime="2464.883" offset="9987280">To be sure, the goods in Michelin involve goods not in transit, but the tax in Washington Stevedores did, and the tax in Michelin--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2472.157" stopTime="2486.106">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2472.157" offset="10016433">Yes, but the tax in Washington Stevedores was on the service, and thus wasn't directly related to the value of the good, and it's therefore a tax on the service, not on the good, and here the "big if" clause that I said before means we have to assume it's a tax on the good.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="2486.106" stopTime="2495.561">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="2486.106" offset="10072230">--And I believe it's... excuse me, Your Honor.</text>
+            <text syncTime="2488.618" offset="10082261">I would say I think it's problematic to describe a tax on insurance as a tax on the good.</text>
+            <text syncTime="2493.000" offset="10099816">I think that's a problem, as I said, in Thames &amp; Mersey--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2495.561" stopTime="2500.174">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2495.561" offset="10110056">Yes, I agree that we're foreclosed on that, because you conceded it, according to your opponents.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="2500.174" stopTime="2534.468">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="2500.174" offset="10128446">--In don't believe you're foreclosed from... by our concession from addressing that issue as you see fit.</text>
+            <text syncTime="2506.950" offset="10155613">But I think that there's another problem I'd like to turn to, too, and that is this whole notion of trying to determine when a tax is laid upon the export process.</text>
+            <text syncTime="2515.986" offset="10191767">This has been a problem that bedeviled the Court for many years under the Import-Export Clause, and you look at the line of cases that came through here, and there is no consistency here.</text>
+            <text syncTime="2523.921" offset="10223427">Spalding said that the tax applied when the product was handed to a common carrier, but Joy Petroleum said that if a product stops along the way and is put in storage, then it is subject to a local tax.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2534.468" stopTime="2544.844">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2534.468" offset="10265641">Well, Thames &amp; Mersey was decided in 1915, and I don't see any great trouble having resulted between then and now in applying the Export Clause.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="2544.844" stopTime="2558.134">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="2544.844" offset="10307123">Well, there have been very few cases since Spalding simply because the effect of the Export Clause is so draconian, and it is this case that we have chosen to ask the Court to review its thinking in this area, and to bring it in line with the Import-Export Clause.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2558.134" stopTime="2580.459">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2558.134" offset="10360309">Well, once again, Mr. Minear, as I think we established earlier, you will enable us to avoid that question usually, at most, because we can decide the question simply on the basis that the tax is not discriminatory, but where it is discriminatory we are going to have to address this same question anyway.</text>
+            <text syncTime="2577.367" offset="10437213">You are not eliminating that difficulty from our jurisprudence.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="2580.459" stopTime="2589.816">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="2580.459" offset="10449648">But that's not an unusual problem, that the taxpayer will bear the burden of showing that a tax that appears to be fair on its face is discriminatory in a particular context, and--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2589.816" stopTime="2607.278">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2589.816" offset="10487055">No, but once you decide it's discriminatory, you are then going to have to decide whether it is laid upon the process of export, so that, you know, that difficulty that you're now addressing, it isn't eliminated from our jurisprudence entirely.</text>
+            <text syncTime="2604.336" offset="10545151">All you can say is you won't have to face it as often as you now do.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="2607.278" stopTime="2631.593">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="2607.278" offset="10556854">--That's right, but the same thing was true with regard to the Import-Export Clause.</text>
+            <text syncTime="2610.780" offset="10570856">For instance, there is still the question of what happens if a State imposes a property tax on property that is in transit through the State without stopping, on the property that's being transported on the rail cars as it moves through the State?</text>
+            <text syncTime="2623.507" offset="10621847">Can they tax that?</text>
+            <text syncTime="2624.388" offset="10625295">That question is still one of the questions that has been left open in Michelin Tire, and likewise there will be some issues that will be left open here.</text>
+            <text syncTime="2630.922" offset="10651417">Thank you, Your Honor.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2631.593" stopTime="2633.842">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2631.593" offset="10654134">Thank you, Mr. Minear.</text>
+            <text syncTime="2632.426" offset="10657478">The case is submitted.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2633.842" stopTime="2639.061">
+            <label>Unknown Speaker</label>
+            <text syncTime="2633.842" offset="10663120">The honorable court is now adjourned until tomorrow at ten o'clock.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

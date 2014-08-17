@@ -1,0 +1,35 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-28</verified>
+      </history>
+      <resources>
+        <audioFile size="350354">/xml/cases/1974/74_5116/19750616o_74-5116.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1974/trs/74-5116op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="87.527">
+        <title>Murphy v. Florida</title>
+        <section startTime="0.000" stopTime="87.527" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Thurgood Marshall</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="9.428">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">The judgment and opinion of the Court in No. 74-5116, Murphy against Florida will be announced by Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="9.428" stopTime="85.708">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="9.428" offset="37616">This case is here on writ of certiorari to the Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="15.340" offset="61336">Petitioner, who was convicted in a state court of robbery, sought a writ of habeas corpus on the ground that he had been denied a fair trial because jurors had learned from news accounts of his prior felony convictions or certain facts about the robbery charge itself.</text>
+            <text syncTime="33.445" offset="133747">In an opinion filed today, we hold that jurors' exposure to this type of information does not in a state trial presumptively deprive the defendant of due process.</text>
+            <text syncTime="44.482" offset="177842">Looking to the particular facts of this case, we hold that the jurors did not display hostility to petitioner, suggesting a partiality that could not be set aside.</text>
+            <text syncTime="55.995" offset="223922">The jurors neither betrayed or belief in the relevance on petitioner's past through his present guilt nor withdrawn from a community with settlements so inflamed against petitioner as to call in to question various signs of impartiality.</text>
+            <text syncTime="72.956" offset="291736">Accordingly, the judgment of the Court of Appeals for the Fifth Circuit denying the writ is affirmed.</text>
+            <text syncTime="78.289" offset="313156">The Chief Justice has filed an opinion concurring in the result and Mr. Justice Brennan has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="85.708" stopTime="87.527">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="85.708" offset="342831">Thank you Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

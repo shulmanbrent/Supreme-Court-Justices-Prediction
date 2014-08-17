@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-28</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="384655">/xml/cases/1975/74_1270/19760601o_74-1270.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1975/trs/74-1270op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="77.703">
+        <title>Train v. Colorado Public Interest Research Group, Inc.</title>
+        <section startTime="0.000" stopTime="77.703" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Thurgood Marshall</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="17.011">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="73693">The judgment and opinion of the Court in number 74-1270, Train, the administrator of the Environmental Protection Agency v. the Colorado Public Interest Research Group will be announced by Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="17.011" stopTime="75.736">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="17.011" offset="141716">This case is here on writ of certiorari for the Court of Appeals for the Tenth Circuit.</text>
+            <text syncTime="22.175" offset="162300">It is a citizen suit brought under the Federal Water Pollution Control Act.</text>
+            <text syncTime="27.238" offset="182571">That act makes it unlawful to discharge pollutants into navigable waters without a permit issued by the administrator of the Environmental Protection Agency.</text>
+            <text syncTime="38.307" offset="226875">The issue in this case is whether the nuclear waste materials subject to regulation by the Atomic Energy Commission and its successor agencies are pollutants within the meaning of the Water Act.</text>
+            <text syncTime="51.744" offset="280583">We hold that they are not.</text>
+            <text syncTime="53.701" offset="288420">In an opinion filed with the clerk, we hold that the regulation of these nuclear waste materials is controlled exclusively by the terms of the Atomic Energy Act.</text>
+            <text syncTime="64.059" offset="329902">So as the talk reveals out to the contrary, the judgment is reversed.</text>
+            <text syncTime="68.911" offset="349337">Mr. Justice Stevens took no part in the consideration or decision of this case.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="75.736" stopTime="77.703">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="75.736" offset="376609">Thank you, Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,45 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1994-01-11</transcribed>
+        <edit user="jclow26" date="2012-08-13T10:40:41" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="ruth_bader_ginsburg"/>
+        <identified user="jclow26">2012-08-13</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:40:55" startTime="0.000" oldSpeaker="ruth_bader_ginsburg" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="603216">/xml/cases/1993/92_1196/19940111o_92-1196.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1993/92-1196_19940111-opinion.xml</sourceFile>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="128.052">
+        <title>Ratzlaf v. United States</title>
+        <section startTime="0.000" stopTime="10.217">
+          <heading>Announcement of Justice Ginsburg</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.217">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="91007">The opinion of the Court in No. 92-1196, Ratzlaf against the United States will be announced by Justice Ginsburg.</text>
+          </turn>
+        </section>
+        <section startTime="10.217" stopTime="128.052">
+          <heading>Announcement of Justice Ginsburg</heading>
+          <turn speaker="ruth_bader_ginsburg" startTime="10.217" stopTime="128.052">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="10.217" offset="131863">This case presents a question of statutory interpretation.</text>
+            <text syncTime="15.489" offset="152865">Federal law requires banks to report cash transactions that exceed $10,000.00.</text>
+            <text syncTime="24.802" offset="190168">It is illegal to structure cash transactions above $10,000.00 to break them up into separate transactions to circumvent the reporting requirement imposed on the bank.</text>
+            <text syncTime="39.427" offset="248682">The law makes it a crime to willfully violate this prohibition.</text>
+            <text syncTime="45.552" offset="273133">Defendant Ratzlaf to pay off a large debt to a casino in Reno, Nevada purchase cashier's check from many banks each check for less than $10,000.00 each from a different bank.</text>
+            <text syncTime="62.257" offset="340006">For this conduct he was convicted, fined, and sentenced to prison.</text>
+            <text syncTime="67.862" offset="362367">His conviction was affirmed by the Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="72.817" offset="382220">Ratzlaf maintained that the willfulness specification in the law means that the government must prove he knew not only at the banks reporting requirement but of the prohibition on breaking up transactions to evade that requirement.</text>
+            <text syncTime="92.725" offset="461841">We agree that to give effect to the willfulness specification, the government had to prove Ratzlaf knew the structuring he undertook was unlawful.</text>
+            <text syncTime="105.726" offset="513877">Of course the trial judge did not so charged the jury.</text>
+            <text syncTime="109.286" offset="528088">Ratzlaf conviction cannot stand.</text>
+            <text syncTime="112.058" offset="539164">We therefore, reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="116.119" offset="555464">Justice Blackmun has filed a dissenting opinion in which the Chief Justice, Justice O'Connor and Justice Thomas concur.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

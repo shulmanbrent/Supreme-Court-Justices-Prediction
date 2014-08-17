@@ -1,0 +1,49 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:53:27" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1240861">/xml/cases/2005/05_409/20060615o_05-409.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/05-409_20060615-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="287.967">
+        <title>Kircher v. Putnam Funds Trust</title>
+        <section startTime="0.000" stopTime="287.967">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="8.521">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88443">Justice Souter has the opinion of the Court in 05-409, Kircher versus Putnam Funds Trust.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="8.521" stopTime="287.967">
+            <label>Justice David H. Souter</label>
+            <text syncTime="8.521" offset="122507">This is another gripping decision.</text>
+            <text syncTime="14.677" offset="147062">This case comes to us on writ of certiorari to the United States Court of Appeals for the 7th Circuit.</text>
+            <text syncTime="20.132" offset="168900">The Securities Litigation Uniform Standards Act precludes certain private state law securities class actions, so-called "covered" class actions, from being brought in either state or federal court.</text>
+            <text syncTime="33.458" offset="222190">Besides the preclusion provision, the Act has a removal provision, which allows a defendant to remove to federal court any covered class action brought in any state court involving a covered security, as set forth in the Act's preclusion provision.</text>
+            <text syncTime="49.574" offset="286660">The petitioners are mutual-fund investors who filed actions in state court raising state-law claims.</text>
+            <text syncTime="57.429" offset="318112">Each sought to represent a class of investors allegedly injured by devaluation of their holdings by respondents' mutual funds.</text>
+            <text syncTime="66.080" offset="352698">The funds filed notices of removal for federal district court, but the district court decided that it lacked subject-matter jurisdiction on removal, because the investors' claims were not precluded by the Act, and for that reason it remanded each case to state court.</text>
+            <text syncTime="82.164" offset="417063">The funds then filed notices of appeal, and the 7th Circuit issued an opinion addressing whether it had appellate jurisdiction in light of a statutory provision, 28 U.S. Code 1447(d), that bars appellate review of a remand order if the order's basis is a lack of subject- matter jurisdiction.</text>
+            <text syncTime="105.185" offset="509119">The 7th Circuit decided it did have appellate jurisdiction to review the remand order notwithstanding §1447(d), because the district court's remand was not, in fact, based on a lack of subject-matter jurisdiction.</text>
+            <text syncTime="119.945" offset="568156">In the view of the Court of Appeals, all covered class actions involving covered securities are removal under the act, and the district court's preclusion determination in substantive and separate from the jurisdictional determination whether the case was properly removed at all.</text>
+            <text syncTime="136.638" offset="634925">In an opinion filed today with the Clerk of Court, we vacate the judgment of the Court of Appeals for want of jurisdiction on its part.</text>
+            <text syncTime="145.148" offset="668988">Section 1447(d) bars review of remand orders based on a lack of subject-matter jurisdiction, no matter how plainly the remanding court was mistaken in its jurisdictional ruling.</text>
+            <text syncTime="157.835" offset="719770">In this case, the remand orders were based on the District Court's conclusion that it lacked jurisdiction under the Act's removal provision, and we think the District Court was correct in understanding that the reason for its remand order was a provision governing removal jurisdiction.</text>
+            <text syncTime="174.372" offset="785912">Unlike the Court of Appeals, we think that to remove a case under the Act, the case must not only be a covered class action involving a covered security, it must also be a case precluded by the Act.</text>
+            <text syncTime="188.181" offset="841083">The removal provision describes removable cases as covered class actions, and I quote, "as set forth in Subsection (d)", end of quote, the preclusion provision; and that language has no apparent function unless it limits removal to actions involving claims that are actually precluded.</text>
+            <text syncTime="206.635" offset="914957">Because removal jurisdiction under the act is restricted to precluded actions, a motion to remand claiming the action is not precluded poses a jurisdictional issue.</text>
+            <text syncTime="217.218" offset="957276">A district court's decision of that issue is simply the exercise of its authority to determine its own jurisdiction to deal further with the case, and when a district court remands because it has decided a claim is not precluded by the Act, 1447(d) forbids appellate review of the order implementing that decision.</text>
+            <text syncTime="236.809" offset="1035643">We add that the Act does not give federal courts exclusive jurisdiction over preclusion decisions.</text>
+            <text syncTime="243.975" offset="1064273">A state court may decide a preclusion issue in the first instance if a case is not removed, and it may decide the preclusion issue now, when these cases return to state court.</text>
+            <text syncTime="254.870" offset="1107845">Collateral estoppel should not bar revisitation of the preclusion issue, precisely because of the Fund's inability to appeal the district court's decision here.</text>
+            <text syncTime="264.471" offset="1146298">The state court is free to reject the remanding court's reasoning, and we have no doubt that the state court will duly apply our recent holding in the case of Merrill Lynch, Pierce, Fenner &amp; Smith against Dabit, where we disallowed the interpretation, giving the Act's preclusion provision, by the district court in this case.</text>
+            <text syncTime="282.859" offset="1219859">Justice Scalia has filed an opinion concurring in part and concurring in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

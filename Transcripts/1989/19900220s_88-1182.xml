@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1990-02-20</transcribed>
+        <edit user="tschaefer" date="2012-07-02T15:04:54" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <identified user="tschaefer">2012-07-02</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T13:58:00" startTime="0.000" oldSpeaker="sandra_day_oconnor" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="552446">/xml/cases/1989/88_1182/19900220o_88-1182.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1989/88-1182_19900220-opinion.xml</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="116.323">
+        <title>Baltimore City Department of Social Services v. Bouknight</title>
+        <section startTime="0.000" stopTime="10.585">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.585">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87153">The opinion of the Court in No. 88-1182, Baltimore City Department of Social Services versus Bouknight will be announced by Justice O’Connor.</text>
+          </turn>
+        </section>
+        <section startTime="10.585" stopTime="116.323">
+          <heading>Announcement of Justice O' Connor</heading>
+          <turn speaker="sandra_day_oconnor" startTime="10.585" stopTime="116.323">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="10.585" offset="129471">These cases come to this Court on writ of certiorari to the Court of Appeals of Maryland.</text>
+            <text syncTime="16.818" offset="154340">They concern the State’s efforts to protect the petitioner, Maurice M., a young child with a sad history of abuse and neglect, by seeking to have the respondent, Maurice’s mother, produce the child.</text>
+            <text syncTime="34.198" offset="223930">The respondent, entrusted with Maurice’s care subject to the conditions of a court order, asserted that the Fifth Amendment entitled her to resist the production order.</text>
+            <text syncTime="47.011" offset="275130">The Court of Appeals of Maryland agreed.</text>
+            <text syncTime="50.319" offset="288400">In the opinion filed today, we hold that respondent may not invoke the Fifth Amendment’s privilege against self-incrimination to resist producing Maurice.</text>
+            <text syncTime="63.081" offset="339391">The State demands production as part of a generally applicable regulatory regime constructed to affect the State’s public purposes which are unrelated to criminal law enforcement.</text>
+            <text syncTime="75.885" offset="390591">The respondent, by agreeing to care for the child pursuant to the order’s conditions, has accepted the corresponding obligation to permit the State access to the child.</text>
+            <text syncTime="88.486" offset="441060">We leave open the possibility that the Fifth Amendment may limit the State’s use and subsequent criminal proceedings, if any, of testimonial aspects of any act of production.</text>
+            <text syncTime="100.834" offset="490484">The judgment of the Court of Appeals of Maryland is reversed and the cases are remanded to that court for further proceedings not inconsistent with our opinion.</text>
+            <text syncTime="110.723" offset="529981">Justice Marshall has filed a dissenting opinion in which Justice Brennan has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

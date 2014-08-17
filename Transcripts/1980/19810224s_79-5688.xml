@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="497802">/xml/cases/1980/79_5688/19810224o_79-5688.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1980/trs/79-5688op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="101.383">
+        <title>Hudson v. Louisiana</title>
+        <section startTime="0" stopTime="101.383">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.967">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92068">The judgments and opinion of the Court in Hudson against Louisiana will be announced by Mr. Justice Powell.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="8.967" stopTime="98.636">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="8.967" offset="127908">This case is here on certiorari to the Supreme Court of Louisiana.</text>
+            <text syncTime="15.878" offset="155493">After petitioner's first criminal trial, the judge granted a motion for a new trial on the ground that the evidence as a matter of law was insufficient to support the jury's guilty verdict.</text>
+            <text syncTime="30.831" offset="215366">The question presented here is whether the Double Jeopardy Clause bars the State from prosecuting petitioner a second time.</text>
+            <text syncTime="42.073" offset="260297">We think this case is controlled by our decision rendered two times ago in Burks against the United States.</text>
+            <text syncTime="51.010" offset="296032">In that case, an appellate court had concluded that the states evidence was legally insufficient to support a guilty verdict.</text>
+            <text syncTime="61.133" offset="336574">A defendant in a criminal trial is entitled to an acquittal, unless the State presents at the first trial sufficient evidence to support a verdict or judgment guilty.</text>
+            <text syncTime="74.966" offset="391849">Accordingly in Burks, we held that there could be no retrial.</text>
+            <text syncTime="81.528" offset="418076">For the same reason we hold today, that the Double Jeopardy Clause bars retrial of petitioner.</text>
+            <text syncTime="90.031" offset="452140">Accordingly, the judgment of the Louisiana Supreme Court is reversed.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="98.636" stopTime="101.383">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="98.636" offset="486517">Thank you, Mr. Justice Powell.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

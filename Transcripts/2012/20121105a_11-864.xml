@@ -1,0 +1,1256 @@
+<transcript verified="true">
+      <history>
+        <transcribed minutes="61">2012-11-05T10:04</transcribed>
+        <verified user="jgoldman">2013-09-02</verified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="14701556">/xml/cases/2012/11_864/20121105a_11-864.mp3</audioFile>
+        <sourceFile>/data/sites/oyez.org/cases/2012/2012_11_864/11-864_20121105-argument_0.xml</sourceFile>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="elena_kagan" type="justice" gender="female" path="/justices/elena_kagan" image="/justices/elena_kagan/thumbnail.jpg">Elena Kagan</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="sonia_sotomayor" type="justice" gender="female" path="/justices/sonia_sotomayor" image="/justices/sonia_sotomayor/thumbnail.jpg">Sonia Sotomayor</speaker>
+        <speaker id="miguel_a_estrada" type="advocate" gender="male" path="/advocates/me/miguel_a_estrada" image="/advocates/me/miguel_a_estrada/thumbnail.jpg">Miguel A. Estrada</speaker>
+        <speaker id="barry_barnett" type="advocate" gender="male" path="/advocates/bb/barry_barnett" image="/advocates/bb/barry_barnett/thumbnail.jpg">Barry Barnett</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3647.034">
+        <title>Comcast v. Behrend</title>
+        <section startTime="0.000" stopTime="1537.420">
+          <heading>Argument of Miguel A. Estrada</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.939">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="107025">We'll hear argument first this morning in Case 11-864, Comcast Corporation v. Behrend.</text>
+            <text syncTime="8.504" offset="140984">Mr. Estrada.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="9.939" stopTime="53.516">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="9.939" offset="146731">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="13.891" offset="162509">The Third Circuit held in this case that the assessment of the adequacy of expert evidence offered in support of class certification is a merits question that has no place in the class certification inquiry.</text>
+            <text syncTime="28.567" offset="221232">According to the Third Circuit and to the plaintiffs in this Court, what is sufficient is for the proponents of class certification to point to some abstract methodology, such as econometrics or regression analysis, that conceivably might be applied to the problem at hand in a way in which in the fullness of time will evolve into admissible evidence by the time of the class trial.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="53.516" stopTime="61.622">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="53.516" offset="321020">Mr. Estrada, you are limiting your argument to the determination of damages, as I understand it.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="61.622" stopTime="66.256">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="61.622" offset="353412">I think you limited my argument to determination of damages, Justice Ginsburg.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="66.256" stopTime="72.410">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="66.256" offset="372011">Because the -- because the Third Circuit agreed that as far as any antitrust impact--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="72.410" stopTime="73.010">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="72.410" offset="396566">Yes.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="73.010" stopTime="75.362">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="73.010" offset="398969">--that could be established on a class basis.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="75.362" stopTime="90.805">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="75.362" offset="408374">We -- we obviously -- as is obvious from our cert petition, we do not agree with that.</text>
+            <text syncTime="81.099" offset="431361">For purposes of inquiring into the damages question in this Court, I think we have to assume that that is so.</text>
+            <text syncTime="88.353" offset="460409">I think it doesn't change the outcome with--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="90.805" stopTime="133.698">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="90.805" offset="470232">But why -- why not?</text>
+            <text syncTime="91.955" offset="474829">Because generally -- at least it's my impression -- that in class certifications, if the liability question can be adjudicated on a class basis, then the damages question may be adjudicated individually.</text>
+            <text syncTime="116.570" offset="573258">Take a -- take a Title VII case.</text>
+            <text syncTime="118.336" offset="580364">A liability -- pattern of practice of discrimination, therefore liability.</text>
+            <text syncTime="123.307" offset="600217">But damages can be assessed on an individual basis, so why isn't bifurcation possible here?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="133.698" stopTime="194.352">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="133.698" offset="641804">--Well, let me make two points in response to that question, Justice Ginsburg: One about what the legal standards are, and, you know, the second one, which is as important, about what the record in this case is.</text>
+            <text syncTime="144.070" offset="683286">With respect to the first point, what the rule asks us to look at is not questions of damages versus liability, but whether the common questions predominate over those that are individual to the class members.</text>
+            <text syncTime="157.194" offset="735740">I don't disagree, and it is not my position today, that there may be cases in which individual damages questions are consistent with class certification.</text>
+            <text syncTime="168.269" offset="780044">But as the lower courts have recognized, it is not the case that all damages questions may -- may remain individual consistently with class certification.</text>
+            <text syncTime="180.060" offset="827169">Indeed, the 1966 advisory notes expressly say that questions of damages with respect to class members may or may not predominate in cases like this; i.e., antitrust class actions.</text>
+            <text syncTime="193.902" offset="882548">Let--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="194.352" stopTime="253.708">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="194.352" offset="884429">Mr. Estrada, doesn't Justice Ginsburg's question actually point out that the -- the law that both the district court and the circuit court used in this case was actually quite favorable to you.</text>
+            <text syncTime="205.794" offset="930196">Unlike some courts, both the district court and the circuit court said that the plaintiffs needed to show that there was a class-wide measurement of damages.</text>
+            <text syncTime="216.250" offset="971992">And then in addition, both courts said really, it was -- the burden was on the plaintiffs to demonstrate that that class-wide measure of damages existed.</text>
+            <text syncTime="228.410" offset="1020579">Now, I understand that you have problems with the way in which the plaintiffs met that burden.</text>
+            <text syncTime="234.913" offset="1046597">You say that they didn't meet that burden.</text>
+            <text syncTime="237.015" offset="1055061">But it seems to me that the legal standard that was used was exactly the legal standard that you wanted, that the plaintiffs had to come in and show by a preponderance that they had a class-wide way to measure damages in this case.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="253.708" stopTime="278.342">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="253.708" offset="1121830">--I don't think that's right, Justice Kagan.</text>
+            <text syncTime="254.993" offset="1126950">I think we can have a healthy debate about whether the district court did what you just finished saying.</text>
+            <text syncTime="260.529" offset="1149102">I think there can be no debate that the court of appeals did so, because repeatedly throughout its opinion said that the questions as to the adequacy of whether they had complied with the Hydrogen Peroxide standard was a merits question that was for later adjudication in this case.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="278.342" stopTime="317.300">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="278.342" offset="1220364">Well, here's what the district court said.</text>
+            <text syncTime="279.875" offset="1226424">"The experts' opinions raise substantial issues of fact and credibility that we are required to resolve to decide the pending motion. "</text>
+            <text syncTime="287.614" offset="1257458">That is the motion for class certification.</text>
+            <text syncTime="289.698" offset="1265817">"Having rigorously analyzed the experts' reports, we conclude that the class has met its burden to demonstrate that the elements of antitrust impact is capable of proof at trial through evidence that is common to the class, and that there is a common methodology available to measure and quantify damages on a class-wide basis. "</text>
+            <text syncTime="309.695" offset="1345752">So that seems to me exactly what you say they should have done.</text>
+            <text syncTime="312.580" offset="1357245">Now, you disagree with their ultimate determination, but not with the statement of the law.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="317.300" stopTime="495.416">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="317.300" offset="1376158">Well, I think that it is true that our position in the district court was that Hydrogen Peroxide controlled, and that the district court correctly stated the holding of the Third Circuit ruling in that case.</text>
+            <text syncTime="330.791" offset="1430179">Beyond that, I don't think that we do agree, because in the Third Circuit, once the case got there, we got a rule of law saying that although this court prescribed the rule amendment, 23(f), precisely to enable courts of appeals to review whether the district court got it right for important policy questions, that the job of the court of appeals under 23(f) can be fully discharged by saying that providence will provide; we'll think about it in the morning.</text>
+            <text syncTime="360.996" offset="1550969">And that is not consistent with the proposition that the correct law was applied in the lower courts.</text>
+            <text syncTime="366.900" offset="1574584">Furthermore, although the district court did enounce the correct standard in reflecting the holding of Hydrogen Peroxide, it is far from apparent -- and this is part of our point to the Third Circuit -- excuse me; to the Third Circuit -- which was not actually heard on the merits, that what he did was different from simply saying that econometrics and regression analysis are well established methodologies for dealing with problems of this kind.</text>
+            <text syncTime="397.352" offset="1696419">And I will ask you to look at the top of page 145 of the Pet.</text>
+            <text syncTime="402.221" offset="1715854">App., where you can look at discussions -- I'm sorry, it's 131 in footnote 24, where the district court made clear that his understanding of the capable class-wide proof involved the inquiry whether the plaintiffs actually had evidence that reflected the methodologies that had been used in this case -- in these kinds of cases.</text>
+            <text syncTime="428.105" offset="1819404">He says,</text>
+            <text syncTime="428.755" offset="1822016">"It is undisputed that multiple regression analysis is an acceptable and widely recognized statistical tool for cases of this kind. "</text>
+            <text syncTime="439.496" offset="1864961">So at a very general level, I don't have a disagreement with you that in many cases where there is error, the district court started out with the right foot.</text>
+            <text syncTime="449.368" offset="1904458">I don't agree with you that the correct standard either was applied by the district court or was even attempted by the court of appeals.</text>
+            <text syncTime="458.308" offset="1940194">Now, if we were to go to the merits of the question -- and to answer, you know, the second part of the question that I started out with Justice Ginsburg, keep in mind that even on the assumption that the district court accepted that there was common class proof of antitrust impact, that is not the same as accepting -- and I don't think the district court accepted -- that there was common class-wide proof that the impact for every individual was the same.</text>
+            <text syncTime="490.362" offset="2068403">And that is a key point about what the theory of impact here was.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="495.416" stopTime="502.420">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="495.416" offset="2088674">It doesn't have to be the same for every member of the class.</text>
+            <text syncTime="498.535" offset="2101108">As the dissenting judge pointed out, you can have subclasses.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="502.420" stopTime="571.416">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="502.420" offset="2116677">Well, and I'm happy to also deal with that question.</text>
+            <text syncTime="506.557" offset="2133187">There are cases, indeed, in which, you know, the variances of the classes can be dealt with, with subclasses.</text>
+            <text syncTime="513.961" offset="2162862">No one on the plaintiffs' side has actually asserted here that the record would allow this.</text>
+            <text syncTime="519.214" offset="2183864">And Mr. Jordan pointed out, there is considerable basis for skepticism in thinking that that could ever be accomplished because we are talking about 649 franchise areas with different competitive conditions.</text>
+            <text syncTime="531.506" offset="2232974">But if you go back to the theory of impact, and the theory of impact was that RCN, this putative overbuilder, was, you know, the little engine that could, that it was going out to radiate out to the entire DMA area and completely overbuild the area.</text>
+            <text syncTime="546.949" offset="2294728">So the theory of impact was if you drop a stone in the water, you are going to have ripples all the way out, so you have ripples as to every member of the class.</text>
+            <text syncTime="555.555" offset="2329209">It doesn't mean that every ripple is the same.</text>
+            <text syncTime="559.025" offset="2343107">So -- so that the key question for the damages issue in front of you now is whether what McClave came up with was an adequate methodology for measuring the size of the ripple--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="571.416" stopTime="590.645">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="571.416" offset="2392635">Are there cases in the -- in the ordinary course of class actions -- I know they are all different -- where the district court can find that common questions do predominate without addressing the question whether damages can be proven on a class-wide basis, or are they always interlinked?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="590.645" stopTime="659.224">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="590.645" offset="2469539">--No, I think the text of (b)(20) -- of (b)(3) expressly requires that questions, whether they be damages or liability, that are common to the class predominate over those that are individual as to class members.</text>
+            <text syncTime="605.054" offset="2527218">And I fully accept, and I am not arguing, that the mere fact that there may be individual damages questions precludes class certification.</text>
+            <text syncTime="615.445" offset="2568805">I am actually arguing for the flip side of that issue, which is that just because it -- it may not be preclusive in certain cases doesn't mean that it is preclusive in no case.</text>
+            <text syncTime="627.086" offset="2615303">I would refer the Court to the Fifth Circuit's opinion by Judge Garwood in the Bell v. AT&amp;T case, which was, like this, an antitrust case, where the Fifth Circuit acknowledged that in many of these cases it's almost hornbook law that there may be individual issues that would not preclude class cert, but that there are certain cases in which the theory of injury and -- and the proof that would be needed to make it out is so sui generous and individualized--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="659.224" stopTime="678.269">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="659.224" offset="2743825">I completely agree with hornbook law.</text>
+            <text syncTime="661.907" offset="2754587">Three pipe manufacturers get together and in January fix their prices, all right?</text>
+            <text syncTime="667.461" offset="2776844">Fourteen wholesalers want to show that and each has different damages because they bought different amounts of pipe.</text>
+            <text syncTime="673.984" offset="2802862">Hornbook law: Certify the class and leave the damages issues for later.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="678.269" stopTime="678.936">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="678.269" offset="2819998">--Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="678.936" stopTime="726.216">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="678.936" offset="2822715">This case, this case, hornbook law: Section 2 forbids monopolization.</text>
+            <text syncTime="683.506" offset="2841001">It is absolutely clear Comcast has that power.</text>
+            <text syncTime="686.041" offset="2851136">That's why they're -- that's why they're regulated and, indeed, they engage in things that show that they did not achieve that through skill, foresight and industry.</text>
+            <text syncTime="694.112" offset="2883423">What things?</text>
+            <text syncTime="694.980" offset="2886872">And now we have a list of four and the district court says exactly what?</text>
+            <text syncTime="698.449" offset="2900769">If we prove monopolization, which is relevant to all these people in the class, then what we do is we later look into how much that monopolization raised the prices above competitive levels.</text>
+            <text syncTime="710.324" offset="2948312">And I offer a model to look at the competitive levels and look at what happened over here and there we are, it will help.</text>
+            <text syncTime="717.311" offset="2976210">Okay?</text>
+            <text syncTime="717.844" offset="2978300">Now, hornbook law, whether that's so or not so is a matter for later, but see first if there is liability.</text>
+            <text syncTime="723.981" offset="3002855">Okay, that's their argument.</text>
+            <text syncTime="725.216" offset="3007871">What's the answer?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="726.216" stopTime="766.343">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="726.216" offset="3011841">Well, I mean, the answer is -- I will take your first example and, in fact, I was going to give, you know, the example of a case that I had that was similar where, you know, three plastic cup manufacturers met in, you know, some airport and fixed the prices.</text>
+            <text syncTime="741.009" offset="3070983">Now, this is like saying you fixing, you know, the price of widgets.</text>
+            <text syncTime="744.145" offset="3083521">There is a preexisting but-for world and the question as to who bought what when is not really a question of adjudication but of computation.</text>
+            <text syncTime="752.484" offset="3116958">And those are the types of cases where the courts say that the individual damages questions really do not preclude a -- a certification.</text>
+            <text syncTime="761.772" offset="3154052">Now, your second example may or may not be suitable for class treatment.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="766.343" stopTime="778.718">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="766.343" offset="3172338">Well, here, since what they are saying is they have two theories: Section 1, the agreements to keep other people out of this area are unlawful in themselves.</text>
+            <text syncTime="773.914" offset="3202640">Question 2 is whether they contribute to monopolization.</text>
+            <text syncTime="778.218" offset="3219881">Okay?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="778.718" stopTime="779.518">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="778.718" offset="3221866">No, but the question--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="779.518" stopTime="794.994">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="779.518" offset="3225001">Now, that's the legal issue of liability.</text>
+            <text syncTime="781.336" offset="3232315">Now, if they're right, why isn't the measure of damages just what you said?</text>
+            <text syncTime="787.157" offset="3255616">We look to the people who are subject to the monopoly power, and we work out how much above the competitive level they had to pay.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="794.994" stopTime="795.794">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="794.994" offset="3286963">--But the legal--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="795.794" stopTime="802.083">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="795.794" offset="3290098">Some paid some, some paid another.</text>
+            <text syncTime="797.730" offset="3297934">We have some experts in to try to make that computation.</text>
+            <text syncTime="800.631" offset="3309533">Sounds the same to me.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="802.083" stopTime="816.357">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="802.083" offset="3315280">--No, but it isn't, because one key point that is missing from the hypothetical, Justice Breyer, is exactly what the theory of liability that is present in this case is as the case comes to the court.</text>
+            <text syncTime="814.324" offset="3364285">They had four theories of possible--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="816.357" stopTime="854.279">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="816.357" offset="3372436">I saw the four theories and it seems to me that we are now on the theory of one of the pieces of exclusionary conduct was agreement through various mergers, et cetera, that potential competitors would not come in and compete.</text>
+            <text syncTime="832.050" offset="3435129">Now, I don't know why the judge struck out the other one, the number 2, but number 3 and Number 4, I can see it.</text>
+            <text syncTime="838.119" offset="3459476">But on monopolization theory, that's not relevant to damages.</text>
+            <text syncTime="842.238" offset="3475881">Throughout we assume that the regulator is doing a terrible job, otherwise the prices wouldn't be so high in the first place.</text>
+            <text syncTime="848.059" offset="3499182">But what's the difference in this case?</text>
+            <text syncTime="849.927" offset="3506705">I just didn't hear it, and I put that to show you how it seemed to me there is very similar.</text>
+            <text syncTime="853.646" offset="3521543">The difference--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="854.279" stopTime="859.367">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="854.279" offset="3524050">--No.</text>
+            <text syncTime="854.846" offset="3526349">I mean, I think, you know, the key point that you are missing in your hypothetical--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="859.367" stopTime="859.900">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="859.367" offset="3544426">--Is?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="859.900" stopTime="885.148">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="859.900" offset="3546620">--basically starts with the actual point of antitrust law, whether these people actually are potential competitors.</text>
+            <text syncTime="865.021" offset="3567100">It's not actually relevant to the class certifications that we face today.</text>
+            <text syncTime="869.739" offset="3585908">But I don't accept, for present purposes or for later, that these people that already have different clusters of cable service that were simply aggregated in these transactions actually were actual potential competitors.</text>
+            <text syncTime="883.732" offset="3641915">They were not--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="885.148" stopTime="887.867">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="885.148" offset="3647557">I mean, that's liability.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="887.867" stopTime="889.319">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="887.867" offset="3658424">--Well, you are right--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="889.319" stopTime="890.969">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="889.319" offset="3664276">You have the right to prove that they weren't, fine.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="890.969" stopTime="908.198">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="890.969" offset="3670858">--I just said that.</text>
+            <text syncTime="892.088" offset="3675352">But the point is that as the case comes to the -- to the Court the question is whether the class that was certified by the district court and validated in its own way by the court of appeals is one that is consistent and fits reliably with the legal theory that the plaintiffs are allowed to pursue--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="908.198" stopTime="909.133">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="908.198" offset="3739717">And this does, too--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="909.133" stopTime="909.683">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="909.133" offset="3743479">--in this case.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="909.683" stopTime="934.165">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="909.683" offset="3745673">--because if they prove their case, the question on damages is to what extent did the absence of competition from the overbuilders -- and it should have been DBS too from reading this, but nonetheless let me express no view on that -- but on -- on -- to what extent did the failure of competition from those people raise price above the competitive level?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="934.165" stopTime="934.815">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="934.165" offset="3843685">I mean, I hate--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="934.815" stopTime="935.450">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="934.815" offset="3846192">And--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="935.450" stopTime="936.800">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="935.450" offset="3848805">--Justice Breyer--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="936.800" stopTime="938.400">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="936.800" offset="3854134">--the pipes--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="938.400" stopTime="983.097">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="938.400" offset="3860612">--I mean, I really hate to be so prosaic and you mentioned something -- something so contrary to the facts, but the fact is that the fundamental question here is that there is one theory they are permitted to pursue.</text>
+            <text syncTime="951.310" offset="3912230">It is that this overbuilder, RCN, would have radiator -- radiated out through the DMA area.</text>
+            <text syncTime="961.498" offset="3952981">Now, you may think that they should have been allowed to pursue some other different theory.</text>
+            <text syncTime="966.552" offset="3973147">It's not the case that you have in front of you.</text>
+            <text syncTime="969.937" offset="3986731">And the fact is that -- that as the case comes to the Court, the theory that remains is based on the proposition that RCN was going to be the overbuilder that -- that was going to impact prices.</text>
+            <text syncTime="982.395" offset="4036573">Two--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="983.097" stopTime="984.081">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="983.097" offset="4039394">Well, Mr.--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="984.081" stopTime="1042.985">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="984.081" offset="4043260">--If I could just finish.</text>
+            <text syncTime="985.447" offset="4048798">Two things follow from that.</text>
+            <text syncTime="986.733" offset="4053918">You know, the first one which is directly pertinent to the issue here is that the McClave model purported to compute damages that were not limited to overbuilding, and that in fact expressly measured overbuilding only as to 5 out of the 16 counties.</text>
+            <text syncTime="1002.558" offset="4117239">The damage model just does not fit the legal theory that stays in the case.</text>
+            <text syncTime="1008.046" offset="4139182">The second aspect of it is that as a question of the factual fit with the record in the case, the transactions that added the largest number of subscribers here occurred in 2000 and very early 2001.</text>
+            <text syncTime="1023.572" offset="4201249">The record in this case includes public announcements by RCN, repeated by the FCC in its competition review, that they were not going to franchise any new franchises.</text>
+            <text syncTime="1035.714" offset="4249836">So there is a basic question of lack of fit between the ipse dixit of the expert and, you know, the record in this case.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1042.985" stopTime="1107.928">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1042.985" offset="4278885">--Mr. Estrada, as -- as the case comes to the Court, I guess I wonder why any of this is relevant.</text>
+            <text syncTime="1049.206" offset="4303753">You mentioned earlier, you mentioned earlier that we reformulated the question presented in this case.</text>
+            <text syncTime="1056.043" offset="4331129">And we reformulated in a way which said that what we wanted to talk about was whether a district court at a class certification stage has to conduct a Daubert inquiry, in other words has to decide on the admissibility of expert testimony relating to class-wide damages.</text>
+            <text syncTime="1074.941" offset="4406780">And, you know, it would not be crazy to surmise that we reformulated the question because we wanted to present, we wanted to decide a legal question, rather than a question about who was right as to this particular expert's report and how strong it was.</text>
+            <text syncTime="1093.402" offset="4480550">And it turns out that as to that legal question, your clients waived their -- their argument that this was inadmissible evidence.</text>
+            <text syncTime="1104.893" offset="4526525">So -- so what do we do in that circumstance?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1107.928" stopTime="1117.701">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1107.928" offset="4538646">Well, I don't agree with you that we waived.</text>
+            <text syncTime="1111.030" offset="4551081">And, you know, we covered this in, I think, 3 or 4 pages in the reply brief with all of the citations as to how we challenged the--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1117.701" stopTime="1137.447">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1117.701" offset="4577725">But you challenged the probity, Mr. Estrada.</text>
+            <text syncTime="1120.635" offset="4589533">You said Comcast said it had no objection to McClave's qualification as an expert.</text>
+            <text syncTime="1131.193" offset="4631747">So what you were talking about was the probity of this report, not the admissibility.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1137.447" stopTime="1170.985">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1137.447" offset="4656720">--No, that is not right, Justice Ginsburg.</text>
+            <text syncTime="1139.399" offset="4664556">Daubert and its progeny really encompasses three distinct prongs.</text>
+            <text syncTime="1144.351" offset="4684409">One of them is, of course, the qualifications of the expert.</text>
+            <text syncTime="1147.470" offset="4696844">The second one is the -- the reliability of the methodology; and the third is fit.</text>
+            <text syncTime="1153.874" offset="4722444">And all we said at the -- at the class hearing is that we had no objection to the proposition that these people have Ph.D. 's, which indeed they do.</text>
+            <text syncTime="1162.212" offset="4755776">But the issue still was both in the district court and in the court of appeals one that we urged that the methodology was not relevant and did not--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1170.985" stopTime="1192.934">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1170.985" offset="4790885">The district court, Mr. Estrada, clearly understood you to be making an argument about weight and not about admissibility.</text>
+            <text syncTime="1177.322" offset="4816276">And indeed the district court in open court -- and -- and it's in the transcript -- suggests that it's doing something different from holding a Daubert hearing, explains how it's different from holding a Daubert hearing, and both lawyers agree to that statement.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1192.934" stopTime="1250.287">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1192.934" offset="4878761">--Well, but I think we -- we agree that he needed to conduct more than a Daubert hearing because we agree with the holding of the Seventh Circuit in American Honda that the question at the class cert hearing is not solely one of whether the evidence would be admissible, but also one of -- of whether the district judge himself is persuaded that this is class-wide proof that has not been impeached in his own mind.</text>
+            <text syncTime="1215.681" offset="4969667">And so, you know, the mere fact that we all understood that what should have been ruled on at the class cert hearing encompassed more than pure Daubert admissibility is actually part of our complaint here.</text>
+            <text syncTime="1227.489" offset="5016896">I mean, I think if you read what the district court did, he basically looked at his job as looking at whether the model was capable, as in literally capable, of -- of -- of establishing, you know, the facts that the plaintiffs say it establishes without really weighing in his own mind whether it had been shown to be fit and, you know, reliable.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1250.287" stopTime="1291.681">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1250.287" offset="5108116">Mr. Estrada, it seems like a remarkable proposition, honestly, especially with a client like yours that is well lawyered.</text>
+            <text syncTime="1257.710" offset="5137791">It seems like a remarkable proposition that somebody -- a party can say, we have objections about the weight of this evidence.</text>
+            <text syncTime="1265.197" offset="5167779">We don't think -- we don't think it's a strong expert report, and that -- and that we -- and that the Court should then infer that there is an objection to admissibility of evidence as opposed, again, to the weight and strength of evidence.</text>
+            <text syncTime="1279.540" offset="5225144">I mean, surely a district court confronted with an argument about the weight and strength of evidence does not have to say: Oh, I better go hold a Daubert hearing to rule on admissibility even though nobody's asked me--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1291.681" stopTime="1292.531">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1291.681" offset="5273732">But, Justice Kagan--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1292.531" stopTime="1293.416">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1292.531" offset="5277076">--to rule on admissibility.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1293.416" stopTime="1326.752">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1293.416" offset="5280628">--But, Justice Kagan, I mean, I think we could go through chapter and verse to everything that we put in the reply brief.</text>
+            <text syncTime="1298.787" offset="5302153">But I think in fairness I have to point out to you that we never said that our objection was to the weight and not to the admissibility.</text>
+            <text syncTime="1307.476" offset="5336844">We agree that these people have properly scholarly credentials, and after that, as we say in the reply brief with citations to the record, we said: This model is so unreliable that it is just not usable period, full stop.</text>
+            <text syncTime="1321.134" offset="5391492">We went to the Third Circuit and said: This is not evidence of any kind, much less--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1326.752" stopTime="1329.638">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1326.752" offset="5413957">Did you ever file a motion to strike the expert report?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1329.638" stopTime="1345.415">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1329.638" offset="5425556">--No, we did not, and we actually don't think that that's needed, because it would actually be sort of silly to engage in a motion to strike the evidence that we are asking the district judge to consider in order to decide whether it actually is reliable.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1345.415" stopTime="1373.250">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1345.415" offset="5488667">Mr. Estrada, could you pronounce for me or give me the legal rule as you want us to articulate it?</text>
+            <text syncTime="1353.419" offset="5520641">Let me get you out of Daubert, okay, because I think you really can't deny that you never raised the word “ Daubert ” below until the very end.</text>
+            <text syncTime="1366.246" offset="5571946">Your fight before the district court was on the probity of the model, not on a Daubert issue, correct?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1373.250" stopTime="1375.935">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1373.250" offset="5599949">I don't think that's fair, because I think--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1375.935" stopTime="1378.887">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1375.935" offset="5610712">Did you use the word “ Daubert ” before the district court?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1378.887" stopTime="1384.390">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1378.887" offset="5622519">--We cited Daubert cases in the court of appeals.</text>
+            <text syncTime="1381.338" offset="5632341">We did say to the district court that the model was not usable.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1384.390" stopTime="1387.675">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1384.390" offset="5644566">Okay.</text>
+            <text syncTime="1385.157" offset="5647596">So you didn't use “ Daubert ” below--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1387.675" stopTime="1388.459">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1387.675" offset="5657627">I think that's fair.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1388.459" stopTime="1424.682">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1388.459" offset="5660762">--so let's get out of the Daubert language, okay?</text>
+            <text syncTime="1390.611" offset="5669435">Tell me how and what rule we announce so that district courts find an expert's evidence probative, the other side argues it's not, and when does the district court let the jury decide between the two?</text>
+            <text syncTime="1409.839" offset="5746339">Where is the line that the district court draws between class certification and merits adjudication so that at some point it goes to the jury?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1424.682" stopTime="1470.594">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1424.682" offset="5805689">There are two things that the district court has to do and both involve an assessment of the validity or, as you would put it, probity of the expert evidence.</text>
+            <text syncTime="1435.970" offset="5850829">You know, the first one keeps in mind that the focus of the class certification hearing is to decide whether the -- this case should be tried as a class, and therefore the first question that the district court has to ask is, even if I think that this is not ready now, do they have a methodology that sufficiently fits the facts and is reliably based on a scientific method so that these people will be capable of proving class-wide this issue at trial.</text>
+            <text syncTime="1469.544" offset="5985098">That's not enough.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1470.594" stopTime="1474.864">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1470.594" offset="5989383">We must have thought that, I suppose, or else we wouldn't have reformulated the question this way, right?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1474.864" stopTime="1475.564">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1474.864" offset="6006414">Well--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1475.564" stopTime="1480.851">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1475.564" offset="6009236">That's the way you put the question initially, and we reformulated it to be a Daubert question.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1480.851" stopTime="1528.580">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1480.851" offset="6030343">--I was -- I was going to point out by reference to one of your opinions, Justice Scalia, that there is a question sort of based on the Williams case, 504 U.S., as to, you know, the extent to which these issues are open to the Respondent to challenge as well.</text>
+            <text syncTime="1497.045" offset="6095126">Because by the time we framed the cert petition, even though we framed it in terms of Daubert, it was abundantly clear, as we pointed out in the reply brief, that we were challenging the fit and the reliability of the methodology, and there was nary a word in the -- in the brief in opposition that actually took issue with that.</text>
+            <text syncTime="1515.172" offset="6167642">On the face of that, you reformulated the question.</text>
+            <text syncTime="1517.608" offset="6177360">Your ruling in Williams would say that that issue is now over and that we move to the consideration of the merits, and I would like to reserve the remainder of my time for rebuttal.</text>
+            <text syncTime="1527.964" offset="6218842">Thank you.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1528.580" stopTime="1537.420">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1528.580" offset="6221245">Thank you, counsel.</text>
+            <text syncTime="1530.166" offset="6227619">Mr. Barnett.</text>
+          </turn>
+        </section>
+        <section startTime="1537.420" stopTime="3347.307">
+          <heading>Argument of Barry Barnett</heading>
+          <turn speaker="barry_barnett" startTime="1537.420" stopTime="1582.030">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1537.420" offset="6256667">Mr. Chief Justice and may it please the Court:</text>
+            <text syncTime="1540.187" offset="6267743">Justice Ginsburg and Justice Kagan, you are exactly right, the petition for certiorari was framed not, as counsel just misspoke, in terms of Daubert, but it was framed in terms of whether you have to go into -- whether the district court and the court of appeals have to deal with merits issues, and that question was what was reformulated.</text>
+            <text syncTime="1560.499" offset="6348932">And to get a sense of how profoundly uninterested Comcast was in Daubert and in arguing weight and probativeness as opposed to admissibility, which is the question before this Court, they never, ever cited Daubert.</text>
+            <text syncTime="1578.044" offset="6419149">They didn't cite it in the district court, they didn't cite it in the court of appeals.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1582.030" stopTime="1620.973">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1582.030" offset="6435136">One of my -- one of my questions in the case is this.</text>
+            <text syncTime="1584.716" offset="6445794">There was a question to Mr. Estrada with reference to a jury trial, but the judge doesn't really have a gate -- what do you call it, a gatekeeper function here.</text>
+            <text syncTime="1596.440" offset="6492710">There is no -- there's no jury.</text>
+            <text syncTime="1597.990" offset="6498979">And if the judge admits the evidence and if it turns out that that doesn't meet the standard of reliability, then he can exclude it.</text>
+            <text syncTime="1608.582" offset="6541298">I don't -- I don't see why the judge has to say: All right, now first I'm going to do Daubert, and next I'm going to do whether this is reliable.</text>
+            <text syncTime="1617.438" offset="6576720">This is just a magic words approach, it seems to me.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1620.973" stopTime="1654.425">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1620.973" offset="6590826">I don't think it is a magic word approach at all, Your Honor, because it has tremendous significance to people who are actually litigating the case.</text>
+            <text syncTime="1629.245" offset="6623949">It's -- I submit that it is disrespectful to a district judge not to object on Daubert grounds and then complain that what he did was completely unusable in the court.</text>
+            <text syncTime="1639.867" offset="6666476">They cited Daubert and Rule 702, 50 -- I quit counting at 50, but it was only after the question was reframed not to deal with merits questions, but to deal with Daubert specifically.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1654.425" stopTime="1659.162">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1654.425" offset="6724677">Well, I -- I take it there is no argument over whether or not the expert is qualified.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1659.162" stopTime="1660.329">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1659.162" offset="6743590">Indeed, Your Honor.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1660.329" stopTime="1664.065">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1660.329" offset="6748292">The question is just whether his -- his theory makes any sense.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1664.065" stopTime="1664.698">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1664.065" offset="6763234">That's true.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1664.698" stopTime="1667.017">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1664.698" offset="6765742">And the Petitioner says it doesn't.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1667.017" stopTime="1681.794">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1667.017" offset="6775041">But, Justice Kennedy it's also the case that the judge saying,</text>
+            <text syncTime="1670.652" offset="6789565">"Do you have any objections to this witness as an expert? "</text>
+            <text syncTime="1674.521" offset="6805030">That's about as big an invitation you can get that if you have got a Daubert objection, you better make it now, you need to make it now.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1681.794" stopTime="1690.816">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1681.794" offset="6834183">Well, I -- I can think of -- my initial reaction -- it has been an awful long time since I have been in the courtroom -- is that that's whether or not this man is -- is qualified to give an opinion.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1690.816" stopTime="1692.083">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1690.816" offset="6870232">That was--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1692.083" stopTime="1695.085">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1692.083" offset="6875352">That's one.</text>
+            <text syncTime="1692.750" offset="6877964">The next thing is does this opinion make any sense.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1695.085" stopTime="1719.133">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1695.085" offset="6887263">--The second step is using the -- the Court's opinions in Daubert, as well as in Carmichael, as well as in Joiner, which the Court has held applies to all kinds of expert testimony in Federal court.</text>
+            <text syncTime="1708.427" offset="6940658">The district judge has an obligation to serve as a gatekeeper whether there is a jury in the box or not.</text>
+            <text syncTime="1713.563" offset="6961242">On a preliminary injunction, the court, if there is a proper Daubert objection, must make the objection at that time.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1719.133" stopTime="1746.367">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1719.133" offset="6983498">Excuse me, do you think -- that -- that's why I am trying to get away from magic words.</text>
+            <text syncTime="1724.621" offset="7005441">Why do you disagree with the simple proposition that a district court, by whatever magic words it uses, has to come to the conclusion that the expert's testimony is persuasive?</text>
+            <text syncTime="1739.797" offset="7066150">And isn't that at bottom line a judgment that it's reliable and probative?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1746.367" stopTime="1755.990">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1746.367" offset="7092481">I completely agree, Justice Sotomayor, and we -- we embrace whatever Daubert standard anybody wants to apply retroactively.</text>
+            <text syncTime="1753.288" offset="7120171">But the main point is Judge Padova--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1755.990" stopTime="1781.041">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1755.990" offset="7130934">So you are not disagreeing with your adversary on a legal standard.</text>
+            <text syncTime="1759.025" offset="7143054">Every judge on a -- this is the simple way I formulate the rule -- every judge before he certifies -- he or she certifies a class, has to decide whether the methods being used are probative and relevant, sufficient to prove common -- common question of damages.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1781.041" stopTime="1809.875">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1781.041" offset="7231139">--Justice Sotomayor, I agree with that proposition if such that there is a proper objection made such that the district court is put on notice that he or she needs to do the work.</text>
+            <text syncTime="1791.663" offset="7273667">Judge Padova had a 4-day hearing, heard a day and a half of Dr. McClave, and then had a separate hearing to ask specific questions about, what about, well there is one of the four mechanisms that the anticompetitive conduct translated into sky high prices throughout the Philadelphia DMA.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1809.875" stopTime="1815.612">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1809.875" offset="7346496">In this case why doesn't the question of probative value subsume the Daubert question?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1815.612" stopTime="1839.977">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1815.612" offset="7369379">I don't think it does, Your Honor.</text>
+            <text syncTime="1817.395" offset="7376589">And again, it's not magic words.</text>
+            <text syncTime="1819.814" offset="7386202">Trial lawyers -- and I have been on this case for almost 10 years now -- once you say Daubert, once you say 702, or once you say</text>
+            <text syncTime="1827.419" offset="7416609">"I object, it's not reliable. "</text>
+            <text syncTime="1829.436" offset="7424759">at the time, contemporaneously, the district judge has an opportunity to fix whatever the problem is.</text>
+            <text syncTime="1835.942" offset="7450777">And the other side has a chance to fix whatever the problem is, too.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1839.977" stopTime="1861.991">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1839.977" offset="7466868">I think the problem is -- let me ask my question in a different way.</text>
+            <text syncTime="1841.929" offset="7474705">If the problem is that the model that is being -- that was used by the expert does not fit the theory of liability that remains in the case, would that -- what is the difference in determining probative value there and determining whether it comes in under Daubert?</text>
+            <text syncTime="1860.824" offset="7550251">I don't understand it.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1861.991" stopTime="1880.435">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1861.991" offset="7554953">Well, it -- it certainly is not an admissibility question.</text>
+            <text syncTime="1864.510" offset="7564984">So, I mean that's what the question is before the Court.</text>
+            <text syncTime="1867.128" offset="7575433">That is definitely not an admissibility question, it's a question of probativeness, and you can analyze it however you want to under a clearly erroneous test, which is what applies both under a Daubert standard as well as a class certification, where the judge is--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1880.435" stopTime="1893.243">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1880.435" offset="7628723">You're -- you are saying it's inadmissible if it's inadequately probative, right?</text>
+            <text syncTime="1884.570" offset="7645232">So your objections boil down to the same, don't they?</text>
+            <text syncTime="1887.605" offset="7657353">If it's inadequately probative, it's inadmissible, isn't that right?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1893.243" stopTime="1897.730">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1893.243" offset="7679923">--If -- if you are talking about at the hearing for the class certification--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1897.730" stopTime="1898.547">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1897.730" offset="7697895">Well, whenever.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1898.547" stopTime="1899.480">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1898.547" offset="7701134">--as opposed to a trial.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1899.480" stopTime="1902.634">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1899.480" offset="7704896">I'm talking about what, what is the criterion for Daubert?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1902.634" stopTime="1903.401">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1902.634" offset="7717539">Daubert--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1903.401" stopTime="1907.419">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1903.401" offset="7720569">Is it adequately probative?</text>
+            <text syncTime="1905.503" offset="7729033">If not it's inadmissible.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1907.419" stopTime="1911.621">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1907.419" offset="7736661">--If it is unreliable then it is not admissible.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1911.621" stopTime="1912.187">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1911.621" offset="7753484">Well, you want to say--</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1912.187" stopTime="1913.137">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1912.187" offset="7755678">It is not adequately or inadequately--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1913.137" stopTime="1919.025">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1913.137" offset="7759544">--You say unreliable, I say inadequately probative.</text>
+            <text syncTime="1915.256" offset="7768008">It's -- it is unreliable because it is inadequately probative.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1919.025" stopTime="1921.143">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1919.025" offset="7783054">--It's -- okay, Your Honor.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1921.143" stopTime="1922.345">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1921.143" offset="7791518">There--</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1922.345" stopTime="1929.348">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1922.345" offset="7796325">I am not going to quibble with you about that, but this case, Comcast, at the heart of this appeal it's Comcast--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1929.348" stopTime="1934.652">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1929.348" offset="7824328">Mr. Barnett, it's always true, isn't it, that evidence that is inadequately probative is inadmissible?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1934.652" stopTime="1936.085">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1934.652" offset="7845539">--Is it always the case?</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1936.085" stopTime="1938.687">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1936.085" offset="7851286">It's always been true, right, if evidence is not--</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1938.687" stopTime="1941.805">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1938.687" offset="7861735">If there is an objection, if there is an objection, there is a lot of authority--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1941.805" stopTime="1955.713">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1941.805" offset="7874169">--If that's the case.</text>
+            <text syncTime="1942.339" offset="7876364">I mean, but have we ever said that -- that without an objection somebody can say, look, we -- we argued about this evidence and that should be just good enough, even though we didn't -- we didn't make an objection to exclude it?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1955.713" stopTime="1959.933">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1955.713" offset="7929863">--I -- I am unaware of any time this Court has said it's okay not to object.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1959.933" stopTime="1990.553">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1959.933" offset="7946685">We are having an elaborate discussion, and you did in -- in the briefs about whether or not this was a claim that was waived below.</text>
+            <text syncTime="1968.539" offset="7981167">No court has addressed that yet.</text>
+            <text syncTime="1970.506" offset="7989004">We're a court of review, not first view.</text>
+            <text syncTime="1973.841" offset="8002378">So it seems to me that one option for the Court, since we did reformulate the question, is to answer the question and then send it back for the court to determine whether or not the parties adequately preserved that option or not -- that objection or not.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="1990.553" stopTime="2002.927">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="1990.553" offset="8069147">Your Honor, I agree that that's one of the options that Your Honor has, but of course it goes back with all the scuffs and scars and mess-ups that preceded it up until today.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2002.927" stopTime="2013.318">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2002.927" offset="8118676">Well, fine.</text>
+            <text syncTime="2003.560" offset="8121183">I mean, and the district court presumably can decide based on the proceedings and all that below, all the scars and mess-ups, whether or not it was adequately preserved or not.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2013.318" stopTime="2014.851">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2013.318" offset="8160263">I agree, Mr. Chief Justice.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2014.851" stopTime="2089.235">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2014.851" offset="8166427">The strongest argument I think for that point of view would be simply this, the Sniff Company makes widgets.</text>
+            <text syncTime="2022.941" offset="8198715">The plaintiff says they monopolize the widget business.</text>
+            <text syncTime="2026.376" offset="8212507">That business is monopolized because they achieved the power to raise price above the competitive level through exclusionary practices.</text>
+            <text syncTime="2034.815" offset="8246258">For example, United Fruit used to pour garbage on the ships of its competitors.</text>
+            <text syncTime="2039.385" offset="8264543">Now we have here a class of people who have been injured by their monopoly power -- and here they are, and you give a list.</text>
+            <text syncTime="2048.158" offset="8299652">The judge says or the other side, how do you know that's the right list?</text>
+            <text syncTime="2052.460" offset="8316788">Well, we know; here's how we know.</text>
+            <text syncTime="2055.478" offset="8328909">We have an expert here who has used a model to pick out the right people who were injured by the monopoly power, its exercise.</text>
+            <text syncTime="2063.768" offset="8362032">And the other side says no, that model is no good.</text>
+            <text syncTime="2068.120" offset="8379482">Well, if it genuinely is no good, and really worthless, then I guess you haven't shown these are the right people for the class.</text>
+            <text syncTime="2076.992" offset="8414904">And I think that's what they're saying.</text>
+            <text syncTime="2078.761" offset="8422009">And so the response to that is, to answer this question, do we have to go look at the model?</text>
+            <text syncTime="2084.664" offset="8445624">I mean on its face, it seems okay.</text>
+            <text syncTime="2086.533" offset="8453147">I don't know, I haven't looked at the record.</text>
+            <text syncTime="2088.249" offset="8459939">And--</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2089.235" stopTime="2091.251">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2089.235" offset="8463910">I would love to talk about the model.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2091.251" stopTime="2093.103">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2091.251" offset="8471956">--Could you talk about that a little bit, please?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2093.103" stopTime="2093.687">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2093.103" offset="8479374">Yes, I--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2093.687" stopTime="2095.139">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2093.687" offset="8481673">Did I get my analysis right?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2095.139" stopTime="2097.939">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2095.139" offset="8487525">--I would love to talk about this model.</text>
+            <text syncTime="2097.372" offset="8496511">This--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2097.939" stopTime="2129.460">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2097.939" offset="8498705">No, no, that isn't what I want to really know.</text>
+            <text syncTime="2099.341" offset="8504347">[Laughter]</text>
+            <text syncTime="2100.157" offset="8507587">I want to know -- if you think of the examples I just -- as the plaintiff, when you draw up your list of class members, you have to have on that list people who really were hurt by the -- or plausibly were hurt by the exercise of market power, and you have to have some way of picking them out, and you have chosen this model as a way.</text>
+            <text syncTime="2121.271" offset="8592014">So, I guess they could object on the ground that model is worthless.</text>
+            <text syncTime="2125.408" offset="8608628">Is this analysis right?</text>
+            <text syncTime="2127.074" offset="8615316">And you would have to show no, it isn't worthless.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2129.460" stopTime="2133.680">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2129.460" offset="8624824">--Yes, Your Honor, we do have to show that this is a fantastic model, which it is.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2133.680" stopTime="2136.966">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2133.680" offset="8641647">You don't have to show that much.</text>
+            <text syncTime="2134.897" offset="8646558">I think you only have to show it's a plausible model.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2136.966" stopTime="2180.911">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2136.966" offset="8654813">All right.</text>
+            <text syncTime="2137.549" offset="8657216">I -- I agree.</text>
+            <text syncTime="2138.316" offset="8660246">I am not going to put the -- I am happy with whatever test you all want to apply is what I'm saying.</text>
+            <text syncTime="2142.870" offset="8678427">This is a good model.</text>
+            <text syncTime="2144.903" offset="8686578">And two of the basic misconceptions that this case comes into this Court with is first, that there -- that Dr. McClave was talking about a causal connection between the anticompetitive conduct and the damages.</text>
+            <text syncTime="2157.380" offset="8736524">He was estimating, whatever the -- whatever the anticompetitive conduct is, whatever the judge or jury finds is the anticompetitive conduct that accounts for the sky-high prices throughout the Philadelphia area -- whatever it is, this is an accurate reflection of the damages on a class-wide basis aggregated across the class.</text>
+            <text syncTime="2178.793" offset="8822101">The -- Comcast--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2180.911" stopTime="2189.249">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2180.911" offset="8830669">--You didn't say what -- there -- there were four possibilities that he took into account, right, as to what the anticompetitive conduct was?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2189.249" stopTime="2190.367">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2189.249" offset="8864001">--And, Your Honor--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2190.367" stopTime="2195.236">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2190.367" offset="8868390">And as it turns out, only one of those was found to -- to be in the game.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2195.236" stopTime="2230.159">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2195.236" offset="8887929">--I do want to make sure I -- I make the correction.</text>
+            <text syncTime="2197.438" offset="8896707">Dr. Williams was the one who talked about this, not Dr. McClave.</text>
+            <text syncTime="2200.723" offset="8909872">Dr. Williams was the one who said this is the anticompetitive conduct and this is what caused there to be less competition.</text>
+            <text syncTime="2209.126" offset="8943518">It was Dr. McClave's job to figure out, well, what's the harm to the class as a result of that chain of events?</text>
+            <text syncTime="2216.149" offset="8971521">You are right, Your Honor, that -- Justice Scalia, that Judge -- Judge Padova excluded three of the four mechanisms that Dr. Williams talked about as having a causal connection.</text>
+            <text syncTime="2228.873" offset="9022512">And it turns out Dr. Williams--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2230.159" stopTime="2231.025">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2230.159" offset="9027632">That was the basis for the claims.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2231.025" stopTime="2232.092">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2231.025" offset="9031081">--It was not, Your Honor.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2232.092" stopTime="2240.598">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2232.092" offset="9035365">It was not the basis?</text>
+            <text syncTime="2233.027" offset="9039126">His was based only on the one that the court accepted?</text>
+            <text syncTime="2236.646" offset="9053546">Where in the record is -- is that?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2240.598" stopTime="2246.668">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2240.598" offset="9069324">His -- his model was agnostic about what the anticompetitive conduct was.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2246.668" stopTime="2257.976">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2246.668" offset="9093670">You can't be agnostic about what the anticompetitive conduct is, if you are going to do -- if you're going to do an analysis of what are the consequences of the -- of the anticompetitive conduct, you have to know the anticompetitive conduct you are talking about.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2257.976" stopTime="2288.095">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2257.976" offset="9138914">Again, I want to make sure I am being precise about this, Justice Scalia.</text>
+            <text syncTime="2261.444" offset="9152707">There is no question that the conduct that caused the harm is the clustering behavior that Comcast engaged in over a decade's time.</text>
+            <text syncTime="2270.217" offset="9187815">What is not clear, was not clear but is now, because Judge Padova has told us which of the mechanisms that Dr. Williams formulated as possible causes of the -- the possible engines that resulted in the prices going way up.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2288.095" stopTime="2295.351">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2288.095" offset="9259391">I guess in a monopolization case it is not the case that you have to trace the damages to the exclusionary conduct.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2295.351" stopTime="2295.967">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2295.351" offset="9288334">Exactly.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2295.967" stopTime="2312.294">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2295.967" offset="9290842">In the classical class of -- section 2 case, the damages are caused by the monopolization, which lacks skill, foresight and industry justification.</text>
+            <text syncTime="2304.540" offset="9325115">So the fact that he omitted three but kept one has nothing to do with damages in the classical section 2 case, is that right?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2312.294" stopTime="2320.683">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2312.294" offset="9356148">Exactly right, Justice Breyer.</text>
+            <text syncTime="2313.663" offset="9361582">And maybe if you think of it as the possibility of -- I think of in terms of engines.</text>
+            <text syncTime="2318.281" offset="9380076">There is an engine that is causing something.</text>
+            <text syncTime="2320.050" offset="9387182">Maybe it's--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2320.683" stopTime="2326.554">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2320.683" offset="9389689">But here is the difficulty that I am having.</text>
+            <text syncTime="2322.752" offset="9397944">A little technical, but -- but it -- this is a regulated industry.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2326.554" stopTime="2327.237">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2326.554" offset="9413200">--Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2327.237" stopTime="2359.342">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2327.237" offset="9415916">And because it's a regulated industry, the regulator in your view is doing one of the worst jobs in history.</text>
+            <text syncTime="2331.857" offset="9434411">They are willing to come in and overbuild and everything, so he must be letting prices -- all right.</text>
+            <text syncTime="2337.528" offset="9457085">Suppose the judge or lawyer were to find: That's okay, doesn't matter, all we're interested in is what Justice Scalia says.</text>
+            <text syncTime="2344.082" offset="9483312">Then if that were true, from looking at the footnote on this, I guess you'd take this model and you would simply subtract or add to the base, which is supposed to be the competitively priced districts.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2359.342" stopTime="2360.025">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2359.342" offset="9544334">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2360.025" stopTime="2361.877">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2360.025" offset="9547051">The districts that also have satellite.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2361.877" stopTime="2362.727">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2361.877" offset="9554470">Indeed.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2362.727" stopTime="2367.079">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2362.727" offset="9557918">And that shouldn't be tough to do but I don't know if it's tough to do and I don't see how we're ever going to find out.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2367.079" stopTime="2369.380">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2367.079" offset="9575263">The record says it can be done.</text>
+            <text syncTime="2368.547" offset="9581115">In fact--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2369.380" stopTime="2372.832">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2369.380" offset="9584458">I don't know.</text>
+            <text syncTime="2370.447" offset="9588743">How would you answer such a question?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2372.832" stopTime="2438.877">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2372.832" offset="9598251">--I would -- would cite you to -- let's see if I can find it.</text>
+            <text syncTime="2376.803" offset="9614134">It's in -- actually in the Court of Appeals record AO 01533 through 34.</text>
+            <text syncTime="2385.140" offset="9647570">It is stated there that you can take off of the DBS -- if you don't like the DBS penetration screen, then you can turn it off and damages are still, as we have established since -- when Comcast complied -- when they finally did file a Daubert motion, would be something like $550 million on a class-wide basis.</text>
+            <text syncTime="2403.704" offset="9721758">So that is in the record as well as there is ample evidence; Exhibit 82, which shows 23 different iterations of the damages models including damages models that Dr. Chipty on the Comcast side put together slicing and dicing all of this data to show that no matter how you slice it and dice it almost, if you did it in any kind of a fair way that the Federal Judicial Center recognizes as a reliable type of methodology you are going to have significant damages across the class for each class member throughout the time period.</text>
+            <text syncTime="2437.858" offset="9858431">The other thing I would like--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2438.877" stopTime="2440.577">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2438.877" offset="9862506">Mr. Barnett -- I'm sorry.</text>
+            <text syncTime="2439.860" offset="9866372">Go ahead.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2440.577" stopTime="2442.662">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2440.577" offset="9869298">--No, Your Honor, I was about to change that subject.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2442.662" stopTime="2528.000">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2442.662" offset="9877657">Okay.</text>
+            <text syncTime="2443.246" offset="9879956">Then I will.</text>
+            <text syncTime="2444.079" offset="9883299">I am still in search of a legal question that anybody disagrees about here.</text>
+            <text syncTime="2450.000" offset="9907018">You know, I read before the district court statement of the standard, now all points of the circuit court statement of the standard, where the circuit court says,</text>
+            <text syncTime="2460.021" offset="9947038">"The inquiry for a district court at the class certification stage is whether the plaintiffs have demonstrated. "</text>
+            <text syncTime="2466.025" offset="9971071">--burden is on you --</text>
+            <text syncTime="2467.325" offset="9976295">"by a preponderance of the evidence that they will be able to measure damages on a class-wide basis using common proof. "</text>
+            <text syncTime="2474.531" offset="10005134">The parties both agree with that statement of the standard.</text>
+            <text syncTime="2478.400" offset="10020599">It seems to me that the parties also both agree, and this goes back to Justice Sotomayor's question, that if the Daubert question had not been waived, that if -- if Comcast had objected to the admissibility of this expert report, that indeed, the court would -- should have held a hearing on the admissibility of the expert report.</text>
+            <text syncTime="2501.682" offset="10113699">So this is a case where it seems to me that except for the question of how good the expert report is, none of the parties have any adversarial difference as to the appropriate legal standard.</text>
+            <text syncTime="2514.006" offset="10163018">And, you know, usually we decide cases based on disagreements about law, and here I can't find one.</text>
+            <text syncTime="2521.779" offset="10194052">Is there any?</text>
+            <text syncTime="2522.979" offset="10198858">Do you disagree with Mr. Estrada on any statement of the legal standard?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2528.000" stopTime="2550.163">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2528.000" offset="10219025">I -- I do not, Your Honor, and I think Justice -- Judge Padova got it exactly right.</text>
+            <text syncTime="2532.468" offset="10236893">You read the standard that he applied.</text>
+            <text syncTime="2534.586" offset="10245356">In fact, if anything, it's a tougher standard than should be the test, but we embrace that test and we are happy about it, and we don't disagree with Mr. Estrada.</text>
+            <text syncTime="2543.092" offset="10279316">And this is what I was about to change subject to a little bit, the two misconceptions that fundamentally affect Comcast's view of the world--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="2550.163" stopTime="2567.208">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="2550.163" offset="10307632">Before you do that, let me ask a question related to what Justice Kagan just asked.</text>
+            <text syncTime="2555.250" offset="10328008">If we were to answer the question presented as reformulated, I take it your answer would be that a district court under those circumstances may not certify a class action; is that right?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2567.208" stopTime="2583.919">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2567.208" offset="10375760">--If there is a proper objection, properly and timely presented, it's preserved up through the appellate courts and all the things that you need to do in order to be fair to the judge as well as make sure you get it -- give it as good a chance to be right as possible, the answer would be yes.</text>
+            <text syncTime="2582.067" offset="10435214">But that's a lot of caveats before you get--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="2583.919" stopTime="2592.625">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="2583.919" offset="10442633">Well, then the only remaining question is whether the issue was in the case as a factual -- as a matter of the record here; isn't that right?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2592.625" stopTime="2620.609">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2592.625" offset="10477428">--Well, if the issue of admissibility is in the case, I don't think it is.</text>
+            <text syncTime="2595.977" offset="10490907">If evidence comes in -- again, this is -- this was not a bunch of expert reports that were just piled up on the -- in chambers and Judge Padova went through them.</text>
+            <text syncTime="2605.250" offset="10528001">He actually, at their request, had a four-day hearing, and then a fifth day where he posed a series -- I think it was a four-page letter where the judge says,</text>
+            <text syncTime="2615.640" offset="10569484">"I'm concerned about this, I'm concerned about that. "</text>
+            <text syncTime="2617.973" offset="10578888">"Y'all come back and tell me why it's okay. "</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="2620.609" stopTime="2626.913">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="2620.609" offset="10589441">Well, could this report be probative if it did not satisfy Daubert?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2626.913" stopTime="2651.694">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2626.913" offset="10614623">The answer, Your Honor, and my source is Section 274 of Trial and Corpus Juris Secundum, well recognized in this Court, no doubt.</text>
+            <text syncTime="2640.154" offset="10667600">It says that if it's in the record, if it comes in unobjected to, it has whatever probative value the court -- the trier-of-fact chooses to place on it.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2651.694" stopTime="2664.069">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2651.694" offset="10713784">That the court as the trier-of-fact chooses to.</text>
+            <text syncTime="2655.996" offset="10730921">That the -- not reserved to cases where there's a jury?</text>
+            <text syncTime="2662.502" offset="10756938">Is that--</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2664.069" stopTime="2664.952">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2664.069" offset="10763208">No, Your Honor.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2664.952" stopTime="2683.048">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2664.952" offset="10766761">--It seems to me that, as I indicated before, that the whole question of weight and admissibility is somewhat less important when the trial judge is not the gatekeeper.</text>
+            <text syncTime="2676.144" offset="10811587">The trial judge at the end of the day can hear the testimony, say: You know, I admitted this testimony, but it doesn't make any sense.</text>
+            <text syncTime="2682.214" offset="10835828">It doesn't work.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2683.048" stopTime="2693.938">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2683.048" offset="10839172">What's happening, Your Honor, is you have got to satisfy -- Rule 23(b)(3) says the judge has to make findings.</text>
+            <text syncTime="2689.968" offset="10866862">That's the one of the few parts of Rule 23 that talks about findings.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2693.938" stopTime="2696.138">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2693.938" offset="10882744">Well, he does what I said, but then he has 100 pages of findings.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2696.138" stopTime="2707.513">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2696.138" offset="10891521">Yes, Your Honor.</text>
+            <text syncTime="2698.740" offset="10901970">But he's acting as a gatekeeper, and what he's doing or she's doing is projecting: What's this trial going to look like based on the evidence in front of me.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2707.513" stopTime="2716.769">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2707.513" offset="10936974">No, I think that's where we disagree.</text>
+            <text syncTime="2710.881" offset="10950454">The judge has to make a determination that in his view the class can be certified.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2716.769" stopTime="2718.321">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2716.769" offset="10974068">Absolutely.</text>
+            <text syncTime="2717.554" offset="10977203">He does.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2718.321" stopTime="2728.760">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2718.321" offset="10980233">And that includes some factual inquiries as to the damages alleged and the cause of the injury and whether or not there is a common -- whether or not there's a commonality.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2728.760" stopTime="2757.096">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2728.760" offset="11022029">Justice Kennedy, the district judge asks: Prove to me -- to the plaintiff, that you can prove it at trial.</text>
+            <text syncTime="2736.932" offset="11054734">Prove to me now that at trial you will be able to submit a damages model that passes muster, under Daubert or whatever test there is, depending on what the objections are.</text>
+            <text syncTime="2748.656" offset="11101546">So the judge is acting in a gatekeeper role right then, kind of projecting into the future about what am I going to do when the jury's in the box--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2757.096" stopTime="2774.557">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2757.096" offset="11135401">Well, that's not -- I'll think about it, but that's not my understanding.</text>
+            <text syncTime="2760.898" offset="11150552">I thought the judge has to make a determination that, in the next case we are going to hear this morning, that the representation is material, or it affects the market.</text>
+            <text syncTime="2770.070" offset="11187227">The judge has to make that conclusion, make that finding.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2774.557" stopTime="2880.041">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2774.557" offset="11205200">--And the finding that the judge makes based on preponderance of the evidence, plaintiffs have shown to me that more likely than not, at trial, plaintiffs will be able to show on a class-wide basis, some evidence, enough to get a verdict that could be upheld, enough that satisfies to some evidence or whatever the test is at trial, that shows damages on a class-wide basis.</text>
+            <text syncTime="2795.554" offset="11289209">So the judge isn't saying: This is it, you can't fix it, you can't change it, you can't modify it, you can't enhance it between now and trial.</text>
+            <text syncTime="2805.827" offset="11330274">He says that you can do it.</text>
+            <text syncTime="2809.064" offset="11343231">You have shown to me, to my satisfaction, that more likely than not that the evidence that you will present to the jury at trial is going to be admissible and it's going to be sufficiently persuasive if the jury chooses to accept it.</text>
+            <text syncTime="2822.054" offset="11395162">And this is where -- I really want to get to this about the merits.</text>
+            <text syncTime="2824.740" offset="11405925">I think there is a great deal of confusion about what Judge Aldisert meant in the Third Circuit when he talked about the merits.</text>
+            <text syncTime="2831.810" offset="11434241">Comcast, each time construes, when he uses the word “ merits ”, talk about incantation of magic words, that that means whether it's good or bad, that that is what Judge Aldisert was talking about.</text>
+            <text syncTime="2844.404" offset="11484605">That is not what he was talking about at all.</text>
+            <text syncTime="2846.087" offset="11491293">He was talking about trial on the merits.</text>
+            <text syncTime="2849.206" offset="11503832">He was saying that right now we don't have to decide whether this model is perfect.</text>
+            <text syncTime="2854.425" offset="11524625">It's enough.</text>
+            <text syncTime="2855.675" offset="11529641">The test -- this issue isn't before us because it's been waived, Daubert and all that, but if you want to know what our observation would be if this were presented in a proper case, then observation is it doesn't have to be perfect, and it can be enhanced between now -- which is supposed to happen at an early, practicable time -- and trial, so that the jury can see it.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2880.041" stopTime="2894.883">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2880.041" offset="11627129">Counsel, tell me -- you articulate for me what you think -- what the district court found when it accepted your expert's theory as adequate.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2894.883" stopTime="2895.450">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2894.883" offset="11686480">What Judge--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2895.450" stopTime="2898.252">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2895.450" offset="11688778">What do you think that means legally?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2898.252" stopTime="2917.980">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2898.252" offset="11699959">--What Judge Padova found was that the McClave damages model is persuasive to him, sufficiently persuasive to him that it could be used at trial to prove damages on a class-wide basis.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2917.980" stopTime="2921.368">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2917.980" offset="11778849">And so what does sufficiently persuasive mean?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2921.368" stopTime="2924.320">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2921.368" offset="11792432">That more likely than not--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2924.320" stopTime="2926.270">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2924.320" offset="11804240">It sounds nice, but more likely than not--</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2926.270" stopTime="2963.092">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2926.270" offset="11812076">--More likely than not that it will be admissible at trial, and it will meet the standard that's required to get to a verdict.</text>
+            <text syncTime="2935.359" offset="11848439">Not that it's I'm convinced that you're right.</text>
+            <text syncTime="2938.910" offset="11862649">And that's what Judge Aldisert was talking about.</text>
+            <text syncTime="2940.693" offset="11869755">He said: It's not time for us to say Comcast wins or plaintiffs win based on all this evidence; the only thing that's really before the court is whether more likely than not the plaintiffs have presented a model -- we're talking about a model in this case; it could be a different issue in a different case.</text>
+            <text syncTime="2960.140" offset="11947495">In than the Amgen case that's coming up it could be a different issue.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2963.092" stopTime="2992.778">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2963.092" offset="11959303">Mr. Barnett, this is on a different issue, but you had originally suggested that you had -- that the motion -- that the settlement that's looming was a reason that this Court ought not to decide this case.</text>
+            <text syncTime="2981.053" offset="12031192">But do you now agree that, given the district court's denial of your motion to enforce the settlement, that the proposed settlement has no bearing on this Court's consideration of the case?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="2992.778" stopTime="3004.003">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="2992.778" offset="12078107">At this time, Your Honor, I think -- I think it has no bearing on what this Court does or does not do in this case.</text>
+            <text syncTime="2999.032" offset="12103081">It is something that we would have the right to appeal at an appropriate time, but we're not doing that now.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3004.003" stopTime="3020.013">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3004.003" offset="12122934">Counsel, it -- it seems to me that your answer to Justice Sotomayor, which is whether it's more likely than not that this will be something that can be used at trial, one way to capture that is whether or not this evidence is usable, right?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3020.013" stopTime="3023.430">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3020.013" offset="12186986">I would not say that.</text>
+            <text syncTime="3022.380" offset="12196494">And partly--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3023.430" stopTime="3027.034">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3023.430" offset="12200674">More likely than not whether it can be used at trial, that sounds like is it usable.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3027.034" stopTime="3029.651">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3027.034" offset="12215094">--Well, the reason I'm hesitating is because--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3029.651" stopTime="3031.153">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3029.651" offset="12225543">Well, I know the reason you're hesitating.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3031.153" stopTime="3047.263">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3031.153" offset="12231603">--Well -- and also, it's because it's something you don't know.</text>
+            <text syncTime="3036.890" offset="12254486">When that word was used, “ unusable ”, in court, they were talking about common impact.</text>
+            <text syncTime="3043.211" offset="12279773">That's what that was about.</text>
+            <text syncTime="3044.461" offset="12284788">That was -- that discussion was about, it wasn't about this model.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3047.263" stopTime="3077.515">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3047.263" offset="12296073">Well, of course there matters for the trier of fact to determine at the merits stage, but under Daubert and under Rule 702 the judge has to say that the evidence is relevant to the task at hand, and it has a reliable foundation.</text>
+            <text syncTime="3066.593" offset="12373396">I can see a judge saying,</text>
+            <text syncTime="3067.776" offset="12378098">"Well, now, this theory that you're using, this theory works. "</text>
+            <text syncTime="3071.730" offset="12393876">"I think it's accepted in academia. "</text>
+            <text syncTime="3074.682" offset="12405683">Then he hears all the testimony and he says, “ It just doesn't work here ”.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3077.515" stopTime="3106.101">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3077.515" offset="12417072">And Judge Padova could have done that, but he didn't do that.</text>
+            <text syncTime="3080.836" offset="12430343">I think he was persuaded by the evidence that Dr. McClave put on and he rejected, because we know from his 81-page opinion that he rejected an awful lot of what Comcast's experts said.</text>
+            <text syncTime="3093.410" offset="12480602">So he -- he could have made that determination.</text>
+            <text syncTime="3095.429" offset="12488648">And this is why it's an -- if we're talking -- if we're not dealing just with an admissibility issue that's been forfeited away, we're dealing with abuse of discretion and clearly erroneous.</text>
+            <text syncTime="3105.551" offset="12529190">And this is--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3106.101" stopTime="3108.919">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3106.101" offset="12531384">I'm -- I'm not sure what I just described is not Daubert.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3108.919" stopTime="3140.475">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3108.919" offset="12542669">--Your Honor, if you're in a trial court and somebody says Daubert or somebody says Rule 702 or somebody says I object to this expert's testimony, that has profound significance.</text>
+            <text syncTime="3121.727" offset="12593869">And again, I think it's -- it's almost disrespectful to the district court to say,</text>
+            <text syncTime="3127.548" offset="12617170">"It's okay, although this -- this question wasn't on the test that you had when you were trying to decide the case, we're going to add the question to the test, and by the way, you flunked it. "</text>
+            <text syncTime="3139.173" offset="12663668">That's not fair.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3140.475" stopTime="3152.282">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3140.475" offset="12668893">--Counsel, the bottom line is, can a district court ever say that it's persuaded by unreliable or not probative evidence.</text>
+            <text syncTime="3149.896" offset="12706509">That's really the bottom line question.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3152.282" stopTime="3153.632">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3152.282" offset="12716122">I--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3153.632" stopTime="3161.804">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3153.632" offset="12721451">Does it commit legal error when it finds something that's unreliable and unpersuasive or unprobative?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3161.804" stopTime="3169.977">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3161.804" offset="12754156">--Well, Your Honor, I agree, and of course that's not the issue in the case, because Judge Padova was convinced it was reliable.</text>
+            <text syncTime="3168.025" offset="12779025">And there's plenty of proof that there was.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3169.977" stopTime="3171.660">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3169.977" offset="12786862">I -- I think that's a fair reading of what he said--</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3171.660" stopTime="3172.346">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3171.660" offset="12793654">Right.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3172.346" stopTime="3174.846">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3172.346" offset="12796370">--but if we're answering a legal question.</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3174.846" stopTime="3189.621">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3174.846" offset="12806401">We're talking about the -- the edges and all the -- where everything is done properly below.</text>
+            <text syncTime="3181.035" offset="12831165">If it doesn't pass muster under Daubert, whatever the test is, let's not reformulate it here, I suppose, yes, then it's not admissible.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3189.621" stopTime="3208.935">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3189.621" offset="12865438">The problem everyone's having is -- I think -- that why do you need Daubert to point out that something is not probative or unreliable?</text>
+            <text syncTime="3200.579" offset="12909324">Whether it's an expert or a lay witness testifying, wouldn't you apply that same standard to anybody's testimony?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3208.935" stopTime="3256.516">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3208.935" offset="12942761">Justice Sotomayor, let me just give you an example.</text>
+            <text syncTime="3211.368" offset="12952478">There were a bunch of issues that the dissenting judge raised, including the overbuilding screen, a particular kind of market screen, mathematical averages.</text>
+            <text syncTime="3221.676" offset="12993647">If in the DBS penetration screen, if he had raised any of those, if there had been a whisper of a hint of a suggestion, of a thought of the those things in the district court, we'd have been all over that, and we would have proved that it was false, that those -- that those statements are untrue.</text>
+            <text syncTime="3239.037" offset="13063133">And we know that's accurate because, as I just read to you from the -- the court of appeals record, the DBS screen can in fact be taken off, eliminated from the sample, and you still have $550 million worth of damages on a class-wide basis.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3256.516" stopTime="3257.182">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3256.516" offset="13133036">Mr.--</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3257.182" stopTime="3269.723">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3257.182" offset="13135753">And the reason we got to that is because they finally did, on the eve of trial, file an actual Daubert motion, and that was our response, and they cited footnote 323 of their brief.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3269.723" stopTime="3286.768">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3269.723" offset="13185908">--Mr. Barnett, suppose -- suppose we held that where -- where there's a bench trial, it doesn't make any difference what -- what -- whether the judge excludes the evidence under Daubert.</text>
+            <text syncTime="3283.399" offset="13240556">I never know how to say it.</text>
+            <text syncTime="3285.383" offset="13248498">Is it Daubert or Daubert?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3286.768" stopTime="3289.220">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3286.768" offset="13254036">It depends on the time of day, Your Honor.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3289.220" stopTime="3307.614">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3289.220" offset="13263858">Yes, I think you're right.</text>
+            <text syncTime="3291.187" offset="13271694">It doesn't make a dime's worth of difference whether the judge excludes it under -- under Daubert or proceeds to find it simply unreliable -- unreliable.</text>
+            <text syncTime="3301.361" offset="13312445">Suppose -- suppose we held that.</text>
+            <text syncTime="3303.480" offset="13320909">What difference would it make in the world?</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3307.614" stopTime="3308.214">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3307.614" offset="13337418">I would--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3308.214" stopTime="3317.204">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3308.214" offset="13339822">So the trial judge could say,</text>
+            <text syncTime="3309.800" offset="13346196">"Yes, I have a Daubert motion, but -- but I'm going to defer that. "</text>
+            <text syncTime="3313.252" offset="13359988">"I'm just going to -- going to proceed to see whether this evidence is reliable. "</text>
+          </turn>
+          <turn speaker="barry_barnett" startTime="3317.204" stopTime="3342.438">
+            <label>Mr. Barry Barnett</label>
+            <text syncTime="3317.204" offset="13375766">--Justice Scalia, I would say what you're doing is what I suggest the Court ought to do.</text>
+            <text syncTime="3321.524" offset="13393112">Everybody knows that district judges have broad discretion in a lot of different things that they do.</text>
+            <text syncTime="3327.012" offset="13415054">You just made it this much bigger as a result of saying,</text>
+            <text syncTime="3330.547" offset="13429161">"We're not even going to bother with the Daubert thing, we're going to trust that the district judge is not going to be persuaded by phony evidence, and we're going to trust, if he gets it nearly close, right, that he got it right. "</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3342.438" stopTime="3347.307">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3342.438" offset="13476703">Thank you, counsel.</text>
+            <text syncTime="3344.405" offset="13484645">Mr. Estrada, you have five minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3347.307" stopTime="3644.665">
+          <heading>Rebuttal of Miguel A. Estrada</heading>
+          <turn speaker="miguel_a_estrada" startTime="3347.307" stopTime="3405.345">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="3347.307" offset="13496243">Thank you, Mr. Chief Justice.</text>
+            <text syncTime="3351.210" offset="13511812">Let me -- let me start with the proposition which I continue to find startling, that a damages model can stand up to examination on the theory that it is not linked to any theory of anticompetitive conduct.</text>
+            <text syncTime="3365.201" offset="13567818">Now, the theory seems to be that whether the McClave model is intended to do is to isolate competitive markets elsewhere that are competitive in some sense, come to the conclusion that the Philadelphia DMA is somehow less competitive, and charge whatever the expert says is the difference to Comcast.</text>
+            <text syncTime="3387.050" offset="13655172">But that has a fundamental failure as a matter of substantive antitrust law, because we know from cases from this Court and the court of appeals going back to story parchment, that the one requirement is that causation link of the damages, you know, it has to be certainly linked to illegal conduct.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3405.345" stopTime="3417.735">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3405.345" offset="13728315">Is that right?</text>
+            <text syncTime="3405.795" offset="13730196">Is that what learned hand said?</text>
+            <text syncTime="3406.862" offset="13734375">Is -- is that what Alcoa holds, is that United Fruit holds when they bomb their competitor's ship and achieve monopolization that the only people who can get damages are the people who run the ship and were bombed--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="3417.735" stopTime="3418.419">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="3417.735" offset="13777947">No, I think--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3418.419" stopTime="3425.675">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3418.419" offset="13780664">--who bought those bananas?</text>
+            <text syncTime="3419.687" offset="13785680">I didn't know that.</text>
+            <text syncTime="3420.521" offset="13789023">But besides, if you're right, which I tend to doubt, but I'll look it up, if you're right--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="3425.675" stopTime="3426.475">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="3425.675" offset="13809712">--Story parchment.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3426.475" stopTime="3481.809">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3426.475" offset="13812847">--Yes, all right.</text>
+            <text syncTime="3427.658" offset="13817654">Fine.</text>
+            <text syncTime="3428.225" offset="13819848">I'll look that up.</text>
+            <text syncTime="3429.060" offset="13823192">If you're right and as they pointed out, it's still one of the easiest things in the world to simply change the base for this model.</text>
+            <text syncTime="3437.899" offset="13858614">Instead of the base being those businesses or homeowners who received their service at competitive prices, we say -- we modify it by including those who received services where DBS was involved, and that'll be a higher price and we subtract that price from the price they paid where there was overbuilding threatened.</text>
+            <text syncTime="3466.882" offset="13974493">Now, that'll be a new number.</text>
+            <text syncTime="3468.351" offset="13980344">They say it was a new number.</text>
+            <text syncTime="3470.068" offset="13987241">And I think anybody running a model could do that, but I promise you I don't know.</text>
+            <text syncTime="3474.838" offset="14006362">And to know whether you're right on that or they're right, I will have to get into the model-building business where I am not an expert.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="3481.809" stopTime="3644.665">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="3481.809" offset="14034261">Well, no.</text>
+            <text syncTime="3482.511" offset="14036978">I think all you have to do is whether the proponent -- is to ask whether the proponent of class certification has discharged his duty under this Court's cases to come forward with evidence that is persuasive under the point whether the case as a whole can be tried as a class.</text>
+            <text syncTime="3497.103" offset="14095387">You don't have to become an econometrician; you have to know enough to assess whether the record that has been proffered is probative on the question before the Court.</text>
+            <text syncTime="3505.524" offset="14129033">Here, it isn't.</text>
+            <text syncTime="3506.559" offset="14133213">And one of the reasons it isn't is because they came to the hearing in class certification in the fall of 2009 after full merits discovery.</text>
+            <text syncTime="3516.232" offset="14171874">The papers -- we said to them,</text>
+            <text syncTime="3518.267" offset="14180024">"We have full merits discovery; this model does not work. "</text>
+            <text syncTime="3521.636" offset="14193503">We had variants of not usable.</text>
+            <text syncTime="3524.255" offset="14203952">Every word -- I can read it all, Justice Kagan, if it's worth taking the time.</text>
+            <text syncTime="3529.123" offset="14223492">You know, the flaws preclude its use, it's not to be accepted, it's not usable, does not result in a valid methodology that can be used.</text>
+            <text syncTime="3539.014" offset="14262989">And so having said all of that, we said,</text>
+            <text syncTime="3541.716" offset="14273856">"This model is bunk. "</text>
+            <text syncTime="3543.116" offset="14279394">"You have full class merits discovery. "</text>
+            <text syncTime="3546.851" offset="14294336">"You have plenty of opportunity to come up with a better model. "</text>
+            <text syncTime="3567.182" offset="14375734">Nothing.</text>
+            <text syncTime="3551.005" offset="14310950">We go to the Court of Appeals.</text>
+            <text syncTime="3552.705" offset="14317742">It is affirmed.</text>
+            <text syncTime="3553.774" offset="14322026">Then it goes back to the -- to the district court for further trial proceedings.</text>
+            <text syncTime="3559.511" offset="14345014">The district court, having read the court of appeals' opinion, invites them to submit the evolutionary model that the court of appeals had in mind.</text>
+            <text syncTime="3567.867" offset="14378450">We are still sticking with our story: McClave's the guy.</text>
+            <text syncTime="3570.818" offset="14390258">And so they have had every conceivable opportunity to develop a model.</text>
+            <text syncTime="3575.370" offset="14408439">Why haven't they done that, Justice Breyer?</text>
+            <text syncTime="3577.072" offset="14415231">Oh.</text>
+            <text syncTime="3577.839" offset="14418365">Maybe because there is a problem in the record.</text>
+            <text syncTime="3580.507" offset="14429023">You can take all of the maps in the record, which are part of the field supplemental appendix, and you can see the different areas of penetration for DBS, you know, has different rates of penetration all over the class area.</text>
+            <text syncTime="3595.784" offset="14490150">Same thing for RCN and FiOS.</text>
+            <text syncTime="3599.303" offset="14504152">And you can look at what -- what the market penetration is in each franchise area.</text>
+            <text syncTime="3605.623" offset="14529438">Consider that each of them is a different licensing authority, that the overbuilding would have to go to franchise by franchise and radiate out in the fullness of time.</text>
+            <text syncTime="3615.579" offset="14569249">And I don't know if there is any kind of attrition that can combine all of that into a single class or subclasses.</text>
+            <text syncTime="3622.918" offset="14598610">They haven't identified one.</text>
+            <text syncTime="3624.551" offset="14605193">And the key point for the resolution of the case in front of you, Justice Kagan, is that the question that comes here is whether a class that is more expansive than the one that you -- that you certified in Walmart can possibly be certified where there is no evidence that is tied to the record in the case that is reliably probative that a class would exist.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3644.665" stopTime="3647.034">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3644.665" offset="14685650">Thank you, counsel, the case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

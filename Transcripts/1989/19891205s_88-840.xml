@@ -1,0 +1,36 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:02:13" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="424120">/xml/cases/1989/88_840/19891205o_88-840.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1989/trs/88-840_19891205-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="84.245">
+        <title>Golden State Transit Corporation v. City of Los Angeles</title>
+        <section startTime="0.000" stopTime="84.245">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.417">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87140">The opinion of the Court in No. 88-840, Goldent State Transit Corporation versus the City of Los Angeles will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="10.417" stopTime="84.245">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="10.417" offset="128727">In 1980, the petitioner operated some 400 taxi cabs in the City of Los Angeles.</text>
+            <text syncTime="17.213" offset="155894">When its franchise came up for renewal, its drivers were on strike, and the city refused to renew its franchise unless petitioners settled with the Union.</text>
+            <text syncTime="27.303" offset="196332">Three years ago, in a case with the same name, we held that the city’s decision to condition the renewal of petitioner’s cab franchise on the settlement of a pending labor dispute violated the National Labor Relations Act.</text>
+            <text syncTime="41.686" offset="253801">On remand, the District Court enjoined the city to reinstate the franchise.</text>
+            <text syncTime="46.245" offset="272087">It held that petitioner had no right to recover compensatory damages under Section 1983 of Title 42 of the U.S. Code.</text>
+            <text syncTime="55.492" offset="309076">The United Sates Court of Appeals for the Ninth Circuit affirmed and we granted certiorari.</text>
+            <text syncTime="60.698" offset="329870">For reasons stated in an opinion filed with the Clerk, we hold that the National Labor Relations Act creates rights in labor and in management that are enforceable against governmental interference under Section 1983.</text>
+            <text syncTime="74.286" offset="384204">We accordingly reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="78.023" offset="399147">Justice Kennedy has filed a dissenting opinion in which the Chief Justice and Justice O’Connor have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

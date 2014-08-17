@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:15:40" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="580312">/xml/cases/1990/89_1008/19910523o_89-1008.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1008_19910523-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="126.590">
+        <title>Owen v. Owen</title>
+        <section startTime="0.000" stopTime="126.590">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.748">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73954">The opinion of the Court in No. 89-1008, Owen against Owen will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="9.748" stopTime="126.590">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="9.748" offset="112929">This case presents a problem concerning the interaction of two provisions of the Bankruptcy Code.</text>
+            <text syncTime="15.502" offset="135916">One of which allows individuals to exempt property from the bankruptcy estate and one of which permits them to avoid judicial liens on that exempt property.</text>
+            <text syncTime="25.656" offset="176563">The problem is raised because the Code permits the states to define what exemptions their citizens may take and does not limit the state's power to define these exemptions.</text>
+            <text syncTime="35.415" offset="215538">Thus, the question presents itself whether a state may define its exemptions so as to exclude from those exemptions property encumbered by a judicial lien thereby, in effect, nullifying the federal lien avoidance power for those state-created exemptions.</text>
+            <text syncTime="52.550" offset="284083">In an opinion filed with the Clerk today, we hold that a state's excepting from its exemptions property encumbered by a judicial lien will not affect the operation of the federal lien avoidance power.</text>
+            <text syncTime="64.073" offset="330163">The Code gives the Bankruptcy Court the power to avoid a lien to the extent that such lien impairs an exemption to which the debtor would have been entitled, and that is the crucial language, would have been entitled under the section defining the exemptions.</text>
+            <text syncTime="78.904" offset="389513">To make sense of the term "would have been entitled", we must ask would have been entitled but for what?</text>
+            <text syncTime="84.806" offset="413128">In applying the same statutory provision to federal exemptions, Bankruptcy Courts have uniformly asked whether the lien impairs an exemption to which the debtor would have been entitled but for that lien.</text>
+            <text syncTime="95.553" offset="456073">That is they determined first what exemption the debtor would have been entitled to without the lien at question, and then determine whether the lien impairs that exemption.</text>
+            <text syncTime="104.418" offset="491600">We see no reason to read the statute differently in the context of state exemptions.</text>
+            <text syncTime="108.259" offset="506960">Thereto, the court should ask what exemption the debtor would enjoy but for the lien in question, and then determine whether the lien impairs that exemption.</text>
+            <text syncTime="117.592" offset="544263">The Court of Appeals for the Eleventh Circuit though otherwise and its judgment is therefore, reversed and the case remanded for further proceedings.</text>
+            <text syncTime="123.702" offset="568713">Justice Stevens has filed a dissent.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

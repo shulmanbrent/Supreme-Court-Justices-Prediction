@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:08:07" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="484501">/xml/cases/1990/90_5319/19910613o_90-5319.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/90-5319_19910613-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="102.635">
+        <title>McNeil v. Wisconsin</title>
+        <section startTime="0.000" stopTime="102.635">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.721">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73961">The opinion of the Court in No. 90-5319, McNeil against Wisconsin will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="10.721" stopTime="102.635">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="10.721" offset="116802">Petitioner here, Paul McNeil, was charged with armed robbery in West Allis, Wisconsin.</text>
+            <text syncTime="17.446" offset="143656">At his bail hearing, a public defender was appointed to represent him.</text>
+            <text syncTime="21.724" offset="160792">While he was in jail on that charge, McNeil was approached by police about an unrelated crime, a murder in Caledonia, Wisconsin.</text>
+            <text syncTime="31.480" offset="199871">Before beginning the questioning, the police advised McNeil of his Miranda rights which he expressly waived.</text>
+            <text syncTime="38.589" offset="228292">He then proceeded to make statements incriminating himself in the Caledonia murder and was subsequently charged with that crime.</text>
+            <text syncTime="46.782" offset="260998">The Trial Court ruled McNeil’s statements admissible and he was convicted.</text>
+            <text syncTime="52.796" offset="285135">On appeal, McNeil argued that his request for a public defender at the bail hearing on the West Allis armed robbery charge should be construed as an invocation of his Miranda right to counsel which under this Court’s precedents would automatically render invalid his subsequent express waiver of his Miranda rights.</text>
+            <text syncTime="74.104" offset="370294">The Wisconsin Supreme Court rejected that claim.</text>
+            <text syncTime="77.439" offset="383669">In an opinion filed with the Clerk today, we affirm that judgment.</text>
+            <text syncTime="81.206" offset="398715">An accused's invocation of his Sixth Amendment right to counsel during a judicial proceeding does not constitute an invocation of the right to counsel that this Court derived in Miranda from the Fifth Amendment’s guarantee against compelled self-incrimination.</text>
+            <text syncTime="96.555" offset="460155">Justice Stevens has filed a dissent which Justice Marshall and Justice Blackmun have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

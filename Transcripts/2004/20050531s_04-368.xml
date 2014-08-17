@@ -1,0 +1,29 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="592232">/xml/cases/2004/04_368/20050531o_04-368.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2004/trs/04-368_20050531-opinion.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="109.871">
+        <title>Arthur Andersen LLP v. United States</title>
+        <section startTime="0.000" stopTime="109.871" revised="2014-02-01">
+          <heading>Opinion Announcement of Chief Justice William H. Rehnquist</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="109.871">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">I have the opinion of the Court to announce in Arthur Andersen versus the United States.</text>
+            <text syncTime="7.696" offset="30720">As Enron Corporation's financial difficulties became public in 2001, petitioner Arthur Andersen, Enron's auditor, instructed its employees to destroy documents pursuant to a document retention policy.</text>
+            <text syncTime="29.286" offset="117133">A jury found that this made Andersen criminally liable as a corrupt persuader under Section 1512(b) of Title 18, and the Section is dealing with Obstruction of Justice.</text>
+            <text syncTime="46.371" offset="185469">The Court of Appeals to the Fifth Circuit affirmed.</text>
+            <text syncTime="49.946" offset="199784">We granted certiorari and we hold that the phrase "knowingly corruptly persuades" in 1512(b) requires a consciousness of wrongdoing and that one cannot knowingly corruptly persuade another to shred documents unless one foresees a particular official proceeding in which those documents might be material.</text>
+            <text syncTime="79.028" offset="316082">The jury instructions here failed to correctly convey these statutory elements.</text>
+            <text syncTime="86.421" offset="345652">The judgment of the Court of Appeals is therefore reversed.</text>
+            <text syncTime="90.789" offset="363102">The opinion of the Court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

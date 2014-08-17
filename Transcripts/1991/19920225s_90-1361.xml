@@ -1,0 +1,45 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1992-02-25</transcribed>
+        <edit user="tschaefer" date="2012-08-14T16:28:35" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="clarence_thomas"/>
+        <identified user="tschaefer">2012-08-14</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:29:53" startTime="0.000" oldSpeaker="clarence_thomas" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="577459">/xml/cases/1991/90_1361/19920225o_90-1361.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1991/90-1361_19920225-opinion.xml</sourceFile>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="121.652">
+        <title>Holywell Corporation v. Smith</title>
+        <section startTime="0.000" stopTime="10.544">
+          <heading>Announcement of Justice Thomas</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.544">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90850">The opinion of the Court in Holywell Corporation against Smith and a companion case will be announced by Justice Thomas.</text>
+          </turn>
+        </section>
+        <section startTime="10.544" stopTime="121.652">
+          <heading>Announcement of Justice Thomas</heading>
+          <turn speaker="clarence_thomas" startTime="10.544" stopTime="121.652">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="10.544" offset="132959">These cases come to us on a writ of certiorari to the United States Court of Appeals for the Eleventh Circuit.</text>
+            <text syncTime="17.374" offset="160336">Petitioners Holywell Corporation, Theodore B. Gould, and several affiliated debtors attempted to develop a hotel and office building in Miami, Florida.</text>
+            <text syncTime="30.099" offset="211222">After encountering financial difficulties, they all filed Chapter 11 bankruptcy petitions.</text>
+            <text syncTime="36.536" offset="236927">In a consolidated reorganization plan, they agreed to place their assets in trust and to have a trustee, respondent Fred Stanton Smith, distribute their property.</text>
+            <text syncTime="48.852" offset="286246">The Bankruptcy Court declared that Smith did not have to pay any federal income tax as for the debtors because the reorganization plan said nothing about taxes.</text>
+            <text syncTime="60.259" offset="331803">The District Court and the Court of Appeals affirmed this declaration.</text>
+            <text syncTime="65.252" offset="351761">In an opinion filed today with the Clerk, we reverse.</text>
+            <text syncTime="69.218" offset="367643">The Internal Revenue Code ties a duty to pay federal income taxes to the duty to make an income tax return.</text>
+            <text syncTime="77.320" offset="400035">Section 6012(b)(3) of the Code requires the assignee of all or substantially all of the property of a corporation to make a tax return for the corporation.</text>
+            <text syncTime="90.511" offset="452803">Because respondent, Smith, meets the ordinary definition of an assignee, he must make a return and pay taxes for Holywell Corporation and the other corporate debtors.</text>
+            <text syncTime="101.917" offset="498465">Smith also has a duty under Section 6012(b)(4) to make a tax return as a trustee of a trust.</text>
+            <text syncTime="110.775" offset="533887">He, therefore, has to pay tax on the income earned by the trust property attributable to debtor, Theodore B. Gould.</text>
+            <text syncTime="118.548" offset="565025">The opinion of the Court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

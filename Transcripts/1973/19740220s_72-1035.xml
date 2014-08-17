@@ -1,0 +1,33 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-28</verified>
+      </history>
+      <resources>
+        <audioFile size="378381">/xml/cases/1973/72_1035/19740220o_72-1035.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1973/trs/72-1035op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="75.333">
+        <title>Curtis v. Loether</title>
+        <section startTime="0.000" stopTime="75.333" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Thurgood Marshall</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="9.032">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="76800">Mr. Justice Marshall will announce the disposition of 72-1035, Curtis against Loether.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="9.032" stopTime="72.956">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="9.032" offset="112849">This case is here on writ of certiorari from the Court of Appeals of the Seventh Circuit.</text>
+            <text syncTime="14.772" offset="135837">The case was brought a Negro woman, who under Section 812 of the Civil Rights Act of 1968, in which she claimed that the defendants had refused to rent an apartment to her on account of her race.</text>
+            <text syncTime="29.345" offset="194142">The defendants requested a Jury trial, but this request was denied, and the Trial judge without a Jury found that they had indeed discriminated against the plaintiff and awarded her punitive damages.</text>
+            <text syncTime="44.239" offset="253701">The Court of Appeals for the Seventh Circuit reversed, holding that a Jury trial was required in this action.</text>
+            <text syncTime="51.871" offset="284212">In an opinion on file with the clerk today, we affirm the judgment of the Court of Appeals for the Seventh Circuit and we hold that the Seventh Amendment entitles either party to demand a Jury Trail in actions for damages under this particular Section of the Civil Rights Act of 1968.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="72.956" stopTime="75.333">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="72.956" offset="368536">Thank you Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

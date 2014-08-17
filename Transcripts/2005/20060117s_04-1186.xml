@@ -1,0 +1,48 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:49:57" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1126304">/xml/cases/2005/04_1186/20060117o_04-1186.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-1186_20060117-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="259.396">
+        <title>Wachovia Bank, N. A. v. Schmidt</title>
+        <section startTime="0.000" stopTime="259.396">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="5.990">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88720">Justice Ginsburg has the opinion in Wachovia Bank versus Schmidt.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="5.990" stopTime="259.396">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="5.990" offset="112648">This case concerns the access of national banks to a federal forum, based on the diverse citizenship of the parties to the controversy.</text>
+            <text syncTime="16.542" offset="154862">Congress empowered federal district courts to hear civil actions between citizens of different states where the amount in controversy exceeds $75,000.</text>
+            <text syncTime="27.908" offset="200315">Congress further provided that a corporation, for diversity-of-citizenship purposes, shall be treated as the citizen of any state by which it has been incorporated and also of the state where it has its principal place of business.</text>
+            <text syncTime="44.839" offset="268024">State banks incorporated under state law fit comfortably within this prescription.</text>
+            <text syncTime="52.394" offset="298222">National banks do not, for they are not incorporated in any state; instead, they are federally charted by the U.S. Treasury’s Comptroller of the Currency.</text>
+            <text syncTime="63.583" offset="343048">Congress, therefore, separately provided in 28 U.S.C. §1348 that national banks, for diversity-jurisdiction purposes, shall be deemed citizens of the states in which they are respectively located.</text>
+            <text syncTime="79.275" offset="405742">What does the word “located” mean as used in §1348?</text>
+            <text syncTime="84.732" offset="427580">That is the dispositive question in this case.</text>
+            <text syncTime="87.742" offset="439597">Does “located” signal, as the petitioning national bank and the United States urge, that the bank’s citizenship is determined by the place designated in the bank’s Articles of Association as the location of its main office, or does it mean, in addition, as the Court of Appeals for the 4th Circuit held, that a national bank is a citizen of every state in which it maintains a branch?</text>
+            <text syncTime="115.334" offset="550042">The word “located”, we have recognized, is not one of enduring rigidity; rather, “located” is a chameleon word, gaining its precise meaning from context.</text>
+            <text syncTime="127.997" offset="600616">In a 1977 decision, we held that, for purposes of a now-repealed venue provision, a national bank was located and venue was therefore proper in any country or city in which the bank maintained a branch office.</text>
+            <text syncTime="145.739" offset="671669">That decision does not control this case, for venue and subject-matter jurisdiction are distinct concepts serving different purposes.</text>
+            <text syncTime="155.490" offset="710643">Venue presents a where question, in what geographical area may a case proceed?</text>
+            <text syncTime="162.504" offset="738647">Subject-matter jurisdiction concerns the court system, federal or state, competent to adjudicate controversies of a certain kind.</text>
+            <text syncTime="172.777" offset="779816">Our reading of the venue provision at issue in the 1977 case effectively aligned the treatment of national banks with the treatment of state banks and corporations operating in the same area.</text>
+            <text syncTime="186.857" offset="836136">By contrast, the 4th Circuit’s decision, which we today reverse, severely constricted national banks’ access to federal courts as compared to the access available to corporations generally.</text>
+            <text syncTime="200.158" offset="889321">For purposes of federal-court diversity jurisdiction, a corporation is not a citizen of every state in which it maintains a business establishment, and we read §1348 in that light.</text>
+            <text syncTime="213.148" offset="941252">Thus, we hold that a national bank is a citizen of the state in which its main office, as set forth in its Articles of Association, is located.</text>
+            <text syncTime="223.317" offset="981899">Were we to hold, as the Court of Appeals did, that a national bank is also a citizen of every state in which it has established a branch, we would render federally chartered banks singularly disfavored corporate bodies regarding their access to federal courts.</text>
+            <text syncTime="242.192" offset="1057445">The language of §1348 does not call for that incongruous outcome, nor does this Court’s precedent.</text>
+            <text syncTime="250.522" offset="1090777">The decision reversing the 4th Circuit’s judgment is unanimous; Justice Thomas took no part in the consideration or decision of this case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

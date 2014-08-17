@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="527256">/xml/cases/1978/77_1410/19790221o_77-1410.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1978/trs/77-1410op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="131.742">
+        <title>Butner v. United States</title>
+        <section startTime="0.000" stopTime="131.742" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice John Paul Stevens</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.703">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">The judgment and opinion of the Court in Number 1410, Buttner against the United States will be announced by Mr. Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="8.703" stopTime="129.752">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="8.703" offset="34795">The petitioner in this case held a mortgage in North Carolina real estate owned by a corporation that became bankrupt.</text>
+            <text syncTime="15.782" offset="63112">Rent was collected after the bankruptcy and before the property was sold.</text>
+            <text syncTime="20.236" offset="80875">Petitioner claims that he is entitled to that rent whereas the trustee and bankruptcy claims it should be used to pay general creditors.</text>
+            <text syncTime="28.127" offset="112431">In this situation, some state courts hold that the rent is payable to the holder of the mortgage, and others hold that it should -- it should be used to pay general creditors.</text>
+            <text syncTime="37.876" offset="151406">There is also a conflict among federal courts on this question.</text>
+            <text syncTime="42.270" offset="169064">Some hold that they will apply this same rule that the state court would apply in the State where the property is located.</text>
+            <text syncTime="49.418" offset="197590">Others hold as a matter of federal law that the mortgagee always wins regardless of what the state law may be.</text>
+            <text syncTime="56.607" offset="226325">We granted certiorari not because the outcome of this particular case is a matter of national importance, but rather because it presents the more basic and important question of how federal bankruptcy courts should decide questions of this kind.</text>
+            <text syncTime="70.472" offset="281809">Should they apply a federal rule that is uniform throughout the United States or should they apply -- and if they should apply a federal rule, what should the rule be or should they apply the law of the State where the property is located?</text>
+            <text syncTime="84.599" offset="338338">For two principle reasons, the Court has unanimously decided that state law should be followed.</text>
+            <text syncTime="90.213" offset="360803">First, the Congress of the United States has not enacted any statute governing this question and therefore, there is no federal rule that can be easily applied.</text>
+            <text syncTime="99.887" offset="399464">Second, it is primarily the responsibility of the state governments rather than the federal governments to fashion rules of property law.</text>
+            <text syncTime="110.751" offset="442932">And therefore, even though this case arises out of a federal bankruptcy proceeding, we hold that the law of North Carolina should be applied for -- essentially, these reasons which are stated in more detail in the opinion filed with the clerk yesterday, the judgment of the Court of Appeals for the Fourth Circuit is affirmed.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="129.752" stopTime="131.742">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="129.752" offset="519001">Thank you, Mr. Justice Stevens.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

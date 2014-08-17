@@ -1,0 +1,47 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2014-01-16T12:22:28" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="1051372">/xml/cases/2002/02_69/20030429o_02-69.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2002/trs/02-69_20030429-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="241.554">
+        <title>Roell v. Withrow</title>
+        <section startTime="0.000" stopTime="241.554">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="11.349">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85155">The opinion of the Court in No. 02-69, Roell against Withrow will be announced by Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="11.349" stopTime="241.554">
+            <label>Justice David H. Souter</label>
+            <text syncTime="11.349" offset="130504">This case comes to use on writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="17.585" offset="155477">Section 636(c)(1) of the Federal Magistrate Act of 1979 allows fulltime federal magistrate judges to conduct civil trials as long as the magistrate judge is designated by the District Court for that purpose and is acting upon the consent of the parties.</text>
+            <text syncTime="37.277" offset="234262">The question in this case is whether the parties consent can be inferred from their conduct in litigation.</text>
+            <text syncTime="43.951" offset="260907">A state prisoner, the respondent here, brought an action against members of the prison’s medical staff here, the petitioners, alleging that they had been indifferent to his medical needs.</text>
+            <text syncTime="54.811" offset="304375">Early on, all the parties were told of a need to file a form showing consent to proceed before the magistrate judge.</text>
+            <text syncTime="63.604" offset="339483">The plaintiff-respondent filed the consent form but not all of the defendants did.</text>
+            <text syncTime="68.566" offset="359336">Instead, the defendants simply showed up before the magistrate judge for the purposes of litigating the case and never made any objection to her proceeding.</text>
+            <text syncTime="78.473" offset="399042">After a full trial, the jury found for the defendants, it was only on appeal that the Court of Appeals realized that consent forms had not been formally filed, and it sent the case back to the District Court to determine whether this affected the magistrate judge’s authority over the case.</text>
+            <text syncTime="99.026" offset="481171">The District Court found that the defendants had implied their consent to the magistrate judge’s authority but it held implied consent to be insufficient under the Act.</text>
+            <text syncTime="109.857" offset="524535">The Fifth Circuit affirmed.</text>
+            <text syncTime="111.310" offset="530386">We granted certiorari and we now reverse.</text>
+            <text syncTime="114.797" offset="544283">We hold that the basic premise of a magistrate judge’s authority on the 636(c)(1) is the voluntary consent of the parties which can be inferred from parties' conduct before the magistrate judge.</text>
+            <text syncTime="131.268" offset="610216">We have two principal reasons for this conclusion:  First, the text of 636(c)(1) which is the source of the magistrate judge’s authority refers only to the consent of the parties without any qualification as to the form of consent.</text>
+            <text syncTime="147.316" offset="674373">It is true that the usual and preferable procedure for obtaining consent set out in 636(c)(2) of the Act and the relevant Federal Rule of Civil Procedure is for the parties to file written consent forms with the Clerk of Court prior to proceeding before the magistrate judge, but we do not restrict compliance with these procedures as an absolute prerequisite to the magistrate judge’s authority under 636(c)(1).</text>
+            <text syncTime="175.892" offset="788685">There is another more pragmatic reason for allowing consent to be inferred.</text>
+            <text syncTime="180.566" offset="807388">In giving the magistrate judge authority to preside over civil cases, Congress was trying to reduce the District Court’s case load while at the same time protecting a litigant’s right to insist on a district judge protected by Article III.</text>
+            <text syncTime="195.706" offset="867888">While recurring re-litigation in the absence of express written consent would give maximum protection to the litigant’s rights to an Article III judge, it will impose a significant burden on judicial resources and would give undeserving parties a second bite at the apple.</text>
+            <text syncTime="213.160" offset="937792">We conclude that the better rule is to accept an inference of consent whereas here the litigant was made aware of the need for consent and the right to refuse it and still voluntarily appeared to try the case before the magistrate judge.</text>
+            <text syncTime="227.843" offset="996515">We therefore, reverse the judgment of the Court of Appeals and remand the case for proceedings consistent with this opinion.</text>
+            <text syncTime="234.500" offset="1023055">Justice Thomas has filed a dissenting opinion in which Justices Stevens, Scalia, and Kennedy join.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

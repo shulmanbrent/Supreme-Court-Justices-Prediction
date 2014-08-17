@@ -1,0 +1,42 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-03T11:53:13" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-03</identified>
+      </history>
+      <resources>
+        <audioFile size="731365">/xml/cases/1987/86_877/19880223o_86-877.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-877op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="163.370">
+        <title>United States v. Owens</title>
+        <section startTime="0" stopTime="163.370">
+          <heading>Opinion Announcement of Antonin Scalia</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.280">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80916">The opinion of the Court in No.86-877, United States against Owens will be announced by justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="10.280" stopTime="163.370">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="10.280" offset="121980">This case comes to us by writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="15.950" offset="144655">Respondent, James Owens, an inmate at a federal prison, was convicted of assualt with intent to commit murder in the beating of a prison guard.</text>
+            <text syncTime="26.355" offset="186242">The beating left the guard with a severely impared memory.</text>
+            <text syncTime="30.536" offset="202960">At Owen's trial the guard testified that he clearly remembered that while hospitalized following the attack he identifead Owens as his assailant to an FBI agent.</text>
+            <text syncTime="42.034" offset="249040">On cross-examination he admitted that he could not remember seeing his assailant and could not remember any other persons who visited him at the hospital.</text>
+            <text syncTime="52.048" offset="289060">On appeal a divided panel of Ninth Circuit reverse the conviction finding violations of both the Confrontation Clause of the Sixth Amendment, and Rule 802 of the Federal Rules of Evidence.</text>
+            <text syncTime="62.109" offset="329288">The majority viewed the prison guard's memory loss as undermining the defendent's right to cross examine protected by the Constitution and by Federal Rule 802.</text>
+            <text syncTime="74.614" offset="379339">We reverse.</text>
+            <text syncTime="75.928" offset="384563">As we have repeatedly held, the Confrontation Clause guarantees only an opportunity for effective cross-examination not cross-examination that is effective in whatever way and to whatever extent the defendent might wish.</text>
+            <text syncTime="90.089" offset="441197">Such an opportunity is not denied when a witness testifies as to his present or past belief or is unable to remember the reason for that belief.</text>
+            <text syncTime="98.729" offset="475783">Since the defense may still bring out facts tending to impune the testimony such as witness' bias, poor eyesight, lack of attentiveness, and even the very fact that the witness' memory is not reliable.</text>
+            <text syncTime="110.959" offset="524684">The constitional requirement is satisfied in these circumstances by the protections of the oath cross-examination and opportunity for the jury to observe the witness' dimeanor.</text>
+            <text syncTime="121.022" offset="564913">As for the Federal Rules, Rule 802 which generally excludes hearsay contains an exeption for statement of identification if the declarant testifies and is subject to cross-examination concerning the statement in question.</text>
+            <text syncTime="138.710" offset="635652">Since this exeption was adopted for the very purpose of reducing barriers to admission of identification testimony caused by memory loss, we are satisfied that the witness was subject to cross-examination within the meaning of the rule in this case.</text>
+            <text syncTime="152.563" offset="691136">Justice Brennan has filed a dissenting opinion in which Justice Marshall joins.</text>
+            <text syncTime="156.939" offset="708586">Justice Kennedy took no part in either the consideration or the decision of this case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,34 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="324870">/xml/cases/1977/77_404/19780623o_77-404.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1977/trs/77-404op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="61.165">
+        <title>City of Philadelphia v. New Jersey</title>
+        <section startTime="0.000" stopTime="61.165" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Potter Stewart</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.877">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="80050">The judgment and opinion of the court in the City of Philadelphia against State of New Jersey will be announced by Mr. Justice Stewart.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="8.877" stopTime="59.317">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="8.877" offset="115472">This case is here by way of direct appeal from the Supreme Court of New Jersey, Mr. Justice Brennan's old court.</text>
+            <text syncTime="18.688" offset="154760">A New Jersey law prohibits the importation of solid or liquid waste which originated or was collected outside the territorial limits of the state.</text>
+            <text syncTime="30.734" offset="202930">The issue in this case is whether this statutory prohibition is valid under the Commerce Clause of the United States Constitution.</text>
+            <text syncTime="40.604" offset="242427">For the reasons discussed in the written opinion of the court filed this morning with the clerk, we hold that this state law is impermissible under the Commerce Clause and accordingly we reverse the judgment of the New Jersey Supreme Court.</text>
+            <text syncTime="53.787" offset="295194">Mr Justice Rehnquist has filed a dissenting opinion which the Chief Justice has joined.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="59.317" stopTime="61.165">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="59.317" offset="317242">Thank you Mr. Justice Stewart.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

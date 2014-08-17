@@ -1,0 +1,35 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:01:40" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="439060">/xml/cases/1989/89_431/19900417o_89-431.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1989/trs/89-431_19900417-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="87.981">
+        <title>Yellow Freight System, Inc. v. Donnelly</title>
+        <section startTime="0.000" stopTime="87.981">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.720">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87138">The opinion of the Court in No. 89-431, Yellow Freight System, Inc. verus Donnelly will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="8.720" stopTime="87.981">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="8.720" offset="121933">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Seventh Circuit.</text>
+            <text syncTime="14.697" offset="145861">Respondent filed a complaint in a State Court, the Circuit Court of Cook County, alleging that the petitioner had discriminated against her because she is a woman in violation of the Illinois Human Rights Act and also Title VII of the Federal Civil Rights Act of 1964.</text>
+            <text syncTime="34.651" offset="225691">The petitioner removed the case to Federal Court and moved to dismiss arguing in part that the complainant in State Court could not toll a statute of limitations for a Title VII claim because the State Courts have no jurisdiction over Title VII claims.</text>
+            <text syncTime="50.758" offset="290162">In an opinion filed with the Clerk of Court today, we hold that the State Courts have concurrent jurisdiction with Federal Courts over Title VII claims.</text>
+            <text syncTime="60.532" offset="329241">The text of the Act does not provide for exclusive federal jurisdiction further although the legislative history and procedural provisions of the Act suggest strongly that Congress may have assumed that all Title VII claims would be brought in a Federal Court.</text>
+            <text syncTime="76.150" offset="391726">These factors do not overcome the strong presumption of concurrent jurisdiction over Federal Actions by State Courts.</text>
+            <text syncTime="83.753" offset="422132">Accordingly, the judgment below is affirmed.</text>
+            <text syncTime="86.062" offset="431327">The opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

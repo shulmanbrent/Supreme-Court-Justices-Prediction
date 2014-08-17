@@ -1,0 +1,41 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1997-02-25</transcribed>
+        <edit user="jclow26" date="2012-07-17T13:57:02" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <identified user="jclow26">2012-07-17</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:23:42" startTime="0.000" oldSpeaker="john_paul_stevens" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="401686">/xml/cases/1996/95_1181/19970225o_95-1181.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1996/95-1181_19970225-opinion.xml</sourceFile>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="79.935">
+        <title>Dunn v. Commodity Futures Trading Commission</title>
+        <section startTime="0.000" stopTime="8.721">
+          <heading>Announcement of Justice Stevens</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.721">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="81947">The opinion of the Court in No. 95-1181, Dunn versus Commodity Futures Trading Commission will be announced by Justice Stevens.</text>
+          </turn>
+        </section>
+        <section startTime="8.721" stopTime="79.935">
+          <heading>Announcement of Justice Stevens</heading>
+          <turn speaker="john_paul_stevens" startTime="8.721" stopTime="79.935">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="8.721" offset="116742">The question presented by this case is whether Congress has authorized the Commodity Futures Trading Commission to regulate so-called off exchange trading in options to buy or sell foreign currency.</text>
+            <text syncTime="23.244" offset="174838">In 1974, Congress enacted a series of amendments to the Commodity Exchange Act that created the Commission and gave it authority to regulate trading in a number of non-agricultural commodities.</text>
+            <text syncTime="35.398" offset="223531">One of those amendments, however, provided an exemption for “transactions in foreign currency” unless it involved sales for future delivery conducted on a board of trade.</text>
+            <text syncTime="47.411" offset="271491">The case before us today involves transactions and options to buy or sell foreign currencies that were not conducted over a board of trade.</text>
+            <text syncTime="55.995" offset="305869">The narrow question of law that we decide is whether such transactions are species of exempt transactions in foreign currencies.</text>
+            <text syncTime="64.362" offset="339305">The reasons stated in opinion filed with the Clerk, we hold, that they are included within the exemption.</text>
+            <text syncTime="70.240" offset="362816">We, therefore, reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="73.278" offset="375041">Our judgment is unanimous.</text>
+            <text syncTime="74.889" offset="381415">Justice Scalia has filed an opinion concurring in part and concurring in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

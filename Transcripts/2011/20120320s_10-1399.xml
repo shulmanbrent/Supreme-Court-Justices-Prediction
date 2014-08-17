@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-20</identified>
+      </history>
+      <resources>
+        <audioFile size="1026009">/xml/cases/2011/10_1399/20120320o_10-1399.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2011/trs/10-1399_20120320-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="sonia_sotomayor" type="justice" gender="female" path="/justices/sonia_sotomayor" image="/justices/sonia_sotomayor/thumbnail.jpg">Sonia Sotomayor</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="229.590">
+        <title>Roberts v. Sea-Land Services</title>
+        <section startTime="0.000" stopTime="229.590">
+          <heading>Opinion Announcement of Sonia Sotomayor</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="13.328">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="107520">We have some opinions this morning, the first in case 10-1399, Roberts Sea-Land Services -- Roberts versus Sea-Land Services by Justice Sotomayor.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="13.328" stopTime="229.590">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="13.328" offset="160810">A federal statute, the Longshore and Harbor Workers’ Compensation Act, entitles employees who are injured on the navigable waters of the United States to receive disability benefits from their employers.</text>
+            <text syncTime="28.509" offset="221518">The amount of benefits depends on both an employee's preinjury salary and the severity of his disability.</text>
+            <text syncTime="37.856" offset="258926">For example, a totally disabled employee is entitled to receive two-thirds of his salary as long as he remains disabled, but the Act also set some maximum rates for benefits.</text>
+            <text syncTime="52.428" offset="317231">The maximum rate is twice the national average weekly wage.</text>
+            <text syncTime="57.959" offset="339278">That national average weekly wage is a figure calculated by the Secretary of Labor each year based on the average earnings of workers across the country.</text>
+            <text syncTime="69.563" offset="385672">The question in this case is which national average weekly wage is used to determine an employee's maximum rate of compensation.</text>
+            <text syncTime="79.461" offset="425273">The Longshore Act says to apply the national average weekly wage for the year in which an employee is "newly awarded compensation."</text>
+            <text syncTime="92.522" offset="477518">So, the precise question before us is, when is an employee newly awarded compensation, when he is disabled by injury or, when he receives a formal compensation order awarding him benefits?</text>
+            <text syncTime="108.780" offset="542616">In 2002, petitioner Dana Roberts was injured while working at respondent's Sea-Land Services Marine Terminal in Alaska.</text>
+            <text syncTime="118.789" offset="582635">In 2007, an administrative law judge or ALJ issued a formal compensation order awarding Roberts' benefits.</text>
+            <text syncTime="129.249" offset="624431">Roberts argued that his maximum rate of compensation should be twice the national average weekly wage for 2007, the year of the ALJ's award.</text>
+            <text syncTime="142.358" offset="676885">Instead, the ALJ set a maximum of twice the national average weekly wage for 2002, the year when Roberts became disabled.</text>
+            <text syncTime="153.308" offset="720666">The Department of Labor’s Benefits Review Board affirmed the ALJ's decision, so did the Court of Appeals for the Ninth Circuit, and so do we.</text>
+            <text syncTime="167.712" offset="778344">We hold that employee is newly awarded compensation when he first becomes disabled and thereby becomes statutorily entitled to benefits no matter whether or when he obtains a formal compensation order.</text>
+            <text syncTime="184.642" offset="846054">Although Roberts' interpretation is, at first blush, appealing only ours is consistent with the structure of the Longshore Act and leads to rational results in its administration.</text>
+            <text syncTime="198.838" offset="902792">The Act requires employers to pay benefits voluntarily without formal orders and the vast majority of employers do.</text>
+            <text syncTime="208.479" offset="941349">For the reasons we explain in our opinion, Roberts' readings would upset this system and would lead to absurd consequences and we reject it.</text>
+            <text syncTime="219.031" offset="983562">The judgment of the Court of Appeals for the Ninth Circuit is affirmed.</text>
+            <text syncTime="222.639" offset="997982">Justice Ginsburg has filed an opinion concurring in part and dissenting in part.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

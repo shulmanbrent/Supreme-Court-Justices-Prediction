@@ -1,0 +1,54 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:12:06" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="1177687">/xml/cases/1990/89_7662/19910624o_89-7662.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-7662_19910624-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="275.932">
+        <title>Coleman v. Thompson</title>
+        <section startTime="0.000" stopTime="275.932">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.720">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73961">The opinion of the Court in No. 89-7662 Coleman against Thompson will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="8.720" stopTime="275.932">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="8.720" offset="108756">This case comes here on certiorari to the United States Court of Appeals for the Fourth Circuit.</text>
+            <text syncTime="15.379" offset="135401">In an opinion filed with the clerk today, we resolve several issues concerning the relationship between state procedural default and federal habeas corpus review.</text>
+            <text syncTime="27.377" offset="183466">A Buchanan County, Virginia jury convicted the petitioner, Roger Keith Coleman, of capital murder.</text>
+            <text syncTime="34.877" offset="213455">He was sentence to death and the Virginia Supreme Court affirmed both the conviction and the sentence.</text>
+            <text syncTime="41.489" offset="239891">Coleman then filed a petition for state collateral review raising numerous federal constitutional claims.</text>
+            <text syncTime="49.164" offset="270611">The State Court ruled against Coleman on all the claims.</text>
+            <text syncTime="54.150" offset="290464">Coleman filed a notice of appeal from that judgment, but after the deadline provided by the state for filing the notice of appeal.</text>
+            <text syncTime="63.921" offset="329543">The Commonwealth of Virginia filed a motion to dismiss the appeal urging as the sole grounds of dismissal that the notice of appeal had been filed late.</text>
+            <text syncTime="73.943" offset="369667">The Virginia Supreme Court subsequently granted the commonwealth's motion to dismiss and it dismissed the appeal without explaining the reasons for doing so.</text>
+            <text syncTime="84.599" offset="412299">Coleman has filed a petition for writ of habeas corpus in the Federal District Court.</text>
+            <text syncTime="90.777" offset="437063">The question in this case is whether the Virginia Supreme Court's dismissal of Coleman's notice of appeal was a procedural default, that bars him from presenting in federal habeas claims presented for the first time in state collateral review.</text>
+            <text syncTime="109.034" offset="509997">In the opinion filed today, we hold that it was for some of the same reasons, as explained by Justice Scalia this morning in his announcement in the Yiltz case.</text>
+            <text syncTime="124.663" offset="572586">We also hold today that in all cases in which a state prisoner has defaulted a federal claim in State Court pursuant to an independent and adequate state procedural rule, a federal Habeas Court can hear the claim only if the prisoner can demonstrate cause for the default and actual prejudice as a result of the alleged violation of federal law or if the prisoner can demonstrate that failure to consider the claim will result in a fundamental miscarriage of justice.</text>
+            <text syncTime="158.331" offset="707274">Because Coleman's claims were procedurally defaulted in State Court, he must meet this cause and prejudice standard before the District Court can address its claims.</text>
+            <text syncTime="170.795" offset="757115">We hold that Coleman has not demonstrated cause.</text>
+            <text syncTime="174.648" offset="772475">He contends that it was attorney error that led to the late filling of its notice of appeal and to his procedural fault in State Court.</text>
+            <text syncTime="183.537" offset="808106">Cause, as that term is used in our habeas cases, is something external to the petitioner.</text>
+            <text syncTime="190.725" offset="836841">Attorney error will constitute cause only if it rises to the level of an independent violation of the petitioner's right to effective assistance of council.</text>
+            <text syncTime="201.362" offset="879368">Only then may we hold that state responsible for the error as a factor external to the petitioner.</text>
+            <text syncTime="207.778" offset="905073">In the absence of a constitutional violation then, the petitioner must bear the risk in federal habeas for attorney errors made in the course of representation.</text>
+            <text syncTime="218.907" offset="949585">The alleged attorney error in this case occurred on appeal from a Trial Court determination in state collateral review.</text>
+            <text syncTime="226.883" offset="981455">Our cases, established clearly that there is no right to council in such an appeal and consequently, no possibility for a violation of the right to effective assistance of council.</text>
+            <text syncTime="239.359" offset="1031297">Attorney error, therefore, cannot constitute cause to excuse Coleman's default in this form.</text>
+            <text syncTime="247.050" offset="1062121">As Coleman does not argue here that federal review of his claims is necessary to prevent a fundamental miscarriage of justice, he is bared from bringing these claims in federal habeas.</text>
+            <text syncTime="259.355" offset="1111336">Accordingly, the judgment of the Court of Appeals is affirmed.</text>
+            <text syncTime="263.449" offset="1127741">Justice White has filed an opinion concurring and concurring in the judgment.</text>
+            <text syncTime="269.398" offset="1151460">Justice Blackmun has filed a dissenting opinion in which Justices Marshall and Stevens have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,49 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2013-12-12T11:51:12" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1102205">/xml/cases/2003/02_626/20040323o_02-626.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2003/trs/02-626_20040323-opinion.trs</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="228.850">
+        <title>South Florida Water Management District v. Miccosukee Tribe of Indians</title>
+        <section startTime="0.000" stopTime="228.850" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice Sandra Day O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.837">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 02-626, South Florida Water Management District versus Miccosukee Tribe of Indians will be announced by Justice O’Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="10.837" stopTime="228.850">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="10.837" offset="43259">This case comes to us on certiorari to the United States Court of Appeals for the Eleventh Circuit, which held that the requirements of the Clean Water Act's National Pollutant Discharge Elimination System, the acronym for which is NPDES, apply to a water pumping station operated by the petitioner, the South Florida Water Management District.</text>
+            <text syncTime="34.841" offset="139285">We vacate the decision and remand it for further proceedings.</text>
+            <text syncTime="39.132" offset="156526">The pump station at issue is part of a drainage system that includes a canal and a wetland reservoir area.</text>
+            <text syncTime="46.850" offset="187350">The canal drains water from a developed area in South Florida and carries it west.</text>
+            <text syncTime="53.484" offset="213891">At the end of the canal, the pump station pumps the water into the wetland reservoir.</text>
+            <text syncTime="58.686" offset="234684">The water in the canal contains elevated levels of phosphorous that come from fertilizer use in the drainage basin.</text>
+            <text syncTime="68.286" offset="273136">When that water enters the wetland reservoir, the phosphorous carried with it causes ecological damage, and the Tribe, the respondent Tribe here, claims that because the pump station moves the phosphorous latent canal water into the wetland reservoir, it discharges pollutants to navigable waters within the meaning of the Clean Water Act, and therefore needs an NPDES permit.</text>
+            <text syncTime="95.285" offset="381074">And the Eleventh Circuit Court of Appeals agreed.</text>
+            <text syncTime="98.868" offset="395389">The Water District first argued before us that the pump station does not need a permit because the phosphorous does not originate from the pump station itself.</text>
+            <text syncTime="108.202" offset="432797">We disagree with that argument by its terms the NPDES program reaches point sources that merely convey pollutants to navigable waters even if those pollutants are generated elsewhere.</text>
+            <text syncTime="121.866" offset="487445">The Water District and Federal Government as amicus, also argued that for purposes of this permit program, all the navigable waters of the United States should be viewed as one undifferentiated whole.</text>
+            <text syncTime="137.956" offset="551811">Under that view, moving water from one water body to another, could never constitute an addition of pollutants to navigable water and the pump station would not need a permit.</text>
+            <text syncTime="149.870" offset="599458">This argument however was not presented below or in the petition for certiorari.</text>
+            <text syncTime="156.017" offset="624013">We think it is not fairly encompassed in the question presented.</text>
+            <text syncTime="159.959" offset="639791">We decline to resolve it here.</text>
+            <text syncTime="162.594" offset="650344">We still find it necessary to vacate the Eleventh Circuit’s opinion because of a third argument advanced by the Water District.</text>
+            <text syncTime="170.167" offset="680647">The District claims that the canal and wetland reservoir are not meaningfully distinct because the two water bodies share a close hydrological connection.</text>
+            <text syncTime="180.896" offset="723487">The District Court granted summary judgment for the Tribe on this issue, and the Eleventh Circuit affirmed.</text>
+            <text syncTime="187.641" offset="750550">We believe, however, that factual disputes remain with regard to this question, and that summary judgment was therefore inappropriate.</text>
+            <text syncTime="197.072" offset="788271">Further development of the record is necessary to resolve the dispute.</text>
+            <text syncTime="201.532" offset="806034">Hence, we vacate the decision and remand for those proceedings.</text>
+            <text syncTime="206.027" offset="824007">Justice Scalia has written a separate opinion dissenting with respect to part of the opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

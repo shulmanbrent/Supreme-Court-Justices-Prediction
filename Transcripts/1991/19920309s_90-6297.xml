@@ -1,0 +1,43 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1992-03-09</transcribed>
+        <edit user="tschaefer" date="2012-08-14T20:32:21" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <identified user="tschaefer">2012-08-14</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:31:44" startTime="0.000" oldSpeaker="sandra_day_oconnor" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="584566">/xml/cases/1991/90_6297/19920309o_90-6297.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1991/90-6297_19920309-opinion.xml</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="123.428">
+        <title>Williams v. United States</title>
+        <section startTime="0.000" stopTime="5.693">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="5.693">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90852">The opinions of the Court in two cases will be announced by Justice O'Connor.</text>
+          </turn>
+        </section>
+        <section startTime="5.693" stopTime="123.428">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="sandra_day_oconnor" startTime="5.693" stopTime="123.428">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="5.693" offset="113526">The first is Williams against the United States which comes to us on certiorari to the United States Court of Appeals for the Seventh Circuit.</text>
+            <text syncTime="17.230" offset="159711">The petitioner, Williams, was convicted in United States District Court for the Western District of Wisconsin for possession of a firearm while a convicted felon.</text>
+            <text syncTime="28.041" offset="202970">The applicable sentencing range under the federal sentencing guidelines was 18-24 months.</text>
+            <text syncTime="34.417" offset="228465">The District Court departed upward from this range and sentenced Williams to 27 months imprisonment.</text>
+            <text syncTime="41.318" offset="256050">The Court of Appeals for the Seventh Circuit affirmed Williams' sentence even though it held that one of the two grounds that the District Court had given to support its upward departure was not a valid factor for consideration.</text>
+            <text syncTime="56.528" offset="316863">We granted certiorari to consider whether a Court of Appeals may affirm a sentence in which a District Court's departure from the guideline range is based on both valid and invalid factors.</text>
+            <text syncTime="68.833" offset="366183">Appellate review of federal sentencing decisions is governed by the Sentencing Reform Act of 1984 as amended.</text>
+            <text syncTime="76.946" offset="398574">In a decision filed today, we hold that in certain circumstances, the Act allows the Court of Appeals to affirm a departure sentence based in part of invalid factors.</text>
+            <text syncTime="88.050" offset="442983">The Reviewing Court may affirm the sentence if it determines that the District Court would have imposed the same sentence even without relying on the invalid factors and that the remaining valid factors are sufficient to justify the magnitude of the departure.</text>
+            <text syncTime="104.766" offset="509856">Because we are unable to ascertain if this was the analysis employed by the Court of Appeals in this case, we vacate the judgment below and remand for a determination consistent with the opinion.</text>
+            <text syncTime="117.871" offset="562310">Justice White has filed a dissenting opinion which is joined by Justice Kennedy.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

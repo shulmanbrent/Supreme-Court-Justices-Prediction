@@ -1,0 +1,47 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:59:25" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="1280139">/xml/cases/1999/99_579/20000612o_99-579.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1999/trs/99-579_20000612-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="298.945">
+        <title>Harris Trust &amp; Savings Bank v. Salomon Smith Barney, Inc.</title>
+        <section startTime="0.000" stopTime="298.945">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="6.160">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="84358">The opinions of the Court in two cases will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="6.160" stopTime="298.945">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="6.160" offset="108913">First case I have to announce is No. 99-579, Harris Trust &amp; Savings Bank versus Salomon Smith Barney.</text>
+            <text syncTime="15.521" offset="146425">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Seventh Circuit.</text>
+            <text syncTime="22.140" offset="172861">Section 406 of the Employee Retirement Income Security Act, ERISA, bars a fiduciary of an employee benefit plan from causing the plan to engage in certain prohibited transactions with a party in interest, a term which is defined to encompass entities that a fiduciary might be inclined to favor at the expense of the plan’s beneficiaries.</text>
+            <text syncTime="47.915" offset="275992">This case comes to us on the assumption that the Ameritech Pension Trust, an ERISA Plan, entered into a transaction prohibited by Section 406 with respondent Salomon Smith Barney, a non-fiduciary party in interest, whereby Salomon received assets from the plan.</text>
+            <text syncTime="69.806" offset="363555">The plan's fiduciaries, petitioners Harris Trust &amp; Ameritech Corporation brought suit against Salomon under section 502(a)(3) which authorizes a fiduciary to bring a civil action to obtain appropriate equitable relief to redress violations of ERISA Title I.</text>
+            <text syncTime="91.016" offset="448400">Salomon moved for summary judgment, arguing that section 502(a)(3) authorizes suit only against parties upon whom a duty is expressly imposed by one of Title I’s substantive provisions, and asserting that Section 406 does not expressly impose such a duty on a nonfiduciary in interest.</text>
+            <text syncTime="112.962" offset="536172">The District Court rejected this argument and denied summary judgment.</text>
+            <text syncTime="117.734" offset="555294">The Court of Appeals for the Seventh Circuit reversed.</text>
+            <text syncTime="121.853" offset="571698">In an opinion filed with the Clerk today, we reverse the judgment of the Court of Appeals and remand for further proceedings.</text>
+            <text syncTime="130.369" offset="605762">While we agree with Salomon that Section 406 expressly imposes a duty only on a plan fiduciary, and not on a nonfiduciary party in interest, we reject Salomon’s assumption that a section 502(a)(3) suit is available only against a defendant upon whom a duty is expressly imposed by one of Title I’s substantive provisions.</text>
+            <text syncTime="157.312" offset="713596">Rather, we hold that section 502(a)(3) itself imposes certain duties; in this case, it imposes a duty on a nonfiduciary party in interest who has received plan assets in violation of Section 406.</text>
+            <text syncTime="173.475" offset="778170">This conclusion is supported by the language of Section 502(a)(3) which authorizes a suit for appropriate equitable relief to redress a violation of Title I, but does not specify which parties may be proper defendants.</text>
+            <text syncTime="191.391" offset="849850">Another provision of section 502(l) confirms this conclusion in so far as it contemplates a suit by the Secretary of Labor under Section 502(a)(5) against defendants upon whom a duty is not expressly imposed by one of Title I’s substantive provisions.</text>
+            <text syncTime="215.566" offset="946608">As we explained in our decision in Martin, Section 502(a)(5) and Section 502(a)(3) must be interpreted similarly in light of their similar language.</text>
+            <text syncTime="228.951" offset="1000107">Although Section 502(a)(3) as noted does not expressly indicate who may be a defendant, it does effectively impose certain limits by virtue of its caveat that the retrospective relief sought the appropriate equitable relief.</text>
+            <text syncTime="245.255" offset="1065308">The common law of trusts informs our understanding of this phrase, that common law, a fiduciary or beneficiary of a trust could bring suit against a transferee for value of planned assets that were obtained in breach of the trust unless the transferee lack actual or constructive knowledge of the circumstances giving rise to the breach.</text>
+            <text syncTime="268.965" offset="1160185">Here, the antecedent breach is a violation of section 406, and Salomon received planned assets by virtue of that transaction.</text>
+            <text syncTime="279.438" offset="1202085">But it remains to be decided on remand whether Salomon possessed actual or constructive knowledge of the circumstances giving rise to the violation of Section 406.</text>
+            <text syncTime="290.666" offset="1247016">Accordingly, we reverse the Seventh Circuit’s judgment and remand for further proceedings.</text>
+            <text syncTime="296.540" offset="1270422">The opinion of the Court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

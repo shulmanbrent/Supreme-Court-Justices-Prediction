@@ -1,0 +1,33 @@
+<transcript>
+      <history>
+        <identified user="jgoldman">2014-04-08</identified>
+      </history>
+      <resources>
+        <audioFile size="285675">/xml/cases/1987/87_5565/19880606o_87-5565.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/87-5565op.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="71.356">
+        <title>Clark v. Jeter</title>
+        <section startTime="0" stopTime="71.356">
+          <heading>Opinion Announcement of Sandra Day O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.045">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 87-5565, Clark against Jeter, will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="8.045" stopTime="71.356">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="8.045" offset="32078">This case comes to us by writ of certiorari to the Superior Court of Pennsylvania.</text>
+            <text syncTime="13.489" offset="53917">The petitioner is the mother of an illegitimate child.</text>
+            <text syncTime="17.134" offset="68441">She sued the respondent for child support alleging that he is the child's father.</text>
+            <text syncTime="22.362" offset="89443">The Court dismissed the suit as barred by Pennsylvania six-year statute of limitations for paternity actions.</text>
+            <text syncTime="29.582" offset="118282">The statute effectively limits the time within which suits may be brought to obtain child support for illegitimate children.</text>
+            <text syncTime="37.403" offset="149525">By contrast, suits for child support for legitimate children may be brought at any time during their minority.</text>
+            <text syncTime="45.148" offset="180558">We hold in the opinion filed today that the Pennsylvania statute of limitations at issue violates the Equal Protection Clause of the Fourteenth Amendment.</text>
+            <text syncTime="55.233" offset="220891">The statute discriminates between legitimate and illegitimate children and is not substantially related to an important government objective.</text>
+            <text syncTime="65.040" offset="260075">Accordingly, we reverse the judgment below and the opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

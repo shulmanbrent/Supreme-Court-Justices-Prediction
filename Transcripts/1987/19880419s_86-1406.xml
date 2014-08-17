@@ -1,0 +1,40 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-01T14:05:01" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-01</identified>
+      </history>
+      <resources>
+        <audioFile size="618440">/xml/cases/1987/86_1406/19880419o_86-1406.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-1406op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="135.001">
+        <title>Puerto Rico Department of Consumer Affairs v. Isla Petroleum Corporation</title>
+        <section startTime="0" stopTime="135.001">
+          <heading>Opinion Announcement of Antonin Scalia</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="14.315">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80944">The opinion of the Court in No. 86-1406, Puerto Rico Department of Consumer Affairs versus Isla Petroleum Corporation will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="14.315" stopTime="135.001">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="14.315" offset="138204">This case comes here by writ of certiorari to the Temporary Emergency Court of Appeals.</text>
+            <text syncTime="20.719" offset="163804">Petitioner the Puerto Rico Department of Consumer Affairs issued regulations in 1986 regarding the price of gasoline, which regulations were opposed by the respondents several oil companies.</text>
+            <text syncTime="34.217" offset="217721">The District Court enjoined enforcement of the regulations in part on the grounds that they were preempted by federal law and the Temporary Emergency Court of Appeals affirmed.</text>
+            <text syncTime="45.206" offset="261711">We reverse.</text>
+            <text syncTime="46.880" offset="268399">The test for federal preemptions of these regulations is the same as the test under the Supremacy Clause for preemptions of the law of the state.</text>
+            <text syncTime="54.999" offset="300895">Thus, we looked to the scope of the federal statute.</text>
+            <text syncTime="58.391" offset="314479">The Court below found preemptive force in the Emergency Petroleum Allocation Act of 1973 as amended by the Energy Policy and Conservation Act of 1975.</text>
+            <text syncTime="71.113" offset="365365">That law, which is some of us recall was once the basis for federal controls on the pricing and allocation of petroleum products, effectively expired in 1981.</text>
+            <text syncTime="82.600" offset="411341">The Court below nonetheless found that it had continuing preemptive effect on the theory that Congress' withdrawal from the fields signaled an intent to leave the market for petroleum products free of regulation by the states.</text>
+            <text syncTime="95.763" offset="463899">However, we ordinarily assume that the historic police power of the state are not superseded by a federal act unless that is a clear and manifest purpose of Congress.</text>
+            <text syncTime="105.691" offset="503605">There is no such clear purpose to be found in the mere expiration of the statute at issue much less in the legislative history of that statute.</text>
+            <text syncTime="113.797" offset="536102">Our decision in Transcontinental Pipe Line versus State Oil and Gas Board did not alter our established preemption analysis.</text>
+            <text syncTime="121.446" offset="566717">There is no federal preemption in vacuo without a constitutional text or a federal statute to assert it.</text>
+            <text syncTime="128.389" offset="594407">Our decision is unanimous except that Justice O'Connor took no part in the consideration or decision of the case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

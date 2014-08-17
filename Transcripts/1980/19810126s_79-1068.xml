@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="467515">/xml/cases/1980/79_1068/19810126o_79-1068.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1980/trs/79-1068op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="93.810">
+        <title>Equal Employment Opportunity Commission v. Associated Dry Goods Corporation</title>
+        <section startTime="0" stopTime="93.810">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="15.849">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92083">The judgment and opinion of the Courts in 79-1068, Equal Employment Opportunity Commission against Associated Dry Goods Corporation will be announced by Justice Stewart.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="15.849" stopTime="91.129">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="15.849" offset="155404">This case is here by way of the grant of a writ of certiorari to the United States Court of Appeals for the Fourth Circuit.</text>
+            <text syncTime="24.103" offset="188423">Title VII of the Civic Rights Act of 1964 limits the authority of the Equal Employment Opportunity Commission to make public disclosure of information it has obtained in investigating and attempting to resolve a claim of employment discrimination.</text>
+            <text syncTime="42.944" offset="263760">We granted certiorari in this case to consider whether the Court of Appeals for the Fourth Circuit was correct in holding that a prelitigation disclosure of information in a Commission file to the employee who filed the Title VII claim is a "public" disclosure within the meaning of the statutory restrictions.</text>
+            <text syncTime="65.265" offset="353099">For the reasons set forth in the opinion of the Court filed today, the judgment of the Court of the Appeals is reversed.</text>
+            <text syncTime="74.212" offset="388834">Justice Powell took no part in the decision of this case.</text>
+            <text syncTime="77.423" offset="401686">Justice Rehnquist took no part in the consideration or decision of the case.</text>
+            <text syncTime="82.614" offset="422480">Justice Blackmun has filed an opinion concurring in part and dissenting in part.</text>
+            <text syncTime="87.342" offset="441392">And Justice Stevens has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="91.129" stopTime="93.810">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="91.129" offset="456543">Thank you Justice Stewart.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

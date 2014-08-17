@@ -1,0 +1,857 @@
+<transcript verified="true">
+      <history>
+        <transcribed>2008-04-14</transcribed>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="13617917">/xml/cases/2007/07_210/20080414a_07-210.mp3</audioFile>
+        <sourceFile>/data/sites/oyez.org/cases/2007/2007_07_210/07-210_20080414-argument.xml</sourceFile>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="theodore_m_becker" type="advocate" gender="male" path="/advocates/tb/theodore_m_becker" image="/advocates/tb/theodore_m_becker/thumbnail.jpg">Theodore M. Becker</speaker>
+        <speaker id="david_w_de_bruin" type="advocate" gender="male" path="/advocates/db/david_w_de_bruin" image="/advocates/db/david_w_de_bruin/thumbnail.jpg">David W. DeBruin</speaker>
+        <speaker id="eric_d_miller" type="advocate" gender="male" path="/advocates/em/eric_d_miller" image="/advocates/em/eric_d_miller/thumbnail.jpg">Eric D. Miller</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3364.493">
+        <title>Bridge v. Phoenix Bond &amp; Indemnity Co.</title>
+        <section startTime="0.000" stopTime="1219.823">
+          <heading>Argument of Theodore M. Becker</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="7.838">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="158795">We'll hear argument next in Case 07-210, Bridge versus Phoenix Bond &amp; Indemnity.</text>
+            <text syncTime="7.105" offset="187112">Mr. Becker.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="7.838" stopTime="69.610">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="7.838" offset="190142">Thank you, Mr. Chief Justice, and may it please the Court: Both parts of the question presented in this case should be answered "yes".</text>
+            <text syncTime="15.540" offset="220862">For a treble damage civil RICO claim based on fraud, someone must rely on the alleged misrepresentation, and that someone must be the plaintiff.</text>
+            <text syncTime="24.691" offset="257538">But that's the very nature of a fraud claim.</text>
+            <text syncTime="27.332" offset="268091">Plaintiffs here claim that they were injured by reason of a RICO violation, the predicate acts of which involved a scheme or artifice to defraud.</text>
+            <text syncTime="36.374" offset="304245">But no one in this case is arguing that a civil RICO claim based on fraud can proceed without someone relying.</text>
+            <text syncTime="44.669" offset="337368">So some reliance is required; the only question is who must rely?</text>
+            <text syncTime="49.321" offset="356072">And we submit that the natural answer is the plaintiff.</text>
+            <text syncTime="52.944" offset="370491">A plaintiff who hasn't relied to his detriment on an alleged misrepresentation hasn't been defrauded; he hasn't been injured by reason of a scheme to defraud.</text>
+            <text syncTime="62.676" offset="409466">Plaintiffs here haven't alleged that they relied on any misrepresentation; they haven't even alleged that they received a misrepresentation.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="69.610" stopTime="106.422">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="69.610" offset="437156">So what about a case, say, you've got organized crime wants to get rid of... an organized crime enterprise wants to get rid of rivals, so it makes misrepresentations about those rivals to customers and suppliers, not to the... to the rival.</text>
+            <text syncTime="91.599" offset="525136">So there was no... there is no misrepresentation made to the plaintiff but to the plaintiff's customers and suppliers.</text>
+            <text syncTime="99.613" offset="557215">So on your theory, is there no RICO claim because the misrepresentation was made to someone other than the plaintiff?</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="106.422" stopTime="119.902">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="106.422" offset="584382">Yes, that's correct, Justice Ginsburg.</text>
+            <text syncTime="108.812" offset="593995">There would be a criminal RICO prosecution because, under the Neder case, we know that reliance, justifiable reliance, and injury is not required.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="119.902" stopTime="123.634">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="119.902" offset="638403">But no civil case in that... in that situation?</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="123.634" stopTime="124.726">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="123.634" offset="653241">That's correct, Justice Ginsburg.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="124.726" stopTime="163.679">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="124.726" offset="657629">But that doesn't even comport with common-law civil cases.</text>
+            <text syncTime="129.008" offset="674766">I mean, for a long time courts have allowed someone who's been euchred by a competitor's misrepresentations to his customers.</text>
+            <text syncTime="139.984" offset="718651">An old New York case that was discussed in the briefs that I used to teach in contracts class, where he told somebody that the horse was no longer for sale and it was still for sale, and the person who wanted to sell the horse at the higher price should have... to buy the horse should have had a cause of action, even though the representation was not made to him.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="163.679" stopTime="197.151">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="163.679" offset="813424">Justice Scalia, those cases as well as the Rice versus Manley New York case, the cheese buyer's case, similar situation, do exist, but they are really tortious interference with business expectancy cases.</text>
+            <text syncTime="177.361" offset="868176">And we believe that the law makes that clear.</text>
+            <text syncTime="180.407" offset="880402">When RICO was enacted in 1970, the law even in New York, as we point out in our reply brief, had evolved to the extent where... where there were some references to fraud in those early cases in the 19th century.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="197.151" stopTime="206.585">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="197.151" offset="947379">Suppose in a tortious interference case, the two tort... there are two tort feasors, and they communicate with each other by mail.</text>
+            <text syncTime="204.225" offset="975592">Is that a violation of the mail fraud statute?</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="206.585" stopTime="226.562">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="206.585" offset="985100">It would be a violation of the mail fraud statutes.</text>
+            <text syncTime="210.270" offset="999833">But I will say, Justice Kennedy, that the government's position here seeks to extend the mail fraud statute far beyond what this Court did in Neder.</text>
+            <text syncTime="220.314" offset="1039957">As a matter of fact, the government made the exact same argument in Neder as it did to this Court, and the Court--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="226.562" stopTime="236.494">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="226.562" offset="1065035">In my... in my hypothetical, there was no... there was no reliance on anything said.</text>
+            <text syncTime="232.013" offset="1086769">It was just used to facilitate the scheme.</text>
+            <text syncTime="234.571" offset="1097009">And I assume the plaintiff could recover.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="236.494" stopTime="298.669">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="236.494" offset="1104741">--I think that in criminal mail fraud, reliance is not required, Justice Kennedy.</text>
+            <text syncTime="242.035" offset="1126893">And that's what the Neder Court held.</text>
+            <text syncTime="244.036" offset="1134939">But in doing so, it looked to the common law and imposed a materiality requirement.</text>
+            <text syncTime="250.049" offset="1158971">And the only reason that the Neder case ruled that it's not required in criminal mail fraud is because no one has to be injured; there does not have to be a completed scheme.</text>
+            <text syncTime="262.357" offset="1208186">Civil... there is, of course, no private right of action in mail fraud.</text>
+            <text syncTime="269.086" offset="1235040">And when we look to whether or not someone has a civil claim under RICO through the predicate act of mail fraud, we have to go through 1964(c), the "injured by reason of" requirement.</text>
+            <text syncTime="282.438" offset="1288539">As this Court found in Holmes, the common-law requirement of proximate cause applies, we submit so does the common-law element of reliance, justifiable reliance, apply in a civil RICO case predicated on mail fraud.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="298.669" stopTime="347.241">
+            <label>Justice David H. Souter</label>
+            <text syncTime="298.669" offset="1353427">Well, isn't... isn't the difference that, in Holmes, it was the textual basis "by reason of" through which the... as we read it... the proximate cause standard was... was brought into the statute.</text>
+            <text syncTime="314.489" offset="1416748">Here, in fact, there... there isn't any text, it seems to me, that you can... can rely on.</text>
+            <text syncTime="321.020" offset="1442870">The fact of fraud itself doesn't do it because the statute speaks in terms of an offense for which an individual should be prosecuted.</text>
+            <text syncTime="330.562" offset="1481009">So it's looking to the criminal rather than the civil model.</text>
+            <text syncTime="333.842" offset="1494070">And isn't that the distinction, in effect, a textual distinction, between Holmes as a means for importing proximate cause and the statute in this case as a means for importing first-party reliance?</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="347.241" stopTime="385.413">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="347.241" offset="1547673">Well, Justice Souter, of course, in Holmes the Court was looking at the "injured by reason of" language and looked to the Clayton Act and looked to the Sherman Act before it, where Congress used precisely the same language.</text>
+            <text syncTime="361.080" offset="1603053">Certainly RICO doesn't have proximate cause in its text at all.</text>
+            <text syncTime="366.500" offset="1624787">The reason... the very reason that the common law does apply when you are construing a mail fraud predicate act through a civil RICO claim is because Congress has not told us what "defraud" means.</text>
+            <text syncTime="381.447" offset="1684555">It has not defined "scheme to defraud", and of course that's--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="385.413" stopTime="395.910">
+            <label>Justice David H. Souter</label>
+            <text syncTime="385.413" offset="1700437">Why hasn't it done so simply or sufficiently done so by referring to the... in effect... the criminal mail fraud violation?</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="395.910" stopTime="411.403">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="395.910" offset="1742338">--Because in other cases where this Court has looked at the same type of situation, the Neder case, Field versus Mans, for example, where there is not a definition of a term such as fraud, the Court has looked to the common law to define that term.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="411.403" stopTime="429.724">
+            <label>Justice David H. Souter</label>
+            <text syncTime="411.403" offset="1804405">Yes, but we didn't have... I don't think we had in those cases the phrase that occurs here.</text>
+            <text syncTime="416.196" offset="1823526">I think the phrase here is "could be prosecuted or indicted" for something... I think it was prosecution... which tends to narrow it down to the criminal model, rather than allowing us to roam into the civil field.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="429.724" stopTime="457.569">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="429.724" offset="1877652">Except, Justice Souter, that the... the requirement that there need to be an indictable offense is not enough to make out a civil fraud because criminal law recognizes a... an uncompleted fraud, simply a scheme, where here, if you're talking about a completed fraud, for someone to be injured by reason of a fraud, it has to be completed and someone has had to rely on it.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="457.569" stopTime="471.472">
+            <label>Justice David H. Souter</label>
+            <text syncTime="457.569" offset="1989038">Okay.</text>
+            <text syncTime="458.041" offset="1990919">Well, that means that to that extent the criminal... in effect... the criminal cause of action is narrowed down.</text>
+            <text syncTime="464.304" offset="2015997">It doesn't follow from that that the statute contemplated adopting a civil model regardless.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="471.472" stopTime="481.765">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="471.472" offset="2044627">I... we... we believe it does.</text>
+            <text syncTime="474.253" offset="2055807">If Your Honor will contrast the Salinas case with the Beck versus Prupis case, we believe it's the similar--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="481.765" stopTime="482.998">
+            <label>Justice David H. Souter</label>
+            <text syncTime="481.765" offset="2085796">You're going to have to help me do that.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="482.998" stopTime="571.634">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="482.998" offset="2090707">--All right.</text>
+            <text syncTime="483.403" offset="2092379">I will.</text>
+            <text syncTime="484.012" offset="2094782">In the Salinas case, which was a criminal RICO case, the Court ruled that it was not necessary to have a wrongful overt act in order to make out a criminal cause of action for conspiracy under the RICO statute.</text>
+            <text syncTime="505.304" offset="2179941">And the reason was because all you need is the agreement and any acts.</text>
+            <text syncTime="511.489" offset="2204705">This was a situation where a sheriff actually was the wrongdoer, but the deputy sheriff took some innocent acts that were in furtherance of conspiracy.</text>
+            <text syncTime="520.874" offset="2242217">The Court said that's conspiracy.</text>
+            <text syncTime="524.076" offset="2255069">However, in the Beck versus Prupis case, the Court said that for civil RICO cause of action based on conspiracy, you need to look at the combination between 1964(c), the "injured by reason of" language, and the actual statutory language.</text>
+            <text syncTime="544.583" offset="2337094">And since conspiracy is not defined in the RICO statute, the Court looked to the common law, and the common law requires that there needs to be an unlawful overt act or tortious act in order to make out a common-law cause of action for conspiracy.</text>
+            <text syncTime="561.982" offset="2406684">And the Court ruled that that was necessary.</text>
+            <text syncTime="565.246" offset="2419745">We think it's the exact same relationship Salinas is to Beck as Neder is to this case.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="571.634" stopTime="572.227">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="571.634" offset="2445241">Well, why--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="572.227" stopTime="572.882">
+            <label>Justice David H. Souter</label>
+            <text syncTime="572.227" offset="2447644">No, but--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="572.882" stopTime="595.703">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="572.882" offset="2450256">--Why isn't it... there is reliance on their allegations by the county.</text>
+            <text syncTime="578.520" offset="2472826">The county thinks that each bidder is putting in only one bid.</text>
+            <text syncTime="583.848" offset="2494142">So the county has been deceived, and the plaintiff suffers the effect of that deception.</text>
+            <text syncTime="593.593" offset="2533117">Why doesn't that qualify?</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="595.703" stopTime="604.074">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="595.703" offset="2541580">Because no representation has been made to the plaintiff, and the plaintiff hasn't relied on the misrepresentation that was made to the county.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="604.074" stopTime="613.928">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="604.074" offset="2575017">But without the mail fraud violation... let's assume... the tort would have been unsuccessful.</text>
+            <text syncTime="612.649" offset="2609290">It would not have been complete.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="613.928" stopTime="617.742">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="613.928" offset="2614410">Without the misrepresentation to the county, Justice Kennedy?</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="617.742" stopTime="630.985">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="618.085" offset="2631128">Yes.</text>
+            <text syncTime="618.428" offset="2632486">Let's assume that.</text>
+            <text syncTime="619.520" offset="2636875">And it was directed at this class of persons and it was relied upon by the county.</text>
+            <text syncTime="626.145" offset="2663311">It seems to me that that's certainly sufficient under the... it's a mail fraud violation.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="630.985" stopTime="634.343">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="630.985" offset="2682642">Well, I think this--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="634.343" stopTime="641.763">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="634.343" offset="2696121">I mean, refer to the mail... the civil RICO refers to whether it's a mail fraud violation.</text>
+            <text syncTime="638.515" offset="2712839">You want to assume this additional reliance requirement.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="641.763" stopTime="678.871">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="641.763" offset="2725796">--We think it's necessary, Your Honor.</text>
+            <text syncTime="644.418" offset="2736454">The other aspect, of course, in the hypothetical is that there needs to be some direct injury, and we don't believe that a direct injury is presented here.</text>
+            <text syncTime="656.772" offset="2785877">In order to... in Anza and, of course, before in Holmes, the Court set forth three basic guidelines in order to determine whether there was sufficient proximate cause to bring a cause of action under civil RICO, and in Anza under mail fraud.</text>
+            <text syncTime="675.638" offset="2861319">We don't think those three are enough in this kind of a situation.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="678.871" stopTime="713.187">
+            <label>Justice David H. Souter</label>
+            <text syncTime="678.871" offset="2874276">--But isn't the problem with your argument that if this isn't direct enough, there is no injury at all?</text>
+            <text syncTime="684.446" offset="2896532">The county isn't hurt by this.</text>
+            <text syncTime="686.899" offset="2906354">The county has got its rotational scheme basically to avoid favoring particular bidders who appear in multiple guises, but the county isn't getting hurt.</text>
+            <text syncTime="700.630" offset="2961211">So that if it's not direct enough for... for the Plaintiffs in this case to sue, then nobody has a direct enough interest or can show direct enough causation for RICO.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="713.187" stopTime="764.963">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="713.187" offset="3011471">Well, Justice Souter, first, we disagree that the rotational allocation is well pled fact.</text>
+            <text syncTime="718.045" offset="3030906">As we pointed out in our reply brief toward the last several pages and in footnote 7, the actual sale and the bidding is nothing like the concept of rotational allocations.</text>
+            <text syncTime="731.490" offset="3084718">But putting that aside for a moment, the county certainly could be a victim.</text>
+            <text syncTime="735.522" offset="3100810">First of all, the county... this is a violation of an administrative rule.</text>
+            <text syncTime="739.644" offset="3117319">That's what is at the heart of this case, an alleged violation.</text>
+            <text syncTime="743.190" offset="3131530">The county has made the rule possibly for the purpose that Your Honor just articulated, although there is nothing in the record to let us know that.</text>
+            <text syncTime="750.813" offset="3162041">But what we do know is that these types of rules exist for the benefit of the property owners, and that's because the Illinois Supreme Court in... the same plaintiff brought a case challenging a very, very similar rule.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="764.963" stopTime="784.235">
+            <label>Justice David H. Souter</label>
+            <text syncTime="764.963" offset="3218570">But how could the property owner be hurt if there is... if we are dealing in a situation here in... in which the penalty is zero percent, and everybody is bidding zero percent, then this is a situation in which the property owner isn't going to get hurt no matter who ends up with it.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="784.235" stopTime="792.386">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="784.235" offset="3295683">Justice Souter, zero percent is by no means guaranteed.</text>
+            <text syncTime="786.907" offset="3306341">That's only been the last few years.</text>
+            <text syncTime="789.107" offset="3315223">In fact, in the 2000 case before the Illinois Supreme Court--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="792.386" stopTime="813.486">
+            <label>Justice David H. Souter</label>
+            <text syncTime="792.386" offset="3328284">Yes, but that's the... that's the case here.</text>
+            <text syncTime="793.607" offset="3333195">So if your direct-injury requirement, as you construe it, applies here, I think we are still left with a situation in which on these facts, nobody would be injured, because nobody... or nobody would be... be able to prove injury by a sufficient direct route to establish causation.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="813.486" stopTime="816.298">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="813.486" offset="3412712">--Including the bidders and the Plaintiffs, Your Honor.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="816.298" stopTime="817.237">
+            <label>Justice David H. Souter</label>
+            <text syncTime="816.298" offset="3423892">Yeah.</text>
+            <text syncTime="816.722" offset="3425668">Right.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="817.237" stopTime="834.808">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="817.237" offset="3427654">Well, I think that they certainly could not prove injury as a matter of proof.</text>
+            <text syncTime="821.562" offset="3444999">The problem with that, of course, is in a RICO case it takes five years to get there.</text>
+            <text syncTime="827.325" offset="3468091">And someone can artfully plead... use two words with no elaboration at all, "rotational allocation".</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="834.808" stopTime="861.594">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="834.808" offset="3497975">Yes, but that's a different point, the point that you made in your reply brief, that maybe there isn't this rotational system, and maybe they can't prove that they were... that they were injured; that they would have gotten a greater share.</text>
+            <text syncTime="847.520" offset="3548862">But your case is about... it doesn't matter even if you... you have to accept the allegations of their complaint as true, even if everything they say in the complaint is true, they have no claim.</text>
+            <text syncTime="860.249" offset="3599748">They have no RICO claim.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="861.594" stopTime="863.216">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="861.594" offset="3605077">That's correct, Justice Ginsburg.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="863.216" stopTime="875.336">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="863.216" offset="3611556">So we have to assume what they say about the rotational system is right and... but... but you are hanging your hat on no misrepresentation was made to them.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="875.336" stopTime="1092.376">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="875.336" offset="3660039">That's correct, Justice.</text>
+            <text syncTime="876.869" offset="3666204">We... we are... we have raised below, but not in this Court, that there was not sufficient injury, directness of injury; and it can't be proved in this Court.</text>
+            <text syncTime="889.597" offset="3717091">I think it comes into play in the reliance concept under proximate causation.</text>
+            <text syncTime="894.315" offset="3736003">And what we are asking the Court to do is to recognize that, in the context of a civil RICO claim based on fraud, that there is... there is nothing that is... that is revolutionary about finding that a reliance requirement should be applied.</text>
+            <text syncTime="910.167" offset="3799428">This case, as the Court knows, was originally dismissed by Chief Judge Holderman on that very basis.</text>
+            <text syncTime="917.135" offset="3827327">If we have... if we were to accept... if the Court were to accept our opponents' position, a remarkable array of lawsuits could be brought as RICO actions: Competitor versus competitor for harm that allegedly is caused by false statements to customers, suppliers, distributors, marketing agencies, government entities; consumer or end user versus manufacturer for harm allegedly resulting from false statements to the first buyer in a distribution chain.</text>
+            <text syncTime="947.918" offset="3950416">And the circuit court cases in the Fifth... Fourth and Fifth and Sixth and Eighth and Eleventh circuits have recognized this, and they require reliance as a part of proximate causation, and we believe this Court should do the same.</text>
+            <text syncTime="963.052" offset="4010916">I also wanted to make the point that to elaborate, in the Neder case, the Government... and this is a case where the Government ostensibly argues that it wants us not to restrict civil RICO claims.</text>
+            <text syncTime="977.546" offset="4068908">But in the Neder case the Government made the very same argument in trying to expand mail fraud claims under the criminal statutes.</text>
+            <text syncTime="986.324" offset="4104016">And I think that's... that's a sub rosa issue in this case.</text>
+            <text syncTime="991.635" offset="4125332">The Court nine years ago specifically said in a unanimous opinion, with Chief Justice Rehnquist writing for the Court, that the Court disagreed that mail fraud was moored to the common law of fraud, and it is not unmoored in the Neder case.</text>
+            <text syncTime="1008.879" offset="4194295">They said it was moored, and even in a criminal prosecution materiality is required.</text>
+            <text syncTime="1013.843" offset="4214148">And although justifiable reliance and injury is not required in a criminal prosecution, to unmoor the mail fraud statute in a civil RICO context and to then make the argument that all sorts of other claims can... can also be included such as tortious interference... because at its heart this is a tortious interference case.</text>
+            <text syncTime="1039.958" offset="4318534">We know that because the Plaintiffs pled it in their complaint.</text>
+            <text syncTime="1044.068" offset="4335043">That's their pendant State court action.</text>
+            <text syncTime="1046.471" offset="4344656">And that's where this case should be.</text>
+            <text syncTime="1049.376" offset="4356255">It should be a tortious interference case.</text>
+            <text syncTime="1051.455" offset="4364614">If they can prove that case and if they have pled it, then they have a remedy.</text>
+            <text syncTime="1056.359" offset="4384153">If they can't, they don't.</text>
+            <text syncTime="1057.607" offset="4389169">But the problem is that to give the civil RICO tool, to call "racketeers"... to call your competitor a "racketeer" and to seek treble damages and attorney's fees in this kind of such an attenuated situation, should not be something that the Court condones.</text>
+            <text syncTime="1076.414" offset="4464402">And it's different; if you Google my clients, you'll come up... they will come up as racketeers now, and... and that's the problem that we have.</text>
+            <text syncTime="1085.251" offset="4499719">If there were a reliance requirement, you could immediately tell if this was a situation where the common law--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1092.376" stopTime="1104.042">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1092.376" offset="4528245">May I just go back to a statement you made?</text>
+            <text syncTime="1094.157" offset="4535350">I thought you... you conceded that on their allegations your client would be indictable for mail fraud?</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="1104.042" stopTime="1171.657">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="1104.042" offset="4574952">--Well, I didn't concede that my client would be indictable for mail fraud.</text>
+            <text syncTime="1107.884" offset="4590312">I think that there would have to be... we'd have to take a careful look at the indictment, certainly.</text>
+            <text syncTime="1112.991" offset="4610687">But I will say that... that I do... I do say that the mail fraud statute does not require justifiable reliance or injury.</text>
+            <text syncTime="1121.270" offset="4643811">I think the problem is when you ask the direct... my client hasn't been indicted for mail fraud, and I don't think it's any... it's any oversight because this has been a very well known case in Cook County.</text>
+            <text syncTime="1135.153" offset="4699399">I think the reason, if one were to ask me why my client hasn't been indicted for mail fraud, is because they didn't commit it, because the county in its own rule... the treasurer wrote the rule and expressly says in the rule that she has the exclusive discretion to determine whether or not there has been a violation of the rule.</text>
+            <text syncTime="1154.179" offset="4775468">She has not so determined.</text>
+            <text syncTime="1156.319" offset="4784036">And this case has been pending now for close to over three years.</text>
+            <text syncTime="1160.347" offset="4800127">The treasurer is aware of it, and we know that, and she still has not determined that there has been a violation.</text>
+            <text syncTime="1166.314" offset="4823951">So if there hasn't been a violation of the rule, there is no criminal mail fraud violation either.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1171.657" stopTime="1174.638">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1171.657" offset="4845371">Is your client still bidding on... on these--</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="1174.638" stopTime="1193.692">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="1174.638" offset="4857283">Yes, Justice Souter, and also all of the... al of the plaintiffs... the Respondents are still bidding, which I think is an interesting fact.</text>
+            <text syncTime="1182.415" offset="4888421">And it's not... it's in the record because they have an amended complaint where they have pled subsequent sales.</text>
+            <text syncTime="1188.946" offset="4914544">That's how far afield from the law of fraud this is going.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1193.692" stopTime="1196.082">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1193.692" offset="4933561">Are all the shell corporations still bidding?</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="1196.082" stopTime="1216.496">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="1196.082" offset="4943069">Mr. Justice... Mr. Chief Justice, if all of them aren't, it's simply because there may be new corporations that are, and they are formed not for the purpose of defrauding anybody, but for tax purposes.</text>
+            <text syncTime="1210.296" offset="4999912">If there are no further questions, I'd... I'd like to reserve the rest of my time for rebuttal.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1216.496" stopTime="1218.232">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1216.496" offset="5024676">Thank you, Mr. Becker.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="1218.232" stopTime="1219.823">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="1218.232" offset="5031677">Thank you, Mr. Chief Justice.</text>
+          </turn>
+        </section>
+        <section startTime="1219.823" stopTime="2386.080">
+          <heading>Argument of David W. DeBruin</heading>
+          <turn speaker="john_g_roberts_jr" startTime="1219.823" stopTime="1227.087">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1219.823" offset="5038051">Mr. DeBruin.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1227.087" stopTime="1302.711">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1227.087" offset="5067099">Mr. Chief Justice, and may it please the Court: It is presumed true in this case that Petitioners submitted false affidavits, filled the auction room with related entities, and obtained thousands of liens that would have been awarded to Respondents and other bidders, causing them injury in fact.</text>
+            <text syncTime="1248.672" offset="5153407">I submit the central issue in this case is whether on those facts Respondents can establish proximate cause, and specifically whether in order to do so they must establish that they personally received and relied upon the false statements at issue.</text>
+            <text syncTime="1266.258" offset="5223729">I submit that this Court already has established in its decisions in Holmes and in Anza the proper test for proximate cause.</text>
+            <text syncTime="1274.334" offset="5256121">And no claim has been made in this case, at least not until perhaps briefly this morning, that the Respondents cannot establish proximate cause under the standards set forth in those cases.</text>
+            <text syncTime="1285.109" offset="5299171">Moreover, no argument is made that the standards articulated in Holmes and in Anza are insufficient to ferret out the appropriate cases that can go forward; that those cases produce anomalous results either here or in any other case that has been decided.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1302.711" stopTime="1326.155">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1302.711" offset="5369597">Is... is it your view that assume... assuming there is a State law cause of action for tortuous interference, that if that tortious interference was effected through the use of the mails by the co-tort features, that that automatically invokes the RICO statute?</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1326.155" stopTime="1332.605">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1326.155" offset="5463324">Your Honor, all of the elements of RICO would have to be established.</text>
+            <text syncTime="1330.152" offset="5479311">There would have to be predicate acts of mail fraud.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1332.605" stopTime="1335.822">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1332.605" offset="5489133">That... that there are predicate acts, yes.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1335.822" stopTime="1378.711">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1335.822" offset="5501985">And they would have to form a pattern and all the other requirements that were significant would have to be met, but yes.</text>
+            <text syncTime="1340.555" offset="5521002">And I submit in this case there is no serious dispute but that the allegations over the course of many years of the complaint established indictable mail fraud.</text>
+            <text syncTime="1350.425" offset="5560395">The issue is not whether the fact pattern is under the common law tortious interference or some other common-law tort.</text>
+            <text syncTime="1357.596" offset="5589130">The question is: Do the facts as alleged make out indictable mail fraud?</text>
+            <text syncTime="1362.845" offset="5610132">There is no question but the mail fraud statute is broad.</text>
+            <text syncTime="1365.591" offset="5621104">It prohibits any scheme or artifice to defraud; and I believe that if the facts here were proved, the submission of false affidavits to the county on a regular basis, there is no need under mail fraud to prove reliance.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1378.711" stopTime="1399.220">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1378.711" offset="5673557">But those... those weren't mailed, or at least that's not what you're relying on.</text>
+            <text syncTime="1383.415" offset="5692366">You're not relying on the affidavits that make the misrepresentation using the mails.</text>
+            <text syncTime="1389.474" offset="5716607">I thought your reliance on the mails is only the tail end of this transaction, the notices that get sent to the property owners.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1399.220" stopTime="1445.687">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1399.220" offset="5755582">That's correct, Justice Ginsburg.</text>
+            <text syncTime="1401.096" offset="5763105">The mails here are an essential component to allow this fraud to have any effect.</text>
+            <text syncTime="1406.325" offset="5784003">If it weren't for the use of the mail, the Petitioners could never realize the economic value of the liens that they obtained through the fraud.</text>
+            <text syncTime="1413.745" offset="5813678">And in that sense the use of the mails are essential to the scheme.</text>
+            <text syncTime="1418.381" offset="5832277">And that's what this Court held in the Schmuck decision: That the mails, themselves, don't have to be false so long as the use of the mails is essential to the scheme.</text>
+            <text syncTime="1427.521" offset="5868849">Here it clearly is.</text>
+            <text syncTime="1428.738" offset="5873655">Absent the notices given to property owners, there would be no way for the Petitioners to realize the value of the liens and obtain the benefit of the fraud by... by making the false statements to the county and literally obtaining thousands of additional liens that otherwise would have gone to other entities.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1445.687" stopTime="1459.459">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1445.687" offset="5941469">Counsel, what... would your position be different if the county were, in fact, injured; we didn't have the zero-percent situation but different percentages?</text>
+            <text syncTime="1456.508" offset="5984728">Your client would not be able to sue them, right?</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1459.459" stopTime="1487.965">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1459.459" offset="5996535">Mr. Chief Justice, I believe the Court has already addressed that in Anza and has made clear that if in an appropriate case the government had been harmed and was in fact... could be expected to sue, as it was in Anza... in that case the claim was that the defendant had not paid its taxes to the State of New York.</text>
+            <text syncTime="1479.936" offset="6078455">And the Court found that New York was the directly injured party, could be expected to sue, and under Anza there was no proximate cause.</text>
+            <text syncTime="1486.701" offset="6105518">We accept that test.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1487.965" stopTime="1496.852">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1487.965" offset="6110638">Well, what does that do to your statutory argument?</text>
+            <text syncTime="1490.776" offset="6121819">In other words under your statutory argument, you still could sue; but because of other considerations you can't?</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1496.852" stopTime="1516.392">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1496.852" offset="6146165">Well, we have to establish predicate acts of mail fraud, but we also have to establish proximate cause.</text>
+            <text syncTime="1504.381" offset="6176258">And under Anza the failure was an inability to prove proximate cause.</text>
+            <text syncTime="1508.191" offset="6191513">In this case it has not been seriously disputed that we satisfy the factors set forth in Anza.</text>
+            <text syncTime="1514.875" offset="6218263">The county was not harmed.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1516.392" stopTime="1526.465">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1516.392" offset="6224323">Well, what happens... what happens if some of the bids were more than zero, and some weren't?</text>
+            <text syncTime="1520.623" offset="6241251">You get to sue for part of the damages, and the county gets to sue for the rest?</text>
+            <text syncTime="1525.014" offset="6258805">Or how do you divvy that up?</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1526.465" stopTime="1556.998">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1526.465" offset="6264552">Well, the only time that the affidavits and the representations in this case have effect is if all the bids are zero.</text>
+            <text syncTime="1535.411" offset="6300392">The county, in order to protect itself from property owners, provides that if there are multiple bids above zero, the county will not issue the lien.</text>
+            <text syncTime="1544.252" offset="6335709">It holds the lien itself.</text>
+            <text syncTime="1545.877" offset="6342292">The only time that this rule comes into effect where there is a rotational award is if the county is paid its taxes in full, and there are multiple bidders at zero percent.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1556.998" stopTime="1576.648">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1556.998" offset="6386700">Well, but I suppose since we are talking about a rotational rule, you could have... what are these, monthly or annually... one, possibly, cycle where it's all zero percent, and then others where it isn't, and then another where it is.</text>
+            <text syncTime="1570.740" offset="6441662">And that would affect the rotation in a way that would injure your client but would also injure the county.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1576.648" stopTime="1651.101">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1576.648" offset="6465381">Not the way the county administers these auctions.</text>
+            <text syncTime="1579.020" offset="6474785">If that happened... and it certainly could happen... that the bidding process that takes the penalty down stopped at five percent or two percent, the county rules under the program at issue provide the county will not apply the rotational system.</text>
+            <text syncTime="1593.856" offset="6534135">It won't award the lien at all.</text>
+            <text syncTime="1596.075" offset="6543017">The rotational rule only applies when there are multiple, zero-percent bids.</text>
+            <text syncTime="1602.806" offset="6569975">And Respondents will show, as this case goes forward, that they can identify the specific properties on which there were multiple bids; that the Petitioners and the related entities, which they will prove are related, received liens and thereby increased to the thousands the number of valuable liens that the Petitioners got, leaving the Respondents essentially with hundreds of liens.</text>
+            <text syncTime="1624.862" offset="6658165">The key is, the central question is, whether Petitioners can show proximate cause under the standards in Holmes and Anza.</text>
+            <text syncTime="1632.059" offset="6687004">And under Anza what this Court held is the central question for proximate cause is the directness between the violation alleged and the injury.</text>
+            <text syncTime="1642.260" offset="6727755">And in this case there is a direct relation between the violation of mail fraud alleged, the predicate acts, and the injury that Respondents have incurred.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1651.101" stopTime="1680.480">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1651.101" offset="6763177">Would you explain why your argument is consistent with Beck versus Prupis?</text>
+            <text syncTime="1656.974" offset="6786687">In that case, couldn't the plaintiff show that it was injured by reason of the criminal violation that was alleged, the RICO conspiracy; and, yet, the Court said something more was required, taking an additional requirement from the law of civil conspiracy?</text>
+            <text syncTime="1678.604" offset="6873205">How is your argument here consistent with that?</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1680.480" stopTime="1717.041">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1680.480" offset="6880624">Justice Alito, Beck was a completely different case.</text>
+            <text syncTime="1683.744" offset="6893685">The issue in Beck was... section 1964(c) says that the plaintiff must prove injury by reason of a violation of the act.</text>
+            <text syncTime="1694.865" offset="6938197">And the violation of the act at issue in Beck was 1962(d), which is a conspiracy to violate the other provisions.</text>
+            <text syncTime="1703.218" offset="6971634">And so what the Court was looking at was the word "conspiracy", which was not defined in the statute.</text>
+            <text syncTime="1709.061" offset="6994935">And the Court applied the accepted rule that where a word is not defined, the Court can assume that Congress intended its ordinary meaning.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1717.041" stopTime="1733.334">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1717.041" offset="7026909">But... well, the meaning of a RICO conspiracy in the criminal context is very well known.</text>
+            <text syncTime="1722.243" offset="7047703">I don't know why it matters whether it is defined in the statute or not; and there is no requirement in that that anybody be injured by virtue of an unlawful, overt act.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1733.334" stopTime="1735.362">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1733.334" offset="7092111">But the Court looked to--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1735.362" stopTime="1743.797">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1735.362" offset="7100157">Why is it appropriate there to look to the law of civil conspiracy and yet inappropriate here to look to the law of civil fraud?</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1743.797" stopTime="1783.138">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1743.797" offset="7133907">--Well, it looked to conspiracy to make up the elements of the civil cause of action there.</text>
+            <text syncTime="1748.390" offset="7152297">But here the relevant provision that is relied upon is 1962(c), which is a violation of RICO.</text>
+            <text syncTime="1757.854" offset="7190122">And we also alleged 16, 1962(d).</text>
+            <text syncTime="1760.665" offset="7201407">But in (c) the violation of RICO is to conduct the affairs of an enterprise through a pattern of racketeering activity.</text>
+            <text syncTime="1767.739" offset="7229724">None of those words,</text>
+            <text syncTime="1769.646" offset="7237352">"conducting the affairs of an enterprise. "</text>
+            <text syncTime="1772.407" offset="7248323">are words that Petitioners contend you look to the common law to define.</text>
+            <text syncTime="1776.829" offset="7266086">There could be a pattern of racketeering activity that would consist of fraud, of violence, of bribery all together.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1783.138" stopTime="1795.492">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1783.138" offset="7291268">Am I... am I reading these provisions wrong?</text>
+            <text syncTime="1785.668" offset="7301404">I thought you were proceeding in a 1961, and that the conspiracy... the conspiracy provision is 1962(c).</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1795.492" stopTime="1802.725">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1795.492" offset="7340692">1961 is the definitions.</text>
+            <text syncTime="1798.022" offset="7350828">We allege a violation of both 1962(c) and 1962(d).</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1802.725" stopTime="1803.708">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1802.725" offset="7369636">That's the conspiracy provision.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1803.708" stopTime="1811.956">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1803.708" offset="7373606">1962(d) is the conspiracy.</text>
+            <text syncTime="1806.285" offset="7383846">We allege a violation of that.</text>
+            <text syncTime="1808.130" offset="7391265">We also allege a violation of 1962(c).</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1811.956" stopTime="1846.064">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1811.956" offset="7406521">I'm looking on page 2 of the Petitioner's brief.</text>
+            <text syncTime="1815.984" offset="7422717">Have I... have I been misinformed?</text>
+            <text syncTime="1819.450" offset="7436509">The blue brief, page 2, maybe that's wrong, but that's what it says.</text>
+            <text syncTime="1837.415" offset="7508398">It says 1962(c), it shall be unlawful for any person to conspire to violate any of the provisions of subsections (a), (b) or (c).</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1846.064" stopTime="1850.439">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1846.064" offset="7542984">Your Honor, the citation appears at the bottom of the quote, the way it's set forth on page 2.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1850.439" stopTime="1852.643">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1850.439" offset="7560539">All right.</text>
+            <text syncTime="1851.126" offset="7563255">I understand.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1852.643" stopTime="1856.344">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1852.643" offset="7569316">So if you look at the very first quotation, you'll see where it follows.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1856.344" stopTime="1857.576">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1856.344" offset="7584153">Oh, I see, I see, I see.</text>
+            <text syncTime="1856.718" offset="7585616">Okay.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1857.576" stopTime="1873.150">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1857.576" offset="7589064">So in this case, we allege both a violation of 1962(c) and (d).</text>
+            <text syncTime="1863.104" offset="7611112">1962(c) prohibits conducting the affairs of an enterprise through a pattern of racketeering activity.</text>
+            <text syncTime="1869.524" offset="7636816">That pattern may consist of fraud, violence, bribery--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1873.150" stopTime="1903.106">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1873.150" offset="7651340">No, I understand that, but when the pattern of racketeering activity consists of predicate acts of mail fraud, why isn't... why does not Beck point you to the word RICO statute?</text>
+            <text syncTime="1891.673" offset="7725424">So why if you look to civil conspiracy to understand what RICO statute, why do you not look to RICO statute?</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1903.106" stopTime="1914.711">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1903.106" offset="7771190">--I would say two things: First, what that argument would do would make essentially common-law fraud the predicate act under RICO, when instead it is indictable mail fraud, not common-law fraud.</text>
+            <text syncTime="1914.227" offset="7815703">And--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1914.711" stopTime="1926.285">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1914.711" offset="7817584">But you can say the same in Beck.</text>
+            <text syncTime="1916.084" offset="7823122">It would make civil conspiracy the predicate act in RICO, rather than... the RICO violation, rather than criminal conspiracy.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1926.285" stopTime="1957.957">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1926.285" offset="7863873">--Well, the Court, again, in Beck, was looking to the common-law word "conspiracy" to apply it in different contexts.</text>
+            <text syncTime="1933.203" offset="7891562">There is not a common-law fraud that is actionable under RICO.</text>
+            <text syncTime="1936.654" offset="7905355">But secondly, even if you accept that test, Justice Alito, under the common law of fraud, there is no doubt that claims like ours were actionable and were actionable as fraud.</text>
+            <text syncTime="1948.118" offset="7951226">The case that Justice Scalia referenced to, the common-law cases involving the buyer of cheese and other facts, those were actionable as fraud where--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1957.957" stopTime="1963.720">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1957.957" offset="7990619">Mr. Becker says they were interference with a business relationship, not fraud.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="1963.720" stopTime="2006.813">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="1963.720" offset="8013606">--Well, under the law of torts as it has evolved, there are different labels that are applied.</text>
+            <text syncTime="1969.671" offset="8037430">But what was critical is that that conduct, the interference through fraud with a contract of another, was actionable at the common law.</text>
+            <text syncTime="1979.966" offset="8078599">The plaintiff could make out a claim and recover damages, even though the plaintiff had not received the statement at issue and had not relied on the statement at issue.</text>
+            <text syncTime="1990.038" offset="8118932">So that even if, under RICO, you were to look for civil purposes to a common-law analogue, the common law made clear that these kinds of claims were actionable, whatever label might be applied to them today in terms of the nature of the... of the tort.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2006.813" stopTime="2028.242">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2006.813" offset="8186015">One concern, because RICO can be a very broad statute, is that if you are right, then any unsuccessful bidder could look through a rival's submission, find a false statement, and sue under RICO.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="2028.242" stopTime="2069.974">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="2028.242" offset="8271696">Your Honor, I believe that is not true for the reasons this Court set forth in Anza.</text>
+            <text syncTime="2033.037" offset="8290922">The standards set forth in Holmes and in Anza are very rigorous tests to establish proximate cause.</text>
+            <text syncTime="2039.332" offset="8316104">So the merely assertion of falsity by a competitor... I mean, Anza involved a competitor situation.</text>
+            <text syncTime="2045.189" offset="8339510">There the claim was that had been mail fraud that caused the competitor harm.</text>
+            <text syncTime="2051.202" offset="8363543">The Court recognized in Anza that that case was different than Holmes.</text>
+            <text syncTime="2055.542" offset="8380888">There was an allegation of a direct injury in Anza, but nevertheless the relation between the violation and the harm was far less direct than it is in this case, as Judge Easterbrook, Chief Judge Easterbrook explained.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2069.974" stopTime="2096.121">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2069.974" offset="8438671">Why... why is it... I really worry about adopting a rule which would produce the result that whenever anyone makes a false statement in an official form, someone who is deprived of a business opportunity, or at least can say so, can bring a RICO action.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="2096.121" stopTime="2158.376">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="2096.121" offset="8543265">Justice Scalia, I would say two things: First of all, I think it's critical to realize that Congress enacted RICO to protect competitors.</text>
+            <text syncTime="2107.147" offset="8587360">One of the principal motivations behind RICO was to protect legitimate businesses that are injured in their business or property by reason of a pattern of racketeering activity as defined under the statute.</text>
+            <text syncTime="2120.172" offset="8639396">That's number one.</text>
+            <text syncTime="2121.065" offset="8643053">Number two, there are important restrictions that this Court repeatedly has recognized.</text>
+            <text syncTime="2126.498" offset="8664787">It's not enough that there be a single act.</text>
+            <text syncTime="2128.654" offset="8673355">There must be predicate acts that are a pattern of activity.</text>
+            <text syncTime="2131.980" offset="8686625">"Pattern" doesn't just mean two.</text>
+            <text syncTime="2133.279" offset="8691850">It means a continuing threat of continuing criminal activity.</text>
+            <text syncTime="2137.401" offset="8708359">There must be proximate cause under Holmes and Anza.</text>
+            <text syncTime="2140.119" offset="8719226">All of those restrictions exist.</text>
+            <text syncTime="2142.228" offset="8727690">And only if the plaintiff can successfully navigate all of those things, proving not common-law fraud but indictable criminal activity, proving a pattern of continuing criminal activity, proving proximate cause, only then can the plaintiff make out a RICO violation.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2158.376" stopTime="2164.716">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2158.376" offset="8792264">I suppose that every other bidder in this situation is a viable plaintiff.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="2164.716" stopTime="2205.201">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="2164.716" offset="8817655">In this case, we don't submit that we are the only potential plaintiffs.</text>
+            <text syncTime="2169.139" offset="8835314">That there were other bidders... the bidders at these auctions fall into perhaps two different categories.</text>
+            <text syncTime="2174.683" offset="8857466">Many bidders... over 50 percent of all the registered bidders receive fewer than 10 liens.</text>
+            <text syncTime="2180.728" offset="8881603">In other words, they are at the auction to bid on a specific property or small number of properties.</text>
+            <text syncTime="2185.131" offset="8899262">Then there are other what I would call professional tax buyers, who basically do research, identify the most attractive properties, and we will show, are essentially bidding on the same group of properties.</text>
+            <text syncTime="2198.626" offset="8953283">And those are the properties at issue.</text>
+            <text syncTime="2199.983" offset="8958717">Those are the bidders at issue.</text>
+            <text syncTime="2201.875" offset="8966240">It is more than just the Respondents, but it is a relatively small group--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2205.201" stopTime="2220.242">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2205.201" offset="8979510">Well, I suppose in other cases where if we adopt the rule you argue for, that wouldn't be confined at all.</text>
+            <text syncTime="2211.370" offset="9004274">For example, in a situation where a competitor is defrauding a supplier, every competitor no matter how many there were, could bring a RICO action.</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="2220.242" stopTime="2253.680">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="2220.242" offset="9039696">--Well, I think the Court... again, if you look to the Anza case, the Court has made clear that if a RICO defendant takes actions that simply enhance the defendant's own competitive position, which was the allegation in Anza, that that may not be enough to establish proximate cause.</text>
+            <text syncTime="2236.872" offset="9106256">But whereas here the foreseeable and clear effect of defendant's actions is to work a direct injury on competitors and, in fact, on no one else, not on the county, not on the property owners, but only on competitors, that was within the ambit of what Congress sought to protect in RICO.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2253.680" stopTime="2256.086">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2253.680" offset="9173443">Regardless of how many competitors there are?</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="2256.086" stopTime="2283.089">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="2256.086" offset="9183056">Well, yes.</text>
+            <text syncTime="2257.849" offset="9190162">As this Court recognized in Storey Parchment and Hazeltine, in antitrust cases as well as RICO cases, damage issues have to be worked out.</text>
+            <text syncTime="2267.956" offset="9230599">But the fact that there may be multiple bidders that you may have to award damages to a group does not defeat the claim.</text>
+            <text syncTime="2274.935" offset="9258498">The defendant cannot come into court and say because damages here have to be allocated among a larger number of people, you can't establish a claim.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2283.089" stopTime="2295.304">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2283.089" offset="9291099">Is it the law generally in the States that an unsuccessful bidder can sue the successful bidder if the successful bidder misstated qualification?</text>
+          </turn>
+          <turn speaker="david_w_de_bruin" startTime="2295.304" stopTime="2386.080">
+            <label>Mr. David W. DeBruin</label>
+            <text syncTime="2295.304" offset="9340000">Justice Kennedy, the common-law rule actually was, I believe, in 27 of 40 States... this unfortunately came up after the briefing... that a disappointed bidder could bring an action at the common law if the allegation was one of fraud in the procurement.</text>
+            <text syncTime="2313.482" offset="9412620">So that the common law did not provide an absolute bar to claims like this.</text>
+            <text syncTime="2317.919" offset="9430384">Now, again, the issue is: Will the claims satisfy Holmes and Anza?</text>
+            <text syncTime="2322.681" offset="9449505">There is no argument here that that standard, the framework this Court established first in Holmes and then applied in Anza, that that framework is inadequate, that it produces an anomalous result here or will produce an anomalous result in other cases.</text>
+            <text syncTime="2335.788" offset="9501855">It's a very rigorous test.</text>
+            <text syncTime="2337.566" offset="9508960">This Court looked at directness; it looked to the suitability of other plaintiffs; it looked to whether the harm was derivative.</text>
+            <text syncTime="2343.455" offset="9532575">That's a quintessential proximate cause analysis.</text>
+            <text syncTime="2346.578" offset="9545009">Proximate cause is, historically through the common law, a very fact-based intensive test.</text>
+            <text syncTime="2352.451" offset="9568519">But the Court has made clear that the ability of the RICO plaintiff to overcome that test, it's a significant showing that must be met.</text>
+            <text syncTime="2360.542" offset="9600911">Chief Judge Easterbrook, in this case, went through the Anza factors very methodically.</text>
+            <text syncTime="2365.557" offset="9620973">He showed that, under each factor, proximate cause clearly can be met under the common law.</text>
+            <text syncTime="2371.273" offset="9643856">The Respondents were directly injured in a significant and substantial way, and that is sufficient, I submit, to make out the elements of the RICO claim, assuming all the other elements are also met.</text>
+            <text syncTime="2381.283" offset="9683876">If there are no further questions, thank you.</text>
+          </turn>
+        </section>
+        <section startTime="2386.080" stopTime="2874.232">
+          <heading>Argument of Eric D. Miller</heading>
+          <turn speaker="john_g_roberts_jr" startTime="2386.080" stopTime="2395.418">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2386.080" offset="9703102">Thank you, Mr. DeBruin.</text>
+            <text syncTime="2387.344" offset="9708117">Mr. Miller?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="2395.418" stopTime="2447.099">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="2395.418" offset="9740405">Mr. Chief Justice, and may it please the Court: RICO provides a cause of action to plaintiffs who have suffered injuries by reason of, that is, proximately caused by, a RICO violation.</text>
+            <text syncTime="2406.556" offset="9784917">Now, when the RICO violation is predicated on an act of mail fraud, the plaintiff ordinarily will need to show that somebody relied on the false statements in order to establish that the fraud was even a "but for" cause of injury.</text>
+            <text syncTime="2418.114" offset="9831206">A plaintiff who can establish that it was the one who relied on the false statements would be able to show proximate causation.</text>
+            <text syncTime="2424.845" offset="9858165">But that's not the only way to establish proximate causation, and there is no basis for this... for the imposition of a per se rule requiring that the plaintiff be the one who has relied.</text>
+            <text syncTime="2435.339" offset="9900065">Instead when a defendant creates a scheme to defraud that induces reliance by one party in order to injure another party, the injured party should have a cause of action under--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2447.099" stopTime="2455.468">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2447.099" offset="9947190">What is the answer to Justice Kennedy's question with respect to Federal Government contracts, can disappointed bidders sue in that situation?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="2455.468" stopTime="2503.420">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="2455.468" offset="9980627">--My understanding is that the case has established that they can.</text>
+            <text syncTime="2460.062" offset="9999017">Again, since this came up after the briefing, one illustrative example is in the Eighth Circuit, Iconco against Jensen Construction Company, which is 622 F. 2d 1291.</text>
+            <text syncTime="2475.272" offset="10059830">In that case, it was a contract that was set aside for small businesses, and the company got the contract by falsely claiming to be a small business.</text>
+            <text syncTime="2484.582" offset="10097028">And then in a diversity case applying Iowa law, the Eighth Circuit held that the disappointed bidder could bring an action for fraud and unjust enrichment against the successful bidder.</text>
+            <text syncTime="2495.609" offset="10141228">So I think that... and that's of a piece with the long common-law tradition, going back to cases like Rice against Manley, where--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2503.420" stopTime="2506.372">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2503.420" offset="10172470">But what if there are 50 disappointed bidders?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="2506.372" stopTime="2523.237">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="2506.372" offset="10184277">--Well, it would be the burden of the plaintiff to establish that, but for the fraud, it would have gotten the contract.</text>
+            <text syncTime="2516.210" offset="10223566">So in most cases of contracting, that's going to be very difficult for a plaintiff to show.</text>
+            <text syncTime="2522.785" offset="10249897">This--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2523.237" stopTime="2523.737">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2523.237" offset="10251673">Wait.</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="2523.737" stopTime="2524.457">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="2523.737" offset="10253659">--is somewhat usual.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2524.457" stopTime="2571.220">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2524.457" offset="10256584">Why couldn't you show... why couldn't... that's like the situation where a company runs a... runs a lottery and in fact misrepresents what the odds are.</text>
+            <text syncTime="2540.372" offset="10320219">And then you mean the people can't recover because they couldn't show that they would have won?</text>
+            <text syncTime="2545.168" offset="10339445">It seems to me you can calculate the difference in the odds or something and place some value on that.</text>
+            <text syncTime="2553.037" offset="10370896">Is it really painless to say, you know, I'm running a lottery and your chances of winning are one in a thousand, and everybody buys a ticket on that basis, and it turns out that really your chances are one in a million?</text>
+            <text syncTime="2566.861" offset="10426171">Nobody has a cause of action because nobody can prove he would have won?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="2571.220" stopTime="2579.075">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="2571.220" offset="10443621">No, the participants in the lottery in that case would have a cause of action because they have paid money to the person running the lottery.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2579.075" stopTime="2582.604">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2579.075" offset="10475073">That's all they can get?</text>
+            <text syncTime="2580.607" offset="10481133">Just what they paid for the ticket?</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="2582.604" stopTime="2684.813">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="2582.604" offset="10489179">I think... I think the... the common-law measure of damages would be... would be what they paid in that situation.</text>
+            <text syncTime="2593.693" offset="10533482">But certainly the recovery for disappointed bidders in cases like this, does have a long common-law tradition, and with the more modern elaboration of tort law, as demonstrated by the secondary statement, it has sometimes been given a different label, and that is either "injurious falsehood" or</text>
+            <text syncTime="2613.016" offset="10610805">"intentional interference with a prospective contractual relation. "</text>
+            <text syncTime="2616.155" offset="10623344">but at its heart, the action that's at issue here is one that's for fraud.</text>
+            <text syncTime="2622.386" offset="10648317">But I would like to say in response to some of Justice Alito's questions that, with respect to the Beck case and the relevance of it, that ultimately in our view it doesn't really matter whether the common law would have allowed recovery in this case, and that's because, unlike in Beck where the Court had to consider what is the meaning of... what does it mean to be injured by reason of a conspiracy?</text>
+            <text syncTime="2649.062" offset="10755001">And the Court answered that question by looking at the common law of civil conspiracy.</text>
+            <text syncTime="2653.309" offset="10771928">That mode of analysis would be appropriate here if the relevant predicate under 1961 were fraud or any conduct involving fraud or otherwise made reference to common-law fraud.</text>
+            <text syncTime="2665.710" offset="10821561">But, of course, 1961 does not say that; it says</text>
+            <text syncTime="2668.603" offset="10833159">"any act which is indictable under section 1341. "</text>
+            <text syncTime="2672.038" offset="10846847">the mail fraud statute.</text>
+            <text syncTime="2673.504" offset="10852803">So under... given the structure of the statute, the only inquiry is: Is the injury incurred by reason of an act which is indictable under 1341?</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="2684.813" stopTime="2707.150">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="2684.813" offset="10898047">But the RICO statute doesn't say you can recover if you're injured by reason of conspiracy, without any elaboration.</text>
+            <text syncTime="2692.514" offset="10928767">It says</text>
+            <text syncTime="2693.014" offset="10930753">"by reason of a violation of this statute. "</text>
+            <text syncTime="2696.356" offset="10944127">And therefore you look to 1962(d), which tells you what the violation is.</text>
+            <text syncTime="2702.010" offset="10966802">It's a RICO... it's a criminal RICO conspiracy.</text>
+            <text syncTime="2705.087" offset="10979131">So I just don't see how that argument works.</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="2707.150" stopTime="2754.314">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="2707.150" offset="10987386">Well, 1964(c) refers you, as you noted, to 1962, which simply says "conspiracy".</text>
+            <text syncTime="2717.269" offset="11027824">And so the Court in Beck explained that to figure out how you tell when someone has been injured by civil conspiracy, there is a body of law, the common law, that answers that question.</text>
+            <text syncTime="2731.326" offset="11084039">There is no corresponding common-law principle of what it means to be injured by an act of mail fraud because there is no common law of mail fraud per se; it's a statutory creation.</text>
+            <text syncTime="2742.776" offset="11129806">And so the relevant inquiry is simply: Did the conduct violate the mail fraud statute, section 1341?</text>
+            <text syncTime="2750.614" offset="11161153">Not was it common law fraud?</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2754.314" stopTime="2795.174">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2754.314" offset="11175990">Well, I don't think it's because there's no common-law equivalent.</text>
+            <text syncTime="2757.737" offset="11189678">I think it's simply because the word 19... under 1962(c).</text>
+            <text syncTime="2768.762" offset="11233773">"It shall be unlawful for any person to conspire. "</text>
+            <text syncTime="2772.747" offset="11249760">And we have to interpret the word "conspire", and we say we give it its common-law meaning; whereas, for a violation of the general racketeering statute, there's... there's no equivalent reference to a word that we have to give content to.</text>
+            <text syncTime="2791.863" offset="11326246">It just says... unless it's the word "indictable".</text>
+          </turn>
+          <turn speaker="eric_d_miller" startTime="2795.174" stopTime="2874.232">
+            <label>Mr. Eric D. Miller</label>
+            <text syncTime="2795.174" offset="11339412">No.</text>
+            <text syncTime="2797.688" offset="11349443">I think that's right.</text>
+            <text syncTime="2799.202" offset="11355504">And certainly the 1964, it does refer to the common-law requirements of proximate cause.</text>
+            <text syncTime="2809.964" offset="11398553">But that... that language... 1961.</text>
+            <text syncTime="2821.050" offset="11442962">And in the context of many of those acts, reliance would be completely inappropriate.</text>
+            <text syncTime="2826.751" offset="11465740">I would also like to point out that I think the conduct that is alleged here really does go to the core of what RICO is intended to redress.</text>
+            <text syncTime="2841.620" offset="11525195">Congress made clear, in the finding that accompanied the statute, that one of its principal concerns was that criminal enterprises could use illegal means to compete unfairly with legitimate businesses.</text>
+            <text syncTime="2851.540" offset="11564901">And so if a business... a criminal business were to use threats of violence directed at its competitor's customers to get them to switch their business to it, the competitor would have a cause of action for that.</text>
+            <text syncTime="2863.488" offset="11612653">And then the same should be true, we submit, if the business uses fraud directed at its competitor's customers to induce them to switch their business.</text>
+            <text syncTime="2872.656" offset="11649329">If there are no further questions.</text>
+          </turn>
+        </section>
+        <section startTime="2874.232" stopTime="3364.493">
+          <heading>Rebuttal of Theodore M. Becker</heading>
+          <turn speaker="john_g_roberts_jr" startTime="2874.232" stopTime="2880.810">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2874.232" offset="11655703">Thank you, Mr. Miller.</text>
+            <text syncTime="2875.967" offset="11662599">Mr. Becker, 10 minutes remaining.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="2880.810" stopTime="3029.670">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="2880.810" offset="11682034">Thank you.</text>
+            <text syncTime="2881.980" offset="11686632">The difference between this case and what Congress intended is that, yes, in the comments to the enactment of RICO, Congress did say that it was trying to protect legitimate competitors from illegitimate conduct or unlawful conduct.</text>
+            <text syncTime="2902.300" offset="11767925">This case has now morphed into a situation where competitors are using RICO as an anticompetitive device, and that's what we believe the reliance requirement will... will at least rein in, totally consistent with the common law.</text>
+            <text syncTime="2917.949" offset="11830514">We are not asking this Court to impose any requirement on RICO that does not already exist by reason of the common-law meaning rule.</text>
+            <text syncTime="2929.008" offset="11874818">Actually, we believe our opponents and the S.G. are asking this Court to expand RICO by unmooring it from the common law.</text>
+            <text syncTime="2937.693" offset="11909508">We believe that Beck versus Prubis is exactly the same situation and the same analysis.</text>
+            <text syncTime="2944.797" offset="11937930">Although 1962(d), which is a substantive conspiracy violation of RICO, was at issue in Beck versus Prupis, you get to the same situation just as an extra step.</text>
+            <text syncTime="2959.510" offset="11996757">Here's the... here's the analysis.</text>
+            <text syncTime="2962.119" offset="12007206">You look to 19... they have a conspiracy count of course.</text>
+            <text syncTime="2964.743" offset="12017760">But you look to 1962(c), and it says that</text>
+            <text syncTime="2967.945" offset="12030508">"any person injured by reason of. "</text>
+            <text syncTime="2970.881" offset="12042315">--if you read in 1964(c) to it... by reason of a RICO violation or a... or a racketeering activity</text>
+            <text syncTime="2979.394" offset="12076274">"shall have a cause of action. "</text>
+            <text syncTime="2981.831" offset="12086096">Now, you look to racketeering activity in 1961, and that has a hundred and something predicate acts, one of which is mail fraud.</text>
+            <text syncTime="2989.626" offset="12117234">You look at mail fraud, and it says "a scheme to defraud".</text>
+            <text syncTime="2992.952" offset="12130504">It uses the word "defraud".</text>
+            <text syncTime="2994.558" offset="12136983">What does that mean?</text>
+            <text syncTime="2996.294" offset="12143879">It's the same place; you just... you just need to take one more step to get there, but it's the same place the Court found itself, we submit, in Beck versus Prupis.</text>
+            <text syncTime="3005.243" offset="12179719">If criminal conspiracy means the same thing as civil conspiracy, Beck versus Prupis would not... the Court would not have held what it did in Beck versus Prupis.</text>
+            <text syncTime="3015.083" offset="12219112">And if mail fraud only means an indictable offense and nothing more under the criminal law, it should be the same as the civil law, then there would be no common-law meaning rule.</text>
+            <text syncTime="3028.406" offset="12272402">To apply the common-law--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3029.670" stopTime="3076.542">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3029.670" offset="12277417">Isn't... isn't the weakness of the argument that you're, in effect, dividing mail and fraud?</text>
+            <text syncTime="3037.309" offset="12307928">You're saying there are two requirements, and therefore, fraud here is just like conspiracy in Beck.</text>
+            <text syncTime="3045.162" offset="12339379">But in fact, mail fraud is... is a single term of art.</text>
+            <text syncTime="3050.755" offset="12361740">It refers simply to a criminal violation for which there... there is no exact civil counterpart.</text>
+            <text syncTime="3061.019" offset="12402805">And so, if you take mail fraud as being a unified term of art, then it seems to me that your argument falls apart, because you can't treat the fraud in the mail fraud the way you treated the conspiracy standing alone in Beck.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="3076.542" stopTime="3101.063">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="3076.542" offset="12464872">--Justice Souter, we respectfully disagree and refer the Court to Field versus Mans, where it was bankruptcy fraud.</text>
+            <text syncTime="3083.179" offset="12491412">And I believe... the exact same thing.</text>
+            <text syncTime="3085.757" offset="12501757">What does bankruptcy mean?</text>
+            <text syncTime="3087.647" offset="12509280">What does mail fraud mean?</text>
+            <text syncTime="3089.114" offset="12515236">Well, they looked to... the Court looked to the common law meaning rule, and looked to the elements you need for fraud in order to determine what has to be proved for bankruptcy fraud.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3101.063" stopTime="3108.732">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3101.063" offset="12562988">But there was no definition of bankruptcy fraud as a separate definition, was there?</text>
+            <text syncTime="3106.669" offset="12585453">Whereas in mail fraud, we know what it means.</text>
+          </turn>
+          <turn speaker="theodore_m_becker" startTime="3108.732" stopTime="3362.933">
+            <label>Mr. Theodore M. Becker</label>
+            <text syncTime="3108.732" offset="12593708">Not from the statute we don't, Justice Souter.</text>
+            <text syncTime="3111.263" offset="12603843">There is no definition of mail fraud in the statute.</text>
+            <text syncTime="3113.634" offset="12613247">The only reason we know what it means is because the Court has construed it over the years.</text>
+            <text syncTime="3118.867" offset="12634250">In order to construe it now in a civil context, we are asking the Court to apply the common law meaning rule because that's... the analog is fraud; that's the obvious source to look to the common law.</text>
+            <text syncTime="3130.800" offset="12681897">If I may I'd like to make a few other points.</text>
+            <text syncTime="3133.954" offset="12694540">First of all, I cannot leave this podium and leave this Court under the impression that there is directness of injury.</text>
+            <text syncTime="3141.266" offset="12723797">There are 195 bidders.</text>
+            <text syncTime="3143.905" offset="12734351">The plaintiffs themselves alleged this in paragraph 46, our joint appendix 20 and 21.</text>
+            <text syncTime="3150.620" offset="12761205">Without belaboring it, the last few pages of our reply brief show all of the things that would have to be shown in order to have even... even a remote directness of injury in this case.</text>
+            <text syncTime="3164.787" offset="12817943">So the... we have not... we have not in any way conceded that the requirements of Anza or Holmes have been met.</text>
+            <text syncTime="3173.207" offset="12851588">And... but I think our brief adequately deals with that.</text>
+            <text syncTime="3177.781" offset="12869874">I'd also like to point out that RICO and mail fraud don't reach everything actionable at common law.</text>
+            <text syncTime="3186.044" offset="12902893">I mean, if there was an argument, that would mean that civil RICO in every case involving a false statement... every case involving a false statement, no matter to whom it's made, would be a civil RICO case.</text>
+            <text syncTime="3198.007" offset="12950749">The general idea of protecting competitors doesn't mean that Congress provided that anything that anyone says to anybody violates civil RICO.</text>
+            <text syncTime="3208.112" offset="12991187">That's not the way that this Court interprets statutes; and there is no allegation in the complaint at all as... that the rotational basis applies only when bids are at zero percent.</text>
+            <text syncTime="3219.901" offset="13038312">In the year 2000 the Illinois Supreme Court confronted the same plaintiff in this case, Phoenix Bond, challenging a very similar rule because at that point in time there was collusion including the same plaintiff to keep the penalty rate at 18 percent.</text>
+            <text syncTime="3234.989" offset="13098707">And the Illinois Supreme Court said the rule will... is something that the treasurer has the right to make to try to regulate the bids, and the treasurer certainly can be a victim of this situation.</text>
+            <text syncTime="3247.669" offset="13149384">If the bid is not perceived as fair, the treasurer will not have enough bidders in order to sell all the bids, and therefore, the county will not be paid the unpaid taxes.</text>
+            <text syncTime="3258.510" offset="13192748">If the treasurer thought that there really was a misrepresentation here made by the Petitioners, the treasurer would have a very great incentive and a very great state in enforcing this rule; and the treasurer did not, we believe because the treasurer doesn't believe there is any violation.</text>
+            <text syncTime="3276.187" offset="13263487">The... the other ways that the county could be injured are that if the... if the penalty rate goes up beyond zero percent, there is no guarantee that the same number of bidders will... will come to the sale.</text>
+            <text syncTime="3294.261" offset="13335794">There... I also want to refer the Court to other... this is not new.</text>
+            <text syncTime="3302.006" offset="13366723">In Safeco Insurance just recently, last term, the Court asked... was asked to define the term "willfulness" in a civil liability provision of the Fair Credit Reporting Act, and the Court observed that there is different meanings in the civil and criminal law to the term "willfulness".</text>
+            <text syncTime="3319.655" offset="13437358">In Farmer versus Brennan the Court recognized different uses of the term "recklessness" in the civil and criminal contexts.</text>
+            <text syncTime="3327.277" offset="13467869">So once again we are asking this Court to rule consistent with the common law meaning rule that the... a civil RICO action predicated on mail fraud, where one is... it has to fulfill the requirement that you have been... the plaintiff has been injured by reason of mail fraud or racketeering activity.</text>
+            <text syncTime="3349.908" offset="13558357">The plaintiff must rely on a misrepresentation or the fraud directly, because that's the essence of civil fraud.</text>
+            <text syncTime="3359.466" offset="13596601">If there are no further questions.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3362.933" stopTime="3364.493">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3362.933" offset="13610498">Thank you, Counsel.</text>
+            <text syncTime="3363.588" offset="13613110">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

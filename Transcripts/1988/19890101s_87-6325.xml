@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1989-01-01</transcribed>
+        <identified user="tschaefer">2012-06-26</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T13:54:06" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="387052">/xml/cases/1988/87_6325/19890101o_87-6325.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1988/87-6325_19890101-opinion.xml</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="75.128">
+        <title>Perry v. Leeke</title>
+        <section startTime="0.000" stopTime="8.715">
+          <heading>Announcement of Chief Justice Rehnquist</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.715">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="86539">The opinion of the Court in No. 87-6325, Perry against Leeke will be announced by Justice Stevens.</text>
+          </turn>
+        </section>
+        <section startTime="8.715" stopTime="75.128">
+          <heading>Announcement of Justice Stevens</heading>
+          <turn speaker="john_paul_stevens" startTime="8.715" stopTime="75.128">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="8.715" offset="121334">At the conclusion of petitioner’s direct testimony in his criminal trial, the judge declared a 15-minute recess and ordered the petitioner not be allowed to talk to anyone including his lawyer during the break.</text>
+            <text syncTime="23.194" offset="179221">The United States Court of Appeals for the Fourth Circuit held that this order violated petitioner’s Sixth Amendment right to the assistance of counsel, but it also held that the conviction should stand because the order did not prejudice the petitioner.</text>
+            <text syncTime="36.771" offset="233556">We disagree with the Fourth Circuit’s prejudice analysis.</text>
+            <text syncTime="40.234" offset="247453">If a criminal defendant’s Sixth Amendment right to assistance of counsel has been violated because of a denial of access to counsel, then a conviction must be reversed without consideration of prejudice.</text>
+            <text syncTime="51.544" offset="292697">However, we also hold that in this case, the denial of access to counsel during the 15-minute recess before cross-examination did not violate the Sixth Amendment.</text>
+            <text syncTime="61.942" offset="334284">Accordingly, we affirm the judgment of the Court of Appeals.</text>
+            <text syncTime="65.303" offset="347659">Justice Kennedy has filed an opinion concurring in part; Justice Marshall has filed a dissenting opinion which is joined by Justice Brennan and Justice Blackmun.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

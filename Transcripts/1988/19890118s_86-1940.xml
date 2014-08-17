@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1989-01-18</transcribed>
+        <identified user="jgoldman">2012-06-13</identified>
+        <identified user="jgoldman">2012-06-25</identified>
+        <edit user="jgoldman" date="2012-06-25T05:45:26" startTime="7.674" oldSpeaker="john_marshall" newSpeaker="thurgood_marshall"/>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T13:52:39" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="317474">/xml/cases/1988/86_1940/19890118o_86-1940.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1988/86-1940_19890118-opinion.xml</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="57.730">
+        <title>Sheet Metal Workers International Assn. v. Lynn</title>
+        <section startTime="0.000" stopTime="7.639">
+          <heading>Announcement of Chief Justice Rehnquist</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.639">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="86552">The opinion of the Court in number 86-1940, Sheet Metal Workers versus Lynn will be announced by Justice Marshall.</text>
+          </turn>
+        </section>
+        <section startTime="7.639" stopTime="57.730">
+          <heading>Announcement of Justice Marshall</heading>
+          <turn speaker="thurgood_marshall" startTime="7.639" stopTime="57.730">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="7.639" offset="117063">This case is here on writ of certiorari to the Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="13.995" offset="142454">In an Opinion filed with the clerk today, we hold that the removal of an elected Union official in retaliation for statements he made at a Union meeting in opposition to a deuced increase sought by a Union trustee violated the Labor Management Reporting and Disclosed Act 1959.</text>
+            <text syncTime="44.034" offset="262617">The Court of Appeals? judgment is, thereby, affirmed.</text>
+            <text syncTime="47.591" offset="276828">Justice White has filed an opinion concurring in the judgment.</text>
+            <text syncTime="51.981" offset="294382">Justice Kennedy took no part in the consideration or decision of this case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

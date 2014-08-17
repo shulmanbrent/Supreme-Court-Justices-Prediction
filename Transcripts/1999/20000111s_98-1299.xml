@@ -1,0 +1,51 @@
+<transcript verified="true">
+      <history>
+        <transcribed>2000-01-11</transcribed>
+        <edit user="dleib" date="2012-08-05T20:34:16" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <identified user="dleib">2012-08-05</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:58:44" startTime="0.000" oldSpeaker="antonin_scalia" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="951193">/xml/cases/1999/98_1299/20000111o_98-1299.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1999/98-1299_20000111-opinion.xml</sourceFile>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="216.738">
+        <title>New York v. Hill</title>
+        <section startTime="0.000" stopTime="7.128">
+          <heading>Announcement of Justice Scalia</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.128">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="84241">The opinion of the court number in 98-1299, New York against Hill will be announced by Justice Scalia.</text>
+          </turn>
+        </section>
+        <section startTime="7.128" stopTime="216.738">
+          <heading>Announcement of Justice Scalia</heading>
+          <turn speaker="antonin_scalia" startTime="7.128" stopTime="216.738">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="7.128" offset="112662">This case comes to us on certiorari from the New York Court of Appeals.</text>
+            <text syncTime="11.972" offset="132097">A multi-state compact called the Interstate Agreement on Detainers permits a state agency which intends to file criminal charges against an individual serving a sentence in another state to lodge what is called a detainer against the prisoner.</text>
+            <text syncTime="28.946" offset="200016">This is simply a request to the institution in which the prisoner is housed, hold the prisoner for the out of state agency or notify that agency when the prisoner’s release is eminent.</text>
+            <text syncTime="40.906" offset="247768">The IAD provides that if a prisoner against whom a detainer has been lodged files a so called request for final disposition, he must be brought to trial on the charges giving rise to the detainer within 180 days and if that time limit is not observed, the charges must be dismissed with prejudice.</text>
+            <text syncTime="62.318" offset="333449">Here the petitioner, New York State, lodged a detainer against respondent Hill, an Ohio prisoner.</text>
+            <text syncTime="68.571" offset="358422">Hill filed a request for final disposition and was returned to New York to face robbery and murder charges.</text>
+            <text syncTime="75.857" offset="387575">When prosecution and defense counsel met with the court to set a trial date, Hill’s attorney agreed to a date outside the 180-day period.</text>
+            <text syncTime="86.335" offset="429580">After the 180-day period had expired, Hill moved to dismiss the indictment.</text>
+            <text syncTime="92.288" offset="453299">Although the Trial Court and the New York Appellate Division concluded that counsel’s agreement to the later date waived the IAD’s time limits, the New York Court of Appeals found no waiver and accordingly reversed the respondent’s convictions and ordered the charges dismissed with prejudice.</text>
+            <text syncTime="109.357" offset="521635">We reverse.</text>
+            <text syncTime="110.868" offset="527696">Although the IAD does not expressly discuss waiver of the rights that it confers the availability of waiver is generally presumed, absent affirmative indication to the contrary, which is not present here.</text>
+            <text syncTime="123.628" offset="578687">We conclude that defense counsel’s agreement to the trial date is adequate to affect waiver without the necessity of obtaining the personal agreement of the defendant himself.</text>
+            <text syncTime="133.487" offset="618184">Only defense counsel can determine whether the defense would be ready to proceed earlier than the date suggested and requiring the defendant’s personal assent for routine scheduling matter such as this would consume time to know apparent purpose.</text>
+            <text syncTime="147.811" offset="675444">Respondent argues that because prompt resolution of detainers benefits not only the defendant but society generally, waiver cannot be allowed, but we have never suggested that any personal right which also benefits society is unwaivable, and such a suggestion would contradict some of our cases.</text>
+            <text syncTime="167.586" offset="754543">In validating the waiver because of society suppose interest in prompt resolution would be particularly inappropriate here given that the IAD’s time limits do not even apply unless the prisoner or the detaining state files a request for final disposition.</text>
+            <text syncTime="184.825" offset="823506">The New York Court of Appeals’ conclusion that there was no waiver was based on the fact that the defense did not “affirmatively request” an untimely trial date.</text>
+            <text syncTime="196.511" offset="870213">But nothing in the IAD suggests a distinction between waiver proposed and waiver agreed to.</text>
+            <text syncTime="202.721" offset="895082">In light of its potential for abuse and given the harsh remedy of dismissal with prejudice, we decline to adopt such a distinction and find a valid waiver here.</text>
+            <text syncTime="213.574" offset="938445">The Court’s opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

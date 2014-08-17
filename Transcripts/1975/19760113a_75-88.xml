@@ -1,0 +1,744 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-29</verified>
+      </history>
+      <resources>
+        <audioFile size="11107088">/xml/cases/1975/75_88/19760113a_75-88.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1975/trs/75-88_19760113.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="keith_a_jones" type="advocate" gender="male" path="/advocates/kj/keith_a_jones" image="/advocates/kj/keith_a_jones/thumbnail.jpg">Keith A. Jones</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="c_christopher_brown" type="advocate" gender="male" path="/advocates/cb/c_christopher_brown" image="/advocates/cb/c_christopher_brown/thumbnail.jpg">C. Christopher Brown</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="2750.857">
+        <title>Mathews v. Lucas</title>
+        <section startTime="0.000" stopTime="1582.772" revised="2014-01-21">
+          <heading>Argument of Keith A. Jones</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="13.570">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="103349">We will hear next Matthews against Lucas.</text>
+            <text syncTime="4.793" offset="122471">Mr. Jones?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="13.570" stopTime="277.654">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="13.570" offset="157579">Mr. Chief Justice and may it please the Court.</text>
+            <text syncTime="16.520" offset="169387">This case like the one just argued, arises from the Secretary’s denial of Insurance, Child’s Insurance Benefits, to the illegitimate children of a deceased wage earner, on the ground that the wage earner had not been supporting or living with the children at the time of his death.</text>
+            <text syncTime="34.840" offset="242634">In this case, however, the claimants brought suit for review only of the Secretary’s specific denial of benefits to them.</text>
+            <text syncTime="41.703" offset="270115">It did not request either injunctive or class relief.</text>
+            <text syncTime="45.280" offset="284430">The District Court sustained the Secretary’s findings supported by substantial evidence, but nevertheless reversed without issuing injunction, the denial of benefits on the ground that the statutory eligibility requirement of support of co-residence, denied illegitimate children due process under the Fifth Amendment.</text>
+            <text syncTime="64.135" offset="359871">Since in so holding, the District Court held a statute of -- held an Active Congress unconstitutional.</text>
+            <text syncTime="69.545" offset="381501">This Court plainly has jurisdiction under Section 1252 of the Judicial Code.</text>
+            <text syncTime="76.116" offset="407728">Proper analysis of this case requires a full understanding of the statutory scheme for the distribution of Child’s Insurance Benefits.</text>
+            <text syncTime="85.290" offset="444508">The formal linchpin of that scheme is dependency.</text>
+            <text syncTime="89.159" offset="459973">Under Section 202 (d) (1) (c) of the Social Security Act, payment of Child’s Insurance Benefits are made only on behalf of the dependent children or disabled, retired or deceased wage earners.</text>
+            <text syncTime="103.750" offset="518278">However, the Act presumes dependency as a matter of law for most children.</text>
+            <text syncTime="108.544" offset="537504">As to legitimate children, the Act presumes dependency if the child is not been adopted by another wage earner.</text>
+            <text syncTime="116.626" offset="569791">Dependency is also presumed with regard to four categories of illegitimate children.</text>
+            <text syncTime="121.533" offset="589436">First, children whose parents went through a marriage ceremony that was rendered invalid by non-obviously legal impediment.</text>
+            <text syncTime="128.928" offset="619006">Second, children whose father had knowledge paternity in writing.</text>
+            <text syncTime="133.307" offset="636560">Third, children whose father’s paternity was decreed by court and fourth, children whose father was ordered by a court to contribute to their support.</text>
+            <text syncTime="144.418" offset="680969">Dependency is not presumed with regard to other illegitimate children or to legitimate children who are illegitimate adopted children seeking benefits on behalf of their natural parents’ Social Security Account.</text>
+            <text syncTime="158.748" offset="738333">In order to be entitled to Child's Insurance Benefits, these latter categories of children must prove that the wage earner was in fact their father and also that their father was living with or contributing to their support at the time of death.</text>
+            <text syncTime="172.617" offset="793713">Now, it is a constitutional validity of this statutory classification that is at issue in this case.</text>
+            <text syncTime="178.971" offset="819209">The appellees here, the Lucas children, are children that must prove dependency as a condition of eligibility for Child’s Insurance Benefits under the Act and they challenge that requirement as a denial of due process under the Fifth Amendment.</text>
+            <text syncTime="193.578" offset="877618">At the out set of this case, it is necessary to address the question of the appropriate standard of review, and with the Courts indulgence, I propose to approach this question in a largely philosophical manner.</text>
+            <text syncTime="211.192" offset="948045">The briefs in both this and the preceding case, the Norton case, proceed upon the premise that the two-tiered equal protection analysis that evolved in the late 1960s still governs the adjudication of equal protection cases and upon reflection, I have concluded that this premise is probably erroneous.</text>
+            <text syncTime="233.469" offset="1037174">This Court appears in large part too have abandoned the two-tiered equal protection analysis and I think for good reasons.</text>
+            <text syncTime="242.887" offset="1074895">The development of a two-tiered equal protection analysis appears to have been an interim judicial response to the perceived failure of the traditional rational basis test, sufficiently to protect certain disadvantaged groups and to vindicate certain important interests.</text>
+            <text syncTime="260.798" offset="1146471">And this Court determined that statutes adversely affecting such groups or impinging upon such interests would be subjected to very close judicial scrutiny and would be sustained only if they satisfied or served a compelling governmental interest.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="277.654" stopTime="281.480">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="277.654" offset="1213867">You happen to know where that phrase was first used?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="281.480" stopTime="284.778">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="281.480" offset="1229227">Compelling governmental interest?</text>
+            <text syncTime="283.723" offset="1238213">No, but I think --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="284.778" stopTime="290.590">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="284.778" offset="1242392">The Cramer case which was in 1969, would that be right?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="290.590" stopTime="292.700">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="290.590" offset="1265693">I am not sure of the date.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="292.700" stopTime="301.454">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="292.700" offset="1274053">Okay.</text>
+            <text syncTime="293.198" offset="1276038">The voting rights case in New York, the voting disqualification case, however, go ahead I think I am correct in that.</text>
+            <text syncTime="299.878" offset="1302787">It was just used as phrase and --</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="301.454" stopTime="301.793">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="301.454" offset="1309161">That is correct.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="301.793" stopTime="302.894">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="301.793" offset="1310520">Not as the doctrine?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="302.894" stopTime="303.892">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="302.894" offset="1314908">But it became one, I think.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="303.892" stopTime="308.615">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="303.892" offset="1318879">That is right.</text>
+            <text syncTime="304.473" offset="1321178">That is what happens to phrases.</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="308.615" stopTime="366.345">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="308.615" offset="1337791">But other classifications continued to be reviewed under the traditional rational basis test which required only a minimal showing of rationality.</text>
+            <text syncTime="317.843" offset="1374676">And this two-tiered approached had a lot of obvious difficulties to it.</text>
+            <text syncTime="324.238" offset="1400276">One of these was in knowing to which tier a particular case belonged.</text>
+            <text syncTime="329.244" offset="1420234">Outside the area of race, there appear to be no available constitutional standards for defining suspectness, that is for selecting a groups with respect to whom statutory classifications would be considered inherently suspect.</text>
+            <text syncTime="345.240" offset="1484286">Similarly, there are few, if any, constitutional guide posts for determining what interests are so important as to be fundamental.</text>
+            <text syncTime="353.627" offset="1517827">Another difficulty with the two-tier analysis is that it is never been easy to articulate an adequate constitutional justification for the dramatic gap that existed between the two levels of equal protection review.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="366.345" stopTime="376.476">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="366.345" offset="1568714">You do not take the Caroline Products putting all this as an article of faith then? [Laughter]</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="376.476" stopTime="379.917">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="376.476" offset="1609151">In what sense an article of faith, Mr. Justice Rehnquist?</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="379.917" stopTime="387.206">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="379.917" offset="1622944">Well, you do not believe that it has the stature of being bodily incorporated into the constitution?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="387.206" stopTime="391.721">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="387.206" offset="1652097">The footnote in the Caroline Products case?</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="391.721" stopTime="400.890">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="391.721" offset="1670173">It was not an equal protection footnote of the First Amendment --</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="400.890" stopTime="408.790">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="400.890" offset="1706849">It would be of assistance to counsel [Laughter].</text>
+            <text syncTime="405.164" offset="1723986">If these cryptic comments could be made more explicit.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="408.790" stopTime="413.245">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="408.790" offset="1738405">I withdraw my question.[Laughter]</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="413.245" stopTime="500.934">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="413.245" offset="1756273">At any rate, with consideration such as those I have just indicated in mind, to perhaps in mind, the court has it seems to me perceptively and gradually altered its approach to equal protection cases.</text>
+            <text syncTime="426.319" offset="1808622">First, in the recent past, it has resisted attempts by litigants to add new classifications to the suspect list of a higher tier.</text>
+            <text syncTime="435.629" offset="1845821">But secondly and perhaps more importantly, in many putatively lower tier cases, the court has departed from the traditional rational basis test by requiring a more persuasive showing than in the past; that the means chosen by the legislature serve an actual and permissible legislative objective.</text>
+            <text syncTime="454.023" offset="1919382">In particular, this stronger showing has been required for the challenged statutory classification, defined the class in such a manner as to create the suspicion that the legislature may have been discriminating against it, against the class without just cause.</text>
+            <text syncTime="469.563" offset="1981553">In this latter development of a stricter irrational basis standard of review, in large part has rendered the two-tier analysis obsolete.</text>
+            <text syncTime="479.369" offset="2020737">Accordingly, I think it is unrealistic for the appellees here to insist upon a compelling governmental interest standard of review.</text>
+            <text syncTime="488.443" offset="2057099">But the same token since this case concededly involves a class of individuals that historically has been subjected to social obliquely and to invidious treatment by state legislatures.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="500.934" stopTime="503.849">
+            <label>Unknown Speaker</label>
+            <text syncTime="500.934" offset="2107045">But it has no (Inaudible)</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="503.849" stopTime="519.469">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="503.849" offset="2118644">That is correct.</text>
+            <text syncTime="505.014" offset="2123346">I think it is equally unrealistic for the government to insist upon the minimal scrutiny of the traditional rational basis test in this case.</text>
+            <text syncTime="513.166" offset="2155947">Now, I would anticipate in a case such as this, the court would carefully review the challenged statutory classification.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="519.469" stopTime="525.098">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="519.469" offset="2181129">(Inaudible) Magallon against Maryland in this.</text>
+            <text syncTime="522.107" offset="2191682">Now, your terminologies got me a little bit confused.</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="525.098" stopTime="530.958">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="525.098" offset="2203698">Magallon against Maryland did not as I recall involved discrimination or --</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="530.958" stopTime="539.954">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="530.958" offset="2227104">Yes, but which test I am speaking of, minimum?</text>
+            <text syncTime="534.836" offset="2242673">Is Magallon against Maryland (Voice Overlap) do you think of as the minimal scrutiny or minimal --</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="539.954" stopTime="580.017">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="539.954" offset="2263153">That is correct, but I am not suggesting that the minimal scrutiny test is lost all force, but rather I am suggesting that in practice, the Court has departed from that test in cases involving classes of individuals as to whom there maybe some founded suspicion that they would be subject to invidious treatment by the legislature.</text>
+            <text syncTime="562.297" offset="2352492">A statutory classification that did not classify people according to any characteristics that would normally define a class that will be subject to social mistreatment, who would I think the subject to the traditional rational basis standard of review.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="580.017" stopTime="589.143">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="580.017" offset="2423336">How about mortgage holders out in Minnesota in 1935 of Minnesota, that Blade versus Minnesota’s Home of Savings and Loans.</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="589.143" stopTime="601.959">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="589.143" offset="2459907">I think that kind of economic legislation which does not impinge upon a group that is definable and invidious terms would be subject to minimal (Voice Overlap)</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="601.959" stopTime="604.631">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="601.959" offset="2511107">What do you mean by definable and invidious terms?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="604.631" stopTime="614.585">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="604.631" offset="2521870">Well, frankly Mr. Justice Rehnquist, I think that the class that were concern with here, class of illegitimate children, is one that has been subject to invidious treatment by --</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="614.585" stopTime="617.596">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="614.585" offset="2561680">But what do you mean by invidious?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="617.596" stopTime="621.173">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="617.596" offset="2573697">Enactments that express moral disapproval of this (Voice Overlap)</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="621.173" stopTime="628.979">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="621.173" offset="2588012">Do you not think that mortgage holders out in Minnesota and 35 were subjected to that same kind of treatment?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="628.979" stopTime="631.341">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="628.979" offset="2619254">I would not have thought so.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="631.341" stopTime="643.273">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="631.341" offset="2628658">Well, there were farmers with pitch forks on the courthouse doors, preventing the law from being enforced as recited in the court's opinion?</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="643.273" stopTime="659.566">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="643.273" offset="2676410">Perhaps what you are saying is that they were not to historically for a such a long period of time subjected to a continuous pattern as the illegitimate children who could not inherit and who could not do a lot of other things?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="659.566" stopTime="698.758">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="659.566" offset="2741612">Well, really what I am trying to do is simply to state what I think has become the law.</text>
+            <text syncTime="666.136" offset="2767839">The -- I would have said that discrimination of that kind is not a discrimination against the historically disadvantaged class.</text>
+            <text syncTime="675.059" offset="2803574">At the same time, it is quite clear that the court has started applying a different rule than the minimal scrutiny test in some cases and what I am trying to do is just to describe what I think is practical matter that rule in this case and that rule I would think be that --</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="698.758" stopTime="711.728">
+            <label>Unknown Speaker</label>
+            <text syncTime="698.758" offset="2898347">Are you suggesting Mr. Jones that you are reading into some of it, it says as technically the reason was -- a spectrum of stricter group be at one end and the pure minimal at the other and a sliding scale in between?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="711.728" stopTime="715.266">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="711.728" offset="2950173">About a year ago, I argued a case called Weinberger against Weisenfell?</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="715.266" stopTime="718.230">
+            <label>Unknown Speaker</label>
+            <text syncTime="715.266" offset="2964384">I thought you did.[Laughter]</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="718.230" stopTime="721.584">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="718.230" offset="2976191">I will not make any comments as to the outcome, but it seemed to me to reflect --</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="721.584" stopTime="724.456">
+            <label>Unknown Speaker</label>
+            <text syncTime="721.584" offset="2989671">It was unanimous?[Laughter]</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="724.456" stopTime="737.792">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="724.456" offset="3001165">The result was.</text>
+            <text syncTime="725.632" offset="3005867">It seemed to reflect the application of a standard of review that was stricter than that of which I had argued for at the time.</text>
+            <text syncTime="733.664" offset="3037945">That is stricter than the minimal scrutiny that had traditionally had been applied to socio economic legislation.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="737.792" stopTime="741.296">
+            <label>Unknown Speaker</label>
+            <text syncTime="737.792" offset="3054454">(Voice Overlap) so called compelling it?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="741.296" stopTime="759.360">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="741.296" offset="3068456">That is right.</text>
+            <text syncTime="741.930" offset="3071068">The court did not by terms required the showing of a compelling governmental interest and I would hope that in such cases the court would not, and that if they sufficiently strong showing that the Congress had an actual and legitimate objective in mind that can be made then the court would sustain it.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="759.360" stopTime="774.204">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="759.360" offset="3140763">But one of your objections though to the two-tier test, you say is the difficulty of deciding which tier is something goes into.</text>
+            <text syncTime="767.056" offset="3171483">Now, you are in effect proposing three tiers.</text>
+            <text syncTime="769.311" offset="3180573">Would not that just a compound the difficulty of deciding what tier is something goes into?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="774.204" stopTime="823.181">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="774.204" offset="3200113">It certainly complicates matters for both litigants and legislatures.</text>
+            <text syncTime="779.472" offset="3221220">I think that the two-tier test also complicated it.</text>
+            <text syncTime="784.970" offset="3243163">I am not really proposing anything, but if I can predict something, I would predict that the Court might be tending toward the formulation of a rule that might embrace a large number of cases and give more guidance to the court.</text>
+            <text syncTime="798.358" offset="3296766">I think right now, we are in a position frankly where litigants and legislatures really do not know just what they can do and maybe that will always be the case as long as you have an intervention as to approach the Equal Protection Clause.</text>
+            <text syncTime="810.527" offset="3345354">But I am recognizing now as we do have such an approach in this cases.</text>
+            <text syncTime="815.837" offset="3366670">At any rate, I would anticipate that the Court would apply a test similar to that that was applied in Weisenfell.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="823.181" stopTime="834.472">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="823.181" offset="3396031">Mr. Jones, would you help me?</text>
+            <text syncTime="824.292" offset="3400420">I understand you to be saying it should be somewhat with the discrimination between legitimates and illegitimates, the test should be more strict than a rational basis tests.</text>
+            <text syncTime="833.479" offset="3437200">Would you tell me, what the test (Voice Overlap).</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="834.472" stopTime="850.865">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="834.472" offset="3441171">Well, I am not saying Mr. Justice Stevens that it should be.</text>
+            <text syncTime="837.489" offset="3453292">(Voice Overlap) What I am saying is that, what I think the law is and what this Court is going to, what I am positing is a standard that I think it is likely this Court will used in evaluating the constitutionality of the statute.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="850.865" stopTime="857.103">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="850.865" offset="3506791">That is what I like.</text>
+            <text syncTime="851.529" offset="3509403">Would you phrase for me your understanding of what the law is with respect to the appropriate standard for this kind of thing case?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="857.103" stopTime="990.473">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="857.103" offset="3531659">Yes, I would assume that the constitutionality of the requirement that these illegitimate children prove dependency would be sustained if and only if it is shown that requirement furthers an actual and permissible legislative objective and the question in this case is whether the denial of benefits to this subclass does in fact serve an actual and permissible legislative objective.</text>
+            <text syncTime="886.620" offset="3649733">I would make an important preliminary point at the out set.</text>
+            <text syncTime="890.763" offset="3666347">This standard of review rules out one motive analysis and I think that should be made clear.</text>
+            <text syncTime="896.615" offset="3689752">It is not acceptable to ascribe a broad purpose to this statutory scheme that is in fact inconsistent with the challenged previsions and then to hold that the provision is unconstitutional because they did not further that purpose.</text>
+            <text syncTime="910.384" offset="3744818">An example of what I have in mind is contained in the appellant's brief in Norton, where it is argued that because the Social Security Act is intended to operate in a humanitarian manner, it should strain a court’s credibility to lay at Congress’s door an intent to deny benefits to appellant’s class.</text>
+            <text syncTime="928.755" offset="3818275">Now, with all due respect to opposing counsel, that line of argument is simply nonsense.</text>
+            <text syncTime="935.492" offset="3845233">It overlooks the fact that Congress has in fact expressly denied benefits to this class, and therefore, it cannot strain any court’s credibility to lay that intent, intent expressly stated in statute at Congress’s door.</text>
+            <text syncTime="950.140" offset="3903852">The complexity of a legislative process requires a more subtle and comprehensive analysis of the statute.</text>
+            <text syncTime="956.774" offset="3930392">The question to be asked in a case like this, is not whether the denial benefits to this class furthers the broad social welfare purpose of the statute, but rather the question that I would anticipate would be asked is why did Congress chose to deny benefits to this class.</text>
+            <text syncTime="975.989" offset="4007297">If Congress had -- if Congress reasonably believed that denying benefits to this class would serve an actual and a permissible legislative objective, then I would think the statute should be sustained.</text>
+            <text syncTime="990.116" offset="4063721">Now, I can concede --</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="990.473" stopTime="997.500">
+            <label>Unknown Speaker</label>
+            <text syncTime="990.473" offset="4065184">(Inaudible) suggest over, Congress has to point out what its objective was?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="997.500" stopTime="1032.909">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="997.500" offset="4093292">Well, again in Weisenfell, I was surprised to learn that that was the requirement that Congress was required to spell out in this legislative history what its purposes were and than the provisions of the statute had to satisfy those purposes.</text>
+            <text syncTime="1017.311" offset="4172495">That had not been the rule under the traditional rational basis test, but that was the approach that the Court took in Weisenfell as I understood it.</text>
+            <text syncTime="1027.510" offset="4213351">Now, I can conceive of three possible rationales for the statute.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1032.909" stopTime="1062.769">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1032.909" offset="4234980">Let me, let me ask you one question Mr. Jones.</text>
+            <text syncTime="1034.473" offset="4241145">You say that the purpose must have been in actual one on the part of the Congress and that this particular legislation must have furthered it.</text>
+            <text syncTime="1043.727" offset="4278239">So, that we have said in effect and say “Do we agree with the legislative judgment having had this purpose in mind that this particular section furthered that purpose?”</text>
+            <text syncTime="1055.869" offset="4326722">I cannot imagine a more complete method of simply second guessing the legislature.</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="1062.769" stopTime="1067.557">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="1062.769" offset="4354412">Well, if --</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1067.557" stopTime="1083.663">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1067.557" offset="4373533">If they have that in mind, this general purpose and an enacted this sort of statute which in their view furthered it, we would then be seating here and said given that purpose, we think what you choose to further it, did not further it?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="1083.663" stopTime="1115.100">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="1083.663" offset="4437899">Well, I think that a lot of leeway has to be given to judging whether a classification in fact furthers the purpose.</text>
+            <text syncTime="1092.087" offset="4471649">But if it can be shown that the classification is plainly irrational in terms of any perceivable legislative purpose, then, it has been the recent attitude of this Court that even if maybe some other conceivable purpose could have been imagined, nevertheless, the statute will not be upheld, but there are inevitable --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1115.100" stopTime="1121.694">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1115.100" offset="4563705">(Voice Overlap) besides Weisenfell would you suggest indicate that?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="1121.694" stopTime="1139.575">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="1121.694" offset="4590036">Well, I think that the Marie and Marino Food Stamp cases of three years ago are similar examples where under the minimal scrutiny of the traditional rational basis test, I would have thought that those statutory classifications could be sustained.</text>
+            <text syncTime="1138.366" offset="4656805">But the Court --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1139.575" stopTime="1144.503">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1139.575" offset="4661612">You get that out of the opinion or do you, is that what your surmise?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="1144.503" stopTime="1151.699">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="1144.503" offset="4681360">A lot of this is surmised and I forgotten that.</text>
+            <text syncTime="1147.303" offset="4692541">It has been sometime since I have read the Marino opinion.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1151.699" stopTime="1167.029">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1151.699" offset="4710095">You might go step further and suggest that the Court return to what was pretty well settled constitutional law for hundred years or so.</text>
+            <text syncTime="1161.451" offset="4749070">The equal protection clause was the last refuge of a desperate constitutional lawyers.</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="1167.029" stopTime="1582.772">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="1167.029" offset="4771431">That would be fine me Mr. Justice Stewart, but I would like to make the arguments that I think actually sustain this statute under the approach that I anticipate would be followed here and I would say one possible legislature objective, I think, can be eliminated completely at the out set and that is that Congress did not device the statutory schemes simply to invidiously discriminate against the illegitimates.</text>
+            <text syncTime="1192.409" offset="4872890">There is nothing in the legislative history that suggests that the statutory classification was motivated by congressional hostility to illegitimates.</text>
+            <text syncTime="1200.890" offset="4906849">Moreover, the extension of the presumption of dependency in this case, the four categories of illegitimates and the withholding of it from a category of illegitimate children would refute I would think any suggestion that the statutory pattern itself reveals a purpose of invidious discrimination.</text>
+            <text syncTime="1218.776" offset="4978425">Therefore, this is not a case arguably like Levy or Glona, where the legislative objective was the impermissible one of expressing moral disapproval of the state of a legitimacy.</text>
+            <text syncTime="1232.812" offset="5034536">Now, two other legislative objectives that I think should be considered.</text>
+            <text syncTime="1238.565" offset="5057524">One, clearly supports the constitutionality of the statute and the other appears not to do so, and I will take up these in reverse order quickly if I can.</text>
+            <text syncTime="1248.900" offset="5098902">It seems to me that the claimant’s best argument here begins with the contention that the legislative objective was to restrict the payment of benefits to children whether or not actually dependent who had a legal right to be supported by the wage earner.</text>
+            <text syncTime="1264.852" offset="5162745">That would be of course permissible legislative objective.</text>
+            <text syncTime="1268.204" offset="5176120">Although, the evidence is conflicting, there is some arguable basis for that view in the legislative history.</text>
+            <text syncTime="1275.869" offset="5206735">But their argument perceives as I understand it that the statutory scheme may have been constitutional at the time of enactment.</text>
+            <text syncTime="1283.458" offset="5237142">That the premise on which it was base was undone by this Court’s decision in Gomez against Perez, where it was held at the state must grant an illegitimate child, the same right to support from his father as is possessed by the legitimate child and under this line of reasoning since the members of the complainant class now have the same right to parental support as all other children, the denial to them of Child's Insurance Benefits does not further the original purpose of the Act, and therefore, should not be sustained.</text>
+            <text syncTime="1314.151" offset="5359917">Of that I think, is a plausible approach to the problem at hand that there is an equally plausible approach that would sustain a statute and in these circumstances, this Court should of course have difference to Congress, choose the course that sustains the validity of the statute.</text>
+            <text syncTime="1332.618" offset="5433791">Now, as we point at pages 32 through 36 of our brief, the Norton case, there is a substantial evidence, both in the legislative history and directly inferable from this statutory scheme that the purpose of the Child’s Insurance Benefits program is to provide support only for the dependent children of disabled, retired or deceased wage earners.</text>
+            <text syncTime="1360.354" offset="5544760">And that the purpose of acquiring members of the complainant class to prove co-residence or support is to restrict the payment of benefits, to restrict the payment of benefits to those children who may reasonably be presumed to have been dependent.</text>
+            <text syncTime="1377.095" offset="5611633">If that is the correct view of the statutory purposes and we submit that it is, then the statutory scheme must be sustained.</text>
+            <text syncTime="1385.769" offset="5646324">It clearly was permissible for Congress to seek to restrict the payment of dependency benefits to children who reasonably could be presumed to be dependent and the requirement that the members of the complainant class prove dependency, prove support or co-residence furthers that permissible legislative objective.</text>
+            <text syncTime="1407.121" offset="5731796">The opposition expressed to this line of reasoning by the District Court in this case was that under that view of the statutory purposes, the statute is allegedly over inclusive in that it grants benefits to some children who are not actually dependent upon the parental wage earner.</text>
+            <text syncTime="1428.261" offset="5816329">And I would offer two answers to the argument of over inclusiveness.</text>
+            <text syncTime="1433.152" offset="5835868">The first is the statute is not in fact over inclusive, and the second is that in any event mere over inclusiveness is not as sufficient basis from invalidating the statute.</text>
+            <text syncTime="1445.967" offset="5887173">The statute is not over inclusive in the terms that I have described it, that is to pay benefits to children who could reasonably be presumed to have been dependent upon parental wage earner.</text>
+            <text syncTime="1457.541" offset="5933462">As we point out at pages 38 and 39 of our brief in Norton as the District Court correctly observed in that case, it was not unreasonable for Congress to have extended the presumption of the dependency to most legitimate children and to four specifically defined categories of illegitimate children.</text>
+            <text syncTime="1478.075" offset="6015591">At the same time, the members of the complainant class could not reasonably have been presumed to be dependent upon their fathers.</text>
+            <text syncTime="1485.464" offset="6045161">Since the statutory purposes the modest one of separating those classes as to which the presumption of the dependency is reasonable from those is to which it is not reasonable, the statute is not in fact over inclusive in those terms.</text>
+            <text syncTime="1499.532" offset="6101377">But finally, even if the statute were dimmed over inclusive because it fails to weed out some non-dependent children from the list of beneficiaries, that would not justify judicial enlargement of the class of beneficiaries to include all other non dependent children as well.</text>
+            <text syncTime="1517.328" offset="6172639">A statute that is over inclusive, but not under inclusive, that is a statute that grants benefits to some persons who are outside the statutory rationale, but it is not denied benefits to any persons who are within the statutory rationale, should not except for absent the most extraordinary circumstances, be struck down.</text>
+            <text syncTime="1538.792" offset="6258425">The realities of the legislative process and the complexities of administration ordinarily prevent a perfect matching of legislative purpose and effect.</text>
+            <text syncTime="1548.599" offset="6297713">A permissible legislative purpose such as the purpose here of restricting benefits, the children who could reasonable be presumed to be dependent upon their wage earner father should not be abandoned wholesale by the courts, merely because that purpose has not been carried out by the legislature with precision.</text>
+            <text syncTime="1568.587" offset="6377648">Accordingly, the statute here is the denial of benefits to this children furthers a legitimate and actual legislative objective that should be sustained.</text>
+            <text syncTime="1579.558" offset="6421533">I would like to reserve my remaining time.</text>
+          </turn>
+        </section>
+        <section startTime="1582.772" stopTime="2615.280" revised="2014-01-21">
+          <heading>Argument of C. Christopher Brown</heading>
+          <turn speaker="warren_e_burger" startTime="1582.772" stopTime="1588.666">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1582.772" offset="6434386">Very well. Mr. Brown.</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="1588.666" stopTime="1645.582">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="1588.666" offset="6458000">Mr. Chief Justice and may it please the Court.</text>
+            <text syncTime="1591.723" offset="6470226">First, I would like to address myself to the proper equal protection standards that should be applied in this case.</text>
+            <text syncTime="1597.096" offset="6491646">We contend that this class of illegitimate children meets all the traditional criterion which had been applied -- criteria which had been applied to be pop this class within the strict scrutiny standard test.</text>
+            <text syncTime="1611.636" offset="6549847">On the other hand, it seems quite clear that the Dandridge versus Williams test does not apply here for the same reasons that did not apply in Jimenez case.</text>
+            <text syncTime="1619.546" offset="6581507">The Government has made no finite resources argument in this case.</text>
+            <text syncTime="1624.349" offset="6600733">Now, it is not totally important to us as to what label we put on this case.</text>
+            <text syncTime="1629.968" offset="6623199">Is this is a strict scrutiny test or it is just a traditional test?</text>
+            <text syncTime="1634.055" offset="6639499">At the very least, we think that it has to be dealt with very high scrutiny and it is not so important as to what we call it, but it is more important as to what this Court does.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1645.582" stopTime="1649.191">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1645.582" offset="6685579">Weight to this with high scrutiny and strict scrutiny?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="1649.191" stopTime="1684.777">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="1649.191" offset="6700103">A strict scrutiny and I would contend under a scrutiny, if there is indeed abrasion, we -- illegitimate children are somewhere at the top end of that gradient and the difference would be this, and people would be placed along the gradient I presume, one criteria to place upon that would be are there are class that has no control over the status that they are being discriminated against here and that is the case here in illegitimate kid situation.</text>
+            <text syncTime="1676.786" offset="6810445">But at a very least and it is not necessary again to argue are they in strict scrutiny class all the way at the top or are they somewhere approaching that class?</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1684.777" stopTime="1696.003">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1684.777" offset="6842418">But how about discrimination against Catholics.</text>
+            <text syncTime="1687.672" offset="6854017">Now, they can become Protestants tomorrow presumably and change their status, would you say that is not there for a strict scrutiny?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="1696.003" stopTime="1745.510">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="1696.003" offset="6887349">Unless there are First Amendment overtones, yes sir.</text>
+            <text syncTime="1698.507" offset="6897276">You are correct, Your Honor.</text>
+            <text syncTime="1702.125" offset="6911800">What this Court has traditionally done when it has dealt with either strict scrutiny cases or heighten scrutiny cases or whatever we might call it, perhaps sex falls under the same category, generally speaking, the burden has been on the Government to establish why or what the legitimate purposes of the Act are.</text>
+            <text syncTime="1720.838" offset="6986614">That is a very significant fact because if the Government has to come forth and say something, that means a lot to the outcome of the case.</text>
+            <text syncTime="1727.356" offset="7012737">Secondly and I think perhaps Mr. Jones has conceded this point, there have to be actual legislative objectives.</text>
+            <text syncTime="1735.262" offset="7044397">Now, in this situation that would be the Congress has actually have articulated in some fashion or another, what indeed it did intent.</text>
+            <text syncTime="1743.680" offset="7078043">It is very easy for lawyers after the fact.(Voice Overlap)</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="1745.510" stopTime="1751.043">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="1745.510" offset="7085357">Sometimes can we get that right out of the words they use such the word “dependent?”</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="1751.043" stopTime="1759.347">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="1751.043" offset="7107509">Indeed you can, indeed you can and if that what is they intended and if they say with own words that is the place to get it.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1759.347" stopTime="1762.038">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1759.347" offset="7140737">It is a pretty good source, is it not, the language of the statute?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="1762.038" stopTime="2018.838">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="1762.038" offset="7151499">Indeed it is.</text>
+            <text syncTime="1763.118" offset="7155783">I have no problem with that.</text>
+            <text syncTime="1764.093" offset="7159649">That is the best source, I would guess.</text>
+            <text syncTime="1769.887" offset="7182846">Well, let me lead in because that obviously leads into what they did intent.</text>
+            <text syncTime="1774.432" offset="7201027">The Congress has set up a structure which is basically as follows.</text>
+            <text syncTime="1780.440" offset="7225060">First of all, everyone has to prove that a individual was indeed a wage earner covered by the Act, employed for so many months and so forth, so many quarters.</text>
+            <text syncTime="1788.377" offset="7256825">Also they have to apply, also they have to be under either eighteen or twenty-two-and-half to be unmarried.</text>
+            <text syncTime="1793.420" offset="7276991">Those are the non-controversy or preconditions that have to be met.</text>
+            <text syncTime="1797.493" offset="7293292">There are two major preconditions however.</text>
+            <text syncTime="1799.633" offset="7301860">One is that the paternity has to be shown and the second is that the dependency has to be established.</text>
+            <text syncTime="1806.587" offset="7329654">Now, what the Act does is, it sets up a dependency requirement and then it wipes it away for everyone except for two classes.</text>
+            <text syncTime="1814.544" offset="7361524">One class is a class in this case, a certain class of illegitimate children.</text>
+            <text syncTime="1818.904" offset="7378869">The second class consists of adopted children and stepchildren.</text>
+            <text syncTime="1822.485" offset="7393289">Now, there is a special reason for adopted children and stepchildren to have to establish actual dependency.</text>
+            <text syncTime="1828.459" offset="7417112">Indeed, in fact, they were dependent or supported by the deceased wage earners and that is because they have two potential wage earners upon which to claim benefits.</text>
+            <text syncTime="1837.763" offset="7454311">Adopted child has its natural father that he can claim benefits upon or has a new adopted father.</text>
+            <text syncTime="1842.968" offset="7475209">Same goes for stepchildren.</text>
+            <text syncTime="1845.131" offset="7483777">Now, unfortunately, this class of illegitimate children has been lumped in with this latter category.</text>
+            <text syncTime="1850.478" offset="7505197">Unfortunately, illegitimate children much less than having two parents to look to for support after that parent dies or before he dies, generally, often have no parents at all.</text>
+            <text syncTime="1862.385" offset="7552845">Therefore, it seems to be good reason to require adopted children and step children to prove this, but I contend that there is no reason to require this class of illegitimate children to prove this.</text>
+            <text syncTime="1873.205" offset="7596103">Now, what the court below and what the Secretary has argued the purposes is as follows: That really the Congress instructions the Social Security Act, intended to only replace support that was actually lost, that is the only intend to give benefits to the children of fathers who actually did support them prior to the father’s death.</text>
+            <text syncTime="1894.295" offset="7680427">We cite in our briefs the rather explicit legislative history which seems to counter this notion.</text>
+            <text syncTime="1901.451" offset="7709057">There are two documents that say that the Act intents to give benefits to those who did receive support prior to their father’s death and those who owe the obligation to receive support prior to their father’s death.</text>
+            <text syncTime="1915.974" offset="7767153">We contend that that more clearly articulates Congress’s reasoning, not just to give benefits to those who actually got it, but also to give benefits to those who were in a position that they should have actually gotten it, but for some reason their father failed to live up to that obligation.</text>
+            <text syncTime="1934.086" offset="7839669">What the District Court below did in order to add on to that reason is the District Court below assumed that Congress set up a category that those people will not have to prove actual support before the father died if it is more likely that they indeed were supported.</text>
+            <text syncTime="1951.646" offset="7909886">This is a very similar to Frontiero versus Richardson this Court has encountered before.</text>
+            <text syncTime="1957.890" offset="7934859">In other words, legitimate children are presumed generally to have been supported, therefore, to save administrative convenience that category will not have to establish that they were in fact supported.</text>
+            <text syncTime="1969.032" offset="7979476">Now, our briefs establish that assuming that indeed Congress had such a notion which we do not think they do because the Congressional history does not seem to indicate that, but they indeed did have that notion, the Act has very aptly attempted to pursue that purpose.</text>
+            <text syncTime="1986.253" offset="8048335">There is no guarantee.</text>
+            <text syncTime="1987.697" offset="8054082">There are only two studies that seemed of reflect upon this and both result an ambiguous conclusion as to whether or not who is more likely than someone else to have actually been supportive prior to death.</text>
+            <text syncTime="2006.052" offset="8127538">Accordingly, it seems highly likely that even if we assume that Congress did indeed intent to only give benefits to those people who were actually supported prior the death, that they did really accomplish that in any meaningful way.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="2018.838" stopTime="2038.005">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="2018.838" offset="8178634">I look to your example of adopted children and stepchildren.</text>
+            <text syncTime="2025.570" offset="8205592">Do I understand you to say that it was likely they were supported before?</text>
+            <text syncTime="2029.693" offset="8222102">(Voice Overlap) are not there a lot of adopted children who are orphans and a lot of stepchildren who have lost a parent?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2038.005" stopTime="2064.668">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2038.005" offset="8255329">Okay, The Social Security Administration, if you are an adopted child and you are not an illegitimate child in this class presumes that you were in fact dependent upon your natural father, and you can automatically assume you prove his is your father get Social Security benefits under the Act.</text>
+            <text syncTime="2055.152" offset="8323875">Now, you may also want to attempt to get benefits under your adopted father’s wage earner status and in effect you can get the highest of whichever the two maybe.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2064.668" stopTime="2065.599">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2064.668" offset="8362013">You cannot get both?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2065.599" stopTime="2080.118">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2065.599" offset="8365671">You cannot get both.</text>
+            <text syncTime="2066.563" offset="8369537">You have the best of both worlds whichever that maybe and we are not complaining about that.</text>
+            <text syncTime="2072.025" offset="8391375">The problem is the Act has lumped our category in with this category that has two potential wage earner sources.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="2080.118" stopTime="2084.725">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="2080.118" offset="8423767">You have not answered my observations that a lot of these do not have two potentials?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2084.725" stopTime="2087.641">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2084.725" offset="8442157">That is true.</text>
+            <text syncTime="2085.911" offset="8446964">That is possibly true, but --</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="2087.641" stopTime="2099.598">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="2087.641" offset="8453860">Probably, it is often true, is it not?</text>
+            <text syncTime="2091.203" offset="8468071">I certainly have conducted many an adoption of an orphan child and many an adoption of the stepchild without a male or female parent?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2099.598" stopTime="2102.798">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2099.598" offset="8501716">Okay, I concede that that is true.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2102.798" stopTime="2125.817">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2102.798" offset="8514464">Well, then given that most states can seal the identity of illegitimate children, identity of the father in adoption proceedings, your generalization really does not wash as to illegitimate children.</text>
+            <text syncTime="2120.109" offset="8583741">It very difficult for an illegitimate child to find out the identity of the father in most circumstances?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2125.817" stopTime="2127.265">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2125.817" offset="8606520">Find out the identity of his own father?</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2127.265" stopTime="2128.395">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2127.265" offset="8612371">Yes.</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2128.395" stopTime="2209.768">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2128.395" offset="8616864">Well, it is in some circumstances.</text>
+            <text syncTime="2129.889" offset="8622820">I do not really think it is in most circumstances, Your Honor.</text>
+            <text syncTime="2133.970" offset="8639225">The Act sets out various explicit routes by which you can establish the paternity of your natural father even though he was not married to your mother, and indeed there are difficulties in pursuing proof of paternity at times.</text>
+            <text syncTime="2146.007" offset="8687290">Now, the Act does not seem to really be dealing with that difficulty.</text>
+            <text syncTime="2149.506" offset="8701292">It may be argued, the logical purpose of this discrimination against illegitimate children could be to bolster prove of paternity, and therefore, avoid fraud.</text>
+            <text syncTime="2159.653" offset="8741938">The District Court did not find that purpose.</text>
+            <text syncTime="2163.465" offset="8757194">As our brief indicates, the Secretary who himself is the one to whom you have to prove to his satisfaction paternity, his own internal claims manual which is his instructions to people as to how to interpret the Act, it does not seem to use as to that purpose.</text>
+            <text syncTime="2180.067" offset="8823545">Prevention of a fraud could theoretically be a purpose in this situation, but Congress has not said it, the Secretary has not said it, the District Court did not say it, and the Solicitor General has alluded to it in the last two pages of his brief, mildly.</text>
+            <text syncTime="2193.617" offset="8877775">If this is a case that requires some sort of heighten scrutiny, it would not seem that that sort of a very evasive and intangible purpose, never articulated by Congress, could indeed be the legitimate purpose upon which this case could be -- the statutory classification be found constitutionally.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2209.768" stopTime="2220.765">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2209.768" offset="8942350">How about the presumption or the notion as you call it that the class you are interested in is normally not supported?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2220.765" stopTime="2226.733">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2220.765" offset="8986340">There is a presumption of the class that Rev. Norton is not supportive, was not previously supported by the deceased father.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2226.733" stopTime="2229.174">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2226.733" offset="9010268">There is that Congressional presumption.</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2229.174" stopTime="2230.555">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2229.174" offset="9019986">That is --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2230.555" stopTime="2230.820">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2230.555" offset="9025524">Yes.</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2230.820" stopTime="2232.424">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2230.820" offset="9026569">That is one way that the Act could be read.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2232.424" stopTime="2238.772">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2232.424" offset="9032942">Yes.</text>
+            <text syncTime="2233.324" offset="9036600">Let us assume that.</text>
+            <text syncTime="2233.835" offset="9038689">So when you say that there is conflicting evidence --</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2238.772" stopTime="2238.915">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2238.772" offset="9058333">Okay.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2238.915" stopTime="2239.654">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2238.915" offset="9058960">-- around and believe and --</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2239.654" stopTime="2240.429">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2239.654" offset="9061886">Here is an example.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2240.429" stopTime="2245.884">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2240.429" offset="9065021">-- but there is no question about what Congress concluded the evidence showed?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2245.884" stopTime="2252.197">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2245.884" offset="9086859">If you ascribe that intent to Congress and if Congress indicated that finding by the way it structured the Act.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2252.197" stopTime="2256.141">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2252.197" offset="9112041">Well, assume it did, assume it did?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2256.141" stopTime="2260.215">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2256.141" offset="9127819">Same Congress assumed then that these other categories were more likely (Voice Overlap)</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2260.215" stopTime="2268.250">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2260.215" offset="9144120">Then you are suggesting as we should disagree with Congress because we think we have a better notion of what the facts are?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2268.250" stopTime="2279.722">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2268.250" offset="9176302">Well, my contention is this.</text>
+            <text syncTime="2270.008" offset="9183303">The only notion that I can see anyone having would be based upon a few very limited sources of statistical information.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2279.722" stopTime="2286.674">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2279.722" offset="9222173">What about Congress so, they have -- Congress has come down and made its own judgment (Voice Overlap)</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2286.674" stopTime="2296.459">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2286.674" offset="9249968">Assuming Congress has made that judgment which I of course did not concede, I think this Court still has a role.</text>
+            <text syncTime="2292.134" offset="9271806">If Congress said -- if Congress made an assumption which is factually incorrect --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2296.459" stopTime="2305.529">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2296.459" offset="9289151">Well, would our test be we just disagree with them or should we ask is there some basis, any basis in fact for the congressional conclusion?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2305.529" stopTime="2313.430">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2305.529" offset="9325409">Well, the Secretary has had the chance to show you whatever basis Congress might have had.</text>
+            <text syncTime="2310.159" offset="9343904">You have and if -- he has had the chance, you do not have to ask him that.</text>
+            <text syncTime="2312.703" offset="9354144">He has all the opportunity.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2313.430" stopTime="2323.183">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2313.430" offset="9356965">Yes.</text>
+            <text syncTime="2313.492" offset="9357279">I know, but what you are telling us now there is quite of bit of basis for congressional conclusion, namely the facts are disputed.</text>
+            <text syncTime="2319.717" offset="9382147">There a lot of evidence on both sides.</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2323.183" stopTime="2336.543">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2323.183" offset="9396045">No, there is evidence to indicate that they can -- it is really not clear who is more likely to be a supporters than not.</text>
+            <text syncTime="2331.473" offset="9429168">There is evidence to indicate that there is no ground for any assumption.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2336.543" stopTime="2340.789">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2336.543" offset="9449439">There is evidence to indicate that there is?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2340.789" stopTime="2390.202">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2340.789" offset="9466471">There is this one study which was done and it is not conclusive says “That 89% of absent illegitimate fathers, we call them that, do not support their children, whereas 81% or 82% of absent legitimate fathers do not support their children”.</text>
+            <text syncTime="2357.225" offset="9532195">Okay, so there is an 8% difference between these two classes in this one study which was conducted in California and is referred on the brief.</text>
+            <text syncTime="2364.936" offset="9563019">My contention is that 8% does not mean much and there is really nothing upon which you can basic conclusion, a presumption such as this and especially not enough when you talking about illegitimate children.</text>
+            <text syncTime="2377.520" offset="9613383">It maybe enough when you are talking about Minnesota farmers, but it is not enough when you are talking about illegitimate children.</text>
+            <text syncTime="2383.502" offset="9637311">8% is not enough to base a presumption upon.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="2390.202" stopTime="2402.644">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="2390.202" offset="9664061">Mr. Brown, would the presumption had been rebutted in this case if the father had simply written a letter to the mother inquiring how that son was?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2402.644" stopTime="2404.350">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2402.644" offset="9713902">That is correct Your Honor.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="2404.350" stopTime="2405.620">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="2404.350" offset="9720694">There are a lot of who would have done it?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2405.620" stopTime="2470.001">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2405.620" offset="9725814">That would have done it and problem is that people who are fathers of illegitimate children do not take to the habits of writing letters and going through the formalities that a lot of middle class people traditionally do.</text>
+            <text syncTime="2418.420" offset="9777014">So, as a practical matter I wish that happened more often, but it does not happen and that makes it more difficult for these people to establish their right to benefits.</text>
+            <text syncTime="2429.825" offset="9822572">I see no great difference between this case and Frontiero case.</text>
+            <text syncTime="2433.484" offset="9837200">That was a case which had the same kind of presumption with respect to service people and did man have to establish -- a mail service man was presumed that his spouse, his wife was dependent upon him, he got benefits and the opposite was the case for women.</text>
+            <text syncTime="2451.052" offset="9907522">If a woman was a service person, she had to establish specifically that her spouse was dependent upon her in order to get fringe benefits from the service.</text>
+            <text syncTime="2459.539" offset="9941481">It seems to be the very same case in that respect, and I would request the very same result which was a reversal and finding of unconstitutionality of this statutory scheme.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2470.001" stopTime="2499.508">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2470.001" offset="9983277">Mr. Brown, you seem to disparage somewhat the idea that the element of fraud was present in these cases, but for a number of centuries, not year, centuries, the explanation for not allowing illegitimate children to inherit from a father was the fraud element, was it not?</text>
+            <text syncTime="2498.450" offset="10097067">Is it not part of the history of (Voice Overlap)</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2499.508" stopTime="2501.279">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2499.508" offset="10101351">It is probably correct and I think that there are --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2501.279" stopTime="2504.000">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2501.279" offset="10108456">Probably, there is any doubt about it?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2504.000" stopTime="2521.900">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2504.000" offset="10119323">I do not think that is the only reason.</text>
+            <text syncTime="2505.050" offset="10123502">There is another reason which is that historically it was felt that illegitimate fathers do not want to give benefits to bastards and I think that was probably another historical reason.</text>
+            <text syncTime="2516.022" offset="10167388">There was a presumption -- tested laws presumed that illegitimate fathers do not want their illegitimate fathers do not want their illegitimate children necessarily to get their money.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2521.900" stopTime="2540.683">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2521.900" offset="10190898">Most of the states who have statutes permitting the recognition of the illegitimate child in giving certain rights and are not the statutes were concerned with patterned on those statutes, that is the acknowledgment in writing for example?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2540.683" stopTime="2550.795">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2540.683" offset="10266027">Well, there are three ways.</text>
+            <text syncTime="2542.085" offset="10271669">They are basically the various ways an illegitimate child can become illegible here.</text>
+            <text syncTime="2545.809" offset="10286507">One is to satisfy his own states and tests his statute.</text>
+            <text syncTime="2549.240" offset="10300299">In Maryland for instance if Gregory Norton --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2550.795" stopTime="2554.456">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2550.795" offset="10306464">That maybe, that maybe by having a written acknowledgment from the father?</text>
+          </turn>
+          <turn speaker="c_christopher_brown" startTime="2554.456" stopTime="2615.280">
+            <label>Mr. C. Christopher Brown</label>
+            <text syncTime="2554.456" offset="10321093">Indeed and in Maryland for instance, all you have to do is openly -- have openly acknowledge that someone is your father.</text>
+            <text syncTime="2560.286" offset="10344394">Gregory Norton, Sr. today, he died after 1970, I think could establish, satisfy that test.</text>
+            <text syncTime="2566.660" offset="10369889">here are many different tests, but it is not impossible to prove paternity.</text>
+            <text syncTime="2571.219" offset="10388175">It is difficult to prove paternity but not impossible.</text>
+            <text syncTime="2573.818" offset="10398520">The Secretary in his own, you know, the instructions that he gives to his workers specifically says; first, determine paternity, and get some factors that he relies when determining that and then secondly, if they have to fall under this class determine whether or not they were supported by or lived with.</text>
+            <text syncTime="2592.948" offset="10475111">There is the Secretary is the one charged with this duty in establishing paternity has indicated in no way at all that indeed the support or residence requirement is used as another way to bolster proof of paternity.</text>
+            <text syncTime="2606.039" offset="10527460">There maybe a illegitimate basis in another setting, but it does not seem to be so here.</text>
+            <text syncTime="2612.520" offset="10553373">I have no further comments sir.</text>
+          </turn>
+        </section>
+        <section startTime="2615.280" stopTime="2750.857" revised="2014-01-21">
+          <heading>Rebuttal of Keith A. Jones</heading>
+          <turn speaker="warren_e_burger" startTime="2615.280" stopTime="2616.967">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2615.280" offset="10564449">Do you have any thing further Mr. Jones?</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="2616.967" stopTime="2619.119">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="2616.967" offset="10571137">Yes, I would like to make three quick points Mr. Chief Justice.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2619.119" stopTime="2620.973">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2619.119" offset="10579809">You have just have three minutes to do it.</text>
+          </turn>
+          <turn speaker="keith_a_jones" startTime="2620.973" stopTime="2739.654">
+            <label>Mr. Keith A. Jones</label>
+            <text syncTime="2620.973" offset="10587228">I do, one minute in each.</text>
+            <text syncTime="2623.213" offset="10596110">First, opposing counsel is incorrect in stating that it is sufficient if the illegitimate child meets the state in test of his statute.</text>
+            <text syncTime="2632.286" offset="10632472">The correct statutory analysis is set forth in the appendix at pages 79 through 83 of the decision of the District Court in the Norton case and also, that is the long standing administrative construction as we point out in footnote 14 of our Norton brief at pages 38 and 39.</text>
+            <text syncTime="2652.776" offset="10714392">Secondly, the purpose of the statutory exclusion was plainly that of limiting payment of benefits to children who were dependent.</text>
+            <text syncTime="2663.509" offset="10757338">As we point out on page 34 of our brief, the Act itself limits benefits to children who were dependent upon the wage earner.</text>
+            <text syncTime="2671.332" offset="10788580">The Senate Report on the amendments enacting this provision, state just correctly describe the Act as a national program that is intended to pay benefits to replace the support lost by a child when his father dies and this Court recognized this statutory purpose in its opinion in Jimenez against Weinberger where it pointed out that the primary purpose of the program is to provide support for dependents of a wage earner and third, the validity of the presumptions of dependency for the categories of children who do not have to prove dependency are we think broadly rational for the reasons set forth at pages 38 and 39 of our brief and I would further point out that if the evidence is conflicting, if in some instances those presumptions may not be broadly rational, nevertheless, that boils down simply to a claim that the statute is over inclusive in its provision of benefits, not under inclusive for the reasons I set forth in my argument.</text>
+            <text syncTime="2735.120" offset="11043744">Mere over inclusiveness would not result invalidity of the statute.</text>
+            <text syncTime="2739.288" offset="11060462">Thank you.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2739.654" stopTime="2750.857">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2739.654" offset="11061925">Thank you gentlemen.</text>
+            <text syncTime="2740.343" offset="11064642">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2014-01-16T12:22:18" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="720731">/xml/cases/2002/01_950/20030609o_01-950.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2002/trs/01-950_20030609-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="158.851">
+        <title>Hillside Dairy Inc. v. Lyons</title>
+        <section startTime="0.000" stopTime="158.851">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.171">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85329">The opinion of the Court in No. 01-950, Hillside Dairy Inc. versus Lyons and the companion case will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="10.171" stopTime="158.851">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="10.171" offset="125976">The California Legislature has created a milk marketing structure that requires that the prices for milk produced, processed, or sold in California by creating an equalization pool that in essence shifts revenue from processors of high value milk products to processors or low-value milk products.</text>
+            <text syncTime="31.496" offset="211239">In 1997, California changed its marketing structure to require the contributions to this equalization pool be made on some out-of-state purchases.</text>
+            <text syncTime="43.019" offset="257319">Petitioners are out-of-state milk producers that challenge this law on the grounds that it violate the Dormant Commerce Clause and the Privileges and Immunities Clause of the Constitution.</text>
+            <text syncTime="54.337" offset="302668">The District Court did not reach the merits of these cases but dismissed them both.</text>
+            <text syncTime="59.177" offset="321998">The Court of Appeals for the Ninth Circuit affirmed holding that a federal statute enacted in 1996 had immunized California's milk pricing and pooling laws from Commerce Clause challenge and that the Privileges and Immunities Clause claim failed because of the 1997 amendments did not, on their face, create classifications based on citizenship.</text>
+            <text syncTime="83.167" offset="417920">Today, in an opinion filed with the Clerk of Court, we vacate the judgment of the Ninth Circuit.</text>
+            <text syncTime="88.877" offset="440803">The federal statute at issued covers California laws regulating the composition and labelling of fluid milk but does not clearly express any intent to insulate California's milk pricing laws from Commerce Clause challenge.</text>
+            <text syncTime="102.655" offset="495869">The Court of Appeals therefore erred in relying on this federal statute to dismiss the Commerce Clause challenge.</text>
+            <text syncTime="110.663" offset="527948">With respect to petitioner's Privileges and Immunities Clause claim, the Court of Appeals relied on the absence of an expressed statement in the California statute discriminating on the base of citizenship to bar petitioner's claim.</text>
+            <text syncTime="125.187" offset="586044">That holding however is inconsistent with the decision of this Court, the case decided back in 1919.</text>
+            <text syncTime="132.996" offset="617287">But on expressing an opinion on the merits of the Previleges and Immunities claim, we find that the absence an expressed statement regarding citizenship is not a sufficient basis for rejecting this claim.</text>
+            <text syncTime="146.641" offset="671830">The judgment of the Court of Appeals is vacated and these two cases are remanded for further proceedings consistent with this opinion.</text>
+            <text syncTime="153.987" offset="701192">Justice Thomas has filed an opinion concurring in part and dissenting in part.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

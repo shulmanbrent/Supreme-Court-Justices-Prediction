@@ -1,0 +1,43 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-02T11:25:00" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-02</identified>
+      </history>
+      <resources>
+        <audioFile size="821742">/xml/cases/1987/86_489/19871201o_86-489.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-489op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="186.070">
+        <title>Langley v. Federal Deposit Insurance Corporation</title>
+        <section startTime="0" stopTime="186.070">
+          <heading>Opinion Announcement of Antonin Scalia</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="11.765">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80909">The opinion of the Court in No. 86-489, Langley versus Federal Deposit Insurance Company will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="11.765" stopTime="186.070">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="11.765" offset="127929">This case comes here on a petition for writ of certiorari to the Fifth Circuit.</text>
+            <text syncTime="16.071" offset="145170">12 U.S.C. Section 1823(e) provides that no agreement maybe asserted to diminish the right title or interest of the Federal Deposit Insurance Corporation in an asset unless the agreement is 1) In writing; 2) Executed contemporaneously with the insured bank's acquisition of that interest; 3) Approved in the minutes of the bank's board of directors or loan committee; and 4) Continuously from its execution, an official record of the bank.</text>
+            <text syncTime="47.055" offset="269095">The petitioners here executed a note payable to an FDIC insured bank in consideration for a loan which they used to purchase real estate.</text>
+            <text syncTime="57.157" offset="309533">When the bank sued for payment of the note, the petitioners asserted as a defense that the bank had procured the note by misrepresenting the amount of the land and the mineral acres it contained in the absence of outstanding mineral leases.</text>
+            <text syncTime="72.665" offset="371495">No references to this representations appeared in the documents executed by the petitioners, in the bank's records, or in the minutes of the bank's board of directors or loan committee.</text>
+            <text syncTime="82.694" offset="411619">The bank was later closed because of its unsound financial condition.</text>
+            <text syncTime="86.383" offset="426352">The FDIC was appointed as receiver and the FDIC acquired the note.</text>
+            <text syncTime="91.548" offset="447041">The FDIC was later substituted as plaintiff in this lawsuit.</text>
+            <text syncTime="96.092" offset="465222">FDIC moved for summary judgment on the ground that the petitioners' misrepresentation defense constituted an agreement that did not meet the requirements of 12 U.S.C. 1823(e).</text>
+            <text syncTime="107.314" offset="510153">The District Court granted the motion and the Fifth Circuit affirmed, we granted the petition for certiorari.</text>
+            <text syncTime="112.896" offset="532409">We hold today that a condition to payment of the note including the truth of an express warranty is part of the agreement to which the requirements of 1823(e) attach.</text>
+            <text syncTime="123.951" offset="576713">The word "agreement" as used in commercial or contract law often has a wider meaning than just promise and embraces such a condition upon performance.</text>
+            <text syncTime="133.740" offset="615792">That common meaning must be assigned to agreement in 1823(e) in order for that section to achieve its purpose of allowing federal and state bank examiners to rely on the bank's records insuring mature consideration of unusual loan transactions by senior bank officials and preventing fraudulent insertion of new terms with the collusion of bank employees when a bank appears headed for failure.</text>
+            <text syncTime="157.692" offset="711609">We reject as contrary to the statute's language and these purposes, petitioners suggestions that the presence of fraud and the inducement where the FDIC's knowledge of the defense prior to acquiring the note renders what would otherwise be an agreement not an agreement.</text>
+            <text syncTime="173.210" offset="773676">Because of the representations alleged by the petitioners constituted condition on repayment and did not meet Section 1823(d)'s requirements, summary judgment was properly granted.</text>
+            <text syncTime="182.412" offset="810457">We therefore affirm.</text>
+            <text syncTime="183.871" offset="816308">The Court's opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

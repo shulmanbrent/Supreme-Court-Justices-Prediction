@@ -1,0 +1,29 @@
+<transcript>
+      <history>
+        <identified user="jgoldman">2014-04-02</identified>
+      </history>
+      <resources>
+        <audioFile size="186410">/xml/cases/1987/86_1908/19880620o_86-1908.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-1908op.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="46.529">
+        <title>Stewart Organization, Inc. v. Ricoh Corporation</title>
+        <section startTime="0" stopTime="46.529">
+          <heading>Opinion Announcement of Thurgood Marshall</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.361">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 86-1908, Stewart Organization versus Ricoh Corporation will be announced by Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="9.361" stopTime="46.529">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="9.361" offset="37407">This case is here on certiorari to the United States Court of Appeals for the Eleventh Circuit.</text>
+            <text syncTime="15.360" offset="61440">We hold here that this federal statute designated as 28 U.S.C. 1404(a), governs the enforceability of a contractual forum, the selection of that forum in diversity actions.</text>
+            <text syncTime="33.871" offset="135419">We therefore affirm the judgment of the Court of Appeals.</text>
+            <text syncTime="37.455" offset="149734">Justice Kennedy has filed a concurring opinion in which Justice O'Connor joined.</text>
+            <text syncTime="42.505" offset="170005">Also, Justice Scalia has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

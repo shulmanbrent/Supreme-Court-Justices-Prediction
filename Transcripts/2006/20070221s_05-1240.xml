@@ -1,0 +1,70 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T16:06:09" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1980555">/xml/cases/2006/05_1240/20070221o_05-1240.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2006/trs/05-1240_20070221-opinion.trs</sourceFile>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="472.686">
+        <title>Wallace v. Kato</title>
+        <section startTime="0.000" stopTime="472.686" revised="2014-01-27">
+          <heading>Opinion Announcement of Justice Antonin Scalia</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="7.475">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="89812">Justice Scalia has the opinion this morning in No. 05-1240, Wallace versus Kato.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="7.475" stopTime="472.686">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="7.475" offset="119696">Now this case is here on writ of certiorari to the United States Court of Appeals for the Seventh Circuit.</text>
+            <text syncTime="13.962" offset="145610">On January 17, 1994 John Handy was shot and killed in the city of Chicago.</text>
+            <text syncTime="22.146" offset="178315">Two days later Chicago police officers, the respondents here, arrested petitioner who was then 15 years of age.</text>
+            <text syncTime="31.055" offset="213946">After several hours of interrogation petitioner confess to the murder.</text>
+            <text syncTime="36.943" offset="237561">He was tried and convicted but in 2001 a State Court vacated his conviction after concluding that his confession was inadmissible as the product of an arrest that violated the Fourth Amendment.</text>
+            <text syncTime="52.460" offset="299628">The state did not thereafter retry petitioner and instead dropped the charges in April of 2002.</text>
+            <text syncTime="62.615" offset="340170">In April of 2003, petitioner filed this civil rights suit under 42 U.S.C. § 1983 seeking damages arising from his unlawful arrest which had taken placed nearly ten years earlier.</text>
+            <text syncTime="79.218" offset="406625">The District Court granted summary judgment to respondents, the police officers who had made the arrest and the Court of Appeals affirmed.</text>
+            <text syncTime="87.472" offset="439644">According to the Seventh Circuit petitioner’s 1983 suit was time-barred because of the clock on his statute of limitations began to run at the time of his arrest and not many years later when his conviction was eventually set aside.</text>
+            <text syncTime="103.137" offset="502338">We granted certiorari and now affirmed.</text>
+            <text syncTime="106.767" offset="516862">Section 1983 is a federal clause of action.</text>
+            <text syncTime="110.194" offset="530550">But it occasionally borrows from the law of the state in which the cause of action arose.</text>
+            <text syncTime="115.608" offset="552179">That is so for the length of the statute of limitations which we have held is the limitations period that the state provides for personal injury suits, here under Illinois law two years.</text>
+            <text syncTime="129.415" offset="607454">The accrual date of 1983 clause of action that is when the clock begins to run is a question of federal law resolved not by reference to state law but by federal rules conforming in general to common law toward principles.</text>
+            <text syncTime="147.609" offset="680179">Under those principles a claim accrues when the plaintiff has a complete and present clause of action entitling him to file suit and obtain relief.</text>
+            <text syncTime="158.166" offset="722393">In this case petitioner suffered an injury immediately upon his unlawful arrest and could have filed suit at that time.</text>
+            <text syncTime="166.218" offset="754681">The statute of limitations would thus normally commence to run from that day.</text>
+            <text syncTime="172.032" offset="777877">But we have to refine this analysis because of a common law’s distinctive treatment of it towards a false imprisonment and its subspecies false arrest.</text>
+            <text syncTime="183.533" offset="823853">The causes of action that provide the closest analogy to claims of the type considered here.</text>
+            <text syncTime="190.127" offset="850289">False imprisonment is the proper analogy because it remedies detention without legal process and the allegations before us arise from respondent’s detention of petitioner without warrant in January of 1994.</text>
+            <text syncTime="205.890" offset="913296">They didn’t have a warrant or any other valid cause according to the decisions below to detain him.</text>
+            <text syncTime="213.568" offset="944016">Under common law the running of the statue limitations on false imprisonment is subject to a distinctive rule.</text>
+            <text syncTime="222.039" offset="977871">The limitation begins to run against an action for false imprisonment when the alleged false imprisonment ends.</text>
+            <text syncTime="231.637" offset="1016323">The reason for that role is obvious you can hardly file a suit while you’re still being imprisoned.</text>
+            <text syncTime="237.707" offset="1040565">When then did petitioner’s false imprisonment end?</text>
+            <text syncTime="242.081" offset="1058119">Reflecting the fact that false imprisonment consists of detention without legal process.</text>
+            <text syncTime="247.747" offset="1080793">A false imprisonment ends once the victim becomes held pursuant to such process, when for example he is bound over by a magistrate or arraigned on charges.</text>
+            <text syncTime="258.256" offset="1122798">Thus petitioner’s false imprisonment did not end when as he says the state dropped its charges but rather when petitioner appeared before the examining magistrate and was bound over for trial.</text>
+            <text syncTime="272.015" offset="1177864">Since more than two years elapsed between that date and the filing of this suit even leaving out of the count the period when petitioner was still a minor his action was time-barred.</text>
+            <text syncTime="284.296" offset="1226974">We reject petitioner’s contention that our decision in Heck versus Humphrey compels the conclusion that his suit could not accrue until the state dropped its charges against him.</text>
+            <text syncTime="296.913" offset="1277443">In Heck we held that “in order to recover damages for allegedly unconstitutional conviction or imprisonment or for other harm caused by actions whose unlawfulness would render a conviction or sentence invalid in the case here.</text>
+            <text syncTime="317.170" offset="1358423">A section 1983 plaintiff must prove that the conviction or sentence has been set aside.</text>
+            <text syncTime="324.364" offset="1387262">A claim for damages bearing that relationship to a conviction that has not been so invalidated is not cognizable under Section 1983”.</text>
+            <text syncTime="335.841" offset="1433133">Heck’s deferred accrual rule is called into play however only when there exists an outstanding criminal judgment.</text>
+            <text syncTime="343.368" offset="1463226">It cannot apply here because when petitioner was arrested and then detained pursuant to legal process there was an existence no criminal conviction that a 1983 suit could impute.</text>
+            <text syncTime="357.535" offset="1519859">Petitioner seeks the adoption of a principle going well beyond Heck mainly that an action which would impugn an anticipated future conviction cannot be brought until that conviction occurs and is set aside.</text>
+            <text syncTime="374.021" offset="1585792">The impracticality of such a rule is obvious as it would require a speculation into whether a prosecution will be brought what evidence will be introduced and whether a conviction would result.</text>
+            <text syncTime="385.868" offset="1633231">The fact that 1983 action sometimes accrue before the setting aside of indeed even before the existence of the related criminal conviction raises some question whether assuming the Heck bar takes effect when the later conviction is obtained the statue of limitations on the once valid clause of action is told is suspended as long as the Heck bar subsists.</text>
+            <text syncTime="413.241" offset="1742736">Section 1983 generally borrows state tolling rules and we are aware of no Illinois cases providing for tolling in even remotely comparable circumstances nor are we inclined to adopt a federal tolling rule to this effect.</text>
+            <text syncTime="429.081" offset="1806057">Such a rule would create a jurisprudential limbo in which it would not be known whether tolling is appropriate by reason of the Heck bar until it is established that the newly entered conviction would be impugned by the not yet filed and utterly indeterminate it section 1983 suit.</text>
+            <text syncTime="446.920" offset="1877423">Such a tolling rule would fail to provide law enforcement officers adequate notice to preserve beyond the normal limitations period evidence that will be needed for their defense.</text>
+            <text syncTime="458.604" offset="1924130">The judgment of the Court of Appeals is therefore affirmed.</text>
+            <text syncTime="461.626" offset="1936251">Justice Stevens has filed an opinion concurring in the judgment in which Justice Souter has joined.</text>
+            <text syncTime="467.006" offset="1957776">Justice Breyer has filed a dissenting opinion in which Justice Ginsburg has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

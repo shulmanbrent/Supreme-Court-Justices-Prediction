@@ -1,0 +1,32 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-30</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="341500">/xml/cases/1976/75_1267/19770111o_75-1267.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1976/trs/75-1267op.trs</sourceFile>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="60.210">
+        <title>Bayside Enterprises, Inc. v. National Labor Relations Board</title>
+        <section startTime="0.000" stopTime="60.210" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice John Paul Stevens</heading>
+          <turn speaker="john_paul_stevens" startTime="0.000" stopTime="58.155">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="0.000" offset="100547">In the second case, Bayside Enterprises versus National Labor Relations Board, we review a decision of the United States Court of Appeals for the First Circuit.</text>
+            <text syncTime="10.950" offset="144328">The National Labor Relations Act does not cover agricultural laborers.</text>
+            <text syncTime="15.233" offset="161465">The question in this case, is whether certain truck drivers who haul poultry feed from their employer's feed mills to independent farms which are under contract with the employer to raise chickens owned by the employer, are agricultural laborers covered by the Act.</text>
+            <text syncTime="31.765" offset="227607">The Labor Board held that they were employees and ordered their employer to bargain with their union.</text>
+            <text syncTime="38.209" offset="253311">The United States Court of Appeals for the First Circuit enforced that order.</text>
+            <text syncTime="42.381" offset="270029">We granted certiorari to resolve a conflict with decisions of the Fifth and Ninth Circuit.</text>
+            <text syncTime="47.925" offset="292181">For reasons stated in the opinion filed with the clerk were unanimously hold that the drivers are not agricultural laborers and therefore affirmed the decision of the First Circuit.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="58.155" stopTime="60.210">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="58.155" offset="333141">Thank you Mr. Justice Stevens.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

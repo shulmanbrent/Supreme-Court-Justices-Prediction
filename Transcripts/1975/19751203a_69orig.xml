@@ -1,0 +1,728 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-28</verified>
+        <identified user="jgoldman">2013-09-01</identified>
+        <edit user="jgoldman" date="2014-04-17T16:54:46" startTime="195.062" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-04-17T16:54:48" startTime="216.012" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-04-17T16:54:50" startTime="365.888" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-04-17T16:54:53" startTime="405.964" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-04-17T16:54:55" startTime="1073.507" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-04-17T16:54:57" startTime="1169.303" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-04-17T16:55:13" startTime="1185.863" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-04-17T16:55:16" startTime="1275.613" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-04-17T16:55:19" startTime="1314.404" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <identified user="jgoldman">2014-04-17</identified>
+        <edit user="jgoldman" date="2014-05-01T10:07:04" startTime="1179.083" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <identified user="jgoldman">2014-05-01</identified>
+      </history>
+      <resources>
+        <audioFile size="13105371">/xml/cases/1975/68orig/19751203a_69orig.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1975/trs/69orig_19751203.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="joseph_e_brennan" type="advocate" gender="male" path="/advocates/jb/joseph_e_brennan" image="/advocates/jb/joseph_e_brennan/thumbnail.jpg">Joseph E. Brennan</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="benson_d_scotch" type="advocate" gender="male" path="/advocates/bs/benson_d_scotch" image="/advocates/bs/benson_d_scotch/thumbnail.jpg">Benson D. Scotch</speaker>
+        <speaker id="charles_g_cleaveland" type="advocate" gender="male" path="/advocates/cc/charles_g_cleaveland" image="/advocates/cc/charles_g_cleaveland/thumbnail.jpg">Charles G. Cleaveland</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3250.422">
+        <title>Pennsylvania v. New Jersey</title>
+        <section startTime="0.000" stopTime="464.102" revised="2014-01-21">
+          <heading>Argument of Joseph E. Brennan</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="67.264">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="103369">We will hear arguments next in 69 Original, states of Maine and Vermont and the Commonwealth of Massachusetts against New Hampshire.</text>
+            <text syncTime="51.672" offset="310050">General Brennan you have the benefit of the arguments that has just been completed and of course we have had the benefit of them, and so, we take it that you will pick up where they left off and give us something that you haven’t heard this morning and this afternoon.</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="67.264" stopTime="149.733">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="67.264" offset="372326">Well Mr. Justices may I please the court.</text>
+            <text syncTime="69.015" offset="379327">I will certainly try to and much of our thunder, frankly has been stolen in many respects.</text>
+            <text syncTime="78.074" offset="415585">The facts in this case really are not in dispute.</text>
+            <text syncTime="81.491" offset="429273">The action of the plaintiff states is in the Sovereign and Proprietary Capacities to recover funds diverted by the unconstitutional New Hampshire income tax.</text>
+            <text syncTime="91.024" offset="467411">This tax was imposed in 1970.</text>
+            <text syncTime="93.612" offset="477756">It was challenged in 1971 by Maine's citizens, with strong support from the State of Maine.</text>
+            <text syncTime="98.459" offset="497191">It was held unconstitutional in March.</text>
+            <text syncTime="100.743" offset="506282">It is violative of the Privileges and Immunities Clause.</text>
+            <text syncTime="103.903" offset="518925">As we see it, the essential ultimate question is, “Whether or not New Hampshire should benefit from such unconstitutional conduct with this unconstitutional tax scheme, by retaining the proceeds of that scheme which amount to some $13.5 million which were diverted from the plaintiffs’ treasuries.</text>
+            <text syncTime="122.422" offset="593008">We say that the plaintiffs are the appropriate parties.</text>
+            <text syncTime="125.565" offset="605547">We say they were hurt, as was intended by the State of New Hampshire.</text>
+            <text syncTime="129.524" offset="621429">For the individual tax payers to bring this action, or to bring an action, assuming they can get over standing issue, assuming they can show some injury would be as has been said earlier “repetitious or be costly.”</text>
+            <text syncTime="143.081" offset="675660">Any damages that were awarded would have to be turned over to the plaintiff states so there would be absolutely no Incentive for them to do it.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="149.733" stopTime="153.740">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="149.733" offset="702200">What if I sanctioned, it will go to them?</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="153.740" stopTime="173.819">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="153.740" offset="718291">I think a class action might be available, but again they would run into the same problem withstanding that class wouldn’t be hurt.</text>
+            <text syncTime="160.592" offset="745668">The party that is hurt is Massachusetts, Maine and Vermont.</text>
+            <text syncTime="164.981" offset="763222">They bore the burden.</text>
+            <text syncTime="166.469" offset="769178">Their treasuries did not receive money, they would otherwise have received had it been not for this unconstitutional tax.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="173.819" stopTime="179.939">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="173.819" offset="798644">Any way they could have avoided that a long the lines that Mr. Justice Rehnquist suggested in a question?</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="179.939" stopTime="189.351">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="179.939" offset="823095">Well, in reference to the possibility of retaliation, the cases of this Court have emphasized, several times and as recently as Austin against the Policy of Retaliation.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="189.351" stopTime="192.279">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="189.351" offset="860711">Well, other than retaliation?</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="192.279" stopTime="195.062">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="192.279" offset="872414">There is no other way that I am aware of Mr. Chief Justice.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="195.062" stopTime="196.713">
+            <label>Justice Blackmun</label>
+            <text syncTime="195.062" offset="883594">Could you not change your law?</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="196.713" stopTime="210.701">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="196.713" offset="890177">Well, if we were to change our law that would mean, to amend the law, and not to give the tax credit.</text>
+            <text syncTime="201.521" offset="909403">That in effect could be Retaliation against our residents who work in New Hampshire and we then would not be retaliating against our residents who may have worked in 39 other states where we give tax credits.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="210.701" stopTime="215.464">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="210.701" offset="946079">But if you did not have your law in the first place, you would not be here today?</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="215.464" stopTime="216.012">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="215.464" offset="965201">I am sure --</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="216.012" stopTime="222.881">
+            <label>Justice Blackmun</label>
+            <text syncTime="216.012" offset="967395">I am just arguing my dissent and I was alone so [Laughter] do not be concerned about it.</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="222.881" stopTime="327.696">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="222.881" offset="994876">We submit that the states here are not stand-ins for the individual tax payers, that they are suing in their own right, that under Article III, Section 2 of the Constitution, that the Supreme Court is the proper forum, that this Section contemplated that one state should not be compelled to go into the jurisdiction of another state to seek a solution.</text>
+            <text syncTime="242.351" offset="1072721">Therefore, the New Hampshire courts or administrative agencies are not the appropriate forum and in reference to that retaliation, we feel that the decisions are clear, that the policy is against it, that the State of Maine should not try to visit -- double sense on its own tax payers just to retaliate for what was apparently gonna be a short lived illegal tax scheme.</text>
+            <text syncTime="264.216" offset="1160179">This Court -- the plaintiff states again did not -- the fact that they did not retaliate, it is suggested by New Hampshire that we should be barred.</text>
+            <text syncTime="274.401" offset="1200930">We submit that type of argument really does not wash.</text>
+            <text syncTime="282.395" offset="1232904">In Texas versus Florida, 306 U.S.</text>
+            <text syncTime="285.689" offset="1246069">where one state threatens to deprive the other of its lawful taxes, this creates an appropriate basis for action by this Court.</text>
+            <text syncTime="294.401" offset="1280969">In essence we are saying that, again and much of it is just reiterating what has been said before, we are the real party and interest, we have been hurt.</text>
+            <text syncTime="301.879" offset="1310853">The individual tax payers really would not hurt to any major degree and if they did recover, they would have to turn the money over to us.</text>
+            <text syncTime="309.357" offset="1340737">And again, this is an action between states.</text>
+            <text syncTime="312.152" offset="1351918">This is the appropriate forum.</text>
+            <text syncTime="314.256" offset="1360381">Any recovery the individuals got would be a nullity.</text>
+            <text syncTime="318.584" offset="1377622">The plaintiff states could not have avoided it without risking violating the Privileges and Immunities Clause themselves or the Equal Protection Class.</text>
+            <text syncTime="327.270" offset="1412417">And to --</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="327.696" stopTime="331.129">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="327.696" offset="1414089">Why would any of recovery the individuals got the nullity?</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="331.129" stopTime="342.323">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="331.129" offset="1427882">Well, then their tax returns would have to be amended to reflect that there was no payment to another state.</text>
+            <text syncTime="338.891" offset="1458915">So then the payment would have to made to Maine, Massachusetts and Vermont.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="342.323" stopTime="344.923">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="342.323" offset="1472603">Is all that as quite as clear as you make it sound?</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="344.923" stopTime="349.564">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="344.923" offset="1483052">I believe it is, Mr. Justice.</text>
+            <text syncTime="348.073" offset="1495591">To refuse to allow us --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="349.564" stopTime="351.374">
+            <label>Justice Byron R. White</label>
+            <text syncTime="349.564" offset="1501547">Do you need an injunction?</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="351.374" stopTime="354.718">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="351.374" offset="1508861">Well, we need an injunction to get an accounting.</text>
+            <text syncTime="353.576" offset="1517638">We need an injunction because --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="354.718" stopTime="361.627">
+            <label>Justice Byron R. White</label>
+            <text syncTime="354.718" offset="1522236">Do you need an injunction to force New Hampshire not to enforce its tax?</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="361.627" stopTime="365.888">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="361.627" offset="1549821">Well, they could do it on their own, but at present they sent out a notice right after this --</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="365.888" stopTime="367.880">
+            <label>Justice Blackmun</label>
+            <text syncTime="365.888" offset="1566853">What was the result of Austin?</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="367.880" stopTime="384.165">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="367.880" offset="1574794">The result of Austin was, they instructed their employers and their states to stop withholding taxes after March 19.</text>
+            <text syncTime="375.943" offset="1607082">However, they instructed those people to continue to make payments for money that was collected prior to March 19.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="384.165" stopTime="391.883">
+            <label>Justice Byron R. White</label>
+            <text syncTime="384.165" offset="1639996">But as far as the future is concerned the harm to Maine will not occur again?</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="391.883" stopTime="405.964">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="391.883" offset="1670820">Just to the extent that the money that was collected prior to Austin, they are going to requite returns to be made next year as I understand it, on moneys that are characterized already as unconstitutionally taken from our citizens.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="405.964" stopTime="409.313">
+            <label>Justice Jr.</label>
+            <text syncTime="405.964" offset="1727140">Well I gather that would be as to earnings up to March 19?</text>
+          </turn>
+          <turn speaker="joseph_e_brennan" startTime="409.313" stopTime="464.102">
+            <label>Mr. Joseph E. Brennan</label>
+            <text syncTime="409.313" offset="1740620">Correct, Mr. Justice.</text>
+            <text syncTime="412.691" offset="1754099">To refuse to allow us to file a complaint based on these facts would encourage petty retaliatory action in the future.</text>
+            <text syncTime="419.016" offset="1779385">It will encourage states to adapt tax laws of dubious legality in the knowledge that they may be able to return their ill-gotten gains.</text>
+            <text syncTime="426.774" offset="1810419">On the other hand to accept this complaint would further the policies of non-retaliation long articulated by this Court.</text>
+            <text syncTime="434.031" offset="1839467">It will would place the states on notice that they must develop their taxing schemes with great care.</text>
+            <text syncTime="440.466" offset="1865171">Finally, the court should not adapt the rule which might encourage some states beset by immediate physical crisis to give less than careful care in adopting tax laws which may be unconstitutional.</text>
+            <text syncTime="453.241" offset="1916267">So we will urge you very respectfully to permit the plaintiff states to file a complaint.</text>
+            <text syncTime="459.006" offset="1939359">Mr. Scotch from Vermont has the other 15 minutes.</text>
+            <text syncTime="462.295" offset="1952525">Thank you.</text>
+          </turn>
+        </section>
+        <section startTime="464.102" stopTime="1817.892" revised="2014-01-21">
+          <heading>Argument of Benson D. Scotch</heading>
+          <turn speaker="warren_e_burger" startTime="464.102" stopTime="470.818">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="464.102" offset="1959735">Mr. Scotch?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="470.818" stopTime="532.337">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="470.818" offset="1986589">Mr. Chief Justice and may it please the Court.</text>
+            <text syncTime="476.376" offset="2008845">I come here to talk about the seriousness and the dignity of the complaint of the three plaintiff states against the State of New Hampshire.</text>
+            <text syncTime="485.466" offset="2045207">I originally had planned before hearing the earlier argument to dwell principally on the question of retroactivity, for I think no other question raises the equities between the plaintiff states and New Hampshire better than the question of retroactivity.</text>
+            <text syncTime="500.927" offset="2107065">In approaching this particular equities question, it seems to be we fall back immediately on this Court's own declarations in retroactivity cases.</text>
+            <text syncTime="511.339" offset="2148652">I think it is important to note that at the time New Hampshire adapted its commuter's income tax case, tax, Ward against Maryland had been decided by some 90 years previous.</text>
+            <text syncTime="525.807" offset="2206540">Some 56 years ago in this very room, Travis was argued. Since that time -</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="532.337" stopTime="535.628">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="532.337" offset="2232662">This room has only been here for about 40 years.[Laughter]</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="535.628" stopTime="536.927">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="535.628" offset="2245828">In this building, Your Honor.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="536.927" stopTime="540.322">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="536.927" offset="2251052">You know, the building has only been here for about --[Laughter]</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="540.322" stopTime="863.215">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="540.322" offset="2264636">The point is that as far as the [Laughter] as far as the case is concerned, certainly New Hampshire knew what they were doing.</text>
+            <text syncTime="548.954" offset="2299118">The books have not changed, the buildings may have.</text>
+            <text syncTime="553.139" offset="2315836">There has been virtually nothing since Travis and the date of the adoption of the commuter's income tax, that would have given any suggestion to New Hampshire that that tax could have have been constitutional.</text>
+            <text syncTime="566.465" offset="2369126">I think this is very vital.</text>
+            <text syncTime="568.321" offset="2376649">In the second Lemon against Kutrzman case, this court raised the question of whether decisions of the Court that are first impression that declare new principles of laws should be retroactively applied.</text>
+            <text syncTime="583.419" offset="2437044">I submit that at the time the commuter's income tax was adapted certainly no case of first impression or any impression had been decided by this Court or even submitted to this Court that would have given them any comfort in the adaption of their commuter's income tax case.</text>
+            <text syncTime="599.967" offset="2503186">Very important in the question of retroactivity and in the question of equities is the subject of reliance.</text>
+            <text syncTime="607.346" offset="2532652">I think it is inherent in the number of the questions that the Justices have presented both in the earlier argument and this argument.</text>
+            <text syncTime="615.551" offset="2565567">In the normal reliance situation, when in Lemon against Kutrzman in the second decision, the Court speaks of the hard facts upon which people rely.</text>
+            <text syncTime="626.789" offset="2610497">People must rely, making their decisions. Obviously the Court is speaking of two classes of people.</text>
+            <text syncTime="635.062" offset="2643516">One class is the law giver, the other class is the reliance’s interest and in each of the cases that the Court has decided in the retroactivity area, there has been a separation or bifurcation of the law giving interest, either the legislators and the courts on the one hand and upon those who are rely on the other hand, thus for example in Lemon against Kutrzman, it was the non-public schools that were reliance interest.</text>
+            <text syncTime="659.313" offset="2740587">Certainly they did not create the laws in which they had to make their decisions.</text>
+            <text syncTime="663.384" offset="2756887">Same thing in Chevron (ph) against Houston or in the frequent criminal retroactivity cases that come before this Court, most recently in the Peltier case, obviously the considerations that apply were those who are forced to rely to make their day-to-day judgments, cannot make them on the basis of shaping their own law, they are put in a bind.</text>
+            <text syncTime="685.452" offset="2845077">Essentially, the retroactivity cases in my way of thinking, allocated, divide among two interest parties, both of which are essentially innocent insofar as being able to frame and shape the law.</text>
+            <text syncTime="699.320" offset="2900561">In the case of New Hampshire adapting a commuter's income tax case, we have a very, very different situation.</text>
+            <text syncTime="704.636" offset="2921877">As will appear in the record and I would not repeat what is already in the record, at the time and prior to the time that New Hampshire adapted this tax, they were very on very good notice from task force prepared for the Governor that they were grave questions about the constitutionality of the commuter's income tax case.</text>
+            <text syncTime="723.508" offset="2997318">Mr. Hemp's (ph) opinion which is also in the record, points out how cleverly the Bill was drafted.</text>
+            <text syncTime="730.563" offset="3025531">It separates those who might complain, but will be unable to complain because they have no standing from those who are the real targets, namely the states.</text>
+            <text syncTime="740.412" offset="3064923">I would submit to this Court that it appears clear from the legislative history of this Act, that if the three surrounding states did not have tax credits, the commuter's income tax of New Hampshire never would have been adapted.</text>
+            <text syncTime="760.506" offset="3145380">The most important retroactivity-equities question that I think the Court ought to consider and that I want to address is the preposition raised by this Court in Linkletter.</text>
+            <text syncTime="772.886" offset="3194909">Will the rule whose retroactive application is sought tend to further or retard the effectiveness of the rule and I would submit in this case, the Court essentially is balancing the legitimate interest and we conceive they are legitimate interests on the part of the states to experiment with new types taxation that fit new social and political and economic conditions within the country.</text>
+            <text syncTime="799.140" offset="3299921">Balance that interest on the one hand with what I think is an equally serious interest to deter what we refer to in our brief is taxable predatory taxation or tax adventurism or the like.</text>
+            <text syncTime="814.749" offset="3362301">It is very, very important we feel to consider those interests as being very equal interest, to try to develop policies that will mediate between those interests.</text>
+            <text syncTime="827.442" offset="3413083">I would submit that if a state acts with full knowledge of the consequences and with full knowledge of the potential impediments in a statute and if that state later is not compelled to face the consequences of what it has done, then I would see no reason why any state should not adapt borderline legislation or perhaps legislation that goes well over the border.</text>
+            <text syncTime="853.836" offset="3518618">There are no sanctions.</text>
+            <text syncTime="854.797" offset="3522484">It takes three or possibly five years for these cases to wind their way though the courts.</text>
+            <text syncTime="860.971" offset="3547248">There would be no sanction or whatsoever.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="863.215" stopTime="869.567">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="863.215" offset="3556130">But do you think the law consist that it takes three to five years before they could get here?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="869.567" stopTime="870.539">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="869.567" offset="3581625">No, Your Honor.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="870.539" stopTime="876.546">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="870.539" offset="3585491">Is it a very good reason for our taking an original -- exercising original jurisdiction?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="876.546" stopTime="919.828">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="876.546" offset="3609524">In our case, it is distinguished from the previous case to be heard today, Your Honor.</text>
+            <text syncTime="881.822" offset="3630631">This tax already has been declared invalid by this Court.</text>
+            <text syncTime="885.853" offset="3646722">This is not the situation that I think Pennsylvania point they allude to, their argument try to suggest would develop, if the Court took jurisdiction of this case.</text>
+            <text syncTime="895.452" offset="3685175">It is not a very common situation where a legislative history has developed, reflecting a direct intent to act against the treasury of a sister state and where indeed the legislative history indicates that unless the tax laws of the second state were not susceptible to this treatment, the tax would not be adapted at all.</text>
+            <text syncTime="915.251" offset="3764273">I think this would not be a large case finding decision in that sense.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="919.828" stopTime="940.947">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="919.828" offset="3782664">But that is a part of presumably the law of the Interstate Commerce Clause, that and you say you have got a strong case here under that because of that fact, but if we start taking these cases, we are going to have to entertain arguments that are presumably a good deal less persuasive than yours, once we let the cases in the Court?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="940.947" stopTime="954.707">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="940.947" offset="3867091">I would simply urge, Mr. Justice Rehnquist that in the case of the three plaintiff states here represented, we did not come directly to the Court.</text>
+            <text syncTime="949.750" offset="3902305">We bided our time in Austin against New Hampshire and it was a long time and costly time.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="954.707" stopTime="956.754">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="954.707" offset="3922158">Did you put an answer in any of that litigation?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="956.754" stopTime="1073.507">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="956.754" offset="3930308">We appeared as an -- as an amicus curiae and yes we did, we participated directly.</text>
+            <text syncTime="963.880" offset="3958833">We felt that was the proper route to go, not alone in terms of the limited original jurisdiction of this Court, but in terms of giving New Hampshire the opportunity through their court system or through their legislators to recant and they did not do so.</text>
+            <text syncTime="979.527" offset="4021423">We feel at this point that the tax having been declared unconstitutional, this is not a case finding decision.</text>
+            <text syncTime="987.102" offset="4051725">This is a very unusual set of circumstances and we feel that we have gone to court in the right order, starting with the state where we ought to have started and in that sense it is not comparable at all to the condition of the suit by Pennsylvania against New Jersey.</text>
+            <text syncTime="1001.849" offset="4110762">Not to cast any suggestion about the merits of their original action, but we felt differently at the time and we so conducted ourselves.</text>
+            <text syncTime="1011.378" offset="4148796">I want to address myself to a point that has been raised in several connections by the justices and that is what I call “the so-called litigation question.”</text>
+            <text syncTime="1019.698" offset="4182128">Why should not the states repeal their credits?</text>
+            <text syncTime="1023.595" offset="4197697">I wanna draw a clear distinction between cases like Massachusetts against Missouri or Texas against Florida, where we are dealing with death taxes.</text>
+            <text syncTime="1033.925" offset="4238971">The income tax credit is not only a fact of life today, virtually throughout the country, but in this particular instance our failure to grant the credit would have meant effective double taxation to our own citizens and I would simply urge that in economic realities of an income tax, particularly in today’s economic conditions where wages in our particular part of the country are not high, doubling the income tax of our own citizens in order to re-dress the wrong committed by New Hampshire did not come to us as a really viable alternative.</text>
+            <text syncTime="1071.932" offset="4391003">Mr. Justice Rehnquist --</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="1073.507" stopTime="1085.744">
+            <label>Justice Blackmun</label>
+            <text syncTime="1073.507" offset="4397377">Mr. Scotch, I do not follow you on the doubling of the tax.</text>
+            <text syncTime="1077.556" offset="4413573">I thought New Hampshire had a credit for that, am I in error?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1085.744" stopTime="1145.601">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1085.744" offset="4446278">I believe they have a credit for their own citizens, but I believe the outcome is as conceded earlier in arguments where New Hampshire -- where -- I am sorry, where Pennsylvania made reference to the possible double taxation suggests and together with New Hampshire’s own brief in this matter suggest that there would be no falling away of the New Hampshire tax in the event that we dropped our credits.</text>
+            <text syncTime="1114.124" offset="4559859">All that would fall away is that entirely hypothetical tax that was imposed upon citizens of New Hampshire who worked in Vermont and the other two states, that never could be applied because of the way it was drafted.</text>
+            <text syncTime="1127.159" offset="4611999">But it is my understanding that our dropping of our tax credit would directly involve double taxation unless of course as suggested by the Court in the oral argument, unless of course New Hampshire chose at that point to drop it is commuter's income tax, that is a completely speculative matter.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1145.601" stopTime="1156.020">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1145.601" offset="4685769">Really, your distinction between death taxes double and income tax double is really boils down to nothing more than the idea that dead people cannot vote, does it not?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1156.020" stopTime="1169.303">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1156.020" offset="4727356">No, your honor.</text>
+            <text syncTime="1157.385" offset="4732894">Even in the area of death taxes, we found out in Texas against Florida, where the viable claims are mutually exclusive, this Court will take jurisdiction.</text>
+            <text syncTime="1166.810" offset="4770510">All I am suggesting is that -</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="1169.303" stopTime="1177.619">
+            <label>Justice Blackmun</label>
+            <text syncTime="1169.303" offset="4780541">Well, what is the real reason in Texas against Florida that the combined asserted tax by all of the states exceeded the --</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1177.619" stopTime="1179.083">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1177.619" offset="4813769">That is right.</text>
+            <text syncTime="1178.625" offset="4817844">They were mutually --</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="1179.083" stopTime="1182.999">
+            <label>Justice Blackmun</label>
+            <text syncTime="1179.083" offset="4819620">--timely -- timely this Court took jurisdiction?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1182.999" stopTime="1185.863">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1182.999" offset="4835294">Yes, Your Honor, that is correct.</text>
+            <text syncTime="1185.017" offset="4843340">What I am suggesting is --</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="1185.863" stopTime="1188.432">
+            <label>Justice Blackmun</label>
+            <text syncTime="1185.863" offset="4846788">It is a long, slow road, even there?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1188.432" stopTime="1275.613">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1188.432" offset="4857028">Yes it was, Your Honor.</text>
+            <text syncTime="1189.351" offset="4860685">What I am suggesting in answer to the argument volenti non fit injuria, is that we as a state need to consider the injuria, what or what kind of injury are we visiting upon our citizens.</text>
+            <text syncTime="1201.649" offset="4909900">Must we be compelled to take the corrective steps, where there has been harm, deliberate harm as will appear on the statutory history of this Act, I think talking of old common law doctrine, that it was clear common law doctrine, that mitigation of damages need not be taken where the mitigation itself would be unreasonable or would cause undue harm to others.</text>
+            <text syncTime="1225.406" offset="5004985">In fact, I think our old common law case is going back to the 17th Century make clear the right for example, of the Lord of the matter, the defendant servant, I would suggest an equal preposition in our case that the states have not only the right to defend their citizens and the ability of the citizens to continue to work, but probably a duty to do so, I would submit it would have been a number of years before New Hampshire could have practically considered the repeal of its commuter's income tax.</text>
+            <text syncTime="1255.649" offset="5125880">Talking of our own proprietary interest, I think it would be demonstrable from masters appointed in this case to show that the incomes of many of our commuters are at such a level that the doubling of their income taxation would make it economically inconsequential for them to continue working.</text>
+            <text syncTime="1274.232" offset="5200277">Many of our people --</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="1275.613" stopTime="1284.126">
+            <label>Justice Blackmun</label>
+            <text syncTime="1275.613" offset="5205815">I guess my problem and I would not repeat it anymore, I fail to see the doubling of the tax and it is certainly was not true in Austin against New Hampshire?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1284.126" stopTime="1314.404">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1284.126" offset="5239774">Well, that is what we are -- I believe and of course this is a matter we can submit further, written document, I believe the tax is written in such a way that the benefit of our -- the benefits uphold of our dropping of our credit, our credit would not accrue to our own citizens.</text>
+            <text syncTime="1305.833" offset="5326605">Well, that is a technical matter.</text>
+            <text syncTime="1307.879" offset="5334860">I believe we are right on it and we will leave it to New Hampshire, perhaps to declare whether that is correct or not.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="1314.404" stopTime="1323.001">
+            <label>Justice Blackmun</label>
+            <text syncTime="1314.404" offset="5360982">Again my difficulty basically is to see -- to conclude that New Hampshire was such a rascal always?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1323.001" stopTime="1329.300">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1323.001" offset="5395359">Well, we -- we in Vermont of course have our own very strong views on New Hampshire (Voice Overlap)</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1329.300" stopTime="1331.146">
+            <label>Unknown Speaker</label>
+            <text syncTime="1329.300" offset="5420541">(Voice Overlap)</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1331.146" stopTime="1492.887">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1331.146" offset="5427856">I would like finally if I may to address a remark or two about Massachusetts against Missouri.</text>
+            <text syncTime="1338.575" offset="5457635">I find there is a very expanse if it not a profligate reliance upon Massachusetts against Missouri.</text>
+            <text syncTime="1344.616" offset="5481772">That was a very simple case as I read the case.</text>
+            <text syncTime="1347.906" offset="5494938">All the Court is saying in Massachusetts against Missouri is that Massachusetts has not stated a cause of action.</text>
+            <text syncTime="1354.966" offset="5523150">This was a case of rival, but mutually, allegedly mutually exclusive claims.</text>
+            <text syncTime="1358.985" offset="5539242">Now, it turned out not to be mutually exclusive.</text>
+            <text syncTime="1361.982" offset="5551258">There was no allegation in Massachusetts' papers in Massachusetts against Missouri, that the Missouri tax was discriminatory or that in any way the tax violated any precepts of the United States Constitution in their papers before this Court.</text>
+            <text syncTime="1379.883" offset="5622833">In fact, the sole allegation that Attorney General Deaver (ph) really is able to level in Massachusetts against Missouri that the courts of Missouri will not hear Massachusetts’ claim against the trustees of trust.</text>
+            <text syncTime="1393.600" offset="5677691">The Attorney General of Missouri was able to give that vitali by stating in open court that of course the courts of Missouri would hear a claim by Massachusetts against the trustees and that is all that Massachusetts against Missouri decides.</text>
+            <text syncTime="1407.655" offset="5733906">We are not claiming mutual exclusivity.</text>
+            <text syncTime="1410.390" offset="5744878">We are claiming in effect a direct harm to the interest of our State, a calculated harm and if you will, harm that in terms in common law analogies, it is very similar to a direct common law tort, although we have not so alleged and perhaps that states the case a little strongly.</text>
+            <text syncTime="1429.702" offset="5822096">There is nothing that we can find in Commonwealth of Massachusetts against Missouri that would lend to the general preposition that tax cases that are otherwise justiciable may not come before this Court in original jurisdiction.</text>
+            <text syncTime="1443.526" offset="5877371">It seems to me, if we make out a claim that the three plaintiff states were in fact the targets, perhaps some of this questions go to fact finding that could occur after a master is appointed, but we feel, frankly they are adequately stated on the record submitted with our papers.</text>
+            <text syncTime="1463.424" offset="5956992">We feel very strongly that on that type of theory and not a mutually exclusive theory, there is no reason why this Court, what not to on general principles of equity and common law take original jurisdiction of this case in the manner in which water diversion cases or pollution cases are taken.</text>
+            <text syncTime="1481.827" offset="6030657">For in that sense when we consider direct injury, there really is a very little distinction between those classes of cases.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1492.887" stopTime="1510.823">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1492.887" offset="6074856">Mr. Scotch it may not become relevant, but if this case proceeded as you would like to have it proceed and a special master were appointed and a jury were requested as was fairly common a hundred and seventy five years from whence would the jurors be drawn?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1510.823" stopTime="1512.464">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1510.823" offset="6146641">Well, Your Honor --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1512.464" stopTime="1517.350">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1512.464" offset="6153224">Perhaps we do not need to dwell on it, I trust you may have a ready answer for that?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1517.350" stopTime="1520.226">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1517.350" offset="6172763">Our answer would be, we would hope of --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1520.226" stopTime="1520.800">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1520.226" offset="6184257">Not from --</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1520.800" stopTime="1545.940">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1520.800" offset="6186556">Not from the State of New Hampshire [Laughter] we would certainly so argue.</text>
+            <text syncTime="1526.051" offset="6207558">We would also of course rely upon the ability of the Court as demonstrated in -- as demonstrated time and again to exercise what is inherently is equity jurisdiction and of course we would argue that as an equitable matter, a jury would be an appropriate.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1545.940" stopTime="1556.055">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1545.940" offset="6287075">Well, you read Curtis against Lozer, two years ago where we said that if you are going to award damages, you must have a jury in the federal system?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1556.055" stopTime="1599.707">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1556.055" offset="6327513">Our answer in that question Mr. Justice Rehnquist would be that I believe where a jury is called, the question of liability is at issue.</text>
+            <text syncTime="1565.802" offset="6366487">What we would argue and reply to that is that the question of liability, the question of the constitutionality of the tax at any rate is the question which already has been disposed of by this Court.</text>
+            <text syncTime="1576.540" offset="6409433">All that is left to do is to add up a bill.</text>
+            <text syncTime="1580.069" offset="6423643">How much in fact has New Hampshire diverted, assuming arguendo that our diversion argument will prevail, I would submit to this Court that on the narrow question of adding up the tally and perhaps adding up the interest which we hope also would be added, that is not only an appropriate to require a jury, but that is a jury with essentially --</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1599.707" stopTime="1602.951">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1599.707" offset="6502115">But, that is not traditional damage, that is more of an accounting type?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1602.951" stopTime="1718.344">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1602.951" offset="6515072">That is exactly and that again Mr. Justice Rehnquist reinforces the fact that essentially we are invoking your equity jurisdiction.</text>
+            <text syncTime="1610.394" offset="6544851">The basic question of liability in our view already has been determined by this Court in a prior proceeding and the proceeding which from our point view was the proper one that have brought and in which we participated.</text>
+            <text syncTime="1626.501" offset="6609322">I would like if I might in my remaining time to refer to an issue that raised in the other argument that is not explicitly raised by New Hampshire, but I think as a penumbra matter it may certain be brought up in connection with our case and that is the question of whether the individuals would be necessary parties if this Court would take jurisdiction.</text>
+            <text syncTime="1653.095" offset="6715692">I would like to suggest an answer to that that all three states have maintained their rights against their individual tax payers and if following our successful prosecution of this case in original jurisdiction, any tax payer of the State of Vermont would have appeared in New Hampshire court, claiming the same types of damages, our answer would be and although it would be inappropriate for us to appear as parties, we certainly would apply to appear as amicus.</text>
+            <text syncTime="1683.404" offset="6836900">Our approach would be in that case to suggest to the trial court of New Hampshire that no claim remains.</text>
+            <text syncTime="1690.338" offset="6864695">Any recovery that might be garnered by a citizen of Vermont in a court of New Hampshire would be matched by a contrary claim by Vermont against that citizen based upon a revocation of the credit.</text>
+            <text syncTime="1703.457" offset="6917149">Of course that is a moot issue if we have already received that credit money directly back from New Hampshire.</text>
+            <text syncTime="1710.708" offset="6946197">I guess in short the answer would be no claim remains after our successful prosecution of this case in this Court.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1718.344" stopTime="1729.054">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1718.344" offset="6976708">Even though under your submission, a Vermont commuter into New Hampshire was unconstitutionally required to pay taxes by New Hampshire?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1729.054" stopTime="1734.077">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1729.054" offset="7019549">That would be Your Honor, damnum absque injuria.</text>
+            <text syncTime="1732.368" offset="7032819">There has been no harm, but the --</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1734.077" stopTime="1737.603">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1734.077" offset="7039611">Well, he sure thinks there is harm I would imagine?</text>
+          </turn>
+          <turn speaker="benson_d_scotch" startTime="1737.603" stopTime="1817.892">
+            <label>Mr. Benson D. Scotch</label>
+            <text syncTime="1737.603" offset="7053717">Not if he has been given full credit by the state of Vermont made in Massachusetts.</text>
+            <text syncTime="1742.690" offset="7074092">He may have been harmed initially, but certainly any money that he would recover would be double recovery for him.</text>
+            <text syncTime="1749.573" offset="7101573">He has been granted a credit.</text>
+            <text syncTime="1750.740" offset="7106275">If he gets another payment from New Hampshire he has been doubly been enriched.</text>
+            <text syncTime="1754.885" offset="7122889">We certainly would not tolerate that and we would state in Court that we would appear in New Hampshire in some appropriate forum to bar that claim.</text>
+            <text syncTime="1763.515" offset="7157371">We just do not think that is a viable possibility in the courts of New Hampshire.</text>
+            <text syncTime="1771.157" offset="7187986">In conclusion, I simply would say that, although we recognize the fierce independent spirit that seems to be apparent today, particularly in our region of the country, that spirit ought to be guided under the mantle of the Constitution and not contrary to it or around it.</text>
+            <text syncTime="1791.393" offset="7268861">That the main point I would like to leave with the Court is that if this is not an appropriate case, to look at the intention of the legislature, to see if any intentional wrong and intentional harm was meant at the time they adapted their statute and in fact effectuated, then I can imagine any such case ever being brought to this Court.</text>
+            <text syncTime="1814.406" offset="7360917">Thank you very much.</text>
+          </turn>
+        </section>
+        <section startTime="1817.892" stopTime="3250.422" revised="2014-01-21">
+          <heading>Argument of Charles G. Cleaveland</heading>
+          <turn speaker="warren_e_burger" startTime="1817.892" stopTime="1833.564">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1817.892" offset="7374918">Thank you Mr. Scotch.</text>
+            <text syncTime="1821.362" offset="7388816">Mr. Cleaveland, I am sure you will agree that you would not need to repeat any of the arguments that your friend from New Jersey made on behalf of State of New Jersey?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="1833.564" stopTime="2052.770">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="1833.564" offset="7437612">Mr. Chief Justice may it please the Court.</text>
+            <text syncTime="1835.351" offset="7444718">I would have to confess that with the arguments that have gone before me, I am certainly in a position of being last, I hope I shall not to be found to be least, but to pass up any discussion whatsoever of the facts of the case, the way that case arose, I think is very familiar to the Court.</text>
+            <text syncTime="1853.680" offset="7518069">I had intended to do to outline the fundamental basis of our objection to this motion for leave to file which is that this Court must in any such case a find a basis upon an actual controversy in order to obtain or to allow the original jurisdiction of this Court to be invoked.</text>
+            <text syncTime="1875.897" offset="7606886">We insist that there is no such controversy presented upon the complaint sought to be filed.</text>
+            <text syncTime="1882.893" offset="7634889">The basis upon which we say that is the case is that in the cases of Texas v. Florida and Massachusetts v. Missouri, a standard was set out in which the plaintiff seeking -- a plaintiff state seeking to invoke this original jurisdiction must have suffered wrong through the action of the defendant state furnishing ground for judicial redress or that plaintiff must be asserting a right against a defendant state of susceptible of enforcement.</text>
+            <text syncTime="1919.023" offset="7779398">The facts alleged in this complaint, demonstrate neither in either an injury in fact to the plaintiff sovereign states, nor that the circumstance which they assign as an injury is in any way caused by an action by the State of New Hampshire, if I may illustrate.</text>
+            <text syncTime="1934.471" offset="7841152">If the injury assigned is the lost of tax revenue, the complaint failed to show that New Hampshire is the cause of it since the immediate cause of the plaintiff’s failure to collect the funds is in their own credit provisions and by which waive the collection of those funds voluntarily and within their own unfetted discretion.</text>
+            <text syncTime="1955.914" offset="7926938">The first requirement of a justiciable controversy between the states namely that of an injury caused by the plaintiff state was applied in the case of Massachusetts v. Missouri and the court held there that since the plaintiff had full constitutional power to tax, the subject matter, no intransigence of the defendant state Missouri whether in the form of improper legislation or capricious administration of proper legislation would result in an injury to the plaintiff.</text>
+            <text syncTime="1986.971" offset="8051176">And simply put, the Court said, look Missouri has a statute on the books which Massachusetts thinks ought to be construed so as to allow Massachusetts the unfettered right to tax.</text>
+            <text syncTime="2001.456" offset="8109168">The Court said, okay, if that is what Massachusetts thinks let them go into Missouri and challenge the State of Missouri to prove that to its court.</text>
+            <text syncTime="2010.841" offset="8146680">The problem there was that Missouri seem to be inclined to administer its statute in a way which Massachusetts did not agree with.</text>
+            <text syncTime="2022.339" offset="8192656">The problem there was that this Court found that either state could proceed in an exhaustive manner to assert and collect the tax that it felt to be due under it is own statute.</text>
+            <text syncTime="2037.436" offset="8253051">That is still a situation in this case.</text>
+            <text syncTime="2040.700" offset="8266112">If the plaintiff states think they are entitled to the money, they have unfetted power to collect it and they have had that power since the beginning of the cause in question.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2052.770" stopTime="2068.527">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2052.770" offset="8314386">What would be the case under New Hampshire statute if Maine did not give a credit for the New Hampshire tax?</text>
+            <text syncTime="2060.159" offset="8343957">Would under your present law you continue to collect the ax from people working in New Hampshire, but who are residents of Maine?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2068.527" stopTime="2082.735">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2068.527" offset="8377393">I believe sir your addressing the question that came up before and that is if during the existence of the New Hampshire tax, Maine had dissolved the credit, would New Hampshire still assert the tax (Voice Overlap)</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2082.735" stopTime="2090.966">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2082.735" offset="8434236">Well I do not know (Voice Overlap).</text>
+            <text syncTime="2083.757" offset="8438311">That is not my question.</text>
+            <text syncTime="2085.755" offset="8446357">Under the law as it was written, would have -- it had been collected?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2090.966" stopTime="2103.005">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2090.966" offset="8467150">As the law was written, Your Honor, yes that is correct.</text>
+            <text syncTime="2094.235" offset="8480211">We did not have entirely a so called “sponge tax.”</text>
+            <text syncTime="2099.250" offset="8500273">It was not self destructing in the sense that the credit (Voice Overlap).</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2103.005" stopTime="2113.722">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2103.005" offset="8515320">(Voice Overlap) It may be that -- it may be that if Maine eliminated the credit maybe New Hampshire would change its law, but under the law as it was written, the tax would still be payable?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2113.722" stopTime="2146.445">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2113.722" offset="8558161">That is correct, Your Honor and the significance of that I think is this.</text>
+            <text syncTime="2116.881" offset="8570804">Although it may be said that that would constitute a ground for either the Austin case to have proceeded or this case to proceed, I think the -- in the context of an equity consideration of this case, what to show is that the only thing that the plaintiff states had to do in order to really throw New Hampshire’s case into a cold tab (ph) back in 1970, was to repeal that credit.</text>
+            <text syncTime="2145.377" offset="8684802">Now --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2146.445" stopTime="2147.590">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2146.445" offset="8689087">Why would that have done that?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2147.590" stopTime="2173.688">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2147.590" offset="8693684">Keep in mind, sir, that the New Hampshire court rendered its decision upon a finding of no substantial injury in fact.</text>
+            <text syncTime="2156.854" offset="8730778">That was the only thing they decided.</text>
+            <text syncTime="2159.202" offset="8740078">They did accept jurisdiction of the case on the theory that they would allow standing to any tax payer to raise just about any question at all, but they find that they were not entitled really to raise a constitutional issue because they were not injured.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2173.688" stopTime="2180.148">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2173.688" offset="8798069">How about -- repealing the credit would not have knocked the New Hampshire tax into a cold tab (ph)?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2180.148" stopTime="2186.113">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2180.148" offset="8823878">Well, I think it would Your Honor, in the Court.</text>
+            <text syncTime="2182.225" offset="8832238">What I am saying is that as the case would have appeared in the New Hampshire Supreme Court --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2186.113" stopTime="2190.358">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2186.113" offset="8847807">Yes, as far as New Hampshire that you are just saying it would have been declared illegal?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2190.358" stopTime="2194.216">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2190.358" offset="8864734">I am saying -- the possibility is very real, Your Honor.</text>
+            <text syncTime="2192.463" offset="8873198">I think it is something which has to be considered.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2194.216" stopTime="2203.343">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2194.216" offset="8880198">But New Hampshire did not recognize that fact by any provision in this law that said that their tax is contingent upon another state granting a credit?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2203.343" stopTime="2266.403">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2203.343" offset="8916665">That is correct, Your Honor.</text>
+            <text syncTime="2204.683" offset="8922099">I think the effect is one which has to be considered and to some extent they are hypothetical, but I think it is a very certain hypothetical and given the way that New Hampshire Supreme Court decided the case.</text>
+            <text syncTime="2221.061" offset="8987509">In summing up my discussion of Massachusetts v. Missouri, I think it is very easy to read that case as being dispositive of this case simply because the analogy is direct.</text>
+            <text syncTime="2233.244" offset="9036306">Here the plaintiffs have the full power to tax irrespective of the validity of any New Hampshire statute and the rules were entirely the product of their own forbearance in the form of this tax credit.</text>
+            <text syncTime="2244.916" offset="9083013">Now, this court held in Austin that devoidity of the New Hampshire statute may not turn upon the configuration of the statutes of another state, namely Maine.</text>
+            <text syncTime="2253.940" offset="9119062">Well, just so the power of the plaintiff states to have wholly prevented their losses and to recoup those losses now for that matter, in no way depend upon the configuration of New Hampshire statutes.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2266.403" stopTime="2271.093">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2266.403" offset="9168904">You are saying that Maine and the other states have the right to put a double tax?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2271.093" stopTime="2273.554">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2271.093" offset="9187712">That is correct, Your Honor.</text>
+            <text syncTime="2272.575" offset="9193668">Curry v. McCanless, Travis --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2273.554" stopTime="2278.704">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2273.554" offset="9197534">Yeah, but you sort of put right in quotes, do you not?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2278.704" stopTime="2291.790">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2278.704" offset="9218118">The right, well, in the sense that -- yes I have, I would say they have the power, that they have the right, I think it is in a legal sense the same thing whether it would be --</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2291.790" stopTime="2296.113">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2291.790" offset="9270468">Not to be double taxation, is it not automatic indication of unconstitutional (Voice Overlap)</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2296.113" stopTime="2324.448">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2296.113" offset="9287813">Correct, Your Honor.</text>
+            <text syncTime="2297.662" offset="9293978">What I am saying is, in the sense of an equitable consideration of the plaintiffs’ rights now to come back against New Hampshire to recover the money, the fact that they could have taken action in 1970, which would have literally blown our statute out of the water, constitutionally, is now should be held against them with respect to their right to claim.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2324.448" stopTime="2336.870">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2324.448" offset="9401080">(Voice Overlap) say that double taxation is perfectly illegal and then say that if Maine had repealed its credit in 1970 it would have blown your tax out of the water constitutionally?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2336.870" stopTime="2372.450">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2336.870" offset="9450817">From the standpoint of Maine alone, I am assuming now that the -- let us assume for instance the shape of the Carter case.</text>
+            <text syncTime="2349.344" offset="9500659">Two states have broad-base income taxes and one of them reaches non-residence, the other does not.</text>
+            <text syncTime="2356.643" offset="9529916">The one in which the non-residents are reached is sued on the theory that that is unconstitutional.</text>
+            <text syncTime="2363.548" offset="9557501">The holding of course is that it is not even though it results in double taxation and even though the state in which they reside does not grant a credit.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2372.450" stopTime="2386.821">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2372.450" offset="9593132">Oh, I do not know that -- I thought you said a while ago New Hampshire will certainly be entitled the tax income earned in -- within the state even if Maine tax it also?</text>
+            <text syncTime="2385.216" offset="9644228">That is what --</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2386.821" stopTime="2425.307">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2386.821" offset="9650602">If both states have constitutional provisions Your Honor, double taxation does not present any automatic constitutional conflict.</text>
+            <text syncTime="2395.938" offset="9687069">The point I am trying to make is that if Maine has repealed it is tax credit originally or for that matter administratively denied it to persons earning an income in New Hampshire on the theory that the New Hampshire tax is not a valid tax, therefore, it does not exist, therefore no credit.</text>
+            <text syncTime="2418.750" offset="9778288">Either of those two theories, that would have enhanced, excuse me --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2425.307" stopTime="2429.581">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2425.307" offset="9804515">(Inaudible) New Hampshire Supreme Court, would it not?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2429.581" stopTime="2435.337">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2429.581" offset="9821651">That was -- if you want to characterize them as tender mercies Your Honor, yes, it is true, they would be in --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2435.337" stopTime="2445.230">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2435.337" offset="9844639">I say that, you have raised the second point, how does that prevent them from maintaining their action here?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2445.230" stopTime="2447.414">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2445.230" offset="9884241">The thing that prevents them from maintaining the action here is --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2447.414" stopTime="2459.288">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2447.414" offset="9893018">Because when I read the constitution, it says that the State of Maine does not have to go to the Supreme Court of New Hampshire, if it has got an argument with the State of New Hampshire?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2459.288" stopTime="2479.658">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2459.288" offset="9940456">The question is whether it actually has an argument with the State of New Hampshire, Your Honor.</text>
+            <text syncTime="2463.424" offset="9956966">The State of Maine was never a tax payer to New Hampshire.</text>
+            <text syncTime="2466.790" offset="9970445">The New Hampshire statute never had any application whatsoever to the State of Maine as a sovereign.</text>
+            <text syncTime="2471.189" offset="9988104">It created no rights in behalf of the State of Maine, Massachusetts, or Vermont and created no liabilities upon them.</text>
+            <text syncTime="2477.834" offset="10014644">They simply ignored them.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2479.658" stopTime="2482.800">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2479.658" offset="10021958">Is that the entire position of the state?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2482.800" stopTime="2484.965">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2482.800" offset="10034497">In a way it is Your Honor.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2484.965" stopTime="2487.998">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2484.965" offset="10043170">Do you need any better way if you are right on that?</text>
+          </turn>
+          <turn speaker="charles_g_cleaveland" startTime="2487.998" stopTime="3247.653">
+            <label>Mr. Charles G. Cleaveland</label>
+            <text syncTime="2487.998" offset="10055291">I think it is sufficient.</text>
+            <text syncTime="2488.864" offset="10058739">That is why I said I think given only that finding alone I think Massachusetts v. Missouri is dispositive of this case.</text>
+            <text syncTime="2494.670" offset="10082040">I think the --</text>
+            <text syncTime="2497.560" offset="10093534">Mr. Justice Blackmun’s dissent really comes home in an analysis of this case simply because any injury that the three states who are now plaintiffs and have sustained is caused as a matter of congeniality is entirely attributable to to the existence of those tax credits which they were no ways required constitutionally to maintain.</text>
+            <text syncTime="2522.684" offset="10194053">I think in terms of an equitable analysis of the case, they should have been involved in this case from the beginning.</text>
+            <text syncTime="2531.716" offset="10230207">I notice my brother argued that they felt that the proper procedure was to remain in the wings, but to ask them to take part and aid the Austin plaintiffs in raising their constitutional question.</text>
+            <text syncTime="2544.176" offset="10280048">If that so then where were they in the context of raising their arguments with respect to recovery of funds then.</text>
+            <text syncTime="2554.916" offset="10322993">I see a considerable element of the Equitable Doctrine of Laches applying here.</text>
+            <text syncTime="2561.548" offset="10349534">A court of equity which this Court has held itself to be when considering original actions is very reluctant and should be very reluctant to award damages to a plaintiff to allow a recovery against a defendant when the plaintiff has an effect side on his hands and allow the injury to magnify many fold.</text>
+            <text syncTime="2582.936" offset="10435111">That is the essence of my argument in saying that if they had simply taken the action in 1970 and had the courage of their convictions to do so, this case would have had an entirely different configuration in a New Hampshire Supreme Court and the analysis and the theory upon which the New Hampshire Supreme Court held the tax to be valid could not have been made because it is simply was not true.</text>
+            <text syncTime="2609.373" offset="10540855">As a matter of fact, New Hampshire Supreme Court held that there was no substantial injury in fact.</text>
+            <text syncTime="2614.663" offset="10561962">If Maine had repealed the tax credit, they are clearly would have been, there would have been double taxation.</text>
+            <text syncTime="2621.653" offset="10589965">I admitted this much in my argument before this Court in Austin last spring.</text>
+            <text syncTime="2630.344" offset="10624656">Simply put, we think the claims here are not mutually exclusive in the sense of Texas v. Florida.</text>
+            <text syncTime="2640.231" offset="10664257">They are rather precisely analogous to that in Mass. v. Missouri.</text>
+            <text syncTime="2644.691" offset="10682125">The second basis upon which a controversy can be maintained here is that there is a right susceptible of judicial enforcement.</text>
+            <text syncTime="2658.421" offset="10736982">Assuming for the sake of argument, that the Austin decision create a right in someone to a money judgment on the theory that taxes have been collected improperly, that supposed right does not tenure to the plaintiffs sovereign states.</text>
+            <text syncTime="2672.459" offset="10793198">Now, these states were of course not tax payers to New Hampshire.</text>
+            <text syncTime="2675.359" offset="10804796">As I said before they were in -- the statute in New Hampshire had nothing to do with the three plaintiff states here.</text>
+            <text syncTime="2683.256" offset="10836352">Now, the principles upon which the Austin case turn, that is the Privileges and Immunities Clause, did not operate to the benefit of sovereign states.</text>
+            <text syncTime="2691.801" offset="10870520">Since there not persons within the meaning of that provision.</text>
+            <text syncTime="2695.445" offset="10885149">Now, if the right asserted here inheres in anyone it inheres in the former tax payers to New Hampshire who are citizens of the three plaintiff states.</text>
+            <text syncTime="2704.667" offset="10922033">Now, if the state may not hold forth in this Court in such bulk litigation of private claims is settled beyond question.</text>
+            <text syncTime="2712.380" offset="10952858">In New Hampshire v. Louisiana, Illinois v. Michigan, a long line of cases, this Court has denied a state the right to litigate claims on behalf of private citizens in particular.</text>
+            <text syncTime="2726.753" offset="11010327">In Oklahoma v. Cook, Court held that a state is barred from litigating claims on behalf of citizens where the interest of the states arises solely as a result of a statute of the plaintiff state.</text>
+            <text syncTime="2740.227" offset="11064244">Simply put that means that the Court was saying that a state may not legislate its way into the original jurisdiction of this Court, that we submitted is what the three plaintiff states have done in affect with their tax credit provisions.</text>
+            <text syncTime="2756.730" offset="11130282">Now, the plaintiff’s attempted reliance upon the Missouri v. Illinois and Arizona v. California lines of cases is misplaced we suggest.</text>
+            <text syncTime="2763.662" offset="11157971">Firstly, these are uniformly instances in which the remedy of injunction was appropriate to halt the action or activity of the defendant state.</text>
+            <text syncTime="2773.612" offset="11197782">That remedy is simply inappropriate here since the tax was effectively halted by Austin case which arose through conventional appellate channels.</text>
+            <text syncTime="2785.374" offset="11244802">Furthermore, the notion of enjoining state action that -- state taxation excuse me, by application to the Federal Judiciary is the evil redress and eliminated by the Federal Anti-tax injunction Statute.</text>
+            <text syncTime="2800.230" offset="11304257">Any resort to this Court on the theory of Missouri v. Illinois for an injunction is clearly in contravention of the -- at least the spirit of that statute is not the substance of it.</text>
+            <text syncTime="2818.315" offset="11376564">Now, I would mention in reply to a contention that the action taken by New Hampshire was directed at the treasuries of the three states and not a good faith effort to -- if you will experiment in valid state taxation, I think that is a first placed question that comes upon the merits of case which is not before the bar now.</text>
+            <text syncTime="2858.747" offset="11538314">Secondly, it is in large measure an issue of fact which would, if the cases allowed to be filed, require reference to a Master.</text>
+            <text syncTime="2868.709" offset="11578125">And third, it simply does not hold water.</text>
+            <text syncTime="2875.605" offset="11605710">As Mr. Justice Blackmun said, he has trouble seeing the State of New Hampshire as being rascal in this situation.</text>
+            <text syncTime="2882.559" offset="11633505">Quite obviously so do I.</text>
+            <text syncTime="2886.828" offset="11650641">I think the merits of the case of are something which need not be considered now and more appropriately should not be considered now because when the question is one of jurisdiction, a lack of jurisdiction is fatal to a case no matter how strong the case may be on the merits.</text>
+            <text syncTime="2919.540" offset="11781462">The third point, I would like to raise is that the former tax payers of New Hampshire are necessary parties to this action.</text>
+            <text syncTime="2925.252" offset="11804345">This issue had been raised in the prior case and discussed.</text>
+            <text syncTime="2928.254" offset="11816362">I would like to amplify it only to the point of saying that the complaint in this case assumes a very credible element and that is that in the chain between a recovery against New Hampshire by a tax payer, assuming he has the right on the merits to that recovery, from there to that tax payers’ obligation to return that money to his own state on the theory that a credit was improperly allowed, there is an assumption that there is a direct equation there.</text>
+            <text syncTime="2968.654" offset="11977903">There is nothing in this complaint which goes to prove that assumption is correct.</text>
+            <text syncTime="2976.436" offset="12009041">It assumes that the tax payers who are also citizens of those three plaintiff states have no right whatsoever to interpose between a recovery from New Hampshire, assuming the tax payers were the ones to recover and the obligation to return it to their own states.</text>
+            <text syncTime="2992.701" offset="12074138">If the theory of the plaintiffs advanced in this complaint is true, that result would be reached without their interest being represented, without any opportunity for those plaintiffs to even present such a claim, if you will, or set off or however you want to characterize it.</text>
+            <text syncTime="3012.949" offset="12155118">There are certain retroactive problems which may arise in this connection.</text>
+            <text syncTime="3017.932" offset="12175075">The point is that this assumption is made in the compliant.</text>
+            <text syncTime="3022.357" offset="12192734">There was no opportunity for the tax payers themselves to be heard on that matter if the case proceeds on the original jurisdiction of this Court.</text>
+            <text syncTime="3031.428" offset="12228992">If on the other hand one considers “Alright let us bring those plaintiffs in,” then on the holding of California v. Southern Pacific Company in 157 U.S., the original jurisdiction of this Court is defeated, ousted if you will, because the presence of citizens of the plaintiff states is beyond the jurisdiction of this Court.</text>
+            <text syncTime="3054.433" offset="12321047">If they are necessary parties, they are also fatal parties.</text>
+            <text syncTime="3058.733" offset="12338288">I submit that this equation which is the basis of this complaint and is precisely that watershed point upon which the plaintiff states assert their right to the money is something which cannot be assumed over the backs of the tax payers themselves who are the only ones that ever had anything to do with the State of New Hampshire.</text>
+            <text syncTime="3082.685" offset="12434105">Now, this Court applies in consideration of original actions, the accepted doctrines of common law and equity, system of jurisprudence as much as held in Texas v. Florida.</text>
+            <text syncTime="3092.916" offset="12474961">Again to simplify with respect to the application of the Doctrine of Laches, the plaintiffs assert that the State of New Hampshire was in bad faith when it enacted the commuter's income tax.</text>
+            <text syncTime="3111.357" offset="12548731">We say to the extent the plaintiffs claim that New Hampshire should have known that the tax scheme was unconstitutional, so too the plaintiffs are also bound to have analyzed and known that law and should have responded from the beginning in a matter consistent with their convictions.</text>
+            <text syncTime="3128.432" offset="12617067">I think it is patently obvious that the great part, if not all of the injury which they have now sustained are claimed to have sustained could have been obviated by action taken in the original configuration of the cases that came before the New Hampshire Supreme Court.</text>
+            <text syncTime="3146.972" offset="12691255">It is also more likely the case that that same action can still be taken.</text>
+            <text syncTime="3152.967" offset="12715183">I would point out that this case -- that this Court in Austin remanded the Austin case to the New Hampshire Supreme Court for further proceedings consistent with the opinion of this Court.</text>
+            <text syncTime="3166.094" offset="12767741">At last check that case was still before the New Hampshire Supreme Court and there has been no action taken one way or the other.</text>
+            <text syncTime="3172.683" offset="12794073">There has been no request for any action to be taken by the new Hampshire Supreme Court, but it is still an open case in that regard.</text>
+            <text syncTime="3183.726" offset="12838272">Any comment by me would be obviously speculation as to what the plaintiffs might want to do if they were compelled to go into the New Hampshire Supreme Court, but I certainly see no constitutional bar from -- to them doing so.</text>
+            <text syncTime="3199.440" offset="12901070">I think the New Hampshire Supreme Court is an available forum.</text>
+            <text syncTime="3204.522" offset="12921446">I think a class action is certainly an available remedy.</text>
+            <text syncTime="3209.249" offset="12940358">All of this seems to add up to one simple point.</text>
+            <text syncTime="3213.060" offset="12955509">The entire claim that these three states bring is based upon this connection between their own tax payers and their right to the funds.</text>
+            <text syncTime="3223.938" offset="12999082">That was entirely within their control and I think they should be now barred from this Court for a number of reasons, some of which are purely jurisdiction, some of which are equitable, but they all come down to the same point.</text>
+            <text syncTime="3239.163" offset="13059999">It is not too late to come back and try to unwind the situation which could have been avoided with continuities.</text>
+            <text syncTime="3246.277" offset="13088420">Thank you very much.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3247.653" stopTime="3250.422">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3247.653" offset="13093958">Thank you gentleman.</text>
+            <text syncTime="3248.304" offset="13096571">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

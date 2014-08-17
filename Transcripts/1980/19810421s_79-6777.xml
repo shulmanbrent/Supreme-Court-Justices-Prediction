@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="563427">/xml/cases/1980/79_6777/19810421o_79-6777.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1980/trs/79-6777op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="117.801">
+        <title>Steagald v. United States</title>
+        <section startTime="0" stopTime="117.801">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.656">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92074">The judgments and opinions of the Court in Steagald against the United States will be announced by Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="8.656" stopTime="115.993">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="8.656" offset="126660">This case is here on writ of certiorari to the Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="14.453" offset="149857">Petitioner was convicted of narcotic offenses on the basis of evidence uncovered during the search of his residence for a federal fugitive.</text>
+            <text syncTime="26.611" offset="198445">In the courts below, petitioner argued that the search violated the Fourth Amendment because it was conducted without a search warrant.</text>
+            <text syncTime="36.681" offset="238778">The Court of Appeals objected this contention concluding that the officers who conducted the search were not required to obtain a search warrant because they had an arrest warrant for the same fugitive and reasonably believed that this fugitive might be a guest in petitioner's home.</text>
+            <text syncTime="58.645" offset="326654">For reasons stated in an opinion filed with the clerk today, we reverse.</text>
+            <text syncTime="63.819" offset="347343">The Fourth Amendment generally prohibits the search of a home without a warrant.</text>
+            <text syncTime="69.476" offset="369912">The arrest warrant possessed by the officers in this case did not satisfy this requirement.</text>
+            <text syncTime="76.981" offset="399901">It addressed only the issue of whether there was probable cause to arrest the fugitive and therefore did not consider the essential question of whether there was probable cause to believe that the fugitive was located in petitioner's home.</text>
+            <text syncTime="95.850" offset="475447">The warrant does fail to protect petitioner's Fourth Amendment right to be secure in his home from a forcible and unjustified intrusion by the government.</text>
+            <text syncTime="106.777" offset="519124">The Chief Justice concurs in the judgment.</text>
+            <text syncTime="109.998" offset="531976">Justice Rehnquist has filed a dissenting opinion in which Justice White joins.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="115.993" stopTime="117.801">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="115.993" offset="556009">Thank you Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

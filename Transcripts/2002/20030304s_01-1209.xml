@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2014-01-16T12:22:38" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="516210">/xml/cases/2002/01_1209/20030304o_01-1209.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2002/trs/01-1209_20030304-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="107.703">
+        <title>Boeing Company v. United States</title>
+        <section startTime="0.000" stopTime="107.703">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="6.177">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85399">The opinions of the Court in two cases will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="6.177" stopTime="107.703">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="6.177" offset="110059">The first case is 01-1209 Boeing Company against the United States.</text>
+            <text syncTime="11.582" offset="131688">In 1971 and again in 1984, Congress enacted statutes that provide tax incentives for American manufacturers to increase their export sales.</text>
+            <text syncTime="22.989" offset="177350">Because both statutes provide for a lesser tax burden on qualifying subsidiaries that handle exports, it is advantageous for the parent to minimize its share and maximize the subsidiary share of the aggregate income produced by export sales.</text>
+            <text syncTime="38.998" offset="241298">The statutes, however contain rather complex provisions limiting the amount of the aggregate taxable income that maybe assigned to the subsidiary.</text>
+            <text syncTime="47.882" offset="276824">This case involves the dispute over the method used by Boeing to allocate several billion dollars of research and development cost between the parent and its export subsidiaries.</text>
+            <text syncTime="60.491" offset="327293">The rules for allocating such cost are not set forth in the statutes but are covered by Treasury Department Regulations.</text>
+            <text syncTime="68.104" offset="357804">In its challenge to the Government's computation of its taxes for the years 1979 through 1987, Boeing contends that the Government has misinterpreted one regulation and improperly relied on another.</text>
+            <text syncTime="81.518" offset="411407">The District Court, following a decision by the Court of Appeals for the Eight Circuit, agreed with Boeing, but the Court of Appeals for the Ninth Circuit reversed.</text>
+            <text syncTime="90.766" offset="448397">We granted certiorari to resolve the conflict.</text>
+            <text syncTime="94.206" offset="462189">Despite the fine argument advanced by counsel, for Boeing for reason stated in an opinion filed with the Clerk, we affirm the judgment of the Ninth Circuit.</text>
+            <text syncTime="103.229" offset="498238">Justice Thomas has filed a dissenting opinion that is joined by Justice Scalia.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

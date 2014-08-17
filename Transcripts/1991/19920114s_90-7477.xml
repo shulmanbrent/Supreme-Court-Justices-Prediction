@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:24:08" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="542132">/xml/cases/1991/90_7477/19920114o_90-7477.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/90-7477_19920114-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="112.823">
+        <title>Smith v. Barry</title>
+        <section startTime="0.000" stopTime="112.823">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.881">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90841">The opinion of the Court in No. 90-7477, Smith against Barry will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="7.881" stopTime="112.823">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="7.881" offset="122292">This case comes to us on certiorari to the United States Court of Appeals for the Fourth Circuit.</text>
+            <text syncTime="14.111" offset="147265">While a state prison inmate, the petitioner, William Smith, brought suit against the prison officials and three doctors under Section 1983 of the United States Code alleging violations of his Eighth Amendment rights.</text>
+            <text syncTime="31.209" offset="215602">A federal jury found in favor of Smith on one of his claims and awarded him damages.</text>
+            <text syncTime="38.054" offset="242978">Smith filed a notice of appeal from the Trial Court's judgment.</text>
+            <text syncTime="42.573" offset="261055">The notice was filed prematurely and was ineffective.</text>
+            <text syncTime="46.745" offset="277773">Nevertheless, the Clerk of the Fourth Circuit Court of Appeals sent Smith a copy of the informal briefing form that is used in that Circuit for pro se appeals.</text>
+            <text syncTime="58.543" offset="325003">Smith filled out this form and returned it to the Court of Appeals within the time allowed by the federal rules for filing a notice of appeal.</text>
+            <text syncTime="67.533" offset="360947">The Fourth Circuit Court of Appeals dismissed Smith's appeal reasoning that an appellate brief can never substitute for the notice of appeal required by Rule 3 of the Federal Rules of Appellate Procedure.</text>
+            <text syncTime="81.457" offset="416640">We hold today that a document filed within the time specified by the Federal Rules and given the notice required by the rules is effective as a notice of appeal.</text>
+            <text syncTime="93.546" offset="465019">Accordingly, the decision below is reversed and the case is remanded for further proceedings including a determination of whether the brief filed in this case gave the notice required by the rules.</text>
+            <text syncTime="108.006" offset="522802">Justice Scalia has filed a separate opinion concurring in the judgement.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

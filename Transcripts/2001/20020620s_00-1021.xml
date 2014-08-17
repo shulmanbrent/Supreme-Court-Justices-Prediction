@@ -1,0 +1,48 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:12:11" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="837442">/xml/cases/2001/00_1021/20020620o_00-1021.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2001/trs/00-1021_20020620-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="187.455">
+        <title>Rush Prudential HMO, Inc. v. Moran</title>
+        <section startTime="0.000" stopTime="187.455">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="6.180">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87623">The opinion of the Court in two cases will be announced by Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="6.180" stopTime="187.455">
+            <label>Justice David H. Souter</label>
+            <text syncTime="6.180" offset="112283">The first of these is No. 00-1021, Rush Prudential HMO, Inc. against Moran.</text>
+            <text syncTime="17.855" offset="158990">The case comes to us on writ of certiorari to the United States Court of Appeals for the Seventh Circuit.</text>
+            <text syncTime="23.247" offset="180514">The Employee Retirement Income Security Act of 1974 (ERISA) preempts State Laws that relate to employee benefit plans, but it saves from preemption State Laws that regulate insurance.</text>
+            <text syncTime="39.791" offset="246761">The question here is whether Section 410 of the Illinois Health Maintenance Organization Act is preempted.</text>
+            <text syncTime="48.910" offset="283228">The petitioner Rush Prudential is an HMO that provides medical services for employee benefit plans covered by ERISA.</text>
+            <text syncTime="56.667" offset="314261">The respondent Debra Moran is a beneficiary under a Rush Health Plan.</text>
+            <text syncTime="61.713" offset="334428">She sought an unusual medical treatment and Rush denied it on the ground that it was not medically necessary.</text>
+            <text syncTime="68.408" offset="361177">The situation is addressed by Illinois HMO Act which guarantees that in certain disputes over the medical necessity of a treatment, an independent physician will review the claim.</text>
+            <text syncTime="80.429" offset="409243">If the reviewer decides that treatment is necessary, the HMO must provide it.</text>
+            <text syncTime="85.578" offset="429932">Moran sued to force Rush to comply with the statute.</text>
+            <text syncTime="89.959" offset="447381">The reviewer here found that Moran’s treatment was necessary.</text>
+            <text syncTime="94.353" offset="464936">Rush argued that the reviewer’s decision did not matter because the Illinois Act was preempted by ERISA.</text>
+            <text syncTime="102.454" offset="497432">The Seventh Circuit held that the Act was a law that regulated insurance and was saved from preemptions.</text>
+            <text syncTime="108.147" offset="520211">We granted certiorari and in an opinion filed today with the Clerk of Court, we affirm.</text>
+            <text syncTime="114.493" offset="545497">HMO as defined by Illinois both provides Health Care and assumes the financial risk of providing it.</text>
+            <text syncTime="121.783" offset="574754">Thus, the Act is targeted toward the segment of the insurance industry and it regulates insurance within the meaning of the ERISA provision that preserves State Law.</text>
+            <text syncTime="131.313" offset="612789">This alone would answer the question of preemption but for the fact that in Pilot Life Insurance against the Dedeaux, we held that even State Insurance Laws might be preempted if they interfered with ERISA's exclusive scheme of remedies for benefit denials.</text>
+            <text syncTime="148.033" offset="679662">Here, Rush contends that the Act provides a remedy binding arbitration and is therefore preempted under Pilot Life.</text>
+            <text syncTime="157.841" offset="718950">We do not accept the argument because the Act does not provide any cause of action or separate relief a plan member like Moran must still sue under ERSIA to obtain benefits.</text>
+            <text syncTime="170.848" offset="770986">The independent review procedure is not a true arbitration but is instead more like a medical judgment that states may regulate.</text>
+            <text syncTime="179.715" offset="806408">Justice Thomas has filed a dissenting opinion in which he is joined by the Chief Justice, Justice Scalia, and Justice Kennedy.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

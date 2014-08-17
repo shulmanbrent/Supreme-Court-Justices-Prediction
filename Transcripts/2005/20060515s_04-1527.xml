@@ -1,0 +1,52 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:48:54" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1202333">/xml/cases/2005/04_1527/20060515o_04-1527.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-1527_20060515-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="278.413">
+        <title>S.D. Warren Co. v. Maine Board of Environmental Protection</title>
+        <section startTime="0.000" stopTime="278.413">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.574">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88681">Justice Souter has the opinion in 04-1527, S. D. Warren Company versus Maine Board of Environmental Protection.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="9.574" stopTime="278.413">
+            <label>Justice David H. Souter</label>
+            <text syncTime="9.574" offset="126924">This case comes to us on certiorari to the Supreme Judicial Court of Maine.</text>
+            <text syncTime="13.963" offset="144479">S. D. Warren operates several hydropower dams on the Presumpscot River in Maine to generate electricity for its paper mill.</text>
+            <text syncTime="22.041" offset="176766">Under the Federal Power Act, Warren needs a federal license to operate its dams, and it sought to renew its licenses in 1999.</text>
+            <text syncTime="31.394" offset="214173">Section 401 of the Clean Water Act requires that anyone who seeks a federal license to conduct any activity which may result in any discharge into the navigable waters shall provide certification from the state in which the discharge originates, assuring that, among other things, state water-quality standards are met.</text>
+            <text syncTime="52.546" offset="298810">Warren was granted its licenses, but subject to its compliance with certain restrictions mandated by the state.</text>
+            <text syncTime="59.841" offset="327963">Warren claims that because its dams do not add anything to the river, they do not result in any discharge into it and so do not trigger the need for any such certification from Maine.</text>
+            <text syncTime="72.011" offset="376655">The Maine Board of Environmental Protection thought otherwise, and Warren brought this suit in the state courts to challenge that agency’s decision.</text>
+            <text syncTime="80.421" offset="410301">The Supreme Judicial Court of Maine concluded that Warren did need to obtain a state certification under Section 401 of the Clean Water Act.</text>
+            <text syncTime="89.847" offset="448021">We granted certiorari, and in a unanimous opinion filed today with the Clerk of Court, we affirm.</text>
+            <text syncTime="97.756" offset="479682">The key word in this dispute is “discharge”, a term that the Clean Water Act does not define.</text>
+            <text syncTime="103.894" offset="504237">The Act tells us that “discharge”, when used without qualification, includes a discharge of “a pollutant and a discharge of pollutants”; but “discharge” when used alone is presumably broader than these included examples, and since the broader term is not defined by the statute, we construe it in accordance with its plain meaning, which in the context of water means “flowing out or issuing out”.</text>
+            <text syncTime="129.887" offset="608204">Operating a dam obviously may cause a discharge of this sort.</text>
+            <text syncTime="134.702" offset="627430">Warren’s arguments failed to persuade us that “discharge” should be read differently from the ordinary way, invoking the statutory canon noscitur a sociis, which reminds us that a word is known by the company it keeps.</text>
+            <text syncTime="149.991" offset="688557">Warren argues that because the word “discharge” keeps company with the phrase “discharge of a pollutant”, a phrase defined to require an addition of something, then “discharge” pure and simple should also be read to require an addition.</text>
+            <text syncTime="166.274" offset="753759">But we think the statutory canon is out of place here.</text>
+            <text syncTime="169.725" offset="767551">Noscitur a sociis is useful when several items in a list share a common attribute.</text>
+            <text syncTime="175.435" offset="790330">But here, Warren seeks to extrapolate a common feature from what amounts to a list of one, the word “discharge and other pollutant” and its plural variant.</text>
+            <text syncTime="184.838" offset="827946">This defies general usage; giving one example does not convert express inclusion into restrictive equation.</text>
+            <text syncTime="192.821" offset="859920">Further, we do no think Warren’s interpretation is compelled by our prior decision in the case of South Florida Water Management District versus Miccosukee Tribe.</text>
+            <text syncTime="203.038" offset="900776">Miccosukee addressed a different section of the Clean Water Act, and it was concerned only with whether an addition had been made as required by the definition of the phrase “discharge of a pollutant”.</text>
+            <text syncTime="214.706" offset="947483">The fact that something had to be added to the water in Miccosukee under Section 402 of the Act does not answer the present question of what constitutes a discharge into water under Section 401.</text>
+            <text syncTime="228.341" offset="1002026">Warren’s reliance on legislative history is also misplaced, as it actually underscores the fact that Congress distinguished the term “discharge” and the term “discharge of pollutants” deliberately in order to use them in separate places and to separate ends.</text>
+            <text syncTime="244.255" offset="1065661">Finally, we note that Warren admits its dams create changes in the river’s movement and flow that may alter oxygen levels and be harmful to fish and eels.</text>
+            <text syncTime="254.706" offset="1107457">Changes like this fall within a state’s legitimate legislative business, and Congress passed the Clean Water Act intending to preserve the rights of the states to reduce pollution within their boundaries.</text>
+            <text syncTime="266.357" offset="1154059">We thus affirm the judgment of the Maine court and find that because a dam raises a potential for a discharge, Section 401 of the Clean Water Act is triggered, and state certification is required.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

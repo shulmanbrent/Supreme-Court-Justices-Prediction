@@ -1,0 +1,39 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-03T13:35:46" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-03</identified>
+      </history>
+      <resources>
+        <audioFile size="567761">/xml/cases/1987/86_935/19880420o_86-935.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-935op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="122.253">
+        <title>Regents of the University of California v. Public Employment Relations Board</title>
+        <section startTime="0" stopTime="122.253">
+          <heading>Opinion Announcement of Sandra Day O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.104">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80943">The opinion of the Court in No. 86-935, Regents of the University of California versus Public Employment Relations Board will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="10.104" stopTime="122.253">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="10.104" offset="121276">This case comes to us on appeal from the California Court of Appeals.</text>
+            <text syncTime="14.888" offset="140398">It involves an application of the so-called "private Express Statute", and these provision generally prohibit the carriage of mail by anyone but the United States Postal Service.</text>
+            <text syncTime="28.644" offset="195464">There are number of exceptions to this general prohibition, and the question in this case is whether either of two of those exceptions the letters-of-the-carrier exception, which allows an entity to carry its own mail or the private hands exception, which permits the carriage of mail without compensation, permit the carriage of mail involved here.</text>
+            <text syncTime="52.630" offset="291385">The appellant is a state university.</text>
+            <text syncTime="55.498" offset="302879">State labor laws have been construed by the appellee, a state agency, to require appellant to carry in its interoffice mail, certain letters that a union wants to have delivered to some of the appellant's employees.</text>
+            <text syncTime="72.847" offset="372261">The California Court of Appeals concluded that this carriage was permissible.</text>
+            <text syncTime="77.892" offset="392427">We disagree, and in an opinion filed today reverse.</text>
+            <text syncTime="82.965" offset="412803">Neither exception applies to the letters involved in this case.</text>
+            <text syncTime="87.272" offset="429939">The letters-of-the-carrier exception is inapplicable because there are the union letters not the appellant's.</text>
+            <text syncTime="94.170" offset="457524">The private hands exception is inapplicable because the business relationship between the appellant and the union indicates that the carriage would not be without compensation.</text>
+            <text syncTime="105.512" offset="502977">The opinion is joined by five members of the Court.</text>
+            <text syncTime="108.244" offset="513844">Justice White has filed an opinion concurring in the judgment; Justice Stevens has filed a dissenting opinion which is joined by Justice Marshall.</text>
+            <text syncTime="117.298" offset="550102">Justice Kennedy took no part in the consideration or decision of the case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

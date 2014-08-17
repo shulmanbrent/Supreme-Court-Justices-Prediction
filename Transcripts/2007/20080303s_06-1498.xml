@@ -1,0 +1,22 @@
+<transcript verified="true">
+      <history>
+        <edit user="jgoldman" date="2013-09-02T21:45:16" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="141773">/xml/cases/2007/06_1498/20080303o_06-1498.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2007/trs/06-1498_20080303-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="9.300">
+        <title>Warner-Lambert Co. v. Kent</title>
+        <section startTime="0" stopTime="9.300">
+          <heading>Opinion Announcement of John G. Roberts, Jr.</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.300">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="104679">In case 06-1498 Warner-Lambert versus Kent, the judgment is affirmed by an equally divided Court.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="919750">/xml/cases/1982/81_1273/19830419o_81-1273.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1982/trs/81-1273op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="206.819">
+        <title>Bowsher v. Merck &amp; Company, Inc.</title>
+        <section startTime="0" stopTime="206.819">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="9.251">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92295">The judgment and opinion of the Court in Bowsher against Merck &amp; Company and the consolidated case will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="9.251" stopTime="204.890">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="9.251" offset="129284">These cases come to us on writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit.</text>
+            <text syncTime="17.509" offset="162303">Merck &amp; Company entered into three fixed-price negotiated contracts with governmental agencies for the sale of pharmaceutical products.</text>
+            <text syncTime="26.666" offset="198875">The contract prices were based on Merck's catalog prices.</text>
+            <text syncTime="31.308" offset="217474">As required by statute, each contract contained a standard access-to-records clause granting the Comptroller General the right to examine any "directly pertinent" records involving transactions related to the contract.</text>
+            <text syncTime="47.771" offset="283302">Relying on these clauses, the Comptroller General demanded that Merck permit access to cost records pertinent to the contracts, including records of costs of direct materials, labor, and overhead, and support for the prices charged.</text>
+            <text syncTime="64.057" offset="348504">Merck refused to comply and sought a declaratory judgment in the District Court that the Comptroller General's access demand exceeded his statutory authority.</text>
+            <text syncTime="74.724" offset="391136">The District Court granted partial summary judgment for each party, permitting access to records of direct costs, including manufacturing and delivery costs, but barring access to records of indirect costs, including research and development, marketing and promotion, distribution, and administrative costs, except to the extent that those costs were included in the direct costs items.</text>
+            <text syncTime="102.111" offset="500641">The Court of Appeals affirmed and we also affirm.</text>
+            <text syncTime="107.413" offset="521853">The legislative history of the access to records provisions reveals two conflicting congressional aims.</text>
+            <text syncTime="115.126" offset="552782">On the one hand, Congress wanted to equip the General Accounting Office with a tool to detect fraud, waste, inefficiency, and extravagance in Government contracting.</text>
+            <text syncTime="126.289" offset="597399">On the other hand, by adding the words directly pertinent in the statute, Congress also intended to restrict to some degree, the Comptroller General's access power in order to prevent Government snooping into contractor's nongovernmental business affairs.</text>
+            <text syncTime="144.376" offset="669706">In this case, the appropriate balance between the public interest served by thorough GAO investigations and the private interest in freedom from governmental intermeddling in the contractor's private business affairs weighs in favor of access to Merck's direct cost records but against access to Merck's indirect cost records.</text>
+            <text syncTime="169.608" offset="770643">The fact that the records here were sought for the purpose of either conducting an economic study of the pharmaceutical industry or securing information desired by individual members of Congress does not negate the General Accounting Office's authority to examine the directly pertinent records.</text>
+            <text syncTime="189.394" offset="849846">Justice White joined by Justice Marshall has filed an opinion concurring in part and dissenting in part.</text>
+            <text syncTime="196.248" offset="877222">Justice Blackmun joined by Justice Stevens has also filed an opinion concurring in part and dissenting in part.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="204.890" stopTime="206.819">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="204.890" offset="911808">Thank you Justice O'Connor.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

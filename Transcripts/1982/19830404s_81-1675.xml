@@ -1,0 +1,33 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="342751">/xml/cases/1982/81_1675/19830404o_81-1675.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1982/trs/81-1675op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="62.577">
+        <title>Kush v. Rutledge</title>
+        <section startTime="0" stopTime="62.577">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.862">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92289">The judgment and opinion of the Court in Kush against Rutledge will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="8.862" stopTime="60.781">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="8.862" offset="127711">This case involves the construction of a provision of the Civil Rights laws that was enacted in 1871 and a statute commonly known as the Ku Klux Klan Act.</text>
+            <text syncTime="20.878" offset="175776">The provision in question prohibits the intimidation of witnesses in a federal judicial proceeding.</text>
+            <text syncTime="29.845" offset="211616">The question is whether that provision only applies to a case in which the conspiracy is motivated by an animus toward a specific class such as a racial class or does it apply to all federal proceedings.</text>
+            <text syncTime="42.794" offset="263443">There was a conflict among the Court of Appeals on the question which we granted certiorari to resolve and today we hold that the provision applies broadly to all federal proceedings and for that reason, in a unanimous opinion we affirm the judgment of the Court of Appeals for the Ninth Circuit.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="60.781" stopTime="62.577">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="60.781" offset="335332">Thank you Justice Stevens.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,47 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1051111">/xml/cases/2004/04_6964/20050613o_04-6964.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2004/trs/04-6964_20050613-opinion.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="224.489">
+        <title>Johnson v. California</title>
+        <section startTime="0.000" stopTime="224.489" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice John Paul Stevens</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.697">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the court in Johnson versus California will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="7.697" stopTime="224.489">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="7.697" offset="30720">The Batson against California, a case decided in 1986, established a three-step procedure for determining whether a prosecutor’s peremptory challenges of prospective jurors were motivated by racial bias.</text>
+            <text syncTime="22.901" offset="91533">First, the defendant must make a showing that the relevant facts raise an inference of discrimination.</text>
+            <text syncTime="28.865" offset="115357">Second, if they do, the burden shifts to the prosecutor to offer a race-neutral explanation for his peremptory strikes.</text>
+            <text syncTime="36.097" offset="144300">Third, the Court must then decide on the basis of the entire record whether the prosecutor engaged in purposeful discrimination.</text>
+            <text syncTime="44.413" offset="177633">The narrow question in this case concerns the quantum of evidence that defendants must provide at step one.</text>
+            <text syncTime="51.436" offset="205740">Petitioner, an African American, was convicted of second-degree murder and assault on a white child.</text>
+            <text syncTime="58.445" offset="233744">His jury was all white because the prosecutor used three peremptory challenges to remove all three African Americans from the jury pool.</text>
+            <text syncTime="68.744" offset="274913">Petitioner’s counsel objected that the strikes were unconstitutionally based on race.</text>
+            <text syncTime="74.218" offset="296856">The trial judge, however, did not ask the prosecutor to explain his motives.</text>
+            <text syncTime="79.059" offset="316186">Instead, the judge reviewed the record on his own and concluded that petitioner had not demonstrated a strong likelihood that the peremptory challenges were based upon group bias.</text>
+            <text syncTime="91.070" offset="364251">The California Intermediate Court of Appeals reversed but the State Supreme Court agreed with the Trial Court holding that to establish a prima facie case, the defendant must present sufficient evidence to establish that it was more likely than not, that the prosecutor was motivated by discriminatory purpose before the judge needed to ask for an explanation of this motive in exercising the peremptory challenges.</text>
+            <text syncTime="115.811" offset="463203">We granted certiorari because the Court's interpretation of Batson conflicted with the decision of the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="124.156" offset="496536">We now hold that the Ninth Circuit’s interpretation is the correct one and reversed the judgment of the California Supreme Court.</text>
+            <text syncTime="130.554" offset="522136">As we explained in greater detail in an opinion filled with the clerk, step one of Batson merely requires the defendant to produce sufficient evidence to support a plausible inference that discrimination has occurred.</text>
+            <text syncTime="143.733" offset="574903">If the defendant’s evidence establish such an inference, it is inappropriate to rely on mere speculation.</text>
+            <text syncTime="150.124" offset="600398">Instead, the trial judge should simply ask the prosecutor to explain his actual justifications for the strikes.</text>
+            <text syncTime="157.423" offset="629656">Batson’s burden shifting framework should promote the public purpose of eradicating discrimination from our civic institutions and eliminating the perception that the trial has been infected by discrimination in the jury selection process.</text>
+            <text syncTime="175.339" offset="701336">In this case, the California Supreme Court acknowledged that it certainly looked suspicious that all three African American prospective jurors were removed from the jury.</text>
+            <text syncTime="184.469" offset="737802">That inference that discrimination may have occurred where sufficient to establish a prima facie case under Batson and to require an explanation from the prosecutor.</text>
+            <text syncTime="193.827" offset="775210">We therefore reverse the judgment of the California Supreme Court and remand for further proceedings not inconsistent with our opinion.</text>
+            <text syncTime="202.229" offset="808856">Justice Breyer has filed a concurring opinion and Justice Thomas has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

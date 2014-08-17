@@ -1,0 +1,1130 @@
+<transcript verified="true">
+      <history>
+        <transcribed minutes="53">1988-11-07T10:02</transcribed>
+        <edit user="tschaefer" date="2012-06-20T15:10:36" startTime="3312.800" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <identified user="tschaefer">2012-06-20</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="13450499">/xml/cases/1988/87_1168/19881107a_87-1168.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1988/87-1168_19881107-argument.xml</sourceFile>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="alan_i_horowitz" type="advocate" gender="male" path="/advocates/ah/alan_i_horowitz" image="/advocates/ah/alan_i_horowitz/thumbnail.jpg">Alan I. Horowitz</speaker>
+        <speaker id="walter_b_slocombe" type="advocate" gender="male" path="/advocates/ws/walter_b_slocombe" image="/advocates/ws/walter_b_slocombe/thumbnail.jpg">Walter B. Slocombe</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3325.320">
+        <title>Commissioner of Internal Revenue v. Clark</title>
+        <section startTime="0.000" stopTime="1546.926">
+          <heading>Argument of Alan I. Horowitz</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.448">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="146022">We'll hear argument first this morning in No. 87-1168, Commissioner of Internal Revenue v. Donald E. Clark.</text>
+            <text syncTime="7.887" offset="177473">Mr. Horowitz, you may begin whenever you're ready.</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="10.448" stopTime="169.472">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="10.448" offset="187713">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="13.811" offset="201193">This case presents a statutory question concerning the operation of the reorganization provisions of the Internal Revenue Code.</text>
+            <text syncTime="20.763" offset="228987">For transactions that fall within the statutory definition of a reorganization, the Code provides an exception to the general rule that the entire amount of gain or loss must be recognized upon the sale or exchange of property.</text>
+            <text syncTime="32.942" offset="277784">On the theory that the reorganization represents a recasting of interests in a continuing enterprise, not a sale, the Code provides for deferral of the gain or loss that would otherwise be recognized on the transaction.</text>
+            <text syncTime="45.371" offset="327416">When the reorganization is purely stock for stock, no gain or loss is recognized at all.</text>
+            <text syncTime="51.656" offset="352598">However, when the transaction also involves, in addition to an exchange of stock, the payment of cash or other property, what is commonly known as boot, Section 356, the provision at issue here, comes into play.</text>
+            <text syncTime="65.342" offset="407351">Section 356(a)(2) provides that the gain on the transaction is to be recognized up to the amount of the boot, and it further provides that if the exchange has... and I quote...</text>
+            <text syncTime="77.300" offset="455207">"the effect of a distribution of a dividend. "</text>
+            <text syncTime="79.644" offset="464507">then it is to be treated as a dividend to the extent of the recipient's share of the undistributed earnings and profits of the corporation, and it is generally recognized, and Respondent does not dispute here, that the corporation whose earnings and profits are examined in this connection is the acquired corporation.</text>
+            <text syncTime="97.645" offset="536500">The facts of this case are as follows.</text>
+            <text syncTime="101.157" offset="550606">Respondent Clark was the sole shareholder of Basin, a closed corporation that by March 1979 had accumulated more than $2.3 million in undistributed earnings and profits.</text>
+            <text syncTime="112.914" offset="597627">N.L. Industries, a major corporation whose more than 32 million shares were traded on the New York Stock Exchange, sought to acquire Basin from Clark in the transaction that ultimately yielded Clark more than $10 million in gain.</text>
+            <text syncTime="126.244" offset="650917">N.L. offered Clark two alternatives as consideration for his stock in Basin: either a complete stock for stock deal, in which he would receive 425,000 shares of N.L., or another deal in which he would receive 300,000 shares of N.L. and in addition $3.25 million in cash.</text>
+            <text syncTime="146.176" offset="730642">Clark chose the latter alternative including cash, explaining that he needed cash to pay outstanding bills and that his whole livelihood had been tied up in Basin, and he didn't want everything tied up in N.L., where he would run the risk that something would happen to N.L.--</text>
+            <text syncTime="160.575" offset="788321">Under Section 356, therefore, Clark was required to recognize and pay tax on $3.25 million of his gain.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="169.472" stopTime="173.886">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="169.472" offset="823847">If the first alternative had been chosen, then what?</text>
+            <text syncTime="172.845" offset="837326">Would you be here?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="173.886" stopTime="207.737">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="173.886" offset="841506">No.</text>
+            <text syncTime="174.654" offset="844536">There would be no tax at all.</text>
+            <text syncTime="175.956" offset="849761">It would be tax-free... a completely tax-free transaction.</text>
+            <text syncTime="178.228" offset="858851">The bulk of the gain still remained tax-free, however.</text>
+            <text syncTime="182.011" offset="874002">The question here is whether the cash that was received by Clark should be treated as a dividend, and therefore taxed at ordinary income rates, to the extent of the $2.3 million in earnings and profits that Clark had allowed to accumulate in Basin.</text>
+            <text syncTime="195.779" offset="929069">It is the Government's contention that the boot distribution to Clark in this case clearly had the effect of the distribution of a dividend.</text>
+            <text syncTime="203.883" offset="961460">A dividend, as defined by the Code in Section 301--</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="207.737" stopTime="218.095">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="207.737" offset="976925">Mr. Horowitz, is that the basic principle of boot, really?</text>
+            <text syncTime="212.311" offset="995211">Why do we have the boot principle worked into the decisional process at all?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="218.095" stopTime="325.113">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="218.095" offset="1018303">--Well, the idea is that... the idea of not recognizing gain in the reorganization is that it's kind of paper profits, and that the... since the taxpayer is continuing his operation of the same corporation in a different form, as long as he keeps it in stock, it's the same as if his own stock had appreciated.</text>
+            <text syncTime="236.214" offset="1090819">He doesn't have to pay tax on it.</text>
+            <text syncTime="237.386" offset="1095521">He hasn't realized anything.</text>
+            <text syncTime="238.467" offset="1099805">But once he takes cash out of the transaction, then it becomes a taxable transaction, and he needs to pay tax on it.</text>
+            <text syncTime="244.412" offset="1123629">The Code usually doesn't let people take out $3.25 million without paying any tax on it, when it actually represents gain from his initial investment.</text>
+            <text syncTime="252.646" offset="1156543">So, there's no question that the boot is taxable here.</text>
+            <text syncTime="255.959" offset="1169813">The only question is whether $2.3 million of it is taxable at ordinary income rates or at capital gain rates, and that turns on whether it had the effect of the distribution of a dividend.</text>
+            <text syncTime="265.466" offset="1207847">A dividend is defined in the Code as a distribution by a corporation with respect to its stock of its earnings and profits, and this Court has described the fundamental test of dividend equivalency as whether the distribution to the shareholders is on a pro rata basis.</text>
+            <text syncTime="281.164" offset="1270646">Here there is no question that the distribution was made on a pro rata basis to the shareholders of Basin.</text>
+            <text syncTime="286.577" offset="1292275">That is, Clark was the only shareholder of Basin.</text>
+            <text syncTime="289.590" offset="1304291">Now, of course, the distribution here, which was made in the course of a multi-corporation reorganization, is not literally a dividend.</text>
+            <text syncTime="297.386" offset="1335534">That would be impossible, because a dividend is a transaction between a single corporation and its stockholders.</text>
+            <text syncTime="303.941" offset="1361761">With that constraint, however, it is as close to an ordinary dividend as could be, and therefore, it had the effect of a dividend.</text>
+            <text syncTime="310.733" offset="1388928">Remember, the reason why Section 356(a)(2) needed to be enacted with the terms</text>
+            <text syncTime="317.218" offset="1414842">"have the effect of a dividend. "</text>
+            <text syncTime="318.490" offset="1419962">is because any money that would be distributed in the course of reorganization would not literally be a dividend.</text>
+            <text syncTime="322.942" offset="1437725">Let's look at what happened here.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="325.113" stopTime="336.520">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="325.113" offset="1446398">Mr. Horowitz, it seems to me that possibly the Government's approach in this case divorces the boot payment from the context of the reorganization in which it occurred.</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="336.520" stopTime="338.843">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="336.520" offset="1492060">Well, I--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="338.843" stopTime="346.067">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="338.843" offset="1501359">I think you need to keep in mind, don't you, that this whole thing arose out of a reorganization.</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="346.066" stopTime="387.353">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="346.066" offset="1530198">--Well, we certainly don't dispute that, Justice O'Connor.</text>
+            <text syncTime="348.808" offset="1541170">But as I was saying, the text of Section 356(a)(2) is that you need to look at whether it has the effect of a distribution of a dividend, because in no reorganization would the distribution itself literally be a dividend, because that's a single corporation transaction.</text>
+            <text syncTime="363.868" offset="1601460">So of course the distribution occurred in the course of the reorganization, and for that reason, it is not literally a dividend.</text>
+            <text syncTime="369.582" offset="1624344">The Code directs you to look at whether it has the effect of the distribution of a dividend, and in order to do that, you must compare it with an actual distribution of a dividend.</text>
+            <text syncTime="379.098" offset="1662378">And that requires a comparison to a transaction that necessarily takes place outside of the reorganization, because dividends are--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="387.353" stopTime="396.149">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="387.353" offset="1695397">How much of a... how much of a split of opinion is there on this question?</text>
+            <text syncTime="390.545" offset="1708144">The Tax Court was unanimous, wasn't it, in thinking that it was taxable as a capital gain?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="396.149" stopTime="402.854">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="396.149" offset="1730610">--Well, it was... it was a review decision of the Tax Court, so... Judge Tannenwald wrote an opinion which was circulated to the other judges and no one dissented.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="402.854" stopTime="407.546">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="402.854" offset="1757359">I missed what you said there, Mr. Horowitz.</text>
+            <text syncTime="405.135" offset="1766554">What happened in the Tax Court?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="407.546" stopTime="411.260">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="407.546" offset="1776167">I said it was a review decision, so there was--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="411.260" stopTime="412.091">
+            <label>Unknown Speaker</label>
+            <text syncTime="411.260" offset="1791005">And it wasn't--</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="412.091" stopTime="414.993">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="412.091" offset="1794349">--it was written by one judge and circulated to the other judges with no dissent.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="414.993" stopTime="416.753">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="414.993" offset="1805947">--It was a review decision?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="416.753" stopTime="417.834">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="416.753" offset="1812948">Yes.</text>
+            <text syncTime="417.153" offset="1814620">Yes, it was.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="417.834" stopTime="419.404">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="417.834" offset="1817336">And it was unanimous, was it not?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="419.404" stopTime="438.978">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="419.404" offset="1823606">It was unanimous, although I should say that I'm not sure if the Tax Court was sitting here today they would still vote unanimously on it.</text>
+            <text syncTime="427.351" offset="1855371">In reading Judge Tannenwald's opinion, I think there are some things that are not apparent from the face of that opinion that we rely on somewhat, and that wouldn't have been apparent to the judges who were reading it.</text>
+            <text syncTime="437.106" offset="1894345">For example, the fact that there was a long--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="438.978" stopTime="439.479">
+            <label>Unknown Speaker</label>
+            <text syncTime="438.978" offset="1901869">The Court said that there--</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="439.479" stopTime="441.259">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="439.479" offset="1903854">--line of Court of Appeals authority.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="441.259" stopTime="443.750">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="441.259" offset="1910959">--The Court of Appeals was unanimous also?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="443.750" stopTime="444.932">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="443.750" offset="1920990">The Court of Appeals was, yes.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="444.932" stopTime="448.784">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="444.932" offset="1925692">So you have a unanimous array of judges against you so far.</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="448.784" stopTime="495.377">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="448.784" offset="1941157">In this particular case, the array of judges is unanimous.</text>
+            <text syncTime="452.686" offset="1956726">On the other hand, as we point out in our brief, there's a long line of earlier authority which directly supports the Government.</text>
+            <text syncTime="459.772" offset="1985042">So, there are many judges before who have ruled our way, and in fact, dating back to 1934, it's a pretty well-established proposition that a pro rata boot distribution would have the effect of a dividend.</text>
+            <text syncTime="471.930" offset="2033735">It's only in this case and in one other case back in 1972, in the Eighth Circuit, on very unusual facts, that there's been any deviation from that rule.</text>
+            <text syncTime="479.676" offset="2064664">And I should also add that it is a rule that was acknowledged and cited approvingly by this Court in the Bedford case back in the Forties, although that was not the holding of the case.</text>
+            <text syncTime="489.394" offset="2103534">But the Court cited the lower court cases on which we rely, and then extrapolated from those--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="495.377" stopTime="499.989">
+            <label>Justice Byron R. White</label>
+            <text syncTime="495.377" offset="2127462">This kind of a transaction?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="499.989" stopTime="501.880">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="499.989" offset="2145957">--I think the Commissioner--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="501.880" stopTime="509.887">
+            <label>Justice Byron R. White</label>
+            <text syncTime="501.880" offset="2153480">Is there some suggestion that... isn't there some suggestion in this case that he's changed his mind?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="509.887" stopTime="562.621">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="509.887" offset="2185558">--I don't think so.</text>
+            <text syncTime="511.507" offset="2192037">There's a few red herrings that are floating around on this case.</text>
+            <text syncTime="514.649" offset="2204575">One of them is the so-called automatic dividend rule, which is something that came out of that Bedford decision, in which the Court had... the Court, in approving this lower court decisions that had held that a pro rata distribution to the shareholders of the acquiring corporation would always have the effect of a dividend.</text>
+            <text syncTime="532.111" offset="2274375">The Court used some loose language there, and after the Bedford decision came down, some people read it as establishing the so-called automatic dividend rule, which is that every distribution, boot distribution made in the course of reorganization would be a dividend, even if it was made on a non pro rata basis.</text>
+            <text syncTime="551.842" offset="2353369">That view has been rejected by the Courts and by the Commissioner, although in that respect you might argue the Commissioner changed position, because originally he tried to make some hay out of that, I think, in same way.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="562.621" stopTime="571.307">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="562.621" offset="2396419">Mr. Horowitz, isn't it possible to view the issue in this case as whether or not there was a pro rata distribution depending on whether you look at it before or after the acquisition?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="571.307" stopTime="588.457">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="571.307" offset="2431214">No, I think there's no question that there was a pro rata distribution.</text>
+            <text syncTime="574.288" offset="2443126">Now, if you look at it from after... if you look at it the way the respondents do, they construct a scenario in which it would not be a pro rata distribution, but I don't think that changes what is a fact, which is that the money was distributed on a pro rata basis to the shareholders of Basin.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="588.457" stopTime="594.211">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="588.457" offset="2499759">But it wasn't distributed by the acquired corporation to its shareholders, it was distributed by the acquiring corporation.</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="594.211" stopTime="612.144">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="594.211" offset="2522851">Well, it was distributed by a corporation that, within the assumptions that underlie the reorganization provisions, and that support the view that gain will not be recognized, it is a successor corporation to Basin, a continuation of the original corporation of Basin.</text>
+            <text syncTime="610.413" offset="2587635">So it's not like it's another corporation.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="612.144" stopTime="617.936">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="612.144" offset="2594531">How would you vary the facts in this case so that the Government would concede there was not a pro rata distribution?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="617.936" stopTime="646.875">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="617.936" offset="2617728">If there were more than one shareholder of Basin, and the money went to some, and not to others.</text>
+            <text syncTime="625.042" offset="2646149">If you look at some of the revenue rulings that are cited in the briefs, you'll see cases where some shareholders hold common stock of the acquired corporation, some hold preferred, some hold a combination of both.</text>
+            <text syncTime="635.077" offset="2686273">And the terms of the organization are such that each shareholder doesn't get the same thing because of those differences.</text>
+            <text syncTime="639.942" offset="2705709">That would not be pro rata distribution.</text>
+            <text syncTime="642.012" offset="2714068">This case is a typical one, though, no question about it.</text>
+            <text syncTime="645.075" offset="2726293">Many of these organizations--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="646.875" stopTime="655.850">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="646.875" offset="2733503">Wouldn't you also concede there was no pro rata distribution if they, in an all stock transaction with a contractual provision that 30 days later, some of the stock would be redeemed?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="655.850" stopTime="674.183">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="655.850" offset="2769343">--Well, I'm not sure what the temporal limitation would be on it.</text>
+            <text syncTime="660.094" offset="2786375">I'm sure if the contractual provision was for 15 minutes later, the stock would be redeemed, the Commissioner would... well, what you're suggesting is I think a transaction where there's no boot at all, that is, a pure stock to stock.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="674.183" stopTime="684.890">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="674.183" offset="2842695">Well, I think the Government might argue it was boot, because it was contemplated from the outset that the selling shareholder would end up with the same number of dollars that he did here, only he just had to wait 15 days.</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="684.890" stopTime="701.412">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="684.890" offset="2885535">Right.</text>
+            <text syncTime="685.381" offset="2887521">I think there would be some point at which the Government would challenge that, try to collapse, transact something, which it wouldn't but I don't think that goes to whether it's a pro rata distribution.</text>
+            <text syncTime="694.647" offset="2924510">It goes only to whether it's a distribution at all in the course of reorganization.</text>
+            <text syncTime="698.179" offset="2938721">If there is one, we would argue that it was pro rata.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="701.412" stopTime="711.527">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="701.412" offset="2951573">May I ask just one other question?</text>
+            <text syncTime="702.611" offset="2956380">What happened to the balance sheet of the merged corporation when this money is treated as a dividend?</text>
+            <text syncTime="708.277" offset="2979054">Does the earned surplus account subtract this amount from it?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="711.527" stopTime="720.292">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="711.527" offset="2992115">Yes.</text>
+            <text syncTime="712.479" offset="2995877">The earnings and profits would be taken out from Basin, and wherever Basin's earnings and profits went... in this case, into the subsidiary.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="720.292" stopTime="745.309">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="720.292" offset="3027119">Mr. Horowitz, do I understand you to be saying that if Clark had a partner in Basin, and they both sold out, and Clark's partner took it all in N.L. stock, but Clark took it just the way he did here, Clark would... neither of the two would be receiving a dividend?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="745.309" stopTime="747.721">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="745.309" offset="3127220">Certainly the first person is not receiving a dividend.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="747.721" stopTime="748.412">
+            <label>Unknown Speaker</label>
+            <text syncTime="747.721" offset="3136833">Certainly the first one?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="748.412" stopTime="757.809">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="748.412" offset="3139655">And the cash, the second person is getting cash, and it would not be a pro rata distribution to him.</text>
+            <text syncTime="753.244" offset="3158985">So it would not... it probably wouldn't be a dividend, although then you'd have to see--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="757.809" stopTime="760.490">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="757.809" offset="3177166">It doesn't seem to me to make a whole lot of sense.</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="760.490" stopTime="795.844">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="760.490" offset="3187929">--Oh, it does make a whole lot of sense, Justice Scalia.</text>
+            <text syncTime="762.421" offset="3195661">The whole... the earmark of a dividend is what we ordinarily think of a dividend when AT&amp;T takes its earnings and profits and sends a check to all its shareholders.</text>
+            <text syncTime="770.856" offset="3229411">That's what a dividend is... it's when all the shareholders take money equally out of the corporation, and that's what's happened, essentially, in this case.</text>
+            <text syncTime="778.201" offset="3258773">When it doesn't... when it's not distributed on a pro rata basis to the shareholders, then you've got something else, because there's no basis for issuing a dividend to one shareholder and not to another.</text>
+            <text syncTime="788.057" offset="3298166">So the hypothetical that you posit is... on its face looks like something quite different from a dividend.</text>
+            <text syncTime="794.301" offset="3323139">This case does not.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="795.844" stopTime="814.564">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="795.844" offset="3329304">Counsel, you're asking us to rule for you on the assumption that the redemption was prior to and apart from the merger, are you not?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="814.564" stopTime="816.747">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="814.564" offset="3404223">Well, the way I--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="816.747" stopTime="819.087">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="816.747" offset="3413000">Isn't that the way you want us to look at the transaction?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="819.087" stopTime="922.776">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="819.087" offset="3422300">--Well, first of all, now, I think the answer... it's a long answer.</text>
+            <text syncTime="823.299" offset="3439122">First of all, we don't necessarily say that you have to hypothesize a redemption.</text>
+            <text syncTime="826.972" offset="3453855">That is Respondent's construct.</text>
+            <text syncTime="829.253" offset="3462946">They argue that somehow you'd have to trade a redemption, and what the statute says is whether it has the effect of a dividend, which the dividend is a much simpler transaction than a redemption.</text>
+            <text syncTime="836.799" offset="3493144">And we say that you look at a dividend.</text>
+            <text syncTime="838.750" offset="3500980">Now, the simplest way of looking at is true, as if Basin had in fact distributed this as a dividend before the reorganization, because Basin ceased to exist as an independent entity after the reorganization.</text>
+            <text syncTime="850.849" offset="3549359">But our position does not depend on looking at it before the reorganization.</text>
+            <text syncTime="856.132" offset="3570466">This is explained in some detail in my reply brief, pages 7 to 9.</text>
+            <text syncTime="860.134" offset="3586558">But you could also structure the transaction somewhat differently the way the Minnesota Tea case that was before this Court was structured, and that is, Basin could have been kept as a shell corporation.</text>
+            <text syncTime="872.994" offset="3637966">All of the assets of Basin could have been sent to N.L. in the reorganization with Basin remaining as a shell.</text>
+            <text syncTime="878.127" offset="3658446">And in that case, the consideration paid for the organization would have gone into Basin as a holding company.</text>
+            <text syncTime="885.761" offset="3689062">It would have held the shares in N.L. and it would have taken the money.</text>
+            <text syncTime="888.883" offset="3701496">It still would have all been to the benefit of Clark, which would remain the sole shareholder of Basin.</text>
+            <text syncTime="893.397" offset="3719573">In that case, if Basin then distributed the money as a dividend to Clark, which is what happened in the Minnesota Tea case, it would clearly be a dividend.</text>
+            <text syncTime="903.371" offset="3759488">There would be no argument that it wouldn't be a dividend.</text>
+            <text syncTime="904.964" offset="3765862">Yet everybody would end up in exactly the same place as they are now.</text>
+            <text syncTime="908.226" offset="3778923">So, whether you compare what happened here on the reorganization to a pre-reorganization distribution by Basin, or if you compare it to the post-reorganization transaction, that I just described, in either case there, it is exactly comparable to a dividend.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="922.776" stopTime="928.189">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="922.776" offset="3837124">But in either case, that's a hypothetical construct, compared to what really happened?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="928.189" stopTime="951.224">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="928.189" offset="3858753">Well, again, the statues require some degree of hypothetical construct, because it asks the question: is this equivalent to a dividend?</text>
+            <text syncTime="935.774" offset="3889055">And the dividend is a transaction that occurs outside reorganization.</text>
+            <text syncTime="940.138" offset="3906505">It's a transaction that occurs between a single corporation and a shareholder.</text>
+            <text syncTime="944.328" offset="3923328">So, the statue, in requiring a comparison, requires you to look at some other transaction, and to see whether the effect is the same.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="951.224" stopTime="955.087">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="951.224" offset="3950913">I take it the taxpayer uses a hypothetical construct as well?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="955.087" stopTime="960.140">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="955.087" offset="3966273">The taxpayer uses a... what I might call a double hypothetical construct.</text>
+            <text syncTime="959.479" offset="3983932">They look--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="960.140" stopTime="962.331">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="960.140" offset="3986544">So you're saying his is more hypothetical than yours?</text>
+            <text syncTime="962.293" offset="3995113">[Laughter]</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="962.331" stopTime="968.565">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="962.331" offset="3995322">--Yes.</text>
+            <text syncTime="962.851" offset="3997411">That's not, that's not the basis for deciding the case in our favor, but I should point it out.</text>
+            <text syncTime="966.695" offset="4012771">They look at a post-reorganization.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="968.565" stopTime="971.367">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="968.565" offset="4020190">Well, might it be a basis for deciding the case?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="971.367" stopTime="1064.858">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="971.367" offset="4031475">It's one argument.</text>
+            <text syncTime="972.178" offset="4034714">It is not, I think, the main argument that we have.</text>
+            <text syncTime="973.999" offset="4041924">But just to talk briefly about what the taxpayer says; they look at a post-reorganization redemption of stock.</text>
+            <text syncTime="981.063" offset="4070241">That is probably analogous to our looking at a pre [inaudible] reorganization dividend.</text>
+            <text syncTime="985.367" offset="4087482">It's a transaction that never occurred.</text>
+            <text syncTime="987.297" offset="4095109">There was never a redemption.</text>
+            <text syncTime="988.419" offset="4099602">Why I say it's doubly hypothetical is because the redemption that they hypothesize is the redemption of stock that never existed.</text>
+            <text syncTime="995.272" offset="4127083">They posit a redemption of the 125,000 shares of stock that Clark declined to take in the reorganization, the exact option that he refused to take, and those shares never existed.</text>
+            <text syncTime="1005.981" offset="4169924">They were never issued by the corporation, they're completely imaginary.</text>
+            <text syncTime="1010.232" offset="4186851">So, to that extent, I think their claim is more hypothetical than ours.</text>
+            <text syncTime="1014.066" offset="4202211">But I would like to focus on the statutory language which says, which asks the question: does it have the effect of the distribution of a dividend?</text>
+            <text syncTime="1021.789" offset="4233140">We think that we have clearly shown that it does, at least if you look at it, if you looked at what would have happened if Basin has distributed the dividend.</text>
+            <text syncTime="1029.816" offset="4265219">We think there's no denying that it has the effect of the distribution of a dividend.</text>
+            <text syncTime="1033.197" offset="4278802">Now, Respondent's argument is that it may also have the effect of some other transaction that they're able to dream up, one that is not a dividend.</text>
+            <text syncTime="1041.454" offset="4311821">But that doesn't get around the statutory problems.</text>
+            <text syncTime="1044.576" offset="4324255">Statute says that if it has the effect of the distribution of a dividend, it's to be treated as a dividend, and the statute doesn't care whether it could have the effect of some other transaction which they hypothesize.</text>
+            <text syncTime="1054.612" offset="4364380">So, we think whether or not you think that the Respondent's hypothetical way of looking at it is as good as ours or not, it does not help them in dealing with the statute.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1064.858" stopTime="1072.182">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1064.858" offset="4405444">The Fourth Circuit relied rather heavily on Section 302.</text>
+            <text syncTime="1069.490" offset="4423939">Does the Government think that has no applicability?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1072.182" stopTime="1125.097">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1072.182" offset="4434701">Well, Section 302, the question of whether the parties think that Section 302 applies is another one of the red herrings, I think, that's been raised in this case.</text>
+            <text syncTime="1080.748" offset="4468974">There's no dispute on that point.</text>
+            <text syncTime="1083.129" offset="4478482">If there's a question of needing to look at the substantially disproportionate criteria that are in Section 302, because there is a non pro rata distribution, the Government is willing to look at it as the taxpayers are.</text>
+            <text syncTime="1095.929" offset="4529682">I think this is most clearly illustrated, actually, if you look at the Respondent's brief, if you look at the cases that they cite for their proposition that Section 302 must apply.</text>
+            <text syncTime="1104.633" offset="4564478">They're exactly the same cases that the Government cites in its brief for the proposition that a pro rata payment to the shareholders of the acquired corporation, a payment exactly the same as what happened here, is in fact a dividend.</text>
+            <text syncTime="1117.323" offset="4615260">So, what they're doing is kind of arguing about some side point that has nothing to do with what's really going on in this case.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1125.097" stopTime="1132.814">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1125.097" offset="4646398">Do you say that 302 is irrelevant in any case, where we are construing this statute that is before us, or just in this one?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1132.814" stopTime="1172.311">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1132.814" offset="4677222">No, there are criteria in Section 302 for determining when you have a non pro rata distribution, one that results in a reduction of interest by the shareholder.</text>
+            <text syncTime="1144.424" offset="4723615">There are criteria in Section 302 for determining whether that should have the effect of a dividend of not.</text>
+            <text syncTime="1149.737" offset="4744931">And we're willing to look to Section, when you have a problem like that, we're willing to look to Section 302 for guidance just as the Respondents are.</text>
+            <text syncTime="1157.991" offset="4777950">But here you don't have that.</text>
+            <text syncTime="1159.531" offset="4784115">You have a 100 percent pro payment, pro rata payment to the shareholders of Basin.</text>
+            <text syncTime="1165.027" offset="4806058">Under 302, that's considered a dividend.</text>
+            <text syncTime="1167.208" offset="4814835">That's what this Court said in Davis.</text>
+            <text syncTime="1168.608" offset="4820373">If you don't look at 302, it's also a dividend.</text>
+            <text syncTime="1171.369" offset="4831449">So it's--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1172.311" stopTime="1185.681">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1172.311" offset="4835211">May I just restate what I think you're... I just want to be sure I understand it.</text>
+            <text syncTime="1176.344" offset="4851302">You're saying that 302 is relevant, but only for the purpose of determining whether distribution is pro rata or not, in effect?</text>
+            <text syncTime="1183.390" offset="4879514">It's close enough to being pro rata to be treated as a dividend?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1185.681" stopTime="1187.541">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1185.681" offset="4888709">--Close enough to pro rata, that's right.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1187.541" stopTime="1188.733">
+            <label>Unknown Speaker</label>
+            <text syncTime="1187.541" offset="4896128">That's the sole function of 302?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1188.733" stopTime="1191.345">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1188.733" offset="4900935">That's right, that's right.</text>
+            <text syncTime="1189.482" offset="4903860">It's called "substantially disproportionate" in the statute.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1191.345" stopTime="1195.148">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1191.345" offset="4911384">So that's your answer to their reliance on the 84 legislative history?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1195.147" stopTime="1209.506">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1195.147" offset="4926535">Yes.</text>
+            <text syncTime="1196.126" offset="4930505">Their '84 legislative history is just a statement about what the Courts have done.</text>
+            <text syncTime="1200.119" offset="4946492">The Commissioner himself has said that he's willing to rely on Section 302 for guidance.</text>
+            <text syncTime="1204.130" offset="4962479">So, again, I say that there's not a real controversy over that that impacts on this litigation.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1209.506" stopTime="1223.555">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1209.506" offset="4984004">Well, do you say that the reorganization in this test meets the language of Section 302 that the shareholder relinquishes more than 20 percent of his corporate control and less than 50 percent shell at the transaction?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1223.555" stopTime="1225.556">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1223.555" offset="5040220">No.</text>
+            <text syncTime="1224.596" offset="5044399">We don't think it meets that.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1225.556" stopTime="1231.039">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1225.556" offset="5048161">So you said.</text>
+            <text syncTime="1226.367" offset="5051400">But you said that's not the only way you can conclude that something is essentially equivalent to a dividend?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1231.039" stopTime="1266.184">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1231.039" offset="5070104">Well, the language you described, this is describing something that would not be equivalent to a dividend, Justice Rehnquist.</text>
+            <text syncTime="1238.144" offset="5098525">Here we say there's no change in control, because it's a completely pro rata distribution.</text>
+            <text syncTime="1243.216" offset="5118796">I think as Justice Stevens said, those numerical tests in Section 302 are to decide when something is close enough to pro rata that it should be treated as pro rata.</text>
+            <text syncTime="1251.903" offset="5153591">If the interest goes down below 80 percent, that's already considered by the statute as not a pro rata distribution, and therefore not a dividend.</text>
+            <text syncTime="1262.181" offset="5194655">But here we have a pro rata distribution, so it's not necessary to get into that.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1266.184" stopTime="1271.157">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1266.184" offset="5210747">You say when something is concededly pro rata, you don't get the Section 302?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1271.157" stopTime="1425.686">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1271.157" offset="5230600">That's right.</text>
+            <text syncTime="1272.286" offset="5235093">And if you did look at Section 302, you would set the same answer, because there's no reduction in interest.</text>
+            <text syncTime="1276.810" offset="5253170">Let's look at what happened here with the two transactions, and I think it should be clear enough that this has the effect of a dividend.</text>
+            <text syncTime="1285.946" offset="5289741">We start out with Basin having $2.3 million in earnings and profits.</text>
+            <text syncTime="1290.487" offset="5307922">That $2.3 million was distributed on a pro rata basis to the shareholders of Basin.</text>
+            <text syncTime="1295.340" offset="5327358">The only difference between that and the prototype dividend, where the distribution was actually made by Basin, is that the distribution was made by a corporation that's a continuation of Basin in a recast form.</text>
+            <text syncTime="1307.240" offset="5374900">The effect is certainly the same.</text>
+            <text syncTime="1308.791" offset="5381170">At the end of the day, whether the dividend was paid directly by Basin outside the reorganization, or paid in the course of the reorganization as it was here, $2.3 million has disappeared from the corporation and ended up in the pockets of Clark, Basin's sole shareholder.</text>
+            <text syncTime="1323.159" offset="5438639">I'd like to make... there are several points we make in our brief that are critical of the hypothetical redemption scenario that is posited by the Respondents.</text>
+            <text syncTime="1336.019" offset="5490048">For one thing, it does not have... it does not fit the statutory language of having the effect... the reorganization transaction does not have the effect of the transaction that they posit, because many of the categories that are relevant for tax purposes would come out quite differently... the amount of the gain, the amount of the basis, the amount of continuing earnings and profits accounts.</text>
+            <text syncTime="1356.152" offset="5570610">There's one, that stuff is in our brief.</text>
+            <text syncTime="1358.913" offset="5581581">There's one thing that I would like to focus on here in oral argument, though, and that is the question of the earnings and profits that is required to be compared by Section 356(a)(2).</text>
+            <text syncTime="1369.810" offset="5625258">The statute says that the amount of the boot that is to be treated as a dividend is limited by the earnings and profits of the corporation.</text>
+            <text syncTime="1378.224" offset="5658904">Now, as I said before, the corporation there has been recognized by the Courts and not disputed by Respondent as being the acquired corporation.</text>
+            <text syncTime="1387.331" offset="5695266">Now, it's almost a tautology that when you have a dividend, and you compare the distribution, the dividend is a distribution out of the earnings and profits of a corporation.</text>
+            <text syncTime="1397.107" offset="5734450">The earnings and profits that you look at there are those from the same corporation that's making the distribution to its shareholders.</text>
+            <text syncTime="1404.533" offset="5764125">But what you have here, with the hypothetical redemption scenario that the Respondents have posited is they assume that the distribution was made by N.L., by the later, combined corporation, yet they want to compare that against the earnings and profits of Basin, a corporation that had no connection to N.L. at that time, in determining whether that's a distribution.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1425.686" stopTime="1434.833">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1425.686" offset="5848762">I thought you answered Justice Stevens that you would subtract this distribution from the balance sheet of N.L.--</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1434.833" stopTime="1471.857">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1434.833" offset="5885333">Well, a distribution comes out of the earnings and profits of Basin when you combine the corporations, and in the merger those accounts are carried over into the new corporation.</text>
+            <text syncTime="1444.068" offset="5922218">So the bottom line would be that it would have disappeared from the new corporation, although as it happens here, because of the way they structured it, the Basin earnings and profits would have gone into the subsidiary, N.L.A.C., that was specially created by N.L. for the purposes of holding this new corp.</text>
+            <text syncTime="1461.570" offset="5992226">So it wouldn't have even gone into the N.L. earnings and profits.</text>
+            <text syncTime="1464.341" offset="6003302">But that change would be as a consequence of it having first come out of Basin, and then later the accounts being transferred over.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1471.857" stopTime="1490.069">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1471.857" offset="6033395">--May I ask it, I know it's not apt to happen with the corporations of the relative size of these two, but suppose the acquiring corporation had a deficit that was as great as or greater than the earned surplus of the acquired corporation.</text>
+            <text syncTime="1485.014" offset="6086058">Would there be... would that have the effect of a dividend then?</text>
+            <text syncTime="1488.016" offset="6098074">Do you understand my--</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1490.069" stopTime="1493.172">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1490.069" offset="6106224">Yes, yes, I think if the acquiring corporation had a deficit.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1493.172" stopTime="1498.445">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1493.172" offset="6118659">--Had a deficit, so that after the transaction, this would have just in effect doubled the deficit, you'd say, I suppose?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1498.445" stopTime="1500.195">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1498.445" offset="6139766">Yes, I think so.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1500.195" stopTime="1502.057">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1500.195" offset="6146766">Or was it that it was still treated as a dividend?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1502.057" stopTime="1514.364">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1502.057" offset="6154185">Because what is happening is that the shareholders of the original corporation are taking their earnings and profits out, and getting them in their pocket.</text>
+            <text syncTime="1507.381" offset="6175501">That's what they're ordinarily part-paid dividend... to treat as a dividend.</text>
+            <text syncTime="1510.771" offset="6189085">The fact that they're going into a worse corporation is kind of irrelevant to that.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1514.364" stopTime="1519.239">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1514.364" offset="6203400">What about the other way around... the acquired corporation has no accumulated earnings and profits?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1519.239" stopTime="1520.487">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1519.239" offset="6222940">Then there's no dividend.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1520.487" stopTime="1528.412">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1520.487" offset="6227955">Well, but the acquiring corporation does, and it pays the stockholder cash.</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1528.412" stopTime="1529.734">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1528.412" offset="6259615">Well, even so.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1529.734" stopTime="1530.405">
+            <label>Unknown Speaker</label>
+            <text syncTime="1529.734" offset="6264944">As boot?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1530.405" stopTime="1531.334">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1530.405" offset="6267557">As boot, that's not--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1531.334" stopTime="1532.065">
+            <label>Unknown Speaker</label>
+            <text syncTime="1531.334" offset="6271318">So you wouldn't have it?</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="1532.065" stopTime="1543.783">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="1532.065" offset="6274244">--The facts make it clear that it's measured by the E and P, and there's no... because there's no suspicion that there's a bailout there of the earnings of the acquired corporation, because they didn't have any.</text>
+            <text syncTime="1541.733" offset="6312905">I'd like to reserve the remainder of my time.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1543.783" stopTime="1546.926">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1543.783" offset="6321055">Thank you, Mr. Horowitz.</text>
+            <text syncTime="1545.566" offset="6328265">We'll hear now from you, Mr. Slocombe.</text>
+          </turn>
+        </section>
+        <section startTime="1546.926" stopTime="3105.675">
+          <heading>Argument of Walter B. Slocombe</heading>
+          <turn speaker="walter_b_slocombe" startTime="1546.926" stopTime="1582.368">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1546.926" offset="6333699">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1550.839" offset="6349372">The central fact in this case is that there is no dispute that if Mr. Clark had not taken the cash, he would have received an additional 125,000 shares of N.L. stock.</text>
+            <text syncTime="1566.837" offset="6413320">So, the effect of the exchange in which he got the cash was that he got about 30 percent less N.L. stock than he would otherwise have received.</text>
+            <text syncTime="1576.815" offset="6453235">The question here is whether the Fourth Circuit was right in affirming.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1582.368" stopTime="1599.890">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1582.368" offset="6475491">But, Mr. Slocombe, let me interrupt right there.</text>
+            <text syncTime="1583.740" offset="6480925">If that's the central fact, would your position be different if the acquiring corporation had not given him an option, but had simply said: this is our proposal: X shares of stock and X cash?</text>
+            <text syncTime="1594.907" offset="6525646">Does your case depend on there having been an option, or--</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1599.889" stopTime="1601.842">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1599.889" offset="6545500">No, it doesn't depend on there having been an option.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1601.842" stopTime="1602.212">
+            <label>Unknown Speaker</label>
+            <text syncTime="1601.842" offset="6553336">--Okay.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1602.212" stopTime="1605.415">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1602.212" offset="6554799">But the existence of the option makes clear what was really going on.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1605.415" stopTime="1609.306">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1605.415" offset="6567651">Which just helps with the arithmetic.</text>
+            <text syncTime="1606.524" offset="6572040">I don't see it helps with the legal analysis at all.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1609.306" stopTime="1628.390">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1609.306" offset="6583220">Our view is that in another case where a shareholder of a small corporation... that corporation was being absorbed by a big corporation... they would normally be able to show that if they hadn't gotten the cash, they would have gotten more stock.</text>
+            <text syncTime="1626.878" offset="6653438">But the burden would be on them.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1628.390" stopTime="1635.634">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1628.390" offset="6659498">They couldn't show it if the buyer didn't offer it.</text>
+            <text syncTime="1629.540" offset="6664095">They said: the amount of shares we'll issue is this ceiling, and that's it.</text>
+            <text syncTime="1633.824" offset="6681232">The rest is going to be cash.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1635.634" stopTime="1637.994">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1635.634" offset="6688546">It would be, in other cases--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1637.994" stopTime="1639.326">
+            <label>Unknown Speaker</label>
+            <text syncTime="1637.994" offset="6697950">Do you think that's a different case?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1639.326" stopTime="1640.277">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1639.326" offset="6703279">--It would be a factual problem that doesn't exist here.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1640.277" stopTime="1641.105">
+            <label>Unknown Speaker</label>
+            <text syncTime="1640.277" offset="6707041">Pardon me?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1641.105" stopTime="1648.732">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1641.105" offset="6710384">In other cases, there would be a factual problem that doesn't exist here.</text>
+            <text syncTime="1644.518" offset="6724073">But in this case, the effect of receiving the cash is clear.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1648.732" stopTime="1654.836">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1648.732" offset="6740895">I don't know why that's a different case.</text>
+            <text syncTime="1650.572" offset="6748210">That's what I'm... that's... if you say this is a central fact, you'd better explain it to me.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1654.836" stopTime="1697.634">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1654.836" offset="6765346">Because there will be a problem of showing the effect.</text>
+            <text syncTime="1658.537" offset="6780079">The statute makes the test the effect of the exchange, not the effect just of the cash, but the effect of the exchange, and therefore, the inquiry has to be what difference in the world did receiving the cash in this exchange make?</text>
+            <text syncTime="1676.069" offset="6850296">And here, the answer is clear.</text>
+            <text syncTime="1677.742" offset="6856984">In other... it's not an unusual situation of which there are alternatives.</text>
+            <text syncTime="1681.445" offset="6871717">And in other cases, the taxpayer would have a different burden, a different... they always have the burden of proof; he'd have a different problem showing the factual situation, showing the effect.</text>
+            <text syncTime="1691.960" offset="6913826">But that's the inquiry that the statute makes critical... what's the effect of the exchange.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1697.634" stopTime="1700.476">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1697.634" offset="6936500">And you say the effect might be different if he didn't have an option?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1700.476" stopTime="1711.813">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1700.476" offset="6947890">If the taxpayer couldn't show that the effect of the exchange was to reduce his ownership in the continuing corporation, then we would have a different case, yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1711.813" stopTime="1722.021">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1711.813" offset="6993238">But it always is that.</text>
+            <text syncTime="1712.955" offset="6997836">It seems to me that you're just balking at two unreal hypotheticals instead of one.</text>
+            <text syncTime="1718.588" offset="7020301">I mean, the fact is that he didn't accept the offer--</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1722.020" stopTime="1723.359">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1722.020" offset="7034094">Yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1723.359" stopTime="1747.666">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1723.359" offset="7039423">--and you're willing to leap over that fact.</text>
+            <text syncTime="1727.853" offset="7057395">But you could also say in a case where no offer has been made, the same thing.</text>
+            <text syncTime="1732.756" offset="7077039">Not only didn't he accept the offer, but also the offer wasn't made.</text>
+            <text syncTime="1735.928" offset="7089682">But you could likewise say, nonetheless, had there been an offer, and had the offer been accepted, he would simply be reducing the amount of his stock in the new corporation, in the acquiring corporation.</text>
+            <text syncTime="1746.016" offset="7130015">Isn't that true here?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1747.666" stopTime="1781.970">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1747.666" offset="7136598">I believe in the normal case it would be the fact, and you'd be able to show it, that if the taxpayer, the shareholder hadn't received the cash, he would have insisted on more stock, yes.</text>
+            <text syncTime="1757.432" offset="7175678">But he'd have to show that, but that's what he'd have to show.</text>
+            <text syncTime="1760.775" offset="7189052">He'd have to show that there was an effect on his continuing ownership in the corporation.</text>
+            <text syncTime="1766.138" offset="7210473">Here we've met that burden, and shown what the effect was.</text>
+            <text syncTime="1769.581" offset="7224265">But the task, the issue, the factual situation isn't any different, but what the taxpayer would have to show is to show what we showed here in the Tax Court, and in this trial.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1781.970" stopTime="1800.931">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1781.970" offset="7273898">Well, just so that I understand, he could always show the effect on the corporation just by comparing the percentage of stock in Justice Stevens' hypothetical, where he's not given a choice.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1800.931" stopTime="1928.544">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1800.931" offset="7349653">If he's not given a choice, he's got a harder problem, because he'd have to show what would have happened if he hadn't taken the choice.</text>
+            <text syncTime="1808.377" offset="7379433">But the whole concept of a reorganization is that there's a continuing enterprise.</text>
+            <text syncTime="1813.540" offset="7400122">There's no excuse that if he'd sold it all for cash, that would have been a capital gain.</text>
+            <text syncTime="1817.733" offset="7416944">There's no dispute that if he'd taken all stock and at some appropriate point in the future, so that it didn't destroy the reorganization, had sold 30 percent of it, that would have been a capital gain.</text>
+            <text syncTime="1827.538" offset="7456128">The issue is, what is the effect of getting the cash at the time of the reorganization as a part of the overall exchange to give him a dividend?</text>
+            <text syncTime="1837.815" offset="7497193">And in this case, it is clear what I think would also be the fact in most similar cases.</text>
+            <text syncTime="1845.199" offset="7526763">We have a large corporation merging, absorbing a smaller corporation.</text>
+            <text syncTime="1851.053" offset="7550169">The people who get, the people who own the smaller corporation, would insist on more stock if they couldn't get cash.</text>
+            <text syncTime="1858.850" offset="7581411">But the point is that the effect of taking the cash out is to reduce, clearly here, to reduce the amount of ownership he has in the continuing enterprise, and this Court has defined dividend not in terms of what's pro rata or not, but in terms of the impact of the distribution on ownership.</text>
+            <text syncTime="1878.342" offset="7659361">In Davis, this Court said that a dividend results when a distribution produces no change in the relative economic interests or rights of the shareholders whereas conversely, there is no dividend if a distribution results in a meaningful reduction in the proportionate interest of the shareholder in the corporation.</text>
+            <text syncTime="1898.335" offset="7739295">But where there's a reorganization, our position is, and what the Fourth Circuit held, was that the corporation there means the only corporation that's going to continue to exist.</text>
+            <text syncTime="1908.692" offset="7780778">Basin went out of existence at the moment of the reorganization.</text>
+            <text syncTime="1911.654" offset="7792585">Insofar as the IRS test focuses on ownership at all, it focuses on ownership in Basin.</text>
+            <text syncTime="1917.467" offset="7815886">But Basin didn't exist anymore.</text>
+            <text syncTime="1919.388" offset="7823514">There is a continuing... but there was a continuing ownership.</text>
+            <text syncTime="1922.650" offset="7836575">Clark's continuing ownership was reduced as a result of receiving the cash.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1928.544" stopTime="1940.633">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1928.544" offset="7860190">But that's just as much a hypothetical... an interest he never got was reduced.</text>
+            <text syncTime="1933.487" offset="7879939">But it seems to me this is a standoff on your two hypotheticals, because he never got the 425,000 shares.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1940.633" stopTime="1942.944">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1940.633" offset="7908464">He never got 425,000 shares.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1942.944" stopTime="1944.216">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1942.944" offset="7917764">So how can you say he reduced that ownership?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1944.216" stopTime="1950.701">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1944.216" offset="7922884">Because we have here a clear indication, as your question earlier--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1950.701" stopTime="1953.022">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1950.701" offset="7948798">But if he accepted that offer and changed his mind and--</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1953.022" stopTime="1955.263">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1953.022" offset="7958097">--He know how much he would have gotten.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1955.263" stopTime="1958.885">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1955.263" offset="7966979">--Sure, it helps on the arithmetic, but he never got it, so how can you say it's been reduced?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="1958.885" stopTime="2155.013">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="1958.885" offset="7981503">Because to ask about the effect of an exchange necessarily involves asking what difference does it make that this event took place rather than some other event?</text>
+            <text syncTime="1969.421" offset="8023612">Our view is that Section 356(a)(2) really is concerned with situations as is 302 in which the money comes out and there is no change in the continuing ownership interest.</text>
+            <text syncTime="1985.934" offset="8089754">302 is relevant here not just because of the numerical calculations of what is substantial, once you decide that there's been some reduction.</text>
+            <text syncTime="1995.590" offset="8128311">How much reduction is enough?</text>
+            <text syncTime="1996.900" offset="8133535">It's also relevant because both sections are trying to deal with the same basic question: when has getting money from a corporation sufficiently reduced the shareholder's interest in the continuing business that it has the effect of going out and selling some of that stock, so that it should be treated as a capital gain?</text>
+            <text syncTime="2019.744" offset="8224964">Now, 302 is relevant to 356 for determining the character.</text>
+            <text syncTime="2024.579" offset="8244295">The particular rules for the amount, how the basis is calculated and that sort of thing are determined in detail in Section 356 separately from the characterization issue.</text>
+            <text syncTime="2035.475" offset="8287867">Now, the IRS has in fact changed its position; not with respect to this exact particular case, but it is following a position in very similar other cases which is not the same as what it's following here.</text>
+            <text syncTime="2053.387" offset="8359547">Even in this case, it's said in a ruling that 302 applies, but as to very similar cases.</text>
+            <text syncTime="2058.900" offset="8381594">For example, there's a Revenue ruling, 75-447, which is cited in our brief, in which there is a pro rata distribution of cash by a corporation to two shareholders, each of whom owns 50 percent, and then the corporation sells additional stock to a third person, so that they end up instead of each owning half, they now only each own a third.</text>
+            <text syncTime="2078.962" offset="8461842">Service has held that ought to be held as an integrated whole.</text>
+            <text syncTime="2082.655" offset="8476575">You ought to look at the continuing ownership interest in that situation, and they said the reason for that is that a correct analysis requires that effect be given only to the overall result and proscribed to the fragmenting of the whole transaction into its component parts.</text>
+            <text syncTime="2098.985" offset="8541882">And they go on to explain that the approach is needed because making the computations in this manner properly reflects the extent to which the shareholder involved in each situation actually reduces his stock holding as a result of the whole transaction.</text>
+            <text syncTime="2113.625" offset="8600500">In the real, practical world, what happened here was Mr. Clark chose in effect to trade 70 percent of his Basin stock for N.L. stock and 30 percent for cash.</text>
+            <text syncTime="2127.866" offset="8657447">Because it was in the context of a reorganization, special separate rules for computing the gain, it was recognized.</text>
+            <text syncTime="2134.218" offset="8682838">But that's what really happened.</text>
+            <text syncTime="2135.400" offset="8687540">And there's nothing surprising that in a system as... that was in existence at that time, it doesn't exist anymore.</text>
+            <text syncTime="2141.825" offset="8713245">But in a system where there was a differential between capital gains and ordinary income, you would expect that when there is a substantial diminution of ownership interest, then capital gains is the appropriate treatment.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2155.013" stopTime="2173.043">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2155.013" offset="8766012">I take it by that, then, that you are comparing his position in the acquired corporation with his position in the acquiring corporation, and I... which was I guess what the District Court did in Shimberg, and everybody seems to agree that that's wrong.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2173.043" stopTime="2176.226">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2173.043" offset="8838110">Everybody seems to agree that it's wrong.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2176.226" stopTime="2177.377">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2176.226" offset="8850858">But isn't that what you just said?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2177.377" stopTime="2310.075">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2177.377" offset="8855455">No.</text>
+            <text syncTime="2178.048" offset="8858172">What I just said was that he had a relative ownership in the combination of Basin and N.L. before the transaction.</text>
+            <text syncTime="2186.514" offset="8892027">The whole idea of a reorganization is that not just N.L. goes on after the reorganization, but Basin goes on inside N.L., as a different entity.</text>
+            <text syncTime="2196.770" offset="8933091">Both as to N.L. and as to Basin, it emerges from the transaction.</text>
+            <text syncTime="2200.262" offset="8946989">His relative ownership was 425,000 shares' worth of N.L. before the transaction.</text>
+            <text syncTime="2208.747" offset="8980948">The market shows that.</text>
+            <text syncTime="2210.349" offset="8987322">After the transaction, his relative ownership was 300,000 shares' worth.</text>
+            <text syncTime="2216.073" offset="9010309">It is true in practice that it will normally be the case if the taxpayer can bear the burden of proof and show the relevant facts the... in any situation where, so to speak, the whale swallows a minnow, then capital gain treatment for the boot will be appropriate.</text>
+            <text syncTime="2233.775" offset="9081049">But it's because of the effect on the continuing ownership, not simply because he's going from 100 percent down to, I'm sorry, from 100 percent down to 1.3 percent, or 0.9 percent, which he would in either event.</text>
+            <text syncTime="2250.695" offset="9148758">We're not arguing that it's an automatic rule.</text>
+            <text syncTime="2253.940" offset="9161715">I think, rather, if the... we're arguing the importance of effect on ownership.</text>
+            <text syncTime="2261.103" offset="9190345">And indeed, the IRS test also relies on effect on ownership.</text>
+            <text syncTime="2268.978" offset="9221901">They said: we don't want an automatic dividend rule.</text>
+            <text syncTime="2271.668" offset="9232664">That's what people said, Dedford said, and all the commentators, all right-thinking people, said an automatic dividend rule is wrong.</text>
+            <text syncTime="2279.485" offset="9263906">We don't want that.</text>
+            <text syncTime="2280.477" offset="9267877">We only want it in pro rata cases.</text>
+            <text syncTime="2284.148" offset="9282610">The difficult with that argument is that knowing that the distribution from a corporation is not pro rata doesn't tell you whether it's a dividend or not.</text>
+            <text syncTime="2293.074" offset="9318241">If only one of three shareholders of a corporation gets something from the corporation... gets a check from the corporation in respect to his or her stock, and there's no effect on ownership, that's still a dividend.</text>
+            <text syncTime="2305.523" offset="9368082">That's not entitled to capital gains transaction.</text>
+            <text syncTime="2308.805" offset="9381144">Other shareholders may have a quarrel with it.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2310.075" stopTime="2318.120">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2310.075" offset="9386264">Well, yes.</text>
+            <text syncTime="2310.785" offset="9389085">You don't ordinarily have a situation where one shareholder gets a check like that, and the others don't.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2318.120" stopTime="2398.422">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2318.120" offset="9418446">The Service will certainly take the position that where money is coming out to a dominant shareholder, maybe money that was claimed to be salary and is held to be unreasonable, they'll say that's a dividend.</text>
+            <text syncTime="2330.487" offset="9467870">It's taxable to him as a dividend, even though the other shareholders didn't get an equal... didn't get a proportionate amount.</text>
+            <text syncTime="2338.564" offset="9500262">It's unusual, but there's no question if that's all that happens that the dividend... now in their reply brief, the IRS sets up a hypothetical where one person has 70 percent and the other has 30 percent.</text>
+            <text syncTime="2352.192" offset="9554701">And Mr. 70 Percent gets all stock and Mr. 30 Percent gets all cash, and they say that shows we're not in favor of an automatic dividend rule.</text>
+            <text syncTime="2360.968" offset="9589810">That shows what we mean by disproportionate distribution.</text>
+            <text syncTime="2364.090" offset="9602349">But in their reply brief, they explain why it is that Mr. 30 Percent is treated as getting a capital gain there, and it is because the effect is to terminate his interest in the continuing corporation.</text>
+            <text syncTime="2378.740" offset="9660967">They concede that even with the disproportionate distribution, you have to look to what was the impact of getting the cash on his interest in the continuing corporation.</text>
+            <text syncTime="2390.288" offset="9707152">Disproportionate test, therefore, is simply a way of highlighting the effect on continuing interest.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2398.422" stopTime="2411.130">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2398.422" offset="9739648">Excuse me... but taking boot is always going to reduce your interest in the... in the acquiring corporation.</text>
+            <text syncTime="2406.778" offset="9773085">That will always be the effect, won't it?</text>
+            <text syncTime="2408.488" offset="9779877">So wouldn't this whole provision be a dead letter, then?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2411.130" stopTime="2488.432">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2411.130" offset="9790535">A very important class of cases where it wouldn't be the case.</text>
+            <text syncTime="2413.702" offset="9800775">First of all, there are classes of reorganization where only one corporation is involved.</text>
+            <text syncTime="2418.456" offset="9819792">There are reorganizations where there are overlapping ownership, and there are reorganizations where two relatively equal companies are merged.</text>
+            <text syncTime="2428.882" offset="9861483">And in all of those cases you can have a situation where the reduction will exist, but it will not be sufficient to produce... there may not be any reduction at all.</text>
+            <text syncTime="2437.427" offset="9895651">But even where a reduction exists, it may not be enough to be meaningful.</text>
+            <text syncTime="2441.721" offset="9912892">When the Service has held, this is not the result of this case, but of lots of rulings in the past, the Service has held that a minority shareholder going down by as little as a few percent, three or four percent, that's meaningful for a minority shareholder.</text>
+            <text syncTime="2455.169" offset="9966600">But for a majority shareholder who continues to be able to control the corporation, he can go down quite a bit, as long as he doesn't go below a control level, and that reduction is not meaningful and that would be treated as a dividend.</text>
+            <text syncTime="2467.358" offset="10015397">So 356(a)(2) would continue to be a meaningful provision of the code if the Fourth Circuit opinion were affirmed here.</text>
+            <text syncTime="2476.223" offset="10050819">It doesn't make it a dead letter.</text>
+            <text syncTime="2478.246" offset="10058969">It makes it not apply in situations where the effect is not that of a dividend but that's what it says.</text>
+            <text syncTime="2485.400" offset="10087599">It doesn't mean there are no cases in which it would apply.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2488.432" stopTime="2494.765">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2488.432" offset="10099720">Well, you acknowledge that it would... it would not apply where a small corporation... the minnow and the whale.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2494.765" stopTime="2495.537">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2494.765" offset="10125006">Yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2495.537" stopTime="2497.277">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2495.537" offset="10128141">It would not apply in those cases?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2497.277" stopTime="2544.250">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2497.277" offset="10135038">It would not apply, subject always to the requirement that the burden of proof is on the taxpayer, and he has to show what the effect of the exchange is.</text>
+            <text syncTime="2504.581" offset="10164295">I agree in the normal situation he would be able to show it.</text>
+            <text syncTime="2508.905" offset="10181640">Moreover, the problem... at some point in their brief, the IRS suggests that they have an intuition, they use the word intuition, about what's going on here.</text>
+            <text syncTime="2525.935" offset="10249663">The taxpayer was trying to bail out, bail out earnings.</text>
+            <text syncTime="2529.908" offset="10265650">The Tax Court as the trier of facts specifically found that there was not the slightest evidence of that.</text>
+            <text syncTime="2535.752" offset="10288951">This is not a situation where something different is going on, and it would be open to the Government to prove something quite different was going on.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2544.250" stopTime="2546.831">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2544.250" offset="10323015">What precisely did the Tax Court find--</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2546.831" stopTime="2548.722">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2546.831" offset="10333255">With respect to that?</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2548.722" stopTime="2549.463">
+            <label>Unknown Speaker</label>
+            <text syncTime="2548.722" offset="10340882">--Yes.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2549.463" stopTime="2572.768">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2549.463" offset="10343808">That there was not the slightest evidence that Mr. Clark was using this as an opportunity to bail out accumulated earnings.</text>
+            <text syncTime="2557.927" offset="10377663">And I raise the point because the suggestion is made that that what was really going on.</text>
+            <text syncTime="2566.593" offset="10412353">That's a factual assertion... the Tax Court specifically found contrary to that factual assertion.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2572.768" stopTime="2588.299">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2572.768" offset="10437013">I mean, the man wanted cash.</text>
+            <text syncTime="2574.908" offset="10445581">Do you think anybody says: Gee, I want that portion of cash that's return of capital or I want that portion of cash that's growth and therefore dividends.</text>
+            <text syncTime="2584.035" offset="10482153">Is that at all... it doesn't seem to me to make any sense to even ask that question.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2588.299" stopTime="2605.859">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2588.299" offset="10499184">Justice Scalia, he said more than just I want cash.</text>
+            <text syncTime="2591.181" offset="10510678">He said: I want cash because I don't want to own so much N.L. stock.</text>
+            <text syncTime="2596.422" offset="10531681">I don't want to be that tied to N.L. I want, in effect, to get some of my money out in return for less N.L. stock.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2605.859" stopTime="2607.229">
+            <label>Unknown Speaker</label>
+            <text syncTime="2605.859" offset="10569402">I understand.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2607.229" stopTime="2608.371">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2607.229" offset="10574835">So that's a meaningful inquiry, yes.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2608.371" stopTime="2609.960">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2608.371" offset="10579433">Some of my money out of what?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2609.960" stopTime="2639.460">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2609.960" offset="10585806">Out of the continuing business.</text>
+            <text syncTime="2612.762" offset="10596987">He knew he was going to have because it qualified as a reorganization, he knew he was going to have an interest in N.L. otherwise the whole thing would have been taxable, and it would all have been taxable as a capital gain.</text>
+            <text syncTime="2623.501" offset="10639932">He said: I want not to hold so much N.L. stock and the Tax Court found that that was what was going on.</text>
+            <text syncTime="2631.426" offset="10671697">Another aspect of the problem which is relevant--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2639.460" stopTime="2644.575">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2639.460" offset="10703775">Would the case have come out differently if instead he said: I want to buy a Caribbean Island?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2644.575" stopTime="2674.914">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2644.575" offset="10724255">--No.</text>
+            <text syncTime="2645.436" offset="10727704">What he wants to do with the money is not relevant.</text>
+            <text syncTime="2647.106" offset="10734391">Why he wants not to own the N.L. stock, I believe, is relevant, and the Tax Court thought it was relevant.</text>
+            <text syncTime="2656.122" offset="10770440">Money is money.</text>
+            <text syncTime="2658.394" offset="10779531">That's one of the problems with the system that taxes capital gains and ordinary income at different rates.</text>
+            <text syncTime="2662.277" offset="10795100">You're always trying to decide what the character of that income would be, and it's all money.</text>
+            <text syncTime="2667.891" offset="10817565">The issue is not what he wanted to spend the money on, but why he chose not to take so much N.L. stock.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2674.914" stopTime="2686.300">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2674.914" offset="10845673">Well, would the case have come out differently in your view if he had said: not that I don't want to be involved to that extent with N.L. but that I have a pressing need for cash right now?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2686.300" stopTime="2687.291">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2686.300" offset="10891126">No.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2687.291" stopTime="2692.444">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2687.291" offset="10895096">Well, then it does seem that... what is the relevancy of the inquiry?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2692.444" stopTime="2701.110">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2692.444" offset="10915785">The relevancy of the inquiry is that the charge is made in the Petitioner's brief, and the charge is specifically refuted in the record.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2701.110" stopTime="2719.302">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2701.110" offset="10950371">If I understand you correctly, you are saying that if the record showed that a couple of years ago, he'd said, I've got this $2 million of accumulated earnings in this corporation that I own.</text>
+            <text syncTime="2710.857" offset="10989346">I want to get it out without paying a dividend.</text>
+            <text syncTime="2712.888" offset="10997496">How can we structure a transaction to accomplish this result?</text>
+            <text syncTime="2715.910" offset="11009617">and they went ahead and structured this transaction, you'd lose.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2719.302" stopTime="2729.420">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2719.302" offset="11023201">No.</text>
+            <text syncTime="2720.443" offset="11027694">Every corporation's value is in the sense only the value of its past accumulated earnings--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2729.420" stopTime="2734.973">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2729.420" offset="11063638">But if you win on the facts that I've given you, then this testimony... it doesn't really add or subtract anything?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2734.973" stopTime="2751.764">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2734.973" offset="11085895">--It isn't crucial.</text>
+            <text syncTime="2737.104" offset="11094358">But it underscores what was really happening here, as opposed... the Government accuses us of wanting to do this and analyze this case on a hypothetical basis.</text>
+            <text syncTime="2746.591" offset="11132288">It's not hypothetical what was actually going on here, and the record makes clear what was actually going on.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2751.764" stopTime="2759.481">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2751.764" offset="11152977">Well, it's hypothetical when you say you reduced your ownership because you didn't take some stuff you never got.</text>
+            <text syncTime="2757.758" offset="11177010">I mean, they're both hypothetical.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2759.480" stopTime="2907.377">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2759.480" offset="11183906">Yes, and that's because whenever you ask about effects, you're asking about something which didn't happen.</text>
+            <text syncTime="2767.384" offset="11215462">The only way you could meaningfully answer the question about effect is effect compared to what?</text>
+            <text syncTime="2772.078" offset="11234270">The Government says take the... if he'd taken the money straight out of the corporation, and that's all we will ask about... that will always be a dividend, no matter whether it's pro rata or disproportionate, that will always be a dividend unless you show that something else was going on.</text>
+            <text syncTime="2787.587" offset="11296337">The something else here that was going on was the reduction in his continuing ownership in the corporation.</text>
+            <text syncTime="2794.382" offset="11323504">The practical effect of the decision, overturning the Fourth Circuit, would be to create a good deal of confusion in the area.</text>
+            <text syncTime="2804.577" offset="11364255">The IRS is not clear in this situation about when or how much of the 302 analysis applies.</text>
+            <text syncTime="2812.274" offset="11395080">They don't say how much disproportion is enough.</text>
+            <text syncTime="2814.755" offset="11405006">Surely if there had been a one percent shareholder who had gotten all the stuff, I assume that the Commissioner would take the same position, that Mr. Clark's 99 percent was divided, still divided 70-30.</text>
+            <text syncTime="2829.245" offset="11462998">That was still a dividend.</text>
+            <text syncTime="2830.457" offset="11467805">As the Fourth Circuit points out in their opinion, there are circumstances in which this approach, the IRS approach, would be subject to manipulation, because it makes in an overlapping ownership situation, because it makes a great deal turn on which corporation survives the reorganization.</text>
+            <text syncTime="2850.800" offset="11549202">Indeed, the IRS recognized this at trial, and in their trial brief they said they didn't want to win too much.</text>
+            <text syncTime="2857.274" offset="11575116">They wanted to make sure they limited the effect of their victory to cases just exactly like this one.</text>
+            <text syncTime="2863.706" offset="11600820">That suggests to me that there's something wrong with the test they're proposing.</text>
+            <text syncTime="2867.619" offset="11616494">It doesn't work in the generality of cases to go with the evil which Congress said in the 1924 legislative history was what they were going at which was situations in which there was an evasion of the principle of taxing dividends because a reorganization, the form of a reorganization, was gone through.</text>
+            <text syncTime="2886.012" offset="11690055">There was no substantial change in who controlled the corporation, and yet money had come out.</text>
+            <text syncTime="2893.045" offset="11718162">That, we submit, and that's what the Fourth Circuit found, and the Tax Court found, that Section 356(a)(2) is about, and that is what the statute ought to be limited to ruling as a dividend.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2907.377" stopTime="2922.735">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2907.377" offset="11775527">Mr. Slocombe, suppose your client had just dissolved the corporation, said: you know, I want out of this business, and I'm not going to do any more business in the future.</text>
+            <text syncTime="2915.352" offset="11807397">Fold it all up.</text>
+            <text syncTime="2916.273" offset="11811054">He just terminates it, and takes all the money out, doesn't sell it to anybody.</text>
+            <text syncTime="2921.196" offset="11830802">What would happen to that?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2922.735" stopTime="2926.718">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2922.735" offset="11836863">Generally speaking, that would be a capital gain.</text>
+            <text syncTime="2925.028" offset="11846058">That would be a complete liquidation of the corporation.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2926.718" stopTime="2930.071">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2926.718" offset="11852850">Of all the accumulated earnings as well as--</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2930.071" stopTime="2932.372">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2930.071" offset="11866224">Just as if he sold it all for cash.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2932.372" stopTime="2949.032">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2932.372" offset="11875420">--And you're saying that essentially it ought to be the same kind of treatment when instead of just dissolving it, he sells it away, and decides that instead of taking some stock in the new corporation, or in the acquiring corporation, to take cash.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2949.032" stopTime="2959.460">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2949.032" offset="11942084">To take less stock, and to take cash, yes.</text>
+            <text syncTime="2951.745" offset="11952951">Because that is exactly what he did, and in effect, he was selling 30 percent for cash, and he was taxed on that.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2959.460" stopTime="2960.940">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2959.460" offset="11983775">What if he had taken all cash?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2960.940" stopTime="2977.602">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2960.940" offset="11989731">If he had taken all cash, there's no question that it would all have been capital gain.</text>
+            <text syncTime="2964.942" offset="12005718">It would all have been realized at the time of the event, in 1979.</text>
+            <text syncTime="2969.507" offset="12024004">As Mr. Horowitz says, the Code sets up an exception for certain circumstances in which there is a reorganization.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2977.602" stopTime="2992.913">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2977.602" offset="12056396">So he could, in effect, take out all the earnings by selling the whole thing and get capital gains treatment on the whole thing, but if he just tries to take out some of the earnings, by getting just some cash to boot, you're saying the Government wants to, wants to treat that as dividends.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2992.913" stopTime="2996.834">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2992.913" offset="12117627">Right.</text>
+            <text syncTime="2993.551" offset="12120135">Obviously I don't accept the characterization take out some of the earnings.</text>
+            <text syncTime="2996.325" offset="12131315">If he wants to--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2996.834" stopTime="2997.355">
+            <label>Unknown Speaker</label>
+            <text syncTime="2996.834" offset="12133300">Right.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="2997.355" stopTime="3003.639">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="2997.355" offset="12135390">--if he wants to dispose of a part of his interest for cash, while otherwise the requirements of reorganization are met, yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3003.639" stopTime="3008.092">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3003.639" offset="12160572">So you sort of have a greater-includes-the-lesser kind of argument going for you, don't you?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="3008.092" stopTime="3021.661">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="3008.092" offset="12178335">Yes, because remember the effect of selling out altogether for cash would be that he no longer has any continuing interest.</text>
+            <text syncTime="3014.555" offset="12204144">In a sense, the system matches, matches the appropriate level of taxation to what's happening.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3021.661" stopTime="3024.693">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3021.661" offset="12232566">If he takes all stock, it's not taxable at all?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="3024.693" stopTime="3029.936">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="3024.693" offset="12244791">No.</text>
+            <text syncTime="3025.772" offset="12249075">Yes, it is not taxable.</text>
+            <text syncTime="3027.295" offset="12255135">It's all deferred.</text>
+            <text syncTime="3028.336" offset="12259315">It will be taxed eventually.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3029.936" stopTime="3037.191">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3029.936" offset="12265689">Yes, but at that point, it's not taxable, and if he takes all money, it's taxable only at capital gains rates?</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="3037.191" stopTime="3037.992">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="3037.191" offset="12294737">Yes.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3037.992" stopTime="3045.455">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3037.992" offset="12297976">So it's only... the Government says only in this situation where it's some stock and some boot that you have to pay ordinary income.</text>
+          </turn>
+          <turn speaker="walter_b_slocombe" startTime="3045.455" stopTime="3100.071">
+            <label>Mr. Walter B. Slocombe</label>
+            <text syncTime="3045.455" offset="12327756">Yes.</text>
+            <text syncTime="3045.886" offset="12329532">Mr. Horowitz in rebuttal will undoubtedly say that if he he had sold it all, the computations would be different.</text>
+            <text syncTime="3053.200" offset="12358789">Section 356 provides special rules for how you compute the amount of gain when there's boot, and they're somewhat different from the regular rules, and they're less favorable to taxpayers, because you don't get credit for any of the bases.</text>
+            <text syncTime="3065.709" offset="12408840">But the basic proposition is yes, that you... the disposition of your interest in a corporation, of your property interest, is generally taxed as capital transaction.</text>
+            <text syncTime="3079.438" offset="12463697">The point that we are making here is that this was in effect not a pulling of earnings out of a continuing corporation without affecting interest, but a trading of a reduced ownership interest in the continuing corporation for cash at the time of the reorganization.</text>
+            <text syncTime="3095.629" offset="12528481">Thank you.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3100.071" stopTime="3105.675">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3100.071" offset="12546244">Thank you, Mr. Slocombe.</text>
+            <text syncTime="3102.274" offset="12555021">Mr. Horowitz, you have four minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3105.675" stopTime="3323.908">
+          <heading>Rebuttal of Alan I. Horowitz</heading>
+          <turn speaker="alan_i_horowitz" startTime="3105.675" stopTime="3294.179">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="3105.675" offset="12568709">Mr. Slocombe is now taking the position that the Court should basically ignore Section 356(a)(2).</text>
+            <text syncTime="3112.039" offset="12594100">Obviously, if the entire corporation had been sold for all cash, it would all be capital gain.</text>
+            <text syncTime="3118.124" offset="12618446">However, it would be more than $10 million of capital gain that he would have to recognize on the sale.</text>
+            <text syncTime="3123.726" offset="12640912">Respondent got a $7 million tax break by structuring this as a reorganization.</text>
+            <text syncTime="3128.850" offset="12661392">$7 million of his gain is not recognized.</text>
+            <text syncTime="3131.522" offset="12672050">That's because it was a reorganization.</text>
+            <text syncTime="3133.793" offset="12681140">That's because the assumption is that there is a continuing enterprise going on here, not getting rid of his old enterprise and turning it into cash, and the corollary to that is what Congress recognized in 356(a)(2), which is if you've got a continuing enterprise, you've still got these earnings and profits sitting around in the corporation, and if you take them out, you're going to have to consider whether what you've done has the effect of a dividend.</text>
+            <text syncTime="3156.208" offset="12770793">And that's what's happened here.</text>
+            <text syncTime="3157.480" offset="12775913">As Mr. Slocombe himself said, the idea of Mr. Clark's notion was to get his money out, or some of his money out.</text>
+            <text syncTime="3163.674" offset="12800677">What does that mean, his money?</text>
+            <text syncTime="3164.883" offset="12805483">It's the money that he earned when Basin was operating as a corporation, and it's been sitting in Basin, and earning some profits.</text>
+            <text syncTime="3171.357" offset="12831397">That's the money that he's got.</text>
+            <text syncTime="3172.769" offset="12837039">And this question of whether he bailed it out or not is not a factual issue, it's just an objective characterization of what's gone on by having the money come out.</text>
+            <text syncTime="3181.485" offset="12871939">One more point that I would like to make is this notion of whether the Government is bifurcating the transaction, or just looking at it in isolation, while Respondents arguably isn't.</text>
+            <text syncTime="3193.314" offset="12919273">Obviously they're looking at it in isolation also, by focusing on this change of interest, this hypothetical change of interest, as Justice Stevens says, if he had taken more stock or less stock.</text>
+            <text syncTime="3204.931" offset="12965666">What happened here is that he went from a 100 percent owner of a corporation down to a 1.3 percent, I guess it is, owner of another corporation.</text>
+            <text syncTime="3213.074" offset="12998267">Now, if you look at the whole transaction, obviously it can't make any serious difference whether he went from 100 percent to 1.3, from 100 percent to 0.9, or 100 percent to 1.15.</text>
+            <text syncTime="3223.032" offset="13038078">None of that matters.</text>
+            <text syncTime="3224.703" offset="13044765">So, if you look at the whole thing, there's just this change of interest basically fails out.</text>
+            <text syncTime="3230.586" offset="13068275">And if you try to apply the redemption provisions as they try to do, that difference becomes clear, because the reason why the Service, in these rulings that have been cited by Respondent does not require dividend treatment for a small change in interest by a minority shareholder, is because a minority shareholder... that kind of distribution to a minority shareholder is not regarded as a dividend, because a minority shareholder doesn't have the power to declare a dividend to himself.</text>
+            <text syncTime="3258.025" offset="13178094">But here, Clark wants to treat himself as a minority shareholder by looking at the transaction from a post-Hope way.</text>
+            <text syncTime="3264.560" offset="13204216">But of course he isn't, really.</text>
+            <text syncTime="3266.020" offset="13210068">He started as a 100 percent shareholder who could have declared those earnings and profits out to himself from Basin at any time, and that's essentially what's happened.</text>
+            <text syncTime="3273.774" offset="13241101">I think all of what the Respondent says about change in interest, etcetera, etcetera would all apply equally if in fact Basin had distributed this as a dividend before the reorganization... say, the day before.</text>
+            <text syncTime="3286.614" offset="13292406">His interest in the continuing corporation would have ended up being less.</text>
+            <text syncTime="3289.014" offset="13302019">It would all come out to be the same.</text>
+            <text syncTime="3290.406" offset="13307557">Yet, it would still have clearly been a dividend in the 316.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3294.179" stopTime="3308.558">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3294.179" offset="13322708">Yes, but you keep giving the example that if they had done it a little different... if you had also solo 30 percent of the stock for cash, and then two weeks later entered into a statutory reorganization, you would get capital gain.</text>
+            <text syncTime="3303.583" offset="13360324">You don't have to change the facts very much to make the answer very easy.</text>
+            <text syncTime="3307.597" offset="13376311">The problem is--</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="3308.558" stopTime="3312.800">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="3308.558" offset="13380177">Well, if you do it only two weeks later... I mean, there's a question, when you have--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3312.800" stopTime="3315.954">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3312.800" offset="13397209">--Well, whatever the period would be to get you, get the IRS off your back.</text>
+          </turn>
+          <turn speaker="alan_i_horowitz" startTime="3315.954" stopTime="3322.787">
+            <label>Mr. Alan I. Horowitz</label>
+            <text syncTime="3315.954" offset="13409748">--Well, he didn't do it that way.</text>
+            <text syncTime="3316.123" offset="13410479">I would just point out... I don't want to get into an argument, but it would have been a different transaction if you look at 3739 of our brief.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3322.787" stopTime="3325.320">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3322.787" offset="13437124">Thank you, Mr. Horowitz.</text>
+            <text syncTime="3323.908" offset="13441617">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

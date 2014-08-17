@@ -1,0 +1,36 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-28</verified>
+      </history>
+      <resources>
+        <audioFile size="407615">/xml/cases/1974/73_2055/19750519o_73-2055.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1974/trs/73-2055op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="101.826">
+        <title>Securities Investor Protection Corp. v. Barbour</title>
+        <section startTime="0.000" stopTime="101.826" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Thurgood Marshall</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="13.117">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">The judgment and opinion of the Court in No. 73-2055, Securities Investor Protection Corporation against Barbour will be announced by Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="13.117" stopTime="99.969">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="13.117" offset="52454">This case comes to us by writ of certiorari to the United States District Court -- United States Court of Appeals for the Sixth Circuit.</text>
+            <text syncTime="20.772" offset="83069">The Securities Investor Protection Corporation was established by Congress for the purpose of providing financial relief to the customers of failing broker dealers with whom they had left cash or securities on deposit.</text>
+            <text syncTime="36.854" offset="147331">The question presented by this case is whether such customers have an implied right of action to compel the corporation to exercise its statutory authority for their benefit.</text>
+            <text syncTime="49.542" offset="198113">The corporation is under the plenary supervision of the Securities and Exchange Commission and that agency has given the express right to sue in the District Court to compel the SIPC to act for the benefit of its customers.</text>
+            <text syncTime="64.163" offset="256627">In an opinion on file with the clerk today, we hold that the SEC's right of action is exclusive of the right claimed by the customers themselves.</text>
+            <text syncTime="74.975" offset="299886">Examination of the statutory allocation of functions among the SEC, makes changes, and the SIPC itself indicates that Congress did not intend to allow a self-interested customer to trigger the process by which a broker dealer is liquidated.</text>
+            <text syncTime="94.078" offset="376268">The judgment below is therefore reversed.</text>
+            <text syncTime="96.975" offset="387866">Mr. Justice Douglas dissents.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="99.969" stopTime="101.826">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="99.969" offset="399778">Thank you Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

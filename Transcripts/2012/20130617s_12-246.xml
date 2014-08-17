@@ -1,0 +1,33 @@
+<transcript verified="true">
+      <history>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="408913">/xml/cases/2012/12_246/20130617o_12-246.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/12-246_20130617-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="75.552">
+        <title>Salinas v. Texas</title>
+        <section startTime="0" stopTime="75.552">
+          <heading>Opinion Announcement of Samuel A. Alito, Jr.</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="6.550">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="106496">Justice Alito has our opinion this morning in case 12-246, Salinas versus Texas.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="6.550" stopTime="75.552">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="6.550" offset="132618">The question in this is case is whether petitioner Salinas' Fifth Amendment right against compelled self-incrimination was violated when the prosecutor at his trial commented on his failure to respond to a police officer's question during a voluntary noncustodial interview.</text>
+            <text syncTime="25.562" offset="208687">We hold that petitioner's right was not violated.</text>
+            <text syncTime="28.977" offset="222375">I filed an opinion in which the Chief Justice and Justice Kennedy have joined.</text>
+            <text syncTime="33.729" offset="241392">We conclude that there was no Fifth Amendment violation in this case because petitioner failed to invoke the Fifth Amendment privilege.</text>
+            <text syncTime="41.188" offset="271172">With limited exceptions that do not apply here, our cases have long required defendants to invoke the privilege in order to benefit from it.</text>
+            <text syncTime="51.123" offset="310983">Justice Thomas has filed an opinion concurring in the judgment in which Justice Scalia joins.</text>
+            <text syncTime="57.227" offset="335329">Justice Thomas would not extend the Court's holding in Griffin versus California to a defendant's silence during a pre-custodial interview.</text>
+            <text syncTime="67.178" offset="375139">Justice Breyer has filed a dissenting opinion in which Justices Ginsburg, Sotomayor, and Kagan have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,49 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1996-04-23</transcribed>
+        <edit user="jclow26" date="2012-08-06T16:34:59" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="david_h_souter"/>
+        <identified user="jclow26">2012-08-06</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:21:14" startTime="0.000" oldSpeaker="david_h_souter" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="784686">/xml/cases/1995/95_26/19960423o_95-26.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1995/95-26_19960423-opinion.xml</sourceFile>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="176.013">
+        <title>Markman v. Westview Instruments, Inc.</title>
+        <section startTime="0.000" stopTime="8.536">
+          <heading>Announcement of Justice Souter</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.536">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80634">The opinion of the Court in No. 95-26, Markman versus Westview Instruments will be announced by Justice Souter.</text>
+          </turn>
+        </section>
+        <section startTime="8.536" stopTime="176.013">
+          <heading>Announcement of Justice Souter</heading>
+          <turn speaker="david_h_souter" startTime="8.536" stopTime="176.013">
+            <label>Justice David H. Souter</label>
+            <text syncTime="8.536" offset="114698">This case comes to us on writ of certiorari to the Court of Appeals for the Federal Circuit.</text>
+            <text syncTime="12.659" offset="131207">It is not as exciting as the one that Justice Ginsburg has just described to us.</text>
+            <text syncTime="18.079" offset="152941">The issue is whether the construction of a patent falls exclusively within the province of the court, and specifically whether the Seventh Amendment requires that a jury decides meaning of disputed terms of art within the patent claim, the portion of the patent document that defines the patentee’s rights.</text>
+            <text syncTime="37.610" offset="230995">The petitioner Markman owns a patent to a system that keeps track of clothing as it moves through the dry-cleaning process.</text>
+            <text syncTime="45.226" offset="261506">Markman sued the respondent Westview Instruments alleging that Westview’s products infringe the patent.</text>
+            <text syncTime="51.953" offset="288360">Although the jury found that it did infringed it, the District Court granted the directive verdict nonetheless on the ground that Westview’s device in contrast to Markman’s is unable to track what was described as inventory as that word is used in the patent claim.</text>
+            <text syncTime="70.120" offset="361085">Markman appealed arguing that the Seventh Amendment required the jury not to judge to interpret the term inventory when, as here, evidences introduced to trial without its meaning.</text>
+            <text syncTime="80.745" offset="403612">The Court of Appeals affirmed holding that it was consistent with the Seventh Amendment the judges construe patent term.</text>
+            <text syncTime="86.802" offset="427749">In an opinion filed with the Clerk of Court today, we affirm the judgment of the Court of Appeals.</text>
+            <text syncTime="92.643" offset="451155">The Seventh Amendment right of trial by jury is the right which existed under the English common law when the amendment was adapted and we therefore looked to 18th century practice to assess the substance of the common law right that the Seventh Amendment was intended to preserve.</text>
+            <text syncTime="107.177" offset="509251">Given that infringement case arise they were at the time of the founding, tried before a jury, we have to determine whether particular trial issue, here a patent claim construction, must be decided by jury in order to preserve the essence of the right to a jury trial that existed at the appropriate time.</text>
+            <text syncTime="127.774" offset="591694">There is no direct antecedent to modern claim construction in the historical sources and 18th century patent cases reveal no analogous practice supporting the Markman’s contention that juries construed the terms of the patent.</text>
+            <text syncTime="141.819" offset="647909">To the extent that any analog responsible it seems to work against Markman’s position in fact.</text>
+            <text syncTime="147.774" offset="671628">Accordingly we look elsewhere to characterize this issue in order to allocate it as between judge and jury.</text>
+            <text syncTime="154.774" offset="699632">When we do existing precedents, the relative interpretive skills of judges and juries, and the statutory policy considerations to all favor allocating this position to the judge.</text>
+            <text syncTime="165.819" offset="743831">We therefore hold that the construction of terms within a patent claim or even terms of art falls within the province of the court.</text>
+            <text syncTime="173.783" offset="775700">Our opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

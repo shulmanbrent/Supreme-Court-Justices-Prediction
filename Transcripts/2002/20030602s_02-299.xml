@@ -1,0 +1,49 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2014-01-16T12:19:08" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="1009319">/xml/cases/2002/02_299/20030602o_02-299.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2002/trs/02-299_20030602-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="231.001">
+        <title>Entergy Louisiana, Inc. v. Louisiana Public Service Commission</title>
+        <section startTime="0.000" stopTime="231.001">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.641">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85316">The opinion of the Court in No. 02-299, Entergy Louisiana, Inc. versus Louisiana Public Service Commission will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="10.641" stopTime="231.001">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="10.641" offset="127843">This case comes to us on the writ of certiorari to the Supreme Court of Louisiania.</text>
+            <text syncTime="15.748" offset="148219">The Federal Energy Regulatory Commission (FERC) regulates the sale of electricity at wholesale and interstate commerce.</text>
+            <text syncTime="24.216" offset="182178">Under the filed rate doctrine, FERC approved cost allocations between affiliated energy companies may not be reevaluated by state regulators in setting retail rates.</text>
+            <text syncTime="36.401" offset="230870">Petitioner, Entergy Louisiana, Inc. or ELI is one of the five public utilities owned by Entergy Corporation.</text>
+            <text syncTime="47.833" offset="276637">ELI shares capacity with its corporate siblings in other states and this allows each company to access additional capacity when necessary.</text>
+            <text syncTime="57.590" offset="315612">Entergy allocates cost for the sharing through a tariff approved by FERC called the system agreement.</text>
+            <text syncTime="64.962" offset="345078">Under the agreement, some companies like ELI, make payments to others to cover capacity cost.</text>
+            <text syncTime="72.046" offset="373499">In the 1980's the operating committe which administers the system agreement initiated the Extended Reserve Shutdown or ERS program.</text>
+            <text syncTime="82.390" offset="414772">The ERS program responded to systemwide overcapacity by allowing some generating units not immediately necessary for capacity needs to be effectively mothballed.</text>
+            <text syncTime="94.294" offset="462420">Because ERS units could be reactivated if needed, they were considered available for purposes of calculating capacity cost payment.</text>
+            <text syncTime="104.908" offset="504947">In August of 1997, FERC found that Entergy had violated the system agreement in classifying ERS units as available but determined that a refund was not due ELI customers.</text>
+            <text syncTime="119.064" offset="561476">FERC approved an amendment to the system agreement allowing ERS unit to be treated as available if the operating committee determines that it intends to return the unit to service at a future day.</text>
+            <text syncTime="135.497" offset="627200">In 1997, ELI made its annual retail rate filing with respondent, Louisiana Public Service Commission.</text>
+            <text syncTime="143.930" offset="660950">One of the contested issues in this proceeding was whether the cost of ERS units should be considered in setting ELI's retail rates.</text>
+            <text syncTime="153.001" offset="697313">In finding its review to the period after the FERC order had issued, the Commission concluded that it was not preempted from disallowing ELI's payments or capacity, and ELI was not permitted to charge retail rates that reflected the cost of these payments.</text>
+            <text syncTime="171.336" offset="770560">The State District Court denied ELI's petition for review and the State Supreme Court upheld the Commission's decision.</text>
+            <text syncTime="179.555" offset="803474">In an opinion filed with the Clerk today, we reverse the Louisiana Supreme Court.</text>
+            <text syncTime="185.450" offset="827089">Under our decisions and Nantahala Power &amp; Light company versus Thornburg and Mississippi Power &amp; Light Company versus Mississippi ex rel. Moore, the Commission's order is preempted through the filed rate doctrine.</text>
+            <text syncTime="201.193" offset="889992">In both of these cases, we held that FERC approved cost allocations could not be second guess by state regulators.</text>
+            <text syncTime="208.988" offset="921234">The only differnce between the tariffs in Nantahala and MP&amp;L and the tariff in this case is that this one grants the regulated holding company discretion to set the precise allocation.</text>
+            <text syncTime="222.325" offset="974524">We do not find the distinction significant enough to save the Commission's order from preemption.</text>
+            <text syncTime="228.197" offset="998034">The opinion of the Court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

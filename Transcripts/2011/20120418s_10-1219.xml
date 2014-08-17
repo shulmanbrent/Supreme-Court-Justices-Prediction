@@ -1,0 +1,52 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-20</identified>
+      </history>
+      <resources>
+        <audioFile size="1334985">/xml/cases/2011/10_1219/20120418o_10-1219.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2011/trs/10-1219_20120418-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="306.834">
+        <title>Kappos v. Hyatt</title>
+        <section startTime="0.000" stopTime="306.834">
+          <heading>Opinion Announcement of Clarence Thomas</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="6.547">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="107520">Justice Thomas has our opinion this morning in Case 10-1219, Kappos versus Hyatt.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="6.547" stopTime="306.834">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="6.547" offset="133642">This case comes to us on a writ of certiorari to the -- the United States Court of Appeal for the Federal Circuit.</text>
+            <text syncTime="13.617" offset="161959">Gilbert Hyatt filed a patent application covering multiple claims.</text>
+            <text syncTime="18.742" offset="182439">An examiner in the Patent and Trademark Office (PTO) denied all of Hyatt's claims for lack of an adequate written description.</text>
+            <text syncTime="28.828" offset="222772">Hyatt appealed PTO's Board of Patent Appeals and Interferences, which approved some claims, but denied others.</text>
+            <text syncTime="37.585" offset="257776">Pursuant to Section 145 of Title 35 of the United States Code, Hyatt sought review of the Board's decision by filing a civil action in Federal District Court against the Director of PTO.</text>
+            <text syncTime="51.756" offset="314514">Before the District Court, Hyatt offered for the first time a written declaration in support of the adequacy of his patent application.</text>
+            <text syncTime="61.733" offset="354429">The District Court declined to consider that new evidence because Hyatt had not provided a sufficient reason for his failure to present it to the PTO.</text>
+            <text syncTime="73.114" offset="399882">Without the declaration, the only evidence remaining before the District Court was the PTO's administrative record.</text>
+            <text syncTime="80.652" offset="430080">Following Federal Circuit precedent, the District Court applied the Administrative Procedure Act's deferential substantive evidence standard to the PTO's findings and granted summary judgment to the Director.</text>
+            <text syncTime="94.862" offset="486922">On appeal, the Federal Circuit vacated the judgment holding that patent applicants can introduce new evidence in Section 145 proceedings subject only to the limitations in the Federal Rules of Evidence and the Federal Rules of Civil Procedure.</text>
+            <text syncTime="112.473" offset="557349">It also reaffirmed its precedent that when new conflicting evidence is introduced before the District Court, that Court must make de novo findings to make -- to take such evidence into account.</text>
+            <text syncTime="127.789" offset="618580">In an opinion filed with the clerk today, we affirm.</text>
+            <text syncTime="131.616" offset="633940">The text of Section 145 neither imposes limits on the presentation of new evidence in District Court nor establishes a heightened standard of review for PTO factual findings.</text>
+            <text syncTime="144.479" offset="685349">Nonetheless -- nonetheless, the Director of PTO contends that background principles of administrative law restrict the admissibility of new evidence and impose a differential standard of review in Section 145 proceedings.</text>
+            <text syncTime="161.680" offset="754207">We disagree.</text>
+            <text syncTime="163.456" offset="761313">As the Director concedes, judicial review in Section 145 proceedings is not limited to administrative record before the -- to the administrative record before the District Court and -- and the District Court -- because the District Court may consider new evidence.</text>
+            <text syncTime="183.172" offset="840202">If it does so, the District Court must act as fact finder and cannot give deference to PTO's -- to the PTO's factual findings when those findings are contradicted by new evidence.</text>
+            <text syncTime="196.305" offset="892656">Moreover, the primary purpose of the administrative exhaustion doctrine is the avoidance of premature interruption of the administrative process.</text>
+            <text syncTime="207.336" offset="936856">That rationale does not apply here because the PTO process is complete by the time a Section 145 proceeding occurs.</text>
+            <text syncTime="216.126" offset="971964">Our decision in this case is guided by this Court's previous opinion in Butterworth versus the United States.</text>
+            <text syncTime="222.873" offset="998922">In that case, this Court described the predecessor to Section 145 proceeding as an original civil action seeking de novo adjudication of the merits of a patent application.</text>
+            <text syncTime="236.242" offset="1052421">Although another of this Court's cases, that would be Morgan versus Daniels, appears to take a conflicting view, that case is distinguishable because it involved an interference proceeding in which no new evidence was presented, a different context than the one presented here.</text>
+            <text syncTime="255.951" offset="1131311">In this case, we are concerned only with a Section 145 proceeding in which new evidence was presented to the District Court.</text>
+            <text syncTime="265.314" offset="1168718">Thus applying Butterworth's guidance, we hold that a District Court conducting a Section 145 proceeding may consider all competent evidence adduced and is not limited to considering only new evidence that could not have been presented to the PTO.</text>
+            <text syncTime="283.503" offset="1241443">We note, however, that the District Court may consider whether the patent applicant had an opportunity to present the newly proffered evidence to the PTO when deciding what weight to afford that evidence.</text>
+            <text syncTime="297.770" offset="1298599">The judgment of the Court of Appeals is affirmed.</text>
+            <text syncTime="300.861" offset="1310929">Justice Sotomayor has filed a concurring opinion, in which Justice Breyer joins.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

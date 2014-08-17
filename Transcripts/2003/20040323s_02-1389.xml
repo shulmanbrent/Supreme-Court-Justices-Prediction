@@ -1,0 +1,54 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <identified user="jgoldman">2013-12-12</identified>
+        <edit user="jgoldman" date="2013-12-12T11:52:52" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1313259">/xml/cases/2003/02_1389/20040323o_02-1389.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2003/trs/02-1389_20040323-opinion.trs</sourceFile>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="281.931">
+        <title>United States v. Galletti</title>
+        <section startTime="0.000" stopTime="281.931" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice Clarence Thomas</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.986">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 02-1389, United States against Galletti will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="8.986" stopTime="281.931">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="8.986" offset="35944">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="15.050" offset="60186">Respondents were general partners of the Marina Cabrillo Company a partnership.</text>
+            <text syncTime="19.950" offset="79726">From 1992 to 1995 the partnership incurred substantial federal employment tax liabilities arising from its failure to withhold the requisite amount of federal income taxes from its employees.</text>
+            <text syncTime="35.588" offset="142315">The IRS assessed those taxes against the partnership within the statutory 3-year requirement thereby triggering the 10-year extension to the statute of limitations on a tax collection action.</text>
+            <text syncTime="50.126" offset="200411">However, the partnership never satisfied the debt.</text>
+            <text syncTime="54.617" offset="218384">Several years later, the respondent filed for bankruptcy.</text>
+            <text syncTime="58.069" offset="232176">In the bankruptcy proceedings, the IRS filed proofs of claims for the partnership’s unpaid employment taxes.</text>
+            <text syncTime="65.400" offset="261538">Since under California law, respondents were liable generally for the debts of the partnership.</text>
+            <text syncTime="71.788" offset="287138">Respondents objected to the claims arguing that the taxes had never been assessed against them and thus, the statute of limitations for collecting the tax debt had expired.</text>
+            <text syncTime="82.586" offset="330292">Both the Bankruptcy Court and the District Court agreed and sustained the respondent’s objections to the claims.</text>
+            <text syncTime="89.599" offset="358296">A Ninth Circuit panel affirmed.</text>
+            <text syncTime="91.536" offset="366132">The Ninth Circuit acknowledged that the IRS had timely assessed the taxes against the partnership which triggered a 10-year extension to the limitations period for collecting the taxes.</text>
+            <text syncTime="103.426" offset="413675">The Ninth Circuit held however, that the assessment against the partnership extended the statute of limitation only with respect to the partnership because the partners were separate tax payers under the Internal Revenue Code and thus must me separately assessed.</text>
+            <text syncTime="119.629" offset="478459">Since the 3-year statute of limitations were assessing the tax debt against respondent had expired, the Ninth Circuit included that the IRS’ claim against the partners was time barred.</text>
+            <text syncTime="131.636" offset="526524">In an opinion filed with the Clerk today, we reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="137.209" offset="548780">Respondents argued that a valid assessment triggering the 10-year extension of statute of limitation must name them individually because they are primarily liable for the tax debt.</text>
+            <text syncTime="149.988" offset="599876">First, respondents argued that they are primarily liable because 26 U.S.C. Section 6203 requires a Secretary to assess taxes by recording the liability of the tax payer and they are each separate tax payers under the Code.</text>
+            <text syncTime="167.217" offset="668839">The statute’s reference to the tax payer’s liability however, indicates that we must look to the underlying liability to identify the relevant tax payer against whom the tax must be assessed.</text>
+            <text syncTime="180.824" offset="723278">Here, the tax liability arose from the partnership’s failure to comply with the requirement that employers deduct and withhold certain amounts of employment taxes.</text>
+            <text syncTime="191.346" offset="765283">Thus, the relevant tax payer is the employer.</text>
+            <text syncTime="194.867" offset="779389">Respondents also argued that they are primarily liable for the tax debt because California law makes them jointly and severally liable for all of the partnership’s debts.</text>
+            <text syncTime="205.941" offset="823693">This fact is irrelevant, however.</text>
+            <text syncTime="208.661" offset="834560">In order to show that they are primarily liable for the debt, respondents must demonstrate that the employment taxes were imposed directly upon them as the employer.</text>
+            <text syncTime="219.625" offset="878446">Respondents have not shown that they are primarily liable for the tax debt and the Code does not require the government to make separate assessments of a single tax debt against secondarily liable parties in order to trigger the extended limitations period, because it is the tax rather than the person that is assessed.</text>
+            <text syncTime="239.450" offset="957753">The assessment's consequence is the extension of the limitation’s period for the collecting of the debt attached to the collection of the debt without reference to the identities of the secondarily liable parties.</text>
+            <text syncTime="252.382" offset="1009476">In this case, the government’s timely assessment of the partnership was sufficient to extend the limitation’s period for the collection of the taxes from respondents.</text>
+            <text syncTime="263.123" offset="1052421">The opinion of the Court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

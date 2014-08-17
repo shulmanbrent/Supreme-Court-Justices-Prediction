@@ -1,0 +1,1296 @@
+<transcript verified="true">
+      <history>
+        <transcribed minutes="56">2011-10-32T11:03</transcribed>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="13598785">/xml/cases/2011/10_1104/20111101a_10-1104.mp3</audioFile>
+        <sourceFile>/data/sites/oyez.org/cases/2011/2011_10_1104/10-1104_20111101-argument.xml</sourceFile>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="elena_kagan" type="justice" gender="female" path="/justices/elena_kagan" image="/justices/elena_kagan/thumbnail.jpg">Elena Kagan</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="sonia_sotomayor" type="justice" gender="female" path="/justices/sonia_sotomayor" image="/justices/sonia_sotomayor/thumbnail.jpg">Sonia Sotomayor</speaker>
+        <speaker id="jonathan_s_franklin" type="advocate" gender="male" path="/advocates/jf/jonathan_s_franklin" image="/advocates/jf/jonathan_s_franklin/thumbnail.jpg">Jonathan S. Franklin</speaker>
+        <speaker id="pratik_shah" type="advocate" gender="male" path="/advocates/ps/pratik_shah" image="/advocates/ps/pratik_shah/thumbnail.jpg">Pratik A. Shah</speaker>
+        <speaker id="john_f_preis" type="advocate" gender="male" path="/advocates/jp/john_f_preis" image="/advocates/jp/john_f_preis/thumbnail.jpg">John F. Preis</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3372.978">
+        <title>Minneci v. Pollard</title>
+        <section startTime="0.000" stopTime="980.355">
+          <heading>Argument of Jonathan S. Franklin</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="8.537">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="105472">We will hear argument next in Case 10-1104, Minneci v. Pollard.</text>
+            <text syncTime="7.570" offset="135670">Mr. Franklin.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="8.537" stopTime="46.545">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="8.537" offset="139536">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="11.456" offset="151239">Over the last 3 decades, the Court has made clear that Bivens remedies are disfavored and will only be authorized in narrow situations where there are no adequate alternative means for redressing a plaintiff's injuries and no other factor counsels hesitation.</text>
+            <text syncTime="27.817" offset="216649">Respondent has satisfied neither criteria.</text>
+            <text syncTime="31.369" offset="230860">He has not shown that he lacked a traditional tort remedy for the injuries of which he complains, and Petitioners' status as employees of a private contractor rather than the government at a minimum gives rise to factors counseling hesitation.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="46.545" stopTime="89.991">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="46.545" offset="291568">Can we go back to what you said initially, that is if there's no alternative remedy Bivens fills the gap.</text>
+            <text syncTime="57.003" offset="333469">Suppose we had a case just like Carlson, only the State law allows survivor actions.</text>
+            <text syncTime="67.792" offset="376623">In Carlson, I thought the rule emerging from Carlson is that prison personnel in Federal prisons are subject to Bivens liability, and we don't look in each case to see whether they could have been a State tort.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="89.991" stopTime="92.093">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="89.991" offset="465335">Well, the rule--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="92.093" stopTime="92.676">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="92.093" offset="473799">Is that so?</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="92.676" stopTime="175.580">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="92.676" offset="476097">--The the rule -- the Carlson rule still applies, Your Honor, because that involved actual Federal government employees.</text>
+            <text syncTime="98.128" offset="497936">And since Carlson, Congress has preempted all tort claims against them.</text>
+            <text syncTime="103.881" offset="520923">So whether Indiana law now, which has been amended, but whether Indiana law provides a remedy or doesn't is immaterial, because Congress has preempted all tort claims against actual employees of the government.</text>
+            <text syncTime="114.772" offset="564496">But these -- this case involves -- the Petitioners are not employees of the government.</text>
+            <text syncTime="119.826" offset="584767">They are employees of a private contractor.</text>
+            <text syncTime="121.909" offset="593021">And under the Westfall Act, what Congress did was preempt all claims against actual government officials while preserving Bivens remedies.</text>
+            <text syncTime="129.682" offset="624159">But it did the opposite for employees of private contractors.</text>
+            <text syncTime="133.901" offset="640982">For them there are adequate alternative tort remedies.</text>
+            <text syncTime="137.288" offset="654566">And it's virtually undisputed in this case that there was such a remedy here.</text>
+            <text syncTime="141.907" offset="673061">And they are deliberately -- Congress expressly excluded them from the category of employees against whom it preserved Bivens remedies.</text>
+            <text syncTime="150.695" offset="708169">So yes, in the Carlson situation, there is still a Bivens claim because Congress has expressly preserved that.</text>
+            <text syncTime="156.849" offset="732829">But here we have a different congressional policy that we are, in effect, asking the Court to embrace here.</text>
+            <text syncTime="161.986" offset="753413">What Congress did in the Westfall Act is it said what in effect we are asking this Court to recognize and what we believe the Court has recognized in cases like Malesko, and that is, where there are adequate alternative tort -- excuse me, where there are no adequate--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="175.580" stopTime="205.265">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="175.580" offset="807748">Suppose, Mr. Franklin, that there weren't.</text>
+            <text syncTime="177.296" offset="814644">I mean, I think you have a good case about California law here.</text>
+            <text syncTime="180.298" offset="826661">But suppose we were in a State where the law was very different from what California's law appears to be, where there was no special duty recognized for jailors, and indeed where the basic negligence tort was unavailable to inmates because there was a finding of -- a holding of the State supreme court that there was no duty on the part of jailors to inmates.</text>
+            <text syncTime="204.413" offset="923105">What would happen then?</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="205.265" stopTime="237.784">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="205.265" offset="926448">--In that hypothetical instance -- and we do think it's hypothetical -- we think that would be a different case and the Court could in that circumstance say there were no adequate alternative remedies.</text>
+            <text syncTime="215.038" offset="965528">But the reason we think it's entirely hypothetical is there has nothing been shown in the briefing of this Court and, as the Ninth Circuit dissenters made clear, that any State doesn't afford the bedrock cause of negligence.</text>
+            <text syncTime="226.928" offset="1013175">And that cause, as the Court held in Malesko quite expressly, is not only adequate to redress any actions that would violate the Eighth Amendment, but it's actually superior.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="237.784" stopTime="238.819">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="237.784" offset="1056538">But is your answer--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="238.819" stopTime="255.329">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="238.819" offset="1060718">Mr. Franklin, there were some references to Mississippi law that seems to be inconsistent with the notion that all States would provide an adequate remedy.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="255.329" stopTime="290.335">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="255.329" offset="1126755">I believe that reference, if I am correct, comes from an amicus brief, and that law does not -- would not on its face prohibit an action against a private managed prison holding Federal prisoners.</text>
+            <text syncTime="269.271" offset="1182553">These laws -- and the Mississippi law is an example; there is a New York law -- those apply to State government officials.</text>
+            <text syncTime="275.492" offset="1207421">They are similar to the Westfall Act, but on a state level.</text>
+            <text syncTime="278.027" offset="1217557">They immunize State government officials from claims, but those claims would be subject to 1983 actions.</text>
+            <text syncTime="286.217" offset="1250262">Here we have a privately managed prison holding Federal prisoners.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="290.335" stopTime="294.554">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="290.335" offset="1266772">Is it -- then it might hold State prisoners as well.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="294.554" stopTime="296.156">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="294.554" offset="1283594">I'm sorry?</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="296.156" stopTime="304.612">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="296.156" offset="1290073">It might hold -- some private facilities will take State prisoners as well as Federal prisoners.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="304.612" stopTime="312.165">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="304.612" offset="1323823">There has been some representation, that we don't disagree with, that there might be some facilities that have State prisoners and--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="312.165" stopTime="320.538">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="312.165" offset="1354125">And if they do have State prisoners, the State prisoner would have recourse to, not Bivens, but 1983.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="320.538" stopTime="323.656">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="320.538" offset="1387562">--Most likely, Your Honor, yes, if it's under--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="323.656" stopTime="332.829">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="323.656" offset="1399996">So you have two prisoners, identical mistreatment, and one gets a Federal remedy and the other doesn't.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="332.829" stopTime="345.256">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="332.829" offset="1436776">--The other actually gets what the Court in Malesko described as a superior remedy.</text>
+            <text syncTime="337.316" offset="1454644">The prisoner -- the Federal prisoner has, in that sense, a remedy that's beyond the Eighth Amendment, that goes--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="345.256" stopTime="364.550">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="345.256" offset="1486409">Can you tell me why it is that you, you care in this suit?</text>
+            <text syncTime="348.790" offset="1500620">If you are telling us, oh, don't worry, there's going to be liability and probably perhaps even more extensive liability than Bivens, what difference does it make?</text>
+            <text syncTime="358.079" offset="1537714">Bivens doesn't give you attorneys fees.</text>
+            <text syncTime="359.629" offset="1543983">Now, it's true that the Federal question may get you into Federal court.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="364.550" stopTime="376.375">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="364.550" offset="1563627">--Well, I have several answers to that.</text>
+            <text syncTime="366.685" offset="1572195">First, Your Honor, my clients care very deeply in this case because, as the district court held, if there is no Bivens remedy this case is dismissed.</text>
+            <text syncTime="373.756" offset="1600408">This case was dismissed on the lack of a Bivens remedy.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="376.375" stopTime="377.727">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="376.375" offset="1610961">Just because of the statute of limitations?</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="377.727" stopTime="391.284">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="377.727" offset="1616290">It's way too late now, 10 years after the incident, for them to now assert a State law claim.</text>
+            <text syncTime="383.381" offset="1638964">So we do care.</text>
+            <text syncTime="384.531" offset="1643562">And in fact that was the same situation that was in Malesko.</text>
+            <text syncTime="387.916" offset="1657041">In Malesko you had a virtually identical situation, where the--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="391.284" stopTime="394.486">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="391.284" offset="1670520">If we are looking -- if we are looking forward beyond this case--</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="394.486" stopTime="394.836">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="394.486" offset="1683372">--Right.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="394.836" stopTime="401.057">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="394.836" offset="1684731">--and there is no statute of limitation problem, does it really make any difference that he has a second cause of action that's just, A--</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="401.057" stopTime="401.974">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="401.057" offset="1709599">It makes a--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="401.974" stopTime="403.859">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="401.974" offset="1713361">--duplicative or, B, arguably narrow, more narrow?</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="403.859" stopTime="414.598">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="403.859" offset="1720884">--Well, two points.</text>
+            <text syncTime="404.692" offset="1724228">I'd like to first say that the Court in Malesko adopted the principle that if there is an alternative remedy that's not a reason for piling on a Federal remedy; that's a reason not to.</text>
+            <text syncTime="413.048" offset="1757560">But in a practical sense--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="414.598" stopTime="416.350">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="414.598" offset="1763830">But what difference does it make?</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="416.350" stopTime="460.093">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="416.350" offset="1770830">--Let me give you a practical difference that it does matter for individuals in my clients' situation.</text>
+            <text syncTime="421.285" offset="1790579">If a State tort claim is brought, there is respondeat superior liability under a State court claim.</text>
+            <text syncTime="427.890" offset="1817015">And in many, if not most cases, the plaintiff will choose, voluntarily choose to sue the corporation and leave the individual out of the case.</text>
+            <text syncTime="436.580" offset="1851705">Now, the deterrent effect that Bivens is concerned with still exists because the case can be brought against the individual.</text>
+            <text syncTime="443.317" offset="1878664">However, if there is a Bivens claim, that has to be brought against the individual; it cannot be brought under respondeat superior.</text>
+            <text syncTime="450.154" offset="1906040">So if there is a Bivens claim, as a practical matter you are going to see more and more individuals being dragged through these cases without, by the way, the recognized qualified immunity defense--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="460.093" stopTime="478.804">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="460.093" offset="1945746">--Mr. Franklin, do you have a theory about why these are brought as Bivens claims?</text>
+            <text syncTime="463.562" offset="1959643">It seems mysterious to me.</text>
+            <text syncTime="465.080" offset="1965704">If you bring it as a negligence claim, you get a lower standard of liability, negligence versus deliberate indifference.</text>
+            <text syncTime="471.000" offset="1989423">You get vicarious liability.</text>
+            <text syncTime="473.200" offset="1998200">So I have been trying to puzzle out, why aren't these brought as negligence claims rather than as Bivens claims?</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="478.804" stopTime="525.368">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="478.804" offset="2020665">--I can't answer that question.</text>
+            <text syncTime="480.089" offset="2025785">What I can say -- well, I can try to answer, but I can say that if the Court rules as we ask it to in this case, we think that there will not be Bivens claims, that people will bring them under the tort law.</text>
+            <text syncTime="491.379" offset="2070925">It could be there are forms in some of these prisons that are given out that have section 1983 written on them, that Bivens is there.</text>
+            <text syncTime="500.420" offset="2107079">It could be that prisoners are not quite aware that the Westfall Act doesn't cover private contractors.</text>
+            <text syncTime="505.389" offset="2126932">But we would think if the Court rules as we suggest it should, that the -- that the prisoners who are relatively savvy, even on a pro se basis, about their rights would then understand that they have these rights and will exercise them and that the Bivens remedy would not have been to be employed willy-nilly as it was in this case.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="525.368" stopTime="540.461">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="525.368" offset="2206866">To go back to what I asked before when I hypothesized a State that didn't have adequate remedies, and you said -- well, just to pin down what you said, if there were no adequate remedies there would be a Bivens action available?</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="540.461" stopTime="567.195">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="540.461" offset="2267261">There might be, Your Honor.</text>
+            <text syncTime="541.561" offset="2271650">There still is the factors counseling hesitation, which is the second step of the Bivens analysis.</text>
+            <text syncTime="545.930" offset="2289100">And I wouldn't want to give up that there might be factors in those cases counseling hesitation.</text>
+            <text syncTime="550.317" offset="2306654">But certainly our position is not that -- in a circumstance, if that arose, and again we think that's hypothetical because there is no indication either that it has arisen or that it will arise, but if it were to, our position wouldn't rule out the possibility of a Bivens claim in those circumstances.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="567.195" stopTime="589.442">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="567.195" offset="2374154">To get back to the question that Justice Ginsburg asked, is that consistent with Carlson?</text>
+            <text syncTime="572.480" offset="2395366">Because the Court in Carlson didn't say that there is a Bivens action because in this particular State there isn't a viable State action, but it might be different in another State where there is a viable State claim.</text>
+            <text syncTime="586.423" offset="2451163">It did it on basically a categorical ground.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="589.442" stopTime="681.050">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="589.442" offset="2463180">Well, as the case came to the Court in Carlson, it was undisputed that there was no adequate State law remedy, the lower courts had held.</text>
+            <text syncTime="597.630" offset="2495990">So that was sort of the basic premise that the Court then went ahead and decided the case on.</text>
+            <text syncTime="602.016" offset="2513439">Since Carlson, we've had cases, notably Malesko and also Wilkie, which have made clear that the adequacy of remedies, including State law remedies, is a factor in the Bivens analysis and is in fact the dispositive factor in Malesko, as in this case as well.</text>
+            <text syncTime="618.394" offset="2578954">We don't think that there is really any serious dispute in this case that there were adequate alternative remedies.</text>
+            <text syncTime="624.798" offset="2604659">Again, the deliberate indifference standard is much, much more hard -- much harder to meet than a traditional negligence standard.</text>
+            <text syncTime="632.535" offset="2635588">California law is, further, more protective of prisoners.</text>
+            <text syncTime="635.654" offset="2648022">As we understand the Respondents' position, the Court -- they would urge the Court, notwithstanding the availability of alternative remedies in this case and as far as we can tell in every foreseeable case, to create what they refer to as a categorical cause of action, one that would apply regardless of whether the remedies are adequate or not.</text>
+            <text syncTime="656.150" offset="2730047">And in our view, that would turn the Bivens jurisprudence effectively on its head.</text>
+            <text syncTime="660.654" offset="2748019">The Court has said Bivens is a narrow -- I think Justice Ginsburg at least paraphrased our argument as saying it's a gap-filling mechanism, which is what our argument is -- that would apply only in those circumstances when it's necessary.</text>
+            <text syncTime="673.445" offset="2799219">Other than that, the Court has consistently deferred the matter to Congress.</text>
+            <text syncTime="677.432" offset="2815101">And that's where we think it ought to lie in this case.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="681.050" stopTime="694.525">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="681.050" offset="2829625">Does a prisoner in a State that requires the filing of a certificate of merit in a medical malpractice case have an alternative -- a viable alternative State claim--</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="694.525" stopTime="696.477">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="694.525" offset="2883542">Yes, again, that's--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="696.477" stopTime="697.194">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="696.477" offset="2891379">--for malpractice?</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="697.194" stopTime="712.287">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="697.194" offset="2894200">--We say yes.</text>
+            <text syncTime="697.944" offset="2897230">That issue is not in this case.</text>
+            <text syncTime="699.262" offset="2902455">The Eleventh Circuit in Alba expressly addressed that issue under that State's law, and said yes, that is adequate.</text>
+            <text syncTime="707.035" offset="2933593">It's simply a procedural requirement that applies to all plaintiffs.</text>
+            <text syncTime="710.487" offset="2947385">And I would add, by the way, that--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="712.287" stopTime="715.622">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="712.287" offset="2954595">How is a prisoner supposed to satisfy that requirement?</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="715.622" stopTime="757.882">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="715.622" offset="2967865">--The same way any other plaintiff is supposed to.</text>
+            <text syncTime="718.906" offset="2981031">What I was going to add is that when you are alleging an Eighth Amendment violation, you are talking about a claim that by its nature is very severe.</text>
+            <text syncTime="726.410" offset="3011020">You are talking about deliberate indifference to serious medical needs that constitutes the unnecessary and wanton infliction of pain.</text>
+            <text syncTime="733.583" offset="3039754">In those circumstances, we would suggest that it might even be easier to procure that kind of declaration, but -- that issue was decided in Alba, so that -- that was decided.</text>
+            <text syncTime="745.005" offset="3085416">If it comes up in another case, it can be decided there.</text>
+            <text syncTime="747.741" offset="3096388">We don't think that that would render the -- if it's -- if it's an adequate remedy for everyone else in that State and most States that have these things, then it's an adequate remedy for Bivens.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="757.881" stopTime="763.685">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="757.881" offset="3136930">Did any of those courts address the problem of how the pro se prisoner is going to get an affidavit?</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="763.685" stopTime="777.695">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="763.685" offset="3160127">Well, Alba -- the Alba court is -- is the only court that I'm aware of on the circuit level that's considered it.</text>
+            <text syncTime="769.606" offset="3183846">And I believe they did address that issue and simply said that it is -- puts them on an equal footing with other plaintiffs, and that that would be an adequate remedy.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="777.695" stopTime="793.138">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="777.695" offset="3216238">I don't -- I don't understand your answer to Justice Kagan.</text>
+            <text syncTime="780.645" offset="3228045">If -- if I heard you right, you were saying, well, they are going to be able to get a certificate because it's an Eighth Amendment violation and everything is very severe.</text>
+            <text syncTime="788.151" offset="3258034">But the point is, they are going to bring a negligence action, not an Eighth Amendment action.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="793.138" stopTime="793.538">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="793.138" offset="3277991">Right.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="793.538" stopTime="794.005">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="793.538" offset="3279559">So--</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="794.005" stopTime="809.164">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="794.005" offset="3281439">I'm talking about if the conduct -- we are comparing here between conduct that would violate the Eighth Amendment and conduct that is negligent, and I'm saying if the conduct rises to the level of an Eighth Amendment violation, which is what we're talking about in terms of the adequacy, then it would be easier, one would presume.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="809.164" stopTime="811.932">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="809.164" offset="3342043">But I think the question, Mr. Franklin, is really just a practical one--</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="811.932" stopTime="812.232">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="811.932" offset="3353119">Sure.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="812.232" stopTime="825.092">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="812.232" offset="3354373">--which is how a pro se person sitting in prison is supposed to have access to a doctor who will provide this certificate.</text>
+            <text syncTime="820.888" offset="3388959">And, I mean, maybe there would be means, but I'm asking whether there would be.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="825.092" stopTime="899.674">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="825.092" offset="3405782">I would think there would, but I don't want to say -- I don't want to argue someone else's case on that.</text>
+            <text syncTime="829.311" offset="3422710">I mean, I do think that that was an issue that was resolved, at least in the Eleventh Circuit in Alba.</text>
+            <text syncTime="833.865" offset="3440891">It's not an issue that applies in this case because there is no such certificate here in California.</text>
+            <text syncTime="838.084" offset="3457714">I do think it would be adequate.</text>
+            <text syncTime="839.685" offset="3464192">I mean, Bush v. Lucas, which was a Federal remedies case, said there were what they called "meaningful remedies".</text>
+            <text syncTime="845.103" offset="3485821">As long as there is a meaningful remedy, it's sufficient.</text>
+            <text syncTime="847.989" offset="3497420">And if Congress wants to think that there is a problem, for example, if Congress thinks there is a problem with these certificates of merit in the case of privately run facilities, then it certainly can establish a cause of action as it did in section 1983.</text>
+            <text syncTime="861.882" offset="3552904">But the Bivens doctrine is really a narrow, as we say, gap-filling doctrine.</text>
+            <text syncTime="866.586" offset="3571816">And the Court has always used it very sparingly.</text>
+            <text syncTime="869.205" offset="3582265">And the reason the Court has done that is because there is no authority for it in the language of any constitutional or statutory provision.</text>
+            <text syncTime="876.192" offset="3610164">So the Court has always treaded very cautiously in this area.</text>
+            <text syncTime="879.327" offset="3622703">And I wouldn't rule out in that circumstance that somebody could make that argument.</text>
+            <text syncTime="883.462" offset="3639317">I -- I just don't think in this case there has been any real dispute that there's an adequate remedy.</text>
+            <text syncTime="887.932" offset="3657185">There wasn't in Malesko and that was sufficient in that case.</text>
+            <text syncTime="891.468" offset="3671291">And we think it is sufficient in this case as well for the Court to in effect stay its Bivens hand and turn the matter if necessary over to Congress.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="899.674" stopTime="929.276">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="899.674" offset="3704101">Under the PLRA -- under the PLRA, a district judge has to perform a screening function for -- for these complaints, and is that -- is it going to be an impossible burden for district judges to ascertain the contours of state prison law, in that there apparently is not a lot of prisoner litigation under State law?</text>
+            <text syncTime="926.474" offset="3811307">Most prisoners seem to choose 1983.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="929.276" stopTime="965.512">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="929.276" offset="3822488">Well, in this case, the agistrate judge did it.</text>
+            <text syncTime="932.045" offset="3833563">It wasn't an impossible burden m for him.</text>
+            <text syncTime="933.211" offset="3838265">This was done on a prescreening; the Court ruled exactly as we are asking the Court to rule now.</text>
+            <text syncTime="939.281" offset="3862507">The Court did -- the Court in Malesko did it.</text>
+            <text syncTime="941.064" offset="3869717">It wasn't difficult.</text>
+            <text syncTime="941.914" offset="3873061">If it is deemed that there is an issue there, there are various procedural mechanisms that could be employed.</text>
+            <text syncTime="947.818" offset="3896675">There could be a dismissal without prejudice, a dismissal with repleading, certificate to a State court.</text>
+            <text syncTime="953.455" offset="3919245">You could stay the Bivens action.</text>
+            <text syncTime="955.155" offset="3926037">There's various things that district courts can do.</text>
+            <text syncTime="957.257" offset="3934396">But in this case, it wasn't an issue.</text>
+            <text syncTime="959.692" offset="3944218">It wasn't an issue in Malesko.</text>
+            <text syncTime="961.059" offset="3949652">We don't think it's going to be an issue in others either.</text>
+            <text syncTime="963.243" offset="3958429">If I may reserve the remainder of my time.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="965.512" stopTime="980.355">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="965.512" offset="3967519">--Thank you, counsel.</text>
+            <text syncTime="966.662" offset="3972117">Mr. Shah.</text>
+          </turn>
+        </section>
+        <section startTime="980.355" stopTime="1601.888">
+          <heading>Argument of Pratik A. Shah</heading>
+          <turn speaker="pratik_shah" startTime="980.355" stopTime="1028.269">
+            <label>Mr. Pratik A. Shah</label>
+            <text syncTime="980.355" offset="4026870">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="983.740" offset="4040349">The last 3 decades of this Court's precedents make clear that judicial extension of the Bivens remedy is not the default presumption.</text>
+            <text syncTime="991.594" offset="4071800">It is permissible only where there is no adequate alternative remedy and there are no other factors counseling hesitation.</text>
+            <text syncTime="998.334" offset="4098759">Neither criterion is satisfied here.</text>
+            <text syncTime="1000.769" offset="4108476">Respondent is suing employees of a private prison corporation who, unlike their Federally employed counterparts, are subject to well-established theories of tort liability, but lack a recognized qualified immunity defense.</text>
+            <text syncTime="1014.359" offset="4162811">Under the circumstances present here, which I submit reflect the heartland of cases alleging Eighth Amendment violations for deliberate indifference to serious medical needs, recognition of the Bivens remedy is neither necessary nor appropriate.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1028.269" stopTime="1062.257">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1028.269" offset="4218504">Mr. Shah, go back to what you said about lacking these private -- these employees of the private corporation you said lack qualified immunity.</text>
+            <text syncTime="1041.911" offset="4273048">But they do have -- courts have allowed them to have a good faith defense.</text>
+            <text syncTime="1051.701" offset="4312231">So in practice, how different is that, whether they have qualified immunity or whether they have a good faith defense?</text>
+          </turn>
+          <turn speaker="pratik_shah" startTime="1062.257" stopTime="1125.683">
+            <label>Mr. Pratik A. Shah</label>
+            <text syncTime="1062.257" offset="4354445">A couple of responses, Your Honor.</text>
+            <text syncTime="1063.526" offset="4359565">First, this Court has never recognized a good faith defense, so I wouldn't call it a recognized defense.</text>
+            <text syncTime="1068.680" offset="4380150">It is true that some lower courts have applied a good faith defense.</text>
+            <text syncTime="1072.532" offset="4395510">Reading those cases, it is not entirely clear exactly what the content of that good faith defense is.</text>
+            <text syncTime="1078.869" offset="4420901">What is clear is that it is something less than qualified immunity.</text>
+            <text syncTime="1082.771" offset="4436470">It appears in most of the cases that they are grafting on some sort of subjective element, subjective intent element, on top of what you must establish to get qualified immunity.</text>
+            <text syncTime="1093.845" offset="4480773">So whatever it is, it is something lesser than qualified immunity, and I think that in and of itself creates an asymmetry.</text>
+            <text syncTime="1100.082" offset="4505746">But I think the larger point is, is that these prisoners have alternative adequate remedies under State law because they are suing a private employee rather than a government employee.</text>
+            <text syncTime="1111.090" offset="4549736">The government employee is subject to the Westfall Act and therefore all civil actions other than Bivens are preempted.</text>
+            <text syncTime="1117.261" offset="4574501">So I think that's the fundamental difference.</text>
+            <text syncTime="1119.179" offset="4582128">I think it further counsels hesitation because of the lack of a recognized immunity defense, whether that's qualified immunity or good faith.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1125.683" stopTime="1150.648">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1125.683" offset="4608146">Could you address the question posed earlier of what were to happen if there was a State law that gave absolute immunity to these private correctional officers and that was the case before us.</text>
+            <text syncTime="1140.526" offset="4667496">This particular State, it's undisputed, would not permit any kind of intentional or negligence suit against these officers.</text>
+          </turn>
+          <turn speaker="pratik_shah" startTime="1150.648" stopTime="1176.865">
+            <label>Mr. Pratik A. Shah</label>
+            <text syncTime="1150.648" offset="4708039">Sure.</text>
+            <text syncTime="1151.115" offset="4709919">Your Honor, in that hypothetical -- and of course, there is no suggestion in this case that any State has such a rule -- but if a State were to adopt that such rule, I think that would be a case where there is no adequate alternative remedy, because in your -- in your hypothetical, there is absolute immunity.</text>
+            <text syncTime="1165.994" offset="4769374">There wouldn't be a way for the prisoner to redress -- seek redress for the gravamen of his injuries.</text>
+            <text syncTime="1171.378" offset="4790899">And I think in that case, we have a very different situation and a Bivens remedy may well be justified.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1176.865" stopTime="1190.109">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1176.865" offset="4812842">Interesting, because what you are proposing is a sort of State by State, circuit by circuit, presumably existence of a Bivens claim or not.</text>
+            <text syncTime="1187.657" offset="4855996">That -- that is really the outcome of your position.</text>
+          </turn>
+          <turn speaker="pratik_shah" startTime="1190.109" stopTime="1226.479">
+            <label>Mr. Pratik A. Shah</label>
+            <text syncTime="1190.109" offset="4865818">Well, yes, Your Honor, except the fact that there has been no suggestion that any State has such a draconian rule or has ever passed one.</text>
+            <text syncTime="1198.363" offset="4898837">We are simply arguing for a rule that would limit Bivens when there is no adequate State law remedy.</text>
+            <text syncTime="1204.702" offset="4924228">That is clearly the case here.</text>
+            <text syncTime="1205.985" offset="4929348">It's clearly going to be the case in the vast majority of Eighth Amendment prisoners.</text>
+            <text syncTime="1209.686" offset="4944185">What this Court should not do is craft a default rule allowing Bivens remedies against employees of private prison corporations just to account for the hypothetical possibility that there may be a case which may or may not ever arise in which an adequate alternative is not.</text>
+            <text syncTime="1225.279" offset="5006566">That turns Bivens jurisprudence on its head.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1226.479" stopTime="1242.324">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1226.479" offset="5011372">Then I guess the question is, yes, when you talk about an overlap of remedies, we have said that it doesn't need to be a matching one to one remedy, but you do need some degree of meaningful overlap, don't you?</text>
+          </turn>
+          <turn speaker="pratik_shah" startTime="1242.324" stopTime="1244.258">
+            <label>Mr. Pratik A. Shah</label>
+            <text syncTime="1242.324" offset="5074693">I would agree with that, Your Honor.</text>
+            <text syncTime="1243.758" offset="5080440">I think--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1244.258" stopTime="1250.446">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1244.258" offset="5082425">So how -- define how much or how do we describe the adequacy of that order?</text>
+          </turn>
+          <turn speaker="pratik_shah" startTime="1250.446" stopTime="1300.862">
+            <label>Mr. Pratik A. Shah</label>
+            <text syncTime="1250.446" offset="5107190">--I think it would be difficult to come up with a precise formulation.</text>
+            <text syncTime="1253.381" offset="5118892">I think the formulation that we use in our brief is that as long as it redressed the gravamen of the prisoner's injuries.</text>
+            <text syncTime="1260.035" offset="5145537">So I think as long as it provides some meaningful relief for the injuries and in turn that would provide some deterrence to the individual employees' actions, I think as long as those two elements are present, I think we would think that there is an adequate alternative remedy.</text>
+            <text syncTime="1275.379" offset="5206977">Or, alternatively, if you wanted to use the words -- the word that this Court used in Bivens, you could approach it from the flip side and say there would not be an adequate alternative remedy where the State law is either inconsistent with or hostile to the corresponding constitutional interest.</text>
+            <text syncTime="1291.155" offset="5270089">We submit in this case there is no question that there are remedies available under California State law and as far as we know the State law of every other State in this country that would allow--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1300.862" stopTime="1320.674">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1300.862" offset="5308855">The Bivens action is unusual in the first place, but it's also unusual to say that you don't have a Federal cause of action because of something a State gives you.</text>
+            <text syncTime="1310.468" offset="5347307">Do you have any other example of something like that, where the availability of Federal relief turns on the availability of alternative relief under State law?</text>
+          </turn>
+          <turn speaker="pratik_shah" startTime="1320.674" stopTime="1368.239">
+            <label>Mr. Pratik A. Shah</label>
+            <text syncTime="1320.674" offset="5388163">--Your Honor, it may not be an exact analog, but I think Federal due process cases often will look at someone's claims of deprivation of property, an unlawful deprivation of property in violation of process.</text>
+            <text syncTime="1331.632" offset="5431944">The Federal court may often look at whether the available State law procedures to provide redress for that claim before it would impose or find a violation of Federal due process.</text>
+            <text syncTime="1342.356" offset="5474889">So I think there are analogs where Federal courts do look at the availability of State law remedies and look at their adequacy before determining whether a Federal law remedy is necessary.</text>
+            <text syncTime="1352.795" offset="5516581">And this Court has done that.</text>
+            <text syncTime="1354.331" offset="5522745">And the Court did it in Malesko, I think is the best example in the Bivens context of where the Court looked at alternative State remedies and said that, hey look, the availability of these other remedies counsel against the imposition of the Bivens remedy.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1368.239" stopTime="1381.564">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1368.239" offset="5578334">What is the theory behind that, Mr. Shah?</text>
+            <text syncTime="1370.307" offset="5586693">I mean there is an obvious theory when Congress has provided an alternative remedial system, which is a separation of powers theory.</text>
+            <text syncTime="1376.760" offset="5612502">But what's the theory about looking to State law for these kinds of alternative remedies?</text>
+          </turn>
+          <turn speaker="pratik_shah" startTime="1381.564" stopTime="1451.078">
+            <label>Mr. Pratik A. Shah</label>
+            <text syncTime="1381.564" offset="5631728">Two responses, Your Honor.</text>
+            <text syncTime="1383.031" offset="5637580">While I agree the separation of powers problem is much more heightened when Congress acts, I think there is still a separation of powers issue even when Congress has not acted.</text>
+            <text syncTime="1393.306" offset="5678644">That is, the Court should be hesitant before -- before implying a judicial cause of action for damages under the Constitution, given that it's typically been Congress's province to do so.</text>
+            <text syncTime="1404.180" offset="5722112">But beyond that, the rationales -- there have been two rationales that have been given by this Court in its Bivens jurisprudence for implying such a remedy.</text>
+            <text syncTime="1413.285" offset="5758579">One is the need to provide some meaningful relief.</text>
+            <text syncTime="1416.821" offset="5772685">We submit when there is an alternative state remedy, that rational has been satisfied.</text>
+            <text syncTime="1421.475" offset="5791284">The other rationale this Court has offered is provide some deterrent to the actions of an individual employee or officer.</text>
+            <text syncTime="1428.045" offset="5817616">We also submit that when there is a State tort damages remedy available, that rationale too will be accomplished.</text>
+            <text syncTime="1434.866" offset="5844888">The three occasions in which this Court has recognized the Bivens remedy, Bivens itself, Davis and Carlson, those two factors were not present.</text>
+            <text syncTime="1443.055" offset="5877593">There was either no alternative remedy at all or at least, as in Carlson, no alternative remedy against the individual officer.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1451.078" stopTime="1462.683">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1451.078" offset="5909776">What would you propose that the Court say about the degree of adequate State remedy that is necessary?</text>
+            <text syncTime="1458.648" offset="5939973">Just -- what we have here in California is enough and not go any further or--</text>
+          </turn>
+          <turn speaker="pratik_shah" startTime="1462.683" stopTime="1488.351">
+            <label>Mr. Pratik A. Shah</label>
+            <text syncTime="1462.683" offset="5956169">I think the Court should start with that.</text>
+            <text syncTime="1466.837" offset="5972783">Certainly here there hasn't been any dispute that there would be -- any real serious dispute that there would be an adequate alternative remedy.</text>
+            <text syncTime="1474.008" offset="6001413">I think the Court could also say that as long as the adequate alternative remedy addresses the gravamen of the prisoner's injuries, that should be sufficient.</text>
+            <text syncTime="1483.197" offset="6038194">And I think it could give content to that by looking at the two rationales this Court has offered for Bivens.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1488.351" stopTime="1509.597">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1488.351" offset="6058778">--Suppose that a State did for claims against private prisons and private prison guards what I understand New York has done with respect to State-run prisons.</text>
+            <text syncTime="1499.575" offset="6103709">In other words, that you eliminate any claim against individual prison employees or guards and give the prisoner just a tort claim against the State.</text>
+            <text syncTime="1508.347" offset="6138817">Would that be adequate?</text>
+          </turn>
+          <turn speaker="pratik_shah" startTime="1509.597" stopTime="1520.989">
+            <label>Mr. Pratik A. Shah</label>
+            <text syncTime="1509.597" offset="6143833">I think that would be a tougher case.</text>
+            <text syncTime="1511.116" offset="6149893">And, of course, I assume in your hypothetical that that's -- that that would also apply to Federal prisoners and Federally contracted prisons, and it's difficult to figure out what the State's interests--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1520.989" stopTime="1526.209">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1520.989" offset="6189390">Not a claim against the State.</text>
+            <text syncTime="1521.841" offset="6192734">I misspoke.</text>
+            <text syncTime="1522.457" offset="6195242">A claim -- only a claim against the company that runs the prison.</text>
+          </turn>
+          <turn speaker="pratik_shah" startTime="1526.209" stopTime="1550.824">
+            <label>Mr. Pratik A. Shah</label>
+            <text syncTime="1526.209" offset="6210288">--Your Honor, again I think that would be a more difficult hypothetical because the rational about individual deterrence of the individual officer may not be as strong in that hypothetical.</text>
+            <text syncTime="1537.183" offset="6254174">But once again, no State has such a rule and it's difficult to imagine a State's incentive to adopt such a rule because it's not coming out of the State's pockets.</text>
+            <text syncTime="1545.020" offset="6285521">These are Federally contracted prisons, contracted by BOP and run by private prison corporations.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1550.824" stopTime="1569.719">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1550.824" offset="6308718">What about the character of the claim?</text>
+            <text syncTime="1554.395" offset="6323033">If it's a Bivens claim it's a constitutional claim, it's an Eighth Amendment claim.</text>
+            <text syncTime="1560.030" offset="6345498">And if you are looking to state remedies, that's an ordinary tort remedy with no constitutional involvement.</text>
+          </turn>
+          <turn speaker="pratik_shah" startTime="1569.719" stopTime="1591.265">
+            <label>Mr. Pratik A. Shah</label>
+            <text syncTime="1569.719" offset="6384264">Your Honor, it is true, the labels are different and there's going to be different meaning to those remedies.</text>
+            <text syncTime="1576.456" offset="6411222">But from the prisoner's standpoint, the rationale behind Bivens was to provide some damages relief.</text>
+            <text syncTime="1582.359" offset="6434837">From the prisoner's standpoint it's not going to matter, I would submit, whether or not those damages are procured under State law or under a constitutionally implied action.</text>
+            <text syncTime="1590.632" offset="6467960">Thank you.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1591.265" stopTime="1601.888">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1591.265" offset="6470468">Thank you, counsel.</text>
+            <text syncTime="1591.599" offset="6471826">Mr. Preis.</text>
+          </turn>
+        </section>
+        <section startTime="1601.888" stopTime="3151.736">
+          <heading>Argument of John F. Preis</heading>
+          <turn speaker="john_f_preis" startTime="1601.888" stopTime="1632.557">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1601.888" offset="6512995">Mr. Chief Justice and may it please the Court:</text>
+            <text syncTime="1604.657" offset="6524071">The question before the Court today is whether a Federal prisoner's access to constitutional remedies should turn on the mere happenstance of where the prisoner is detained.</text>
+            <text syncTime="1613.763" offset="6560434">The Petitioner's chief argument is that privately-held Federal prisoners should not have an Eighth Amendment damages remedy because they have damages under State law.</text>
+            <text syncTime="1622.868" offset="6596901">This argument suffers from two flaws.</text>
+            <text syncTime="1624.701" offset="6604215">First, it misconceives this Court's Bivens jurisprudence; second, it misconceives the nature of State remedies available to prisoners.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1632.557" stopTime="1649.852">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1632.557" offset="6635666">Why are State remedies -- what of your clients' claims could not be vindicated under State law?</text>
+            <text syncTime="1641.663" offset="6672029">And why is a Bivens action superior to a negligence action in California?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1649.852" stopTime="1719.396">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1649.852" offset="6704839">Your Honor, with regard to the claims that can't be vindicated under State law, we think its likely that his medical malpractice claims, the claims against the doctors, could be vindicated.</text>
+            <text syncTime="1659.225" offset="6742350">We don't think the law is clear in -- excuse me -- in California that his other claims, the deprivation, nutrition, hygiene, forced labor at some point before his injuries were healed, that those would necessarily be covered.</text>
+            <text syncTime="1672.932" offset="6797103">We admit there is a chance, as we did in our brief, that it's possible the California Supreme Court could say, well, there has been an intermediate appellate court that has decided this.</text>
+            <text syncTime="1681.788" offset="6832525">We take on guidance that and believe these remedies would be covered.</text>
+            <text syncTime="1685.125" offset="6845900">But there is nothing here that could assure this Court that that's the way it will work out.</text>
+            <text syncTime="1690.161" offset="6866066">With regards to why Bivens are superior, Bivens are superior when there is no State cause of action.</text>
+            <text syncTime="1696.231" offset="6890308">So there will be some cases, as we concede, where a State cause of action is available.</text>
+            <text syncTime="1701.385" offset="6910997">The reason Mr. Pollard brings a Federal cause of action in this case is because it's not clear that State remedies are certainly available.</text>
+            <text syncTime="1707.855" offset="6936806">And I think that certainty is an important thing for this Court to remember.</text>
+            <text syncTime="1711.509" offset="6951434">The issue before Bivens itself was whether or not this Court should adopt a system of state remedies.</text>
+            <text syncTime="1717.913" offset="6977034">And the--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1719.396" stopTime="1722.448">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1719.396" offset="6982990">But the specific case with state remedies is not available is--</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="1722.448" stopTime="1722.948">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="1722.448" offset="6995216">Your Honor I'm not aware.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1722.948" stopTime="1726.233">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1722.948" offset="6997201">--Your Honor I'm not aware of any particular case where a state--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1726.233" stopTime="1735.922">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1726.233" offset="7010367">--No, no, no.</text>
+            <text syncTime="1726.916" offset="7013083">Your allegation, which you believe states a valid claim under Bivens action but not under state law is--</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1735.922" stopTime="1739.291">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1735.922" offset="7049132">--The claims that we say do not have--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1739.291" stopTime="1764.275">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1739.291" offset="7062612">--I don't understand specifically what they are.</text>
+            <text syncTime="1742.076" offset="7073688">I mean it sounds to me that if a person, A, deliberately starves somebody to death, for example, or deliberately gives him something which will make him sick when he eats it, that that would at least be negligence and would arise under ordinary state tort law.</text>
+            <text syncTime="1757.502" offset="7135441">So I'm curious to know what your claim is that does not arise under ordinary state tort law?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1764.275" stopTime="1769.929">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1764.275" offset="7162504">--Your Honor, I think that the starkest example, if it was the case that somebody actually starved someone--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1769.929" stopTime="1785.788">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1769.929" offset="7185178">No, don't answer my -- forget my hypothetical.</text>
+            <text syncTime="1774.564" offset="7203673">Tell me your specific claim that does not arise under state tort law, that's all I want to know, which is the same question I heard -- I just didn't hear the answer to.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1785.788" stopTime="1786.471">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1785.788" offset="7248603">--Oh, excuse me, Your Honor.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1786.471" stopTime="1788.573">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1786.471" offset="7251320">I heard the answer in general.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1788.573" stopTime="1789.256">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1788.573" offset="7259679">Okay.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1789.256" stopTime="1794.877">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1789.256" offset="7262396">I want to know specifically what you say they did to your client that doesn't make out a State tort claim.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1794.877" stopTime="1807.368">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1794.877" offset="7284966">He brings four claims that he think alleges an Eighth Amendment violation.</text>
+            <text syncTime="1798.762" offset="7300430">One is the medical malpractice which we concede is likely available; the other three, we do not find sufficient evidence in California law that there certainly be a remedy.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1807.368" stopTime="1807.935">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1807.368" offset="7334912">I heard you say--</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1807.935" stopTime="1808.637">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1807.935" offset="7337211">And those three are--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1808.637" stopTime="1821.778">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1808.637" offset="7339928">--that.</text>
+            <text syncTime="1809.320" offset="7342749">I just want to know what it is physically you say the defendant did to your client, so that I can evaluate your statement that California gives no tort remedy for that.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1821.778" stopTime="1823.064">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1821.778" offset="7392486">--Your Honor--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1823.063" stopTime="1827.098">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1823.063" offset="7397710">Sorry, I don't mind to sound irritated but I just have trouble getting my question across.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1827.098" stopTime="1833.802">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1827.098" offset="7413802">--Understood, Your Honor.</text>
+            <text syncTime="1827.998" offset="7417459">Mr. Pollard was deprived of adequate food and hygiene.</text>
+            <text syncTime="1831.669" offset="7432088">A second claim, he was--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1833.802" stopTime="1838.506">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1833.802" offset="7440656">All right.</text>
+            <text syncTime="1834.435" offset="7443163">They failed to give him adequate food for what?</text>
+            <text syncTime="1836.721" offset="7452254">So he could live, or for what?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1838.506" stopTime="1842.475">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1838.506" offset="7459464">--Well, yes, adequate nutrition.</text>
+            <text syncTime="1841.108" offset="7469808">I'm not saying to the point of death, but--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1842.475" stopTime="1854.083">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1842.475" offset="7475346">They gave him -- and if a person in California who has charge of -- of a ward or someone fails adequately to nourish that ward, you are saying California tort law gives no remedy?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1854.083" stopTime="1858.085">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1854.083" offset="7521740">--I'm saying there is no evidence that it does, Your Honor.</text>
+            <text syncTime="1857.451" offset="7535219">I think it--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1858.085" stopTime="1864.923">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1858.085" offset="7537727">--cause like negligence, you give a remedy.</text>
+            <text syncTime="1859.753" offset="7544414">It's not negligent; it's deliberate?</text>
+            <text syncTime="1864.390" offset="7563013">Or what?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1864.923" stopTime="1880.333">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1864.923" offset="7565103">--Your Honor, I think -- I would put -- I think the best way to approach that question is to look at the shoes of an attorney.</text>
+            <text syncTime="1871.227" offset="7590285">When if someone comes in and says I was deprived of these benefits that I was entitled to and I was suffered a harm, the question would be for the lawyers, well, I'll go read the case--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1880.333" stopTime="1881.050">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1880.333" offset="7626752">You can't--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1881.050" stopTime="1888.422">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1881.050" offset="7629573">The lawyer would say I can't find a starving case in California.</text>
+            <text syncTime="1884.118" offset="7641903">So you must not have a cause of action.</text>
+            <text syncTime="1886.804" offset="7652665">Is that what the lawyer would say?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1888.422" stopTime="1892.808">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1888.422" offset="7659144">--No, I think the lawyer would say, I can't be certain.</text>
+            <text syncTime="1891.041" offset="7669593">I haven't found a case--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1892.808" stopTime="1923.262">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1892.808" offset="7676698">--of -- because the Eighth Amendment says cruel and unusual punishment.</text>
+            <text syncTime="1898.878" offset="7700940">So you have to have a cruel treatment and where a person deliberately or negligently subjects someone else to cruel treatment, my -- my law school recollection of many years ago is that there ordinarily is a tort action.</text>
+            <text syncTime="1915.756" offset="7768440">So, so -- that's what I would like you -- I'm suspicious of your statement that there isn't.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1923.262" stopTime="1924.029">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1923.262" offset="7798429">--Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1924.029" stopTime="1926.547">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1924.029" offset="7801563">Therefore, I ask for some elaboration of that.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1926.547" stopTime="1929.749">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1926.547" offset="7811594">What do you have besides starving?</text>
+            <text syncTime="1927.914" offset="7817028">What -- what else?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1929.749" stopTime="1950.996">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1929.749" offset="7824447">The other claims were after he suffered his injuries he was put back on his work detail before his injuries were healed.</text>
+            <text syncTime="1938.205" offset="7858197">He was also immediately after being injured forced to sort of endure excessive security measures, forced to wear particular handcuffs that pushed his arms in an -- in a way that would cause extraordinary pain and was unnecessary.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1950.996" stopTime="1966.756">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1950.996" offset="7909397">Can I ask you the same question that I asked Mr. Franklin?</text>
+            <text syncTime="1953.412" offset="7919114">Because it just doesn't make any sense to me.</text>
+            <text syncTime="1955.448" offset="7927160">The gravamen of this claim is a medical malpractice claim.</text>
+            <text syncTime="1958.250" offset="7938445">Why aren't your State law remedies better?</text>
+            <text syncTime="1961.018" offset="7949521">You have vicarious liability and all you have to prove is negligence.</text>
+            <text syncTime="1964.404" offset="7963000">Why wasn't this brought as a State law claim?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1966.756" stopTime="1991.054">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1966.756" offset="7972404">Your Honor, I think there is two parts to that, two answers I would give.</text>
+            <text syncTime="1970.458" offset="7987242">First, Mr. Pollard was put in a Federal prison by the Federal Government.</text>
+            <text syncTime="1976.361" offset="8010856">He often has access -- actually only has access to Federal law books.</text>
+            <text syncTime="1980.063" offset="8025694">When he sees himself injured he thinks this is presumably a Federal case.</text>
+            <text syncTime="1984.567" offset="8043666">so I think there is a certain ethic or at least practice as how that works.</text>
+            <text syncTime="1988.269" offset="8058504">Now, why wouldn't medical malpractice work here.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1991.054" stopTime="1994.406">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1991.054" offset="8069684">Well that was just false consciousness that we can correct, right?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="1994.406" stopTime="1996.025">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="1994.406" offset="8083059">Excuse me, Your Honor, I missed the beginning.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1996.025" stopTime="2006.297">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1996.025" offset="8089537">I mean, if the -- if the true appropriate remedy, and the better remedy from your client's point of view, is a State law action, we should just say bring a State law.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2006.297" stopTime="2061.032">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2006.297" offset="8130602">Well we think that prisoners should have access to the State law action, and when there is cause of action available, it might indeed be a better remedy.</text>
+            <text syncTime="2013.903" offset="8161008">But I think in terms of whether or not medical malpractice works here, it will work in terms of deterring the medical professionals, but we have multiple defendants in this case, not all of them -- of which would be culpable under -- or liable under a medical malpractice regime.</text>
+            <text syncTime="2028.210" offset="8218269">How do we handle the other prisoners -- excuse me, the other defendants?</text>
+            <text syncTime="2031.448" offset="8231225">So I think you're focused in terms of the remedies available, and I would concede, of course, that's important to the -- to the prisoner; but course, the Court is concerned with deterrence in these cases.</text>
+            <text syncTime="2040.820" offset="8268737">So I want to return to Justice Breyer's question if I might.</text>
+            <text syncTime="2044.256" offset="8282425">The gravamen of this case is that in ordinary cases, most of the time, and the Court is required in this case to figure how big is that "most of the time"?</text>
+            <text syncTime="2053.945" offset="8321191">Is it 99 percent of time, is it 80 percent of the time?</text>
+            <text syncTime="2057.747" offset="8336447">And that's what we simply don't have I want to point--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2060.781" stopTime="2071.053">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2060.781" offset="8348568">When I went to law school, evidence on in this case.</text>
+            <text syncTime="2062.214" offset="8354314">which was many years ago, instead of talking about, like, starvation cases or medical malpractice, they talked about a general thing called negligence.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2071.053" stopTime="2071.803">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2071.053" offset="8389632">--Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2071.803" stopTime="2085.746">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2071.803" offset="8392662">And it seemed to apply to doctors, and then it was medical malpractice, and it applied to others, and -- and is there something here that wouldn't fall in that general kind of rubric, or the general terms of California tort law?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2085.746" stopTime="2086.962">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2085.746" offset="8448355">Your Honor, I guess your--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2086.962" stopTime="2090.466">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2086.962" offset="8453266">And I know, I don't want you just to repeat yourself.</text>
+            <text syncTime="2088.514" offset="8459431">So I guess I have the best answer I have.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2090.466" stopTime="2109.178">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2090.466" offset="8467268">--No -- Your Honor, I will say two things that -- first, I think what you are asking me to do and in a sense what the Court will be required to do in this case is predict what State supreme courts will do on a regular basis.</text>
+            <text syncTime="2101.922" offset="8513139">And I would suggest -- suggest that's sort of an extraordinary measure to take in case where you have Federal prisoners, Federal constitutional rights and Federal actors.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2109.178" stopTime="2112.797">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2109.178" offset="8542083">--limit our inquiry to California?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2112.797" stopTime="2113.664">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2112.797" offset="8556607">Excuse me?</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2113.664" stopTime="2116.249">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2113.664" offset="8560055">Limit it to California.</text>
+            <text syncTime="2115.082" offset="8565697">What -- what--</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2116.249" stopTime="2117.451">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2116.249" offset="8570399">I don't--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2117.451" stopTime="2129.091">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2117.451" offset="8575206">--They're saying don't look at what other courts will do, just look at the State you are in, the place you are going to make your claim and figure out whether your claims are covered or not covered essentially in those -- in that State.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2129.091" stopTime="2132.127">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2129.091" offset="8621808">--They are suggesting this Court look only at California.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2132.127" stopTime="2132.627">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2132.127" offset="8633929">Right.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2132.627" stopTime="2142.316">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2132.627" offset="8635914">We don't think that is appropriate.</text>
+            <text syncTime="2133.627" offset="8639885">This Court's view has always been that a Bivens action exists or does not exist with regards to a entire category of defendants, or context.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2142.316" stopTime="2156.676">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2142.316" offset="8674680">So there -- if there is one State that would not have an adequate remedy for any -- any single bad thing that could happen in prison, there is a Bivens action for everybody for everything?</text>
+            <text syncTime="2155.576" offset="8727761">Is that what you are saying?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2156.676" stopTime="2158.461">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2156.676" offset="8732150">Yes, Your Honor, we are.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2158.461" stopTime="2158.928">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2158.461" offset="8739255">Wow.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2158.928" stopTime="2161.230">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2158.928" offset="8741136">I think if the Court were to write an opinion in that case--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2161.230" stopTime="2163.630">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2161.230" offset="8750331">I certainly wouldn't want to hold that.</text>
+            <text syncTime="2162.397" offset="8755033">[Laughter]</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2163.630" stopTime="2167.966">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2163.630" offset="8759944">--I'm not surprised that you wouldn't want to hold that, Your Honor.</text>
+            <text syncTime="2166.848" offset="8772796">[Laughter]</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2167.966" stopTime="2172.518">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2167.966" offset="8777289">I would find that rather surprising, too, actually.</text>
+            <text syncTime="2171.918" offset="8793067">[Laughter]</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2172.518" stopTime="2172.802">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2172.518" offset="8795470">Well--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2172.802" stopTime="2198.336">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2172.802" offset="8796620">Because I -- I think what they're asking to do is fine.</text>
+            <text syncTime="2176.322" offset="8810726">On their theory you have no problem, because you go back and show to the Court that there is no remedy in California for shackling a person -- I guess deliberately, with knowledge that that would cause severe pain, and if you can show that, then you are going to have your Bivens action in respect to that.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2198.336" stopTime="2198.986">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2198.336" offset="8898811">--Well--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2198.986" stopTime="2203.704">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2198.986" offset="8901319">That -- that -- what they are saying is that you are not going to be able to show that, so it doesn't worry them.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2203.704" stopTime="2232.807">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2203.704" offset="8920231">--Your Honor, I think that the -- the view that there's an ordinary duty of care, a duty to be reasonable, is quite a bit more complex than the Petitioners would make it out to be.</text>
+            <text syncTime="2213.626" offset="8959937">Let me offer an example.</text>
+            <text syncTime="2214.911" offset="8965057">In this case in 2007, the district court dismissed Mr. Pollard's complaint.</text>
+            <text syncTime="2219.899" offset="8985015">The district court said you have State remedies.</text>
+            <text syncTime="2222.249" offset="8994419">Well, what was the proof for that?</text>
+            <text syncTime="2224.434" offset="9003196">What was the State law remedy that existed?</text>
+            <text syncTime="2227.553" offset="9015630">The only thing the district court cited in a footnote was section 1714 of California's civil code.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2232.807" stopTime="2245.015">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2232.807" offset="9036633">Who says that the burden is on the other side?</text>
+            <text syncTime="2235.409" offset="9047082">Why isn't the burden on you, if you want to bring a Bivens action, on you, to show that there is not an adequate State remedy?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2245.015" stopTime="2246.633">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2245.015" offset="9085430">Your Honor--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2246.633" stopTime="2257.488">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2246.633" offset="9091908">You are the plaintiff here, you are trying to bring the Federal cause of action.</text>
+            <text syncTime="2250.334" offset="9106745">Our law is clear; if there is an adequate remedy we don't invent one.</text>
+            <text syncTime="2253.620" offset="9119911">Why isn't it your burden to show that there is not an adequate State remedy?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2257.488" stopTime="2294.911">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2257.488" offset="9135376">--Your Honor, two answers to that.</text>
+            <text syncTime="2259.274" offset="9142481">First of all, this Court's most recent case where it dealt with whether or not a burden should exist was Wilkie, and there, the majority of the Court said when we look at alternative remedies we try to figure out, quote, "whether they amount to a" --</text>
+            <text syncTime="2272.665" offset="9196084">"amount to a convincing reason for the judicial branch to refrain from providing a new and free-standing remedy. "</text>
+            <text syncTime="2278.569" offset="9219699">Inasmuch as there has been burden discussion in this Court's case law, it would seem to fall -- fall on the other side.</text>
+            <text syncTime="2284.240" offset="9242373">Now, I think there is an important point here when we think of burden.</text>
+            <text syncTime="2286.858" offset="9252822">This case is so close to Carlson that really the burden should be on them to take it out of Carlson.</text>
+            <text syncTime="2292.844" offset="9276750">I want to address Carlson for a second if I may.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2294.911" stopTime="2311.306">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2294.911" offset="9285110">Well, before you do, on page 5 of your brief you say, in the private prison setting, quote,</text>
+            <text syncTime="2303.467" offset="9319278">"a Bivens claim against the offending individual offending officer. "</text>
+            <text syncTime="2307.002" offset="9333384">end quote, is an appropriate remedy.</text>
+            <text syncTime="2308.937" offset="9341116">And the quote is from Malesko.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2311.306" stopTime="2311.839">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2311.306" offset="9350625">Yes.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2311.839" stopTime="2335.271">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2311.839" offset="9352819">What we said in Malesko, where you quote, is that if a Federal prisoner in a BOP facility alleges a constitutional deprivation, he may bring a Bivens claim against the offending individual officer.</text>
+            <text syncTime="2325.566" offset="9407676">Now your friend describes that as a distortion of what we said in Malesko, and I just wanted to give you a chance to reply to what I think is a fairly serious assertion.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2335.271" stopTime="2340.242">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2335.271" offset="9446546">Yes, Your Honor, and I would seriously disagree with the suggestion it's a distortion.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2340.242" stopTime="2351.698">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2340.242" offset="9466399">Well, just to be clear.</text>
+            <text syncTime="2342.808" offset="9476639">You quote that language, you say BOP facility.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2351.698" stopTime="2388.323">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2351.698" offset="9512166">Your Honor, what the Court was speaking of in that section of its opinion was that the remedies between a BOP facility and individuals in a private facility should be similar, that it made no sense to give extra remedies to people in a private facility.</text>
+            <text syncTime="2368.660" offset="9580084">And so the Court, Justice -- Chief Justice Rehnquist at the time was making a comparison saying there should be a general symmetry.</text>
+            <text syncTime="2374.313" offset="9602654">And all we were pointing out in that quote is that inasmuch as symmetry matters, well, the Court there in Malesko had said, well we would likely expect there to be an individual remedy.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2388.323" stopTime="2390.675">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2388.323" offset="9658661">You would expect the same rule.</text>
+            <text syncTime="2389.989" offset="9665348">That's your argument--</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2390.675" stopTime="2391.208">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2390.675" offset="9668169">Yes.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2391.208" stopTime="2401.697">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2391.208" offset="9670259">--to apply in the private prison setting.</text>
+            <text syncTime="2392.941" offset="9677155">What you say is that there, we explained, that in the private prison setting, a Bivens claim against the offending individual officer was the appropriate remedy.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2401.697" stopTime="2410.737">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2401.697" offset="9712159">Your Honor, I guess I certainly took part of the quote and didn't use all of the quote, but I did not in any means say--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2410.737" stopTime="2412.755">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2410.737" offset="9748417">That's known as misquoting--</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2412.755" stopTime="2416.390">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2412.755" offset="9756463">--Well, Your Honor, I guess I would respectfully differ.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2416.390" stopTime="2438.656">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2416.390" offset="9770987">Would you be taking the position that even if there is an alternative State remedy, tort remedy, even so, there ought to be a power of Bivens action?</text>
+            <text syncTime="2431.400" offset="9831069">Or would you say no Bivens action if all of the States have adequate tort remedies?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2438.656" stopTime="2460.585">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2438.656" offset="9860012">I think, Your Honor, if this Court would -- could tell with confidence that States in all States provided sufficient remedies for the entire variety of Eighth Amendment violations, this Court would be certainly wise in allowing State remedies to work.</text>
+            <text syncTime="2456.617" offset="9931901">But I think we are far from that situation.</text>
+            <text syncTime="2458.569" offset="9939738">I want to turn, if I may--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2460.585" stopTime="2469.758">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2460.585" offset="9947784">Could you give me your best example of a State tort rule that would prevent a prisoner from bringing an Eighth Amendment claim?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2469.758" stopTime="2472.912">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2469.758" offset="9984460">--Excuse me, Your Honor.</text>
+            <text syncTime="2471.993" offset="9993341">Could you repeat that question?</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2472.912" stopTime="2481.399">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2472.912" offset="9997103">Your best example of a tort rule from any State that would preclude a -- a valid Eighth Amendment claim.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2481.399" stopTime="2485.387">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2481.399" offset="10031062">In other words, the prisoner would have an Eighth Amendment claim but not a tort--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2485.387" stopTime="2497.444">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2485.387" offset="10046945">You have 50 States' worth of tort law to -- as your playground, and I want to know what tort rule would keep a prisoner with a valid Eighth Amendment claim -- would prevent him from recovering?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2497.444" stopTime="2521.826">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2497.444" offset="10095219">--Your Honor, I would note Maryland, for example.</text>
+            <text syncTime="2501.729" offset="10112355">In Maryland, attacks by a prisoner on another prisoner are evaluated in terms of the liability of the warden; a lot evaluate it on a maliciousness standard.</text>
+            <text syncTime="2512.537" offset="10155614">Now, the standard this Court uses in its acts by one prisoner against another is a deliberate indifference standard.</text>
+            <text syncTime="2517.624" offset="10175885">The deliberate indifference standard is different.</text>
+            <text syncTime="2519.808" offset="10184662">We are not arguing in this case--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2521.826" stopTime="2526.880">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2521.826" offset="10192708">--I don't understand what you are talking about.</text>
+            <text syncTime="2523.362" offset="10198873">Is -- is this a suit against the prisoner who was attacked?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2526.880" stopTime="2528.130">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2526.880" offset="10212979">--Excuse me, Your Honor?</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2528.130" stopTime="2529.999">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2528.130" offset="10217890">He is not liable unless he is malicious, or what?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2529.999" stopTime="2535.235">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2529.999" offset="10225413">No, it's a suit against the warden for a failure to protect someone against attack by another prisoner.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2535.235" stopTime="2541.723">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2535.235" offset="10246311">I see.</text>
+            <text syncTime="2535.552" offset="10247670">And -- and the warden is liable in Maryland, you say, only if he is malicious?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2541.723" stopTime="2543.925">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2541.723" offset="10272329">The test in Maryland is maliciousness, yes.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2543.925" stopTime="2559.351">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2543.925" offset="10281106">What about medical malpractice caps?</text>
+            <text syncTime="2549.060" offset="10301691">Is that an issue?</text>
+            <text syncTime="2549.745" offset="10304408">In other words, State law -- I don't know how many there are; I know it's been proposed.</text>
+            <text syncTime="2553.881" offset="10320917">I think it's true in some cases -- will cap your recovery for medical malpractice at a particular level.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2559.351" stopTime="2564.422">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2559.351" offset="10342860">Your Honor, I don't think it's a significant difference in this case.</text>
+            <text syncTime="2563.303" offset="10358638">For instance, California--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2564.422" stopTime="2566.389">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2564.422" offset="10363131">I guess that was a helpful question, in the sense that--</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2566.389" stopTime="2567.541">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2566.389" offset="10370968">--Oh, I understand.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2567.541" stopTime="2572.959">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2567.541" offset="10375565">--The Bivens action, presumably the cap would not apply.</text>
+            <text syncTime="2571.509" offset="10391448">But it applies under State law.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2572.959" stopTime="2670.756">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2572.959" offset="10397299">I think there will be some cases in which the remedies will be curtailed under State law.</text>
+            <text syncTime="2578.662" offset="10420078">And one could expect that the deterrent value of a State law remedy would not be available.</text>
+            <text syncTime="2583.300" offset="10438572">I have a couple of minutes remaining and I want to turn to Carlson.</text>
+            <text syncTime="2586.835" offset="10452783">I think the suggestion in this -- the discussion that we have had so far is that we are asking the Court to reach out and create an extraordinary cause of action.</text>
+            <text syncTime="2595.624" offset="10487892">I simply don't think that's true.</text>
+            <text syncTime="2597.143" offset="10493952">This case is very similar, if not the same as, Carlson.</text>
+            <text syncTime="2600.928" offset="10509103">In Carlson, the Court said that a Federal prisoner has a cause of action against Federal actors for a Federal constitutional right.</text>
+            <text syncTime="2608.349" offset="10538778">That's what this case is.</text>
+            <text syncTime="2609.884" offset="10544943">And the only distinction the Petitioners can point to is the fact that they are privately employed Federal actors as opposed to publicly employed Federal actors.</text>
+            <text syncTime="2619.389" offset="10582977">The question becomes, is "privately employed" Federal actor a meaningful distinction from "publicly employed"?</text>
+            <text syncTime="2625.627" offset="10607950">We would -- if that distinction is meaningful, we would have expected to find some discussion of it in Malesko, but the Court there paid absolutely no attention to the private status.</text>
+            <text syncTime="2635.316" offset="10646716">The Court in Malesko said that Malesko, that case, was in every meaningful sense the same as FDIC v. Meyer.</text>
+            <text syncTime="2643.053" offset="10677645">FDIC v. Meyer was a suit against a public agency.</text>
+            <text syncTime="2647.207" offset="10694259">If the case is in every meaningful sense the same as Meyer, then it must have been what mattered to the Court in Malesko was that it was a suit against an entity, not public versus private.</text>
+            <text syncTime="2658.764" offset="10740443">So we think there is no evidence in this case that -- excuse me -- no -- nothing in the law that suggests that this Court cares and ever have cared the distinction between public and private remedies.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2670.756" stopTime="2679.512">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2670.756" offset="10788404">But in Carlson, it was Bivens or no damage remedy.</text>
+            <text syncTime="2676.476" offset="10811288">Here, that's not the case.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2679.512" stopTime="2681.714">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2679.512" offset="10823513">Excuse me, Your Honor, I missed the first part of the question.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2681.714" stopTime="2700.091">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2681.714" offset="10832290">In Carlson, the Court was operating on the theory that with respect to the Federal employees, it was a Bivens remedy for damages or no remedy at all.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2700.091" stopTime="2701.691">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2700.091" offset="10905746">No individual remedy.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2701.691" stopTime="2702.158">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2701.691" offset="10912225">Right.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2702.158" stopTime="2703.043">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2702.158" offset="10914001">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2703.043" stopTime="2722.922">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2703.043" offset="10917554">And here, it is different from Carlson because there is an -- a remedy against an individual.</text>
+            <text syncTime="2714.518" offset="10963529">So we have the parallel remedies here which didn't exist in Carlson, and that makes the two cases different.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2722.922" stopTime="2756.445">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2722.922" offset="10997070">Your Honor, I think it's fair to say that in Carlson, the Court expressed a preference for an individual remedy over an entity remedy.</text>
+            <text syncTime="2730.128" offset="11025910">But I don't think it's fair to say that the Court addressed in Carlson how it would compare to individual remedies.</text>
+            <text syncTime="2735.865" offset="11048897">That issue actually came up in Bivens.</text>
+            <text syncTime="2738.050" offset="11057570">There was an individual remedy proposed that would be available under State law, and the alternative was a remedy under the Constitution itself.</text>
+            <text syncTime="2744.554" offset="11083588">So when the Court was faced with two alternative individual actions, the Court said that we prefer the constitutional cause of action.</text>
+            <text syncTime="2752.643" offset="11115980">And the reason in Bivens was we can't be certain really how State law works.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2756.445" stopTime="2761.499">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2756.445" offset="11131235">Do you disagree that the -- I know you have your argument on compensation--</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2761.499" stopTime="2761.966">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2761.499" offset="11151402">Yes.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2761.966" stopTime="2780.393">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2761.966" offset="11153283">--But with respect to deterrence, is there any significant difference between the two causes of action?</text>
+            <text syncTime="2766.784" offset="11172509">In other words, if you think the most significant aspect of Bivens is to deter constitutional violations, doesn't that work equally as well or perhaps more effectively under the State law than under Bivens?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2780.393" stopTime="2789.666">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2780.393" offset="11226948">Your Honor, I think in the end the question asks me to make a 50-State assessment of how State law works, and in that sense, one can only speak in generalizations--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2789.666" stopTime="2793.701">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2789.666" offset="11264042">So your answer -- your answer is the same as under compensation, that the State law might be different or not?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2793.701" stopTime="2807.195">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2793.701" offset="11280238">--We think, inasmuch as a cause of action is available, with the exception, as the Court noted, of damages caps, there -- we would expect to have a similar level of deterrence, provided the damages are available.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2807.195" stopTime="2816.134">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2807.195" offset="11334154">Who -- who actually ends up paying in these Bivens actions?</text>
+            <text syncTime="2809.913" offset="11345021">I mean, what we don't know -- is it the Federal government or an individual or--</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2816.134" stopTime="2837.530">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2816.134" offset="11369994">We would expect -- first of all, obviously, the liability is imposed on the individual.</text>
+            <text syncTime="2819.669" offset="11384101">We would expect as a general matter that there would be indemnification by the corporation.</text>
+            <text syncTime="2823.906" offset="11401028">The question then is, of course, whether that gets passed on to the Federal government.</text>
+            <text syncTime="2827.274" offset="11414507">And I don't think it's fair -- if the Court allows a Bivens action here, I think there's the suggestion that all of a sudden, there'll be a whole new realm of liability and costs.</text>
+            <text syncTime="2836.297" offset="11450556">And that is simply not the case--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2837.530" stopTime="2863.531">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2837.530" offset="11455572">--I'm just looking in terms of the practical deterrence.</text>
+            <text syncTime="2840.499" offset="11467379">The problem I've had with it in general, I don't know how much practical deterrence there is, is if you sue the individual and the -- the individual doesn't actually pay, the government does.</text>
+            <text syncTime="2850.824" offset="11508757">It seems to me perhaps more likely in the private context that the individual may get stuck with some amount of a liability if the employer just says, look, you were off doing something you weren't supposed to do; we are not going to pay for it.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2863.531" stopTime="2874.422">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2863.531" offset="11559539">--Your Honor, I am not versed in the indemnification rules of private prisons, but I would expect that there will be some instances where there is indemnification.</text>
+            <text syncTime="2872.387" offset="11594961">I think the general rule in terms of--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2874.422" stopTime="2902.740">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2874.422" offset="11603111">Do you think that the warden of a Maryland prison is aware that if -- if he allows one prisoner to beat up another prisoner, he is only liable for maliciousness and not for deliberate indifference -- if indeed there is a difference between the two?</text>
+            <text syncTime="2894.586" offset="11683777">Do -- do you think that -- that he is threading the needle that finely as far as -- as far as deterrence is concerned?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2902.740" stopTime="2912.880">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2902.740" offset="11716378">--Your Honor, I think it's always been this Court's presumption that actors, legal actors, respond to the standards of law that are imposed.</text>
+            <text syncTime="2911.428" offset="11751173">I can't say--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2912.880" stopTime="2943.483">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2912.880" offset="11756920">Not -- not at that level of -- of refinement.</text>
+            <text syncTime="2916.166" offset="11770086">I mean, it seems to me that any warden knows he's subject to State tort law, and that State tort law renders him liable for negligence, and indeed for physical assaults.</text>
+            <text syncTime="2927.324" offset="11814703">Some of your causes of action are intentional torts, not even negligence.</text>
+            <text syncTime="2932.426" offset="11835079">I find it hard to believe that as far as deterrence is concerned, there is a dime's worth of difference between State law and -- and the Bivens action you are asking for.</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="2943.483" stopTime="3023.601">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="2943.483" offset="11879382">--Your Honor, if it's the case that there's not a dime's worth of difference, that would only be at this point.</text>
+            <text syncTime="2950.053" offset="11905609">And one can expect State law to change over time.</text>
+            <text syncTime="2953.374" offset="11918879">I think one of the questions propounded to Mr. Franklin or Mr. Shah was, what if the state imposed a -- or created absolute immunity?</text>
+            <text syncTime="2962.128" offset="11953883">I think -- I take Your Honor's point to be that there could be a similarity at one point.</text>
+            <text syncTime="2966.932" offset="11973110">And we agree that that could exist for a particular circumstance.</text>
+            <text syncTime="2971.336" offset="11990768">But we don't think this Court should take the enforcement of Federal rights in Federal prisons with regard to Federal actors and set up a scheme where that is handled through state law.</text>
+            <text syncTime="2980.775" offset="12028489">There is simply not a justification there.</text>
+            <text syncTime="2982.976" offset="12037371">Your Honor, I would like to address the Westfall Act.</text>
+            <text syncTime="2986.178" offset="12050119">They argue strenuously that Congress has already spoken in this case, and that's simply not the case.</text>
+            <text syncTime="2991.999" offset="12073420">In the FT -- put it this way.</text>
+            <text syncTime="2994.499" offset="12083451">The FTCA and the Westfall Act deal only with Federal employees, the liability of Federal government for actions of Federal employees.</text>
+            <text syncTime="3002.771" offset="12116470">Their argument is essentially that Congress attempted to deal with whether or not private contractors should be liable in these situations by amending a statute that has nothing to do with private contractors.</text>
+            <text syncTime="3016.781" offset="12172581">And that simply doesn't work.</text>
+            <text syncTime="3019.150" offset="12181985">It's not -- there is no suggestion here that Congress attempted to address this situation.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3023.601" stopTime="3029.588">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3023.601" offset="12199852">Well, what was the purpose of making the reference to private contractors in the Westfall Act?</text>
+          </turn>
+          <turn speaker="john_f_preis" startTime="3029.588" stopTime="3147.582">
+            <label>Mr. John F. Preis</label>
+            <text syncTime="3029.588" offset="12223781">Your Honor, the Court -- excuse me, Congress did not make a reference to private contractors in the Westfall Act.</text>
+            <text syncTime="3035.426" offset="12247082">They simply, Congress simply referred to employees of the United States.</text>
+            <text syncTime="3041.480" offset="12271323">And the reason the Court -- excuse me, Congress referred to employees of the United States was because the FTCA only applies, and has always only applied to contractors -- excuse me, of employees of the United States.</text>
+            <text syncTime="3055.490" offset="12327330">There would have been no reason to reach out because it would be totally beyond the specter of the FTCA itself.</text>
+            <text syncTime="3060.727" offset="12348332">I think, Your Honor, there is something else to note with regard to Congress.</text>
+            <text syncTime="3065.195" offset="12366200">At most, what we are dealing with here is congressional silence.</text>
+            <text syncTime="3069.015" offset="12381456">They suggest that Congress is fit to take care of this.</text>
+            <text syncTime="3071.701" offset="12392218">Nobody doubts that Congress is fit to step in and take care of this at some point in time.</text>
+            <text syncTime="3075.986" offset="12409354">But Cong -- this Court's practice with regards to Bivens has been when Congress steps in, to stand back.</text>
+            <text syncTime="3084.175" offset="12442164">But here we have congressional silence.</text>
+            <text syncTime="3086.225" offset="12450314">As this -- as the Court said in 2007, it's most recent Bivens case was, when you are dealing -- well, excuse me -- the Wilkie case did not involve any specific congressional action.</text>
+            <text syncTime="3098.702" offset="12500261">The Court viewed it essentially as congressional silence.</text>
+            <text syncTime="3101.119" offset="12509874">The majority of this Court at that time said our evaluation in that instance is to figure out -- excuse me -- whether the Federal courts must make the kind of remedial determination that is appropriate for a common law tribunal.</text>
+            <text syncTime="3114.111" offset="12561910">The Court at that point saw itself as that point as a common law tribunal within the specific circumstance of whether or not a Bivens remedy should be available.</text>
+            <text syncTime="3123.217" offset="12598272">That's not to say the Court should adopt some sort of roving common law power.</text>
+            <text syncTime="3127.352" offset="12614781">It's simply to say where there's congressional silence and the case looks almost identical to Carlson, if not identical, that there is sufficient reason for this Court to find a Bivens cause of action here.</text>
+            <text syncTime="3139.327" offset="12662742">If there are no further questions, I urge this Court to affirm the holding of the Ninth Circuit.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3147.582" stopTime="3151.736">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3147.582" offset="12695761">Thank you, counsel.</text>
+            <text syncTime="3149.617" offset="12703911">Mr. Franklin, you have four minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3151.736" stopTime="3371.528">
+          <heading>Rebuttal of Jonathan S. Franklin</heading>
+          <turn speaker="jonathan_s_franklin" startTime="3151.736" stopTime="3226.718">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="3151.736" offset="12712375">Thank you, Mr. Chief Justice.</text>
+            <text syncTime="3156.371" offset="12730870">I just wanted to correct one common misimpression.</text>
+            <text syncTime="3160.509" offset="12747483">There is no allegation here that anyone was deliberately starved.</text>
+            <text syncTime="3163.377" offset="12758977">With the allegation regarding the food, his allegation in his complaint is that he, because presumably his arms were in casts, he couldn't hold his tray in the cafeteria and therefore he says I had to buy my own food from the commissary because I didn't want to be humiliated by going to the cafeteria.</text>
+            <text syncTime="3183.339" offset="12838808">We think that if that claim somehow stated a claim under the Eighth Amendment for deliberate indifference, that he would state a claim under negligence as well, and all of these claims essentially are that the prison failed to accommodate his injuries.</text>
+            <text syncTime="3198.115" offset="12897844">Malesko was the same.</text>
+            <text syncTime="3199.550" offset="12903591">In Malesko the argument was I didn't get to use an elevator because I had a preexisting condition, and that's what caused my harm.</text>
+            <text syncTime="3207.656" offset="12936088">If there is something that negligently causes harm, unreasonably causes harm, there is a remedy in California.</text>
+            <text syncTime="3213.275" offset="12958553">I would also note that if it does not cause harm, there is no Bivens remedy, because Congress in the PLRA has said you cannot bring any claim if you are a prisoner in Federal court unless it involves physical harm.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3226.718" stopTime="3232.355">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3226.718" offset="13012261">Do you want us to hold that there is no Bivens action in California?</text>
+            <text syncTime="3230.169" offset="13026053">Is that -- is that what our opinion is going to say?</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="3232.355" stopTime="3287.106">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="3232.355" offset="13034830">I think the opinion could be as it was in Malesko, there is no Bivens action because there are alternative remedies.</text>
+            <text syncTime="3238.009" offset="13057505">We think that holding in Malesko would apply everywhere.</text>
+            <text syncTime="3242.044" offset="13073596">Everybody has -- every State has a negligence cause of action.</text>
+            <text syncTime="3245.429" offset="13087180">And I think one thing that crystallized the argument for me is the colloquy between Justice Scalia and -- and my friend, where I think there was an admission that what they are actually seeking is a blanket cause of action to account for any possible instance in which there is an inadequate remedy.</text>
+            <text syncTime="3262.141" offset="13153949">I think it goes even further.</text>
+            <text syncTime="3263.743" offset="13160427">I think they are asking for a blanket cause of action if somebody can hypothesize an interest -- and issue, and even further than that, even if we can't hypothesize it, maybe somewhere along the line something could happen.</text>
+            <text syncTime="3275.717" offset="13208283">We think that's a -- a flipping, a turning Bivens on its head.</text>
+            <text syncTime="3279.602" offset="13223852">Bivens is a narrow remedy that is only allowed If those circumstances arise they when it is necessary.</text>
+            <text syncTime="3284.070" offset="13241720">can be dealt with at that time.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3287.106" stopTime="3298.664">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3287.106" offset="13253841">Do you know if any of these Bivens claims have been pled in the alternative, that is the Bivens remedy, but alternatively State law?</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="3298.664" stopTime="3321.695">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="3298.664" offset="13300025">Yes, that does happen, Your Honor.</text>
+            <text syncTime="3300.516" offset="13307444">Yes.</text>
+            <text syncTime="3301.699" offset="13312251">And it happens I think relatively frequently.</text>
+            <text syncTime="3304.318" offset="13322700">But in these circumstances we would expect if the Court rules our way that there would be in fact resort to what are not only adequate, but superior State law remedies, and that Bivens would then be reserved for another day if something happened that might implicate it.</text>
+            <text syncTime="3319.477" offset="13383304">If there are no further questions--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3321.695" stopTime="3323.545">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3321.695" offset="13392185">Is there diversity in this case?</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="3323.545" stopTime="3346.961">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="3323.545" offset="13399604">--There may be.</text>
+            <text syncTime="3325.881" offset="13408904">I think -- I think he alleged that there was.</text>
+            <text syncTime="3327.849" offset="13416845">We would agree with the other side that the domicile of a -- of a prisoner at least in the circuits is determined by where the prisoner had been before they were in prison, and I think this particular prisoner had been somewhere other than California.</text>
+            <text syncTime="3342.176" offset="13474105">So probably.</text>
+            <text syncTime="3343.426" offset="13479121">I can't -- I can't say about the -- the mounting -- controversy but probably.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3346.961" stopTime="3352.881">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3346.961" offset="13493227">So you -- ou said there was a statute of limitations problem with starting new.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="3352.881" stopTime="3353.400">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="3352.881" offset="13516946">Yes.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3353.400" stopTime="3355.950">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3353.400" offset="13519036">What about if there is diversity--</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="3355.950" stopTime="3359.118">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="3355.950" offset="13529172">Well, the case was dismissed.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3359.118" stopTime="3359.837">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3359.118" offset="13541919">--that's allowing an amendment.</text>
+          </turn>
+          <turn speaker="jonathan_s_franklin" startTime="3359.837" stopTime="3368.826">
+            <label>Mr. Jonathan S. Franklin</label>
+            <text syncTime="3359.837" offset="13544741">The case was dismissed, Your Honor, and it was appealed only on the ground of a Bivens claim.</text>
+            <text syncTime="3364.939" offset="13565221">So if that is rejected, there is no more case.</text>
+            <text syncTime="3367.874" offset="13576923">There is nothing to amend.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3368.826" stopTime="3372.978">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3368.826" offset="13580685">Thank you, counsel.</text>
+            <text syncTime="3371.528" offset="13591552">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

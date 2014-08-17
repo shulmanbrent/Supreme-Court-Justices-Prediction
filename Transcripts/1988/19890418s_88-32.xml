@@ -1,0 +1,33 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T13:55:00" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="540653">/xml/cases/1988/88_32/19890418o_88-32.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1988/trs/88-32_19890418-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="113.528">
+        <title>Massachusetts v. Morash</title>
+        <section startTime="0.000" stopTime="113.528">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.061">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="86540">The opinion of the Court in No. 88-32, Massachusetts against Morash will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="8.061" stopTime="113.528">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="8.061" offset="118723">This case which comes to us on writ of certiorari to the Supreme Judicial Court of Massachusetts requires us to determine whether a company’s policy of paying its discharge employees’ vacation time constitutes an employee welfare benefit plan within the meaning of Section 3(1) of the Employee Retirement Income Security Act.</text>
+            <text syncTime="30.525" offset="208584">In May of 1986, petitioner, the Commonwealth of Massachusetts, started criminal complaints against the president of a bank alleging that he had violated the Massachusetts payment of wages statute by failing to compensate two discharged bank vice presidents for vacation time they had accrued but did not use.</text>
+            <text syncTime="49.945" offset="286220">Leaving that the bank’s policy to pay employees accrued vacation pay in lump sums upon termination be in ERISA plan, the Supreme Judicial Court held that the prosecution was preempted by the federal statute.</text>
+            <text syncTime="63.627" offset="340973">We reverse.</text>
+            <text syncTime="65.147" offset="347033">In an opinion filed with the Clerk of the Court today, we hold that the reference in ERISA to a “plan, fund, or program that provide vacation benefits” should be understood to include within the scope of ERISA vacation benefit funds in which the employee’s right to a benefit is contingent upon a future occurrence or the employee bears a risk different from his normal employment risk that should not be construed to include a single employer’s policy to pay employees for unused vacation time from its general assets.</text>
+            <text syncTime="99.179" offset="483183">The bank’s policy to pay employees a good vacation time upon termination does not constitute an employee welfare benefit plan and the prosecution, accordingly, is not preempted by ERISA.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

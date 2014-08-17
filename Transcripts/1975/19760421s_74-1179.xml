@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-28</verified>
+        <identified user="jgoldman">2014-05-01</identified>
+      </history>
+      <resources>
+        <audioFile size="564254">/xml/cases/1975/74_1179/19760421o_74-1179.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1975/trs/74-1179op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="122.601">
+        <title>United States v. Miller</title>
+        <section startTime="0.000" stopTime="122.601" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Lewis F. Powell, Jr.</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="11.384">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="73674">The judgment and opinion of the court in number 74-1179, United States against Miller will be announced by Mr. Justice Powell.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="11.384" stopTime="120.892">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="11.384" offset="119127">The respondent, in this case, was convicted of possessing a 175 gallons of whiskey upon which he had paid no taxes.</text>
+            <text syncTime="20.601" offset="156012">Prior to his trial, he moved to suppress copies of his checks, deposit slips and other bank records deemed by him to be incriminating.</text>
+            <text syncTime="30.155" offset="194255">These records have been obtained by subpoenas duces tecum served upon two banks in which respondent maintained accounts.</text>
+            <text syncTime="39.391" offset="231140">The banks maintained these records in accordance with the requirements of the Bank Secrecy Act of 1970.</text>
+            <text syncTime="48.463" offset="267503">The District Court declined to suppress the records but the Court of Appeal reversed in concluding that the records had been obtained by defective subpoenas, thereby violating respondent's Fourth Amendment rights.</text>
+            <text syncTime="62.058" offset="321837">We take a different view, the records subpoenaed were not respondent's private papers rather they were business records of the banks even with respect to the original checks and deposit slips copied by the banks, respondent having made these available to a third party could have had no legitimate expectation of privacy in that contents.</text>
+            <text syncTime="86.337" offset="419013">The depositor takes the risk, in revealing his affairs to another in the course of commercial transactions that the information maybe conveyed to the Government.</text>
+            <text syncTime="97.666" offset="464257">We conclude therefore that there was no intrusion upon protected Fourth Amendment interest of respondent and that the District Court correctly denied respondent's motion to suppress.</text>
+            <text syncTime="110.897" offset="517233">Accordingly, we reverse the decision of the Court of Appeals.</text>
+            <text syncTime="115.164" offset="534265">Mr. Justice Brennan and Mr. Justice Marshall, each filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="120.892" stopTime="122.601">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="120.892" offset="557148">Thank you Mr. Justice Powell.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

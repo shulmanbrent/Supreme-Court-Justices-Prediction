@@ -1,0 +1,57 @@
+<transcript verified="true">
+      <history>
+        <transcribed>2004-04-28</transcribed>
+        <edit user="dleib" date="2012-08-12T16:05:15" startTime="26.000" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <identified user="dleib">2012-08-12</identified>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2013-12-12T11:52:38" startTime="26.000" oldSpeaker="antonin_scalia" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile leader="26000" size="1376781">/xml/cases/2003/02_1343/20040428o_02-1343.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/2003/02-1343_20040428-opinion.xml</sourceFile>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="26.000" stopTime="322.299">
+        <title>Engine Manufacturers' Association v. South Coast Air Quality Management District</title>
+        <section startTime="26.000" stopTime="34.607">
+          <heading>Announcement of Justice Scalia</heading>
+          <turn speaker="william_h_rehnquist" startTime="26.000" stopTime="34.607">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="26.000" offset="191553">The opinions of the Court on two cases will be announced by Justice Scalia.</text>
+          </turn>
+        </section>
+        <section startTime="34.607" stopTime="322.299">
+          <heading>Announcement of Justice Scalia</heading>
+          <turn speaker="antonin_scalia" startTime="34.607" stopTime="322.299">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="34.607" offset="225930">First case I have to announce is No. 02-1343 Engine Manufacturer’s Association versus South Coast Air Quality Management District.</text>
+            <text syncTime="47.295" offset="276713">This case is here on writ of certiorari from the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="54.132" offset="304089">Respondent South Coast Air Quality Management District, the political subdivision of California responsible for air pollution control in the Los Angeles’ metropolitan area, enacted six Fleet Rules prohibiting the purchase or lease by various public and private fleet operators of vehicles that do not comply with specified emission related requirements.</text>
+            <text syncTime="81.559" offset="413803">These rules generally require the purchase or lease of alternative-fuel vehicle so-called or vehicles that need certain emission specifications established by the California Air Resources Board.</text>
+            <text syncTime="94.467" offset="465421">All six rules apply to public operators.</text>
+            <text syncTime="97.899" offset="479109">Three apply to private operators as well.</text>
+            <text syncTime="101.597" offset="493947">The petitioner, Engine Manufacturer’s Association sued the District and its officials claiming the Fleet Rules were preempted by Section 209(a) of the Federal Clean Air Act which prohibits the adaption or intended enforcement of any state or local “standard relating to the control of emissions from new motor vehicles or new motor vehicle engines.”</text>
+            <text syncTime="126.998" offset="595511">In upholding the rules, the District Court found that Section 209(a) did not preempt them because the rules regulated only the purchase of vehicles that are otherwise certified for sale in California.</text>
+            <text syncTime="140.724" offset="650473">The Ninth Circuit affirmed.</text>
+            <text syncTime="142.222" offset="656428">We granted certiorari, and now vacate and remand.</text>
+            <text syncTime="147.006" offset="675550">The first sentence of Section 209(a) provides that “no state or political subdivision thereof shall adapt or attempt to enforce any standard relating to the control of emissions from new motor vehicles and new motor vehicle engines."</text>
+            <text syncTime="163.307" offset="740752">The lower court’s determination, that this express preemption provision did not require invalidation of the Fleet Rules hinged upon their interpretation of the word "standard" to include only regulations that compel manufacturers to meet specific emission limits.</text>
+            <text syncTime="181.759" offset="814522">Sales restrictions, they recognized, do this, but purchase restrictions, they said, do not.</text>
+            <text syncTime="189.789" offset="846704">The fundamental difficulty with this analysis is that it confuses standards with the means of enforcing standards.</text>
+            <text syncTime="197.322" offset="876797">Standards in Section 209(a) are criteria that relate to the emission characteristics of a vehicle or engine.</text>
+            <text syncTime="204.816" offset="906786">To meet them, the vehicle or engine must emit no more than a certain amount of a given pollutant, must be equipped with a certain type of pollution control device, or must have some other design feature related to emissions.</text>
+            <text syncTime="215.875" offset="950985">Restrictions on the manufacture, purchase, or sale of non-compliant vehicles are not themselves standards which target vehicles and engines but rather methods of standard enforcement which target manufacturers, sellers, and purchasers.</text>
+            <text syncTime="232.917" offset="1019217">The Clean Air Act itself contains provisions that make use of both purchase and sales restrictions to enforce standards relating to the control of emissions.</text>
+            <text syncTime="241.421" offset="1053176">Both types of restriction can constitute attempts to enforce standards preempted by 209(a).</text>
+            <text syncTime="248.123" offset="1080030">Moreover, it would make no sense to treat sale and purchase restrictions differently for preemption purposes, as the District Court would have, since the manufacturer’s right to sell federally approved vehicles is meaningless in the absence of a purchaser’s right to buy them.</text>
+            <text syncTime="263.557" offset="1141784">For these and other reasons given in opinion today filed with the Clerk of the Court, we hold that the South Coast District’ Fleet Rules do not escape preemption under 209(a) of the Clean Air Act solely because they address the purchase of vehicle rather than their manufacture or sale.</text>
+            <text syncTime="278.179" offset="1200298">Our interpretation of 209(a) renders it likely that at least certain aspects of the Fleet Rules are preempted.</text>
+            <text syncTime="284.821" offset="1226838">We have not addressed however a number of issues that were neither passed on below nor presented in the petition for certiorari but which may bear on the ultimate disposition of petitioner’s suit.</text>
+            <text syncTime="295.722" offset="1270410">Therefore, we remand the case for the lower courts to address these issues in light of the principles set forth in our opinion.</text>
+            <text syncTime="302.005" offset="1295593">Justice Souter has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

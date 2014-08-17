@@ -1,0 +1,33 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-03T09:52:19" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-03</identified>
+      </history>
+      <resources>
+        <audioFile size="461799">/xml/cases/1987/86_740/19871208o_86-740.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-740op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="95.660">
+        <title>Omni Capital International, Ltd. v. Rudolf Wolff &amp; Company</title>
+        <section startTime="0" stopTime="95.660">
+          <heading>Opinion Announcement of Harry A. Blackmun</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.397">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80934">The opinion of the Court in No. 86-740, Omni Capital Investment versus Rudolf Wolff &amp; Company will be announced by Justice Blackmun.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="10.397" stopTime="95.660">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="10.397" offset="122521">This case comes to us by way of certiorari to the United States Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="18.789" offset="156062">It does not lend itself well to announcement from the Bench and I think it will be suffice to say that the primary issue is whether a Federal Court in Louisiana had personal jurisdiction over a British Corporation and the person who is a citizen of the United Kingdom.</text>
+            <text syncTime="39.041" offset="237042">The District Court and the Court of Appeals ruled that personal jurisdiction was lacking and that the requirements of the Louisiana long-arm statute were not met.</text>
+            <text syncTime="51.091" offset="285212">We affirm that judgment.</text>
+            <text syncTime="53.029" offset="293048">The requirement of personal jurisdiction here flows from the Due Process Clause of the Fifth Amendment and noticed to the defendant and the constitutionally sufficient relationship between the defendant and the four or more not in themselves enough.</text>
+            <text syncTime="69.977" offset="360758">The defendant also must be amenable to service of summons, and we refrained from treating judicially a common law rule that authorizes service in this litigation, and that responsibility we feel rest with those who proposed the Federal Rules of Civil Procedure and with Congress.</text>
+            <text syncTime="92.073" offset="449156">The opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

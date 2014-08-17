@@ -1,0 +1,45 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:35:37" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="742025">/xml/cases/1998/98_727/19990614o_98-727.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1998/trs/98-727_19990614-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="163.980">
+        <title>Cunningham v. Hamilton County</title>
+        <section startTime="0" stopTime="163.980">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.833">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85829">The opinion of the Court in No. 98-727, Cunningham versus Hamilton County, Ohio will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="8.833" stopTime="163.980">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="8.833" offset="121147">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Sixth Circuit.</text>
+            <text syncTime="15.056" offset="146015">Involves a question, what happens to when an attorney is sanctioned from his conduct doing discovery, can that attorney appeal that even though the case continuous on?</text>
+            <text syncTime="27.913" offset="197424">Petitioner is an attorney who initially represented a plaintiff and sued against respondent and others.</text>
+            <text syncTime="33.989" offset="221770">After petitioner failed to obey certain pretrial discovery orders, a Magistrate judge directed her to pay monetary sanctions pursuant to Federal Rule of Civil Procedure 37(a).</text>
+            <text syncTime="46.078" offset="270045">A District Court affirmed the sanctions order and also disqualified petitioner as plaintiff's counsel.</text>
+            <text syncTime="52.552" offset="295958">While the suit went forward as I indicated petitioner immediately appealed the sanctions order.</text>
+            <text syncTime="58.408" offset="319364">The Court of Appeals dismissed her appeal for lack of jurisdiction.</text>
+            <text syncTime="62.762" offset="336813">It held that the Rule 37(a) sanctions order did not fall within a narrow category of orders known as collateral orders, which maybe appealed prior to the entry of judgment.</text>
+            <text syncTime="75.342" offset="387178">In an opinion filed with the Clerk today, we affirm.</text>
+            <text syncTime="79.444" offset="403582">28 U.S.C. Section 1291 gives federal appellate courts with the jurisdiction over appeals from final decisions of the District Courts.</text>
+            <text syncTime="90.158" offset="446423">We have interpreted this provision to mean that an appeal ordinarily will not lie until the District Court has entered final judgment unless the order being appealed is a collateral order.</text>
+            <text syncTime="102.109" offset="494175">A collateral order is conclusive, resolves an important question completely separate from the merits and is effectively unreviewable on appeal from the final judgment.</text>
+            <text syncTime="115.409" offset="547465">We hold today that a Rule 37(a) sanctions order does not qualify as a collateral order, and thus is not the final decision under Section 1291.</text>
+            <text syncTime="127.257" offset="594799">Review of sanctions orders often will be an inextricably intertwined with the merits of the case.</text>
+            <text syncTime="133.182" offset="618518">Moreover, an attorney suffers no undue hardship from deferring appellate consideration of a Rule 37(a) sanction which unlike a contempt finding is not designed to compel immediate compliance with an order of the court.</text>
+            <text syncTime="148.518" offset="679853">Our conclusion that a Rule 37(a) sanctions order is not a final decision, applies even where as here the attorney no longer participates in the case.</text>
+            <text syncTime="159.133" offset="722276">The opinion of the Court is unanimous.</text>
+            <text syncTime="161.347" offset="731158">Justice Kennedy has filed a concurring opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

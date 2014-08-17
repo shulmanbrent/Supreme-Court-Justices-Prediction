@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1990-04-17</transcribed>
+        <identified user="tschaefer">2012-08-13</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:00:52" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <edit user="jgoldman" date="2014-01-15T14:00:56" startTime="9.899" oldSpeaker="john_marshall" newSpeaker="thurgood_marshall"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="309184">/xml/cases/1989/88_1685/19900417o_88-1685.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1989/88-1685_19900417-opinion.xml</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_marshall" type="justice" gender="male" path="/justices/john_marshall" image="/justices/john_marshall/thumbnail.jpg">John Marshall</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="55.510">
+        <title>National Labor Relations Board v. Curtin Matheson Scientific, Inc.</title>
+        <section startTime="0.000" stopTime="9.899">
+          <heading>Announcement of Justice Marshall</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.899">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87143">The opinion of the Court in No. 88-1685, National Labor Relations Board versus Curtin Matheson Scientific, Inc. will be announced by Justice Marshall.</text>
+          </turn>
+        </section>
+        <section startTime="9.899" stopTime="55.510">
+          <heading>Announcement of Justice Marshall</heading>
+          <turn speaker="thurgood_marshall" startTime="9.899" stopTime="55.510">
+            <label>Justice Marshall</label>
+            <text syncTime="9.899" offset="126640">This case is here on writ of certiorari to the Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="15.413" offset="148792">In an opinion filed with the Clerk today, we hold that the National Labor Relations Board acted within its discretion in refusing to admit a presumption that Board’s replacements refuse and are opposed to the striking union.</text>
+            <text syncTime="36.296" offset="232279">The judgment of the Court of Appeals is therefore reversed.</text>
+            <text syncTime="38.946" offset="242833">The Chief Justice has filed a concurring opinion; Justice Blackmun has filed a dissenting opinion; Justice Scalia had filed a separate dissenting opinion in which Justice O’Connor and Justice Kennedy have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

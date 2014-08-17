@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2013-12-12T11:54:19" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1211379">/xml/cases/2003/02_1824/20040503o_02-1824.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2003/trs/02-1824_20040503-opinion.trs</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="256.331">
+        <title>Dretke v. Haley</title>
+        <section startTime="0.000" stopTime="256.331" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice Sandra Day O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.990">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 02-1824, Dretke against Haley will be announced by Justice O’Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="9.990" stopTime="256.331">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="9.990" offset="39915">This habeas corpus case comes to us on certiorari to the United States Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="17.394" offset="69486">That Court held that the respondent, Michael Wayne Haley, was not barred from asserting his procedurally defaulted challenge to the State Courts in position of a recidivous sentencing enhancement, because he was actually innocent of defactual predicate giving rise to the enhancement.</text>
+            <text syncTime="40.417" offset="161646">We vacate that judgment and remand for further proceedings.</text>
+            <text syncTime="45.057" offset="180140">The respondent’s sentence for theft was enhanced under Texas’ habitual offender statute based on two prior felony convictions.</text>
+            <text syncTime="56.268" offset="225071">As it turns out, the evidence concerning the timing of one of his prior convictions was insufficient to support the particular enhancement.</text>
+            <text syncTime="68.704" offset="274808">Respondent did not object to that insufficiency until state postconviction proceedings.</text>
+            <text syncTime="75.854" offset="303334">The State Court dismissed the objection on procedural grounds and denied the accompany ineffective of assistance of counsel claim.</text>
+            <text syncTime="85.204" offset="340741">Although the insufficiency claim was procedurally defaulted then when the respondent filed for a federal habeas corpus, the District Court heard it nonetheless on the grounds that respondent was actually innocent of one of the factual predicates giving rise to the sentence enhancement.</text>
+            <text syncTime="106.387" offset="425482">The District Court granted relief on the insufficiency claim.</text>
+            <text syncTime="111.009" offset="443977">It did not reach the ineffective assistance of counsel question and the Court of Appeals for the Fifth Circuit affirmed.</text>
+            <text syncTime="118.307" offset="473130">Normally, claims of error in a criminal trial which are not timely made in State Court cannot later be made by the defendant in a federal habeas proceeding.</text>
+            <text syncTime="132.140" offset="528509">We have recognized a narrow exception to the procedural default rule where a habeas applicant can demonstrate actual innocence of the substantive offense or in the capital sentencing context of the aggravating circumstances rendering him eligible for the death penalty.</text>
+            <text syncTime="152.310" offset="609176">We do not decide today whether this exception extends to the noncapital sentencing context and instead hold that a Federal Court on habeas faced with allegations of actual innocence must first address all nondefaulted claims for comparable relief on other grounds as for cause to excuse the procedural default, and this avoidance principle was implicit in our earlier actual innocence cases.</text>
+            <text syncTime="189.544" offset="758073">Now here, the respondent has, as the state conceives, a significant ineffective assistance of counsel claim that the District Court should have considered before reaching the actual innocence question.</text>
+            <text syncTime="205.382" offset="821499">Doing so would have avoided the difficult constitutional and other legal questions implicated by extending the actual innocence exception into the noncapital sentencing context.</text>
+            <text syncTime="218.728" offset="874893">The State has told us that it will not seek to reincarcerate the respondent during the pendancy of this ineffective assistance claim.</text>
+            <text syncTime="228.772" offset="915017">Justice Stevens has written a dissenting opinion in which Justices Souter and Kennedy joined; Justice Kennedy has also written a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

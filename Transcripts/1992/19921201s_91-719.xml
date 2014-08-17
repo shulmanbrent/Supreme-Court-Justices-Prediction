@@ -1,0 +1,52 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1992-12-01</transcribed>
+        <edit user="tschaefer" date="2012-08-15T15:10:24" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <identified user="tschaefer">2012-08-15</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:37:40" startTime="0.000" oldSpeaker="sandra_day_oconnor" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="816542">/xml/cases/1992/91_719/19921201o_91-719.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1992/91-719_19921201-opinion.xml</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="183.693">
+        <title>Parke v. Raley</title>
+        <section startTime="0.000" stopTime="5.019">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="5.019">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="81770">The opinions of the Court in two cases will be announced by Justice O'Connor.</text>
+          </turn>
+        </section>
+        <section startTime="5.019" stopTime="183.693">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="sandra_day_oconnor" startTime="5.019" stopTime="183.693">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="5.019" offset="101832">The first of these is Parke against Raley, No. 91-719, and the case comes to us on writ of certiorary to the United States Court of Appeals for the Sixth Circuit.</text>
+            <text syncTime="18.474" offset="155644">In 1986, Ricky Harold Raley was charged with robbery and with being a persistent felony offender under a Kentucky statute that enhances sentences for repeat felons.</text>
+            <text syncTime="32.699" offset="212487">Raley moved to suppress the convictions that formed the basis of the charge.</text>
+            <text syncTime="37.800" offset="232967">He claimed they were invalid under Boykin against Alabama because they were based on guilty pleas for which no transcripts existed.</text>
+            <text syncTime="46.409" offset="267344">And so, the government could not affirmatively show that the pleas had been knowingly and voluntarily entered.</text>
+            <text syncTime="53.194" offset="294511">At the suppression hearing, the Trial Court, following Kentucky law, gave up presumption of regularity to the final judgments of conviction.</text>
+            <text syncTime="63.256" offset="334740">Although the ultimate burden of persuasion rested with Kentucky.</text>
+            <text syncTime="67.906" offset="353339">Raley was required to produce some evidence of the invalidity of the prior convictions.</text>
+            <text syncTime="74.655" offset="380297">Raley's suppression motion was denied and he was convicted as a persistent felony offender, and the Kentucky Court of Appeals affirmed.</text>
+            <text syncTime="85.280" offset="422825">It found that Raley was fully advised of his rights in 1979, and inferred that he remained aware of them in 1981.</text>
+            <text syncTime="96.583" offset="468069">Raley filed at federal habeas petition challenging the Kentucky procedure that assigned him the burden of production.</text>
+            <text syncTime="104.646" offset="500252">The District Court denied relief but the Court of Appeals for the Sixth Circuit, conditionally granted the writ with respect to the 1981 plea.</text>
+            <text syncTime="113.801" offset="536928">It held that, when no transcript of the plea colloqui is available that the government has the entire burden of proving the prior conviction validity by clear and convincing evidence.</text>
+            <text syncTime="127.069" offset="590008">For reasons explained in an opinion filed with Clerk today, we reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="133.799" offset="616862">Kentucky's burden shifting scheme satisfies due process.</text>
+            <text syncTime="138.872" offset="637238">Boykin's holding that a guilty plea is presumptively invalid on direct review, unless the record affirmatively shows otherwise, need not be extended to collateral proceedings such as these.</text>
+            <text syncTime="152.493" offset="691677">Kentucky's procedure is not fundamentally unfair in its operation, and neither historical nor contemporary practice suggests the contrary.</text>
+            <text syncTime="162.088" offset="730025">Our precedents permit the inference that Raley understood his rights in 1981 as they had been explained during the 1979.</text>
+            <text syncTime="171.848" offset="769104">And the finding that the 1981 plea was knowingly and voluntarily made is fairly supported by the record.</text>
+            <text syncTime="179.458" offset="799510">Justice Blackmun has filed an opinion concurring in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

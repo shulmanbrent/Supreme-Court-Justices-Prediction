@@ -1,0 +1,33 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1989-02-28</transcribed>
+        <edit user="jeffpar" date="2012-06-06T14:18:15" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jeffpar">2012-06-06</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="205555">/xml/cases/1988/86_1088/19890228o_86-1088.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1988/86-1088_19890228-opinion.xml</sourceFile>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="29.753">
+        <title>City of Canton, Ohio v. Harris</title>
+        <section startTime="0.000" stopTime="5.379">
+          <heading>Announcement of Chief Justice Rehnquist</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="5.379">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="86541">The opinion of the Court in two cases will be announced by Justice White.</text>
+          </turn>
+        </section>
+        <section startTime="5.379" stopTime="29.753">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="byron_r_white" startTime="5.379" stopTime="29.753">
+            <label>Justice Byron R. White</label>
+            <text syncTime="5.379" offset="107961">In the first of these is number 86-1088 City of Canton against Harris, and for the reason stated in an opinion in own filed with the clerk, the judgment of the Court of Appeals for the Sixth Circuit is vacated and remanded.</text>
+            <text syncTime="19.991" offset="166476">Justice Brennan has filed a concurring opinion.</text>
+            <text syncTime="22.574" offset="176820">Justice O?Connor has filed an opinion concurring in part and dissenting in part in which Justices Scalia and Kennedy have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,49 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:55:07" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1272294">/xml/cases/2005/04_1495/20060426o_04-1495.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-1495_20060426-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="295.941">
+        <title>Hartman v. Moore</title>
+        <section startTime="0.000" stopTime="295.941">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.415">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88529">Justice Souter has the opinion in 04-1495, Hartman versus Moore.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="9.415" stopTime="295.941">
+            <label>Justice David H. Souter</label>
+            <text syncTime="9.415" offset="126145">This case comes to us on writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit.</text>
+            <text syncTime="17.054" offset="156656">It is a Bivens action against criminal investigators, charging them with inducing a prosecution against the respondent Moore in retaliation for Moore's lobbying efforts aimed at convincing the United States Postal Service to incorporate multiline optical scanning technology.</text>
+            <text syncTime="35.962" offset="232307">The question is whether Moore must show the absence of probable cause for pressing the underlying criminal charges.</text>
+            <text syncTime="43.289" offset="261669">We hold that, one, a prosecution must be alleged and proven as part of a claim of retaliatory prosecution.</text>
+            <text syncTime="51.130" offset="293016">In the 1980s, Moore ran a company making machines that could read multiple lines of text, and Moore was prominent among those who publicly campaigned against the Postal Service's use of single line technology for mail sorting.</text>
+            <text syncTime="68.385" offset="361979">The leadership of the Postal Services allegedly asked Moore to back off on his lobbying efforts and threatened to stop doing business with his company if he persisted.</text>
+            <text syncTime="77.755" offset="399491">Eventually, the Postal Service begrudgingly embraced multiline technology but it awarded a lucrative contract for multiline equipment to one of Moore's competitors.</text>
+            <text syncTime="87.824" offset="439824">Not only did Moore lose out on the contract, but he was soon entangled in two Postal Service criminal investigations, which led a federal prosecutor to seek and secure indictments against Moore, his company and the company's vice-president.</text>
+            <text syncTime="104.582" offset="506802">In due course, the District Court found a complete lack of direct evidence connecting the defendants with any of the wrongdoing alleged and granted their motion for acquittal.</text>
+            <text syncTime="113.764" offset="543582">Moore then filed an action against the prosecutor and postal inspectors, arguing that they had engineered the prosecution in retaliation for his lobbying efforts.</text>
+            <text syncTime="124.472" offset="586318">After the claims against the prosecutor were dismissed on absolute immunity grounds, the inspectors moved for summary judgment, arguing that they were entitled to qualified immunity from a retaliatory-prosecution suit, because the underlying criminal charges against Moore were supported by probable cause.</text>
+            <text syncTime="146.219" offset="673358">The District Court denied this motion, and the Court of Appeals affirmed.</text>
+            <text syncTime="151.019" offset="692585">In an opinion filed today with the Clerk of the Court, we reverse and remand.</text>
+            <text syncTime="157.068" offset="716722">We have held the First Amendment prohibits government officials from subjecting an individual to retaliatory actions, including criminal prosecutions, for speaking out.</text>
+            <text syncTime="169.024" offset="764578">In the ordinary retaliation case, evidence of motive on the part of a government official and injury suffered by the target of that official's animus is sufficient for a circumstantial demonstration that the one caused the other.</text>
+            <text syncTime="184.160" offset="825078">But when the claimed retaliation is retaliatory prosecution, showing causation is more difficult, because the defendant in a retaliatory-prosecution case will not be the prosecutor who has absolute immunity, but some other official who allegedly induced the prosecutor to act.</text>
+            <text syncTime="203.755" offset="903549">Thus, the causal connection is not as it is in the ordinary case, the simple and direct link between the animus of one official and the injury that same official inflicts.</text>
+            <text syncTime="214.386" offset="945972">Rather, it is the more attenuated connection between the retaliatory motive of one official and the adverse action taken by another.</text>
+            <text syncTime="223.116" offset="980976">In this sort of case, proving a lack of probable cause for the criminal prosecution will tend to reinforce the retaliation evidence and show that retaliation was likely the but-for basis for instigating the prosecution.</text>
+            <text syncTime="240.809" offset="1051716">On the other hand, establishing the existence of probable cause will suggest that the prosecution would have been pursued, even absent the retaliatory motive.</text>
+            <text syncTime="251.424" offset="1094139">Accordingly, because evidence of an inspector's animus does not necessarily show that he succeeded in inducing the prosecutor to act when he would not otherwise have pressed charges, and because of the longstanding presumption of regularity accorded prosecutorial decision-making, we hold that a showing of the absence of probable cause is required both to bridge the gap between the nonprosecuting government agent's retaliatory motive and the prosecutor's injurious action and to rebut the presumption of regularity.</text>
+            <text syncTime="284.518" offset="1226527">Justice Ginsburg has filed a dissenting opinion, in which Justice Breyer joins; the Chief Justice and Justice Alito took no part in the consideration or decision of this case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

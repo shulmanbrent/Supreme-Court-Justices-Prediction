@@ -1,0 +1,1333 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="14657908">/xml/cases/2005/04_1544/20060228a_04-1544.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-1544_20060228-argument.trs</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="kent_l_richland" type="advocate" gender="male" path="/advocates/kr/kent_l_richland" image="/advocates/kr/kent_l_richland/thumbnail.jpg">Kent L. Richland</speaker>
+        <speaker id="deanne_e_maynard" type="advocate" gender="female" path="/advocates/dm/deanne_e_maynard" image="/advocates/dm/deanne_e_maynard/thumbnail.jpg">Deanne E. Maynard</speaker>
+        <speaker id="g_eric_brunstad_jr" type="advocate" gender="male" path="/advocates/gb/g_eric_brunstad_jr" image="/advocates/gb/g_eric_brunstad_jr/thumbnail.jpg">G. Eric Brunstad, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3624.446">
+        <title>Marshall v. Marshall</title>
+        <section startTime="0.000" stopTime="959.879">
+          <heading>Argument of Kent L. Richland</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.247">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="152530">We'll hear argument next in 04-1544, Vickie Lynn Marshall v. E. Pierce Marshall.</text>
+            <text syncTime="7.820" offset="183772">Mr. Richland.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="9.247" stopTime="63.353">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="9.247" offset="189415">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="12.096" offset="200909">This is a bankruptcy case, but it is a bankruptcy case in which the Ninth Circuit has made... come to the extraordinary conclusion that the Federal bankruptcy court has no jurisdiction over the chief assets of the bankruptcy estate.</text>
+            <text syncTime="28.641" offset="267051">That asset, a... a tort cause of action, was to be the main source of the payment to the creditors.</text>
+            <text syncTime="36.705" offset="299338">And the Ninth Circuit came to this conclusion because it gave a very broad interpretation of the so-called probate exception to Federal jurisdiction.</text>
+            <text syncTime="47.457" offset="342283">As I will explain, the Federal bankruptcy jurisdiction statutes are incompatible with the concept of having adopted a probate exception to Federal jurisdiction, particularly to Federal bankruptcy jurisdiction.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="63.353" stopTime="64.680">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="63.353" offset="405918">Any exception whatever.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="64.680" stopTime="79.631">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="64.680" offset="411247">That's correct, Your Honor.</text>
+            <text syncTime="67.108" offset="420860">There is no exception to that.</text>
+            <text syncTime="68.629" offset="427025">The... the statute itself is structured in such a way that its jurisdiction of the bankruptcy court depends on the relationship of the matter to the bankruptcy estate.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="79.631" stopTime="105.001">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="79.631" offset="471015">So if... if the contention in the... in the bankruptcy proceeding is that the will which has been probated by the State probate court is, in fact, not the true will and that under the true will, the bankruptcy estate would get money, you think the bankruptcy court would... would have jurisdiction to probate the will.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="105.001" stopTime="115.510">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="105.001" offset="572474">Yes, Your Honor.</text>
+            <text syncTime="106.845" offset="579893">Now, the question is, of course, that's an attack on a probated will, I believe, and I think that this Court's jurisprudence also supports the notion that--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="115.510" stopTime="130.788">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="115.510" offset="614479">All right.</text>
+            <text syncTime="116.154" offset="617092">Well, I'm willing to... to move it back.</text>
+            <text syncTime="117.265" offset="621585">I mean, that's... that's even harder for you.</text>
+            <text syncTime="119.526" offset="630571">But let's assume that the will is in probate but has not yet been probated.</text>
+            <text syncTime="123.818" offset="647707">Do you think the bankruptcy court has jurisdiction to decide which will is the true will?</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="130.788" stopTime="134.820">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="130.788" offset="675606">--Well, the... the bankruptcy jurisdiction statute states that--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="134.820" stopTime="135.437">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="134.820" offset="691802">Yes or no.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="135.437" stopTime="150.189">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="135.437" offset="694205">--The answer is yes, it does, and it must have that power to be able to do so because the bankruptcy jurisdiction statute states that the court has jurisdiction, in rem jurisdiction, exclusive in rem jurisdiction--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="150.189" stopTime="151.283">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="150.189" offset="753242">What if the rem--</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="151.283" stopTime="151.877">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="151.283" offset="757630">--over all assets of the--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="151.877" stopTime="160.857">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="151.877" offset="760034">--what if the rem is in another court before the bankruptcy begins?</text>
+            <text syncTime="155.231" offset="773408">What if the res is within... is in another court?</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="160.857" stopTime="185.067">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="160.857" offset="795874">--Yes, yes, Justice Ginsburg.</text>
+            <text syncTime="162.285" offset="801621">28 U.S.C., section 1334(e) states the bankruptcy court shall have exclusive jurisdiction, in rem jurisdiction, over the bankruptcy estate, and that has been interpreted by the courts as meaning that it has paramount jurisdiction in the sense that the normal in custodia legis doctrine does not apply where it is a bankruptcy court case.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="185.067" stopTime="205.721">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="185.067" offset="892736">So even... even if property is in the custody of another court in the probate proceeding and the bankruptcy proceeding comes later, the bankruptcy proceeding would sweep whatever assets are before the probate court into the bankruptcy.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="205.721" stopTime="212.015">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="205.721" offset="975387">That... that is correct, Your Honor, and there have been courts that have held that with respect--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="212.015" stopTime="216.130">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="212.015" offset="1000569">Do you want to stand on this position, Mr. Richland, or do you have a lesser position--</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="216.130" stopTime="216.974">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="216.130" offset="1016974">--Well, it's certainly not--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="216.974" stopTime="219.629">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="216.974" offset="1020422">--that... that might cause you to win?</text>
+            <text syncTime="218.401" offset="1026065">Because--</text>
+            <text syncTime="219.079" offset="1028781">[Laughter]</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="219.629" stopTime="286.447">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="219.629" offset="1030976">--Well, it certainly is not necessary, of course, to... to... for us to prevail in this case.</text>
+            <text syncTime="226.799" offset="1059710">However, I think it is an important principle to interpret the... the bankruptcy jurisdiction statute, look at the language of that statute, and determine what Congress intended from that.</text>
+            <text syncTime="237.217" offset="1101297">And... and I think it also is a dangerous thing to get into, implying exceptions into that statute.</text>
+            <text syncTime="246.210" offset="1137346">But... but let me state this.</text>
+            <text syncTime="247.720" offset="1143407">Obviously, in this case we have an action, the... the in rem jurisdiction of the bankruptcy court over the chose in action, that is... is miles away from the probate of... of a will.</text>
+            <text syncTime="262.838" offset="1203802">The particular cause of action involved here was an interference with an inter vivos gift.</text>
+            <text syncTime="268.630" offset="1226999">And I think it's important to realize that that was intended to be a gift that would be complete during the lifetime of the decedent.</text>
+            <text syncTime="277.789" offset="1263674">That fact means that this case really has almost nothing to do with probate or probate jurisdiction.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="286.447" stopTime="291.479">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="286.447" offset="1298261">But you did file a challenge to the probate of the will, didn't you, in Texas?</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="291.479" stopTime="307.607">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="291.479" offset="1318427">There was a challenge filed to the probate of the will originally by the... the brother of the respondent in this case, and eventually yes, our client did join that some years later after it was first filed.</text>
+            <text syncTime="305.263" offset="1373493">So that would have been an alternative.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="307.607" stopTime="316.766">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="307.607" offset="1382897">And wasn't the ground for that that it would be inconsistent with the inter vivos trust that you are asserting in the bankruptcy court proceeding?</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="316.766" stopTime="410.849">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="316.766" offset="1419573">No, that was not the case, Your Honor.</text>
+            <text syncTime="318.704" offset="1427306">The... the grounds for that was the belief that there had been undue influence with respect to the will.</text>
+            <text syncTime="324.997" offset="1452488">But the inter vivos gift claim... a tortious interference with inter vivos gift claim... that was added only many years later in the year 2000.</text>
+            <text syncTime="335.916" offset="1496164">That was 3 years, 3 and a half years after that same action was pending in the bankruptcy court.</text>
+            <text syncTime="341.553" offset="1518734">And the only reason it was raised at that time was that respondent went to the Federal court and said... and interposed the probate exception and argued at that time there is no jurisdiction here.</text>
+            <text syncTime="352.389" offset="1561993">Therefore, out of an excess of caution, our client went to the Texas probate court and said, well, I will... I will make this... this claim here.</text>
+            <text syncTime="360.953" offset="1596266">In fact, once there was success in the bankruptcy court and the bankruptcy court said, now I have made a determination on that claim, our client did dismiss claim and dismissed all affirmative claims with respect to the probate estate.</text>
+            <text syncTime="374.810" offset="1651750">I think the important thing to realize here, with respect to both this particular claim and with respect to the bankruptcy jurisdiction statute in particular, is that the... that the breadth of the... what that statute does is, it... it announces that rather than having jurisdictional preclusions, there will be preclusions based on abstention.</text>
+            <text syncTime="399.596" offset="1750910">It has broad abstention provisions in section 1334(c), and indeed section 1334(c)(2), which is the mandatory abstension--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="410.849" stopTime="467.298">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="410.849" offset="1795841">You like this... apparently you like this argument, although you say you're miles away from probate.</text>
+            <text syncTime="417.486" offset="1822381">Well, if you want to get into that argument, I guess the strongest argument against keeping it... for keeping it is bankruptcy jurisdictional statutes shouldn't be interpreted differently than diversity jurisdiction or any other statute, and Markham at least recognizes that there is such a thing as the probate exception and that Congress implicitly adopted it, just as they did the domestic relations exception.</text>
+            <text syncTime="442.273" offset="1921542">Therefore, if we are going to find for you on this ground, we'd have to go back and overrule that case and a lot of other water that's flowed over... under the bridge or wherever the water flows.</text>
+            <text syncTime="453.692" offset="1967204">[Laughter]</text>
+            <text syncTime="454.369" offset="1969921">And we ought to take what's given as given, whatever the true meaning of ecclesiastical courts having jurisdiction over certain probate matters or not in the 18th century.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="467.298" stopTime="497.628">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="467.298" offset="2021643">--Well, of course, if one looks at 1334(c)(2), one sees that Congress itself contemplated that there would bankruptcy jurisdiction under circumstances where there was no diversity jurisdiction and when there was no Federal question jurisdiction.</text>
+            <text syncTime="483.344" offset="2085905">So it... it certainly is true that rolled into the whole notion of mandatory abstention is the possibility that the bankruptcy court will have before it matters over which there would be no diversity jurisdiction.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="497.628" stopTime="509.314">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="497.628" offset="2142956">But you could say the same thing about diversity jurisdiction, that Congress contemplated that there would be diversity jurisdiction where there was no bankruptcy jurisdiction and no Federal question jurisdiction.</text>
+            <text syncTime="507.454" offset="2182244">I mean, I don't see what that proves.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="509.314" stopTime="537.273">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="509.314" offset="2189768">Well, excuse me, Justice Scalia, but what I think it does prove is that when Congress enacted in 1978 the rather comprehensive change that it made to the bankruptcy statutes, that it intended to exercise as broad a jurisdiction as possible so that the bankruptcy courts would be able to control the bankruptcy estate and make determinations as to how the creditors could best be protected.</text>
+            <text syncTime="533.835" offset="2287779">Let me... let... yes.</text>
+            <text syncTime="536.773" offset="2299586">I'm sorry.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="537.273" stopTime="544.837">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="537.273" offset="2301572">I'm just saying no more so than... than when Congress enacted diversity jurisdiction.</text>
+            <text syncTime="541.732" offset="2319439">It intended it to apply, you know, uniformly.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="544.837" stopTime="547.191">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="544.837" offset="2331874">To... to apply very broadly according to its terms.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="547.191" stopTime="547.641">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="547.191" offset="2341278">Yes.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="547.641" stopTime="568.696">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="547.641" offset="2343054">And, of course, this Court in... first in Lear v. Armstrong said, yes, this applies very broadly.</text>
+            <text syncTime="553.484" offset="2366460">However, there is an exception and the exception is purely the probate of a will... the probate of a will and that alone.</text>
+            <text syncTime="561.381" offset="2398016">And this Court has really hewn very closely to that very narrow limitation since that point in time.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="568.696" stopTime="569.230">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="568.696" offset="2427273">That's true.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="569.230" stopTime="617.903">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="569.230" offset="2429363">I do think that it's important, however, to realize that if one examines this Court's probate exception jurisdiction over the years, it has consistently determined that the... the narrowness of that exception must be confirmed, and as late as the Markham case, this Court has held that... that Federal courts have jurisdiction to decide all kinds of issues with respect to wills, all kinds of issues with respect to trusts.</text>
+            <text syncTime="602.037" offset="2560602">Certainly this Court has said that it can determine questions such as how to interpret the provision of a will.</text>
+            <text syncTime="608.757" offset="2587456">It has even held that Federal courts can determine whether a will is invalid.</text>
+            <text syncTime="614.799" offset="2611697">It can make that determination if the--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="617.903" stopTime="621.341">
+            <label>Justice David H. Souter</label>
+            <text syncTime="617.903" offset="2624132">But none... none of this has to be done for you to win this case, does it?</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="621.341" stopTime="622.102">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="621.341" offset="2637820">--You are absolutely correct.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="622.102" stopTime="623.863">
+            <label>Justice David H. Souter</label>
+            <text syncTime="622.102" offset="2640850">Then I... I wish we'd stick to this case.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="623.863" stopTime="639.825">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="623.863" offset="2647955">Well, I'm happy to do that, Your Honor.</text>
+            <text syncTime="625.207" offset="2653284">This case is an outlier.</text>
+            <text syncTime="627.145" offset="2661017">I believe that is true.</text>
+            <text syncTime="628.178" offset="2665196">This case is so far from the potential of any probate exception that, although I felt that it was important to be able to explicate the... the principles involved here, I--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="639.825" stopTime="640.586">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="639.825" offset="2711799">You want to look moderate.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="640.586" stopTime="641.236">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="640.586" offset="2714829">--Oh--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="641.236" stopTime="649.400">
+            <label>Justice David H. Souter</label>
+            <text syncTime="641.236" offset="2717441">Does this case involve anything more than the enforcement of an in personam tort judgment if you are to win?</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="649.400" stopTime="653.515">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="649.400" offset="2750042">--It... it would not.</text>
+            <text syncTime="652.338" offset="2761849">That is all that's involved.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="653.515" stopTime="667.139">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="653.515" offset="2766551">Well, it did involve, at least the bankruptcy court thought, the judgment invalidating the inter vivos trust.</text>
+            <text syncTime="663.184" offset="2805212">Was that necessary to the decision?</text>
+            <text syncTime="665.795" offset="2815661">Or am I... correct me if I'm--</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="667.139" stopTime="667.639">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="667.139" offset="2820990">I... I don't believe--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="667.639" stopTime="668.405">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="667.639" offset="2823080">--correct me if I'm wrong about that.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="668.405" stopTime="705.605">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="668.405" offset="2826110">--That is... that is incorrect, Justice Kennedy.</text>
+            <text syncTime="670.577" offset="2834783">It did not invalidate the inter vivos trust.</text>
+            <text syncTime="673.515" offset="2846590">What it held was that as part of the evidence that it was considering, in terms of the intent, the donor's intent, that one portion of that inter vivos trust, an amendment to it, had been forged, but it did not invalidate it.</text>
+            <text syncTime="687.883" offset="2904060">In fact, it... it expressly held that the... the inter vivos trust is valid, and that was a basis for its conclusion that, indeed, this particular claim was also valid.</text>
+            <text syncTime="698.718" offset="2947319">This claim was a cause of action for interference with an inter vivos gift.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="705.605" stopTime="707.876">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="705.605" offset="2974904">I guess what you're going to hear in 5-10 minutes--</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="707.876" stopTime="708.460">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="707.876" offset="2983994">Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="708.460" stopTime="709.460">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="708.460" offset="2986293">--you might as well deal with it now--</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="709.460" stopTime="710.420">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="709.460" offset="2990368">Yes.</text>
+            <text syncTime="709.887" offset="2992040">Why not?</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="710.420" stopTime="728.110">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="710.420" offset="2994130">--is that the inter vivos... a... a claim for a... the Texas tort of interference with inter vivos gift, according to Texas law, must be brought at the time of the probate proceeding.</text>
+            <text syncTime="722.150" offset="3041046">And for that reason, it is bound up with probate, and for that reason, they didn't have jurisdiction.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="728.110" stopTime="731.642">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="728.110" offset="3064870">Well, A... A, we do not interpret Texas law as so providing.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="731.642" stopTime="732.986">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="731.642" offset="3079080">All right.</text>
+            <text syncTime="732.292" offset="3081692">Now, let's suppose you're--</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="732.986" stopTime="733.636">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="732.986" offset="3084409">But... but assuming--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="733.636" stopTime="734.763">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="733.636" offset="3087021">--suppose they're right about their interpretation.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="734.763" stopTime="751.291">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="734.763" offset="3091514">--Assuming that they're right for that... by their interpretation, this Court has repeatedly said that it... that a... a State court cannot... by simply assigning matters that otherwise would be heard by Federal courts to the probate court, that it can, in effect, shield those--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="751.291" stopTime="753.313">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="751.291" offset="3157657">And the strongest case for you on that is?</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="753.313" stopTime="755.173">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="753.313" offset="3165702">--Oh, I think Hess--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="755.173" stopTime="757.095">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="755.173" offset="3173121">You said this Court has repeatedly said.</text>
+            <text syncTime="756.417" offset="3178137">So what--</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="757.095" stopTime="767.420">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="757.095" offset="3180853">--Said it over and over, but Hess v. Reynolds from 1885, which says that merely the convenience of a... a State court to, you know, assign matters to... to its probate court.</text>
+            <text syncTime="765.993" offset="3216484">That was a case in which a debt--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="767.420" stopTime="783.132">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="767.420" offset="3222127">But... but this case involves a lot more than convenience.</text>
+            <text syncTime="769.958" offset="3232262">It involves a substantial amount of assets that is either going to pass to one person under probate or is not going to be available for passing to that person because of the inter vivos gift.</text>
+            <text syncTime="779.516" offset="3270506">That seems to be more closely related to the core probate matters.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="783.132" stopTime="828.080">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="783.132" offset="3285030">--But in fact, Chief Justice Roberts, I don't believe that's the case.</text>
+            <text syncTime="786.997" offset="3300494">Nothing passed by way of probate in this case.</text>
+            <text syncTime="789.935" offset="3312197">The... there were no assets in the probate.</text>
+            <text syncTime="792.541" offset="3322646">What happened here was that all of the assets... and the record shows this, and I don't believe it's... that there is any dispute here.</text>
+            <text syncTime="798.333" offset="3345843">All of the assets had passed to the respondent in this case before the will and the trust were actually submitted to the probate court.</text>
+            <text syncTime="806.658" offset="3379070">Once again, this is a tort claim and it's a tort claim only for an interference.</text>
+            <text syncTime="812.784" offset="3403626">If those assets had never gone to respondent in this case, there would, nevertheless, still be a good tort claim.</text>
+            <text syncTime="820.531" offset="3434554">If, for example, those assets had been passed to respondent's child or to another brother, the interference itself--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="828.080" stopTime="828.496">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="828.080" offset="3464752">Mr. Richland--</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="828.496" stopTime="828.796">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="828.496" offset="3466424">--Excuse me, Justice--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="828.796" stopTime="875.537">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="828.796" offset="3467678">--what seems to me to be involved here is what is not uncommon in our Federal system, that is, two proceedings, both dealing with the same or closely related subject matter.</text>
+            <text syncTime="844.291" offset="3529640">It is not infrequent that you have parallel proceedings in Federal court and State court, and then the one that gets finished first... that judgment is binding on the other.</text>
+            <text syncTime="858.315" offset="3585751">And as I understand it, the probate proceeding concluded first before the district judge reviewed the bankruptcy judge's opinion.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="875.537" stopTime="899.314">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="875.537" offset="3654610">--Justice Ginsburg, you're quite correct that issues... that... that the principles of preclusion ordinarily would deal with the kinds of issues here, and... and we think that that... those... that should be what governs this case.</text>
+            <text syncTime="887.468" offset="3702362">But I don't believe that it is correct to say that the probate court judgment preceded that of the bankruptcy court.</text>
+            <text syncTime="894.604" offset="3730888">The bankruptcy court judgment came first.</text>
+            <text syncTime="896.282" offset="3737575">A year later the probate court judgment then--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="899.314" stopTime="919.641">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="899.314" offset="3749696">Well, I'm... I'm assuming... and correct me if I'm wrong about this... that the bankruptcy court makes a proposed opinion.</text>
+            <text syncTime="912.921" offset="3804135">It doesn't become a binding opinion until it's affirmed by the district court.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="919.641" stopTime="922.746">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="919.641" offset="3831093">--Unless it's a core matter.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="922.746" stopTime="923.329">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="922.746" offset="3843423">Yes.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="923.329" stopTime="924.190">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="923.329" offset="3845826">And here we claim that it is a core matter.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="924.190" stopTime="927.889">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="924.190" offset="3849274">Well, if it isn't a core matter.</text>
+            <text syncTime="925.601" offset="3854917">I think you lost on that in the district court.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="927.889" stopTime="934.259">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="927.889" offset="3864008">If it isn't a core matter, then in any event the district court here held that there was no preclusion, and it held it for a number of reasons.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="934.259" stopTime="936.853">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="934.259" offset="3889503">But that was not reviewed by the Ninth Circuit.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="936.853" stopTime="941.995">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="936.853" offset="3899848">That's correct.</text>
+            <text syncTime="937.280" offset="3901624">That was not reviewed by the Ninth Circuit.</text>
+            <text syncTime="938.707" offset="3907266">But that would be the... the appropriate manner of review.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="941.995" stopTime="952.315">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="941.995" offset="3920432">That would... that would be the... if you... if you're correct about the limits of the probate exception, that issue would be open for review by the Ninth Circuit.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="952.315" stopTime="957.858">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="952.315" offset="3961706">It certainly would, Justice Ginsburg.</text>
+            <text syncTime="953.492" offset="3966408">We agree with that.</text>
+            <text syncTime="954.920" offset="3972154">And if I may reserve the rest of my time for rebuttal.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="957.858" stopTime="959.035">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="957.858" offset="3983962">Thank you, counsel.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="959.035" stopTime="959.879">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="959.035" offset="3988664">Thank you.</text>
+          </turn>
+        </section>
+        <section startTime="959.879" stopTime="1583.121">
+          <heading>Argument of Deanne E. Maynard</heading>
+          <turn speaker="john_g_roberts_jr" startTime="959.879" stopTime="966.682">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="959.879" offset="3992008">Ms. Maynard.</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="966.682" stopTime="1135.521">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="966.682" offset="4019175">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="974.236" offset="4049372">Two independent principles require reversal of the Ninth Circuit's decision.</text>
+            <text syncTime="978.519" offset="4066509">First, the probate exception to Federal jurisdiction is a will-specific rule and it does not apply beyond the context of wills to other types of will substitutes like inter vivos trusts.</text>
+            <text syncTime="990.281" offset="4113634">Second, even with respect to wills, it is a very narrow exception that is no bar to deciding the rights to a decedent's estate, construing a will, or determining the testator's intent.</text>
+            <text syncTime="1002.561" offset="4162744">There are only three things under this Court's precedent that a Federal court cannot do.</text>
+            <text syncTime="1008.265" offset="4185523">The first is to probate a will, that is, to determine the formal key requisites of the validity of a will; second, to annul an already probated will; and three, to take in rem jurisdiction over a res over which a State court has already taken in rem jurisdiction.</text>
+            <text syncTime="1028.164" offset="4265144">But that is it, and none of those are applicable here.</text>
+            <text syncTime="1031.113" offset="4276951">The justifications for the probate exception do not apply to will substitutes.</text>
+            <text syncTime="1036.989" offset="4300461">The... the probate exception is based on the peculiar nature of a will, that is, that unlike inter vivos trusts, unlike the current modern will substitutes, a will is not valid... it has no legal effect.</text>
+            <text syncTime="1051.191" offset="4357199">This Court's opinions have said that on several occasions... unless it is probated.</text>
+            <text syncTime="1054.545" offset="4370679">Therefore, a will must be probated even if there is no dispute about its validity before any title can pass.</text>
+            <text syncTime="1061.432" offset="4398159">Not so with trusts.</text>
+            <text syncTime="1062.943" offset="4404220">In fact, that is the whole point that people engage in the modern world substitutes is to avoid the necessity to go to the probate court in order to have their assets passed to their heirs.</text>
+            <text syncTime="1072.018" offset="4440582">The second ground for this Court's probate exception is the historical one based on the Court's understanding of the limits of the equity courts in England.</text>
+            <text syncTime="1082.437" offset="4482274">Whatever the merit of that historical analysis, it has not application to trusts, which have always been the problems of equity.</text>
+            <text syncTime="1089.840" offset="4511844">The Federal Government has a strong interest in the Court not expanding the Federal exception... the... the probate exception to Federal jurisdiction, particularly in the sweeping manner that the Ninth Circuit has done.</text>
+            <text syncTime="1103.114" offset="4564925">It is not uncommon for the tax consequences of an estate planning instrument, such as a trust, to turn on whether or not the trust is valid or invalid.</text>
+            <text syncTime="1113.767" offset="4607557">And the Congress has provided Federal jurisdiction to the United States to bring its... most of its disputes in the Federal court system.</text>
+            <text syncTime="1121.247" offset="4637441">Secondly, more generally, Congress has determined what types of disputes should be in the Federal courts and has passed broad statutes providing the courts with Federal jurisdiction that the courts have an obligation to exercise, if it exists.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1135.521" stopTime="1154.682">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1135.521" offset="4694597">Except if it's a will... will-specific.</text>
+            <text syncTime="1138.637" offset="4707031">In other words, you... it seems to me you're in for a penny and in for a pound.</text>
+            <text syncTime="1143.086" offset="4724794">You recognize the existence of this exception in certain cases, and then you argue against it by saying, well, Congress wrote the statutes broadly.</text>
+            <text syncTime="1151.066" offset="4756768">The latter argument disproves your first point.</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="1154.682" stopTime="1227.343">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="1154.682" offset="4771188">I don't believe it does, and perhaps I'm... I'm... I wasn't making clear what my argument is.</text>
+            <text syncTime="1159.897" offset="4792086">The Court has adopted a very narrow probate exception with respect to the probating of the will and annulling a probated will, but that is it.</text>
+            <text syncTime="1170.550" offset="4834718">And that analysis was based on a... the historical... the Court's view of the historical limits of courts of equity and therefore was an interpretation of the Federal diversity statute.</text>
+            <text syncTime="1179.875" offset="4872021">Under the logic of Ankenbrandt, one can assume... one may... the Court may assume that's carried forward.</text>
+            <text syncTime="1186.178" offset="4897203">But certainly that... for the reasons I've said, that rationale, those justifications, for that narrow will rule do not apply to trusts, which have always been the province of equity, and especially given the questionable historical underpinnings of the exception, even the narrow exception that does appear to exist, there's no justification for expanding that beyond its current confines.</text>
+            <text syncTime="1209.527" offset="4990617">As this Court recognized in Ankenbrandt, the lower courts had taken the... the so-called domestic relations exception beyond this Court's very narrow limits, and this Court brought... brought it back to its origins.</text>
+            <text syncTime="1221.706" offset="5039309">And... and the Federal Government believes that... that the same would be appropriate here with respect to the probate exception.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1227.343" stopTime="1239.607">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1227.343" offset="5061879">Ms. Maynard, it's my understanding that a lot of this law developed out of the dicta in the Markham case.</text>
+            <text syncTime="1233.803" offset="5087688">Do you think the dicta in the Markham case was an accurate description of the prior history?</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="1239.607" stopTime="1272.280">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="1239.607" offset="5110884">It was probably not a very precise history, Justice Stevens.</text>
+            <text syncTime="1245.066" offset="5132723">I do think one can read Markham, however, especially if one reads it in the context of the cases it cites for its principles, to hold what we are saying now, which is that Federal courts have no jurisdiction over pure probate matters, that is, no jurisdiction to probate a will.</text>
+            <text syncTime="1261.711" offset="5199283">And its interference language, I believe, was its statement of the in rem v. in rem jurisdiction principle, which in fact isn't really a probate jurisdiction principle at all.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1272.280" stopTime="1299.161">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1272.280" offset="5241601">What do you mean by no jurisdiction to probate a will?</text>
+            <text syncTime="1276.062" offset="5256752">Could... could... does that exclude the possibility of a bankruptcy court deciding for itself where there are contested wills that in its in view the... the right... the valid will is a certain one and that, therefore, the bankruptcy estate includes this fund or doesn't include this fund?</text>
+            <text syncTime="1297.501" offset="5342434">Is that probating the will?</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="1299.161" stopTime="1303.871">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="1299.161" offset="5349121">The... the United States hasn't taken a position on the broader argument about whether or not the--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1303.871" stopTime="1308.503">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1303.871" offset="5367929">Well, if that isn't probating a will, the exception for probating a will doesn't... doesn't amount to a hill of beans, does it?</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="1308.503" stopTime="1310.591">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="1308.503" offset="5386528">--If... if the question you're asking me is what does it mean to probate a will--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1310.591" stopTime="1311.074">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1310.591" offset="5394888">Yes.</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="1311.074" stopTime="1324.947">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="1311.074" offset="5396768">--the... the probate of a will requires determining that it has the appropriate formal prerequisites, which in most States is appropriate number of signatures that the testator was coherent, competent to make a will and that there was no undue influence.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1324.947" stopTime="1328.479">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1324.947" offset="5452252">Well, and that this is... that this is the... the last will and testament and that there is not some other one.</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="1328.479" stopTime="1330.591">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="1328.479" offset="5466359">That's true, yes, that there's no competing will.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1330.591" stopTime="1338.982">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1330.591" offset="5474822">Okay.</text>
+            <text syncTime="1331.002" offset="5476494">Now, can... can the bankruptcy court determine that, that the... that the proper will and testament of this decedent is this one?</text>
+            <text syncTime="1337.472" offset="5502408">We're not probating it.</text>
+            <text syncTime="1338.555" offset="5506692">No, no.</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="1338.982" stopTime="1339.882">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="1338.982" offset="5508363">The--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1339.882" stopTime="1343.264">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1339.882" offset="5512021">We don't pretend to probate it.</text>
+            <text syncTime="1340.826" offset="5515782">We're just saying that this happens to be the true will and testament.</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="1343.264" stopTime="1419.625">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="1343.264" offset="5525500">--It's conceivable that if that determination went to a... an element of, for example, a tort claim and that the person were not... were not seeking to take under the will, it is possible.</text>
+            <text syncTime="1358.299" offset="5585686">This Court's precedent doesn't address that precise question.</text>
+            <text syncTime="1361.321" offset="5597807">The United States hasn't taken a position on whether or not bankruptcy jurisdiction, ala the logic in Ankenbrandt, encompasses the narrow probate exception that we concede exists because it's not necessary to decide this case.</text>
+            <text syncTime="1375.188" offset="5653186">The... the petitioner's claim is far beyond anything that the probate exception has ever applied to.</text>
+            <text syncTime="1380.564" offset="5674711">The respondent suggests that States have an overriding interest in having one forum resolve all probate-related disputes.</text>
+            <text syncTime="1387.802" offset="5703655">This Court has repeatedly, for over 150 years, rejected that exact proposition... Justice Breyer, Payne v. Hook, Hess v. Reynolds, McClellan v. Carland, which this Court cited last term in Exxon Mobil... and it was the basis of Markham's reversal of the Ninth Circuit decision that the Federal jurisdiction is not determined by the scope and extent of the State's decisions with respect to where to send its own citizens with respect to disputes that don't otherwise have a basis for Federal jurisdiction.</text>
+            <text syncTime="1417.603" offset="5822878">The only place in this--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1419.625" stopTime="1442.740">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1419.625" offset="5831028">Ms. Maynard, you said at one point it's not necessary for you to decide this, but there is vast confusion in the lower courts about the extent of the probate exception.</text>
+            <text syncTime="1431.227" offset="5877421">And so I take it that your... what you began... what you began with is... I wrote them down.</text>
+            <text syncTime="1442.307" offset="5921725">That's it?</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="1442.740" stopTime="1467.933">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="1442.740" offset="5923397">--That's what the United States believes the limit of the exception is, and the... let me be clear.</text>
+            <text syncTime="1446.678" offset="5939175">The United States has a strong interest in having this Court clarify the exception.</text>
+            <text syncTime="1450.293" offset="5953699">That is where the confusion lies in the court of appeals.</text>
+            <text syncTime="1452.565" offset="5962790">That is where the United States feels like its interests are at risk.</text>
+            <text syncTime="1455.420" offset="5974179">So although the petitioner's claim is well outside the exception, the United States' interests lie in having the Court clear up the confusion and reject the sweeping and expansive view of the probate exception that the Ninth Circuit has announced.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1467.933" stopTime="1474.236">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1467.933" offset="6024230">And in addition to Markham, what other case of this Court do you think spells out the proper bounds?</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="1474.236" stopTime="1513.646">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="1474.236" offset="6049412">I... I think the... Waterman has a... has a good summary of the... of the limits.</text>
+            <text syncTime="1481.717" offset="6079296">I think even the two cases on which the respondent principally rely, Sutton and O'Callaghan, lay out the proper scope of the rule.</text>
+            <text syncTime="1493.053" offset="6124644">Those... both of those cases involved a claim that depended on having a will that had been probated declared invalid, and that is within the narrow confines of the exception.</text>
+            <text syncTime="1501.961" offset="6160275">But it is a will-specific rule.</text>
+            <text syncTime="1503.638" offset="6167067">The... and, Justice Stevens, back to your question.</text>
+            <text syncTime="1509.014" offset="6188488">The one thing about Markham is that there's no general interference principle, and that's where the--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1513.646" stopTime="1527.915">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1513.646" offset="6207087">We know there are a lot of scholars who think that Markham is the source of most of the confusion, and so that's why I was asking whether you think we should... to clear up, which you're suggesting we should do, we should reexamine some of that dicta or we should just stick to the holding.</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="1527.915" stopTime="1535.645">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="1527.915" offset="6264138">--I would... I would... you can... it would be helpful to... to clarify what the Court meant in Markham.</text>
+            <text syncTime="1534.041" offset="6288693">I think the holding in Markham is correct.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1535.645" stopTime="1537.789">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1535.645" offset="6295067">With... with new dicta of our own?</text>
+            <text syncTime="1536.989" offset="6300396">[Laughter]</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="1537.789" stopTime="1550.597">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="1537.789" offset="6303635">It will probably be necessary, to... to rule on the case, to make some holding about what the scope of the exception is, Your Honor.</text>
+            <text syncTime="1546.647" offset="6339057">And the... the... but, Justice Stevens, the--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1550.597" stopTime="1553.368">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1550.597" offset="6354835">We could just say whatever its scope is it ain't this.</text>
+            <text syncTime="1552.024" offset="6360582">I mean, couldn't we do that?</text>
+          </turn>
+          <turn speaker="deanne_e_maynard" startTime="1553.368" stopTime="1583.121">
+            <label>Ms. Deanne E. Maynard</label>
+            <text syncTime="1553.368" offset="6365911">--The Court certainly could resolve it that way, Your Honor.</text>
+            <text syncTime="1556.890" offset="6380017">But, Justice Stevens, the... the... Markham, I do think, makes clear what interference is and is not by its holding.</text>
+            <text syncTime="1563.526" offset="6406558">And on page 494 of Markham, it says, where the final judgment does not undertake to interfere with the State court's possession, save to the extent that the State court is bound by the judgment to recognize the right adjudicated by the Federal court.</text>
+            <text syncTime="1579.071" offset="6468729">So that is not the type of interference that runs afoul of the rule.</text>
+          </turn>
+        </section>
+        <section startTime="1583.121" stopTime="3403.473">
+          <heading>Argument of G. Eric Brunstad, Jr.</heading>
+          <turn speaker="john_g_roberts_jr" startTime="1583.121" stopTime="1598.055">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1583.121" offset="6484925">Thank you, Ms. Maynard.</text>
+            <text syncTime="1583.865" offset="6487955">Mr. Brunstad.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1598.055" stopTime="1626.696">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1598.055" offset="6544693">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1601.920" offset="6560158">The probate exception exists precisely to prevent what happened in this case, a Federal court enjoining ongoing probate proceedings in the middle of a probate trial, a Federal court determining that the decedent's estate plan was invalid, a Federal court's reallocation through a damage claim of the decedent's assets, contrary to the value of the estate plan, a Federal court's creation of a novel cause of action--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1626.696" stopTime="1631.739">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1626.696" offset="6659214">Well, is it... is it correct... I just want to be sure I follow you... that they determined that the estate plan was invalid?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1631.739" stopTime="1643.085">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1631.739" offset="6679485">--Correct, Justice Stevens.</text>
+            <text syncTime="1633.000" offset="6684501">At petition appendix 123 to 126, the district court determined that the... that J. Howard's living trust was a forgery, that there were pages that were substituted--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1643.085" stopTime="1692.971">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1643.085" offset="6724834">But this is all... this has nothing... I mean, I... you have the total differently... different understanding than I do of this case, and I did read Judge Carter's opinion.</text>
+            <text syncTime="1650.306" offset="6753673">I thought that case simply held that because your clients had interfered with an effort by J. Howard to give quite a few millions of dollars to Vickie Marshall... because of that interference, they had committed the tort of inter vivos interference with a gift, and they had to pay damages.</text>
+            <text syncTime="1671.732" offset="6839354">Now, they said a lot of things by way of what the evidence was.</text>
+            <text syncTime="1675.331" offset="6853774">Indeed, they did say, as you point out, that your clients forged three pages of the will.</text>
+            <text syncTime="1681.969" offset="6880314">But that was simply evidence of their bad intent, and it did not invalidate anything in the probate proceeding, as I read it.</text>
+            <text syncTime="1690.627" offset="6915005">Now, what have I said that's not right?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1692.971" stopTime="1708.099">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1692.971" offset="6924409">--Justice Breyer, the answer to your question, I think, depends upon the fact that opposing counsel has studiously avoided actually reviewing what his claim is.</text>
+            <text syncTime="1700.951" offset="6956279">I think we have to focus on the... her exact claim.</text>
+            <text syncTime="1704.150" offset="6969026">As a matter of fact and as a matter of law, she did not prevail--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1708.099" stopTime="1711.388">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1708.099" offset="6984909">I'm not interested in what he said.</text>
+            <text syncTime="1708.932" offset="6988252">I'm interested in what Judge Carter said--</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1711.388" stopTime="1712.054">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1711.388" offset="6998074">--Correct, Your Honor.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1712.054" stopTime="1717.414">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1712.054" offset="7000687">--because that, it seems to me, is... and what is it that Judge Carter did that was wrong in this respect?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1717.414" stopTime="1779.477">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1717.414" offset="7022107">Judge... Judge Carter understood quite clearly that in order for her claim to proceed as a matter of fact and as a matter of law, he had to invalidate her living trust.</text>
+            <text syncTime="1726.238" offset="7057425">And let me explain why that was so.</text>
+            <text syncTime="1727.749" offset="7063485">That was so because her claim is that J. Howard intended to give her a catchall trust.</text>
+            <text syncTime="1734.208" offset="7089294">The argument is that Pierce blocked the catchall trust from being funded by rendering the living trust irrevocable in July of 1994.</text>
+            <text syncTime="1744.877" offset="7132030">Judge Carter found that the catchall trust was drafted in December of 1994.</text>
+            <text syncTime="1750.598" offset="7154914">She can only have a claim... now, all of J. Howard's assets were in the living trust.</text>
+            <text syncTime="1755.296" offset="7173617">She can only have a claim... the catchall trust could only have been funded or prevented from being funded if the living trust was, in fact, validly rendered irrevocable.</text>
+            <text syncTime="1765.121" offset="7213010">To prevent... to... to counter that, she says, no, the living trust was invalid.</text>
+            <text syncTime="1770.169" offset="7233177">As a matter of fact, she can have no claim unless the living trust is rendered invalid.</text>
+            <text syncTime="1774.529" offset="7250626">Judge Carter understood that and he expressly concluded that it was a forgery.</text>
+            <text syncTime="1778.811" offset="7267763">Now--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1779.477" stopTime="1791.658">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1779.477" offset="7270375">Isn't... isn't it the case that she can have her claim and she can prove her claim, but she may not be able to collect the judgment unless the living trust is invalid?</text>
+            <text syncTime="1788.970" offset="7308409">But that's not what we're litigating here, is it?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1791.658" stopTime="1815.767">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1791.658" offset="7319067">--Your Honor, as a matter of law, she cannot have her claim because the two cases we rely on, Neill v. Yett and Thompson v. Deloitte, the two Texas cases, establish as a predicate to any tortious interference claim, she must demonstrate that the estate plan, the living trust, was invalid as a matter of Texas law.</text>
+            <text syncTime="1810.574" offset="7394822">And that is exclusively under Texas law for the Texas probate court to decide.</text>
+            <text syncTime="1814.606" offset="7410914">Now--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1815.767" stopTime="1827.947">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1815.767" offset="7415511">Why does she have to show that is invalid as distinct from showing that another trust, favorable to her, was not created and it was not created because of the tortious conduct of your client?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1827.947" stopTime="1842.064">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1827.947" offset="7464308">--Because, Justice Souter, under Texas law when the... the probate court determines the validity of an estate plan, it forecloses, as a matter of law, all expectancies contrary to those that are part of the estate plan.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1842.064" stopTime="1850.627">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1842.064" offset="7520732">Well, let me... let me stop you there because this is something I didn't understand in the brief.</text>
+            <text syncTime="1845.929" offset="7536197">You speak of the Texas probate court determining the validity of an estate plan.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1850.627" stopTime="1851.111">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1850.627" offset="7555005">Correct.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1851.111" stopTime="1856.847">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1851.111" offset="7556886">I take it the Texas probate court determined the validity of a will here.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1856.847" stopTime="1857.447">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1856.847" offset="7579874">Correct.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1857.447" stopTime="1862.640">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1857.447" offset="7582277">It determined the validity of... of a pourover trust.</text>
+            <text syncTime="1861.229" offset="7597428">Is that correct?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1862.640" stopTime="1864.068">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1862.640" offset="7603070">Yes, Your Honor, it did.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1864.068" stopTime="1864.452">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1864.068" offset="7608713">All right.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1864.452" stopTime="1864.996">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1864.452" offset="7610280">The living trust.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1864.996" stopTime="1881.374">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1864.996" offset="7612474">All right.</text>
+            <text syncTime="1865.629" offset="7614982">Isn't it the case that the two Texas determinations can be respected and still, in the Federal court, enter a judgment for tort liability against your client?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1881.374" stopTime="1893.720">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1881.374" offset="7677990">No, Justice Souter, and the reason why is because her cause of action is a State law cause of action, and under Texas law, putting aside the fact that no Texas court has ever recognized a cause of action for tortious interference--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1893.720" stopTime="1896.909">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1893.720" offset="7727309">That's in... you may be right on that, but that's not what... what we're here for.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1896.909" stopTime="1915.308">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1896.909" offset="7740161">--Right.</text>
+            <text syncTime="1897.369" offset="7741937">Putting that aside, under Texas law... and the Deloitte case and the Neill v. Yett case conclusively established this, and there's no contrary decisions in Texas... that once the probate court determines an estate plan is valid, it conclusively determines the universe of persons with legitimate expectancies.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1915.308" stopTime="1941.439">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1915.308" offset="7813722">But when you speak of estate plan, you are... you seem to be talking in global terms; i.e., that there could have been no other disposition of assets by the decedent or on behalf of the decedent except those which the Texas court is recognizing, the trust, the will.</text>
+            <text syncTime="1934.375" offset="7889999">Is that what the Texas court does, or does the Texas court say, the will is good, the trust is good?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1941.439" stopTime="1946.815">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1941.439" offset="7918212">The Texas courts have conveniently described for us Justice... Justice Souter--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1946.815" stopTime="1949.586">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1946.815" offset="7939737">In other words, is it preclusive of everything else?</text>
+            <text syncTime="1948.659" offset="7947155">That's what I'm getting at.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="1949.586" stopTime="1977.551">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="1949.586" offset="7950812">--Yes, exactly so, Justice Souter.</text>
+            <text syncTime="1951.864" offset="7959903">And in the Thompson case itself, the... the Texas court says, when the probate court admitted the 1989 will to probate, it necessarily found that Mr. Thompson signed the will with testamentary capacity and that it reflected his intent, was not the result of coercion or under influence, and was valid.</text>
+            <text syncTime="1969.931" offset="8032210">And the court continued, as a matter of law, the final probate court judgment bars any claim that appellees tortiously interfered with any--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1977.551" stopTime="2002.254">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1977.551" offset="8062721">But that... that sounds to me like a matter of preemption, but... but... or not preemption but, you know, res judicata.</text>
+            <text syncTime="1983.104" offset="8084873">But just out of curiosity or... because I think it is relevant, did the Texas probate court have in front of it the documents among the lawyers that the district judge, Judge Carter, relied upon in showing that there was an intent to create the catchall trust?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2002.254" stopTime="2003.432">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2002.254" offset="8161464">--Yes, Justice Breyer.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2003.432" stopTime="2004.526">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2003.432" offset="8166166">It had all those documents.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2004.526" stopTime="2014.600">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2004.526" offset="8170554">Yes, Justice Breyer.</text>
+            <text syncTime="2005.542" offset="8174630">Everything that the district court had and more was examined, adjudicated in the 5-and-a-half-month jury trial in the Texas probate court exhaustively.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2014.600" stopTime="2022.081">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2014.600" offset="8210888">So why isn't that, as Justice Breyer prefaced his question, an issue of preclusion rather than, as you frame it, an issue of jurisdiction?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2022.081" stopTime="2044.753">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2022.081" offset="8240772">Chief Justice Roberts, the probate exception has always been jurisdictional, and the reason why it can't be subsumed by res judicata or collateral estoppel... we believe we win on those grounds, but the reason why the probate exception can't be subsumed within those doctrines is because it applies even before you have a State court judgment.</text>
+            <text syncTime="2040.404" offset="8314123">It prevents a Federal court from determining an estate plan from being invalidated--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2044.753" stopTime="2081.552">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2044.753" offset="8331469">Why should it?</text>
+            <text syncTime="2045.297" offset="8333663">The probate exception is court-created.</text>
+            <text syncTime="2048.635" offset="8347038">Congress passed no law that said it.</text>
+            <text syncTime="2052.067" offset="8360726">Congress gave the Federal courts jurisdiction in certain categories of cases and expected them to exercise that jurisdiction.</text>
+            <text syncTime="2062.159" offset="8401163">Since our jurisdiction is statutory and the probate exception was made up by the courts, shouldn't we interpret it as narrowly as possible, perhaps even do away with it because it lacks any statutory basis?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2081.552" stopTime="2111.621">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2081.552" offset="8478695">--Justice Ginsburg, the probate exception, like the domestic relations exception, is best conceived as a presumption that when Congress establishes a font of Federal jurisdiction, it does not intend that jurisdiction to be extended to interfere with probate proceedings.</text>
+            <text syncTime="2097.765" offset="8543583">That is properly a jurisdictional doctrine in this case because it is never appropriate for a bankruptcy court to invalidate or validate a will and... or an estate plan.</text>
+            <text syncTime="2108.350" offset="8585901">And that is a necessary element of Vickie's claim.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2111.621" stopTime="2126.917">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2111.621" offset="8598963">Well, you say... you say an... an estate plan.</text>
+            <text syncTime="2113.132" offset="8605023">Most people would think insurance policies are part of their estate plan, and if it's alleged that there was a fraudulent alteration of the beneficiary designation in the insurance policies, is that within the Texas probate court jurisdiction?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2126.917" stopTime="2133.804">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2126.917" offset="8660194">Justice Kennedy, no.</text>
+            <text syncTime="2129.094" offset="8668866">Here we have... when I say estate plan, I mean the living trust and the will operating together.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2133.804" stopTime="2145.389">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2133.804" offset="8687674">Well, there's... there's a further irony here in that revocable trusts are always promoted on the grounds that it keeps us out of probate.</text>
+            <text syncTime="2142.701" offset="8723306">And now you're... you're insisting that it has to be in probate.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2145.389" stopTime="2169.199">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2145.389" offset="8734068">Well, Justice Kennedy, the living trust here did two things that a will does.</text>
+            <text syncTime="2151.276" offset="8757578">It provided for the succession of J. Howard's property upon his death, and it provided for the payment of his last... last illness expenses and his... his debts.</text>
+            <text syncTime="2161.618" offset="8798956">It is quintessentially a will substitute in the sense that it also provides for the succession of his property.</text>
+            <text syncTime="2168.421" offset="8826123">In this case--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2169.199" stopTime="2174.891">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2169.199" offset="8829258">But it isn't probated.</text>
+            <text syncTime="2170.176" offset="8833229">That's... it is, indeed, a will substitute.</text>
+            <text syncTime="2172.864" offset="8843887">The whole purpose of doing it is to avoid probate.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2174.891" stopTime="2191.503">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2174.891" offset="8852037">--But in this case, Justice Scalia, the will and the... the living trust acted together.</text>
+            <text syncTime="2180.334" offset="8873771">The probate court had exclusive jurisdiction over both of them and the challenges to them.</text>
+            <text syncTime="2184.793" offset="8891639">Vickie challenged the living trust, even before J. Howard died.</text>
+            <text syncTime="2188.482" offset="8906372">Those proceedings continued on in the probate court, and--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2191.503" stopTime="2211.086">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2191.503" offset="8918492">Well, but as Justice Breyer indicated, can't you just, for purposes of understanding the cause of action as asserted by Vickie Marshall here, just say, we will assume the trust is valid, we will assume the will is valid?</text>
+            <text syncTime="2206.204" offset="8977320">All we're saying was that there's a tort and he's going to be liable to us in tort.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2211.086" stopTime="2217.039">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2211.086" offset="8996860">--Because, Justice Kennedy, again, the critical element of her cause of action is the invalidity of the trust as a matter of fact and law.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2217.039" stopTime="2266.686">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2218.216" offset="9025386">Why?</text>
+            <text syncTime="2218.783" offset="9027580">That is to say, what the finding is, is that there was a different matter, a catchall trust, and he told the lawyers, go draw it up so I can give gifts to her, the increase in the value of my property during the 13 months we're married, do it, and they never did it.</text>
+            <text syncTime="2237.950" offset="9104275">Now, that seems to have nothing whatsoever to do with the GRAT trust or with the will.</text>
+            <text syncTime="2244.253" offset="9129457">It just happens that those are evidentiary, what went on there, of what likely happened with the catchall trust.</text>
+            <text syncTime="2251.902" offset="9160073">So I don't see why those are necessary.</text>
+            <text syncTime="2254.840" offset="9171880">I don't see why they're more than evidentiary, and I don't see whether or not those are barred, those particular facts have anything to do with this, as far as jurisdiction is concerned.</text>
+            <text syncTime="2264.581" offset="9210750">Now, explain to me why I'm wrong.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2266.686" stopTime="2302.808">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2266.686" offset="9219214">Certainly, Justice Breyer.</text>
+            <text syncTime="2267.452" offset="9222244">First of all, Texas has the right to prescribe the elements of its own causes of action, and under Texas law, her cause of action depends upon two critical things, a legitimate expectancy J. Howard intended to do this for her, and the second, tortious conduct of some kind.</text>
+            <text syncTime="2284.992" offset="9292461">Her claim... she tries to meet those two critical elements by showing two things.</text>
+            <text syncTime="2289.701" offset="9311270">One, that J. Howard intended to give me this... this gift in the form of this... this trust, and that it was tortiously interfered with because the living trust was rendered irrevocable.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2302.808" stopTime="2304.152">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2302.808" offset="9363723">Well, that's just one of the things.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2304.152" stopTime="2304.819">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2304.152" offset="9369052">But it's--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2304.819" stopTime="2329.278">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2304.819" offset="9371769">Among other things that went on were they hired private detectives to go after Vickie from the bed.</text>
+            <text syncTime="2310.028" offset="9392563">I mean, you've read that opinion and they're like about 30 things in there.</text>
+            <text syncTime="2313.977" offset="9408341">And I grant you that one of those things is the fact that three pages of the living trust, according to the judge, were created after the event of that trust and slipped in without his knowledge.</text>
+            <text syncTime="2328.262" offset="9465497">I mean, it's quite a story.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2329.278" stopTime="2330.189">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2329.278" offset="9469572">--Of course, Your Honor--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2330.189" stopTime="2343.546">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2330.189" offset="9473229">And... and so I... but as I read it, there were many, many, many things involved here, and this is just one of them.</text>
+            <text syncTime="2336.148" offset="9497052">So how can Texas say that you have to prove this particular one as... as opposed to proving a lot of others?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2343.546" stopTime="2384.950">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2343.546" offset="9526623">--Justice Breyer, of course, as an aside, we went to great pains in the Ninth Circuit to demonstrate why all those findings were clearly erroneous and not based on the evidence.</text>
+            <text syncTime="2353.455" offset="9566329">But assuming them to be so, which we dispute, again, looking at her claim, that is the critical element of her claim.</text>
+            <text syncTime="2360.341" offset="9593810">If, in fact, there... if, in fact, the living trust was made revocable, then at any point in time, he could have funded, if... if he had it as revocable until his death, he could have funded her gift that she alleges and she would have no damage claim.</text>
+            <text syncTime="2376.802" offset="9659639">It is because of the trust becoming irrevocable that he was prevented from doing it.</text>
+            <text syncTime="2383.606" offset="9686910">That is her claim.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2384.950" stopTime="2391.504">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2384.950" offset="9692239">Yes, but her claim is assume it's been made irrevocable.</text>
+            <text syncTime="2389.149" offset="9709062">I just want some money from this guy.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2391.504" stopTime="2392.254">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2391.504" offset="9718466">Correct.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2392.254" stopTime="2405.860">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2392.254" offset="9721497">That's all she's saying, as I understand it.</text>
+            <text syncTime="2394.108" offset="9728915">She... she can... as I understand her cause of action, it can proceed on the assumption the will is valid, the... the trust is valid.</text>
+            <text syncTime="2403.683" offset="9767159">Just give me the money that I would have had.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2405.860" stopTime="2429.303">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2405.860" offset="9775936">Justice Souter, as a matter of Texas law, she cannot establish a legitimate expectancy.</text>
+            <text syncTime="2411.321" offset="9797774">Again, once the probate court... and the probate court alone has the right to determine the validity of an estate plan.</text>
+            <text syncTime="2417.041" offset="9820657">Once the probate court has determined that as a matter of Texas law, all claims about expectancies contrary to those provided in the... in the plan are foreclosed.</text>
+            <text syncTime="2427.115" offset="9860990">That's the Thompson case and the Neill case.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2429.303" stopTime="2453.413">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2429.303" offset="9869663">You're arguing a preclusion question, and if the Ninth Circuit thought it had jurisdiction, it could have tested what you say about Texas law.</text>
+            <text syncTime="2437.617" offset="9902995">There's no finding in this record of what Texas law is other than what you have just told us, and perhaps you're right and perhaps you're not.</text>
+            <text syncTime="2445.682" offset="9935178">But the Ninth Circuit said the Federal door is closed to this probate exception, and that's what we're here to decide.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2453.413" stopTime="2490.879">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2453.413" offset="9966107">Justice Ginsburg, preclusion will also not work.</text>
+            <text syncTime="2459.622" offset="9990976">Res judicata and collateral estoppel will also not work because the parties in the Federal proceeding are merely a subset of the parties in the probate court.</text>
+            <text syncTime="2467.864" offset="10023890">The probate court's judgment is unique because it has a binding-against-the-world effect.</text>
+            <text syncTime="2472.979" offset="10044370">Federal courts cannot pull chunks of the critical issues into the Federal courts because doing so creates an inconsistency of judgments potentially.</text>
+            <text syncTime="2481.127" offset="10076971">Where the Federal court only has part of the parties before it, the Federal court has all... the probate court has all the parties before it.</text>
+            <text syncTime="2488.108" offset="10104870">The probate court's judgment is binding against the world--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2490.879" stopTime="2532.628">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2490.879" offset="10115946">I think it... it may be that there's another side to that story.</text>
+            <text syncTime="2494.567" offset="10130783">For example, I think the bankruptcy court was heard from first.</text>
+            <text syncTime="2499.277" offset="10149591">Arguably, that's binding on the Texas court.</text>
+            <text syncTime="2504.153" offset="10169131">Whether the bankruptcy court was right or wrong, it would get full faith and credit.</text>
+            <text syncTime="2510.130" offset="10192954">That's one argument.</text>
+            <text syncTime="2511.540" offset="10198597">Another is perhaps you can explain to me how this all started because I thought that there was a claim made against her in the bankruptcy court for defamation.</text>
+            <text syncTime="2524.897" offset="10252096">Then the claim that she asserts is a compulsory counterclaim.</text>
+            <text syncTime="2530.023" offset="10272576">She has to make it there or she'll lose it.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2532.628" stopTime="2562.030">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2532.628" offset="10283025">--No, Justice Ginsburg, the claim was not a compulsory counterclaim.</text>
+            <text syncTime="2535.899" offset="10296086">The action which was... that Pierce commenced in the... in the bankruptcy court was merely to ask the bankruptcy court to decide that if he had a debt against... if he had a claim against her she owed him money, it would be nondischargeable in bankruptcy.</text>
+            <text syncTime="2550.517" offset="10354496">She then used that opportunity to pursue this tortious interference claim against Pierce that she was already pursuing in the probate court.</text>
+            <text syncTime="2558.498" offset="10386470">So because there was a prior pending proceeding where she had made the claim--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2562.030" stopTime="2573.622">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2562.030" offset="10400576">I... I didn't understand the pleading to say if I have a claim, it would be nondischargeable.</text>
+            <text syncTime="2566.979" offset="10420429">I thought he made a claim.</text>
+            <text syncTime="2568.506" offset="10426489">He made... filed a claim for defamation in the bankruptcy proceeding.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2573.622" stopTime="2585.801">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2573.622" offset="10446969">--Justice Ginsburg, Pierce did not ask the bankruptcy court to decide the claim.</text>
+            <text syncTime="2577.237" offset="10461389">He only... he only asked for the bankruptcy court to decide whether it was nondischargeable or not.</text>
+            <text syncTime="2582.447" offset="10482287">But even so... even so, I think it's important to recognize--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2585.801" stopTime="2595.209">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2585.801" offset="10495661">He would have to say I have a claim because the bankruptcy court is not going to decide a hypothetical if he has a claim.</text>
+            <text syncTime="2592.438" offset="10522202">He has to at least assert I have a claim.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2595.209" stopTime="2602.429">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2595.209" offset="10533278">--But bankruptcy judges do that, Justice Ginsburg.</text>
+            <text syncTime="2597.897" offset="10544040">They decide only the nondischargeability aspect of claims rather than the claims themselves.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2602.429" stopTime="2605.712">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2602.429" offset="10562221">It has to be a real claim.</text>
+            <text syncTime="2603.857" offset="10567864">It can't be if I have a claim.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2605.712" stopTime="2632.259">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2605.712" offset="10575283">No, Justice Ginsburg, because the nondischargeability jurisdiction in bankruptcy is unique.</text>
+            <text syncTime="2611.855" offset="10599942">You allow the claim to be determined in a proper court of competent jurisdiction, and then the bankruptcy court decides whether it's nondischargeable or not.</text>
+            <text syncTime="2620.246" offset="10633483">That's how it should proceed particularly where, as here, her claim requires, as... in order for it to... to be valid, to determine the validity or nonvalidity of J. Howard's estate plan.</text>
+            <text syncTime="2630.832" offset="10675802">Now, the United States--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2632.259" stopTime="2651.826">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2632.259" offset="10681549">Counsel, I don't... I don't see how the interference with the probate court that you're articulating is any greater than the interference in Markham.</text>
+            <text syncTime="2640.491" offset="10714463">In Markham, it was a decision by the Federal court that these claimants were not going to claim under the will.</text>
+            <text syncTime="2647.544" offset="10742675">Why is... isn't that even greater than the interference you're complaining of?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2651.826" stopTime="2675.686">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2651.826" offset="10759812">--No, Chief Justice Roberts.</text>
+            <text syncTime="2653.003" offset="10764514">You can readily divide the Court's precedents into categories, those where there was impermissible interference and therefore no jurisdiction, and those where there isn't.</text>
+            <text syncTime="2663.422" offset="10806205">On the impermissible interference side, you have a case like a Federal court cannot determine the validity of an estate plan, Armstrong, Gaines v. Chew.</text>
+            <text syncTime="2673.664" offset="10847165">A Federal... a Federal court cannot determine--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2675.686" stopTime="2678.207">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2675.686" offset="10855211">Was it an estate plan or a will?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2678.207" stopTime="2679.301">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2678.207" offset="10865346">--In Sutton--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2679.301" stopTime="2702.733">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2679.301" offset="10869630">I mean, you... you... you're stretching the probate concept from determining whether the will is valid or invalid and who inherits under the will to also determining what goes into the probate estate, that is, the insurance policies, the trust, and so forth.</text>
+            <text syncTime="2698.284" offset="10945594">That to me is... is something quite different from probating a will.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2702.733" stopTime="2718.101">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2702.733" offset="10963462">--Justice Scalia, the probate exception protects the integrity of the succession process.</text>
+            <text syncTime="2708.626" offset="10986972">If the documents you're looking at deal with the succession of the property, as the living trust and will do in this case, it is encompassed within the probate exception in Sutton--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2718.101" stopTime="2729.197">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2718.101" offset="11024902">No, I don't... I don't see your... your logic there.</text>
+            <text syncTime="2720.205" offset="11033261">Of course, it protects the succession process, but it does not follow that everything that implicates a succession process falls within the probate exception.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2729.197" stopTime="2739.950">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2729.197" offset="11069310">--Correct.</text>
+            <text syncTime="2729.813" offset="11071714">Correct, Justice Souter.</text>
+            <text syncTime="2730.457" offset="11074326">But here the succession was determined under the living trust, and in Sutton v. English, that's exactly the same scenario.</text>
+            <text syncTime="2738.356" offset="11105882">Moses Hubbard left a--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2739.950" stopTime="2748.097">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2739.950" offset="11112256">If... if there had been a joint bank account, the succession would have been determined based on the validity of the joint bank account, and that certainly wouldn't have fallen within the probate exception.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2748.097" stopTime="2774.290">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2748.097" offset="11144857">--Because the joint... where you have the equivalent of tenancies in the entirety, I'd say that's a separate issue.</text>
+            <text syncTime="2755.317" offset="11173696">Here, however, the living trust performed all the functions of a traditional will, unlike a joint bank account.</text>
+            <text syncTime="2761.704" offset="11199296">In the Sutton case, you had both a will and a trust, just like in this case.</text>
+            <text syncTime="2766.319" offset="11217790">There, Moses Hubbard left a will and a trust.</text>
+            <text syncTime="2770.008" offset="11232523">Mary Jane Hubbard enjoyed the benefits of the trust for her life.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2774.290" stopTime="2781.104">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2774.290" offset="11249660">Does... does Texas law provide that a... a living trust must be executed and administered with the formalities of a will?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2781.104" stopTime="2784.458">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2781.104" offset="11276932">Not quite the same, Justice Souter.</text>
+            <text syncTime="2783.548" offset="11286649">Not quite the same.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2784.458" stopTime="2789.501">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2784.458" offset="11290306">Then... then you have to get beyond our probate exception cases to cover the living trust.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2789.501" stopTime="2811.773">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2789.501" offset="11310473">But in Sutton v. English, there was both a will and a trust, exactly the same as here.</text>
+            <text syncTime="2795.144" offset="11333043">The plaintiffs were just going after the property.</text>
+            <text syncTime="2797.154" offset="11341088">We just want the assets.</text>
+            <text syncTime="2798.909" offset="11348089">We're saying we're not touching the trust and the will.</text>
+            <text syncTime="2801.848" offset="11359897">This Court held... this Court held, wait a minute.</text>
+            <text syncTime="2805.380" offset="11374003">Only the Texas probate courts may determine whether these instruments are valid or not.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2811.773" stopTime="2820.847">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2811.773" offset="11399603">Yes, but she's not... she's not even going after the assets in this case.</text>
+            <text syncTime="2816.882" offset="11419978">She's asserting an in personam claim against the individual.</text>
+            <text syncTime="2820.331" offset="11433771">Correct?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2820.847" stopTime="2839.814">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2820.847" offset="11435861">She is, but that's exactly the same as Broderick's Will, Chief Justice Roberts, an in personam claim against the beneficiaries of the allegedly invalid estate plan to impose a constructive trust on them to get the money.</text>
+            <text syncTime="2834.272" offset="11489568">No matter how you dice it or splice it in this case, she is doing an end run around the probate proceeding.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2839.814" stopTime="2842.602">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2839.814" offset="11511720">I don't think they're going to impose a constructive trust, are they?</text>
+            <text syncTime="2841.242" offset="11517467">All... all they're going to say is pay her the money.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2842.602" stopTime="2845.784">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2842.602" offset="11522901">But why are they going to say pay her the money?</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2845.784" stopTime="2897.775">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2845.784" offset="11535648">They're going to say it because they make a finding that through a whole variety of various devices, all of which were listed, that J. Howard, who wanted to give her money through something called the catchall trust was prevented in about 15 ways.</text>
+            <text syncTime="2861.402" offset="11598133">And even if you're right that there's a Texas finding that those three pages weren't slipped in, well, how do we know?</text>
+            <text syncTime="2869.811" offset="11631674">Maybe it was a valid GRAT trust, but if only they hadn't tried to isolate J. Howard from contact with her, J. Howard would have figured out what had happened before he died and he would have told his lawyers, hey, cut this out.</text>
+            <text syncTime="2884.517" offset="11690502">Do what I want.</text>
+            <text syncTime="2885.845" offset="11695831">Revoke it.</text>
+            <text syncTime="2886.389" offset="11698026">But all that is just hypothetical.</text>
+            <text syncTime="2889.543" offset="11710669">I'm just using that to show you why I think this is evidentiary not a matter of what the elements of the crime are... or the elements of the tort are.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2897.775" stopTime="2912.326">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2897.775" offset="11743583">What's not evidentiary, Justice Breyer, is the fact that in order to prove a legitimate expectancy, she must establish that the validated estate plan is in fact invalid.</text>
+            <text syncTime="2909.121" offset="11788932">And under Texas law, that can only be done in the probate court.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2912.326" stopTime="2915.758">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2912.326" offset="11801784">What's the cite on that that I... that I need for--</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2915.758" stopTime="2920.373">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2915.758" offset="11815472">Well, in our brief we cite to many, many cases, Your Honor.</text>
+            <text syncTime="2917.518" offset="11822577">I would... I would specifically refer you to--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2920.373" stopTime="2929.865">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2920.373" offset="11833967">--You're saying you can't bring an inter vivos trust... an inter vivos... interference with an inter vivos gift action in Texas unless you show that a will, for example, is invalid.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2929.865" stopTime="2950.703">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2929.865" offset="11871897">--That's correct, Your Honor, and those are the Neill v. Yett and the Thompson... Thompson v. Deloitte cases, which I was reading to before.</text>
+            <text syncTime="2937.529" offset="11902617">And the Court said as a matter of law, the final probate court judgment bars any claim that appellees tortiously interfered with any inheritance expectancy because, in light of the final invalid probate court judgment, appellant has--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2950.703" stopTime="2959.017">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2950.703" offset="11955279">But that... but that's res judicata.</text>
+            <text syncTime="2951.219" offset="11957369">I mean, that... that isn't necessarily a... an application of... of any probate exception.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2959.017" stopTime="2970.769">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2959.017" offset="11988507">--Justice Scalia, it is not res judicata for the following reason.</text>
+            <text syncTime="2962.122" offset="12000941">Not only may a Federal court not determine the validity or invalidity after the probate court, it may no do so before the probate court has had a chance--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2970.769" stopTime="2972.874">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2970.769" offset="12035528">You say that, but that case doesn't say that.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2972.874" stopTime="2974.301">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2972.874" offset="12043991">--That case doesn't say that.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2974.301" stopTime="2975.562">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2974.301" offset="12049634">What... what case do you have that says that?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="2975.562" stopTime="3011.257">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="2975.562" offset="12054754">The cases... there is no specific case where someone has tried to litigate a tortious interference claim in Federal court before the probate court has had... has had its say.</text>
+            <text syncTime="2987.165" offset="12101147">Under Texas law, however, because of the preclusive effect of that determination, Vickie would be able to come to the probate court and say, look, J. Howard intended to give me this.</text>
+            <text syncTime="3000.005" offset="12152452">It's a finding of intent.</text>
+            <text syncTime="3001.265" offset="12157572">That's preclusive on the probate court.</text>
+            <text syncTime="3003.359" offset="12165931">The probate court would be perhaps prohibited from saying, oh, I can't determine under... that the valid estate plan gives the intent to somebody else.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3011.257" stopTime="3020.416">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3011.257" offset="12197487">But the mere fact that you have jurisdiction to say something does not mean that if... if some other court says the same thing first, you won't be bound by that.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="3020.416" stopTime="3039.898">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="3020.416" offset="12234163">The problem, though, Justice Scalia, is that the probate court is supposed to make that finding in a judgment good against the world.</text>
+            <text syncTime="3027.136" offset="12261017">But all of a sudden, part of the world who has done an end run around the probate proceeding has now gone to some other court for a critical determination of fact that the probate court must decide and always must decide in determining the validity of an estate--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3039.898" stopTime="3072.666">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3039.898" offset="12312112">You... you are suggesting an extraordinary setup with a State court being able to preclude other courts from dealing with related, not identical matters, and that's just not the way our system works.</text>
+            <text syncTime="3054.617" offset="12370940">You can bring duplicative proceedings in different courts.</text>
+            <text syncTime="3057.799" offset="12383688">One will finish first and that will bind the others.</text>
+            <text syncTime="3060.653" offset="12395077">But I... I never heard of a State court being able to say, because we are a probate court, that you... you couldn't bring a tort case someplace else.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="3072.666" stopTime="3073.583">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="3072.666" offset="12443142">--Justice Ginsburg--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3073.583" stopTime="3076.949">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3073.583" offset="12446799">The... the only court I've heard of that can do that is the Federal bankruptcy court.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="3076.949" stopTime="3113.238">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="3076.949" offset="12460279">--Just as a Federal bankruptcy court is in rem and executes and enters some judgments good against the world with respect to some issues, a probate court does the same thing.</text>
+            <text syncTime="3086.774" offset="12499567">You have exactly the same reason why the probate court does it as in the bankruptcy court.</text>
+            <text syncTime="3090.806" offset="12515658">Now, this Court has recognized in Tilt v. Kelsey, for example, that the State has a sovereign interest in deciding the scope of its probate procedure that the State may, this Court said in Broderick's Will, provide for the probate court to enter a judgment good against the world, whether the person was a party to the proceeding or not.</text>
+            <text syncTime="3110.550" offset="12594652">If a... if a Federal court can predetermine--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3113.238" stopTime="3123.740">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3113.238" offset="12605415">That's the definition of an in rem judgment, but she's suing for an in personam judgment an individual, not an estate, just for a plain old money judgment.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="3123.740" stopTime="3139.307">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="3123.740" offset="12647420">--But in a race to judgment, Your Honor, if the Federal court gets to decide this critical issue of intent before the probate court, it preempts the probate court from doing its core probate function of validating or invalidating an estate plan.</text>
+            <text syncTime="3136.086" offset="12696843">That would render our probate system unworkable.</text>
+            <text syncTime="3138.441" offset="12706248">That is why--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3139.307" stopTime="3139.868">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3139.307" offset="12709696">Mr. Brunstad--</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="3139.868" stopTime="3142.224">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="3139.868" offset="12711994">--this is a jurisdictional doctrine.</text>
+            <text syncTime="3141.130" offset="12717010">Yes, Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3142.224" stopTime="3150.288">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3142.224" offset="12721399">--May I ask you two questions?</text>
+            <text syncTime="3142.557" offset="12722757">First, if there were no such animal as the probate exception, would there have been bankruptcy court jurisdiction over your claim?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="3150.288" stopTime="3163.811">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="3150.288" offset="12753581">We argue no, Justice Stevens, because as we argued in the Ninth Circuit, there was not even bankruptcy jurisdiction because the other side never responded to our argument that the outcome of this case would not result in any money going to creditors of her estate.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3163.811" stopTime="3166.155">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3163.811" offset="12807707">So your... you would prevail even if there were no probate exception in your view.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="3166.155" stopTime="3169.354">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="3166.155" offset="12817111">That's our argument.</text>
+            <text syncTime="3166.916" offset="12820141">The Ninth Circuit did not address that ground, Your Honor.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3169.354" stopTime="3196.235">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3169.354" offset="12829859">And my... my second question is I noticed you quoted from a Minnesota Law Review about 250 cases, and the... your opponent pointed out that the... the next sentence of the article said the holdings don't support the generalization.</text>
+            <text syncTime="3184.405" offset="12890150">And I would just like to ask you, apart from the Markham case, what is the case... what holding of a case lends the greatest support to your probate exception argument.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="3196.235" stopTime="3223.949">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="3196.235" offset="12937379">Justice Stevens, I think that the Sutton case is the closest.</text>
+            <text syncTime="3198.923" offset="12948141">The next closest is Broderick's Will.</text>
+            <text syncTime="3200.767" offset="12955560">Sutton again involved both a trust and a will and was a construction of Texas law, which we say the Court has already decided in Sutton, and Texas law, which is undisputed, has the effects which we say it has in the brief.</text>
+            <text syncTime="3213.197" offset="13005297">They did not contest, Justice Ginsburg, our construction or interpretation of Texas law.</text>
+            <text syncTime="3217.396" offset="13022016">I think also that the Court's decisions in Tarver and Fouvergne and also Ellis and O'Callaghan--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3223.949" stopTime="3234.368">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3223.949" offset="13048243">I'm not asking you to rank them.</text>
+            <text syncTime="3225.126" offset="13052945">I don't want a list of cases that have a lot of dicta because some of these cases went off on laches, some went off a lot of different grounds than... than... some of them don't even mention probate.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="3234.368" stopTime="3350.622">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="3234.368" offset="13089934">--Justice Stevens, I think that it's... it would be helpful if I could give you a thumbnail sketch breaking down, what I was trying to do earlier, between those where there's impermissible interference and those where there's not impermissible interference.</text>
+            <text syncTime="3246.121" offset="13136954">The United States' characterization I think is incorrect.</text>
+            <text syncTime="3248.809" offset="13147717">For example, again, this Court has determined there's no jurisdiction for a Federal court to determine the validity of an instrument.</text>
+            <text syncTime="3255.612" offset="13174884">That's the first case in Armstrong v. Lear and also Gaines v. Chew.</text>
+            <text syncTime="3259.144" offset="13189095">Also, this Court has determined there's no Federal jurisdiction to determine the invalidity of an estate plan.</text>
+            <text syncTime="3265.697" offset="13215217">That's Tarver, Fouvergne, and O'Callaghan, Broderick's Will, Sutton, and Ellis.</text>
+            <text syncTime="3269.135" offset="13229010">This Court has determined that Federal courts do not have jurisdiction to administer the probate estate.</text>
+            <text syncTime="3274.512" offset="13250535">That's Byers v. McAuley.</text>
+            <text syncTime="3276.700" offset="13259312">This Court has determined that there is no Federal jurisdiction to take possession of the assets in the probate court.</text>
+            <text syncTime="3281.576" offset="13278747">That is also Broderick's Will.</text>
+            <text syncTime="3283.754" offset="13287524">I'm sorry.</text>
+            <text syncTime="3284.348" offset="13289823">That is Byers v. McAuley.</text>
+            <text syncTime="3285.298" offset="13293689">This Court has determined one may not impose a constructive trust on the beneficiaries as, in essence, a way to get property to them.</text>
+            <text syncTime="3291.734" offset="13319394">That's Broderick's Will and Sutton.</text>
+            <text syncTime="3292.912" offset="13324096">This Court has determined there's no jurisdiction to recover property from the beneficiary because of an alleged invalidity of a will.</text>
+            <text syncTime="3301.736" offset="13359413">That's... that's the Ellis case.</text>
+            <text syncTime="3304.259" offset="13369549">This Court has determined there's no jurisdiction for the Federal court to direct an accounting from the administrator.</text>
+            <text syncTime="3310.635" offset="13395044">That's the Waterman case.</text>
+            <text syncTime="3311.745" offset="13399433">This Court has determined there's no jurisdiction to interfere with the State court's possession of the assets, again Waterman, Williams, Yonley, and Borer.</text>
+            <text syncTime="3319.876" offset="13432034">Now, no jurisdiction.</text>
+            <text syncTime="3322.064" offset="13440706">It's always been a jurisdictional doctrine.</text>
+            <text syncTime="3323.575" offset="13446767">And for the same reasons this Court refused to recharacterize the... the domestic relations exception as a abstention doctrine, the Court should also decline to do so here under the probate exception.</text>
+            <text syncTime="3335.093" offset="13492847">Now, the other side of the schema is when is it permissible for a Federal court to undertake a probate-related matter.</text>
+            <text syncTime="3342.058" offset="13520746">Well, if the State allows the claim, particular claim, to be brought outside its exclusive probate system, then Federal courts may entertain jurisdiction as well.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3350.622" stopTime="3366.834">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3350.622" offset="13555018">By the way, in Texas if you have to go through all this probate stuff and everything, and they want to claim 15 years ago my mother gave a ring to my cousin who stole it, is that precluded to bring that tort action when the person who, you know, was supposed to get it finds out about it?</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="3366.834" stopTime="3374.315">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="3366.834" offset="13619802">Justice Breyer, all claims of incomplete gift, which Vickie's claim is here, compete with an estate plan.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3374.315" stopTime="3389.265">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3374.315" offset="13649790">So... so, in other words, if it... when the guy is 2 years... 15 years old, he gives a ring to somebody, and now he dies at age 93, and when they find out about that incomplete gift at age 15, nobody can bring a lawsuit anymore.</text>
+            <text syncTime="3388.005" offset="13704543">You have to go to the probate court.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="3389.265" stopTime="3399.852">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="3389.265" offset="13709559">If in fact the ring passed under his valid estate plan, yes.</text>
+            <text syncTime="3393.464" offset="13726381">Because the ring passed under the valid estate plan, you have to overturn the estate plan before you say the property goes somewhere else.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3399.852" stopTime="3402.623">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3399.852" offset="13751877">Thank you, counsel.</text>
+          </turn>
+          <turn speaker="g_eric_brunstad_jr" startTime="3402.623" stopTime="3403.473">
+            <label>Mr. G. Eric Brunstad, Jr.</label>
+            <text syncTime="3402.623" offset="13762953">Thank you, Your Honor.</text>
+          </turn>
+        </section>
+        <section startTime="3403.473" stopTime="3624.446">
+          <heading>Rebuttal of Kent L. Richland</heading>
+          <turn speaker="john_g_roberts_jr" startTime="3403.473" stopTime="3405.644">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3403.473" offset="13766401">Mr. Richland, you have 4 minutes remaining.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="3405.644" stopTime="3429.421">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="3405.644" offset="13775074">Thank you, Your Honor.</text>
+            <text syncTime="3411.620" offset="13799002">Justice Breyer, to answer your question about whether the Texas court had all of the material before it that was before the bankruptcy court, the answer to that can be seen at page 45 of the appendix where the district court judge says that there were 400 boxes of documents.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3429.421" stopTime="3432.859">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3429.421" offset="13870159">Yes, but did those documents... did those boxes contain the key documents--</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="3432.859" stopTime="3433.359">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="3432.859" offset="13883952">They did.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3433.359" stopTime="3434.269">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3433.359" offset="13885937">--about the catchall trust?</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="3434.269" stopTime="3622.369">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="3434.269" offset="13889594">They did.</text>
+            <text syncTime="3434.963" offset="13892311">They contained the... perhaps the most key documents, which were the billing records that showed that that trust was actually drafted.</text>
+            <text syncTime="3442.183" offset="13921255">The trust, of course, never saw the light of day, but those billing records reflected that.</text>
+            <text syncTime="3446.815" offset="13939750">And none of that was in front of the Texas probate court.</text>
+            <text syncTime="3450.165" offset="13953124">In addition, Justice Breyer, you mentioned that there were a number of other instances of tortious misconduct that were found by Justice Carter, in addition to the forging of the... of the irrevocability point.</text>
+            <text syncTime="3461.500" offset="13998473">Indeed, Justice Carter found that there were massive transfers of J. Howard's assets to Pierce Marshall in his last days, and those asset transfers were made in exchange for notes that were payable years in the future.</text>
+            <text syncTime="3476.545" offset="14058659">This was after J. Howard had been diagnosed with terminal cancer, after he had had a heart attack.</text>
+            <text syncTime="3482.922" offset="14084154">Annuities were used to pay for those as well.</text>
+            <text syncTime="3486.037" offset="14096589">So that he was essentially stripped of all of his assets by the time he was dead.</text>
+            <text syncTime="3490.569" offset="14114770">There was... there were no assets in the probate estate at that time.</text>
+            <text syncTime="3494.951" offset="14132324">Justice Ginsburg, I would refer you to appendix page 42 where the... the district court indicates that both a proof of claim and an adversary complaint were first filed by Pierce Marshall in the bankruptcy court, and that is, indeed, what caused, several months later, the compulsory counterclaim to be filed in a response.</text>
+            <text syncTime="3519.805" offset="14231694">Mr. Brunstad indicated that what happened here was that while the claim was pending in Texas, it was then brought to the bankruptcy court presumably because there was some dissatisfaction on Ms. Marshall's part as to how the Texas probate court was going.</text>
+            <text syncTime="3538.788" offset="14307658">In fact, page 1 of our reply brief details very specifically the fact that the first time that the tortious interference with gift claim was made was in the bankruptcy court as the compulsory counterclaim.</text>
+            <text syncTime="3553.489" offset="14366486">And I would just conclude by stating that the cause of action that was at issue here was really a very common one.</text>
+            <text syncTime="3566.513" offset="14418522">It's the... not in and of itself, but it's common to make a claim against the estate in debt or that a gift was given, and that may, indeed, diminish the estate that is eventually passed.</text>
+            <text syncTime="3578.265" offset="14465542">But that doesn't invalidate any of the estate planning documents.</text>
+            <text syncTime="3581.548" offset="14478708">It simply means that something that might otherwise have been within the estate was not included in the estate.</text>
+            <text syncTime="3588.684" offset="14507234">That's really all that happened here.</text>
+            <text syncTime="3590.612" offset="14514966">The claim was for tortious interference with gift.</text>
+            <text syncTime="3593.050" offset="14524683">That, indeed, may have diminished the amount or may not have since J. Howard was actually quite an active man at the time that he made this... this gift or intended to make the gift, and was still doing business deals.</text>
+            <text syncTime="3605.823" offset="14575779">He may have increased his... his assets enormously at that point in time.</text>
+            <text syncTime="3609.178" offset="14589154">But in any event, what it certainly does not do is, it does not invalidate an estate plan.</text>
+            <text syncTime="3614.488" offset="14610470">It does not invalidate a will, and it certainly didn't invalidate the trust or the will in this case.</text>
+            <text syncTime="3618.170" offset="14625203">If there are any further questions, I'd be happy to answer them.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3622.369" stopTime="3622.963">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3622.369" offset="14641921">Thank you, counsel.</text>
+          </turn>
+          <turn speaker="kent_l_richland" startTime="3622.963" stopTime="3623.729">
+            <label>Mr. Kent L. Richland</label>
+            <text syncTime="3622.963" offset="14644324">Thank you.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3623.729" stopTime="3624.446">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3623.729" offset="14647354">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

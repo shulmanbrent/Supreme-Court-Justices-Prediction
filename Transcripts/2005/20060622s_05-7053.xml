@@ -1,0 +1,33 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:51:14" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="424714">/xml/cases/2005/05_7053/20060622o_05-7053.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/05-7053_20060622-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="84.010">
+        <title>Dixon v. United States</title>
+        <section startTime="0.000" stopTime="84.010">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="8.135">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88675">Justice Stevens has the opinion in 05-7053, Dixon versus United States.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="8.135" stopTime="84.010">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="8.135" offset="121171">In this case, the petitioner made some purchases of firearms at a gun show and violated two criminal statutes when she did so.</text>
+            <text syncTime="17.091" offset="157011">She was receiving a firearm when under indictment, and she made false statements in connection with the purchases.</text>
+            <text syncTime="24.480" offset="186582">At trial, she did not deny committing the offenses or any of the elements of the offenses, but rather she pleaded the affirmative defense of duress, testifying that she had a boyfriend who had seriously threatened or threatened serious harms to herself and to her two daughters.</text>
+            <text syncTime="41.833" offset="255963">The issue that the case turns on is whether -- on the issue of duress, she had the burden of proving that defense by a preponderance of the evidence or, as she contends, it was the Government’s burden to prove beyond a reasonable doubt that she did not act under duress.</text>
+            <text syncTime="61.808" offset="335898">For reasons stated in the opinion we filed with the Clerk, we agree with the Government’s view that she had the burden of proof on the affirmative defense.</text>
+            <text syncTime="71.348" offset="374037">Justice Kennedy has filed a concurring opinion; Justice Alito has filed a concurring opinion that Justice Scalia has joined; and Justice Breyer has filed a dissenting opinion that Justice Souter has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

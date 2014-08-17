@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:07:09" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="935929">/xml/cases/2000/99_1871/20010305o_99-1871.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2000/trs/99-1871_20010305-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="210.782">
+        <title>Department of Interior v. Klamath Water Users Protective Association</title>
+        <section startTime="0.000" stopTime="210.782">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="11.619">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="92801">99-1871 Department of the Interior versus the Klamath Water Users Protective Association will be announced by Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="11.619" stopTime="210.782">
+            <label>Justice David H. Souter</label>
+            <text syncTime="11.619" offset="139194">This case comes to us on writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="17.455" offset="162600">When the Department of the Interior began developing a plan to provide water allocations among competing users, the Department asked local Indian Tribes to consult with the Department on the matter.</text>
+            <text syncTime="30.005" offset="212755">During roughly the same period, the Department’s Bureau of Indian Affairs filed claims on behalf of one of the tribes in an Oregon State Court water rights adjudication.</text>
+            <text syncTime="42.334" offset="262074">The respondent Klamath Water Users Protective Association, the group whose member’s water rights interests are adverse to those of the tribes, filed suit under the Freedom on Information Act to compel release of communications between the tribes and Bureau of Indian Affairs.</text>
+            <text syncTime="60.998" offset="336785">The Bureau sought to withhold several documents as privileged and therefore covered by Freedom of Information Act Exemption 5, which exempts from disclosure inter or intra-agency memorandums which would not be available by law to a party other than an agency in litigating with the agency.</text>
+            <text syncTime="82.627" offset="423302">The District Court granted the government summary judgment and the Ninth Circuit Reversed.</text>
+            <text syncTime="87.562" offset="442946">We granted certiorari and in a unanimous opinion filed today with the Clerk of the Court, we affirmed the judgment of the Ninth Circuit and hold that the documents are not exempt from disclosure under the Freedom of Information Act.</text>
+            <text syncTime="100.799" offset="495923">There are two conditions we are qualifying as exempt under exemption 5: first, the document source must be a Government agency; second, it must fall within the ambit of some privilege against discovery under standards that would govern litigation against the agency that holds the documents.</text>
+            <text syncTime="120.451" offset="574603">Although the documents in this case may satisfy the second privilege condition, either as attorney work-product or as part of the agency's deliberative process.</text>
+            <text syncTime="131.035" offset="616922">They fail to satisfy the first threshold condition of being inter or intra-agency.</text>
+            <text syncTime="138.091" offset="645134">We have recognized that some Courts of Appeals have held that a document prepared for an agency by a non governmental consultant may none the less qualify as an intra-agency memorandum, where the submissions by outside consultants play essentially the same part in an agency’s deliberative process as documents prepared by agency personnel, and where they do not reflect particular interest, that might be affected by the proposed government action.</text>
+            <text syncTime="167.941" offset="764461">The tribes on the contrary necessarily communicate with the department, with their own albeit entirely legitimate interests in mind.</text>
+            <text syncTime="176.869" offset="800197">Interests that are in competitions with those of other seeking benefits that are inadequate to satisfy everyone.</text>
+            <text syncTime="183.880" offset="828305">Nor is it enough to pull these documents within Exemption 5 to say that compelled release of the documents would impair the Department’s performance of its fiduciary obligations to the tribes.</text>
+            <text syncTime="197.713" offset="883580">There is simply no support for reading the Indian trust exemption into the statute which we read strictly to serve the Freedom of Information Act mandate of broad disclosure.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

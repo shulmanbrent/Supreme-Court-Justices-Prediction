@@ -1,0 +1,35 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1990-04-18</transcribed>
+        <edit user="tschaefer" date="2012-07-02T13:57:00" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="byron_r_white"/>
+        <identified user="tschaefer">2012-07-02</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:02:49" startTime="0.000" oldSpeaker="byron_r_white" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="203836">/xml/cases/1989/88_1000/19900418o_88-1000.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1989/88-1000_19900418-opinion.xml</sourceFile>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="29.179">
+        <title>New York v. Harris</title>
+        <section startTime="0.000" stopTime="7.032">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.032">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87121">The opinions of the Court in five cases will be announced by Justice White.</text>
+          </turn>
+        </section>
+        <section startTime="7.032" stopTime="29.179">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="byron_r_white" startTime="7.032" stopTime="29.179">
+            <label>Justice Byron R. White</label>
+            <text syncTime="7.032" offset="115229">Opinions have been filed with the Clerk explaining the actions taken in the following five cases.</text>
+            <text syncTime="14.676" offset="145740">First, in No. 88-1000, New York against Harris, we reverse the decision of the New York Court of Appeals by a five-to-four vote.</text>
+            <text syncTime="23.642" offset="181684">Justice Marshall, joined by Justices Brennan, Blackmun, and Stevens, has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

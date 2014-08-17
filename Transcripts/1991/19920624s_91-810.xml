@@ -1,0 +1,49 @@
+<transcript verified="true">
+      <history>
+        <edit user="jgoldman" date="2014-01-15T14:29:37" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1005345">/xml/cases/1991/91_810/19920624o_91-810.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/91-810_19920624-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="229.695">
+        <title>City of Burlington v. Dague</title>
+        <section startTime="0" stopTime="229.695">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.015">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90850">The opinion of the Court in No. 91-810, Burlington against Dague will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="8.015" stopTime="229.695">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="8.015" offset="122824">I am sorry, I am up again right away.</text>
+            <text syncTime="11.816" offset="138079">This case is here on petition for certiorari to the United States Court of Appeals for the Second Circuit.</text>
+            <text syncTime="19.531" offset="168904">It presents a question that we addressed but did not resolve five years ago in the case of Pennsylvania versus Delaware Valley Citizens' Council for Clean Air, otherwise known as Delaware Valley II.</text>
+            <text syncTime="31.757" offset="217805">That question is whether under the typical federal statute awarding attorney's fees to a prevailing party, a court may enhance the fee award above the so-called lodestar amount.</text>
+            <text syncTime="45.116" offset="271304">I will describe what that is.</text>
+            <text syncTime="46.869" offset="278305">Whether a court may enhance it above that in order to reflect the fact that the party's attorneys were retained on a contingent fee basis and thus, assume the risk of receiving no payment at all for their services if their clients were to lose the case.</text>
+            <text syncTime="61.767" offset="337864">The respondents here owned land in Vermont adjacent to landfill owned and operated by the City of Burlington.</text>
+            <text syncTime="69.154" offset="367434">They sued the city over its operation of the landfill.</text>
+            <text syncTime="72.737" offset="381750">The District Court ruled that the City had violated provisions of the Solid Waste Disposal Act and the Clean Water Act and it determined that respondents were the substantially prevailing parties under the fee award provisions of the statute and, therefore, were entitled to their attorney's fees.</text>
+            <text syncTime="88.313" offset="444026">In calculating the fee award, the District Court first determined the lodestar amount.</text>
+            <text syncTime="95.396" offset="472342">That is done by taking the number of hours reasonably expended by the attorneys and multiplying those hours by a reasonable hourly rate for the attorneys.</text>
+            <text syncTime="106.416" offset="516437">The District Court then went on, however, to augment that lodestar amount by 25% on the ground that the respondents' attorneys were retained on a contingent fee basis and that without such enhancement respondents would have faced substantial difficulties in obtaining suitable counsel.</text>
+            <text syncTime="125.977" offset="594700">The Court of Appeals affirmed the fee award.</text>
+            <text syncTime="128.690" offset="605567">We, today, reverse the Court of Appeals and adapt the position taken in Justice White's principal opinion in Delaware Valley II.</text>
+            <text syncTime="137.600" offset="641198">So you will have the rare occasion today to hear one of Justice White's opinions even if second hand from the Bench.</text>
+            <text syncTime="156.691" offset="717580">We hold that the fee shifting statutes at issue do not permit enhancement of the lodestar amount on account of contingency.</text>
+            <text syncTime="164.850" offset="750181">Respondents request us to adapt the position advocated by the concurrence in Delaware Valley II under which contingency enhancement would be permitted in some circumstances.</text>
+            <text syncTime="173.366" offset="784244">For reasons explained more fully in our opinion, we believe that position is unworkable and largely circular and would not promote its supposed goal of mirroring market incentives.</text>
+            <text syncTime="182.835" offset="822174">We also conclude more generally that no contingency enhancement is compatible with the fee shifting statutes at issue because it would in effect pay for the attorney's time or anticipated time in cases where his client does not prevail and is thus, at odds with the prevailing party language of the statutes.</text>
+            <text syncTime="201.338" offset="896153">Moreover, contingency enhancement is inconsistent with our general rejection of the contingent fee model in favor of the lodestar model as the method for determining fee awards and is not necessary to the determination of a reasonable fee.</text>
+            <text syncTime="214.525" offset="948920">Finally, it would create burdensome satellite litigation by making the setting of fees more complex and arbitrary.</text>
+            <text syncTime="221.529" offset="976923">Justice Blackmun has filed a dissenting opinion which Justice Stevens has joined, and Justice O'Connor has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

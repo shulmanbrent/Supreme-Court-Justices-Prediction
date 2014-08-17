@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:08:55" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="603764">/xml/cases/2000/99_1132/20010220o_99-1132.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2000/trs/99-1132_20010220-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="127.765">
+        <title>Illinois v. McArthur</title>
+        <section startTime="0.000" stopTime="127.765">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.604">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="92704">The opinion of the Court in No. 99-1132, Illinois versus McArthur will be announced by Justice Breyer.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="9.604" stopTime="127.765">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="9.604" offset="131052">Tera McArthur asked two police officers to accompany her to a trailer home where she lived with her husband Charles, so that she could take her belongings out of the home.</text>
+            <text syncTime="21.133" offset="177236">Just after she came out of the trailer with her things she told the police that Charles had some drugs inside.</text>
+            <text syncTime="28.652" offset="207225">The police knocked, they asked Charles if they could search, he said no, he then came out of the trailer and eventually one of the policeman stopped Charles from going back into the trailer while the other one went off to get a warrant.</text>
+            <text syncTime="43.861" offset="268142">The Illinois Court later held at the trial of Charles McArthur that this police restrained stopping him from going back into the trailer, while they were going to look for a search warrant, violated the Fourth Amendment.</text>
+            <text syncTime="61.627" offset="339195">Today we disagree with that conclusion.</text>
+            <text syncTime="64.705" offset="351421">We have examined the restraint that the police imposed in order to decide whether it was reasonable in Fourth Amendment terms, and we conclude that it was.</text>
+            <text syncTime="75.087" offset="393008">The police had probable cause to believe that McArthur’s trailer home contain drugs.</text>
+            <text syncTime="81.106" offset="417040">There are both evidence of a crime and contraband.</text>
+            <text syncTime="84.560" offset="430937">They had good reason to fear that unless restrained Charles McArthur would destroy the drugs before they could come back with the warrant.</text>
+            <text syncTime="92.688" offset="463434">They imposed the restraint for a limited time, two hours; during that time they acted with diligence to obtain a warrant, and hence consequently in imposing this limited restraint for a limited time they made reasonable efforts to reconcile law enforcement needs with the demands of personal privacy.</text>
+            <text syncTime="112.521" offset="542742">We do not believe the Fourth Amendment requires more.</text>
+            <text syncTime="116.154" offset="557266">For these and related reasons we revere the Illinois Court’s contrary determination.</text>
+            <text syncTime="121.620" offset="579104">Justice Souter has filed a concurring opinion; Justice Stevens has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

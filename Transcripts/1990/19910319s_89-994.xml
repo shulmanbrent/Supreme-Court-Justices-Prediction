@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:07:33" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="765078">/xml/cases/1990/89_994/19910319o_89-994.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-994_19910319-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="172.774">
+        <title>West Virginia University Hospitals, Inc. v. Casey</title>
+        <section startTime="0.000" stopTime="172.774">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.907">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73982">The opinion of the Court in No. 89-994 West Virginia University Hospital, Inc. versus Casey will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="9.907" stopTime="172.774">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="9.907" offset="113584">This case presents the question whether 42 U.S.C Section 1988, which permits the award of "a reasonable attorney's fee as part of the costs," includes the award of fees for services rendered by scientific and other experts who assist in the preparation or presentation of the case.</text>
+            <text syncTime="34.385" offset="211491">The Court of Appeals for the Third Circuit held that it does not, and we agree.</text>
+            <text syncTime="39.564" offset="232180">In Crawford Sitting Company versus J.T. Gibbons, Incorporated, we held that litigation costs may not be shifted to the loosing party absent explicit statutory authority to the contrary.</text>
+            <text syncTime="52.705" offset="284738">The hospital in this case argues that Section 1988, in shifting an attorney's fee, provide such authority with respect to expert services, we think not.</text>
+            <text syncTime="64.914" offset="333535">Statutory usage both before and after the enactment of Section 1988 did not regard the phrase attorney's fee as embracing fees for expert services to the contrary, numerous statutes explicitly shift expert fees in addition to attorney's fees.</text>
+            <text syncTime="82.796" offset="405110">Moreover, judicially usage at the time of Section 1988's enactment did not regard expert fees as a component of attorney's fees.</text>
+            <text syncTime="91.408" offset="439592">In particular, when applying fee-shifting provisions parallel to those of Section 1988, such as those of the Clayton Act and the Federal Patent laws, courts thought that expert fees could not be shifted as part of the statutorily authorized attorney's fee.</text>
+            <text syncTime="109.512" offset="512003">We think the statutory and judicial background conclusively establishes that attorney's fees and expert fees are distinct, and we read 1988 to comport with this ordinary usage.</text>
+            <text syncTime="121.736" offset="560904">Whereas here, a statute contains a phrase that is unambiguous, the court's sole function is to enforce it according to its terms.</text>
+            <text syncTime="129.342" offset="591311">We do not find it persuasive that some members of congress viewed Section 1988 as a response to our decision in Alyeska Pipeline Service Company versus Wilderness Society where we narrowed court's equitable fee-shifting powers.</text>
+            <text syncTime="142.996" offset="645959">Or that certain members stated and reports or debates that Section 1988 was to be a broad remedy.</text>
+            <text syncTime="150.194" offset="674694">The best evidence of congressional purposes of the statutory text which cannot be expanded or contracted by the statements of individual legislators or committees during the enactment process.</text>
+            <text syncTime="160.598" offset="716281">The decision of the Court of Appeals for the Third Circuit is affirmed.</text>
+            <text syncTime="163.898" offset="729551">Justice Marshall has filed a dissenting opinion.</text>
+            <text syncTime="166.682" offset="740627">Justice Stevens has filed a dissenting opinion, joined by Justice Marshall and Justice Blackmun.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

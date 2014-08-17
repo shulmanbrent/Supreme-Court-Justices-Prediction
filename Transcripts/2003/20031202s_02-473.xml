@@ -1,0 +1,50 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2013-12-12T11:52:57" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1216849">/xml/cases/2003/02_473/20031202o_02-473.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2003/trs/02-473_20031202-opinion.trs</sourceFile>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="257.715">
+        <title>United States v. Banks</title>
+        <section startTime="0.000" stopTime="257.715" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice David H. Souter</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.542">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 02-473, United States against Banks will be announced by Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="8.542" stopTime="257.715">
+            <label>Justice David H. Souter</label>
+            <text syncTime="8.542" offset="34168">This case also comes to us on writ of certiorari of the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="15.837" offset="63321">At 2 O’clock on a Wednesday afternoon, federal and local law enforcement officers went to the respondent Banks' apartment to execute a search warrant for cocaine.</text>
+            <text syncTime="27.373" offset="109401">They called out police search warrant and rapped loudly on the door.</text>
+            <text syncTime="32.549" offset="130194">After 15 to 20 seconds passed with no answer, the officials broke open the door with a battering ram.</text>
+            <text syncTime="39.119" offset="156421">Banks was in the shower and he later testified that he heard nothing until the door crashed open.</text>
+            <text syncTime="46.146" offset="184529">The ensuing search revealed weapons, crack cocaine, and other evidence of drug dealing.</text>
+            <text syncTime="51.867" offset="207412">After being charged with drug and firearms offenses, Banks moved to suppress the evidence arguing that the officers had waited an unreasonably short time before forcing entry, and so violated both the Fourth Amendment and 18 United States Code 3109.</text>
+            <text syncTime="70.756" offset="282958">The District Court denied the motion, but a divided panel of the Ninth Circuit reversed in order to the suppression of the evidence.</text>
+            <text syncTime="77.912" offset="311589">Specifically, the Circuit Court treated this case as one that presented no exigent circumstances demanding quick action with the outset, and it held that the officers lacked adequate justification for using force to enter so soon after knocking.</text>
+            <text syncTime="94.214" offset="376790">In an opinion filed today with the Clerk of Court, we reverse and hold that the 15 to 20 seconds wait before the forceable entry satisfied the Fourth Amendment and the statute.</text>
+            <text syncTime="105.897" offset="423497">We held in Richards v. Wisconsin that the obligation to knock and announce gives way when officers get reasonable grounds either to expect that waiting is futile, or to suspect that knocking and announcing would trigger some exigency such as a risk that evidence will be destroyed immediately.</text>
+            <text syncTime="123.477" offset="493819">We held in the United States v. Ramirez, that police, in exigent circumstances, may damage property as far as necessary for a no-knock entry without demonstrating the exigency in any more detail and for non-forceable unannounced intrusions.</text>
+            <text syncTime="140.997" offset="563931">The principles underlying these cases govern the result in this case.</text>
+            <text syncTime="146.041" offset="584098">Here, the police arrived at Banks' door without reasonable suspicion of any facts justifying a no-knock entry, and they honored their obligations in knock-and-announce.</text>
+            <text syncTime="157.996" offset="631954">We think however, that after 15 to 20 seconds without a response, the police could fairly view the circumstances as requiring them to act without further delay.</text>
+            <text syncTime="168.046" offset="672183">They could reasonably suspect that cocaine evidence would be destroyed if they waited any longer.</text>
+            <text syncTime="174.098" offset="696320">What matters here is the opportunity of someone inside the apartment to get rid of cocaine.</text>
+            <text syncTime="180.341" offset="721293">This turns on the arrival of the police during the day when occupants would probably have been up and around in the sufficiency of 15 to 20 seconds to start flushing cocaine down the drain once an occupant would have known he police were outside.</text>
+            <text syncTime="195.280" offset="781061">As soon as the exigency had matured, the officers were not bound to learn anything more or wait any longer before going in even though their entry entailed property damage.</text>
+            <text syncTime="207.082" offset="828291">We see no reason to treat a post-knock exigency differently from its no-knock counterpart.</text>
+            <text syncTime="214.059" offset="856189">We reject however the government’s suggestion that the need to damage property should not be part of the reasonable analysis in a case with no reason to suspect an exigency or futility in waiting.</text>
+            <text syncTime="227.067" offset="908225">The wait time may well be longer before the police may reasonably make a force entry since they ought to be more certain that the occupant has had time to answer the door.</text>
+            <text syncTime="238.081" offset="952320">The opinion of the Court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

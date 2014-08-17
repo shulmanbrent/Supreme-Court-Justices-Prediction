@@ -1,0 +1,36 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-03T11:25:25" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-03</identified>
+      </history>
+      <resources>
+        <audioFile size="466897">/xml/cases/1987/86_761/19880112o_86-761.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-761op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="96.940">
+        <title>Forrester v. White</title>
+        <section startTime="0" stopTime="96.940">
+          <heading>Opinion Announcement of Sandra Day O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.562">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80912">The opinion of the Court in No. 86-761, Forrester against White will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="8.562" stopTime="96.940">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="8.562" offset="115080">This case comes to us on certiorari to the Court of Appeals for the Seventh Circuit.</text>
+            <text syncTime="14.002" offset="136919">In this case, an Illinois State Court Judge exercised his authority under state law to demote and then discharge a probation officer working under his supervision.</text>
+            <text syncTime="27.351" offset="190313">The probation officer filed a federal lawsuit for damages under Section 1983 and the Fourteenth Amendment, alleging that she had been demoted and discharge on account of her sex.</text>
+            <text syncTime="40.089" offset="241199">The Federal District Court granted summary judgment to the defendant judge on the ground that he was entitled to absolute immunity for his actions.</text>
+            <text syncTime="48.686" offset="275576">A divided panel of the Court of the Appeals for the Seventh Circuit affirmed.</text>
+            <text syncTime="54.439" offset="298564">In an opinion filed today, we reverse that judgment.</text>
+            <text syncTime="59.990" offset="320821">In the past we have held that judges are absolutely immune for their acts of adjudication.</text>
+            <text syncTime="68.130" offset="353421">A decision to demote or discharge a subordinate employee, however, is an administrative or executive act not included within the judicial function itself.</text>
+            <text syncTime="78.978" offset="396785">In this context the traditional justification for absolute immunity does not apply and we hold there is no absolute immunity from suit for damages in these circumstances.</text>
+            <text syncTime="90.669" offset="443492">The judgment is unanimous, Justice Blackmun has joined all but part 2 of the opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,969 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1993-11-30</transcribed>
+        <edit user="jclow26" date="2012-08-14T15:42:15" startTime="3272.796" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jclow26">2012-08-14</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="13781756">/xml/cases/1993/92_854/19931130a_92-854.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1993/92-854_19931130-argument.xml</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="tucker_karl_trautman" type="advocate" gender="male" path="/advocates/tt/tucker_karl_trautman" image="/advocates/tt/tucker_karl_trautman/thumbnail.jpg">Tucker Karl Trautman</speaker>
+        <speaker id="miles_m_gersh" type="advocate" gender="male" path="/advocates/mg/miles_m_gersh" image="/advocates/mg/miles_m_gersh/thumbnail.jpg">Miles M. Gersh</speaker>
+        <speaker id="edwin_s_kneedler" type="advocate" gender="male" path="/advocates/ek/edwin_s_kneedler" image="/advocates/ek/edwin_s_kneedler/thumbnail.jpg">Edwin S. Kneedler</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3408.525">
+        <title>Central Bank of Denver , N. A. v. First Interstate Bank of Denver , N. A.</title>
+        <section startTime="0.000" stopTime="1540.100">
+          <heading>Argument of Tucker Karl Trautman</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="12.158">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="147614">We'll hear argument first this morning in Number 92-854, the Central Bank of Denver v. the First Interstate Bank of Denver.</text>
+            <text syncTime="10.779" offset="190664">Mr. Trautman.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="12.158" stopTime="106.850">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="12.158" offset="196202">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="15.170" offset="208218">The two central issues that you are faced with today are whether Congress intended to create a private cause of action for aiding and abetting under 10(b), and secondly, if you so conclude, whether or not recklessness can provide a sufficient level of scienter, even though there is no duty breached either to disclose, or a duty of action.</text>
+            <text syncTime="37.035" offset="295676">Resolutions of these issues is shaped by the unique features of this case.</text>
+            <text syncTime="41.337" offset="312917">Specifically, Central Bank was not sued as a primary violator who allegedly engaged in deceptive or manipulative practices.</text>
+            <text syncTime="51.154" offset="352205">Instead, Central Bank was accused of substantially assisting the primary violation of others by agreeing to delay a new appraisal until after bonds were issued, thereby allowing the fraud to occur.</text>
+            <text syncTime="63.672" offset="402256">Central Bank was not involved in selling the bonds or marketing the bonds, but instead acted as indenture trustee, who had specific duties under a contractual document known as an indenture setting out the duties and setting out the bounds of its discretion.</text>
+            <text syncTime="80.083" offset="467875">This case was decided originally by the district court on a motion for summary judgment after full discovery, and at that time it was undisputed that the alleged substantial assistance by Central Bank involved no misrepresentation, involved no violation of duty of action or duty to disclose under the indenture, and in fact was a discretionary act under the indenture.</text>
+            <text syncTime="104.158" offset="564215">Resolution of the first issue--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="106.850" stopTime="108.112">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="106.850" offset="574977">What was that act?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="108.112" stopTime="126.184">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="108.112" offset="579993">--The act that they claim Central Bank engaged in, Your Honor, was to delay, if you will, an appraisal until after the bonds were issued.</text>
+            <text syncTime="117.699" offset="618341">The resolution of the first issue on private right of action in our view turns on the very nature of what aiding and abetting is.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="126.184" stopTime="128.866">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="126.184" offset="652300">May I just ask one other question--</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="128.866" stopTime="129.136">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="128.866" offset="663062">Sure.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="129.136" stopTime="138.102">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="129.136" offset="664107">--the delay.</text>
+            <text syncTime="130.006" offset="667555">It was discretionary.</text>
+            <text syncTime="132.129" offset="676123">Did they have the authority under their agreement, under the indenture, to insist that the appraisal not be delayed?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="138.102" stopTime="148.447">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="139.042" offset="703709">Yes.</text>
+            <text syncTime="139.883" offset="707052">It was a discretionary act.</text>
+            <text syncTime="141.375" offset="713113">They could either require a new appraisal, not require a new appraisal, and they could determine the timing of that appraisal.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="148.447" stopTime="155.083">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="148.447" offset="741325">And whether they did it or not was entirely discretionary, no standards about whether they had any duty to--</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="155.083" stopTime="157.052">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="155.083" offset="767865">That's correct, Your Honor.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="157.052" stopTime="160.365">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="157.052" offset="775807">--Why, under the agreement, did they have anything to say about the appraisal?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="160.365" stopTime="182.912">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="160.365" offset="788972">Well, an indenture trustee essentially has ministerial acts, carries out ministerial acts.</text>
+            <text syncTime="167.031" offset="815722">Some courts have characterized this kind of trustee as a stakeholder, essentially owing duties both to the issuer of the bonds and the bondholder, and in this particular case, the indenture set forth what the duties were and what the bounds of discretion were.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="182.912" stopTime="187.774">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="182.912" offset="879252">But would the decision of whether to delay or not delay the appraisal be a ministerial act, in your view?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="187.774" stopTime="198.520">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="187.774" offset="898687">It would be... I don't know what label you would put on it, but it would be an act that the trustee could decide in its sound discretion, and the whole purpose of doing that--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="198.520" stopTime="206.985">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="198.520" offset="941632">It seems to me there's some tension between the notion that it's a discretionary matter and it's a ministerial matter.</text>
+            <text syncTime="203.415" offset="961172">It seems to me one of those would be correct, but it's hard for me to see how both could be correct.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="206.985" stopTime="210.308">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="206.985" offset="975487">--Well, Your Honor, I think it would be a discretionary matter.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="210.308" stopTime="214.612">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="210.308" offset="988757">So the duties of the indenture trustee are not entirely ministerial.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="214.612" stopTime="246.632">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="215.413" offset="1009237">That's correct.</text>
+            <text syncTime="216.142" offset="1012163">Now, let me focus for a moment on what aiding and abetting is, because I think that is the crux of the problem with the private right of action.</text>
+            <text syncTime="223.458" offset="1041420">Aiding and abetting, in all circuits but the Seventh Circuit, does not require a plaintiff to show a manipulative or deceptive practice.</text>
+            <text syncTime="232.944" offset="1079350">What it requires the plaintiff to show is a violation, a primary violation by somebody else, and substantial assistance of that violation by some act or inaction, and finally, a level of scienter.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="246.632" stopTime="251.015">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="246.632" offset="1134102">Is there a requirement that it be done in concert with the principal actor?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="251.015" stopTime="255.818">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="251.015" offset="1151656">The courts don't seem to be saying that, Your Honor.</text>
+            <text syncTime="254.897" offset="1167121">What they--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="255.818" stopTime="256.238">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="255.818" offset="1170883">I mean--</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="256.238" stopTime="256.769">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="256.238" offset="1172554">--What they--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="256.769" stopTime="265.336">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="256.769" offset="1174644">--could the substantial assistance required by the other circuits be rendered unconscious of the fact that it is substantial assistance?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="265.336" stopTime="291.111">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="265.336" offset="1208917">--It appears that that is the case, and I think that's exactly what has happened in this particular case, is that you have a situation where a professional, a bank in this particular case, was acting pursuant to its duties, and pursuant to its discretion, and is accused here in taking an act which essentially allowed a fraud to occur.</text>
+            <text syncTime="289.011" offset="1303585">Now, if I may--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="291.111" stopTime="308.132">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="291.111" offset="1312048">Mr. Trautman, it seems to me that it really is a quite separate offense from the fraud itself, however.</text>
+            <text syncTime="295.954" offset="1331379">Is it not the case that you can be convicted of aiding and abetting an offense even though the person who has been accused of committing the offense itself is acquitted?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="308.132" stopTime="310.015">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="308.132" offset="1380071">--That appears to be the case, Your--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="310.015" stopTime="315.869">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="310.015" offset="1387594">Whereas with contribution, of course, you can't be compelled to contribute unless the principal has been held liable.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="315.869" stopTime="317.308">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="315.869" offset="1411000">--That's correct.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="317.308" stopTime="327.446">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="317.308" offset="1416747">Well, it seems to me to separate it from the... you know, the kind of inevitable accompaniments of private rights of action that we've found in the past in Musick, for example.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="327.446" stopTime="337.263">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="327.446" offset="1457394">We agree, Your Honor, because the aiding and abetting act, if you will, is not necessarily deceptive or manipulative.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="337.263" stopTime="345.168">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="337.263" offset="1496577">Although as I understand it you didn't question that in the district court, and the district court ruled simply on the state of mind question, is that not so?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="345.168" stopTime="349.981">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="345.168" offset="1528238">We did not raise the issue of whether there was a private right of action because it would have been fruitless, Your Honor.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="349.981" stopTime="355.634">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="349.981" offset="1547464">It would have been fruitless because the law was so solidly against you in the lower courts, is that--</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="355.634" stopTime="385.203">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="355.634" offset="1570138">The Tenth Circuit had found in 1974, without any analysis whatsoever... they had assumed that there was a private right of action, and we think that those cases, Your Honor, essentially are premised upon a methodology that this Court has now abandoned.</text>
+            <text syncTime="371.375" offset="1633041">That is, the methodology from Borak, the methodology that would allow courts to essentially import tort principles into the... into the act without an analysis as to whether Congress really intended for that to happen.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="385.203" stopTime="394.449">
+            <label>Justice David H. Souter</label>
+            <text syncTime="385.203" offset="1688421">--But you're arguing here that there shouldn't be any aiding and abetting liability, period.</text>
+            <text syncTime="389.157" offset="1704198">You're not arguing that there shouldn't be any aiding and abetting only in the case of the innocent aider and abettor.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="394.449" stopTime="396.400">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="394.449" offset="1725410">That's correct.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="396.400" stopTime="410.250">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="396.400" offset="1733142">Okay.</text>
+            <text syncTime="396.760" offset="1734605">And your argument would cover the SEC as well, as it's not limited to... you're talking about a private right of action here, but if there is no aiding and abetting liability, then the SEC could not go after it either, is that correct?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="410.250" stopTime="472.622">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="410.250" offset="1788522">That is not correct, Your Honor.</text>
+            <text syncTime="411.930" offset="1795314">This Court could decide the issue on a broad basis, which would be to say that the words of 10(b) do not reach aiding and abetting, and that would have the effect of covering both private actions and SEC actions.</text>
+            <text syncTime="423.718" offset="1842438">On the other hand, the Court could find, using its approach announced in Musick, which essentially followed the approach that had been followed for years, could say that either it was a separate cause of action, and we all know that Congress did not intend to create a cause of action for 10(b) and therefore they did not intend to create a cause of action for aiding and abetting, or even if you don't find it's a separate cause of action and you adopt the Government's view that this is merely rounding out of an existing cause of action, you look to, under the Musick case, section 9 and section 18, those sections which were intended to be a measure, if you will, of how Congress would have dealt with the issue, and you find that they are silent as to aiding and abetting, and we think that that is significant in this case because of the fact that prior to 1934, as early as--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="472.622" stopTime="487.260">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="472.622" offset="2038043">Silent as to the Commission as well as the individual.</text>
+            <text syncTime="474.252" offset="2044522">I'm... what I'm trying to understand is if you are acknowledging, or you're saying I don't have to answer that question, that the SEC could similarly... if you're correct, it's not aiding and abetting.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="487.260" stopTime="524.884">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="487.260" offset="2096558">--No.</text>
+            <text syncTime="487.581" offset="2097916">What I'm saying, Your Honor, is that there are two roads that the Court could take, both of which would result in my client winning the case, and so from that point of view I don't particularly mind which course you take.</text>
+            <text syncTime="497.225" offset="2136473">If you take the broad course, I think that that would have the effect, and that broad course would say that the 10(b) was just never intended to cover any aiding and abetting.</text>
+            <text syncTime="507.914" offset="2179209">You could also take the narrow course, which would be to merely say that this is a separate cause of action, private cause of action, and therefore Congress did not intend to create that private cause of action and not get to the question of the language of 10(b), so I think that there is a way for you to avoid the damage.</text>
+            <text syncTime="524.183" offset="2244306">I might also--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="524.884" stopTime="528.948">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="524.884" offset="2247127">That is to say, it is not the private cause of action that we have heretofore recognized.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="528.948" stopTime="529.667">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="528.948" offset="2263323">--That's correct.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="529.667" stopTime="533.209">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="529.667" offset="2266249">And we're not going to recognize any other private causes of action under 10(b).</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="533.209" stopTime="534.581">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="533.720" offset="2282445">That is correct.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="534.581" stopTime="549.890">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="534.581" offset="2285893">Under the allegations of the complaint taken in the light most favorably to the plaintiff, could there have been a cause of action or an allegation for liability as co... of the bank as coconspirator?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="549.890" stopTime="560.879">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="549.890" offset="2347124">Well, I suppose there could have been any allegation at the onset.</text>
+            <text syncTime="553.362" offset="2361021">What they chose to do here, Your Honor, was to not sue us as a primary violator, but instead to sue us as an aider and abettor.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="560.879" stopTime="570.643">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="560.879" offset="2391114">Well, suppose they alleged that there was an agreement to hold up the appraisal, and then alleged that this was a conspiracy, would that be a separate cause of action?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="570.643" stopTime="574.266">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="570.643" offset="2430089">In our view, a conspiracy would also be a separate cause of action.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="574.266" stopTime="580.430">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="574.266" offset="2444613">Has it been treated as such in the writings, in the general law of torts?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="580.430" stopTime="606.687">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="580.430" offset="2469273">In the general law of torts, conspiracy has been considered as part of the underlying tort, but here, and the problem we have with aiding and abetting, I think it's the same problem you have with conspiracy, is what the courts have tended to do is just to assume that these peripheral rights are there without any analysis as to whether Congress really intended them to be there, and if, in fact, the key is--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="606.687" stopTime="615.172">
+            <label>Justice David H. Souter</label>
+            <text syncTime="606.687" offset="2574285">We all agreed that Congress didn't provide any indicia of intent.</text>
+            <text syncTime="612.241" offset="2596541">You can't blame them for doing what we all concede wouldn't work.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="615.172" stopTime="615.984">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="615.172" offset="2608244">--That's correct.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="615.984" stopTime="642.621">
+            <label>Justice David H. Souter</label>
+            <text syncTime="615.984" offset="2611483">The question, as Justice Scalia raised, is whether it really falls within sort of the rounding-out jurisprudence, and I mean, Justice Kennedy's point is that they could have been pursued on a conspiracy theory, and at least on traditional tort principles that would not have been regarded as a departure, and if that's so, why should this be regarded as a departure?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="642.621" stopTime="696.117">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="642.621" offset="2718063">Well, I think the difference... there is a difference between aiding and abetting and conspiracy, and let me just focus on that for a moment.</text>
+            <text syncTime="648.876" offset="2743036">As you know, conspiracy is based upon an agreement, essentially that there has been a relationship set up based on an agreement.</text>
+            <text syncTime="656.291" offset="2772711">What aiding and abetting is really premised on is additional conduct, additional conduct that the courts have struggled to define and have used words of substantial assistance and put all sorts of factors in front of that, such as, was the defendant benefited, and that sort of thing, and it has become a morass, as you look at the cases, as to what substantial assistance means, but that is separate conduct.</text>
+            <text syncTime="680.256" offset="2868633">It is not a relationship, such as a conspiracy.</text>
+            <text syncTime="682.986" offset="2879500">It is not, as this Court said in Musick, an allegation of existing 10(b) liability, because it is additional conduct beyond manipulation or deception.</text>
+            <text syncTime="695.145" offset="2928192">If the fact--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="696.117" stopTime="708.245">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="696.117" offset="2932058">Well, in a sense... in a sense, conspiracy requires an element that aiding and abetting doesn't, namely, an agreement, so in a sense, an aider and abettor is acting closer to the principal actor than is a conspirator.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="708.245" stopTime="772.255">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="708.245" offset="2980541">--That's correct, but there is a difference in terms of the actual... you see, my problem with what the lower courts have done is that they have focused on this substantial assistance issue, and they've lost their eye on the ball, and the ball really here is, did my client engage in deceptive or manipulative conduct, and if they did, they could be sued as a primary violator.</text>
+            <text syncTime="733.510" offset="3081583">It so happens that the facts of this case, I think it's clear or undisputed, that we did not do anything that this Court has defined previously as being deceptive or manipulative, and so what you have out there essentially that's been applied... implied by the courts is a cause of action which allows a plaintiff to come in and sue a defendant because the defendant was around the transaction, was there, has deep pockets, and essentially to make allegations that they have benefited from the transaction, that they caused... they helped cause the transaction, if they had just acted differently, this fraud wouldn't have occurred, but they did not engage in any deceptive or manipulative conduct.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="772.255" stopTime="783.142">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="772.255" offset="3236541">But do you--</text>
+            <text syncTime="772.716" offset="3238422">--But why is that so clear?</text>
+            <text syncTime="774.667" offset="3246259">Why couldn't one say that deliberately delaying the time that this property would be reappraised was a manipulative practice?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="783.142" stopTime="802.617">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="783.142" offset="3280114">Well, the reason why you can't say that, Your Honor, is because manipulative practice has really focused on two concepts.</text>
+            <text syncTime="790.709" offset="3310416">One is misrepresentation, and second is either a failure to act or failure to disclose in a context where you have a duty to do so.</text>
+            <text syncTime="799.485" offset="3345524">Neither of those two things are presented by this case.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="802.617" stopTime="813.542">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="802.617" offset="3358063">Do you acknowledge that this horrible thing which you just described could happen if your client was sued for conspiracy to violate 10(b)?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="813.542" stopTime="815.974">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="813.542" offset="3401740">Well--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="815.974" stopTime="820.438">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="815.974" offset="3411457">What about a cause of action for conspiracy to violate 10(b)?</text>
+            <text syncTime="819.316" offset="3424832">Would that exist?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="820.438" stopTime="831.425">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="820.438" offset="3429325">--Your Honor, obviously that is not presented here.</text>
+            <text syncTime="823.890" offset="3443118">We think that a conspiracy is different than aiding and abetting.</text>
+            <text syncTime="830.055" offset="3467777">It does have the same dangers--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="831.425" stopTime="838.050">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="831.425" offset="3473211">I know it's different, but will you first answer my question?</text>
+            <text syncTime="833.097" offset="3479898">Do you acknowledge that there is a private cause of action for conspiracy to violate 10(b)?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="838.050" stopTime="841.042">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="838.050" offset="3499751">--I don't believe that there... I don't think this Court has ruled as such.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="841.042" stopTime="842.521">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="841.042" offset="3511767">Do you think that there should be?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="842.521" stopTime="843.453">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="842.521" offset="3517619">No, I don't.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="843.453" stopTime="844.784">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="843.453" offset="3521381">For the same reason that--</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="844.784" stopTime="845.513">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="844.784" offset="3526710">Exactly.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="845.513" stopTime="846.174">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="845.513" offset="3529635">--you have for your--</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="846.174" stopTime="878.105">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="846.174" offset="3532247">And my point is, though, that you don't need to reach that, and in trying to respond to Justice Kennedy, I do think that there is a distinction.</text>
+            <text syncTime="851.828" offset="3554922">In the Curran case this Court, in a very... a very quick passage, without, it appeared, much discussion, said that... I think it was under the Commodities Act, that there could be... conspirators could be held liable, but if you look at that case, that those so-called "coconspirators" were really primarily liable in our view, under the facts of the Commodities case.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="878.105" stopTime="891.364">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="878.105" offset="3659934">--Mr. Trautman, in your response to me, were you suggesting that there must be a duty to disclose, otherwise you can't have liability as a principle, and if so, what case held that?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="891.364" stopTime="942.616">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="891.364" offset="3713015">No, I'm not saying that there has to be just a duty to disclose.</text>
+            <text syncTime="894.126" offset="3724091">I'm saying there either has to be misrepresentation or a duty to disclose, neither of which were present here, and with respect to the duty to disclosure, I think this Court's cases in Chiarella and Dirks essentially stand for that proposition, among others.</text>
+            <text syncTime="908.365" offset="3781038">If I could focus for a moment on the... what I think is the unavoidable legislative determination here is that prior to 1934 in the context of the criminal law, the Court essentially knew how to create criminal aiding and abetting liability.</text>
+            <text syncTime="928.478" offset="3861495">They used very specific language.</text>
+            <text syncTime="929.970" offset="3867451">After 1934, in a whole series of amendments, in 1964, '75, '86, and 1990, they also knew how to create liability for SEC disciplinary action.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="942.616" stopTime="944.879">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="942.616" offset="3918024">Who is the Mr. Trautman?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="944.879" stopTime="945.408">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="944.879" offset="3927114">This is the Congress.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="945.408" stopTime="945.809">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="945.408" offset="3929204">The Congress.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="945.809" stopTime="973.217">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="945.809" offset="3930772">I apologize.</text>
+            <text syncTime="947.251" offset="3936518">There are a lot of them.</text>
+            <text syncTime="948.560" offset="3941847">The... and by contrast here, in 1934, in the act itself, in section 10(b) there is no mention of aiding and abetting, and we believe that that is very strong evidence that both before and after 1934, they used very specific language when they wished to create such a right, that in the act in 1934 it is silent, and also, if you use the measure, if you will, of--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="973.217" stopTime="984.014">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="973.217" offset="4040381">You are now making the broader argument in... under Justice Ginsburg's question, so if we agree with you on this argument, even the SEC could not enforce aiding and abetting liability.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="984.014" stopTime="1133.074">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="984.014" offset="4083640">--Well, Your Honor, I think there maybe three levels to go with this.</text>
+            <text syncTime="987.426" offset="4097224">I said there were two.</text>
+            <text syncTime="988.377" offset="4101090">The first level is to find that there is a separate cause of action, and at that point in time, you can then very quickly conclude that Congress intended no such cause of action.</text>
+            <text syncTime="998.034" offset="4139647">The second level is to say that it is rounding out, but the first thing we're going to do is to look at whether there is a private cause of action, using section 9 and 18 as models, and if you do that, you can come to the conclusion that there's no private right of action.</text>
+            <text syncTime="1012.112" offset="4195967">You don't have to get into the broader issue even in that second realm of looking at whether or not it exceeds, if you will... whether the conduct exceeds what is permitted by section 10(b).</text>
+            <text syncTime="1023.642" offset="4242151">The third is the broader one, and that would be to say that we look at the language, we knew what we said in Ernst and Ernst, and that is manipulation and deception means manipulation and deception, it doesn't mean something else such as substantial assistance of manipulation and deception.</text>
+            <text syncTime="1039.290" offset="4304741">That is the broader ruling, Your Honor, and I think that one would take care of the SEC.</text>
+            <text syncTime="1044.895" offset="4327101">However, let me just mention, there is some implication here that the SEC is going to be left powerless if in fact you take that broad ruling, and I think that that is incorrect.</text>
+            <text syncTime="1054.371" offset="4365031">Yes, Congress after all has given the SEC aiding and abetting authority in section 15 with regard to these disciplinary proceedings.</text>
+            <text syncTime="1062.366" offset="4397005">And also in 1990, in a recent amendment, they... they held that the SEC... this is the Congress again, Mr. Chief Justice... held that the SEC had cease and desist authority against any person who is violating, has violated, or is about to violate any provision of the statute, or any other person that is, was, or would be a cause of the violation due to an act or omission such other person knew or should have known would contribute to such violation.</text>
+            <text syncTime="1090.655" offset="4510167">The point being, it seems to me, that the SEC still does have enforcement authority both in section 15 as well as this section, which is 21(c), added in 1990.</text>
+            <text syncTime="1102.964" offset="4559382">The second point that I think that this brings out is that Congress knew again how to create liability beyond just the direct liability that is set forth in the statute.</text>
+            <text syncTime="1112.989" offset="4599506">They used aiding and abetting language in the SEC disciplinary proceedings, and they used contribution language in this particular case.</text>
+            <text syncTime="1121.254" offset="4632630">Let me just spend a moment, if I may, on the second issue which hopefully you will not have to reach, and that is the issue of what is the proper scienter standard if, in fact, there is such an aiding and abetting right.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1133.074" stopTime="1146.872">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1133.074" offset="4679859">May I ask you, counsel, if you would concede that recklessness is a sufficient mens rea to satisfy any scienter requirement for primary liability?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1146.872" stopTime="1153.337">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1146.872" offset="4735030">Well, Your Honor, we think that that question obviously is not raised here, does not have to be decided, but if in fact--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1153.337" stopTime="1154.446">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1153.337" offset="4760943">No, but would you answer the question?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1154.446" stopTime="1175.350">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1154.446" offset="4765332">--If in fact... if in fact that question were presented, we think that the proper approach would be to look at the words of 10(b) and to say that you cannot have a reckless manipulation, you cannot have a reckless device, so I don't think it should.</text>
+            <text syncTime="1171.129" offset="4832101">However, there may be cases that come before this Court where the Court would--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1175.350" stopTime="1179.693">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1175.350" offset="4848923">Have most of the courts of appeals held that recklessness is sufficient--</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1179.693" stopTime="1180.214">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1179.693" offset="4866373">--Yes.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1180.214" stopTime="1181.644">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1180.214" offset="4868463">--in the primary liability--</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1181.644" stopTime="1182.215">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1181.644" offset="4874105">Yes, they have.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1182.215" stopTime="1183.106">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1182.215" offset="4876404">--the same?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1183.106" stopTime="1183.685">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1183.106" offset="4879957">They have.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1183.685" stopTime="1185.658">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1183.685" offset="4882256">I think all of them have, haven't they?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1185.658" stopTime="1185.938">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1185.658" offset="4890197">Yes.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1185.938" stopTime="1186.587">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1185.938" offset="4891346">Yes.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1186.587" stopTime="1205.651">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1186.587" offset="4893958">They all have, Your Honor.</text>
+            <text syncTime="1187.468" offset="4897407">I think the point being that if you decide, however, that recklessness were sufficient for aiding and abetting, I think almost by necessity everybody will assume that it's good enough for a primary violation even though you may try to reserve the question.</text>
+            <text syncTime="1202.499" offset="4957593">By contrast, there is a principal basis--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1205.651" stopTime="1209.902">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1205.651" offset="4970132">We might approach it just the other way and say clearly its enough under primary--</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1209.902" stopTime="1211.384">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1209.902" offset="4987163">--Exactly.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1211.384" stopTime="1215.207">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1211.384" offset="4993119">--liability and why shouldn't it be enough if there's aiding and abetting?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1215.207" stopTime="1305.736">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1215.207" offset="5008375">Okay, and the reason why there shouldn't be enough if it's aiding and abetting would be to recognize that... if you find that there is a separate cause of action for aiding and abetting, or that there is an additional cause of action implied by Congress for aiding and abetting, the principal difference being that that is one step removed from a primary violation and yet carries with it joint and several liability, and so there is a logical basis for saying that in that circumstance we're going to require a higher degree of knowledge or scienter than we are in the primary violation.</text>
+            <text syncTime="1247.889" offset="5139092">Also, the other basis would be to recognize, ask as this Court did in the criminal law context in Nye and Nissen that aiding and abetting, as Justice Learned... Judge Learned Hand at that point in time said,</text>
+            <text syncTime="1260.465" offset="5189456">"in some sort you must associate yourself with a venture that he participated as is something he wishes to bring about, that he seek by his action to make it succeed, and it would be true and consistent with what I think the origins of aiding and abetting really were, that there has to be purposeful, conscious conduct to further what was going on. "</text>
+            <text syncTime="1282.190" offset="5276287">The most difficult problem that you have with recklessness, in my view, I think is pointed out by the SEC's brief, where in the same breath they say that the standard is both a flexible and predictable standard, and I think we would agree with the first part that it is flexible.</text>
+            <text syncTime="1299.090" offset="5343892">It is so flexible, however, that the only prediction that we can give our clients is that every case will be decided on its facts.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1305.736" stopTime="1306.887">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1305.736" offset="5370536">It's predictably flexible.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1306.887" stopTime="1381.314">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1306.887" offset="5375134">Exactly.</text>
+            <text syncTime="1307.636" offset="5378060">[Laughter]</text>
+            <text syncTime="1307.866" offset="5379000">The difficulty created for professionals in complex litigation such as this one, complex securities transactions where you have underwriters, appraisers, accountants, bond and disclosure counsel and trustee, all of whom have specific duties and expertise, and to a large extent all of whom rely on the others to carry out their particular roles, those differences, however, are overridden by a common trait in these transactions.</text>
+            <text syncTime="1335.776" offset="5490700">They all assist.</text>
+            <text syncTime="1336.944" offset="5495297">By definition, they all assist, and therefore they are potential targets for aiding and abetting if their actions or inactions allowed the fraud to occur, and as this... I think it's the Tenth Circuit opinion indicates, oftentimes the difference between action and inaction is found in the eye of the beholder.</text>
+            <text syncTime="1357.929" offset="5579307">Did Central Bank take affirmative action by delaying the appraisal until after the bonds were issued, or by contrast, did Central Bank fail to have a new appraisal done before the bonds were issued, and we think that a determination of liability on such characterizations would not be appropriate.</text>
+            <text syncTime="1379.434" offset="5665302">Recklessness is too much--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1381.314" stopTime="1387.078">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1381.314" offset="5672825">In this case you've got one other ingredient.</text>
+            <text syncTime="1382.385" offset="5677110">They took another $2 million in collateral in order to be quiet, didn't they?</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1387.078" stopTime="1387.919">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1387.078" offset="5695918">--I'm sorry?</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1387.919" stopTime="1396.284">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1387.919" offset="5699261">In this case you've got another factual ingredient, because the bank took another $2 million of collateral in order to be quiet about it until after the '88 issue.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1396.284" stopTime="1400.898">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1396.284" offset="5732698">No, the $2 million of collateral, Your Honor, related to an earlier bond issue.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1400.898" stopTime="1412.706">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1400.898" offset="5751193">No, I realize it did, but they accepted the collateral for that earlier bond issue as part of their... or as the consideration for their agreement to insist on no immediate reappraisal.</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1412.706" stopTime="1492.268">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1412.706" offset="5798422">Inevitably in these transactions problems are going to come up and problems have to be resolved, and I think Your Honor's point is well taken, is that there is certainly give-and-take with respect to these.</text>
+            <text syncTime="1423.371" offset="5841054">It's not as if Central Bank was essentially lining its pockets.</text>
+            <text syncTime="1427.566" offset="5857877">It was looking for... looking out for the interest of the '86 bondholders.</text>
+            <text syncTime="1432.057" offset="5875745">Let me just focus my last comments before sitting down on what I think the fundamental problem with recklessness is, and that is, it is too much like negligence, which this Court has already found in Ernst &amp; Ernst is not a sufficient level of scienter for 10(b).</text>
+            <text syncTime="1447.148" offset="5936140">Both negligence and recklessness involve a deviation from a standard of care.</text>
+            <text syncTime="1452.631" offset="5958083">To that extent, they're identical.</text>
+            <text syncTime="1454.704" offset="5966337">The only difference between the two, however, is that recklessness requires an extreme departure from that standard of care, and in our view that's a very slippery standard which will prevent summary judgment from being granted for wrongfully accused defendants, and it will allow liability based upon a jury's view of the extremity of the defendant's conduct.</text>
+            <text syncTime="1477.618" offset="6058079">It will also allow judges and juries to, in essence, create a Federal standard of conduct after the fact which, as this Court... as this case demonstrates can be contrary to the State law duties of the particular defendant.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1492.268" stopTime="1499.060">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1492.268" offset="6116594">How did the Tenth Circuit define recklessness?</text>
+            <text syncTime="1495.480" offset="6129446">They didn't say, extreme lack of care, or they--</text>
+          </turn>
+          <turn speaker="tucker_karl_trautman" startTime="1499.060" stopTime="1536.256">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="1499.060" offset="6143761">It defined it... it essentially used the Sundstrand approach, which was that it had to be an extreme departure from a standard of care.</text>
+            <text syncTime="1506.626" offset="6174063">That was the definition that they used, Your Honor.</text>
+            <text syncTime="1509.218" offset="6184407">And so what we're left with is scienter being the only reliable screen that this Court has to sort out conduct that is truly the use of a manipulative or deceptive device or contrivance from other conduct believed by plaintiffs to be unfair, and as we indicate, we believe that in the case of aiding and abetting, because it is one step removed from primary liability, that the better approach is to use conscious intent.</text>
+            <text syncTime="1533.465" offset="6281374">If there are no further questions, I'll save the balance of my time.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1536.256" stopTime="1540.100">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1536.256" offset="6292554">--Very well, Mr. Trautman.</text>
+            <text syncTime="1537.937" offset="6299346">Mr. Gersh, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="1540.100" stopTime="2728.670">
+          <heading>Argument of Miles M. Gersh</heading>
+          <turn speaker="miles_m_gersh" startTime="1540.100" stopTime="1603.821">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="1540.100" offset="6307914">Mr. Chief Justice and may it please the Court:</text>
+            <text syncTime="1545.233" offset="6328499">Our position is that the aiding and abetting remedy which has been developed over 30 years by the lower Federal courts in hundreds of cases and which has been approved and applied by every one of the Federal appellate courts is a fully actionable part of the 10b-5 cause.</text>
+            <text syncTime="1569.509" offset="6425570">This Court said 6 months ago in Musick, Peeler that we must confront the law in its current form, and the current form of the law is that there is a section 10(b) private action, that it reaches primary violators, and after Musick, Peeler it reaches at least one form of joint tortfeasors... that is, contributors... and this case raises the question or the issue about a different form of joint tortfeasor, that is, aiders and abettors.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1603.821" stopTime="1622.554">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1603.821" offset="6562870">There is this--</text>
+            <text syncTime="1604.832" offset="6566840">--Musick is arguably quite different from your case here, in that given the primary liability, it could be easily argued that the right of contribution flowed as a result of that.</text>
+            <text syncTime="1617.100" offset="6615950">I don't think the same is true of aider and abettor liability.</text>
+            <text syncTime="1620.923" offset="6631206">It seems to me that's a separate inquiry.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="1622.554" stopTime="1633.791">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="1622.554" offset="6637789">Contribution, Justice Rehnquist, it's correct... Chief Justice... is a different form, in other words, of secondary liability from aiding and abetting.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1633.791" stopTime="1648.560">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1633.791" offset="6682719">Well, I'm not sure that it's secondary liability.</text>
+            <text syncTime="1635.821" offset="6690870">I agree with the Chief Justice.</text>
+            <text syncTime="1637.724" offset="6698497">In Musick we did not expand the universe of persons who had a duty to the purchaser of the securities.</text>
+            <text syncTime="1646.589" offset="6733919">Here, we would be doing that.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="1648.560" stopTime="1654.644">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="1648.560" offset="6741756">It... in other words, it's not allocation among primarily liable parties.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1654.644" stopTime="1656.036">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1654.644" offset="6766102">In Musick, yes.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="1656.036" stopTime="1656.275">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="1656.036" offset="6771745">--that's correct.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1656.275" stopTime="1662.579">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1656.275" offset="6772685">In Musick, the premise was that there was a duty under the Securities Act.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="1662.579" stopTime="1828.748">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="1662.579" offset="6797867">That is a difference, Justice Kennedy.</text>
+            <text syncTime="1665.190" offset="6808316">I... in the Musick, Peeler case, though, the Court was answering or asking and answering the basic question about whether this... this remedy, this cause, this right contribution was a part of the 10b-5 action or separate, how it should be treated.</text>
+            <text syncTime="1683.712" offset="6882399">Justice Kennedy, you asked about conspiracy, whether that... in the sense of this Court's jurisprudence that is relevant here today, whether that's a separate cause of action, and really the relevant case there is this Court's decision in Curran, where there was an implied action under the Commodity Futures Act.</text>
+            <text syncTime="1707.940" offset="6979366">And the Court said, in the course of considering whether there should be a conspiracy, an action... a right against conspirators, that because there was an implied action that the Court had recognized, that it necessarily followed that there should be a right against conspirators, and in a similar context in the case cited by the SEC in their brief, American Society of Mechanical Engineers v. Hydrolevel, there you had an express private action under the Sherman Act, and the question there was whether there should be a right against an employer on an agency theory, and similarly there, the courts said, looking at the common law and saying that the agency theory was well-established in the common law, that to be faithful to the purpose of the Congress in the express private action, that the case should reach beyond primary violators to an agency theory.</text>
+            <text syncTime="1772.081" offset="7235888">All of these, we would say, these cases that I've just been discussing... Musick, Peeler in respect to contribution, ASME in respect to employer liability, the Curran case in respect to conspiracy, and here in this case, aiding and abetting... what they do, although these are different forms of joint tortfeasor liability, they are all questions which arise in different contexts under existing private actions, and this is a question of aiding and abetting liability, another form... different, but another form of joint tortfeasor liability under an existing cause of action, the section 10(b) action.</text>
+            <text syncTime="1824.545" offset="7445704">The Court has said another way to look at it--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1828.748" stopTime="1835.473">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1828.748" offset="7462527">Well, certainly, but it's not really joint tortfeasor liability because you can find one guilty and the other not guilty.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="1835.473" stopTime="1837.094">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="1835.473" offset="7489485">--I think the Court--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1837.094" stopTime="1847.862">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1837.094" offset="7495963">That's wherein this differs a whole lot from contribution.</text>
+            <text syncTime="1840.256" offset="7508607">You can find someone guilty of aiding and abetting an offense even though the alleged primary offender is acquitted.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="1847.862" stopTime="1861.439">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="1847.862" offset="7539013">--In the aiding and abetting cause, Your Honor, the first element, Justice Scalia, would be that there was a primary violation, so--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1861.439" stopTime="1882.644">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1861.439" offset="7593348">You have to get the jury who's trying the aider and abettor to find that there was a primary violation, but another jury could have found that the primary violator in fact didn't do it, and it would not eliminate the aiding and abetting liability, whereas with contribution, if the primary offender is not found liable, there's no question that there can't be any contribution.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="1882.644" stopTime="1908.150">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="1882.644" offset="7678089">--The link... at least with aiding and abetting, justice Scalia, there is a direct link to the primary violation in the first element of the aiding and abetting cause.</text>
+            <text syncTime="1891.088" offset="7711944">That is, the existence of a primary violation.</text>
+            <text syncTime="1893.630" offset="7722079">We do have to show that.</text>
+            <text syncTime="1894.772" offset="7726677">We had to show that in this case.</text>
+            <text syncTime="1896.752" offset="7734618">We had to show that there was a fraud by the developer, and we did do that, and had we not done that, we couldn't... we wouldn't have gotten past summary judgment on that issue.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1908.150" stopTime="1922.439">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1908.150" offset="7780176">Mr. Gersh, would liability as an aider and abettor be available as a theory for your client against the lawyer that advised the bank, and perhaps the accountant--</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="1922.439" stopTime="1924.442">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="1922.439" offset="7837332">If they had--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1924.442" stopTime="1944.234">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1924.442" offset="7845377">--as well as the bank?</text>
+            <text syncTime="1926.732" offset="7854468">The lawyer was aware of what the bank was doing in connection with this transaction.</text>
+            <text syncTime="1935.708" offset="7890412">Now, under your theory of aiding and abetting, the lawyer perhaps could have been made liable as well.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="1944.234" stopTime="1954.379">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="1944.234" offset="7924476">--Knowledge, participation... knowledge and substantial assistance in a primary violation would all have to be proved with respect to that lawyer.</text>
+            <text syncTime="1952.629" offset="7958122">It wouldn't be enough just--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1954.379" stopTime="1957.662">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1954.379" offset="7965123">Well, assistance to the bank to do whatever the bank was doing.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="1957.662" stopTime="2009.426">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="1957.662" offset="7978184">--It would have to be, Justice O'Connor, not just assistance to the bank, but substantial assistance in the fraud.</text>
+            <text syncTime="1966.477" offset="8013501">In her words, Mr. Trautman has suggested that the court were... here's a cause or a remedy which can gather up all kinds of professionals who participate in these kinds of transactions, and they're all going to be doing something, but what they aren't all going to be doing, and that's the purpose and the direct object of the aiding and abetting remedy, is they're not all going to be substantially assisting a fraud.</text>
+            <text syncTime="1989.872" offset="8107020">We didn't charge Central Bank... we didn't draw our complaint in this case just because they were helping in a bond deal.</text>
+            <text syncTime="1996.848" offset="8134918">We drew it because they were substantially, actively assisting a fraud, and that would have to be the proof with respect to that lawyer or these other professionals.</text>
+            <text syncTime="2008.114" offset="8180058">In the... in the--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2009.426" stopTime="2023.546">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2009.426" offset="8185283">Mr. Gersh, do you concede that you could not have charged Central Bank as a primary violator so that you were forced into the aiding and abetting mode?</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="2023.546" stopTime="2024.026">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="2023.546" offset="8241707">--Yes.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2024.026" stopTime="2025.185">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2024.026" offset="8243692">You concede that.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="2025.185" stopTime="2160.375">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="2025.185" offset="8248290">Yes, I would concede that.</text>
+            <text syncTime="2026.667" offset="8254246">Central Bank here did not... the primary violation here was a fraudulent bond deal that was portrayed in an official statement that misrepresented the crucial aspect of this transaction, which was that it was supposed to be backed by property that was worth 160 percent of the principal amount of the bonds, and that's the primary wrongdoing, that fraudulent official statement.</text>
+            <text syncTime="2058.047" offset="8379738">Central Bank's role, and the only way that we could reach them under the securities laws... and it was a critical role, but was one of assisting, actively, substantially aiding and abetting that fraud by a series of acts, not just one.</text>
+            <text syncTime="2077.190" offset="8456329">Not just delaying the appraisal, but a series of acts over a period of 2 or 3 months that had the effect of making certain that the defects of that appraisal would never be known until it was much too late... 6 months after the bond deal went into effect.</text>
+            <text syncTime="2095.502" offset="8529576">The... another way to put this issue, besides as a pleading matter, whether it's separate or not separate... and we can talk about that in various ways.</text>
+            <text syncTime="2109.582" offset="8585896">In some respects it is separate from the core, from primary liability, in some ways it's not, but the most relevant aspect of separateness is whether the remedy or the issue that arises would have been included by the Congress or thought to be within the scope of the 10b-5 action had that action been provided for expressly.</text>
+            <text syncTime="2138.490" offset="8701567">That's the... we would suggest the most relevant sense of separate or not, and in that most relevant sense, the indicia that this Court has used to determine the intent and purpose and scope of 10b-5 and issues that arise under it, this is not a separate cause.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2160.375" stopTime="2161.665">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2160.375" offset="8789025">Mr. Gersh--</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="2161.665" stopTime="2165.979">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="2161.665" offset="8794249">This is one of those items that will round out an existing cause of action.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2165.979" stopTime="2227.148">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2165.979" offset="8811490">--Well, that's a different question.</text>
+            <text syncTime="2166.730" offset="8814520">I mean, rounding out is quite different from asking yourself, would the Congress that created a private right of action under 10(b) of the sort we've already recognized also create a private cause of action for this?</text>
+            <text syncTime="2180.447" offset="8869377">The answer to the latter question is, God, a Congress that would do it for that would do it for all sorts of violations of the Security Act, and that's quite different from rounding out.</text>
+            <text syncTime="2193.027" offset="8919637">Rounding out is to say, we've already held that Congress has created this, but whether they really did or not doesn't matter.</text>
+            <text syncTime="2199.680" offset="8946282">We've held that.</text>
+            <text syncTime="2200.401" offset="8949207">This is such an inherent part of that that we can't possibly withhold acknowledgement of that as well.</text>
+            <text syncTime="2208.937" offset="8983271">You're inviting us to adopt a quite different test, to say, would the Congress that created the private right of action we've already acknowledged create another private right of action?</text>
+            <text syncTime="2220.273" offset="9028620">Well... well, I think they'd create right of actions all over the place if they accepted the one we've already found.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="2227.148" stopTime="2288.598">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="2227.148" offset="9056205">Justice Scalia, I would say that the rounding out test is related in this sense, that there is no rounding out doctrine in any of the Court rounding out cases... Lampf, Musick, Peeler... that is separate from the question of how Congress would have originally designed the cause of action.</text>
+            <text syncTime="2249.452" offset="9145335">The courts, even where there was an express cause of action... actually, the Curran case is another good example of this... are not at large simply to round out a cause, or that cause of action when another issue comes to them.</text>
+            <text syncTime="2263.792" offset="9202700">They have to do it in a way that is faithful to the scope of the express cause of action, and in that sense the question, the rounding out question, is the same one.</text>
+            <text syncTime="2276.360" offset="9252959">In other words, is the section 10(b) action as designed by the Congress one within which the aiding and abetting remedy would have a part, and we say--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2288.598" stopTime="2307.881">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2288.598" offset="9301965">Well, they overlap.</text>
+            <text syncTime="2289.189" offset="9304368">They're not identical.</text>
+            <text syncTime="2290.220" offset="9308443">I mean, it's fair to say that we wouldn't find it appropriate to round out unless Congress would have created the liability on the premise of what we've done so far, but it doesn't follow that everything that Congress would have done would amount to rounding out for existing kinds of action, isn't that true?</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="2307.881" stopTime="2359.324">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="2307.881" offset="9379078">--No, I think that that's... I think that that's true.</text>
+            <text syncTime="2309.822" offset="9386811">We would say that in... that the answer to the question whether aiding and abetting would be within the purpose, within the intent, or scope, or contour of the 10b-5 private action, is answerable by looking at the same sources of intent, congressional purpose, that the Court has looked at in other cases in its 10(b) jurisprudence.</text>
+            <text syncTime="2334.138" offset="9484091">First, at the background of... the common law background of the section 10(b) action, and there, with respect to aiding and abetting, the answer we would submit is a clear one, that aiding and abetting had a place in the common law when the 1934 Congress came to its job in enacting 10(b), but it went back--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2359.324" stopTime="2368.000">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2359.324" offset="9584819">As a matter of fact, in the law of torts generally, I can't off-hand... maybe you can help me... think of an example where an aider and abettor is not liable for the commission of a tort.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="2368.000" stopTime="2481.645">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="2368.000" offset="9619614">--Your Honor... Justice Kennedy, I would agree.</text>
+            <text syncTime="2371.072" offset="9631839">We have cited cases going back to the 1800's, and I don't think that Central Bank in any of its briefs has cited anything to the contrary in... in... and therefore, the point of that is simply that, as this Court has said, it was one of the undoubted purposes of Congress, when it came to its task in 1934, to correct perceived deficiencies of the common law.</text>
+            <text syncTime="2401.843" offset="9754928">And therefore had this... had the Congress considered aiding and abetting in 1934, it would not have left it out of a private action had it... if it had done that, it would have taken a step backward in the opposite direction from bolstering the protections for investors, and so the common law is a powerful demonstration that aiding and abetting belongs within the scope and the purpose of the 10b-5 remedy that the Congress enacted.</text>
+            <text syncTime="2432.451" offset="9877390">I would like to address briefly the recklessness point, very briefly, in the time that I have remaining.</text>
+            <text syncTime="2443.370" offset="9921067">The recklessness issue has to be analyzed, first of all, in the same way, in a way that is faithful to the purpose of Congress in the 10b-5 action itself, and if you start with the common law, recklessness also, as a matter of satisfying the scienter or the culpable state of mind requirement, has a history that goes back really into the 19th Century in the common law of deceit that the Congress was looking at when they developed the 10b-5 action, and to this--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2481.645" stopTime="2494.671">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2481.645" offset="10074145">It may well for the principal offense, but does it for the allied offense of aiding and abetting?</text>
+            <text syncTime="2489.860" offset="10106954">Does it for conspiracy, for example?</text>
+            <text syncTime="2491.630" offset="10114060">Can you become a coconspirator by being reckless?</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="2494.671" stopTime="2497.305">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="2494.671" offset="10126285">--I'm not certain about conspiracy, but as to aiding--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2497.305" stopTime="2510.042">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2497.305" offset="10136734">I am.</text>
+            <text syncTime="2497.593" offset="10137883">I'm certain you cannot become a coconspirator by being very reckless.</text>
+            <text syncTime="2501.607" offset="10153975">You have to have an agreement, the intent to make alliance with the other person, and isn't it the same for aiding and abetting?</text>
+            <text syncTime="2508.202" offset="10180411">You need the intent to aid and abet.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="2510.042" stopTime="2532.561">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="2510.042" offset="10187725">--As for aiding and abetting, the cases of aiding and abetting common law deceit, the ones that we located, do say that... include recklessness, or reach recklessness, Your Honor, so as to the aiding and abetting, the history of aiding and abetting, recklessness was the standard there as well.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2532.561" stopTime="2534.483">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2532.561" offset="10277795">Where are those cases in your brief?</text>
+            <text syncTime="2533.913" offset="10283229">Do you recall?</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="2534.483" stopTime="2539.497">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="2534.483" offset="10285527">I think we cite these cases--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2539.497" stopTime="2550.453">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2539.497" offset="10305590">Well, go on.</text>
+            <text syncTime="2547.742" offset="10338504">I don't want to make you waste your time.</text>
+            <text syncTime="2548.873" offset="10343101">You have little left.</text>
+            <text syncTime="2549.775" offset="10346654">I'll find them.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="2550.453" stopTime="2570.267">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="2550.453" offset="10349371">--In the footnote, which is on page 34 of our brief, footnote number 27, we cite a number of these cases, and then I think we also in the text cite... we do cite in the text several aiding and abetting cases as well.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2570.267" stopTime="2597.325">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2570.267" offset="10428678">But... yes, but most of those cases... as far as the text shows, all of those cases involve the tort of deceit, includes reckless behavior.</text>
+            <text syncTime="2577.841" offset="10458876">I have no doubt that it does, but does aiding and abetting deceit include just being reckless?</text>
+            <text syncTime="2585.849" offset="10490954">It seems to me you have to want to aid and abet.</text>
+            <text syncTime="2588.310" offset="10500776">You have to want to assist.</text>
+            <text syncTime="2589.879" offset="10507046">I don't see how you can do that recklessly, any more than you can conspire recklessly.</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="2597.325" stopTime="2629.397">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="2597.325" offset="10536825">Actually, Justice Scalia, if you look at the... if you look at the criminal law, which if anything should have a more stringent form of intent, the criminal law uses recklessness, or defines the intent necessary for aiding and abetting as reckless, at least in some of the cases, and it's... the level of intent required for aiding and abetting has been considered to be a general intent, closer to general intent and not specific intent.</text>
+            <text syncTime="2628.486" offset="10661482">There's--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2629.397" stopTime="2700.743">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2629.397" offset="10665139">Well, when you're talking about aiding and abetting someone else who might deceive or manipulate, I take it that it would be a requirement that the aider and abettor at least appreciate that there may be someone in a position to manipulate or to deceive who would be helped by the aider and abettor's conduct.</text>
+            <text syncTime="2645.054" offset="10727728">The aider and abettor may not have to make an agreement with this primary defendant, and perhaps the aider and abettor wouldn't have to know that this primary defendant was about to manipulate or deceive, but the aider and abettor would have to know that someone was in a position to do that.</text>
+            <text syncTime="2660.536" offset="10789691">And isn't that perhaps the answer to the problem that we've got, that it's perfectly true, you do have to have some kind of knowledge in order to put yourself into the category of aiding and abetting, but that knowledge is sufficient if you know that someone... not necessarily the primary defendant that we later identify, but someone is in a position to deceive and manipulate, and your gross deviation would aid or abet that enterprise?</text>
+            <text syncTime="2691.056" offset="10911735">Isn't that the knowledge that is required that is sort of peculiar to recklessness in a context like this?</text>
+          </turn>
+          <turn speaker="miles_m_gersh" startTime="2700.743" stopTime="2725.958">
+            <label>Mr. Miles M. Gersh</label>
+            <text syncTime="2700.743" offset="10950501">--I would agree, Justice Souter, and I would also add to that that the recklessness standard is a stringent one.</text>
+            <text syncTime="2708.387" offset="10981116">As presented by Central Bank it would seem not to be, but it requires... to complete that, it requires that the risk of the harm be so obvious that it must have been known to the defendant, and in that sense it's tantamount to actual knowledge.</text>
+            <text syncTime="2724.937" offset="11047258">I thank the Court.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2725.958" stopTime="2728.670">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2725.958" offset="11051438">Thank you, Mr. Gersh.</text>
+            <text syncTime="2726.449" offset="11053318">Mr. Kneedler, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="2728.670" stopTime="3278.330">
+          <heading>Argument of Edwin S. Kneedler</heading>
+          <turn speaker="edwin_s_kneedler" startTime="2728.670" stopTime="2842.345">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2728.670" offset="11062200">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="2740.497" offset="11109534">This Court recently reaffirmed in Musick, Peeler that it's the responsibility of the Federal courts to give content to and round out the private right of action that has been recognized under section 10(b) of the '34 act and the Commission's implementing rule, 10b-5.</text>
+            <text syncTime="2754.987" offset="11167526">For the past 30 years, the lower Federal courts have uniformly held that aiders and abettors are properly named as defendants in suits under 10(b) and 10b-5.</text>
+            <text syncTime="2765.415" offset="11209217">There are hundreds of such reported decisions in the lower courts.</text>
+            <text syncTime="2769.185" offset="11224264">In our view, a practice that is so embedded in the enforcement of the Federal securities laws should not lightly be overturned.</text>
+            <text syncTime="2775.420" offset="11249237">In our view there... not only are there no compelling reasons for doing so, but the relevant indicia that this Court has looked to in giving content to the 10b-5 cause of action all strongly reinforce the existence of aider and abettor liability.</text>
+            <text syncTime="2791.663" offset="11314230">First of all is the very practice that has gone on for 30 years, a point the Court noted in Musick, Peeler, that the experience of the lower Federal courts is itself a factor to be taken into account, but turning to the text of the securities laws themselves, section 10(b), in statutory terms, is written very expansively, referring to any person who directly or indirectly engages in the conduct to which the section speaks, language that is broad enough in itself to include aiders and abettors, especially given the common law background, and we cite a case of this Court going back to 1869 holding aiders and abettors liable in common law fraud.</text>
+            <text syncTime="2833.119" offset="11480055">Read against that background, and the background of protecting investors, the language of section 10(b) itself is a basis for finding aider and abettor liability.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2842.345" stopTime="2847.558">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2842.345" offset="11516940">Did that case speak about the necessary intent for the aider and abettor of agreement--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2847.558" stopTime="2895.688">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2847.558" offset="11537838">No, this is just the existence of aider and abettor liability on that case, Your Honor.</text>
+            <text syncTime="2851.719" offset="11554452">But beyond that, there are a number of other important indicia in the securities laws themselves.</text>
+            <text syncTime="2858.985" offset="11583500">For example... well, not in the securities laws.</text>
+            <text syncTime="2862.558" offset="11597815">I think I would start with 18 U.S. C section 2, which is significant here.</text>
+            <text syncTime="2866.710" offset="11614429">It provides that an aider and abettor is liable as a principal, and we think that is significant, that in terms of giving content to the private right of action under section 10(b), it is important to look to the persons whom Congress has deemed to be responsible when a violation of 10(b) occurs and section 2 of title 18 makes absolutely clear that Congress deemed a person who aids and abets a violation of section 10(b) to be responsible.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2895.688" stopTime="2904.186">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2895.688" offset="11730308">--You think Congress when it enacted section 2 of title 18, which applies to the whole criminal code, really had this narrow problem in mind here?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2904.186" stopTime="2940.298">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2904.186" offset="11764267">No, my point is that as applied to section 10(b), Congress has deemed and in fact held criminally responsible persons who substantially participate in a violation of section 10(b).</text>
+            <text syncTime="2917.745" offset="11818497">In other words, in terms of rounding out the cause of action, it's not necessary to find that Congress had a specific intent under... in enacting title 18 with respect to section 10(b).</text>
+            <text syncTime="2927.490" offset="11857472">My point is simply that Congress has deemed that a person who aids and assists any violation of a law to be liable, and not only liable, liable as a principal, who has substantially participated and therefore is equally culpable.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2940.298" stopTime="2950.896">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2940.298" offset="11908776">One can make the opposite argument from Article 2, and that is that if it was a rounding out matter, you wouldn't even have to have section 2, that it would automatically go along.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2950.896" stopTime="2952.516">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2950.896" offset="11951095">Well, no--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2952.516" stopTime="2957.021">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2952.516" offset="11957678">Congress felt the need to say, by the way, aiders and abettors will be held the same as principals.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="2957.021" stopTime="3000.488">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="2957.021" offset="11975650">--Well, in the criminal law context, you would of course need a statute to say who is responsible, and the reason the Congress had adopted... enacted section 2, as this Court said in Standefer, was to, for example, overcome the common law rule that if the principal is acquitted the aider and abettor could not be found liable, and Congress wanted to eliminate that artificial distinction.</text>
+            <text syncTime="2980.115" offset="12068019">After all, someone who substantially participates in a violation of the law is quite culpable in bringing about the injury in this case to the plaintiff, so we think that section 2 is very important, because it not only identifies whom Congress thought was responsible, but also puts the person on notice that his substantial participation in the fraud will give rise to liability.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3000.488" stopTime="3013.287">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3000.488" offset="12149521">Is it the position of the SEC that there was sufficient evidence here to support a finding that the petitioner substantially participated in the circumstances of delaying the appraisal?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3013.287" stopTime="3022.713">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3013.287" offset="12200721">Yeah, we think there's... yes.</text>
+            <text syncTime="3015.037" offset="12207722">We think there's sufficient evidence to avoid summary judgment, that the case has been sent back to the district court because of the agreement to postpone the appraisal.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3022.713" stopTime="3028.725">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3022.713" offset="12238442">Well, the agree... I wasn't aware there was an agreement.</text>
+            <text syncTime="3025.235" offset="12248473">I thought this was something that the petitioner did on its own.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3028.725" stopTime="3040.293">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3028.725" offset="12262474">No, there was a letter agreement... a letter from the authority and developer endorsed by Central Bank to put off the appraisal until December of the issuing year, so it was... it was more than just--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3040.293" stopTime="3040.994">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3040.293" offset="12308763">You say there was an agree--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3040.994" stopTime="3193.465">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3040.994" offset="12311585">--Right, there was a letter dated May 13th, I think, of 1988.</text>
+            <text syncTime="3044.085" offset="12323914">The other... the other places in the act where Congress has identified that aiders and abettors should be responsible and the Commission's longstanding ability to get injunctions against aiders and abettors under section 21 also reinforce the idea that aiders and abettors are responsible and therefore set the... an appropriate parameter for the private right of action.</text>
+            <text syncTime="3067.682" offset="12418269">Also, the statutory analogues that this Court has looked to, particularly sections 9 and section 18 of the act, far from supporting petitioner's position support respondent's position in this case.</text>
+            <text syncTime="3078.939" offset="12463304">Section 9 imposes liability on anyone who wilfully participates, and participates is an expansive term, in fact the term that respondent elsewhere identifies with aiding and abetting based on this Court's decision in Nye and Nissen, someone who participates in the transaction, so section 9 we think is clearly broad enough to include aiding and abetting liability, and the same with section 18, which refers to any person who makes or causes to be made any misleading statement in a registration statement.</text>
+            <text syncTime="3106.868" offset="12575003">And finally, the private right of action for aiding and abetting is a very important supplement to the SEC's own enforcement authority.</text>
+            <text syncTime="3114.512" offset="12605619">The SEC can go after aiders and abettors just as it can go after primary violators, but just as in the case of primary violators, the SEC is not in a position to uncover every bit of wrongdoing and also is not in a position to compensate victims.</text>
+            <text syncTime="3128.762" offset="12662566">Its role is the different one of deterring violations by disgorging profits or enjoining future violations.</text>
+            <text syncTime="3135.886" offset="12691092">That's why, just as in the case of primary violators, the private right of action is important in the case of aiders and abettors.</text>
+            <text syncTime="3143.572" offset="12721812">If I could move on to the recklessness standard, in terms of primary... primary violators, it's settled in all the courts that recklessness is an adequate showing in order to establish liability.</text>
+            <text syncTime="3159.752" offset="12786595">That was also true at common law fraud, against which section 10(b) should be read.</text>
+            <text syncTime="3164.924" offset="12807284">Indeed, in this Court's decision in Cooper v. Schlesinger, the Court said a statement recklessly made without knowledge of its truth is a false statement knowingly made, and when an aider and abettor substantially participates in the making of a false statement, then we believe that the same standard of recklessness that applies to the primary violator should apply to the aider and abettor, because after all, again, the aider and abettor is liable in the criminal law as a principal.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3193.465" stopTime="3199.249">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3193.465" offset="12921387">--Does the aider and abettor at least have to know that the primary participant has a duty under the securities laws?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3199.249" stopTime="3221.612">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3199.249" offset="12944584">I don't think knowledge of the law is important.</text>
+            <text syncTime="3205.602" offset="12969975">I think knowledge of the nature of the transaction that the primary violator is engaged in is important, but that is... that is obviously true here.</text>
+            <text syncTime="3213.126" offset="13000068">The recklessness in this case comes up with respect to recklessness of... with respect to whether the information was true or false, and it... I--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3221.612" stopTime="3229.917">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3221.612" offset="13034027">Anyone who recklessly creates the conditions that enables someone else to perpetrate a fraud becomes an aider and abettor of the fraud?</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3229.917" stopTime="3236.122">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3229.917" offset="13067255">--Yes, because he's participating in the perpetration of the fraud, and again, for example--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3236.122" stopTime="3249.140">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3236.122" offset="13092019">No, but you're saying... I think Justice Scalia and I both understood you to mean that the aider and abettor's act, as it were, can come first, before he knows of anyone in particular, or anyone in general that is likely--</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3249.140" stopTime="3259.906">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3249.140" offset="13144159">--Yes, and in theory he may not know who will be the ultimate principal.</text>
+            <text syncTime="3253.412" offset="13161191">That's true.</text>
+            <text syncTime="3253.883" offset="13163072">My only point is that the aider and abettor has to have a connection, has to lend substantial assistance to a primary--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3259.906" stopTime="3263.750">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3259.906" offset="13187209">--But he has to know... you're saying that he has to know that someone may be in a position to take advantage of what he's doing.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3263.750" stopTime="3264.060">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3263.750" offset="13202569">--Yes, right.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3264.060" stopTime="3264.410">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3264.060" offset="13203823">Okay.</text>
+          </turn>
+          <turn speaker="edwin_s_kneedler" startTime="3264.410" stopTime="3272.796">
+            <label>Mr. Edwin S. Kneedler</label>
+            <text syncTime="3264.410" offset="13205181">And again, a reference to section 9 of the act is useful.</text>
+            <text syncTime="3267.651" offset="13218138">It refers to someone who wilfully participates, and as this case held last term in Hazen Paper, wilfully--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3272.796" stopTime="3278.330">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3272.796" offset="13238723">Thank you, Mr. Kneedler.</text>
+            <text syncTime="3273.786" offset="13242693">Your time has expired.</text>
+            <text syncTime="3275.508" offset="13249590">Mr. Trautman, you have 3 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3278.330" stopTime="3408.525">
+          <heading>Rebuttal of Tucker Karl Trautman</heading>
+          <turn speaker="tucker_karl_trautman" startTime="3278.330" stopTime="3405.042">
+            <label>Mr. Tucker Karl Trautman</label>
+            <text syncTime="3278.330" offset="13260874">Thank you, Mr. Chief Justice.</text>
+            <text syncTime="3280.210" offset="13268398">Mr. Gersh's concession that he could not have brought an action against my client for a primary violation speaks volumes as to whether or not my client engaged in manipulative or deceptive conduct which is the keystone of section 10(b).</text>
+            <text syncTime="3294.819" offset="13326807">However, I don't want the Court to get the impression that professionals could never be sued under a primary violation.</text>
+            <text syncTime="3300.783" offset="13350736">I think clearly they could, but they would have to essentially have participated in and engaged in deceptive conduct, something that did not happen here.</text>
+            <text syncTime="3312.083" offset="13395875">I think as Justice Scalia indicated, the allegation against our client is not that we participated in a misrepresentation, because we didn't.</text>
+            <text syncTime="3320.836" offset="13430879">We had nothing to do with the selling process.</text>
+            <text syncTime="3322.689" offset="13438298">What we are accused of doing is essentially by our conduct allowing the fraud to occur.</text>
+            <text syncTime="3327.901" offset="13459196">The Government argues that the common law was so well-established at the time the Congress passed 10(b) that it must have presumed to have incorporated it, and we think that this Court's decisions in Blue Chip, Ernst &amp; Ernst, and Santa Fe Minerals, essentially made clear that there is not an automatic implementation of those principles into the law, but instead, that there has to be some demonstrated showing that Congress intended to do so.</text>
+            <text syncTime="3362.654" offset="13598167">The common law... or, strike that.</text>
+            <text syncTime="3364.496" offset="13605586">The Securities Act was not intended to be a panacea for all evils under the securities laws, and I think those decisions indicate it.</text>
+            <text syncTime="3372.069" offset="13635888">Finally, let me just comment that, interestingly enough, the very source of the recklessness standard... that is, section 876 of the Restatement of Torts, which talks about substantially assisting, in that standard, recklessness is not enough.</text>
+            <text syncTime="3389.952" offset="13707359">You have to have knowledge, under the tort law, for substantial assistance, whereas here, what our opponents are asking you to do is to graft on a principle in the deceit context onto substantial assistance, which even the tort law doesn't do.</text>
+            <text syncTime="3403.931" offset="13763261">Thank you very much.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3405.042" stopTime="3408.525">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3405.042" offset="13767754">Thank you, Mr. Trautman.</text>
+            <text syncTime="3406.675" offset="13774233">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

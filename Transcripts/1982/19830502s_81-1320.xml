@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="530568">/xml/cases/1982/81_1320/19830502o_81-1320.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1982/trs/81-1320op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="109.508">
+        <title>Kolender v. Lawson</title>
+        <section startTime="0" stopTime="109.508">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.514">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92338">The judgment and opinion of the Court in Kolender against Lawson will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="8.514" stopTime="108.160">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="8.514" offset="126297">This case is here on appeal from the Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="13.675" offset="146986">The appeal presents a facial challenge to a criminal statute that requires people who loiter or wander on the streets to provide a credible and reliable identification and to account for their presence when requested by a police officer under circumstances that would justify a lawful investigative stop.</text>
+            <text syncTime="35.225" offset="233190">The appellee, Lawson was detained by police under that statute on approximately 15 occasions in less than two years.</text>
+            <text syncTime="44.030" offset="268403">He brought suit seeking a declaratory judgment that the statute is unconstitutional, an injunction against enforcement of the statute, and compensatory and punitive damages.</text>
+            <text syncTime="56.532" offset="318454">The Ninth Circuit Court of Appeals affirmed the decision of the District Court which held that to stop and identify statute was unconstitutional under the Fourteenth Amendment as well as the Fourth Amendment.</text>
+            <text syncTime="69.402" offset="369863">We affirm the judgment of the Ninth Circuit on the Fourteenth Amendment ground that the statute is unconstitutionally vague and that it does not provide a clear standard of enforcement.</text>
+            <text syncTime="82.203" offset="421063">The statute fails to specify what is contemplated by the requirement that a suspect provide a credible and reliable identification.</text>
+            <text syncTime="91.890" offset="459829">The statute vests complete discretion in the police to determine whether the suspect has satisfied the statutory requirements.</text>
+            <text syncTime="99.903" offset="491907">Justice Brennan has filed a concurring opinion.</text>
+            <text syncTime="103.281" offset="505386">Justice White with whom Justice Rehnquist joins has filed a dissent.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="108.160" stopTime="109.508">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="108.160" offset="524926">Thank you Justice O'Connor.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

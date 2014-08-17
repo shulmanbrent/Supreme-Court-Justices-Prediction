@@ -1,0 +1,1405 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1996-12-09</transcribed>
+        <edit user="jclow26" date="2012-07-19T11:05:04" startTime="3366.170" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <identified user="jclow26">2012-07-19</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="13959002">/xml/cases/1996/95_1455/19961209a_95-1455.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1996/95-1455_19961209-argument.xml</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="deval_l_patrick" type="advocate" gender="male" path="/advocates/dp/deval_l_patrick" image="/advocates/dp/deval_l_patrick/thumbnail.jpg">Deval L. Patrick</speaker>
+        <speaker id="john_w_borkowski" type="advocate" gender="male" path="/advocates/jb/john_w_borkowski" image="/advocates/jb/john_w_borkowski/thumbnail.jpg">John W. Borkowski</speaker>
+        <speaker id="michael_a_carvin" type="advocate" gender="male" path="/advocates/mc/michael_a_carvin" image="/advocates/mc/michael_a_carvin/thumbnail.jpg">Michael A. Carvin</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3452.477">
+        <title>Reno v. Bossier Parish School Board</title>
+        <section startTime="0.000" stopTime="937.739">
+          <heading>Argument of Deval L. Patrick</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="35.305">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="143152">We'll hear argument now in Number 94-1455, Janet Reno v. Bossier Parish School Board, and George Price v. Bossier Parish School Board.</text>
+            <text syncTime="20.546" offset="225281">How do you pronounce the name of this parish, do you know, Mr. Patrick?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="35.305" stopTime="42.782">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="35.305" offset="284318">It... we... it is usually referred to and has been in the litigation as Bossier Parish, but in Louisiana it's Bossier.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="42.782" stopTime="44.442">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="42.782" offset="314202">Bossier, okay.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="44.442" stopTime="50.636">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="44.442" offset="320889">And if you say Bossier... if you say Bossier in the course of this I'll probably be confused, so if you say Bossier it would be helpful.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="50.636" stopTime="53.358">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="50.636" offset="345653">You would think in French it would be Bossier rather than Bossier.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="53.358" stopTime="55.110">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="53.358" offset="356520">Bossier, oui.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="55.110" stopTime="62.203">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="55.110" offset="363521">Very well, Mr. Patrick--</text>
+            <text syncTime="60.954" offset="386927">[Laughter]</text>
+            <text syncTime="58.282" offset="376269">--you may proceed, whatever the name of the parish.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="62.203" stopTime="63.095">
+            <label>Unknown Speaker</label>
+            <text syncTime="62.203" offset="391942">Allez-y.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="63.095" stopTime="99.048">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="63.095" offset="395495">Oui.</text>
+            <text syncTime="63.965" offset="398943">Allons.</text>
+            <text syncTime="65.165" offset="403750">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="69.238" offset="420050">The Bossier Parish School Board adopted the redistricting plan at issue in this case with a discriminatory purpose, plain and simple, and in finding otherwise, the district court ignored evidence that this Court has required fact-finders to consider since its decision in the Arlington Heights case, evidence of racial block voting and of the recent history of discrimination in voting and otherwise in Bossier Parish, evidence that was undisputed, indeed was stipulated below.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="99.048" stopTime="110.125">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="99.048" offset="539273">Mr. Patrick, when you say the district court ignored the evidence, you don't mean that it excluded it as a matter of admission of evidence, but just that it refused to take it into consideration in making its conclusion?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="110.125" stopTime="143.197">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="110.125" offset="583576">Frankly, Mr. Chief Justice, it's very hard to say.</text>
+            <text syncTime="112.526" offset="593190">There was not an evidentiary ruling in the classic sense, in... because all of the evidence came into the record by way of stipulation without objection by the parties, but what is plain is that the court did not even mention the Arlington Heights case or the Arlington Heights standards, and in one point in the decision went so far as to say that it would not expressly consider the evidence of the history of discrimination in the school board, and when you... excuse me, Mr.--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="143.197" stopTime="155.995">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="143.197" offset="715861">If it came in by stipulation, or it's not an evidentiary point, really, it's an argument that the court's refusal to take it into consideration makes its findings clearly erroneous or wrong as a matter of law, I--</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="155.995" stopTime="180.911">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="155.995" offset="767061">--Well, as a matter of law in the first instance, Your Honor, because under Arlington Heights, which requires that in making a determination of purposeful discrimination that the court take into account the totality of the circumstances, and where Rogers v. Lodge has said that this specific kind of evidence is important to a determination of purposeful discrimination, we argue in the first instance that there was a violation of... that there is a legal error and, indeed, when you take--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="180.911" stopTime="183.463">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="180.911" offset="866744">--How do we know that they didn't take that into account?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="183.463" stopTime="194.652">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="183.463" offset="876984">--Because they did not, in the first instance, even cite the Arlington Heights precedent.</text>
+            <text syncTime="189.906" offset="902688">They did not indicate what standard was being used in the... if you look at the analysis--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="194.652" stopTime="201.435">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="194.652" offset="921705">I'm talking about particular evidence.</text>
+            <text syncTime="196.031" offset="927243">What particular evidence do you maintain they did not take account of--</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="201.435" stopTime="201.925">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="201.435" offset="948873">--It's--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="201.925" stopTime="203.886">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="201.925" offset="950754">--and how do you know that they didn't take account of it?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="203.886" stopTime="224.001">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="203.886" offset="958695">--There are two kinds of evidence that bends to the question, Your Honor, about how we know they didn't take account of it.</text>
+            <text syncTime="208.960" offset="978966">First of all, the evidence of racial bloc voting.</text>
+            <text syncTime="211.682" offset="989833">This is a community where the parties have stipulated that 80 percent of the voters in the parish will not vote for a candidate of a race different than them.</text>
+            <text syncTime="221.089" offset="1027449">That is stipulated at 122a of the record.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="224.001" stopTime="245.413">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="224.001" offset="1039152">But didn't the... I mean, the response that's made by the appellee here is that the court... that all that that would prove is that therefore, since there was bloc voting, it would advantage the black voters if there were majority black districting, but didn't the court assume that to be true?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="245.413" stopTime="246.825">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="245.413" offset="1124729">No, Your Honor.</text>
+            <text syncTime="246.174" offset="1127759">I don't think--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="246.825" stopTime="248.105">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="246.825" offset="1130372">It didn't assume that... I thought it--</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="248.105" stopTime="248.966">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="248.105" offset="1135492">--I... excuse me.</text>
+            <text syncTime="248.395" offset="1136641">Did you... I'm sorry.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="248.966" stopTime="259.993">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="248.966" offset="1138940">--Yes.</text>
+            <text syncTime="249.547" offset="1141239">I thought that the court's discussion just takes as a given that it would be to the benefit of the blacks if they had a majority-minority district.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="259.993" stopTime="313.487">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="259.993" offset="1183034">I'm not sure that we can fairly assume that from the district court's opinion.</text>
+            <text syncTime="263.235" offset="1195991">What the district court said is that evidence of this kind is relevant to section 2, there's no question about that.</text>
+            <text syncTime="269.629" offset="1221591">But we contend, and Arlington Heights supports us, that it is independently relevant to the question of purposeful discrimination.</text>
+            <text syncTime="276.133" offset="1247609">There is no evidence, in fact, on this record which is relevant to the one question, the section 2 question, but not relevant to the purpose determination in the case and, indeed, the court expressly refused in its opinion at 34a, footnote 18, the evidence that the board itself was in violation of the Federal desegregation order with respect to the schools, so that when you take into account the evidence that was excluded and the... both the racial bloc voting and the history of discrimination, all of which is stipulated and uncontested below, and you think... and you consider that in light of the other evidence that was considered, that the plan--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="313.487" stopTime="315.858">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="313.487" offset="1397030">Well, the evidence wasn't so much excluded as not considered--</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="315.858" stopTime="316.639">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="315.858" offset="1406538">--I think that's--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="316.639" stopTime="317.631">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="316.639" offset="1409673">--in the technical sense here.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="317.631" stopTime="321.203">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="317.631" offset="1413643">--I think that's fair to say.</text>
+            <text syncTime="318.041" offset="1415315">When I think of excluded as a trial lawyer I think of a--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="321.203" stopTime="323.675">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="321.203" offset="1427959">Evidentiary rule, yes.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="323.675" stopTime="334.992">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="323.675" offset="1437781">--Of a rule of evidence... that's right, and because all of the stipulations came into the record without objection on relevance or any other grounds, I think Your Honor is right.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="334.992" stopTime="340.756">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="334.992" offset="1483025">Has this Court applied Arlington Heights in a section 5 determination, do you know?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="340.756" stopTime="342.218">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="340.756" offset="1506117">What this Court has done--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="342.218" stopTime="346.350">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="342.218" offset="1511968">I thought we had not, but what do you rely on for that?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="346.350" stopTime="397.205">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="346.350" offset="1528478">--I rely on Rogers v. Lodge, which is a... which, as you know, is a case where the court has said that the Arlington Heights factors are probative of the judgment about whether there's purposeful discrimination under the Voting Rights Act.</text>
+            <text syncTime="358.136" offset="1575603">I think what is key in your analysis and consideration of this case is that you bear in mind all of the facts, as Arlington Heights requires, all of the facts and circumstances known to the board at the time, and ask yourself, does it add up?</text>
+            <text syncTime="374.970" offset="1642999">This is a plan, you understand, that is against the school board's own interests, both its districting and its governance interests.</text>
+            <text syncTime="382.957" offset="1674972">This is a school board that is typically concerned about distributing the schools among the school districts, and yet adopted a plan that has some school districts with no schools in it at all.</text>
+            <text syncTime="392.911" offset="1714783">That is stipulated at 112a and 73a of the record.</text>
+            <text syncTime="396.685" offset="1729830">It--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="397.205" stopTime="411.755">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="397.205" offset="1731919">Mr. Patrick, would you clarify for me what you think the legal standard is before we go much further into the argument?</text>
+            <text syncTime="405.531" offset="1765252">That is, we know that the effect, what they call the effect problem of section 5 is about retrogression.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="411.755" stopTime="412.606">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="411.755" offset="1790120">--Yes.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="412.606" stopTime="422.762">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="412.606" offset="1793568">What does the purpose... what does it mean?</text>
+            <text syncTime="416.668" offset="1809764">What does the statute mean when it says, shall not have the purpose of denying the right to vote on account of race?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="422.762" stopTime="442.646">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="422.762" offset="1834110">We take that to mean that the factors... that the school board has to show a nondiscriminatory purpose within the meaning of Arlington Heights by taking into account the totality of the circumstances, looking at the actions and inactions in this case of the school board, in reaching the conclusion they did, all the facts and circumstances known to the board at the time.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="442.646" stopTime="445.699">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="442.646" offset="1913732">And that it has the burden of proof on that point.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="445.699" stopTime="480.891">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="445.699" offset="1925852">That's right.</text>
+            <text syncTime="446.627" offset="1929614">I was saying that the... about the plan that they did adopt that this is a plan which it is conceded does not respect school attendance zones.</text>
+            <text syncTime="457.864" offset="1974545">That's also stipulated in this record, at 112a.</text>
+            <text syncTime="460.726" offset="1986039">It pits incumbents against each other.</text>
+            <text syncTime="463.698" offset="1997846">The way the district court put it was that it wreaks havoc on incumbent... incumbency.</text>
+            <text syncTime="467.802" offset="2014355">That's 28a in the court's opinion.</text>
+            <text syncTime="470.063" offset="2023341">About half of the parish was placed in one district.</text>
+            <text syncTime="473.815" offset="2038388">That's also at 120a, and in other places it fractures neighborhoods, 110a to 111a.</text>
+            <text syncTime="479.369" offset="2060540">These are all stipulated facts.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="480.891" stopTime="540.421">
+            <label>Justice David H. Souter</label>
+            <text syncTime="480.891" offset="2066705">Mr. Patrick, would it have been open or was it open at the district court to accept all of this and say, look, all of this evidence does point in the direction of intent to discriminate, but there's a piece of counterevidence here and that is, the moment at which the board seemed to turn around and suddenly embrace the police district plan, which it did not originally want, was the moment at which it became apparent that there was going to be a fight about this.</text>
+            <text syncTime="509.419" offset="2180808">It was the moment following the NAACP's submission, I think, of a couple of plans.</text>
+            <text syncTime="514.309" offset="2200347">And it is findable on this record that what the board wanted to do was to avoid 7 years of litigation, and basically the board said, look, we'll take peace, even though we don't like the way we're getting it.</text>
+            <text syncTime="529.541" offset="2261265">We'll take peace with all of these defects.</text>
+            <text syncTime="533.094" offset="2275475">If that was the court's reasoning process, would that have been clearly erroneous, or, indeed, was that clearly erroneous?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="540.421" stopTime="544.642">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="540.421" offset="2304732">It was clearly erroneous.</text>
+            <text syncTime="542.371" offset="2312569">It's not entirely clear that that was the court's--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="544.642" stopTime="545.252">
+            <label>Justice David H. Souter</label>
+            <text syncTime="544.642" offset="2321660">I realize that.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="545.252" stopTime="559.681">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="545.252" offset="2324063">--the court's reasoning.</text>
+            <text syncTime="545.863" offset="2326571">What the court said was that it might be a legitimate reason to seek easy preclearance.</text>
+            <text syncTime="552.086" offset="2351439">What Your Honor's question implies is that the reason was that they wanted to avoid a controversy with the black citizens, but--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="559.681" stopTime="562.113">
+            <label>Justice David H. Souter</label>
+            <text syncTime="559.681" offset="2381846">Well, they wanted to avoid litigation, and they could see it coming.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="562.113" stopTime="579.093">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="562.113" offset="2391563">--If that's what it was.</text>
+            <text syncTime="564.184" offset="2399818">I do think Your Honor is right that the process and the sequence of events leading up to the decision is extremely telling and, indeed, Arlington Heights requires that that be considered as well.</text>
+            <text syncTime="573.590" offset="2437434">This was a process that was undertaken more than 3 years before they needed the plan.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="579.093" stopTime="597.776">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="579.093" offset="2459482">So if we didn't have the process and the sequence, if we just had a lazy school board that said, oh, the police jury got this plan, and it was precleared, so we'll take it with all its faults, if it hadn't been that, would this... would it have been okay?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="597.776" stopTime="640.816">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="597.776" offset="2534192">I think it would be a very different case.</text>
+            <text syncTime="600.428" offset="2544850">Clearly, the... that's not the case we have here, because we have a board that expected to draw a plan different from the police jury plan at the outset.</text>
+            <text syncTime="609.064" offset="2579332">That is stipulated, too, as well in the record and, indeed, we have a board that had a different plan from the police jury for a decade or more before they were faced with the redistricting considerations.</text>
+            <text syncTime="621.923" offset="2630741">This is a board that hired a cartographer with the expectation he would spend 200... 250 hours drawing a plan different from the police jury and went about that at a leisurely pace for over a year.</text>
+            <text syncTime="634.672" offset="2681836">Everything changed when the black citizens came forward and asked that they be fairly represented in the districting--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="640.816" stopTime="641.184">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="640.816" offset="2706391">Are you--</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="641.184" stopTime="641.734">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="641.184" offset="2707854">--process.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="641.734" stopTime="661.307">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="641.734" offset="2710048">--Are you certain that the district court here meant to exclude evidence that he called relevant to the section 2, meant to... was he saying, I'm not even going to consider that when I think about whether section 5 is violated, or is he saying, you can't build a section 5 case out of only that?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="661.307" stopTime="687.944">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="661.307" offset="2788311">Well, we're certainly not contending that you can build a section 5 out of only... section 5 case out of only that, but frankly there is no way to understand the district court's opinion by saying that it won't consider for section 5 purposes evidence that's relevant to section 2 on a record where all of the evidence is relevant both to section 2 and section 5, as other than... meaning the purpose prong of section 5 as other than--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="687.944" stopTime="693.079">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="687.944" offset="2894891">What is the evidence... and this was what Justice Scalia asked at the very first, and--</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="693.079" stopTime="693.550">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="693.079" offset="2915371">--Yes.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="693.550" stopTime="703.095">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="693.550" offset="2917252">--I wasn't sure that you completed your answer, and it's relevant to what you're discussing now with Justice Breyer.</text>
+            <text syncTime="697.641" offset="2933656">What is the evidence, other than bloc voting, that should have been considered and that was not?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="703.095" stopTime="721.107">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="703.095" offset="2955495">That no black person had ever been elected to the school board.</text>
+            <text syncTime="707.949" offset="2974930">That's stipulated at 115a.</text>
+            <text syncTime="709.489" offset="2981095">That there had never been more than one black member of the police jury.</text>
+            <text syncTime="712.672" offset="2993738">That's in the joint appendix at 55 to 60.</text>
+            <text syncTime="715.233" offset="3004083">That blacks had rarely been elected anywhere in the parish at the time.</text>
+            <text syncTime="719.185" offset="3019861">That's stipulated at 127a----</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="721.107" stopTime="723.069">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="721.107" offset="3027488">Those are all subsidiary elements of the bloc voting.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="723.069" stopTime="735.278">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="723.069" offset="3035325">--That's right, and then in terms of the history of discrimination, at the time of the decision this board was in violation of its duty to redress school segregation under Brown.</text>
+            <text syncTime="731.525" offset="3069180">That was noted by the district court, to be sure, in footnote 2 of--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="735.278" stopTime="738.657">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="735.278" offset="3084226">All right.</text>
+            <text syncTime="735.706" offset="3085898">So again, most of these things are in the record.</text>
+            <text syncTime="737.228" offset="3092063">It's just not clear that the--</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="738.657" stopTime="739.268">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="738.657" offset="3097705">--Well, they're all--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="739.268" stopTime="741.061">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="739.268" offset="3100213">--district court weighed them in a section 2 context.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="741.061" stopTime="741.410">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="741.061" offset="3107319">--They're--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="741.410" stopTime="743.773">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="741.410" offset="3108781">Is that a fair statement?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="743.773" stopTime="821.703">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="743.773" offset="3118185">--You're right that they're all in the record, Justice Kennedy, there's no question about that.</text>
+            <text syncTime="747.874" offset="3134590">What is apparent, however, is that the district court was not taking them into account as is required by Arlington Heights in making its judgment about purposeful discrimination.</text>
+            <text syncTime="756.570" offset="3169385">And with respect to the history of discrimination, remember, this is a school board that stipulated on the record that segregation has increased since the court... since they've been under Federal court order and, indeed, that they were assigning teachers to schools on racial grounds.</text>
+            <text syncTime="770.390" offset="3224661">This is a... the district court said expressly in footnote 18 of its opinion that it would not consider evidence that the board itself was in violation of its duties under the Federal court order to desegregate the schools.</text>
+            <text syncTime="786.660" offset="3289758">That's the evidence that was not considered.</text>
+            <text syncTime="789.361" offset="3300520">That is the evidence that should have been considered under the Arlington Heights standard, and if you add to that, and I'm going to come back to the sequence issues in just a moment, but if you add to that that this is a school board that came before the United States district court, to say nothing of the Attorney General, and urged false reasons... false reasons for why it was... why it made the decision it did, I... we submit that a jurisdiction with a clean, nondiscriminatory motive does not come to the United States District Court and urge false reasons, and--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="821.703" stopTime="861.329">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="821.703" offset="3429879">Mr. Patrick, here's what footnote 18 says.</text>
+            <text syncTime="824.146" offset="3439701">It seems to me entirely reasonable.</text>
+            <text syncTime="825.586" offset="3445448">Defendant mentions the continuing duty of the--</text>
+            <text syncTime="828.177" offset="3455792">--Where are you reading?</text>
+            <text syncTime="828.818" offset="3458404">It's on page 34a of the appendix to the jurisdictional statement.</text>
+            <text syncTime="833.611" offset="3477526">Defendant mentions the continuing duty of the school board to</text>
+            <text syncTime="837.403" offset="3492677">"remedy any remaining vestiges of the dual school system under the order in Lemon v. Bossier Parish School Board, citing in particular the school board's failure to maintain a biracial committee. "</text>
+            <text syncTime="848.429" offset="3536772">"We fail to see how this can be in any way related to the school board's purpose in adopting the police jury plan. "</text>
+            <text syncTime="855.986" offset="3567074">I don't... that seems to me quite reasonable.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="861.329" stopTime="863.022">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="861.329" offset="3588390">--Well, Your Honor, it--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="863.022" stopTime="869.344">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="863.022" offset="3595181">The court considered it, but in its judgment did not find it to be related.</text>
+            <text syncTime="868.505" offset="3617124">Now--</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="869.344" stopTime="869.835">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="869.344" offset="3620468">--Well--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="869.835" stopTime="884.553">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="869.835" offset="3622453">--must the court find that it proves what you want it to prove in order to comply with the law?</text>
+            <text syncTime="876.059" offset="3647322">It seems to me the court need only consider it, and then it's a matter of judgment whether it shows the animus or not.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="884.553" stopTime="899.403">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="884.553" offset="3681281">--What weight it's given is a matter of judgment, guided by the precedents of this Court, but whether it relates has been resolved by this Court.</text>
+            <text syncTime="896.322" offset="3728406">That's what Arlington Heights is about.</text>
+            <text syncTime="898.185" offset="3735825">Arlington Heights says--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="899.403" stopTime="903.407">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="899.403" offset="3740736">I take it, can be in any way related, means whether it has anything to do with as a factual matter.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="903.407" stopTime="932.315">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="903.407" offset="3756723">--That's right, and Arlington Heights says that it does have something to do with the determination about whether there was or was not purposeful discrimination.</text>
+            <text syncTime="910.140" offset="3783681">Legislative or administrative history at 268 of the Arlington Heights opinion was specifically noted and, indeed, the Rogers v. Lodge case states that the evidence, evidence of this very kind, bears heavily on the issue of purposeful discrimination, is, indeed, important evidence of purposeful exclusion.</text>
+            <text syncTime="928.412" offset="3856719">I'd like to reserve the balance of my time for rebuttal, if I may.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="932.315" stopTime="933.685">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="932.315" offset="3872393">Very well, Mr. Patrick.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="933.685" stopTime="934.186">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="933.685" offset="3877826">Thank you.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="934.186" stopTime="937.739">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="934.186" offset="3879812">Mr. Borkowski, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="937.739" stopTime="1527.091">
+          <heading>Argument of John W. Borkowski</heading>
+          <turn speaker="john_w_borkowski" startTime="937.739" stopTime="982.368">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="937.739" offset="3894022">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="945.833" offset="3926414">I'd like to start with the question Justice Scalia just asked about footnote 18, because that shows very clearly, I think, what has been going on in Bossier Parish.</text>
+            <text syncTime="956.843" offset="3970509">The evidence that the court didn't look at that dealt with the board's exclusion, admitted exclusion of blacks from educational policy issues.</text>
+            <text syncTime="966.196" offset="4007916">The court had ordered that a committee be established to allow blacks to have an opportunity for input into school board issues.</text>
+            <text syncTime="975.075" offset="4043443">This is the kind of nonresponsiveness, the kind of exclusion that is exactly what happened in the redistricting process.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="982.368" stopTime="1014.719">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="982.368" offset="4072595">Well, if we're... if you're going to get into the sort of detail that you say Arlington Heights requires us to get into, I would think that it would be important to know whether the school board's failure to maintain a biracial committee was the result of hostility to the idea, neglect, maybe unable to have the funds, maybe just got lost in the shuffle.</text>
+            <text syncTime="1004.393" offset="4160680">In other words, just saying it failed to maintain a biracial committee, if we're going to get into the sort of textual detail that Arlington Heights says, you have to know more about it than that.</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1014.719" stopTime="1031.060">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1014.719" offset="4201954">That's absolutely right, and the facts on this record are that the board admitted in the direct testimonies of Mr. Musgrove and Mr. Myrick, the two board members who testified, that when this committee started getting into educational policy issues, they disbanded, because they did not want this committee having a role in it.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1031.060" stopTime="1035.152">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1031.060" offset="4267364">Well, was the committee set up to deal with educational policy issues?</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1035.152" stopTime="1047.931">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1035.152" offset="4283665">Yes, it was.</text>
+            <text syncTime="1035.863" offset="4286590">The consent decree established it for that purpose, and the representations to the contrary, as we point out in our reply brief, in the appellee's brief, are simply false, and the record bears that out.</text>
+            <text syncTime="1046.990" offset="4331103">The--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1047.931" stopTime="1062.360">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1047.931" offset="4334865">And your position is that all these matters and many others like them must become a part of a section 5 case and must be resolved under section 2 standards before there can be... the preclearance decision can be made?</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1062.360" stopTime="1084.366">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1062.360" offset="4392543">--These facts only become relevant in a purpose determination.</text>
+            <text syncTime="1068.695" offset="4417830">Had the board come forward and not... and been able to show legitimate reasons, and there were not these... not this pattern there, this evidence wouldn't come in.</text>
+            <text syncTime="1077.631" offset="4453670">This is an unusual case.</text>
+            <text syncTime="1079.133" offset="4459625">In this purpose determination these factors have to be considered.</text>
+            <text syncTime="1083.074" offset="4475403">Justice O'Connor--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1084.366" stopTime="1098.434">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1084.366" offset="4480523">Well, but I thought there were two points.</text>
+            <text syncTime="1085.928" offset="4486793">One is that it may be relevant to purpose.</text>
+            <text syncTime="1089.167" offset="4499750">The other is that there must be a specific ruling on whether there is or is not a section 2 violation.</text>
+            <text syncTime="1096.264" offset="4528171">Don't you have... don't you make both arguments here?</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1098.434" stopTime="1144.516">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1098.434" offset="4536843">--I'm focusing here on the purpose argument only, and Justice O'Connor asked whether the Arlington Heights standard was the standard for section 5, and in Pleasant Grove even the dissenters, who did not find discriminatory purpose, cited Arlington Heights as the proper standard to apply, and decisions that this Court has affirmed... Busbee v. Smith and Port Arthur... also apply to Arlington Heights, and it's the constitutional standard, and... so I'm just talking at this point about the purpose argument.</text>
+            <text syncTime="1129.145" offset="4659723">All of these factors under Arlington Heights are relevant to showing discriminatory purpose, and the court erred in excluding it.</text>
+            <text syncTime="1134.839" offset="4682502">As Justice Scalia asked, how do we know that the court did this?</text>
+            <text syncTime="1138.652" offset="4697758">Well, the court said we will not permit section 2 evidence to prove discriminatory dis--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1144.516" stopTime="1145.445">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1144.516" offset="4721163">Where are you reading from, Mr. Borkowski?</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1145.445" stopTime="1155.493">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1145.445" offset="4724925">--Twenty-four a, in the appendix to the jurisdictional statement.</text>
+            <text syncTime="1150.419" offset="4744778">On 23a the court said we must... it's argued that we must consider--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1155.493" stopTime="1159.256">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1155.493" offset="4765049">Whereabouts on 23a, so we can follow you when you read.</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1159.256" stopTime="1167.062">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1159.256" offset="4780096">--On 23a and 24a, the court at three different times says that it's not going to consider this evidence.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1167.062" stopTime="1168.713">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1167.062" offset="4811338">Well, point out at least one of them, will you?</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1168.713" stopTime="1197.912">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1168.713" offset="4817921">Twenty-three a, at the beginning of the first paragraph, we... it's argued that we must still consider evidence of a section 2 violation as evidence of a discriminatory purpose under section 5.</text>
+            <text syncTime="1176.927" offset="4850835">We again disagree.</text>
+            <text syncTime="1178.439" offset="4856896">At the bottom of that paragraph, and Miller forecloses the permitting of section 2 evidence in a section 5 case, and then, at the end of that section, in 24a, we will not permit section 2 evidence to prove discriminatory purpose under section 5.</text>
+            <text syncTime="1194.059" offset="4919381">Judge Kessler, in dissent, in footnote 4--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1197.912" stopTime="1232.665">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1197.912" offset="4934741">Well, excuse me.</text>
+            <text syncTime="1199.754" offset="4942159">I took that... evidence of a violation, I took that to mean evidence that a violation existed, rather than evidence which could be used to show a violation for the one could be used to show a violation for the other.</text>
+            <text syncTime="1216.657" offset="5009764">I took that to mean, we reject the notion that you can come in and say, the district is in violation of section 2, and you quarrel with that statement, too.</text>
+            <text syncTime="1228.655" offset="5057725">You would allow a section 2 violation to be brought in.</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1232.665" stopTime="1233.657">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1232.665" offset="5073712">--Yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1233.657" stopTime="1241.341">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1233.657" offset="5077683">What we're discussing here is whether evidence that would go to show a violation may be brought in, and I don't see this as contradicting that.</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1241.341" stopTime="1320.933">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1241.341" offset="5108507">Well, there are three different statements, and one of the statements that... the statement you referred to could be interpreted that way, but Judge Kessler in dissent says to the... says in footnote 4 on page 42a that the majority is not considering this evidence, and the majority never says it is.</text>
+            <text syncTime="1258.793" offset="5178306">If you look at the evidence the majority analyzes, it only analyzes two types of evidence, and doesn't look at all sorts of evidence.</text>
+            <text syncTime="1267.100" offset="5211534">You asked what was excluded.</text>
+            <text syncTime="1268.960" offset="5218953">The fact that the board's plan fractures black neighborhoods, the same neighborhoods that the school board members consciously kept together in drawing 75-percent black school attendance boundaries were fractured by the plan.</text>
+            <text syncTime="1281.188" offset="5267854">That's a... those are stipulated, unrebutted facts on this record that appear nowhere in the majority's discussion of discriminatory intent, because they would also be relevant to section 2.</text>
+            <text syncTime="1291.795" offset="5310277">There are communities of interest that our clients have and other black voters in Bossier Parish have that are established by the testimony.</text>
+            <text syncTime="1299.110" offset="5339534">That is nowhere discussed in the majority's opinion.</text>
+            <text syncTime="1302.062" offset="5351341">The... what this Court has called the inexorable zero, the fact that no blacks have ever been elected to the school board, is nowhere discussed in the analysis of the board's purpose, and we think these... this kind of evidence cannot logically be excluded just because it's also relevant to a section 2--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1320.933" stopTime="1324.286">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1320.933" offset="5426783">Well, when you say excluded, you mean the court may not fail to consider it.</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1324.286" stopTime="1334.506">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1324.286" offset="5440262">--Yes.</text>
+            <text syncTime="1324.726" offset="5442039">I'm sorry, I misspoke there.</text>
+            <text syncTime="1325.948" offset="5446845">All of this evidence is stipulated facts, is testimony admitted into the record before this Court.</text>
+            <text syncTime="1332.173" offset="5471818">It's just not considered in the majority opinion.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1334.506" stopTime="1348.155">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1334.506" offset="5481118">Did... isn't mentioned in the majority opinion.</text>
+            <text syncTime="1336.287" offset="5488223">Suppose the court considered it but didn't mention it in its opinion.</text>
+            <text syncTime="1342.972" offset="5514972">Is it... is the judgment invalid because it was not mentioned in the opinion?</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1348.155" stopTime="1350.606">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1348.155" offset="5535766">No.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1350.606" stopTime="1370.359">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1350.606" offset="5545483">I mean, there are two different points.</text>
+            <text syncTime="1352.108" offset="5551544">Number 1 is that the court didn't even consider it, and if I agree with your interpretation of the language we were just discussing, then you would have established that the court didn't even consider it, but arguably the court could have considered it but not have thought it germane enough or significant enough to be mentioned in its opinion.</text>
+            <text syncTime="1368.537" offset="5617268">Would that also be a violation?</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1370.359" stopTime="1433.980">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1370.359" offset="5624582">I don't believe it would be a violation per se simply not to mention evidence that is considered.</text>
+            <text syncTime="1376.544" offset="5649242">The point here is that if the court actually did consider this evidence, which in every category of evidence in Arlington Heights shows discriminatory purpose, it could not have reached the conclusion that it reached.</text>
+            <text syncTime="1391.273" offset="5708174">As Judge Kessler said in dissent, this is... the evidence is far from being equally convincing on either side.</text>
+            <text syncTime="1398.126" offset="5735655">If you look at all of the stipulated and unrebutted evidence, this is not a close case.</text>
+            <text syncTime="1403.061" offset="5755299">The problem here with the majority's approach, and the problem in... if this Court would affirm the majority's decision, is that it would effectively eviscerate the purpose prong of section 5.</text>
+            <text syncTime="1414.959" offset="5802946">It would mean that the only kind of discriminatory purpose that would be reachable under section 5 would be publicly admitted or covertly tape recorded discriminatory purpose, because every other category of evidence that this Court has said in Arlington Heights requires a sensitive inquiry is here.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1433.980" stopTime="1447.210">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1433.980" offset="5879015">So what would you say is the instruction, on your view of this case, that the district court should be given were we to remand?</text>
+            <text syncTime="1442.966" offset="5914959">We'd say, district court, you did wrong, and this is what you should do.</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1447.210" stopTime="1461.169">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1447.210" offset="5931991">I believe that on this record the Court should not... should simply remand with instructions that preclearance be denied, because the record here overwhelmingly establishes discriminatory purpose.</text>
+            <text syncTime="1459.519" offset="5981206">There's no way, unless--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1461.169" stopTime="1470.585">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1461.169" offset="5987789">But if we don't agree with you on that and we think that the first shot, anyway, should be... or the second... done by the district court, what then?</text>
+          </turn>
+          <turn speaker="john_w_borkowski" startTime="1470.585" stopTime="1523.489">
+            <label>Mr. John W. Borkowski</label>
+            <text syncTime="1470.585" offset="6025405">--Then I would say that you would have to remand with instructions to apply Arlington Heights and to look at all of the evidence that this Court in the voting context, in section 5 cases, in school cases, in all cases where intent is an issue, to look at that evidence in all of those categories, keeping in mind that the burden of proof is on the school board here.</text>
+            <text syncTime="1493.599" offset="6117461">There was also evidence that the court considered that the court offered its own explanations for, which we cite in our briefs as another legal error.</text>
+            <text syncTime="1501.285" offset="6148285">The only evidence, contemporaneous, direct evidence of the board's intent are admissions that tend to show discriminatory purpose.</text>
+            <text syncTime="1510.201" offset="6183916">There are no contemporaneous minutes offering nonracial reasons for why the board did what it did.</text>
+            <text syncTime="1516.065" offset="6207322">There's no legislative history indicating nonracial reasons.</text>
+            <text syncTime="1520.336" offset="6224458">There are statements that some board members are hostile to black--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1523.489" stopTime="1527.091">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1523.489" offset="6237101">Thank you, Mr. Borkowski.</text>
+            <text syncTime="1525.231" offset="6243998">Mr. Carvin, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="1527.091" stopTime="3270.065">
+          <heading>Argument of Michael A. Carvin</heading>
+          <turn speaker="michael_a_carvin" startTime="1527.091" stopTime="1559.833">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="1527.091" offset="6251416">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1532.617" offset="6273568">Let me begin by focusing on the standard that the district court actually did apply in assessing the evidence.</text>
+            <text syncTime="1539.560" offset="6301363">Appellants would have this Court believe that the district court had in front of it a body of evidence that it considered probative to the question of purpose, and it sifted through that evidence and threw out all the evidence that it also thought was relevant to section 2, but of course the district court did not say that, and did not do that.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1559.833" stopTime="1560.914">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1559.833" offset="6382447">Well, my difficulty--</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="1560.914" stopTime="1561.705">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="1560.914" offset="6386731">What... excuse me.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1561.705" stopTime="1576.485">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1561.705" offset="6389970">--My... I'm sorry.</text>
+            <text syncTime="1562.925" offset="6394776">My difficulty with that argument is... goes to a statement which the court made back on 23a, which we were referring to a moment ago, in the appendix.</text>
+            <text syncTime="1575.493" offset="6445036">Do you have that handy?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="1576.485" stopTime="1577.354">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="1576.485" offset="6449007">Yes, I do.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1577.354" stopTime="1638.265">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1577.354" offset="6452559">Okay.</text>
+            <text syncTime="1577.855" offset="6454545">I will agree that some of the court's statement about what it was doing with evidence perhaps were ambiguous and lent themselves to your interpretation, but at the bottom of the page the court quotes from--</text>
+            <text syncTime="1592.264" offset="6512119">--Twenty-three a?</text>
+            <text syncTime="1592.845" offset="6514522">Yes, page 23a.</text>
+            <text syncTime="1593.987" offset="6519015">The court quotes from a panel opinion of a different panel but at the same court, and this is what it says:</text>
+            <text syncTime="1601.660" offset="6549735">As the panel noted, the court in Miller reaffirmed that the purpose prong of section 5 must be analyzed within the context of section 5's purpose, which has always been to ensure that no voting procedure changes would be made that would lead to a retrogression in the position of racial minorities.</text>
+            <text syncTime="1620.874" offset="6626639">Now, it seems to me that the court is there making it clear that the only purpose evidence it would consider was evidence of purpose to effect a retrogression, as opposed to a broader purpose to discriminate.</text>
+            <text syncTime="1636.643" offset="6689647">Isn't that fairly clear?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="1638.265" stopTime="1639.654">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="1638.265" offset="6696125">No, it's not, Your Honor.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1639.654" stopTime="1640.455">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1639.654" offset="6701768">Then explain that.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="1640.455" stopTime="1721.700">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="1640.455" offset="6704902">First of all, the case he is citing from did not... was making the point that in analyzing purpose you must look at the limited purpose of section 5 and not get into these additional section 2 issues that the Justice Department had urged upon the court in Texas and was also urging upon the court here.</text>
+            <text syncTime="1661.100" offset="6787449">But more directly to answer your question, of course, it was stipulated in this case that there was no retrogressive effect of the plan, so under your understanding of the district court opinion, the district court would have only been looking at, at did they have a purpose to effect a retrogression?</text>
+            <text syncTime="1679.051" offset="6859338">This would have been a very short opinion indeed if that had been its analysis.</text>
+            <text syncTime="1682.774" offset="6874176">It did not look at the purpose of the new plan compared to the status quo ante.</text>
+            <text syncTime="1688.467" offset="6896954">It looked at the purpose of the new plan as compared to the maximization alternative proposed by the NAACP.</text>
+            <text syncTime="1696.072" offset="6927361">The plan adopted had no black majority districts.</text>
+            <text syncTime="1699.004" offset="6939168">The NAACP plan had two black majority districts.</text>
+            <text syncTime="1702.977" offset="6955051">The district court spent its entire opinion analyzing, did the board do that... it's decision because of its negative impact on minority voters or in spite of it?</text>
+            <text syncTime="1714.194" offset="6999877">Did it have legitimate nondiscriminatory motives for rejecting the NAACP plan, or was it motivated by a racial reason?</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1721.700" stopTime="1723.881">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1721.700" offset="7029865">Then why did it quote what I just read?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="1723.881" stopTime="1724.492">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="1723.881" offset="7038643">Again--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1724.492" stopTime="1730.266">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1724.492" offset="7041046">I mean, it doesn't... the quotation doesn't seem to make any sense on your theory of the court's view of purpose.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="1730.266" stopTime="1774.685">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="1730.266" offset="7064138">--No, but in isolation it may not, but the context is this, Your Honor.</text>
+            <text syncTime="1733.856" offset="7078558">You have five section 5 courts who were trying to analyze why did the submitting jurisdiction make a change?</text>
+            <text syncTime="1741.513" offset="7109173">What was the purpose behind that change?</text>
+            <text syncTime="1743.994" offset="7119100">And they are examining all the circumstantial and direct evidence relating to the change.</text>
+            <text syncTime="1748.509" offset="7137176">The Justice Department in all five of those cases and here says, don't just look at what was motivating the board at the time.</text>
+            <text syncTime="1755.943" offset="7166852">We also want you to consider all of this additional section 2 evidence, as they're arguing here.</text>
+            <text syncTime="1761.555" offset="7189317">We want you to consider racial bloc voting in prior elections.</text>
+            <text syncTime="1766.379" offset="7208648">And the district courts in section 5 cases have consistently responded to the Justice Department, section 5 has a much more limited purpose.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1774.685" stopTime="1789.234">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1774.685" offset="7241875">Well, what is your position here?</text>
+            <text syncTime="1776.555" offset="7249294">Is it your position here that the only purpose that is relevant under section 5 is purpose to cause retrogression, as distinct from purpose to discriminate by effecting a purposeful dilution?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="1789.234" stopTime="1806.374">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="1789.234" offset="7300076">Oh, no.</text>
+            <text syncTime="1790.183" offset="7303838">No, not at all.</text>
+            <text syncTime="1790.894" offset="7306659">I think that decision, the Court's decision in Richmond and Pleasant Grove has already decided that issue and, indeed, since it was stipulated that it didn't even have the effect of retrogression, you can obviously assume they didn't have the purpose to retrogress, and this would have been a one-paragraph opinion.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1806.374" stopTime="1807.776">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1806.374" offset="7368621">But there could have been a purpose to dilute.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="1807.776" stopTime="1809.527">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="1807.776" offset="7374159">Yes.</text>
+            <text syncTime="1808.726" offset="7378025">That's the whole point.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1809.527" stopTime="1810.017">
+            <label>Unknown Speaker</label>
+            <text syncTime="1809.527" offset="7381160">Yes.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="1810.017" stopTime="1826.219">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="1810.017" offset="7383145">Even though you're not making things worse, We can conceive of circumstances where there's a fully reasonable alternative put in front of you that preserves black concentrations pursuant to traditional districting principles, but nonetheless, because you are a racist school board you say, no, we're not going to do that.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1826.219" stopTime="1853.334">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1826.219" offset="7447929">So if everybody agrees on that, if everybody agrees that the purpose is really the purpose to cause discrimination, not just the purpose not to retrogress, if everybody agrees at least sometimes a lot of this section 2 evidence in this case would be relevant, if not dispositive... not necessarily dispositive but relevant to showing that, and all we're arguing about is how ambiguous the district court's opinion is, why don't we just send it back to the district court to work it out and say, be clear, take it into account and do it?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="1853.334" stopTime="2000.913">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="1853.334" offset="7556390">There is no dispute as to what the district court did.</text>
+            <text syncTime="1857.739" offset="7574048">Appellants have now changed their opinion as to the legal standard applying.</text>
+            <text syncTime="1861.980" offset="7590976">Let me proceed in two steps.</text>
+            <text syncTime="1863.893" offset="7598708">The district court, in analyzing whether or not two nonretrogressive plans reflect discriminatory purposes, compares the maximizing alternative to the plan adopted and again asks, do we have a legitimate, nondiscriminatory purpose?</text>
+            <text syncTime="1877.702" offset="7653879">There is an impact here.</text>
+            <text syncTime="1879.404" offset="7660670">One's got black majority districts, one does not.</text>
+            <text syncTime="1881.985" offset="7671015">Now, what the appellants are asking the district court to do is, after they've figured out whether that impact is motivated by a discriminating purpose, go ahead and analyze racial bloc voting.</text>
+            <text syncTime="1893.111" offset="7715528">Well, what would that show you?</text>
+            <text syncTime="1895.022" offset="7723155">All racial bloc voting is relevant to is whether the black majority districts have an impact.</text>
+            <text syncTime="1900.516" offset="7745203">If you have no racial bloc voting, if you have no history of discrimination that currently excludes blacks, then there's no difference, as this Court noted in Johnson v. DeGrandy, between white majority districts and black majority districts.</text>
+            <text syncTime="1915.256" offset="7804135">Blacks can be elected in both districts.</text>
+            <text syncTime="1917.208" offset="7811972">So if the district court had gone on this detour that appellants insist they... insist it do, and agreed with them entirely, it would have returned to precisely the place it started, which is, yes, the NAACP plan, the failure to adopt it has an impact, but the relevant question under section 5 is whether that was motivated by a discriminatory purpose.</text>
+            <text syncTime="1939.303" offset="7900265">You see, all of the confusion comes here is because they keep quoting cases where plaintiffs, minority plaintiffs have the burden and, of course, in section 5 the burden is reversed.</text>
+            <text syncTime="1950.250" offset="7944151">So yes, in Rogers v. Lodge and Gingles and all of those cases, plaintiffs must prove racial bloc voting.</text>
+            <text syncTime="1956.724" offset="7969960">They must prove that you can create a compact black majority district, and then they must show that the failure to do so has an effect, and as Justice Brennan noted quite clearly in Gingles, it only has an effect if there is racial bloc voting.</text>
+            <text syncTime="1972.616" offset="8033594">So that is plaintiff's burden and, if they had the burden in the court below, they would have had to show that, but we had the burden, and we were making a much simpler argument.</text>
+            <text syncTime="1981.752" offset="8070061">We were saying, fine, the plan has an impact, but that's not the reason it did it... didn't... took the police jury plan over the NAACP plan.</text>
+            <text syncTime="1991.216" offset="8107991">We took the police jury plan over the NAACP plan because the NAACP plan clearly and irretrievably violated State law.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2000.913" stopTime="2025.310">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2000.913" offset="8146757">But this other evidence not only shows impact, it also shows what you might call disposition.</text>
+            <text syncTime="2009.970" offset="8183015">Doesn't the evidence of a violation on racial grounds of section 2 show that you're talking about people here who are likely to discriminate on the basis of race--</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2025.310" stopTime="2026.151">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2025.310" offset="8244350">Oh, I--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2026.151" stopTime="2028.673">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2026.151" offset="8247694">--and isn't that relevant to the section 5 determination?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2028.673" stopTime="2047.423">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2028.673" offset="8257830">--Your Honor, again, as appellants have correctly pointed out, the board was aware of the impact of this plan.</text>
+            <text syncTime="2036.217" offset="8287923">I mean, they can count.</text>
+            <text syncTime="2037.568" offset="8293356">They knew that the NAACP plan had two black majority districts and their plan had none.</text>
+            <text syncTime="2042.702" offset="8313941">Nobody's disputing that they were aware of the impact of this plan.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2047.423" stopTime="2049.717">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2047.423" offset="8332749">No, but the question goes to--</text>
+            <text syncTime="2049.045" offset="8339332">--I'm not talking about awareness.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2049.717" stopTime="2050.835">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2049.717" offset="8341944">Yes, but... okay.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2050.835" stopTime="2052.598">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2050.835" offset="8346437">I'm talking about intent.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2052.598" stopTime="2053.039">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2052.598" offset="8353542">Right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2053.039" stopTime="2054.038">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2053.039" offset="8355214">I'm talking about disposition.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2054.038" stopTime="2054.559">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2054.038" offset="8359289">Right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2054.559" stopTime="2057.491">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2054.559" offset="8361379">I'm talking about the character of the people who made the decision.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2057.491" stopTime="2078.835">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2057.491" offset="8373082">And how would that inquiry be aided by looking at regression analysis of racial elections that was done 3 years after the board's decision?</text>
+            <text syncTime="2067.755" offset="8414146">They brought in an expert to go through and produce this evidence of racial bloc voting which, by the way, it failed to produce and, of course, this plan has elected two black people--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2078.835" stopTime="2083.337">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2078.835" offset="8458450">Well, I suppose the answer is that people haven't changed that much over the course of 3 years.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2083.337" stopTime="2084.199">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2083.337" offset="8476422">--Well, I think--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2084.199" stopTime="2092.213">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2084.199" offset="8479870">Do you dispute the fact that evidence of bloc voting, which, in fact, is evidence which discloses an intent, is irrelevant--</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2092.213" stopTime="2093.445">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2092.213" offset="8511949">--No.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2093.445" stopTime="2094.935">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2093.445" offset="8516860">--to evidence of intent under section 5?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2094.935" stopTime="2102.000">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2094.935" offset="8522816">No.</text>
+            <text syncTime="2095.295" offset="8524279">Again, it is not irrelevant, particularly when plaintiffs have a burden, but it adds nothing to what--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2102.000" stopTime="2104.311">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2102.000" offset="8551132">You're saying it was just cumulative, is that it?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2104.311" stopTime="2112.425">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2104.311" offset="8560328">--It was superfluous and cumulative because racial bloc voting only tells you, again, whether black majority districts have an impact.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2112.425" stopTime="2114.188">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2112.425" offset="8592824">So... but if I may just--</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2114.188" stopTime="2114.508">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2114.188" offset="8599825">Sure.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2114.508" stopTime="2123.873">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2114.508" offset="8601183">--get clear on this, it would have been perfectly proper for the court to say, we will consider this evidence for the section 5 purpose issue.</text>
+            <text syncTime="2122.443" offset="8632843">That would have been legally correct.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2123.873" stopTime="2128.568">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2123.873" offset="8638590">Oh, sure, and remember the issue here is whether the court committed legal error.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2128.568" stopTime="2134.351">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2128.568" offset="8657399">Did the court ever say that the reason it was keeping it out was that it was superfluous and cumulative?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2134.351" stopTime="2173.138">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2134.351" offset="8680491">It said, I am considering evidence that is relevant to purpose.</text>
+            <text syncTime="2139.314" offset="8700344">No, Your Honor, it didn't say what it's implicit assumptions were, just like this Court in Miller.</text>
+            <text syncTime="2144.097" offset="8719465">This Court in Miller analyzed a section 5 purpose case, and it compared the legitimate nondiscriminatory reasons for adopting the plan with less majority black districts than the plan with more majority black districts.</text>
+            <text syncTime="2155.935" offset="8766799">The Justice Department in that brief urged upon them to... in this Court to independently consider the stark evidence of racial bloc voting in Georgia and the history of discrimination and all those sorts of things.</text>
+            <text syncTime="2167.922" offset="8814760">Now, the Court didn't do that because, like the court below, it assumed that--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2173.138" stopTime="2173.769">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2173.138" offset="8835658">Well--</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2173.769" stopTime="2175.779">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2173.769" offset="8838166">--the absence of the majority districts had an impact.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2175.779" stopTime="2181.303">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2175.779" offset="8846212">--Mr. Carvin, I just don't think the court's opinion on page 23a is consistent with what you're saying.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2181.303" stopTime="2181.814">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2181.303" offset="8868363">Well--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2181.814" stopTime="2185.096">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2181.814" offset="8870349">Go up to the top of that first full paragraph.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2185.096" stopTime="2185.904">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2185.096" offset="8883514">--Right.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2185.904" stopTime="2231.386">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2185.904" offset="8886754">The court summarizes the argument that it's responding to.</text>
+            <text syncTime="2191.328" offset="8908383">Defendant argues that even if we decide that a section 2 action cannot be brought in a section 5 preclearance proceeding, we must still consider evidence of a section 2 violation as evidence of discriminatory purpose under section 5.</text>
+            <text syncTime="2205.690" offset="8965852">Again, we disagree.</text>
+            <text syncTime="2207.449" offset="8972853">As we have said, the statutory language sets forth differing standards for the two sections.</text>
+            <text syncTime="2212.672" offset="8993751">Isn't that, when read in relation to the quote that I started from, the bloc vote from the earlier opinion, isn't that a pretty clear indication that what the court was finding was, or assuming was, not that this evidence was cumulative or superfluous, but that it was irrelevant?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2231.386" stopTime="2232.397">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2231.386" offset="9068670">Well, it--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2232.397" stopTime="2233.786">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2232.397" offset="9072641">And you have conceded that it was relevant.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2233.786" stopTime="2241.611">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2233.786" offset="9078283">--Well... well, but in that technical sense, as this Court has already pointed out, the court didn't rule it was irrelevant.</text>
+            <text syncTime="2239.781" offset="9102212">It admitted it into evidence, and--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2241.611" stopTime="2252.489">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2241.611" offset="9109526">Well, it says the two sections have different purposes, and the argument was that you must consider the evidence that might go to section 2 for section 5 purpose, and the court says we disagree.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2252.489" stopTime="2278.857">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2252.489" offset="9153098">--Right.</text>
+            <text syncTime="2252.970" offset="9154979">You must still consider evidence of a section 2 violation.</text>
+            <text syncTime="2258.323" offset="9176399">Now, that means that section 5 courts trying to figure out the purpose of this discrete change must engage in the amorphous and very complicated analysis of whether... not, the change is purposefully discriminatory, but whether the underlying electoral system has the result of discriminating.</text>
+            <text syncTime="2276.376" offset="9248602">It therefore must analyze racial bloc--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2278.857" stopTime="2280.026">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2278.857" offset="9258528">But that is not what the court said.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2280.026" stopTime="2280.316">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2280.026" offset="9263230">--Yes--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2280.316" stopTime="2283.640">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2280.316" offset="9264380">The court says, these two sections have different purposes.</text>
+            <text syncTime="2282.879" offset="9274620">Let Justice Souter finish his question--</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2283.640" stopTime="2284.100">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2283.640" offset="9277650">--Sorry.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2284.100" stopTime="2286.460">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2284.100" offset="9279531">--before you answer, Mr. Carvin.</text>
+            <text syncTime="2285.302" offset="9284337">It says, these two sections have different purposes.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2286.460" stopTime="2287.421">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2286.460" offset="9288935">And, of course, they do.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2287.421" stopTime="2290.834">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2287.421" offset="9292801">They do, but they also have a purpose in common, don't they--</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2290.834" stopTime="2291.575">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2290.834" offset="9306385">Sure.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2291.575" stopTime="2296.598">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2291.575" offset="9309415">--because intent to cause dilution is relevant under section 2 and under section 5.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2296.598" stopTime="2297.627">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2296.598" offset="9329477">Absolutely.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2297.627" stopTime="2302.352">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2297.627" offset="9333656">And doesn't the court's explanation indicate that that's not what the court thought?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2302.352" stopTime="2330.779">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2302.352" offset="9352465">If the court had said, we are not going to consider evidence that is relevant to both section 2 and section 5, you would be correct.</text>
+            <text syncTime="2313.749" offset="9398127">But what the court said was, we'll consider evidence that's relevant to section 5 but not relevant only to a section 2 violation.</text>
+            <text syncTime="2322.385" offset="9432608">How do the two statutes differ?</text>
+            <text syncTime="2324.696" offset="9441908">One has a purpose standard, and one has a result standard.</text>
+            <text syncTime="2327.787" offset="9454238">Some evidence of section--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2330.779" stopTime="2332.472">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2330.779" offset="9466254">No, they both have purpose standards.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2332.472" stopTime="2360.139">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2332.472" offset="9472941">--Yes, they both have that in common, but how do they differ?</text>
+            <text syncTime="2335.133" offset="9483599">They differ because section 2 can be violated wholly without regard to purpose and, therefore, the evidence for a section 2 violation has been consciously constructed to focus the court's inquiry not on the purpose for adopting this plan but on the results of the system, racial bloc voting and those sorts of things, and it was that subset of evidence that the court clearly said was the only evidence it wasn't--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2360.139" stopTime="2367.114">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2360.139" offset="9583701">But on your own argument, as I understand it, there was an error there, because evidence of racial bloc voting would indeed go to purpose, wouldn't it?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2367.114" stopTime="2368.904">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2367.114" offset="9611599">--The error has... no.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2368.904" stopTime="2371.535">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2368.904" offset="9618705">Didn't... I thought you agreed that that was so--</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2371.535" stopTime="2372.106">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2371.535" offset="9629258">No.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2372.106" stopTime="2375.109">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2372.106" offset="9631557">--and that the reason it was kept out was cumulativeness.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2375.109" stopTime="2378.581">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2375.109" offset="9643573">The argument was, in that court and this Court--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2378.581" stopTime="2381.943">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2378.581" offset="9657470">What is your position?</text>
+            <text syncTime="2379.643" offset="9661650">Do you think... you agree, don't you--</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2381.943" stopTime="2382.314">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2381.943" offset="9670845">--We--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2382.314" stopTime="2388.308">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2382.314" offset="9672308">--that evidence of racial bloc voting would be relevant evidence under the purpose prong of section 5, don't you?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2388.308" stopTime="2444.795">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2388.308" offset="9696341">--It would be relevant but superfluous.</text>
+            <text syncTime="2391.200" offset="9707939">Therefore, what section 5 courts should do is not exclude it as a matter of law, but pay attention to it only if it furthers the inquiry.</text>
+            <text syncTime="2399.776" offset="9742212">What appellants are asking this Court to do is to rule as a matter of law that they must always consider racial bloc voting, and my question again is, how does that further the analysis?</text>
+            <text syncTime="2409.850" offset="9782545">You have just gone through a comparison of a plan that you assume is better for black voters compared to one that you have assumed is not good for black voters, and you've found it is legal because it's not motivated by a discriminatory purpose.</text>
+            <text syncTime="2424.162" offset="9839701">Now, you could spend 20 or so pages discussing the extraordinarily voluminous evidence showing that, indeed, plans with black majority districts are better for black voters, but I don't think that this Court as a matter of law should rule that section 5 courts must engage in that sort of thing.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2444.795" stopTime="2455.070">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2444.795" offset="9922248">Well, what do we do if we're truly, at the end of the day, uncertain what it is the district court really excluded from consideration, if it's unclear to us?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2455.070" stopTime="2455.881">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2455.070" offset="9963416">I think--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2455.881" stopTime="2457.221">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2455.881" offset="9966656">Don't we have to remand?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2457.221" stopTime="2490.296">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2457.221" offset="9971985">--Your Honor, I had understood this Court's rule to be that ambiguities would be resolved in favor of district courts.</text>
+            <text syncTime="2463.148" offset="9995704">Rogers v. Lodge is a perfect example of that.</text>
+            <text syncTime="2465.178" offset="10003854">Rogers v. Lodge did not apply this Court's subsequent decision in Mobile v. Bolden, but the Court did a very searching analysis and said, could the district court have applied the purpose test under Mobile v. Bolden, and therefore it gave it the benefit of the doubt.</text>
+            <text syncTime="2480.649" offset="10065712">I would submit, however, in the context, and given the language, that this Court did not make the ruling that appellants said.</text>
+            <text syncTime="2489.485" offset="10101030">I--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2490.296" stopTime="2491.257">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2490.296" offset="10104269">May I ask you a question?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2491.257" stopTime="2491.588">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2491.257" offset="10108135">--Sure.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2491.588" stopTime="2511.780">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2491.588" offset="10109493">I think I understand your theory, and your argument's been very helpful to me, I might say.</text>
+            <text syncTime="2494.887" offset="10122659">But say there is in the record evidence that they drew boundary lines to segregate blacks when they were working out school districts and just the opposite kind of lines when they were doing voting districts.</text>
+            <text syncTime="2508.057" offset="10175322">Under your argument, that would be relevant and should have been considered?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2511.780" stopTime="2513.040">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2511.780" offset="10190264">Yes, Your Honor, of course.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2513.040" stopTime="2514.412">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2513.040" offset="10195279">Yes.</text>
+            <text syncTime="2513.490" offset="10197056">Because that goes to purpose.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2514.412" stopTime="2515.533">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2514.412" offset="10200713">Of course.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2515.533" stopTime="2527.231">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2515.533" offset="10205206">And if there's evidence in the record that that happened, and there's nothing... no mention of it in the opinion, doesn't that lend some support to the view that the court took a different line of reasoning than you're advocating?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2527.231" stopTime="2559.022">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2527.231" offset="10252017">Your Honor, if there was any evidence of fracturing in this case, I think that would not be my reasonable inference.</text>
+            <text syncTime="2532.163" offset="10271766">There was no evidence of fracturing based... Your Honor, if they had fractured black concentrations in Bossier Parish to create... to fail to create the black majority districts, then obviously appellants' job would be real easy.</text>
+            <text syncTime="2547.904" offset="10334669">All they would have to do is re... undo the fracture, and redraw the lines to create the black majority districts.</text>
+            <text syncTime="2553.878" offset="10358597">But we know that's not what occurred because if you look at the maps, no one redrew--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2559.022" stopTime="2570.769">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2559.022" offset="10379181">But let me interrupt you with one other point there.</text>
+            <text syncTime="2560.571" offset="10385346">I don't think our question is whether the court should have accepted the other proposed map.</text>
+            <text syncTime="2566.115" offset="10407603">I agree with you, that isn't it.</text>
+            <text syncTime="2567.437" offset="10412827">The question is whether it was correct to adopt the plan it did adopt.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2570.769" stopTime="2571.807">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2570.769" offset="10426202">--Right--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2571.807" stopTime="2572.288">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2571.807" offset="10430277">Yes.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2572.288" stopTime="2587.969">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2572.288" offset="10432262">--and the appellants try and make something very sinister about the adoption of the police jury plan.</text>
+            <text syncTime="2578.202" offset="10455877">The consistent, contemporaneous evidence has been that they rejected the NAACP plan because it violated State law, and they adopted the police jury--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2587.969" stopTime="2614.326">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2587.969" offset="10494956">But Mr. Carvin, this... clarify one thing about what you call the NAAC plan that was rejected.</text>
+            <text syncTime="2593.393" offset="10516690">I didn't think that plan was put forward as a rival to some other plan.</text>
+            <text syncTime="2599.066" offset="10539364">This case is not like the one we just heard in that regard.</text>
+            <text syncTime="2602.578" offset="10553366">I thought that plan was just put forward to show that it would be possible to create minority districts, not that this was a finished plan that was a rival to some other plan.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2614.326" stopTime="2629.677">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2614.326" offset="10600386">--Well, whether it was a work in progress or a final plan, the point is that it is stipulated that it is impossible to create even a single black majority district without splitting a precinct, and it is also quite clear from Louisiana--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2629.677" stopTime="2640.583">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2629.677" offset="10661826">But splitting a precinct is something that even the jury... the... whatever it's called, the police jury did.</text>
+            <text syncTime="2636.913" offset="10690770">Not terribly many, but they did for their plan, didn't they?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2640.583" stopTime="2664.368">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2640.583" offset="10705399">--Yes, and appellants have confused this issue, and it's very important that the Court be clear on it.</text>
+            <text syncTime="2644.976" offset="10722953">The police jury had no power under State law to split any precincts.</text>
+            <text syncTime="2650.220" offset="10743955">It was a facial violation for the police jury to split a precinct.</text>
+            <text syncTime="2654.043" offset="10759315">it was a facial violation for the board to split a precinct.</text>
+            <text syncTime="2657.936" offset="10774884">That is on joint appendix at 277.</text>
+            <text syncTime="2661.577" offset="10789408">The law could not be clearer under Louisiana.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2664.368" stopTime="2665.750">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2664.368" offset="10800589">But you get permission to do it.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2665.750" stopTime="2666.891">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2666.231" offset="10808008">No.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2666.891" stopTime="2668.082">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2666.891" offset="10810620">Well then, how was it done?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2668.082" stopTime="2706.137">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2668.082" offset="10815426">Because from April 1, '91 through May 15, 1991 police juries can split precincts.</text>
+            <text syncTime="2677.379" offset="10852625">The board here asked to work with the police jury at that time so they could split the precincts in April and May of 1991.</text>
+            <text syncTime="2684.543" offset="10881255">That's stipulated.</text>
+            <text syncTime="2685.222" offset="10883972">The police jury rejected the overture.</text>
+            <text syncTime="2687.215" offset="10891913">After May 15, 1991, it was impossible for the police jury to split precincts or the board to split precincts, and that is because that window of opportunity that the State legislature had consciously given to police juries so they could account for the '90 redistricting was now gone.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2706.137" stopTime="2708.397">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2706.137" offset="10967668">Where is that in the joint appendix?</text>
+            <text syncTime="2707.378" offset="10972579">You gave a page number.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2708.397" stopTime="2708.748">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2708.397" offset="10976654">Yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2708.748" stopTime="2708.988">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2708.748" offset="10978117">I didn't write it down.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2708.988" stopTime="2781.566">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2708.988" offset="10979057">That's joint appendix 277, Justice Scalia, and it says, notwithstanding any other provision of the law, the precinct boundaries shall not be divided, abolished, consolidated, or the boundaries otherwise changed until after December 31, 1992.</text>
+            <text syncTime="2727.622" offset="11053559">Now, could the board have waited until after December 31, 1992 to do its redistricting as appellants contend?</text>
+            <text syncTime="2737.208" offset="11091906">The answer to that is found at the joint appendix on page 65.</text>
+            <text syncTime="2742.340" offset="11112491">The United States' own chronology of events states quite explicitly at the top of 65, 12/31/92... of course, the same date... date under Louisiana law by which school boards must reapportion.</text>
+            <text syncTime="2758.620" offset="11177588">So during the time that the school board was legally obliged to reapportion, the police jury and the board were legally prohibited from splitting a single precinct.</text>
+            <text syncTime="2771.729" offset="11230042">That law is not, unfortunately, in the joint appendix, but it is Louisiana Revised Statutes at 17: 71.5A.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2781.566" stopTime="2786.970">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2781.566" offset="11269330">is that law consistent with one-person-one-vote requirements, do you think?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2786.970" stopTime="2791.902">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2786.970" offset="11290959">Your Honor, because of the window of opportunity.</text>
+            <text syncTime="2789.110" offset="11299528">You see, the logic of the law is this.</text>
+            <text syncTime="2791.141" offset="11307678">You get--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2791.902" stopTime="2800.307">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2791.902" offset="11310708">I'm sorry, I don't understand.</text>
+            <text syncTime="2793.414" offset="11316768">Is such a State law consistent with the requirements of one person, one vote in drawing districts?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2800.307" stopTime="2807.724">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2800.307" offset="11344354">--I took your question to mean, could they make adjustments for the 1990 census, but I may be misunderstanding--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2807.724" stopTime="2836.351">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2807.724" offset="11374029">Well, I'm asking, this Court has had several opinions that have required the utilization of the principle of one person, one vote in districting for whatever purpose, if it's for voting, a police jury or a school board that votes, and so forth, so is it consistent with that principle for a State law to say, you can't ignore a precinct boundary?</text>
+            <text syncTime="2833.640" offset="11477683">What if you have to in order to--</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2836.351" stopTime="2839.583">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2836.351" offset="11488550">--Oh, in order to... I now understand.</text>
+            <text syncTime="2838.402" offset="11496700">In order to achieve--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2839.583" stopTime="2841.915">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2839.583" offset="11501402">--draw equal districts and achieve that requirement?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2841.915" stopTime="2850.230">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2841.915" offset="11510806">--Right, but there was no violation, I don't believe, of the one-person-one-vote constitutional standard.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2850.230" stopTime="2854.874">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2850.230" offset="11544034">I'm asking, if it were, do you think that State law could prevail?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2854.874" stopTime="2875.137">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2854.874" offset="11562633">Oh, I believe there's an exception in the law for boards with different numbers of members than police juries to... they may split a precinct to come within plus or minus five in terms of ideal population deviation, but there was no argument--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2875.137" stopTime="2878.380">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2875.137" offset="11643612">Has this Court said plus or minus five is okay?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2878.380" stopTime="2910.380">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2878.380" offset="11656569">--I thought Mahan v. Howe used that as even just a presumptive guideline.</text>
+            <text syncTime="2883.011" offset="11675168">In congressional redistricting you must be much clearer.</text>
+            <text syncTime="2886.194" offset="11687916">I had understood this Court's decisions in Mahan and others to give local and State jurisdictions much broader discretion.</text>
+            <text syncTime="2893.329" offset="11716442">As long as within... it was within... roughly within 10 percent, then everything was okay, and even... I think Mahan went to about 16.4, and they did that to preserve the town boundary and here, so if you have to preserve a precinct boundary I think you'd also be okay under law, now that I understand your question, Justice O'Connor.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2910.380" stopTime="2922.918">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2910.380" offset="11784569">Why doesn't your... your argument, which is a very good argument as to why there was no purpose that violated section 5, not show... in order to see whether you're right or not we ought to introduce all the other evidence.</text>
+            <text syncTime="2922.418" offset="11832739">I mean--</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2922.918" stopTime="2923.379">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2922.918" offset="11834724">Well--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2923.379" stopTime="2935.765">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2923.379" offset="11836605">--on the other side they say that here are all these people on this board, which at that time had had only a black member for a very short period of time.</text>
+            <text syncTime="2932.315" offset="11872341">They didn't want the police jury district because they'd have to run against each other.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2935.765" stopTime="2936.236">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2935.765" offset="11886133">--Mm-hmm.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2936.236" stopTime="2956.579">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2936.236" offset="11888014">And they didn't want the police district for some reasons that then later on they just ignored, and what happened in between?</text>
+            <text syncTime="2943.833" offset="11918421">What happened in between was that the NAACP got busy and began to talk about a more proportionate system, so why isn't whether there could have been a more proportionate system or had to be a more proportionate system highly relevant?</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="2956.579" stopTime="3027.568">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="2956.579" offset="11969412">It is highly relevant.</text>
+            <text syncTime="2957.560" offset="11973382">The court looked at the NAACP as an alternative, and then asked itself the question, the proportionate plan, was this alternative objectively reasonable, and was the board's rejection of it motivated by discriminatory purpose, and in doing so, just to eliminate any ambiguity on this, it went through precisely the analysis that this Court articulated in Arlington Heights.</text>
+            <text syncTime="2980.936" offset="12066796">It did not cite Arlington Heights by name, I agree.</text>
+            <text syncTime="2983.717" offset="12077976">The court had noted earlier on in its opinion citing cases where minority plaintiffs have the burden makes it confusing when you're dealing with a section 5 case where, of course, the burden is on the other side, so it cited this Court's voting rights cases of City of Richmond and McCain v. Lybrand, the purpose cases under section 5.</text>
+            <text syncTime="3002.881" offset="12154672">But if I could briefly go through the Arlington Heights factors, did it look at the specific sequence of events?</text>
+            <text syncTime="3009.965" offset="12182989">There is a heading in the court's opinion that says, we'll now look at the specific sequence of events.</text>
+            <text syncTime="3015.180" offset="12203782">Did it look at the contemporary statements of the affected board members?</text>
+            <text syncTime="3020.302" offset="12224262">It spends about two pages walking through what it ultimately concluded were these ambiguous statements by other board members.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3027.568" stopTime="3032.410">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3027.568" offset="12253415">Mr. Carvin, I take it from what you said that you do accept that Arlington Heights is a relevant precedent.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="3032.410" stopTime="3032.771">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="3032.410" offset="12272745">Sure.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3032.771" stopTime="3038.535">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3032.771" offset="12274208">Right, so you think that it was just so understood that the district court didn't need to mention it.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="3038.535" stopTime="3055.635">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="3038.535" offset="12297196">Your Honor, to be candid, I don't think what people look at, what district courts look at in discriminatory purpose cases is a very complicated inquiry.</text>
+            <text syncTime="3048.670" offset="12337738">I mean, I think they looked at the direct and circumstantial evidence of, why did the board do this, and do we believe them, and is it objectively reasonable?</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3055.635" stopTime="3060.948">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3055.635" offset="12365637">The factors of Arlington Heights are not so arcane.</text>
+            <text syncTime="3057.866" offset="12374519">If you asked somebody on the street, what would you look at, he'd probably come up with the same things.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="3060.948" stopTime="3084.414">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="3060.948" offset="12386848">So I really must insist that the appellants here are really seeking to elevate form over substance.</text>
+            <text syncTime="3067.243" offset="12412030">They're seeking to require district courts to recite the blazingly obvious.</text>
+            <text syncTime="3071.216" offset="12427913">We're now looking at the black majority district, and we're looking at the other plan.</text>
+            <text syncTime="3075.408" offset="12444736">The black majority plan, if it's not chosen, has an impact.</text>
+            <text syncTime="3080.132" offset="12463648">The court didn't do that in Miller.</text>
+            <text syncTime="3081.542" offset="12469291">I don't know of any purpose case that does--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3084.414" stopTime="3100.805">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3084.414" offset="12480785">If the appellants' argument is that the findings were clearly erroneous because there was so much other evidence pointing in the other direction, that isn't requiring the district court to put its opinion in some sort of procrustean bed.</text>
+            <text syncTime="3098.842" offset="12538463">That's an ordinary clearly erroneous argument.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="3100.805" stopTime="3171.872">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="3100.805" offset="12546300">--Oh, sure, and... but I don't think they think they can win the clearly erroneous argument, because no race-blind actor would have behaved in any way different from this board.</text>
+            <text syncTime="3108.840" offset="12578483">Again, the NAACP plan violated State law.</text>
+            <text syncTime="3113.034" offset="12595201">The police jury plan did not.</text>
+            <text syncTime="3114.253" offset="12600112">Even assuming there was this loophole that appellants talked about, you could only make the NAACP comply with State law by going to the police jury, taking some affirmative steps.</text>
+            <text syncTime="3124.331" offset="12640445">The argument to the police jury for complying with State law would have been objectively irrational.</text>
+            <text syncTime="3130.556" offset="12665314">It would have been, we'd now like you to create 65 additional precincts in a district with 56 precincts.</text>
+            <text syncTime="3139.370" offset="12700631">No rational person would have taken the NAACP plan if you were blind to the racial composition, so their clearly erroneous case reduces to the proposition that it's not plausible to believe that this board did the only rational thing for rational reasons.</text>
+            <text syncTime="3155.229" offset="12764056">You must conclude, as a matter of law, that this board did the rational thing for a racial purpose.</text>
+            <text syncTime="3160.934" offset="12786835">I concede that that is conceivable, but I don't think it's grounds for finding the district court's contrary conclusion clearly erroneous, particularly since, again, it was a facial violation.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3171.872" stopTime="3185.110">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3171.872" offset="12830616">Why was it rational to set up school districts with some districts that had a few schools, several schools, and some districts that had no schools at all?</text>
+            <text syncTime="3181.456" offset="12868964">It just seems a very odd kind of a school districting.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="3185.110" stopTime="3214.329">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="3185.110" offset="12883488">Your Honor, school districts represents parents and children, they don't represent buildings.</text>
+            <text syncTime="3189.053" offset="12899266">It was never a redistricting criteria in Bossier Parish to have a school building in each district.</text>
+            <text syncTime="3195.188" offset="12923821">Mrs. Jackson's testimony below was that under the 1980 plan, the old plan, she did not have a building in her district.</text>
+            <text syncTime="3203.683" offset="12957781">It is stipulated that well before the NAACP plan ever came into existence they did not provide their cartographer, Mr. Joiner, with school attendance zones, so--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3214.329" stopTime="3217.750">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3214.329" offset="13000412">But I thought that was one of the reasons why they were resisting the jury police--</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="3217.750" stopTime="3218.291">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="3217.750" offset="13014101">--No--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3218.291" stopTime="3218.772">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3218.291" offset="13016295">--plan originally.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="3218.772" stopTime="3237.833">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="3218.772" offset="13018176">--That is what the appellants are attributing to them, and there is a stipulation that school boards typically look at that, but the undisputed evidence is, this school board did not care about that, and we know that to a certainty, because it didn't give their line-drawer any evidence of where the school buildings were, so--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3237.833" stopTime="3243.140">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3237.833" offset="13094453">So are you saying that it was... incumbency was the only thing that kept them from resisting the--</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="3243.140" stopTime="3264.741">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="3243.140" offset="13115665">--And the incumbency paled in significance to the advantages of the police jury plan for guaranteeing preclearance.</text>
+            <text syncTime="3249.133" offset="13139593">Pairs of incumbents are, of course, only a problem if both incumbents are going to run again.</text>
+            <text syncTime="3255.168" offset="13163730">There was two pairs of incumbents here.</text>
+            <text syncTime="3256.908" offset="13170731">But the evidence again, by Mr. Musgrove at trial, by Mr. Harvey at trial, and by Ms. Jackson, again in a deposition--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3264.741" stopTime="3267.613">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3264.741" offset="13202078">--I think you've answered the question, Mr. Carvin.</text>
+            <text syncTime="3266.594" offset="13209496">Thank you.</text>
+          </turn>
+          <turn speaker="michael_a_carvin" startTime="3267.613" stopTime="3268.464">
+            <label>Mr. Michael A. Carvin</label>
+            <text syncTime="3267.613" offset="13213572">--Thank you.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3268.464" stopTime="3270.065">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3268.464" offset="13216915">Mr. Patrick, you have 5 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3270.065" stopTime="3452.477">
+          <heading>Rebuttal of Deval L. Patrick</heading>
+          <turn speaker="deval_l_patrick" startTime="3270.065" stopTime="3316.568">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="3270.065" offset="13223394">Thank you, and if the... Mr. Chief Justice, if the Court please, I'd just like to return to a question I didn't answer very well from Justice O'Connor.</text>
+            <text syncTime="3279.572" offset="13261428">You asked about cases where the Court has, in the section 5 context, reflected its respect for the Arlington Heights standards, and they... those cases are cited... they're beyond Rogers v. Lodge.</text>
+            <text syncTime="3289.790" offset="13302283">They're cited in the first full paragraph on page 17 of our brief.</text>
+            <text syncTime="3293.343" offset="13316494">I'm sorry it wasn't very complete earlier.</text>
+            <text syncTime="3294.913" offset="13322763">Also, there was a statement made about precinct changes and precinct-splitting that was... has been argued by the parish.</text>
+            <text syncTime="3305.090" offset="13363410">In fact, precincts could be split, indeed, were split by the police jury.</text>
+            <text syncTime="3308.353" offset="13376471">They split 20 precincts.</text>
+            <text syncTime="3309.842" offset="13382427">You'll see that on... stipulated at 88a and 88... 89a.</text>
+            <text syncTime="3314.536" offset="13401235">The only argument is, the only--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3316.568" stopTime="3322.051">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3316.568" offset="13409385">Did they do that within the window that the legislature gave them?</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="3322.051" stopTime="3339.141">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="3322.051" offset="13431328">--I believe they did, yes, and the only argument, Justice Kennedy, is that the school board could not split precincts without the police jury's permission.</text>
+            <text syncTime="3332.369" offset="13472602">The school board never tried to get the police jury's permission.</text>
+            <text syncTime="3335.310" offset="13484305">They expected to do so.</text>
+            <text syncTime="3337.552" offset="13493291">They set out to draw a different plan--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3339.141" stopTime="3346.607">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3339.141" offset="13499665">No, the argument's a little further than that, as I understood the last argument.</text>
+            <text syncTime="3342.173" offset="13511785">That is, even the police jury itself could not do it once the window of opportunity had closed.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="3346.607" stopTime="3354.802">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="3346.607" offset="13529549">--Well, but the window of opportunity opens again on... after the 1st of January, 1993, and that's important.</text>
+            <text syncTime="3352.831" offset="13554417">That was known to the school board at the time--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3354.802" stopTime="3360.606">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3354.802" offset="13562359">But they had... but again, the argument made was that they had an obligation to come up with districts before then.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="3360.606" stopTime="3366.170">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="3360.606" offset="13585555">--Well, that's right.</text>
+            <text syncTime="3361.757" offset="13590153">They... I understand that argument, but what we do know is that--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3366.170" stopTime="3368.200">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3366.170" offset="13607812">Is it wrong?</text>
+            <text syncTime="3366.861" offset="13610528">Did they have no obligation to come up with--</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="3368.200" stopTime="3448.944">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="3368.200" offset="13615857">--I'm not convinced it's right, Justice Scalia, but what is clear is that consolidation after the window opened again has happened in Bossier Parish.</text>
+            <text syncTime="3378.889" offset="13658698">It was done by the police jury and could have been done, and indeed the record indicates that the school board could have drawn a plan with two majority-minority districts in it that ended up with fewer precincts in it than the police jury plan.</text>
+            <text syncTime="3392.336" offset="13712406">The other point I wanted to make is that the Court needs to understand that this is not a choice.</text>
+            <text syncTime="3397.689" offset="13733826">This case is not about a choice between the plan they adopted and the NAACP alternative.</text>
+            <text syncTime="3402.524" offset="13753157">That is a... that's a ruse.</text>
+            <text syncTime="3404.965" offset="13762979">It's very important to understand that this is about the school board's unwillingness to consider any alternative at all to the plan that they knew at the time was dilutive, and which they admit on the record at the time they knew they could have drawn one with two reasonably compact majority-minority districts.</text>
+            <text syncTime="3424.857" offset="13842496">It is not maximizing for the Department of Justice to question a jurisdiction that draws a plan which hardly serves its own interests, that pits incumbents against each other, that distributes the schools in irrational ways, and is dilutive, rather than adopting a plan that is fair, and that is really what this case is about.</text>
+            <text syncTime="3447.463" offset="13932984">If there are no other questions--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3448.944" stopTime="3450.847">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3448.944" offset="13938835">Thank you, Mr. Patrick.</text>
+          </turn>
+          <turn speaker="deval_l_patrick" startTime="3450.847" stopTime="3451.227">
+            <label>Mr. Deval L. Patrick</label>
+            <text syncTime="3450.847" offset="13946463">--Thank you.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3451.227" stopTime="3452.477">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3451.227" offset="13948030">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

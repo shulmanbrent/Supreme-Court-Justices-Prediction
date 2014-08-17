@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+        <edit user="jgoldman" date="2014-01-15T14:16:18" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+      </history>
+      <resources>
+        <audioFile size="596585">/xml/cases/1990/89_1690/19910530o_89-1690.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1690_19910530-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="130.612">
+        <title>California v. Acevedo</title>
+        <section startTime="0.000" stopTime="130.612">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="5.724">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="74136">The opinions of the Court in two cases will be announced by Justice Blackmun.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="5.724" stopTime="130.612">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="5.724" offset="97019">The first case is No. 89-1690, California against Acevedo.</text>
+            <text syncTime="12.755" offset="125127">The case comes to us from the Court of Appeals of California and it is another one having to do with the validity of an automobile search.</text>
+            <text syncTime="21.419" offset="159713">The police observed the respondent leaving an apartment was known to contain marijuana with a brown paper bag, the usual brown paper back, and he placed the bag in the trunk of his car, the police stopped the car, opened the trunk and the bag and found marijuana.</text>
+            <text syncTime="39.619" offset="232543">The respondent's motion to suppress the drug was denied and he then pleaded guilty.</text>
+            <text syncTime="45.124" offset="254590">California Court of Appeals held that the marijuana should have been suppressed.</text>
+            <text syncTime="50.475" offset="276010">It found the officers had probable cause to believe that the bag contained drugs, but lacked probable cause to suspect that the car, itself, otherwise contained contraband.</text>
+            <text syncTime="61.751" offset="321045">And it concluded that the paper bag could not be opened without a warrant.</text>
+            <text syncTime="65.997" offset="338077">In an opinion filed today, we reverse that judgment.</text>
+            <text syncTime="70.430" offset="355840">In a search extending only to a container within an automobile, the police may search the container without a warrant where they have probable cause to believe that it holds contraband.</text>
+            <text syncTime="82.002" offset="402129">In the case of Carroll against the United States, decided in 1925, provides one rule to govern all automobile searches.</text>
+            <text syncTime="91.504" offset="440059">The doctrine of stare decisis does not preclude the court from eliminating the warrant required in the case of Arkansas against Sanders decided in 1979 which we feel affords minimal protection to a privacy interest.</text>
+            <text syncTime="107.306" offset="503276">This holding does not extend the carroll doctrine nor does it broaden the scope of permissible automobile searches.</text>
+            <text syncTime="114.337" offset="531383">Justice Scalia has filed an opinion concurring in the judgment.</text>
+            <text syncTime="118.366" offset="547579">Justice White has filed a dissenting statement and would affirm the judgment below.</text>
+            <text syncTime="123.576" offset="568373">Justice Stevens has filed a dissenting opinion and is joined therein by Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

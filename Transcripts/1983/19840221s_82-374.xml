@@ -1,0 +1,34 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="523830">/xml/cases/1983/82_374/19840221o_82-374.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1983/trs/82-374op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="104.989">
+        <title>Flanagan v. United States</title>
+        <section startTime="0.000" stopTime="104.989" revised="2014-01-27">
+          <heading>Opinion Announcement of Justice Sandra Day O'Connor</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.427">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="103549">The judgments and opinion of the Court in Flanagan against the United States will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="8.427" stopTime="104.989">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="8.427" offset="137195">This case comes to us on certiorari to the United States Court of Appeals for the Third Circuit.</text>
+            <text syncTime="15.084" offset="163840">The petitioners, four Philadelphia police officers, were indicted by a federal grand jury for conspiring to deprive citizens of their civil rights and for committing substantive civil rights offenses.</text>
+            <text syncTime="29.830" offset="222772">The petitioners had retained a certain law firm to act as their joint counsel.</text>
+            <text syncTime="35.725" offset="246387">The Government moved to disqualify the law firm from its multiple representations and the District Court granted the motion.</text>
+            <text syncTime="44.399" offset="281077">The Court of Appeals affirmed after noting that it had jurisdiction under Section 1291 of Title 28 of the United States Code because the disqualification order was appealable prior to trial as a collateral order.</text>
+            <text syncTime="62.659" offset="354116">In an opinion filed today, we reverse that holding and hold that the disqualification order was not immediately appealable under Section 1291, and hence the Court of Appeals had no jurisdiction to review the order prior to entry of final judgment in the case.</text>
+            <text syncTime="82.782" offset="434677">There is a strong policy against piecemeal appellate review of trial court orders and decisions made before the final termination of a criminal case in the trial court.</text>
+            <text syncTime="94.548" offset="481698">The order of disqualification of counsel does not fall within the collateral order exception to the final judgment rule.</text>
+            <text syncTime="102.239" offset="512418">Our opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:09:36" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="557592">/xml/cases/1990/89_1149/19910115o_89-1149.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1149_19910115-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="120.868">
+        <title>Grogan v. Garner</title>
+        <section startTime="0.000" stopTime="120.868">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.422">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="74118">The opinion of the Court in No. 89-1149, Grogan against Garner will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="9.422" stopTime="120.868">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="9.422" offset="111734">The petitioners had secured a fraud judgment against respondent.</text>
+            <text syncTime="13.671" offset="128766">While appeal of that judgment was pending, the respondent filed for reorganization under Chapter 11 of the Bankruptcy Code.</text>
+            <text syncTime="21.455" offset="159904">After the fraud judgment was affirmed, petitioners filed a complaint in Bankruptcy Court seeking a ruling that their judgment was exempt from discharge under Section 523(a) of the Code.</text>
+            <text syncTime="32.752" offset="205044">That section provides that a discharge in bankruptcy shall not release a debtor from certain obligations including those for money obtained by actual fraud.</text>
+            <text syncTime="42.573" offset="244332">The question in this case is whether the statute requires a defrauded creditor to prove his claim by clear and convincing evidence in order to preserve it from discharge.</text>
+            <text syncTime="52.975" offset="285919">The Bankruptcy Court found that all of the elements required to establish actual fraud under Section 523 had been proved in the prior proceeding and held that the doctrine of collateral estoppel require the holding that the debt was therefore not dischargeable.</text>
+            <text syncTime="67.864" offset="345478">The District Court affirmed, but the Court of Appeals for the Eighth Circuit reversed ruling that collateral estoppel did not apply because petitioners had proved their underlying fraud claim only by a preponderance of the evidence.</text>
+            <text syncTime="80.149" offset="394693">The discharge exception the Court of Appeals held requires proof by the higher clear and convincing standard.</text>
+            <text syncTime="87.023" offset="422174">We now reverse, we hold that a creditor need prove his entitlement to an exception from discharge by only a preponderance of the evidence.</text>
+            <text syncTime="94.768" offset="453102">Neither the statutory text nor the legislative history provides evidence of congressional intent to require a standard of proof more stringent than the preponderance standards which generally applies in civil actions.</text>
+            <text syncTime="107.767" offset="505138">Application of the preponderance standard is consistent with the structure of the discharge exceptions and with Congress' intent that all fraud claims that have been reduced to judgment be exempt from discharge.</text>
+            <text syncTime="118.507" offset="548084">Our opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,32 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:08:43" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="302884">/xml/cases/1990/90_79/19910416o_90-79.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/90-79_19910416-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="57.234">
+        <title>Kay v. Ehrler</title>
+        <section startTime="0.000" stopTime="57.234">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="6.821">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73947">The opinion of the Court in No. 90-79, Kay against Ehrler will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="6.821" stopTime="57.234">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="6.821" offset="101219">The petitioner in this case is a lawyer who twiced requested the Kentucky Board of Elections to place his name on the Democratic Party's primary ballot for the office of President of the United States.</text>
+            <text syncTime="19.556" offset="152105">When the Board refused to do so, he brought suit challenging the constitutionality of the Kentucky statute on which the Board had relied.</text>
+            <text syncTime="27.522" offset="183975">He ultimately prevailed and sought an award of reasonable attorney's fee pursuant to the fee shifting provision of the Civil Rights Act.</text>
+            <text syncTime="35.713" offset="216785">We granted certiorari to resolve a conflict in the circuits concerning the question whether a lawyer who represents himself in this kind of litigation maybe be awarded such a fee.</text>
+            <text syncTime="45.787" offset="257013">For reasons stated in a unanimous opinion, we conclude that such a fee award is not authorized by the statue and therefore, we affirm the judgment of the Court of Appeals for the Sixth Circuit.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

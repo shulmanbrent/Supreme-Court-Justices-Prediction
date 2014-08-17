@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1994-11-01</transcribed>
+        <edit user="jclow26" date="2012-07-16T15:30:37" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <identified user="jclow26">2012-07-16</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:17:35" startTime="0.000" oldSpeaker="sandra_day_oconnor" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="331255">/xml/cases/1994/93_981/19941101o_93-981.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1994/93-981_19941101-opinion.xml</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="61.100">
+        <title>United States v. Shabani</title>
+        <section startTime="0" stopTime="7.308">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.308">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="86853">The opinion of the court in number 93-981, United States against Shabani will be announced by Justice O'Connor.</text>
+          </turn>
+        </section>
+        <section startTime="7.308" stopTime="61.100">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="sandra_day_oconnor" startTime="7.308" stopTime="61.100">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="7.308" offset="116006">This case comes to this court on writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="14.435" offset="144531">We took the case to resolve rather a lopsided conflict among the Courts of Appeals.</text>
+            <text syncTime="20.662" offset="169400">In the opinion filed today we hold that the drug conspiracy statute § 21 U. S. C. § 846 does not require the government to prove that a conspirator under the Drug Conspiracy Law has committed an overt act in furtherance of the conspiracy.</text>
+            <text syncTime="41.658" offset="253410">Unlike the general conspiracy statute § 846 follows the common law definition of conspiracy which requires only that the conspirators enter into an agreement to commit an unlawful act.</text>
+            <text syncTime="55.732" offset="309730">Accordingly the judgment of the Court of Appeals is reversed.</text>
+            <text syncTime="59.302" offset="324045">The opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

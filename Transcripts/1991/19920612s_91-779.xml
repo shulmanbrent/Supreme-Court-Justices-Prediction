@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:28:20" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="553230">/xml/cases/1991/91_779/19920612o_91-779.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/91-779_19920612-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="115.592">
+        <title>Burlington Northern Railroad Company v. Ford</title>
+        <section startTime="0.000" stopTime="115.592">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="11.162">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90863">The opinion of the Court in No. 91-779, Burlington Northern Railroad Company versus Ford will be announced by Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="11.162" stopTime="115.592">
+            <label>Justice David H. Souter</label>
+            <text syncTime="11.162" offset="135480">This case comes to us on writ of certiorari to the Supreme Court of Montana.</text>
+            <text syncTime="15.196" offset="151572">Respondents are railroad workers who sued their employer, the petitioner here, in Trial Court for Yellowstone County, Montana.</text>
+            <text syncTime="22.978" offset="182710">The petitioner, Burlington, a company incorporated in Delaware with headquarters in Texas, moved for a change of venue to the Trial Court of Hill County, Montana saying that it had its principal place of business in Montana in that county.</text>
+            <text syncTime="36.157" offset="235477">The Trial Court denied the motion and the Supreme Court of Montana affirmed.</text>
+            <text syncTime="40.886" offset="254390">Under Montana's venue rules, a company incorporated in Montana may be sued only in the county where it has its principal place of business.</text>
+            <text syncTime="48.340" offset="284169">The company incorporated elsewhere, on the other hand, may be sued in any of Montana's 56 counties.</text>
+            <text syncTime="54.006" offset="306843">Burlington says that this discrimination violates the Equal Protection Clause.</text>
+            <text syncTime="58.316" offset="324084">In a unanimous opinion filed with the Clerk today, we affirm the judgment of the Supreme Court of Montana and hold that the Montana rules are constitutional because they rationally further a legitimate state purpose.</text>
+            <text syncTime="69.171" offset="367447">Montana could have assumed that a company's headquarters are a greater importance to its convenience in litigation than a company's other offices.</text>
+            <text syncTime="76.238" offset="395764">That companies incorporated in Montana likely have headquarters in Montana and that companies incorporated elsewhere likely do no have headquarters in Montana.</text>
+            <text syncTime="85.291" offset="432022">On these assumptions, Montana could reasonably decide that only the convenience to a corporate defendant of litigating where its headquarters are is sufficient to outweigh a plaintiff's interest in suing in the county of his choice.</text>
+            <text syncTime="97.882" offset="482386">Burlington has failed to show that the assumption that corporate defendants incorporated outside of Montana are unlikely to have their headquarters in Montana is irrational.</text>
+            <text syncTime="107.904" offset="522406">Besides, Burlington has its headquarters in Texas and is, therefore, in no position to complain.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

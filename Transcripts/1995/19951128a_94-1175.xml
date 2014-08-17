@@ -1,0 +1,946 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1995-11-28</transcribed>
+        <edit user="jclow26" date="2012-07-16T21:00:22" startTime="2871.498" oldSpeaker="unknown_speaker" newSpeaker="ruth_bader_ginsburg"/>
+        <identified user="jclow26">2012-07-16</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="11749899">/xml/cases/1995/94_1175/19951128a_94-1175.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1995/94-1175_19951128-argument.xml</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="robert_a_long_jr" type="advocate" gender="male" path="/advocates/rl/robert_a_long_jr" image="/advocates/rl/robert_a_long_jr/thumbnail.jpg">Robert A. Long, Jr.</speaker>
+        <speaker id="jeffrey_p_minear" type="advocate" gender="male" path="/advocates/jm/jeffrey_p_minear" image="/advocates/jm/jeffrey_p_minear/thumbnail.jpg">Jeffrey P. Minear</speaker>
+        <speaker id="robert_g_epsteen" type="advocate" gender="male" path="/advocates/re/robert_g_epsteen" image="/advocates/re/robert_g_epsteen/thumbnail.jpg">Robert G. Epsteen</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="2904.082">
+        <title>Bank One Chicago, N.A. v. Midwest Bank &amp; Trust Company</title>
+        <section startTime="0.000" stopTime="795.410">
+          <heading>Argument of Robert A. Long, Jr.</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.272">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="126977">We'll hear argument first this morning in Number 94-1175, Bank One Chicago v. Midwest Bank &amp; Trust Company.</text>
+            <text syncTime="8.487" offset="160832">Mr. Long.</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="9.272" stopTime="105.383">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="9.272" offset="163966">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="12.558" offset="177132">The issue in this case is whether Federal courts have jurisdiction to decide interbank claims for damages under the Expedited Funds Availability Act and its implementing regulations.</text>
+            <text syncTime="26.048" offset="231153">In the civil liability section of the act, which is codified at 12 United States Code, section 4010, Congress provided in subsection (d) that any action under this section may be brought in Federal court or State court.</text>
+            <text syncTime="45.445" offset="308685">In subsection (f) of Section 4010, Congress provided for liability under this subsection for damages for violation of rules governing the interbank check payment system promulgated by the Federal Reserve Board.</text>
+            <text syncTime="63.906" offset="382559">The natural reading of this statutory language is that banks have an action under subsection (f) for violations of the check-processing rules, and Federal courts have jurisdiction to decide such actions under subsection (d).</text>
+            <text syncTime="81.118" offset="451418">Congress placed subsection (f) in the civil liability section of the statute, section 4010 provides that depositor claims under subsection (a) maybe brought in Federal court, and there is simply no indication that Congress intended interbank claims to be adjudicated in a different forum.</text>
+            <text syncTime="103.567" offset="541175">The--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="105.383" stopTime="116.625">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="105.383" offset="548489">Mr. Long, is there any possibility that Congress intended the regulations promulgated under subsection (f) to be enforced under the Uniform Commercial Code some way?</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="116.625" stopTime="168.593">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="116.625" offset="593419">--We think that's not a possible interpretation here.</text>
+            <text syncTime="122.212" offset="615780">First of all, it's not consistent with the language of the statute, which says, liability under this subsection, that is, liability under Federal law rather than liability under State law.</text>
+            <text syncTime="133.837" offset="662278">Also, it would be highly unusual for Congress to provide for liability for damages under a Federal statute for a violation of Federal standards and rules, and yet not provide for a Federal cause of action.</text>
+            <text syncTime="149.679" offset="725599">It would be particularly unusual in this context, where Congress clearly provided that depositors have a cause of action in Federal court sometimes for very small claims, for claims of as little as 100, and the much larger interbank claims we think ought to be treated the same.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="168.593" stopTime="183.520">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="168.593" offset="801250">Mr. Long, would it make any substantive difference whether Federal courts had jurisdiction under section 4010 immediately, or whether they had it only indirectly under section 1331 of title 28?</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="183.520" stopTime="190.023">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="183.520" offset="861018">I think the short answer is no.</text>
+            <text syncTime="185.852" offset="870317">Those are two routes to the same conclusion that Federal courts have jurisdiction.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="190.023" stopTime="207.718">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="190.023" offset="887036">I take it, in line with your answer to Justice O'Connor, the board has promulgated regulations that require that the checks be honored with diligence and in good faith.</text>
+            <text syncTime="201.731" offset="933847">Those, I take it, are Federal standards to be interpreted as a matter of Federal common law.</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="207.718" stopTime="235.785">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="207.718" offset="957775">Yes, Justice Kennedy, they're Federal standards, and they really are a substantial change in this area.</text>
+            <text syncTime="214.122" offset="983375">When Congress passed this act, it federalized to a substantial extent an area that had been an area of State law, and the Federal standards that the Federal Reserve Board has adopted under Regulation CC do impose significant new obligations on banks, including a duty of expeditious return of checks.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="235.785" stopTime="248.878">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="235.785" offset="1070102">If the board had determined that it should be the one to determine what is good faith, and that it should adjudicate these claims, could it have set up an adjudicative mechanism under the existing statute, or do you think additional authority would be required for that?</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="248.878" stopTime="265.673">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="248.878" offset="1122451">I think additional authority would be required.</text>
+            <text syncTime="250.997" offset="1130915">Under this Court's decision in Coit v. FSLIC Courts are not quick to imply agency authority to adjudicate private claims for damages, particularly in a context, and we're in that context here--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="265.673" stopTime="270.375">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="265.673" offset="1189638">And there's no statutory mechanism for review, for judicial review of any such administrative--</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="270.375" stopTime="292.437">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="270.375" offset="1208446">--That's right.</text>
+            <text syncTime="270.941" offset="1210641">Congress said nothing about what procedure should be followed, said nothing about judicial review, and in other areas where the Federal Reserve does have enforcement authority and adjudicatory authority, Congress was quite careful... this is in 12 U.S.C. section 1818... to spell out the procedural requirements and to provide for judicial review.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="292.437" stopTime="305.745">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="292.437" offset="1296636">--Well, we have an Administrative Procedure Act which does all of that.</text>
+            <text syncTime="294.972" offset="1306771">I mean, most agencies that conduct both adjudication and rule-making don't have special provisions.</text>
+            <text syncTime="302.710" offset="1337805">That's not a real obstacle, is it?</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="305.745" stopTime="315.986">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="305.745" offset="1349926">Well, I agree that presumptively under the APA there would be judicial review, but under a decision such as Coit, where Congress has demonstrated that when it wants an agency to adjudicate--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="315.986" stopTime="326.842">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="315.986" offset="1390886">That's a question of whether... whether we should interpret the statute in such a way as to give the board the authority, but if it... if the board has the authority, there's really no problem about what procedures it would have to use, is there?</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="326.842" stopTime="338.835">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="326.842" offset="1434249">--Well, there would be a problem about what procedures the agency would use.</text>
+            <text syncTime="332.313" offset="1456192">There would be presumptively judicial review under the Administrative Procedure Act, but courts are supposed to be careful about telling the agency what--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="338.835" stopTime="346.572">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="338.835" offset="1482314">But that's not all that the Administrative Procedure Act contains.</text>
+            <text syncTime="340.851" offset="1490360">It also contains rather specific provisions concerning the procedures the agency has to use, right?</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="346.572" stopTime="365.486">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="346.572" offset="1513243">--Yes, I agree with that, but again, the Coit decision says that in the context where Congress has been quite specific and precise and explicit about giving adjudicatory authority to an agency to adjudicate private claims, the Court will not infer that authority where it's not been expressly given.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="365.486" stopTime="374.841">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="365.486" offset="1588894">Mr. Long, is it appropriate for us to give any weight to the Fed's own view that it does not have this adjudicatory authority?</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="374.841" stopTime="382.828">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="374.841" offset="1626301">Yes, I think it is, Justice Ginsburg.</text>
+            <text syncTime="377.460" offset="1636750">The board's view that it lacks jurisdiction to decide these claims is entitled to deference.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="382.828" stopTime="396.255">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="382.828" offset="1658275">Well, don't you think there's a difference when the board is just speaking about its own house, and when the board is not... I mean, when the board says, we don't have it, the board is also saying, you have it, that is, the Federal courts.</text>
+            <text syncTime="393.970" offset="1702788">I mean, that's as much our bailiwick as it is the board's.</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="396.255" stopTime="397.355">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="396.255" offset="1711983">Well--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="397.355" stopTime="409.396">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="397.355" offset="1716371">That's different from the usual deference situation when the board is just talking about its own ox.</text>
+            <text syncTime="402.676" offset="1737583">Here, it's talking about its own ox and also our ox, and it seems to me the courts ought to be able to look after their own ox.</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="409.396" stopTime="426.441">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="409.396" offset="1764541">--I agree the two questions are closely related.</text>
+            <text syncTime="412.265" offset="1776035">If it were a question of whether Federal courts have jurisdiction, I think there would be a serious question about whether to defer, but here Congress provided, I think in very clear language, that any action under this section may be brought in Federal court.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="426.441" stopTime="435.630">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="426.441" offset="1832668">Well, there wouldn't just be a serious question if the board purported to say that there was Federal jurisdiction, there would be no deference at all, I take it.</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="435.630" stopTime="576.701">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="435.630" offset="1869449">I would concede that, Mr. Chief Justice, but here it's not a question of jurisdiction, because we have subsection (d).</text>
+            <text syncTime="441.951" offset="1894735">At most, it's a question of whether there's an action under subsection (f), and Congress did give a very broad grant of authority to the agency to promulgate interbank liability rules under that subsection.</text>
+            <text syncTime="455.293" offset="1948130">I think certainly at a minimum the board's view that it does not have the authority to adjudicate claims for violations of those rules is entitled to deference.</text>
+            <text syncTime="464.649" offset="1985537">I would go a step further and say that the board's view that there is an action under subsection (f) is also a matter that the Court could properly defer to the agency.</text>
+            <text syncTime="475.790" offset="2030050">The text of section 4010 is consistent with the purpose of the statute.</text>
+            <text syncTime="483.128" offset="2059411">Congress was primarily concerned with expediting customer access to deposited funds, and to achieve that goal, it legislated funds availability schedules, and it required banks to disclose their funds availability policies to customers and also required banks to begin paying interest promptly, but Congress was also concerned with speeding up the interbank check payment system.</text>
+            <text syncTime="509.945" offset="2166722">Congress recognized that the slowness of the system was a principal reason for the lengthy holds on checks, and it also recognized that if it required banks to make deposited funds available more quickly but did nothing about the slowness of the interbank payment system, banks would be exposed to a risk of loss of the checks ultimately were not paid.</text>
+            <text syncTime="533.124" offset="2259405">Now, Congress addressed this more technical issue about how to improve the check payment system not by legislating a particular solution, but by giving the Federal Reserve Board broad authority to regulate the system.</text>
+            <text syncTime="547.698" offset="2317710">It directed the board to consider a variety of possible improvements to the system which are set out in 12 U.S.C. section 4008, it gave the Federal Reserve a broad grant of authority to regulate any aspect of the payment system, also in section 4008, and in 4010(f) it gave the board an additional grant of authority to establish liability rules for damages.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="576.701" stopTime="577.284">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="576.701" offset="2433694">Mr. Long--</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="577.284" stopTime="577.751">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="577.284" offset="2436097">Yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="577.751" stopTime="619.444">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="577.751" offset="2437978">--subsection (e) of 4010 says that no provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Board of Governors of the Federal Reserve System.</text>
+            <text syncTime="600.982" offset="2530869">Now, in what context would the board have occasion to interpret some of its rules and regulations pertaining to these matters unless it is in the context of adjudicating whether those rules or regulations have been violated?</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="619.444" stopTime="634.054">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="619.444" offset="2604744">I think, Justice Scalia, the Federal Reserve would have authority to interpret its rules, and, indeed, it's issued an extensive commentary to the rules that accompanies them without conducting any adjudications.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="634.054" stopTime="636.406">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="634.054" offset="2663153">Just issue interpretive bulletins?</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="636.406" stopTime="637.923">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="636.406" offset="2672557">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="637.923" stopTime="649.547">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="637.923" offset="2678618">Which would be binding on the courts... well, at least as far as assessing liability when anybody's acting in good faith reliance on--</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="649.547" stopTime="792.525">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="649.547" offset="2725116">To that extent, yes, I think so.</text>
+            <text syncTime="651.165" offset="2731594">But to return to purpose for a moment, in giving this additional grant in subsection (f) of authority not only to regulate any aspect of the system but to impose liability for damages, to establish liability rules, there's no indication that Congress intended civil liability claims for violations of these check processing rules to be adjudicated in a different forum, or handled differently from other civil liability claims under the statute.</text>
+            <text syncTime="682.201" offset="2855728">The Seventh Circuit held that interbank claims should be adjudicated by the Federal Reserve Board.</text>
+            <text syncTime="688.255" offset="2879970">There are at least five reasons why that interpretation is not correct.</text>
+            <text syncTime="693.492" offset="2900868">First, it doesn't fit with the language of the statute.</text>
+            <text syncTime="696.611" offset="2913406">Congress authorized the Federal Reserve Board to impose on or allocate among banks risk of loss and liability, not to impose actual liability through adjudication.</text>
+            <text syncTime="708.002" offset="2958964">That language is consistent with rule-making.</text>
+            <text syncTime="711.204" offset="2971712">Second, it's inconsistent with the Coit principle that we've discussed that authority to adjudicate is not to be lightly inferred.</text>
+            <text syncTime="720.160" offset="3007552">Third, the administrative enforcement mechanisms available to the Federal Reserve Board simply don't include a mechanism for imposing liability for damages on a private party.</text>
+            <text syncTime="734.069" offset="3063245">They have remedies for cease and desist orders, civil penalties, the usual gamut of enforcement provisions, but not authority to have an adjudicative tribunal.</text>
+            <text syncTime="746.877" offset="3114445">Fourth is the deference that's owed to the board's view that it lacks jurisdiction, and fifth is the sort of fragmented adjudications that would result under the court of appeals view.</text>
+            <text syncTime="760.220" offset="3167839">Bank claims would go to an agency.</text>
+            <text syncTime="764.588" offset="3185289">In fact, there are several agencies that share authority for enforcing this, so there could be intraagency jurisdictional problems.</text>
+            <text syncTime="771.176" offset="3211620">If a bank had a State law claim, presumably that would go to State court.</text>
+            <text syncTime="776.146" offset="3231473">If there were depositor claims arising out of the same set of facts, that could go to Federal court or State court, and it seems quite unlikely that Congress would have intended that sort of fragmentation.</text>
+            <text syncTime="789.054" offset="3283091">I'd like to reserve the balance of my time for rebuttal.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="792.525" stopTime="795.410">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="792.525" offset="3296988">--Very well, Mr. Long.</text>
+            <text syncTime="793.608" offset="3301377">Mr. Minear, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="795.410" stopTime="1098.422">
+          <heading>Argument of Jeffrey P. Minear</heading>
+          <turn speaker="jeffrey_p_minear" startTime="795.410" stopTime="864.387">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="795.410" offset="3308587">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="807.800" offset="3358115">The civil liability provisions of the EFA act indicate that Congress incended State and Federal courts to have jurisdiction over both depositor and interbank claims.</text>
+            <text syncTime="817.156" offset="3395522">Section 4010(d) expressly provides that Federal district courts and other courts of competent jurisdiction may hear liability claims, and that jurisdictional provision draws no distinction between depositor claims and interbank claims.</text>
+            <text syncTime="830.131" offset="3447454">Section 4010 does create two different causes of action.</text>
+            <text syncTime="834.701" offset="3465739">Subsection (a) establishes rules that apply to depositor claims, while subsection (f) authorizes the board to promulgate or establish rules that apply to interbank claims, but that distinction makes no difference with regard to Federal jurisdiction.</text>
+            <text syncTime="850.977" offset="3530837">Both subsections create a legal right to redress, and both subsections... and a party who can state a cause of action under either subsection is entitled to invoke the Federal court's jurisdiction under subsection (d).</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="864.387" stopTime="874.993">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="864.387" offset="3584440">Mr. Minear, isn't it odd, the placement of this statute?</text>
+            <text syncTime="867.422" offset="3596665">You would expect the substantive provisions to be together, (a) and (f), and then (d) to follow both of them.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="874.993" stopTime="919.105">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="874.993" offset="3626863">I think the answer to that is found in the legislative history of the act, that when Congress first provided the bills that... the initial bills, both the House and Senate bills, they provided a provision, subsection (a), that covered any person, including depository institutions.</text>
+            <text syncTime="891.304" offset="3692169">In the formulation of the bill... in the formulation of the legislation, Congress realized that the interbank question required special expertise, and it therefore added subsection (f) later, and also added language to (a) that excluded depository institutions from among the plaintiffs that might invoke that cause of action, so the placement actually reflects the genesis of the legislation, and that is the reason why it actually was added later in the statute.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="919.105" stopTime="925.960">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="919.105" offset="3803346">It might have been better drafting, then, if they switched to put the jurisdictional provision at the end.</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="925.960" stopTime="1046.489">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="925.960" offset="3830722">It certainly would have.</text>
+            <text syncTime="927.094" offset="3835320">It would have been better organized, but that still doesn't detract from the substance of the subsections that we're discussing.</text>
+            <text syncTime="933.448" offset="3860711">Now, the United States also disagrees with the court of appeals' conclusion that a agency tribunal should resolve interbank claims.</text>
+            <text syncTime="944.339" offset="3904283">As this Court has indicated in cases such as Coit v. FSLIC, when Congress decides to allow agencies to adjudicate private disputes, it says so explicitly, and there is no such explicit statement in this statute at all.</text>
+            <text syncTime="959.432" offset="3964678">The EFA act nowhere states that the board has the power or authority to adjudicate claims.</text>
+            <text syncTime="964.852" offset="3986308">The board's regulations reflect that limitation.</text>
+            <text syncTime="969.906" offset="4006579">The board has discerned within section 4010(f) a delegation of authority to establish liability rules, but it has not discerned any delegation of authority to establish standards or to establish... or to create a agency tribunal for adjudicating interbank disputes.</text>
+            <text syncTime="987.701" offset="4077736">Instead, the board's regulations recognize that the customary mechanism should be employed in this situation, and the customary mechanism is a judicial action in Federal or State court.</text>
+            <text syncTime="998.224" offset="4119846">The United States also disagrees with respondent's suggestion that Congress intended that State courts would have exclusive jurisdiction over interbank disputes.</text>
+            <text syncTime="1008.448" offset="4160701">Respondent acknowledges that Federal courts and State courts have concurrent jurisdiction over depositor claims, and there's no basis for drawing a distinction with regard to interbank claims.</text>
+            <text syncTime="1018.654" offset="4201557">Congress authorized the board to regulate the payment system in order to improve the interbank check collection process, and it would be quite anomalous to provide Federal court jurisdiction over depositor claims but not interbank claims.</text>
+            <text syncTime="1032.814" offset="4258190">There is simply no basis for providing a Federal forum for depositor claims no matter how small, while denying a Federal forum for interbank claims, no matter how large, and no matter what impact they might have on the interbank payment system.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1046.489" stopTime="1056.095">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1046.489" offset="4312838">Mr. Minear, do you agree that it doesn't make any difference whether the Federal court has jurisdiction under 4010 or under section 1331 of title 28?</text>
+          </turn>
+          <turn speaker="jeffrey_p_minear" startTime="1056.095" stopTime="1093.268">
+            <label>Mr. Jeffrey P. Minear</label>
+            <text syncTime="1056.095" offset="4351290">I agree with Mr. Long that ultimately it leads to the same place.</text>
+            <text syncTime="1060.464" offset="4368740">We believe that the jurisdiction question should be resolved within the four corners of the EFA act, because Congress has specifically addressed the question here, but 1331 jurisdiction would be consistent as well, and in fact section 1331 indicates the general tendency, at least since the Civil War, for Congress to provide a Federal forum to vindicate or address Federal rights.</text>
+            <text syncTime="1082.163" offset="4455571">In sum, we believe that the court of appeals erred in concluding that there was no Federal jurisdiction in this case.</text>
+            <text syncTime="1089.000" offset="4482948">The Court should reverse the decision below and remand the case for further proceedings.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1093.268" stopTime="1098.422">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1093.268" offset="4499979">Thank you, Mr. Minear.</text>
+            <text syncTime="1096.304" offset="4512100">Mr. Epsteen, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="1098.422" stopTime="2641.664">
+          <heading>Argument of Robert G. Epsteen</heading>
+          <turn speaker="robert_g_epsteen" startTime="1098.422" stopTime="1196.170">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1098.422" offset="4520564">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1104.576" offset="4545224">I'd like to start out to clarify one point here, and that is that Regulation CC is not promulgated pursuant to 611(f).</text>
+            <text syncTime="1119.253" offset="4603947">611(f), when it talks about rule-making in that title, is not talking about the kind of regulations that are involved in Regulation CC, which is the regulation that the suit sought to enforce, and I call the Court's attention to a portion of the legislative debate which is quoted at pages 17 and 18 of our brief.</text>
+            <text syncTime="1139.833" offset="4686285">And if I may just read one paragraph of the joint conference report, which points out that it is section 609 where these regulations would be promulgated under, not under 611(f), and it... in the report, and I'm quoting from page 18 of my brief, the report says, for example, under this subsection... and they're referring to 611(f)... the Federal Reserve may allocate or impose liability on depository institutions for risks of losses incurred by other depository institutions, their accountholders or other owners or holders of a check due to a depository institution's failure to handle the check in accordance with regulations imposed under section 609.</text>
+            <text syncTime="1190.282" offset="4888055">That is 12 U.S.C. 4008, so--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1196.170" stopTime="1228.074">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1196.170" offset="4911565">I'm not sure that that proves your point, because it speaks... as you were quoting it, it speaks of allocating risks, not of imposing liability, which sounds to me as though what it's talking about under (f) is the promulgation of rules which determine who will bear the liability, i.e. the risk of loss, and not a rule which actually imposes liability in a... or an act of the agency which imposes liability in a specific case.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1228.074" stopTime="1255.910">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1228.074" offset="5039251">--Justice Souter, my point being is in this case the claim was that Midwest Bank failed to exercise ordinary care as required by 12 C.F.R. 229.38, that that rule, which is part of Regulation CC, is not promulgated under 611(f).</text>
+            <text syncTime="1252.958" offset="5138726">That's promulgated under 4008.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1255.910" stopTime="1263.664">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1255.910" offset="5150533">Okay, so you were not quoting that language to show that, or to prove your claim that (f) is an adjudicatory authorization.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1263.664" stopTime="1264.214">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1263.664" offset="5181566">No.</text>
+            <text syncTime="1263.880" offset="5182402">I was--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1264.214" stopTime="1264.932">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1264.214" offset="5183761">That was a separate point.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1264.932" stopTime="1293.499">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1264.932" offset="5186686">--I was... right.</text>
+            <text syncTime="1265.949" offset="5190761">I was quoting this language to point out that if there is rule-making authority, and 611(f), the language of 611(f) doesn't talk specifically about rule-making authority but the heading or the title to it does, and if you view 611(f) to be ambiguous so that you resort to the caption or the title of that subsection, then you would also look to extrinsicate such as the legislative history--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1293.499" stopTime="1301.855">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1293.499" offset="5300894">Well, if you do get into the legislative history, I suppose you do rely on the words, impose liability, in the second paragraph--</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1301.855" stopTime="1302.239">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1301.855" offset="5334330">--Absolutely.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1302.239" stopTime="1306.343">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1302.239" offset="5335898">--of the thing you quote, which is different from allocating risks, I suppose you say.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1306.343" stopTime="1345.551">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1306.343" offset="5352303">Yes, and I would point out that the language and the structure of 611, subpart 6511(a), subsection 611(a) and 611(f) are very different, that under section 611(a), which the petitioner and the United States say are parallel provisions, the language is quite different.</text>
+            <text syncTime="1333.243" offset="5459927">Under (a) they say, is liable to anyone other than another depository institution.</text>
+            <text syncTime="1340.397" offset="5488557">In our briefs we use the term banks to refer to depository institutions generally, but--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1345.551" stopTime="1366.298">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1345.551" offset="5509142">I must say, I don't understand what language in (f) you are hanging this legislative history on.</text>
+            <text syncTime="1350.955" offset="5530771">What ambiguity in (f) is it clarifying?</text>
+            <text syncTime="1353.740" offset="5541847">It seems to me (f) is clear and straightforward.</text>
+            <text syncTime="1356.442" offset="5552714">The board is authorized to impose liability in connection with any aspect of... do you read it risks of loss and liability mean risk of loss and risk of liability?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1366.298" stopTime="1368.032">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1366.298" offset="5592107">--No.</text>
+            <text syncTime="1366.832" offset="5594301">No, I don't.</text>
+            <text syncTime="1367.265" offset="5595973">Your Honor--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1368.032" stopTime="1368.600">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1368.032" offset="5599003">Well then--</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1368.600" stopTime="1387.395">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1368.600" offset="5601302">--what I'm suggesting is, it doesn't say rule-making in (f) anywhere, either, and I'm saying that since the Court raised the rule-making question, and seem to believe that rule-making was authorized by (f) and that Regulation CC, the regulation--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1387.395" stopTime="1401.805">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1387.395" offset="5676535">--Why not just look up above to (e), reliance on board rulings, which says no provision of this section imposing any liability shall apply to any act done or made in good faith in conforming with any rule, regulation, or interpretation thereof?</text>
+            <text syncTime="1398.519" offset="5721047">I mean, doesn't that make it very clear that they have rule-making under this section?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1401.805" stopTime="1406.190">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1401.805" offset="5734108">--I think the rule-making is under section 609, Your Honor.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1406.190" stopTime="1419.766">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1406.190" offset="5751663">Did the board purport to be applying either 611 or 609 when it issued Regulation CC?</text>
+            <text syncTime="1413.945" offset="5782696">Did it cite either section and say that it was proceeding under one or the other?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1419.766" stopTime="1426.170">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1419.766" offset="5805997">I don't believe it is specific as to which section it is relying on in the act.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1426.170" stopTime="1481.173">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1426.170" offset="5831597">I mean, just... I'm not certain what the relevance of this argument is to the case question in front of us, but if it is relevant, looking at 609, and I just looked at it briefly, it sounds as if 609 says you can promulgate regulations to tell banks what to do, and it sounds as if 611(f) is saying you can do another thing, too.</text>
+            <text syncTime="1446.834" offset="5914249">The other thing is to impose liability of certain kinds upon them to certain people when they don't do what you told them to do under 609, and if that's so, on its face, Regulation CC seems to be a regulation that talks about imposing liability for failing to do something that some other regulation probably told them to do, so on its face, Regulation CC looks as if it comes after... under 611, and not under 609.</text>
+            <text syncTime="1475.103" offset="6027307">Now, I mean, that's just a very quick look at it, and because I hadn't looked at that before, but what's your response to that?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1481.173" stopTime="1497.849">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1481.173" offset="6051653">Well, I agreed with Your Honor until you got to the last part, with all due respect.</text>
+            <text syncTime="1487.411" offset="6076521">I believe it is the prescribing, or the passage of the promulgation of the regulations comes under 609.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1497.849" stopTime="1515.078">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1497.849" offset="6118317">The liability part... for example, it says, a bank that fails to act in good faith under this subpart may be liable for other damages.</text>
+            <text syncTime="1506.038" offset="6151127">Then it talks about standard of care, and it talks about liability, so why isn't the liability part of CC being promulgated under 611?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1515.078" stopTime="1541.795">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1515.078" offset="6187281">Because, as that they point out, I believe, in the legislative history, that Congress intended all of the regulation, of these regulations to be promulgated under 609, that I think the rules that they're talking about are perhaps rules for procedures for imposing liability.</text>
+            <text syncTime="1537.009" offset="6274948">I think 611(f) gives the board authority to impose liability.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1541.795" stopTime="1560.292">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1541.795" offset="6294069">Mr. Epsteen, is this your second view of the case?</text>
+            <text syncTime="1545.949" offset="6310683">As I understand it, this argument was raised by the Seventh Circuit panel on its own motion, and you had not questioned Federal court jurisdiction up until the Seventh Circuit.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1560.292" stopTime="1566.529">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1560.292" offset="6368048">That's true.</text>
+            <text syncTime="1561.625" offset="6373377">We had... I'm embarrassed to say that we had not raised the argument on our own when we should have.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1566.529" stopTime="1574.801">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1566.529" offset="6393021">So you're kind of fleshing out the rather terse Seventh Circuit explanation of what it did.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1574.801" stopTime="1664.907">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1574.801" offset="6426144">Well, when the Seventh Circuit raised the issue and we looked at it, we became convinced that the Seventh Circuit was correct that there was no Federal question jurisdiction.</text>
+            <text syncTime="1584.657" offset="6465537">One of the things is that there have been Federal regulations for some years governing interbank check disputes.</text>
+            <text syncTime="1598.215" offset="6519767">Regulation J, which is 12(c) of our part 210... it's the one we referred to in the briefs.</text>
+            <text syncTime="1606.202" offset="6551741">It's been around since October of 1980.</text>
+            <text syncTime="1609.321" offset="6564175">When we started looking at it, we were unable to find a single case under Regulation J or Regulation CC where the Federal courts had found Federal subject matter jurisdiction under 1331 to enforce a claim for violation of Regulation J or Regulation CC, that regulation... but we were able to find cases where under State law, and we've cited a couple as examples in our brief, where, under the Uniform Commercial Code, which incorporates the Federal regulations as part of State law... under 4-103 of the Uniform Commercial Code these become part of the State law in all of the States, and they have been applied throughout the States, and it is our position that there is nothing within this act with respect to interbank disputes which changes that.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1664.907" stopTime="1676.381">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1664.907" offset="6786530">So we're sort of at the mercy of the States.</text>
+            <text syncTime="1667.109" offset="6795411">I mean, if a State wants to repeal the UCC entirely... does Louisiana have the whole UCC?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1676.381" stopTime="1686.773">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1676.381" offset="6832401">As far as I know, every State, Your Honor, has the provision which would, with respect to banks incorporates these regulations.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1686.773" stopTime="1702.198">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1686.773" offset="6873988">Well, I guess that's a lucky thing, because otherwise on your theory there wouldn't be any relief in any court in that State, neither Federal nor State courts.</text>
+            <text syncTime="1696.129" offset="6911395">Its only by grace of the States having adopted that UCC provision that this liability is enforceable anywhere.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1702.198" stopTime="1717.558">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1702.198" offset="6935741">Well, but that has been around for sometime, Your Honor, and I think the regulations that are promulgated by the Federal Reserve Board and their official commentary throughout them recognizes the interplay between the regulations and the Uniform Commercial Code.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1717.558" stopTime="1730.350">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1717.558" offset="6997181">Mr. Epsteen, is that indeed your position, or are you recognizing that there is Federal jurisdiction but it's in the agency in the first instance, or are you saying that the only forum for these interbank disputes is the State court?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1730.350" stopTime="1746.942">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1730.350" offset="7048277">Well, I think there would be jurisdiction within the agency if the agency sought to exercise it, but since the agency has declined to exercise it, our point is that there certainly is still a forum in which these claims could be adjudicated in the State courts.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1746.942" stopTime="1756.917">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1746.942" offset="7114732">So if the agency chose to exercise that authority, where would the next stop be?</text>
+            <text syncTime="1752.846" offset="7138347">Where would the review be of the agency's initial adjudication?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1756.917" stopTime="1776.545">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1756.917" offset="7154543">Well, I think the agency's adjudication would then, if it decided... and I think under (f) it can pass and promulgate some rules for its process of adjudication, and I think it would then be subject to judicial review under the Administrative Procedures Act.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1776.545" stopTime="1776.795">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1776.545" offset="7233119">Where?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1776.795" stopTime="1781.715">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1776.795" offset="7234059">I don't have a specific... I'm not sure I understand your question.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1781.715" stopTime="1789.888">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1781.715" offset="7253808">Well, would it be the D.C. Circuit, would it be any district court where the bank... the same venue as the bank, or what... where would it be?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1789.888" stopTime="1796.958">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1789.888" offset="7286513">I think it would be... I must apologize.</text>
+            <text syncTime="1793.923" offset="7302605">I have not focused on the APA act's procedures.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1796.958" stopTime="1801.946">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1796.958" offset="7314726">Maybe the district court.</text>
+            <text syncTime="1797.775" offset="7318069">The fallback... the fallback jurisdiction is in the district court under the APA.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1801.946" stopTime="1803.396">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1801.946" offset="7334683">I believe it would be in the district court.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1803.396" stopTime="1814.087">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1803.396" offset="7340535">May I ask, if a proceeding were brought in the State court under your view, trying to enforce the regulation, would we have jurisdiction to review a decision of the State court?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1814.087" stopTime="1821.658">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1814.087" offset="7383271">This is the only Federal court that I know of that has jurisdiction to review decisions of State courts.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1821.658" stopTime="1828.596">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1821.658" offset="7413573">But you said there would be a Federal question, in your view.</text>
+            <text syncTime="1823.575" offset="7421201">They would be subject to review on direct... subject to our review under direct appeal, and so forth, and certiorari.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1828.596" stopTime="1849.343">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1828.596" offset="7441263">Well, I think that this Court always has the jurisdiction to review the decision of the State court.</text>
+            <text syncTime="1834.417" offset="7464564">It's the highest court of any State, and in that sense I say that it has, but it is incorporated into State law, and it's really a State law question, and if Congress wanted to make this a Federal law question it certainly could have.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1849.343" stopTime="1858.699">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1849.343" offset="7524332">Well, if it's a State law question, then we would not have jurisdiction.</text>
+            <text syncTime="1852.109" offset="7535408">I'm really... that's what I'm probing for.</text>
+            <text syncTime="1854.228" offset="7543872">Do you think in final analysis it is a State law question or a Federal law question?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1858.699" stopTime="1865.635">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1858.699" offset="7561739">I think it is a State law question under the Federal regulations.</text>
+            <text syncTime="1864.852" offset="7586295">I think--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1865.635" stopTime="1887.718">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1865.635" offset="7589429">Well then, how could the agency, if it chose to adjudicate... I mean, if you're right in what you answered before, that the agency if it wanted to could adjudicate, then you'd have APA review in the appropriate district court, it would all be Federal, only you get at the ground floor an agency instead of a court, then it would all be Federal.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1887.718" stopTime="1919.070">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1887.718" offset="7677828">--That is correct, but I understood Justice Stevens' question to be that if it were brought in the State court, where the Federal regulations become a part of the State law, they become agreements under the State law under 4-103 of the code, of the Uniform Commercial Code, then it's really proceeding under State law, although I guess construction of any regulations promulgated by the board, if we're talking about how the interpretation or construction, it would be Federal--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1919.070" stopTime="1919.537">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1919.070" offset="7803215">Of course it has to be a Federal question.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1919.537" stopTime="1920.439">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1919.537" offset="7805096">--would be Federal--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1920.439" stopTime="1920.755">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1920.439" offset="7808649">Of course.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1920.755" stopTime="1921.405">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1920.755" offset="7809903">--Yes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1921.405" stopTime="1926.593">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1921.405" offset="7812515">And since it is a Federal question, why doesn't section 1331 get you to the same destination anyway?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1926.593" stopTime="1927.659">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1926.593" offset="7833308">Well--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1927.659" stopTime="1953.957">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1927.659" offset="7837593">I know you claim section 1331 is not at issue here, but just indulge me that I think it is, and even if it isn't, if I think that 1331's going to lead you to the same destination anyway, I'm not going to... you know, I'm not going to bend over backwards to hold that, you know, (f) doesn't apply, because what's the difference, you may as well... if it's at all ambiguous you may as well hold that (f) gets you there and have it all in the same statute.</text>
+            <text syncTime="1951.124" offset="7931424">Why do you say 1331 doesn't govern?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1953.957" stopTime="1971.252">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1953.957" offset="7942709">--Well, first of all, 1331 has not... as far as I know never conferred jurisdiction in any Federal regulation case involving the check collection process, and these Federal regulations have been around for some years, and--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1971.252" stopTime="1980.124">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1971.252" offset="8011881">Was that merely a matter of fact, or because of the word laws in 1331?</text>
+            <text syncTime="1975.322" offset="8028182">You're saying a regulation is not a law under 1331.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1980.124" stopTime="1986.011">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1980.124" offset="8047408">--No, but what I'm saying is that first of all--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1986.011" stopTime="1989.832">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1986.011" offset="8070918">Well, is a regulation a law under 1331?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="1989.832" stopTime="2001.390">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="1989.832" offset="8086278">--I view a regulation promulgated pursuant to a statute to be a law.</text>
+            <text syncTime="1992.534" offset="8097041">I don't view it to have... I don't elevate it to a statute, but I accept that it is a law, but--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2001.390" stopTime="2007.544">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2001.390" offset="8132463">I mean, the explanation for the phenomenon you describe is simply that there is a specific jurisdictional provision that covers all these other things.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2007.544" stopTime="2008.627">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2007.544" offset="8157122">--But--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2008.627" stopTime="2014.548">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2008.627" offset="8161406">When there isn't one, then you go to the fallback jurisdiction of 1331, and why wouldn't that apply?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2014.548" stopTime="2030.623">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2014.548" offset="8185126">--Well, Your Honor, I think when Congress in 611, and I agree with the United States' position on this that we ought to really confine ourselves to the four corners of this act, when Congress specifically says under (a) there is no juris--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2030.623" stopTime="2033.159">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2030.623" offset="8249387">It doesn't say there's no jurisdiction on the--</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2033.159" stopTime="2035.611">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2033.159" offset="8259522">--It doesn't say there's no... it says there's no cause of action under (a).</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2035.611" stopTime="2036.377">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2035.611" offset="8269344">--Under (a), that's--</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2036.377" stopTime="2038.829">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2036.377" offset="8272479">Under (a), no cause of action for interbank disputes.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2038.829" stopTime="2039.496">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2038.829" offset="8282197">--Right.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2039.496" stopTime="2042.246">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2039.496" offset="8284913">And under (d)--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2042.246" stopTime="2047.698">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2042.246" offset="8295885">That isn't quite right.</text>
+            <text syncTime="2044.162" offset="8303617">It just says (a) itself doesn't create a cause of action for interbanks disputes.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2047.698" stopTime="2048.900">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2047.698" offset="8317723">--Correct.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2048.900" stopTime="2049.433">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2048.900" offset="8322530">Yes.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2049.433" stopTime="2075.632">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2049.433" offset="8324619">I misspoke if I said something differently.</text>
+            <text syncTime="2051.435" offset="8332665">What I'm saying is that (a) is specific in excluding an action brought by a bank against another bank.</text>
+            <text syncTime="2059.172" offset="8363594">It says there's no cause of action that Congress is authorizing here, and we don't believe that (f) authorizes a cause of action.</text>
+            <text syncTime="2067.777" offset="8398076">If (f) does authorize a cause of action, you don't need to go to 1331.</text>
+            <text syncTime="2073.364" offset="8420332">Then you are to 611(d).</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2075.632" stopTime="2083.656">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2075.632" offset="8429423">It says, liability under this subsection.</text>
+            <text syncTime="2078.918" offset="8442588">What does that refer to in (f), if it doesn't refer to liability created by the subsection?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2083.656" stopTime="2084.773">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2083.656" offset="8461501">Well--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2084.773" stopTime="2105.986">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2084.773" offset="8465994">It says, liability under this subsection shall not exceed the amount of the check giving rise to the loss or liability, blah, blah, blah, blah, blah.</text>
+            <text syncTime="2091.060" offset="8491176">Liability under this subsection.</text>
+            <text syncTime="2094.262" offset="8503924">I don't... can't imagine clearer--</text>
+            <text syncTime="2096.130" offset="8511447">--Moreover, the--</text>
+            <text syncTime="2096.847" offset="8514268">--indication that the subsection is creating liability.</text>
+            <text syncTime="2099.916" offset="8526598">Moreover, the title to 4010 is civil liability.</text>
+            <text syncTime="2103.785" offset="8542063">That covers all the subsections, I would think.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2105.986" stopTime="2111.390">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2105.986" offset="8550840">--That's true, but if you are looking at titles, it is (a), then--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2111.390" stopTime="2112.573">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2111.390" offset="8572469">I know (a) also says--</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2112.573" stopTime="2114.925">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2112.573" offset="8577171">--as to civil liability, and (f), which has a very different--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2114.925" stopTime="2115.458">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2114.925" offset="8586575">--Right.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2115.458" stopTime="2116.544">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2115.458" offset="8588770">--a very different title--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2116.544" stopTime="2118.810">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2116.544" offset="8593054">Yes.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2118.810" stopTime="2139.458">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2118.810" offset="8602144">--and so if you... if the Court were to view (f) as creating a cause of action, I would suggest that when Congress picked the language for (a), it knew that this language in (a) would create a cause of action.</text>
+            <text syncTime="2130.535" offset="8649060">It took it from the Federal Truth in Lending Act, which the courts have held creates a cause of action.</text>
+            <text syncTime="2135.189" offset="8667659">(f)'s language, if you put the two side-by-side, is very different from--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2139.458" stopTime="2150.062">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2139.458" offset="8684796">Well then, there's no Federal cause of action.</text>
+            <text syncTime="2140.743" offset="8689916">You're saying there's no Federal cause of action, so then you should change your answer as to whether we could review a State decision.</text>
+            <text syncTime="2148.229" offset="8719800">There's no Federal cause of action being created here.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2150.062" stopTime="2152.181">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2150.062" offset="8727219">--I say there is no Federal cause of action created--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2152.181" stopTime="2159.101">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2152.181" offset="8735682">Well, then the States can decide it, and they can all come out different ways about what the Federal regulation means, because this is not a Federal question.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2159.101" stopTime="2170.475">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2159.101" offset="8763372">--Well, if that were a problem and the Federal Reserve Board perceived a problem in uniformity, and Congress perceived such a problem, it certainly could change the legislation.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2170.475" stopTime="2192.156">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2170.475" offset="8808825">But if that's your answer, then you would have to go back and revise what you said about the agency, if it wants to get into this act, could set itself up as an adjudicator, and then you'd have district court review, so you can't have it both ways.</text>
+            <text syncTime="2185.235" offset="8867862">If it's State, well then the agency can't get into it even if it wanted to.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2192.156" stopTime="2237.037">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2192.156" offset="8895552">Well, I think that the issue of whether the agency could or couldn't do it really arises out of the dicta in the Seventh Circuit's opinion, because the agency has not attempted to do it.</text>
+            <text syncTime="2206.649" offset="8953544">It has been our position since this issue has been raised that these claims are properly asserted in the State courts under the Uniform Commercial Code, and if Congress wants them to be in the Federal courts, it has to amend the statute.</text>
+            <text syncTime="2223.877" offset="9022402">We don't believe that this statute creates a cause of action under (f).</text>
+            <text syncTime="2231.799" offset="9054167">It permits a bank... and let me suggest that under--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2237.037" stopTime="2258.466">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2237.037" offset="9075065">Well, again, are you saying that Congress has not provided for the agency either?</text>
+            <text syncTime="2241.572" offset="9093246">I think you're now shifting your position, because initially you said it could be the State court, or if the agency wanted to, could be the agency.</text>
+            <text syncTime="2249.844" offset="9126265">Now you seem to be saying there can be no Federal adjudicator, the only adjudicator is the State unless Congress amends the statute.</text>
+            <text syncTime="2257.014" offset="9155000">Which one is your position?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2258.466" stopTime="2280.547">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2258.466" offset="9160747">--If... I believe that these actions are to be adjudicated under the Uniform Commercial Code in the State courts between banks.</text>
+            <text syncTime="2276.828" offset="9234203">I believe Congress has not created a Federal cause of action.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2280.547" stopTime="2284.434">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2280.547" offset="9249145">Which means that the agency could not adjudicate even if it wanted to.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2284.434" stopTime="2288.170">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2284.434" offset="9264610">I think that... yes.</text>
+            <text syncTime="2286.884" offset="9274432">If that is--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2288.170" stopTime="2291.421">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2288.170" offset="9279656">That's a different position than the one you were taking up till now.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2291.421" stopTime="2308.883">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2291.421" offset="9292613">--Yes.</text>
+            <text syncTime="2292.004" offset="9294912">Yes.</text>
+            <text syncTime="2292.338" offset="9296270">Yes... it is... if it is not a cause of action that is a... certainly in our view it is not a cause of action that is a judicially enforceable cause of action, the way I understand the term cause of action, and--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2308.883" stopTime="2316.120">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2308.883" offset="9362412">But then what do you make of the Seventh Circuit, that says disputes such as this are to be handled administratively before the Board of Governors of the Federal Reserve System--</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2316.120" stopTime="2318.322">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2316.120" offset="9391356">--Well--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2318.322" stopTime="2323.809">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2318.322" offset="9400237">--and then went on to say the board has informed us it doesn't have any mechanism to do this, but that's the board's problem?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2323.809" stopTime="2371.374">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2323.809" offset="9422180">--Well, I think... I think there are times when clearinghouses... and in my experience, I have seen situations where clearinghouses administratively deal with claims of banks without a hearing based on written submissions, but I believe that this is not a Federal cause of action that is enforceable in Federal courts, as cause of action is talked about, let's say in Davis v. Passman, which is cited in the Government's brief.</text>
+            <text syncTime="2358.399" offset="9560525">I don't think that Congress has given banks the right to bring an action under this act specifically, under 611(f), and if--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2371.374" stopTime="2392.787">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2371.374" offset="9612456">You have a different spin on it than the Seventh Circuit, because as I read the Seventh Circuit's opinion, the Seventh Circuit was pretty sure about the Federal Reserve System but not so sure about State courts, because it said, or perhaps in State court, so the Seventh Circuit seemed to think of this as an agency adjudication, correct?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2392.787" stopTime="2408.832">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2392.787" offset="9698033">--That's... they did, and the initial decision of the Seventh Circuit didn't refer to the State courts, and there was some concern that they might have been blocking out the State courts, and then on rehearing they revised their opinion and put their phrase in, oh, perhaps in State courts.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2408.832" stopTime="2420.222">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2408.832" offset="9762295">But... so that theory, whatever it was, is quite different from yours, because theirs did not turn on the State courts as being the adjudicator.</text>
+            <text syncTime="2417.354" offset="9796358">They had a question mark about State courts.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2420.222" stopTime="2442.403">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2420.222" offset="9807852">They had a question mark about State court, they... but they believed that the board could administratively decide interbank disputes, that's true, but I don't believe that they create a type of cause of action that would be a judicially enforceable cause of action that would trigger 611(d).</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2442.403" stopTime="2454.294">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2442.403" offset="9896564">May I ask you a question, Mr. Epstein?</text>
+            <text syncTime="2444.922" offset="9906595">This is a case of first impression, as I understand it, and since we granted cert, has it arisen in any other court, do you know, other than the Seventh Circuit?</text>
+            <text syncTime="2452.943" offset="9938673">I know there was one there that was dismissed.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2454.294" stopTime="2461.014">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2454.294" offset="9944107">There is... in the district court, the Standard Bank case.</text>
+            <text syncTime="2458.062" offset="9959153">That's the only case that I'm familiar with, Your Honor.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2461.014" stopTime="2467.668">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2461.014" offset="9970961">It's kind of interesting, because there must be zillions of these transactions, and so scarce litigation.</text>
+            <text syncTime="2465.132" offset="9987470">I guess the banks normally work these things out informally.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2467.668" stopTime="2505.293">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2467.668" offset="9997606">Well, one of the things we did in preparing for this case, Your Honor, was went to the computer research and punched in the regulations, and to see the cases, and I was unable to find a single Federal case where there was Federal question subject matter jurisdiction in Regulation J or Regulation CC.</text>
+            <text syncTime="2493.133" offset="10099483">I found Federal cases, but they were diversity cases that did not find their jurisdiction on a Federal question but on grounds of diversity, and I found State cases.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2505.293" stopTime="2509.161">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2505.293" offset="10148071">But just a few, isn't that correct, or were there a lot of them?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2509.161" stopTime="2515.315">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2509.161" offset="10163535">Not a large number, but I'd say maybe a dozen cases.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2515.315" stopTime="2519.101">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2515.315" offset="10188195">Yes, and that's since... Regulation J has been on the books about 15 years, hasn't it?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2519.101" stopTime="2558.309">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2519.101" offset="10203346">Yes, since 1980, although Regulation J was amended a few times and got certainly more substance in '85 and '86, and one of the interesting parts of Regulation J in '86 is that the Federal Reserve Board, while these were all being enforced through State courts, said there's one area of nonuniformity which is a statute of limitations, and in 1986 they put a 2-year statute of limitations in Regulation J so that when it was enforced through the Uniform Commercial Code in all the State courts, there would be a uniform statute of limitations.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2558.309" stopTime="2575.937">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2558.309" offset="10360185">Mr. Epsteen, I ought to know this, but I don't, does the board do any other adjudication?</text>
+            <text syncTime="2565.164" offset="10387561">Do they have administrative law judges down there that... is it purely a rule-making body?</text>
+            <text syncTime="2572.751" offset="10417968">Does it adjudicate any other disputes?</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2575.937" stopTime="2637.278">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2575.937" offset="10430716">Your Honor, I do not know the answer to that question, I'm sorry.</text>
+            <text syncTime="2580.924" offset="10450673">I just don't know the answer.</text>
+            <text syncTime="2582.043" offset="10455062">I think the Court really understands our view on deference from prior questions, and I would just like to make a brief comment that the crop of fragmented... fragmented or multiple adjudication concerns here really don't exist, since the supplemental jurisdiction statute under 28 1367(a) has been enacted.</text>
+            <text syncTime="2617.014" offset="10594974">I believe that there is not a problem there.</text>
+            <text syncTime="2621.084" offset="10611274">If an individual or a person other than a bank brings a suit in the Federal court, and then there is a dispute between two banks, it could be brought in under 1367(a) of title 28.</text>
+            <text syncTime="2632.976" offset="10658817">And I have really no further comments if the Court has no further questions.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2637.278" stopTime="2638.713">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2637.278" offset="10676058">Thank you, Mr. Epsteen.</text>
+          </turn>
+          <turn speaker="robert_g_epsteen" startTime="2638.713" stopTime="2639.213">
+            <label>Mr. Robert G. Epsteen</label>
+            <text syncTime="2638.713" offset="10681805">Thank you.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2639.213" stopTime="2641.664">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2639.213" offset="10683790">Mr. Long, you have 6 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="2641.664" stopTime="2904.082">
+          <heading>Rebuttal of Robert A. Long, Jr.</heading>
+          <turn speaker="robert_a_long_jr" startTime="2641.664" stopTime="2662.828">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="2641.664" offset="10693612">When the Expedited Funds Act was passed, the Federal Reserve Board had no administrative law judges at all.</text>
+            <text syncTime="2649.235" offset="10723914">It borrowed them on the rare occasions when it needed them.</text>
+            <text syncTime="2652.972" offset="10738856">Even today, there is only a pool of administrative law judges that is shared by the various Federal agencies that supervise banking and financial institutions.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2662.828" stopTime="2667.363">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2662.828" offset="10778249">They need them at least for personnel matters on occasion, and would have to borrow them for that, I would assume.</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="2667.363" stopTime="2667.899">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="2667.363" offset="10796326">Yes, sir.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2667.899" stopTime="2675.136">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2667.899" offset="10798520">Does the fact that they get their administrative law judges out of a pool cut one way or another in this case?</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="2675.136" stopTime="2684.158">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="2675.136" offset="10827464">Well, I think it emphasizes how unusual it would be to assume that Congress intended the agency to start adjudicating all these interbank claims.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2684.158" stopTime="2688.160">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2684.158" offset="10863513">But not if you don't expect there to be very many.</text>
+            <text syncTime="2686.526" offset="10873021">Not if it's a fairly rare--</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="2688.160" stopTime="2688.978">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="2688.160" offset="10879604">Well--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2688.978" stopTime="2694.014">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2688.978" offset="10882843">--piece of litigation.</text>
+            <text syncTime="2690.778" offset="10890053">It doesn't happen... they don't... banks don't fight with each other all that often, do they?</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="2694.014" stopTime="2699.001">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="2694.014" offset="10903010">--Very few checks are returned, but it still adds up to hundreds and hundreds of millions a year.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2699.001" stopTime="2710.059">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2699.001" offset="10922967">But still, 10 or 12 cases in 15 years out of hundreds and hundreds of millions of transactions indicates it's a fairly rare situation when you get into court over something like this.</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="2710.059" stopTime="2718.848">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="2710.059" offset="10967166">I think banks seem to be fairly good at working out their differences, but it does come up, and they need a place to go to work them out.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2718.848" stopTime="2720.950">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2718.848" offset="11002275">I wonder what their secret is.</text>
+            <text syncTime="2719.398" offset="11004469">Do you think you could--</text>
+            <text syncTime="2720.065" offset="11007186">[Laughter]</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="2720.950" stopTime="2723.667">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="2720.950" offset="11010739">Good rational--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2723.667" stopTime="2729.003">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2723.667" offset="11021606">Well, their secret is that a bad settlement is better than a good lawsuit.</text>
+            <text syncTime="2727.937" offset="11038637">[Laughter]</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="2729.003" stopTime="2773.216">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="2729.003" offset="11042921">--Justice Scalia, you had mentioned 4010(e) in the interpretations of the board.</text>
+            <text syncTime="2738.043" offset="11079075">I'm told that other statutes such as the Truth in Lending Act have similar provisions, but it's... the agency has no adjudicatory authority under those statutes.</text>
+            <text syncTime="2747.684" offset="11117632">On the interplay between 609 and 611, I think Justice Breyer I agree with completely.</text>
+            <text syncTime="2756.005" offset="11150964">609 gives the board authority to regulate any aspect of the payment system, but the additional authority to promulgate rules imposing liability for damages goes beyond just prescribing or proscribing behavior, and that's where you need the 4010(f).</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2773.216" stopTime="2781.022">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2773.216" offset="11219823">Do you have any explanation for the lack of lawsuits in Federal court under other board regulations?</text>
+            <text syncTime="2780.488" offset="11248871">How--</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="2781.022" stopTime="2834.123">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="2781.022" offset="11251065">Well, Regulation J has been around for quite a long time.</text>
+            <text syncTime="2785.726" offset="11269873">There has been significant litigation in Federal court under Regulation J.--</text>
+            <text syncTime="2790.178" offset="11287637">Generally, Regulation J regulates the relationship of Federal Reserve banks to other banks in check processing, and there's a statute, 12 U.S.C. section 632, that provides whenever a Federal Reserve bank is a defendant or a party the action is deemed to arise under Federal law, so there are those cases, and when the Federal Reserve is in the case, as it frequently is, that solves all the jurisdictional problems.</text>
+            <text syncTime="2815.245" offset="11387947">This particular provision in Regulation J requiring banks to notify the depository bank if it's a big check and they were returning it only came in in 1985.</text>
+            <text syncTime="2826.684" offset="11433713">It was shortly before the act, which was 1987, so there really wasn't a great deal of time for courts to deal with that.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2834.123" stopTime="2845.097">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2834.123" offset="11463388">--The Federal Reserve bank jurisdictional provision, it doesn't just mean if you're insured.</text>
+            <text syncTime="2839.611" offset="11485331">It actually has to be a Federal Reserve bank before jurisdiction is deemed--</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="2845.097" stopTime="2871.498">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="2845.097" offset="11507274">I believe so, Mr. Chief Justice.</text>
+            <text syncTime="2847.799" offset="11518141">The citation is 12 U.S. Code section 632.</text>
+            <text syncTime="2850.834" offset="11530262">I believe it's just a Federal Reserve bank.</text>
+            <text syncTime="2854.786" offset="11546040">I'm not certain of that.</text>
+            <text syncTime="2857.322" offset="11556175">Puerto Rico I believe does not have this provision of the UCC that incorporates by reference the Federal Reserve regulations.</text>
+            <text syncTime="2868.963" offset="11602778">Puerto Rico is covered by the Expedited Funds Act.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2871.498" stopTime="2875.534">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2871.498" offset="11612913">--But you're not disputing that the State courts are an appropriate forum.</text>
+          </turn>
+          <turn speaker="robert_a_long_jr" startTime="2875.534" stopTime="2900.999">
+            <label>Mr. Robert A. Long, Jr.</label>
+            <text syncTime="2875.534" offset="11629109">Oh, no, and 4010(d) gives the concurrent jurisdiction.</text>
+            <text syncTime="2878.652" offset="11641544">It's concurrent.</text>
+            <text syncTime="2879.836" offset="11646246">And finally, on the titles, it is true that 4010 says civil liability and 4010(a) says civil liability, but if you look at 4009, it says administrative enforcement, and 4009(a) also says administrative enforcement, so there seems to be a pattern here of repeating in the first subsection the title.</text>
+            <text syncTime="2899.732" offset="11725867">I have nothing further.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2900.999" stopTime="2904.082">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2900.999" offset="11730882">Thank you, Mr. Long.</text>
+            <text syncTime="2902.499" offset="11736943">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

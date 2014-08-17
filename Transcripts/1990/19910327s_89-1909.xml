@@ -1,0 +1,53 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:12:30" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="937423">/xml/cases/1990/89_1909/19910327o_89-1909.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1909_19910327-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="215.824">
+        <title>Feist Publications, Inc. v. Rural Telephone Service Company, Inc.</title>
+        <section startTime="0.000" stopTime="215.824">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="11.083">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="74128">The opinion of the Court in No. 89-1909 Feist Publications, Inc. verus Rural Telephone Service Company, Inc. will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="11.083" stopTime="215.824">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="11.083" offset="118432">This case comes to us on certiorari to the Court of Appeals for the 10th Circuit.</text>
+            <text syncTime="16.639" offset="140584">It requires us to clarify the extent of copyright protection available to telephone directory white pages.</text>
+            <text syncTime="25.602" offset="176528">The respondent, Rural Telephone Service Company, is a certified public utility providing telephone service to several communities in Kansas.</text>
+            <text syncTime="36.230" offset="218951">Pursuant to state regulation, it publishes a typical telephone directory consisting of white pages and yellow pages.</text>
+            <text syncTime="44.396" offset="251656">The petitioner, Feist Publications, publishes a competing telephone directory covering a larger area.</text>
+            <text syncTime="52.070" offset="282376">When Rural refused to license its white pages listings to Feist for directory covering 11 different telephone service areas, Feist copied more than 1,300 listings from Rural's directory without the consent of Rural.</text>
+            <text syncTime="70.220" offset="354997">Rural sued for copyright infringement.</text>
+            <text syncTime="74.028" offset="370148">The United States District Court for the District of Kansas granted summary judgment to Rural, holding that telephone directories are copyrightable and that there was infringement.</text>
+            <text syncTime="86.165" offset="418735">The 10th Circuit Court of Appeals affirmed.</text>
+            <text syncTime="89.419" offset="431797">In an opinion filed today, we reverse.</text>
+            <text syncTime="93.534" offset="448201">We explained that a fundamental principle of a copyright law is that facts are not copyrightable.</text>
+            <text syncTime="100.640" offset="476623">This is because, as a matter of both constitutional and statutory law, a work qualifies for copyright protection only if it is original.</text>
+            <text syncTime="111.020" offset="518105">Original, as that term is used in copyright, means that the work was independently created by the author and that it possess a least some minimal degree of creativity.</text>
+            <text syncTime="123.624" offset="568574">No one may claim originality as to facts because facts are not created by the author.</text>
+            <text syncTime="131.243" offset="599085">They are merely discovered and reported.</text>
+            <text syncTime="134.599" offset="612459">One may, however, claim originality in the way facts are selected, coordinated, or arranged.</text>
+            <text syncTime="142.200" offset="642866">These choices by an author, so long as they entail some minimal degree of creativity, are sufficiently original to qualify for copyright protection.</text>
+            <text syncTime="153.819" offset="689364">We conclude in this case that Feist, by taking 1,300 listings from Rural's white pages did not copy anything that was original to Rural.</text>
+            <text syncTime="164.775" offset="733145">The bits of data contained in the listings are uncopyrightable facts.</text>
+            <text syncTime="170.422" offset="755715">Rural did not select, coordinate, or arranged these facts in an original way.</text>
+            <text syncTime="176.469" offset="779957">Rurals selection and arrangement were obvious.</text>
+            <text syncTime="179.828" offset="793436">The list is alphabetical by name of subscriber, town, and telephone of each of its subscribers.</text>
+            <text syncTime="188.271" offset="827186">This is a frequent and age-old practice so common placed that it has come to be expected as a manner of course.</text>
+            <text syncTime="197.701" offset="864907">Because Rural's white pages are the void of creativity, Feist did not violate the copyright laws by copying them.</text>
+            <text syncTime="207.595" offset="904508">The opinion is joined by eight members of the court.</text>
+            <text syncTime="210.411" offset="915689">Justice Blackmun concurs in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

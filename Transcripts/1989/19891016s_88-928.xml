@@ -1,0 +1,24 @@
+<transcript verified="true">
+      <history>
+        <edit user="jgoldman" date="2013-09-02T07:28:06" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="150128">/xml/cases/1989/88_928/19891016o_88-928.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1989/trs/88-928_19891016-opinion.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="15.804">
+        <title>White v. United States</title>
+        <section startTime="0" stopTime="15.804">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="15.804">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="87121">I have the opinion of the Court to announce in No. 88-928, James White versus the United States.</text>
+            <text syncTime="8.919" offset="122752">The writ of certiorari has dismissed as improvidently granted.</text>
+            <text syncTime="12.427" offset="136754">Justice White Dissents.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

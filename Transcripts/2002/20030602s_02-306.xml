@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2014-01-16T12:20:49" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="620075">/xml/cases/2002/02_306/20030602o_02-306.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2002/trs/02-306_20030602-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="133.721">
+        <title>Beneficial National Bank v. Anderson</title>
+        <section startTime="0.000" stopTime="133.721">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.692">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85192">The opinion of the Court in No. 02-306, Beneficial National Bank versus Anderson will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="8.692" stopTime="133.721">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="8.692" offset="119883">Respondents are individual taxpayers who pledge their anticipated tax refunds to secure short-term loans from petitioner, a national bank chartered under the National Bank Act.</text>
+            <text syncTime="22.000" offset="173172">Respondents sued the bank and two other petitioners in an Alabama State Court claiming that the interest rates on their loans were usurious.</text>
+            <text syncTime="31.741" offset="212147">Petitioners removed the case to the Federal District Court asserting that the National Bank Act provides the exclusive cause of action for usury against the national bank that the suit therefore arose under Federal Law and thus could properly be removed to a Federal District Court.</text>
+            <text syncTime="49.523" offset="283200">The Court of Appeals for the Eleventh Circuit held this removal improper because it could not find clear congressional intent to permit such a removal.</text>
+            <text syncTime="59.843" offset="324474">We granted certiorari and today in an opinion filed with the Clerk, we reverse the judgment of the Eleventh Circuit.</text>
+            <text syncTime="67.307" offset="354358">The well-pleaded complaint rule provides that we examine only the allegations in the complaint and ignore potential federal defenses.</text>
+            <text syncTime="75.511" offset="387168">Thus, as a general rule, a complaint will not be removable if the complaint is not affirmatively allege a federal claim.</text>
+            <text syncTime="83.719" offset="419977">Congress has, however, created limited exceptions to this general rule.</text>
+            <text syncTime="88.726" offset="440039">In cases interpreting the Labor Management Relations Act and the Employee Retirement Income Security Act, we found that Congress completely preempted any state cause of action and therefore the case is alleging only state law causes of action for certain claims were nonetheless properly removable.</text>
+            <text syncTime="109.416" offset="522795">In a long line of cases, this Court has construed the National Bank Act as providing the exclusive cause of action for claims of usury against the national bank.</text>
+            <text syncTime="119.547" offset="563337">Consistent with this interpretation, we find that Congress has completely preempted such claims and that the suit was therefore properly removable.</text>
+            <text syncTime="128.599" offset="599491">Justice Scalia has filed a dissenting opinion in which Justice Thomas joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

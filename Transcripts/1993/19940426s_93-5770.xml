@@ -1,0 +1,24 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:45:03" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="164037">/xml/cases/1993/93_5770/19940426o_93-5770.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1993/trs/93-5770_19940426-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="18.338">
+        <title>Stansbury v. California</title>
+        <section startTime="0" stopTime="18.338">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="18.338">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90999">I have the opinion of the Court to announce in No. 93-5770, Stansbury against California.</text>
+            <text syncTime="8.125" offset="123495">For reasons set forth in a Per Curiam opinion filed with the Clerk today, the judgment of the Supreme Court of California is reversed and the case is remanded to that court.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

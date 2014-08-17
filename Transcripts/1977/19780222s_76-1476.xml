@@ -1,0 +1,36 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="583854">/xml/cases/1977/76_1476/19780222o_76-1476.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1977/trs/76-1476op.trs</sourceFile>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="125.925">
+        <title>J. W. Bateson Company, Inc. v. United States ex rel. Board of Trustees of National Automatic Sprinkler Industry Pension Fund</title>
+        <section startTime="0.000" stopTime="125.925" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Thurgood Marshall</heading>
+          <turn speaker="thurgood_marshall" startTime="0.000" stopTime="124.521">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="0.000" offset="80004">In the other case J.W. Bateson Co., is from the Court of Appeals for the District of Columbia and the question in that case is whether a firm that is technically a sub-contractor, can be considered a sub-contractor for purposes of recovery by its employees under a Miller Act payment bond.</text>
+            <text syncTime="25.005" offset="180001">Petitioners had a construction contract with the United States government and  pasted a payment bond as required by the Act.</text>
+            <text syncTime="34.158" offset="216572">Petitioner sub-contracted part of the work to a firm known as Pierce Associates which in turn sub-contracted a part  with Colquitt Sprinkler Co..</text>
+            <text syncTime="46.246" offset="264951">When Colquitt defaulted on certain of its obligations to its employees and their union, the union filed against petitioner under the Miller Act.</text>
+            <text syncTime="55.817" offset="303194">The District Court granted summary judgment for respondents and the Court of Appeals affirmed.</text>
+            <text syncTime="62.230" offset="328899">By an opinion filed with the clerk today, we reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="67.696" offset="350737">The statutory language in the legislative history make clear that Congress meant the term sub-contractor as used in the act to include only those who had a contract with the prime contractor.</text>
+            <text syncTime="83.720" offset="414789">Colquitt could have confessed - could have claimed against the bond appears defaulted the employees of Colquitt were not similarly protected, because they did not have a contractual relationship with Pierce or any other sub-contractor.</text>
+            <text syncTime="101.686" offset="486678">Virtually, all reported decisions to consider this question had concluded as we do at those who contracted with a sub-contractor are not protected by the Miller Act payment bond.</text>
+            <text syncTime="115.199" offset="540700">Mr. Justice Stevens has filed a dissenting opinion, to which Mr. Justice Brennan joins.</text>
+            <text syncTime="120.276" offset="561075">Mr. Justice Blackmun took no part in the consideration or decision of this case.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="124.521" stopTime="125.925">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="124.521" offset="578002">Thank you Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,43 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-08T16:08:15" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-08</identified>
+      </history>
+      <resources>
+        <audioFile size="572584">/xml/cases/1989/88_1951/19900320o_88-1951.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1989/trs/88-1951_19900320-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="121.913">
+        <title>United States v. Dalm</title>
+        <section startTime="0" stopTime="121.913">
+          <heading>Opinion Announcement of Anthony M. Kennedy</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.378">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87124">The opinion of the Court in No. 88-1951, United States against Dalm will be announced by Justice Kennedy.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="8.378" stopTime="121.913">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="8.378" offset="120561">United States versus Dalm is a tax case.</text>
+            <text syncTime="11.472" offset="132995">In 1976 and 1977, the respondent, Frances Dalm, receives two payments from the estate of her deceased employer.</text>
+            <text syncTime="21.186" offset="171865">She treated both payments as gifts and paid gift tax on one of the payments.</text>
+            <text syncTime="26.408" offset="192659">Some years later, while auditing her income tax returns, the IRS determines that the payment should have been treated as income for her services as administratrix of the estate.</text>
+            <text syncTime="36.244" offset="232051">She challenged the IRS determination that she owed additional income tax in the Tax Court.</text>
+            <text syncTime="41.213" offset="251904">Now, this litigation over her income tax liability eventually settled with Dalm paying some additional income tax.</text>
+            <text syncTime="48.832" offset="282415">Based upon the income tax payments, Dalm filed a claim for refund of the gift tax.</text>
+            <text syncTime="53.333" offset="300388">The IRS denied her claim and she sued in Federal Court for a refund.</text>
+            <text syncTime="56.831" offset="314389">She contended that under the theory of equitable recoupment, she was entitled to a refund of the gift tax because the estate tax payments have been taxed twice under inconsistent theories.</text>
+            <text syncTime="67.466" offset="356917">The District Court dismissed her suit on the ground that the statute of limitations for seeking a refund of the gift tax are already run.</text>
+            <text syncTime="74.037" offset="383248">The Court of Appeals for the Sixth Circuit reversed holding that the doctrine of equitable recoupment applied and constituted an exception to the statute of limitations.</text>
+            <text syncTime="81.789" offset="414177">In an opinion filed today with the Clerk, we reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="86.296" offset="432254">We hold that the doctrine of equitable recoupment is not an exception to the statute of limitations and does not by itself grant the District Court jurisdiction to entertain a refund suit.</text>
+            <text syncTime="96.629" offset="473632">The doctrine maybe used to reconcile inconsistent taxes when one of the taxes is properly within the court’s jurisdiction.</text>
+            <text syncTime="102.993" offset="499023">But in this case, Dalm litigated her liability for income tax and then in a separate proceeding, attempted to litigate her equitable recoupment claim.</text>
+            <text syncTime="111.041" offset="531206">The doctrine of equitable recoupment cannot justify such a fragmented approach.</text>
+            <text syncTime="115.978" offset="550954">Justice Stevens has filed a dissenting opinion in which Justices Brennan and Marshall join.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

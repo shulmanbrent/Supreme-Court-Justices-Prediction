@@ -1,0 +1,51 @@
+<transcript verified="true">
+      <history>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="1024253">/xml/cases/2012/12_135/20130610o_12-135.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/12-135_20130610-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="elena_kagan" type="justice" gender="male" path="/justices/elena_kagan" image="/justices/elena_kagan/thumbnail.jpg">Elena Kagan</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="229.368">
+        <title>Oxford Health Plans v. Sutter</title>
+        <section startTime="0" stopTime="229.368">
+          <heading>Opinion Announcement of Elena Kagan</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="7.889">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="106496">Justice Kagan has our opinion this morning in case 12-135, Oxford Health Plans versus Sutter.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="7.889" stopTime="229.368">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="7.889" offset="138052">This is a case about the finality of arbitration decisions.</text>
+            <text syncTime="11.936" offset="154143">John Sutter, the respondent here, is a pediatrician who had a fee for services contract with petitioner Oxford Health Plans, a health insurance company.</text>
+            <text syncTime="22.155" offset="195103">Sutter sued Oxford in New Jersey Court on behalf of the proposed class of New Jersey physicians, alleging that Oxford had violated its agreements by failing to make full and prompt payment for the doctor's services.</text>
+            <text syncTime="37.295" offset="255603">Citing the contracts arbitration clause, Oxford successfully moved to compel arbitration of Sutter's claims.</text>
+            <text syncTime="46.318" offset="291756">Oxford and Sutter then agreed that the arbitrator should decide whether their contract authorized class arbitration.</text>
+            <text syncTime="55.015" offset="326552">After analyzing the text of their arbitration agreement, the arbitrator concluded that it did and the case proceeded on a classwide basis.</text>
+            <text syncTime="65.684" offset="369183">A few years later, we hold in a case called Stolt-Nielsen that an arbitrator may employ class procedures only if the parties have affirmatively authorized them.</text>
+            <text syncTime="78.157" offset="419025">Oxford immediately asked the arbitrator to reconsider his decision in light of Stolt-Nielsen, but the arbitrator issued a new opinion explaining again that he read the parties' agreement to authorize class arbitration and therefore, that Stolt-Nielsen had no impact on the case.</text>
+            <text syncTime="96.300" offset="491645">Oxford filed this suit in federal court arguing that the arbitrator had exceeded his powers which under Section 10(a)(4) of the Federal Arbitration Act is a ground to vacate an arbitrator's decision.</text>
+            <text syncTime="110.283" offset="547547">The District Court rejected Oxford's argument in the U.S. Court of Appeals for the Third Circuit affirmed.</text>
+            <text syncTime="117.376" offset="575969">Today, we affirm the Third Circuit.</text>
+            <text syncTime="120.472" offset="588298">Courts can vacate arbitral awards only in very unusual circumstances.</text>
+            <text syncTime="126.142" offset="610973">Here, as I just said, Oxford relies on Section 10(a)(4) which authorizes a court to set aside an arbitrator's decision when the -- when the arbitrator exceeded his powers.</text>
+            <text syncTime="138.940" offset="662173">We have long held that an arbitrator does not exceed his powers by making an error, even a large one.</text>
+            <text syncTime="146.362" offset="691848">That's because when the parties agree to have an arbitrator resolve a dispute, theyv bargained for the arbitrator's answer and they have to live with it.</text>
+            <text syncTime="155.807" offset="729673">An arbitrator's decision that is even arguably construing or applying the contract cannot be vacated.</text>
+            <text syncTime="163.234" offset="759348">It's only when an arbitrator clearly goes beyond the scope of his delegated authority when he imposes his own policy preferences rather than looking to the contract that a Court may overturn his decision.</text>
+            <text syncTime="177.294" offset="815668">In short, the only question for us is whether the arbitrator arguably interpreted the contract, not whether he got its meaning right or wrong.</text>
+            <text syncTime="188.191" offset="859240">As our opinion explains, the arbitrator's decisions here were through and through, interpretations of the parties' agreement.</text>
+            <text syncTime="196.652" offset="893095">In both, he answered the question the parties submitted to him whether their agreement allowed class arbitration.</text>
+            <text syncTime="204.080" offset="922770">He did so by interpreting the text of their arbitration clause.</text>
+            <text syncTime="208.639" offset="940952">Whether his interpretation was right or wrong makes no difference.</text>
+            <text syncTime="213.033" offset="958610">Because the arbitrator was interpreting the contract, he did not exceed his powers.</text>
+            <text syncTime="219.176" offset="983165">It is just that simple.</text>
+            <text syncTime="221.370" offset="991943">Our opinion is unanimous.</text>
+            <text syncTime="223.482" offset="1000406">Justice Alito has filed a concurring opinion in which Justice Thomas joins.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

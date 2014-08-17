@@ -1,0 +1,55 @@
+<transcript verified="true">
+      <history>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="1383092">/xml/cases/2012/12_43/20130520o_12-43.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/12-43_20130520-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="319.344">
+        <title>PPL Corporation v. Commissioner of Internal Revenue</title>
+        <section startTime="0" stopTime="319.344">
+          <heading>Opinion Announcement of Clarence Thomas</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="10.000">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="105472">Justice Thomas has our opinion this morning in case 12-43, PPL Corporation versus the Commissioner of Internal Revenue.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="10.000" stopTime="319.344">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="10.000" offset="145387">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Third Circuit.</text>
+            <text syncTime="16.510" offset="171510">Between 1984 and 1996, the United Kingdom privatized 32 owned -- state-owned companies.</text>
+            <text syncTime="24.641" offset="204006">Many of these companies became dramatically more efficient under private ownership and earned substantial profits.</text>
+            <text syncTime="33.197" offset="238174">In 1997, parliament imposed a one-time “windfall tax” on the 32 companies.</text>
+            <text syncTime="41.283" offset="270566">The tax was based on the difference between the actual price at which each company was privatized and a theoretical value arrived at by multiplying the company's historic profits by the number nine.</text>
+            <text syncTime="59.459" offset="343291">Parliament labeled this a “price-to-earnings ratio.”</text>
+            <text syncTime="63.516" offset="359487">Petitioner, PPL Corporation, owned 25% of the U.K. companies that was subject -- one of the U.K. companies that was subject to the tax.</text>
+            <text syncTime="75.104" offset="405880">It claimed the credit for it shared bill on its 1997 federal income-tax return, relying on Internal Revenue Code Section 901(b)(1) which provides that any income, war profits, and excess profits taxes paid overseas are creditable against U.S. income taxes.</text>
+            <text syncTime="99.006" offset="501488">Treasury Regulations interpret this section to mean that a foreign tax is creditable if its predominant character is that of an income tax in the U.S. sense.</text>
+            <text syncTime="113.178" offset="558122">The Commissioner of Internal Revenue rejected PPLs claim, but the Tax Court held that the U.K. windfall tax was creditable.</text>
+            <text syncTime="123.599" offset="599813">The Third Circuit reversed.</text>
+            <text syncTime="126.609" offset="611830">In an opinion filed with the clerk today, we reversed the judgment of the Third Circuit.</text>
+            <text syncTime="131.713" offset="632310">Treasury Regulation Section 1.901-2 sets forth the relevant principles.</text>
+            <text syncTime="139.774" offset="664492">First, a tax's predominant character or the normal manner in which it applies is controlling.</text>
+            <text syncTime="147.012" offset="693436">Thus, a foreign tax that operates as an income, war profits, or excess profits tax for most taxpayers is creditable.</text>
+            <text syncTime="157.934" offset="737113">Second, the creditability of a foreign tax does not depend on the way a foreign government characterizes its tax.</text>
+            <text syncTime="166.714" offset="772326">Instead, it depends on whether the tax would be an income, war profits, or excess profits tax if the U.S. had enacted it.</text>
+            <text syncTime="176.149" offset="810047">Other Treasury Regulations expand upon these principles, explaining that a foreign tax's predominant character is that of a U.S. income-tax if the foreign tax is likely to reach net gain in the normal circumstances in which it applies.</text>
+            <text syncTime="195.627" offset="887892">Net gain, also referred to as net income consist of realized gross receipts reduced by significant cost and expense attributable to such gross receipts.</text>
+            <text syncTime="209.817" offset="944734">Any foreign tax that reaches net gain or profits is creditable.</text>
+            <text syncTime="214.916" offset="965110">Applying these guidelines, we conclude that the U.K. windfall tax's predominant character is that of an excess profits tax, the category of income tax in the U.S. sense.</text>
+            <text syncTime="227.405" offset="1015056">The Commissioner argues that the windfall tax is a tax on the difference between two values, but it is, in fact, the tax on the realized net income.</text>
+            <text syncTime="237.747" offset="1056434">The substance of the windfall tax confirms this conclusion.</text>
+            <text syncTime="242.024" offset="1073465">When algebraically rearranged, the UK's formula demonstrates that the windfall tax is economically equivalent to the difference between the profits each company actually earned and the amount the government believed that should have earned during the relevant period.</text>
+            <text syncTime="260.034" offset="1145563">For most of the companies subject to the tax, the formula effectively imposed a 51% tax on all profits above a threshold, a classic excess profit -- profits tax.</text>
+            <text syncTime="273.286" offset="1198540">The Commissioner also argues that any algebraic rearrangement is improper because U.S. courts must take the foreign tax rate as -- as written and accept whatever tax base the foreign tax purports to adopt, but such a rigid construction cannot be squared with the black-letter principle that tax law deals and economic reality is not legal abstractions.</text>
+            <text syncTime="298.171" offset="1298119">We, accordingly, follow substance over form and hold that the windfall tax is a tax on actual profits above a threshold and is therefore creditable.</text>
+            <text syncTime="309.604" offset="1343885">The judgment of the Court of Appeals for the Third Circuit is reversed.</text>
+            <text syncTime="313.433" offset="1359141">The opinion of the Court is unanimous.</text>
+            <text syncTime="315.970" offset="1369276">Justice Sotomayor has filed a concurring opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

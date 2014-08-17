@@ -1,0 +1,50 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:13:05" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="1170123">/xml/cases/2001/01_408/20020603o_01-408.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2001/trs/01-408_20020603-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="270.628">
+        <title>Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc.</title>
+        <section startTime="0.000" stopTime="270.628">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.042">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87609">The opinion of the Court in No. 01-408 Holmes Group, Inc. versus Vornado Air Circulation Systems will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="10.042" stopTime="270.628">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="10.042" offset="127733">This case comes to us on writ of certiorari to the United States Court of Appeals for the Federal Circuit.</text>
+            <text syncTime="15.445" offset="149362">It involves a rather technical question concerning the jurisdiction of that court.</text>
+            <text syncTime="20.746" offset="170574">Petitioner filed a Federal Court action seeking a declaratory judgment that its products did not infringe respondent’s trade dress and in an injunction restraining respondent from accusing it of such infringement.</text>
+            <text syncTime="35.055" offset="227730">Respondent’s answer asserted a compulsory patent infringement counterclaim.</text>
+            <text syncTime="41.722" offset="254479">The District Court ruled in favor of the petitioner.</text>
+            <text syncTime="45.289" offset="268690">Respondent then appealed to the Federal Circuit instead of the Regional Court of Appeals, which in this case would have been the Tenth Circuit.</text>
+            <text syncTime="53.540" offset="301709">The Federal Circuit, notwithstanding the petitioner’s challenge to its jurisdiction, vacated the District Court’s judgment and remanded the case.</text>
+            <text syncTime="62.235" offset="336504">We granted certiorari and now vacate and remand with instructions to transfer this case to the Court of Appeals to the Tenth Circuit.</text>
+            <text syncTime="71.245" offset="372553">Pursuant to 28 U.S.C. Section 1295(a)(1), the Federal Circuit has exclusive jurisdiction over “an appeal from a final decision of a District Court of the United States if the jurisdiction of that court was based in whole or in part on 28 U.S.C. Section 1338.</text>
+            <text syncTime="94.520" offset="465653">28 U.S.C. Section 1338(a) gives District Courts jurisdiction over civil actions “arising under", magic words to lawyers, "arising under federal patent law.”</text>
+            <text syncTime="111.230" offset="532527">Because 1338(a) uses the same operative language, arising under, as 28 U.S.C. Section 1331 which confers general federal question jurisdiction on the District Courts.</text>
+            <text syncTime="125.149" offset="588115">We held in a case called Christianson versus Colt Industries Operating Corporation that the well-pleaded complaint rule governing whether a case arises under 1331 also governs whether a case arises under Section 1338(a).</text>
+            <text syncTime="141.561" offset="653839">As adapted to Section 1338(a), that well-pleaded complaint rule provides that whether a case arises under patent law is determined by what appears in the plaintiff’s well-pleaded complaint.</text>
+            <text syncTime="154.225" offset="704412">That is a complaint that does not have surplus agenda.</text>
+            <text syncTime="157.757" offset="718623">Because petitioner’s well-pleaded complaint asserted no claim arising under federal patent law but just the trade dress claim, the Federal Circuit erred in asserting jurisdiction over this appeal.</text>
+            <text syncTime="170.020" offset="767629">We are not persuaded by respondent’s argument that the well-pleaded complaint rule allows a counterclaim to serve as the basis for a District Courts arising under jurisdiction.</text>
+            <text syncTime="180.156" offset="808171">To accept this argument would contravene the face of the complaint principle set forth in our prior cases and the long standing policies furthered by that principle.</text>
+            <text syncTime="189.802" offset="846727">It would leave acceptance or rejection of a State Forum to the master of the counterclaim rather than to the plaintiff.</text>
+            <text syncTime="197.204" offset="876402">It would radically expand the class of removable cases, and it would undermine the clarity and ease of administration of the well-pleaded complaint doctrine.</text>
+            <text syncTime="207.823" offset="918825">We are also not persuaded by respondent’s alternative argument that reading Section 1295(a)(1) and Section 1338(a) to confer appellate jurisdiction on the Federal Circuit whenever a patent law counterclaim is raised is necessary to effect congress’ goal of promoting patent law uniformity.</text>
+            <text syncTime="230.791" offset="1010672">This Court’s task is not to determine what would further congress’ goal but to determine what the statute’s words must fairly be understood to mean.</text>
+            <text syncTime="239.375" offset="1045049">It would be impossible to say that section 1338(a)’s arising under language means the well-pleaded complaint rule when read on its own, but means respondent’s complaint or counterclaim rule when it is referred to by Section 1295(a)(1).</text>
+            <text syncTime="259.072" offset="1123834">Justice Stevens has filed an opinion concurring in part and concurring in the judgment; Justice Ginsburg has filed an opinion concurring in the judgment in which Justice O’Connor has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

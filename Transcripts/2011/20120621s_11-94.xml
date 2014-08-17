@@ -1,0 +1,50 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-20</identified>
+      </history>
+      <resources>
+        <audioFile size="1082224">/xml/cases/2011/11_94/20120621o_11-94.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2011/trs/11-94_20120621-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="sonia_sotomayor" type="justice" gender="female" path="/justices/sonia_sotomayor" image="/justices/sonia_sotomayor/thumbnail.jpg">Sonia Sotomayor</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="243.644">
+        <title>Southern Union Company v. United States</title>
+        <section startTime="0.000" stopTime="243.644">
+          <heading>Opinion Announcement of Sonia Sotomayor</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="10.088">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="107520">Justice Sotomayor has our opinion this morning in case 11-94, Southern Union Company versus the United States.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="10.088" stopTime="243.644">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="10.088" offset="147853">This case is about the Sixth Amendment right of jury trial.</text>
+            <text syncTime="14.328" offset="164780">In Apprendi versus New Jersey, we held that this right requires that other than the fact of a prior conviction, any fact that increases the maximum punishment for criminal defendant cases must be proved to a jury beyond a reasonable doubt rather than to a judge under a lower standard of proof.</text>
+            <text syncTime="35.063" offset="247745">We have reaffirmed the Apprendi's rules numerous times in cases where the punishment at issue was imprisonment or the death sentence.</text>
+            <text syncTime="44.722" offset="286407">The question here is whether Apprendi also applies when the punishment is a criminal fine.</text>
+            <text syncTime="50.940" offset="311275">We hold that it does.</text>
+            <text syncTime="53.606" offset="321933">This case arises from the conviction of Southern Union Company, a natural gas distributor.</text>
+            <text syncTime="60.157" offset="348056">A jury found the company guilty of violating a federal environmental statute.</text>
+            <text syncTime="65.605" offset="369894">The statute authorizes a fine of up to $50,000 for each day of violation.</text>
+            <text syncTime="72.461" offset="397270">The jury, however, did not specify the length of the violation.</text>
+            <text syncTime="77.092" offset="415869">Southern Union argued that the judge must, therefore, assume the violation was for just one day because any longer violation would expose the company to a larger maximum fine and thus amount to judicial fact finding in violation of Apprendi.</text>
+            <text syncTime="94.280" offset="484624">The District Court, however, imposed a fine of $6 million and a community service obligation of $12 million, amounts much larger than the one day penalty of $50,000.</text>
+            <text syncTime="107.801" offset="538645">The United States Courts of Appeals for the First Circuit recognized that this would violate Apprendi, if Apprendi applied to criminal fines but held that Apprendi does not so apply.</text>
+            <text syncTime="121.226" offset="592353">We disagree.</text>
+            <text syncTime="123.169" offset="600189">For purposes of Apprendi, there is no basis to distinguish criminal fines from imprisonment or the death sentence.</text>
+            <text syncTime="130.470" offset="629342">As we have said in Oregon versus Ice, the core concern of Apprendi is to ensure that the jury finds facts that weren't punishment for a specific statutory offense.</text>
+            <text syncTime="143.383" offset="680960">That concern applies just as much to fines as to imprisonment and the death sentence.</text>
+            <text syncTime="149.523" offset="705515">Like these other forms of punishment, fines are frequently imposed penal sanctions.</text>
+            <text syncTime="155.735" offset="730384">Their amounts are often determined by particular facts and they can be very substantial ranging into the tens of million of dollars or greater.</text>
+            <text syncTime="166.558" offset="773747">To allow judges to find facts that set the maximum amount of a fine would subvert Apprendi's purposes.</text>
+            <text syncTime="174.381" offset="804989">Our holding today is rooted in historical practice.</text>
+            <text syncTime="177.889" offset="818991">At the time of the founding, judges often have much discretion in choosing what fine to impose, but when as here, the amount of a fine depended on a particular fact, those facts were typically alleged in the indictment and proved to the jury.</text>
+            <text syncTime="195.609" offset="889940">This requirement manifested the common law rule that all accusations against the defendant that go into determining the punishment must be proved to the jury otherwise the defendant would be punished on the basis of facts that he has never been accused of.</text>
+            <text syncTime="213.442" offset="961202">The Government makes several policy arguments for why Apprendi should not apply to criminal fines and we reject them for reasons fully discussed in the opinion.</text>
+            <text syncTime="223.452" offset="1001326">Because the First Circuit held that Apprendi does not apply to criminal fines, we reverse that Court's judgment and remand for proceedings consistent with this opinion.</text>
+            <text syncTime="234.061" offset="1043749">Justice Breyer has filed a dissenting opinion in this case in which Justices Kennedy and Justice Alito join.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

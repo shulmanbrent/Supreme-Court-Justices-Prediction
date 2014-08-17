@@ -1,0 +1,36 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1993-04-21</transcribed>
+        <edit user="tschaefer" date="2012-08-15T16:38:28" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="byron_r_white"/>
+        <identified user="tschaefer">2012-08-15</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:38:29" startTime="0.000" oldSpeaker="byron_r_white" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="311664">/xml/cases/1992/91_790/19930421o_91-790.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1992/91-790_19930421-opinion.xml</sourceFile>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="57.469">
+        <title>CSX Transportation, Inc. v. Easterwood</title>
+        <section startTime="0.000" stopTime="23.978">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="23.978">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="81786">We have another opinion to announce which I ommitted will be announced by Justice White.</text>
+          </turn>
+        </section>
+        <section startTime="23.978" stopTime="57.469">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="byron_r_white" startTime="23.978" stopTime="57.469">
+            <label>Justice Byron R. White</label>
+            <text syncTime="23.978" offset="177603">And As usual it won't take long.</text>
+            <text syncTime="30.985" offset="205711">For the reason stated in an opinion filed with the Clerk, the judgment of the Court of Apeals for the Eleventh Circuit is affirmed.</text>
+            <text syncTime="40.623" offset="244268">Justice Thomas who is joined by Justice Souter has filed an opinion concurring in part and dissenting in part.</text>
+            <text syncTime="46.885" offset="269241">Thank you Mr. Chief Justice.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

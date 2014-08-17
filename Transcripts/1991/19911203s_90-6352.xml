@@ -1,0 +1,52 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1991-12-03</transcribed>
+        <edit user="tschaefer" date="2012-08-14T20:33:06" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <identified user="tschaefer">2012-08-14</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:28:36" startTime="0.000" oldSpeaker="antonin_scalia" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="841297">/xml/cases/1991/90_6352/19911203o_90-6352.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1991/90-6352_19911203-opinion.xml</sourceFile>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="187.612">
+        <title>Griffin v. United States</title>
+        <section startTime="0.000" stopTime="10.871">
+          <heading>Announcement of Justice Scalia</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.871">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90851">The opinion of the Court in No. 90-6352, Griffin against the United States will be announced by Justice Scalia.</text>
+          </turn>
+        </section>
+        <section startTime="10.871" stopTime="187.612">
+          <heading>Announcement of Justice Scalia</heading>
+          <turn speaker="antonin_scalia" startTime="10.871" stopTime="187.612">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="10.871" offset="134319">This case is here on certiorari from the Court of Appeals for the Seventh Circuit.</text>
+            <text syncTime="17.327" offset="160128">Diane Griffin and two others were charged with conspiring to defraud an agency of the Federal Government.</text>
+            <text syncTime="23.854" offset="186250">The conspiracy allegedly had two objects: One, to prevent the Internal Revenue Service from ascertaining income taxes; and two, to prevent the DEA, the Drug Enforcement Administration, from ascertaining forfeitable assets.</text>
+            <text syncTime="40.894" offset="254378">At trial, the government introduced evidence implicating Griffin in the first object of the conspiracy but no evidence implicating her in the second.</text>
+            <text syncTime="49.869" offset="290322">In spite of this, the District Court instructed the jury in a manner that would permit it to return a verdict against Griffin if it found her to have participated in either one of the two objects.</text>
+            <text syncTime="61.794" offset="337969">The jury returned a general verdict of guilty.</text>
+            <text syncTime="64.979" offset="350717">The Court of Appeals upheld Griffins' conviction rejecting the argument that the general verdict could not stand because it left in doubt whether the jury had convicted her as to the first object of the conspiracy for which there was adequate evidence or as to the second for which there was not.</text>
+            <text syncTime="78.961" offset="406619">We granted certiorari and today, we affirm.</text>
+            <text syncTime="83.046" offset="423024">Neither the Due Pprocess Clause of the Constitution nor this Court's precedents require in a federal prosecution that a general guilty verdict on a multiple object conspiracy be set aside if the evidence is inadequate to support conviction as to one of the objects.</text>
+            <text syncTime="98.139" offset="483315">The due process claim is not supported by the historical practice.</text>
+            <text syncTime="102.148" offset="499406">At common law, a general verdict would be left standing not only where one of the alternative bases for conviction was inadequately supported by the facts but even where one was invalid at law.</text>
+            <text syncTime="114.464" offset="548621">In a case called Yates versus United States, we set aside a general jury verdict in a federal prosecution because one of the objects of the conspiracy was invalid at law, that is, even if proven it would not have constituted a crime.</text>
+            <text syncTime="128.431" offset="604523">In a later case, however, called Turner versus United States, we held that when a federal indictment charges several acts conjunctively, each of which is sufficient to constitute a crime, a general jury verdict must be sustained so long as the evidence is sufficient to establish one of the acts.</text>
+            <text syncTime="145.914" offset="674427">Griffin has not set forth any adequate basis for distinguishing Turner from cases such as this one.</text>
+            <text syncTime="151.702" offset="697623">Moreover, the line between Yates and Turner makes sense.</text>
+            <text syncTime="155.523" offset="712879">It can be left to jurors to determine which of various alternative theories is supported by the facts.</text>
+            <text syncTime="160.044" offset="730955">They are good at that.</text>
+            <text syncTime="161.611" offset="737225">They are not good at spotting theories that are inadequate in law.</text>
+            <text syncTime="165.421" offset="752480">We hold, therefore, that although it would be generally be preferable for a District Court to give an instruction removing from the jury's consideration an alternative basis of liability that does not have adequate evidentiary support, the refusal to do so does not provide an independent basis for reversing an otherwise valid conviction.</text>
+            <text syncTime="183.373" offset="824265">Justice Blackmun has filed a separate opinion concurring in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

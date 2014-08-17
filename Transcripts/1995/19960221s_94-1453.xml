@@ -1,0 +1,47 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1996-02-21</transcribed>
+        <edit user="dleib" date="2012-07-24T22:22:43" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="clarence_thomas"/>
+        <identified user="dleib">2012-07-24</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:21:39" startTime="0.000" oldSpeaker="clarence_thomas" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="848710">/xml/cases/1995/94_1453/19960221o_94-1453.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1995/94-1453_19960221-opinion.xml</sourceFile>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="192.052">
+        <title>Peacock v. Thomas</title>
+        <section startTime="0.000" stopTime="9.968">
+          <heading>Announcement of Justice Thomas</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.968">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80501">The opinion of the Court in No. 94-1453, Peacock against Thomas will be announced by Justice Thomas.</text>
+          </turn>
+        </section>
+        <section startTime="9.968" stopTime="192.052">
+          <heading>Announcement of Justice Thomas</heading>
+          <turn speaker="clarence_thomas" startTime="9.968" stopTime="192.052">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="9.968" offset="120312">This is a case in which the successful plaintiff is left to ask what happened to my money.</text>
+            <text syncTime="20.334" offset="161794">In 1987, Jack Thomas, no relation, filed an ERISA class action in Federal Court against Tru-Tech, Inc, his former employer and D. Grant Peacock, an officer and shareholder of Tru-Tech. for the benefits due under the corporation's pension benefits plan.</text>
+            <text syncTime="42.442" offset="250192">He won the suit against Tru-Tech but lost against Peacock.</text>
+            <text syncTime="47.172" offset="269105">Thomas did not collect the judgment while the case was on appeal and Peacock apparently settled many of Tru-Tech's accounts with favored creditors not a lease of whom was himself.</text>
+            <text syncTime="63.423" offset="334098">After the appeal, Thomas was unable to collect the judgment from Tru-Tech there being no money, so he filed a new lawsuit against Peacock in Federal Court arguing among other things that the court should pierce the Corporate Veil and hold Peacock personally liable for the judgment that Thomas had won against Tru-Tech.</text>
+            <text syncTime="88.636" offset="435035">The District Court agreed with Thomas and the Court of Appeals affirmed.</text>
+            <text syncTime="92.971" offset="452380">We took this case decide whether the District Court had jurisdiction over Thomas' second lawsuit.</text>
+            <text syncTime="100.210" offset="481324">We hold that it did not.</text>
+            <text syncTime="102.333" offset="489788">Because Thomas allege no violation of the Employee Retirement Income Security Act Codiac or of Tru-Tech's long sense terminated plan, and because the ERISA recognizes no stand along cause of action for piercing the Corporate Veil, neither ERISA’s jurisdictional provision nor the general federal question statute supply the District Court with subject matter jurisdiction over the suit.</text>
+            <text syncTime="130.842" offset="603786">We also disagree with Thomas’ argument that this action is sufficiently related or ancillary to his original lawsuit.</text>
+            <text syncTime="139.825" offset="639730">Though we have approved the exercise of ancillary jurisdiction over a broad range of supplementary proceedings involving third parties to assist in protection and enforcement of federal judgment, we have never authorized the exercise of ancillary jurisdiction in a subsequent lawsuit to transfer liability for an existing federal judgment to a person not already liable for that judgment.</text>
+            <text syncTime="167.618" offset="750908">As long as the federal rules protect the judgment creditor's ability to execute on a judgment, the District Court's authority is adequately preserved.</text>
+            <text syncTime="176.246" offset="785389">An ancillary jurisdiction is not justified over a new lawsuit to impose liability for judgment on a third party.</text>
+            <text syncTime="184.190" offset="817259">Accordingly, the judgment of the Court of Appeals is reversed.</text>
+            <text syncTime="188.777" offset="835544">Justice Stevens has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

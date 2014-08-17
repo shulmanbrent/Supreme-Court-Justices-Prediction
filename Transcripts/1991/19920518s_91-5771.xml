@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:25:52" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="462936">/xml/cases/1991/91_5771/19920518o_91-5771.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/91-5771_19920518-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="93.022">
+        <title>Wade v. United States</title>
+        <section startTime="0.000" stopTime="93.022">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.069">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90848">The opinion of the Court in No.91-5771, Wade against the United States will be announced by Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="9.069" stopTime="93.022">
+            <label>Justice David H. Souter</label>
+            <text syncTime="9.069" offset="127106">This case comes to us on writ of certiorari to the United States Court of Appeals for the Fourth Circuit.</text>
+            <text syncTime="14.848" offset="150198">Petitioner, Harold Ray Wade, pleaded guilty to federal charges of drug trafficking and gun possession.</text>
+            <text syncTime="20.631" offset="173290">At his sentencing hearing, Wade argued that the applicable sentencing statute and guideline permitted the District Court to go below the mandatory 10-year sentence for his conviction on the drug charges because after his arrest, he had helped the government catching another drug dealer.</text>
+            <text syncTime="35.526" offset="232850">The District Court held that it had no authority to go below the minimum unless the government filed a motion to that effect.</text>
+            <text syncTime="41.487" offset="256778">Because the government had not filed such a motion, the District Court's sentence weighed to 10 years in prison on the drug charges.</text>
+            <text syncTime="48.223" offset="283736">The Court of Appeals affirmed holding that the District Court had correctly found itself without authority to depart.</text>
+            <text syncTime="54.290" offset="307978">The Court of Appeals specifically rejected Wade's argument that the District Court at least had the power to review the government's refusal to file a motion upon a claim that its refusal resulted from an unconstitutional motive.</text>
+            <text syncTime="67.654" offset="361372">We agree with Wade that the District Court has authority to review the government's decision to withhold a substantial assistance motion when a defendant makes a substantial showing that the refusal reflected an unconstitutional motive.</text>
+            <text syncTime="80.322" offset="412050">In this case, however, Wade failed in the District Court to make any showing of unconstitutional motive even though the District Court gave him an adequate opportunity for doing so.</text>
+            <text syncTime="88.658" offset="445382">We, therefore, affirm the judgment of the Court of Appeals.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

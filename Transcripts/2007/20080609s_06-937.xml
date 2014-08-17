@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1006732">/xml/cases/2007/06_937/20080609o_06-937.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2007/trs/06-937_20080609-opinion.trs</sourceFile>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="225.515">
+        <title>Quanta Computer, Inc., et al. v. LG Electronics, Inc.</title>
+        <section startTime="0.000" stopTime="225.515">
+          <heading>Opinion Announcement of Clarence Thomas</heading>
+          <turn speaker="clarence_thomas" startTime="0.000" stopTime="225.515">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="0.000" offset="104672">The first case is Quanta Computers -- Computer versus LG Electronics, Number 06-937.</text>
+            <text syncTime="9.983" offset="144587">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Federal Circuit.</text>
+            <text syncTime="16.998" offset="172590">Respondent owns a portfolio of computer related patents and licensed rather broadly those patents to Intel Corporation to make use and sell products practicing those patents.</text>
+            <text syncTime="33.543" offset="238837">A separate agreement required Intel to give notice to its customers that the customers had not been granted a license to practice the patents using non-Intel parts.</text>
+            <text syncTime="45.984" offset="288574">Petitioners purchased microprocessors and chipsets from Intel that were designed to practice the patents when connected to memory and buses, and buses here of course, computer buses are just connections that carry data from one computer component to another or from one computer to another.</text>
+            <text syncTime="66.590" offset="371016">Petitioners constructed computers that practiced the patents using the Intel products combined with memory and buses and respondents sued, alleging patent infringement.</text>
+            <text syncTime="79.465" offset="422530">Petitioners countered, invoking the longstanding doctrine of -- of patent exhaustion whereby the first authorized sale of a patented item exhausts the patent holder's rights to that item.</text>
+            <text syncTime="95.282" offset="485746">The Court of Appeals for the Federal Circuit disagreed.</text>
+            <text syncTime="98.135" offset="497136">It held that exhaustion is limited to patent claims for physical objects and does not apply to patent claims for methods or process like those included in respondent's patents.</text>
+            <text syncTime="110.725" offset="547500">In the alternative, it held that the sale of the Intel products to petitioners was not authorized by the license.</text>
+            <text syncTime="118.911" offset="580310">In an opinion filed with the clerk today, we reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="124.536" offset="602775">First, nothing in this Court's approach to patent exhaustion supports respondent's argument that method patents cannot be exhausted.</text>
+            <text syncTime="134.416" offset="642272">We have previously applied the doctrine to method patents and failure to do so here would undermine the purposes of exhaustion.</text>
+            <text syncTime="143.876" offset="680097">Second, we consider the extent to which a product must embody a patent in order to trigger exhaustion.</text>
+            <text syncTime="152.401" offset="714265">Applying the analysis used in United States versus Univis Lens Company, we hold that exhaustion was triggered by the sale of the Intel parts because their only reasonable and intended use was to practice the patent and because they embodied essential features of the patented invention.</text>
+            <text syncTime="172.917" offset="796290">The Intel products embody the essential features of respondent's patents because they were designed to carry out all of the patent's inventive -- inventive processes and need only be combined with standard components.</text>
+            <text syncTime="188.766" offset="859715">Finally, we note that Intel's sale of the products to petitioner was authorized.</text>
+            <text syncTime="195.650" offset="887196">Nothing in the license agreement restricts Intel's right to sell its products to purchasers who intend to combine them with non-Intel parts nor can a notice provision in the separate agreement create limitations not contained in the license itself.</text>
+            <text syncTime="212.636" offset="955114">Intel's authorized sale to petitioner thus exhausted the patents and as a result, respondent can no longer assert its patent rights against petitioners.</text>
+            <text syncTime="223.773" offset="999732">The opinion of the Court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

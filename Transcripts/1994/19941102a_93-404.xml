@@ -1,0 +1,1272 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1994-11-02</transcribed>
+        <edit user="tschaefer" date="2012-07-15T11:15:48" startTime="1888.847" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <identified user="tschaefer">2012-07-15</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="13989764">/xml/cases/1994/93_404/19941102a_93-404.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1994/93-404_19941102-argument.xml</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="donald_w_jenkins" type="advocate" gender="male" path="/advocates/dj/donald_w_jenkins" image="/advocates/dj/donald_w_jenkins/thumbnail.jpg">Donald W. Jenkins</speaker>
+        <speaker id="robert_j_kopecky" type="advocate" gender="male" path="/advocates/rk/robert_j_kopecky" image="/advocates/rk/robert_j_kopecky/thumbnail.jpg">Robert J. Kopecky</speaker>
+        <speaker id="michael_r_dreeben" type="advocate" gender="male" path="/advocates/md/michael_r_dreeben" image="/advocates/md/michael_r_dreeben/thumbnail.jpg">Michael R. Dreeben</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3461.060">
+        <title>Gustafson v. Alloyd Company, Inc.</title>
+        <section startTime="0.000" stopTime="1529.009">
+          <heading>Argument of Donald W. Jenkins</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="13.668">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="145388">We'll hear argument now in Number 93-404, Arthur L.... do you know how your client's full name... is it Gustafson, or Gustafson?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="13.668" stopTime="13.918">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="13.668" offset="200036">Gustafson.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="13.918" stopTime="19.571">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="13.918" offset="200977">Arthur L. Gustafson v. Alloyd Company, Incorporated.</text>
+            <text syncTime="18.478" offset="219262">Mr. Jenkins.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="19.571" stopTime="251.617">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="19.571" offset="223651">Mr. Chief Justice and may it please the Court--</text>
+            <text syncTime="25.131" offset="245907">As the briefs indicate, this case turns in large part on whether or not the phrase, by means of a prospectus or oral communication, as used in section 12(2) of the Securities Act of 1933, is a phrase of limitation.</text>
+            <text syncTime="40.766" offset="308392">The case also turns on whether, by section 12(2), the act covers negotiated private transactions even though the act does not otherwise intrude into such business arrangements.</text>
+            <text syncTime="54.604" offset="363772">The House report answers both these questions, stating the bill affects only new offerings of securities.</text>
+            <text syncTime="62.490" offset="395328">It does not affect ordinary redistribution of securities.</text>
+            <text syncTime="66.583" offset="411628">As to liability provisions, the report states the bill's civil liabilities attach only when there's been an untrue statement of material fact in the registration statement or the prospectus, the basic information on which the public is solicited.</text>
+            <text syncTime="83.264" offset="478397">This case involves no new offering of securities, and presents the paradigm example of a private transaction the act plainly left free from regulation other than by its section 17.</text>
+            <text syncTime="96.009" offset="529388">Art Gustafson, Dan McLean, and Francis Butler sold their company to a sophisticated investor which conducted its own due diligence and negotiated the deal it wanted.</text>
+            <text syncTime="107.128" offset="573796">The buyers had full access to information about Alloyd.</text>
+            <text syncTime="112.221" offset="594172">Indeed, Mr. McLean and Mr. Butler were officers and shareholders of the buyer.</text>
+            <text syncTime="117.593" offset="615697">The stock purchase agreement contained numerous riskallocating provisions.</text>
+            <text syncTime="123.217" offset="638162">In particular, the parties knew that Alloyd's interim earnings were estimated, so, as is common, they closed with an estimated purchase price subject to a later dollar for dollar adjustment after an audit determined actual earnings.</text>
+            <text syncTime="140.288" offset="706498">They plainly could have, but did not, agree that some multiple of the variance should apply to the transaction.</text>
+            <text syncTime="147.862" offset="736800">After the audit, the parties agreed that the estimated price had been 815,000 dollars too high, and sellers paid that amount to buyers as the agreement required.</text>
+            <text syncTime="157.545" offset="775566">Buyers, who knew Alloyd's interim earnings were estimated, now claim that sellers warranted a certain level of such earnings in the agreement.</text>
+            <text syncTime="167.730" offset="816212">They claim a breach of that warranty, which is a contract law matter, and also claim a violation of section 2 of the... 12(2) of the Securities Act.</text>
+            <text syncTime="178.038" offset="857486">They have made no claim of fraud.</text>
+            <text syncTime="180.068" offset="865636">As to the section 12(2) claim they assert, it is that the purchase agreement itself, the negotiated purchase agreement, was a prospectus, and they claim they are entitled to rely on oral communications during due diligence about Alloyd's inventory, even though the agreement specifically provided such oral statements were superseded by the terms of the agreement.</text>
+            <text syncTime="205.777" offset="968454">Buyers seek rescission of the transaction or rescissionary damages, even though by the agreement they agreed that they would not seek rescission.</text>
+            <text syncTime="214.148" offset="1001891">The act, and section 12(2) in particular, makes a seller, we submit, a fiduciary only when there is an initial public offering of securities.</text>
+            <text syncTime="226.002" offset="1049329">It does not do so in the context of ordinary secondary transactions such as privately negotiated resales of stock that have never been publicly distributed.</text>
+            <text syncTime="237.076" offset="1093633">A stock purchase agreement memorializing the terms of a negotiated deal is not a prospectus, nor are discussions in the course of due diligence regarding the reliability of inventory estimates.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="251.617" stopTime="264.035">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="251.617" offset="1151834">If it had been an offering circular... not just a purchase agreement, but would an offering circular fit within the definition of section 2(10)?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="264.035" stopTime="296.193">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="264.035" offset="1201466">An offering circular would certainly be a circular, I think, within the meaning of section 2(10).</text>
+            <text syncTime="269.641" offset="1223932">It specifically uses that phrase.</text>
+            <text syncTime="271.717" offset="1232186">But the preceding words in 2(10) is, the very first definition of prospectus is prospectus itself, which as commonly defined then had a public solicitation connotation.</text>
+            <text syncTime="283.385" offset="1278893">We believe the correct interpretation, as demonstrated by numerous portions of the House report and other commentary by draftsman, is, an offering circular is a prospectus when it's used to solicit the public to purchase securities.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="296.193" stopTime="303.503">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="296.193" offset="1330093">But if it's in connection with a private offering, it would not... is that what you're saying would not?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="303.503" stopTime="313.748">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="303.503" offset="1359350">We don't believe that would be the proper definition under 2(10), or, particularly, under section 2(12), given the context of 2(12) as a liability provision in the act.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="313.748" stopTime="324.823">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="313.748" offset="1400310">But 2(10) just says, offers any security for sale.</text>
+            <text syncTime="318.886" offset="1420895">It doesn't... it's not... the words of the statute aren't limited to a public offering.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="324.823" stopTime="350.671">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="324.823" offset="1444614">The very first word that section 2(10) uses is prospectus.</text>
+            <text syncTime="327.976" offset="1457257">In defining what a prospectus is, prospectus, as commonly used then, connoted, or was defined as, a document prepared by a company describing its stock or prospects and inviting the public to subscribe to an issuer.</text>
+            <text syncTime="341.910" offset="1512950">Inviting the public.</text>
+            <text syncTime="343.440" offset="1519115">That's the first word used in the definition of prospectus.</text>
+            <text syncTime="346.250" offset="1530296">We believe the following words have similar import.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="350.671" stopTime="363.744">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="350.671" offset="1548059">Where is that limitation used?</text>
+            <text syncTime="353.388" offset="1558926">I mean, suppose you had what might be called an offering circular in connection with this private offering, but it was labeled, prospectus.</text>
+            <text syncTime="361.510" offset="1591422">Would it then fit within the definition?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="363.744" stopTime="373.256">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="363.744" offset="1600304">We don't believe so, not for section 2(10) purposes, and certainly not for section 12(2) purposes, because of their use of the word prospectus, used as a selling document.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="373.256" stopTime="376.630">
+            <label>Justice David H. Souter</label>
+            <text syncTime="373.256" offset="1638338">And you're... when you say similar import, you mean public offering import?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="376.630" stopTime="377.988">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="376.630" offset="1651817">Public offering, yes, Your Honor.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="377.988" stopTime="403.212">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="377.988" offset="1657251">So if this deal has... no, it would still be... well, if this deal had been done with the company, the control company issuing new shares, and then Gustafson redeeming the shares that they had originally, then that... otherwise everything is the same.</text>
+            <text syncTime="400.806" offset="1748575">That would be covered, right?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="403.212" stopTime="405.899">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="403.212" offset="1758188">If Alloyd had issued new shares to--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="405.899" stopTime="406.930">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="405.899" offset="1768950">To the--</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="406.930" stopTime="408.569">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="406.930" offset="1773026">--The buyers?</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="408.569" stopTime="415.129">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="408.569" offset="1779608">--Yes.</text>
+            <text syncTime="408.850" offset="1780758">The buyers got new shares, and then the sellers redeemed their old shares.</text>
+            <text syncTime="414.692" offset="1804059">I don't think--</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="415.129" stopTime="445.976">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="415.129" offset="1805835">As to the first portion of the transaction, the issuance by Alloyd of new shares to the buyers, the exemption of section, I think it's 4(2) of the act, would exempt that transaction.</text>
+            <text syncTime="425.219" offset="1846168">As to the second portion, a redemption, then, of the seller's shares by the company, I believe that would also be a 4(2)-exempted transaction, but I'm not certain.</text>
+            <text syncTime="436.495" offset="1891308">But in either event, because there is no public selling, no public offer involved in the transaction, no--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="445.976" stopTime="455.097">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="445.976" offset="1929238">--But then you would have to make your distinction turn on the actions of a public offering, not on the sale versus resale.</text>
+            <text syncTime="453.613" offset="1959749">In other words--</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="455.097" stopTime="455.753">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="455.097" offset="1965705">--There--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="455.753" stopTime="468.233">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="455.753" offset="1968317">--I gave you a situation where you end up with the same result, but in one case it's done in the form of a sale of new shares, redemption of old shares, in the other it's done in the form of just a direct sale of the--</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="468.233" stopTime="521.601">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="468.233" offset="2018263">--There is some authority, particularly in the comments of legislators, and I think these are cited in the SIA's brief in particular, for the proposition that the act just does not apply to transactions in old stock, period.</text>
+            <text syncTime="483.632" offset="2079912">Some of the commentary in the House report is inconsistent with that sort of declaration, because the commentary in the House report indicates that if there's a redistribution of old stock either by a company or a control person, that transaction is subject to regulation by the act.</text>
+            <text syncTime="503.187" offset="2158070">To the extent one prefers to rely on the House report, declared rationale, or the Congressmen's statements of intent that the act doesn't apply to resales of old stock at all, I think either way you reach the same result as to the application of section--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="521.601" stopTime="539.001">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="521.601" offset="2231736">--Yes, but I'm giving you two ways of doing essentially the same deal.</text>
+            <text syncTime="524.304" offset="2242603">One, it would involve a resale, and the other would be a first sale, and wholly apart from the private versus public sale, I think you said resales are never included.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="539.001" stopTime="544.155">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="539.001" offset="2301326">--Some Congressmen so stated when they were debating the act.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="544.155" stopTime="545.171">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="544.155" offset="2321910">But that's not your position?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="545.171" stopTime="555.649">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="545.171" offset="2325986">That is part of our position.</text>
+            <text syncTime="549.340" offset="2342704">One view that could be taken of the act based on those statements is the act just doesn't apply to resales of old stock, period.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="555.649" stopTime="559.929">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="555.649" offset="2367886">Yes, but you--</text>
+            <text syncTime="556.274" offset="2370394">--That's all it needs, just a couple of Congressmen to say... it's not even in the committee report, just a couple of Congressmen say it--</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="559.929" stopTime="560.164">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="559.929" offset="2385022">I--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="560.164" stopTime="562.195">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="560.164" offset="2385963">--and that is enough to interrupt the act that way?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="562.195" stopTime="582.592">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="562.195" offset="2394113">--No, Your Honor.</text>
+            <text syncTime="562.570" offset="2395576">I think the preferred view is the view that is articulated in our briefs, that the House report carefully lays out how the bill... the bill... regulates such transactions.</text>
+            <text syncTime="574.345" offset="2442701">If a redistribution of old stock looks like a public offering, becomes a public offering, then the act applies.</text>
+            <text syncTime="581.530" offset="2471435">I think that is the better--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="582.592" stopTime="589.699">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="582.592" offset="2475719">As I understand it, you don't rely at all on the distinction between a sale and a resale, do you?</text>
+            <text syncTime="585.700" offset="2488154">You rely on the distinction between public offerings or nonpublic offerings.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="589.699" stopTime="593.571">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="589.699" offset="2504141">--That is the primary position we take.</text>
+            <text syncTime="591.635" offset="2511873">There is a--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="593.571" stopTime="594.024">
+            <label>Unknown Speaker</label>
+            <text syncTime="593.571" offset="2519605">But you wouldn't--</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="594.024" stopTime="594.759">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="594.024" offset="2521381">--a different position... I'm sorry.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="594.759" stopTime="601.538">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="594.759" offset="2524412">--You wouldn't contend that a secondary offering... say I'm a major shareholder of General Motors.</text>
+            <text syncTime="598.773" offset="2540399">I have a public offering of my stock.</text>
+            <text syncTime="600.241" offset="2546250">You'd admit that's covered, wouldn't you?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="601.538" stopTime="605.661">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="601.538" offset="2551475">I would admit that is... I personally believe that is covered by section 12(2).</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="605.661" stopTime="606.629">
+            <label>Unknown Speaker</label>
+            <text syncTime="605.661" offset="2567984">Sure.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="606.629" stopTime="610.222">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="606.629" offset="2571850">I personally also believe that that is a transaction that the act requires to register.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="610.222" stopTime="620.125">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="610.222" offset="2586270">Of course.</text>
+            <text syncTime="610.847" offset="2588673">I'm just saying that there are some secondary offerings that must be registered, so there is no basis in the statute for drawing a distinction simply about whether it's a primary offering or secondary offering.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="620.125" stopTime="628.684">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="620.125" offset="2625871">I think the only basis is the statements over and over in the House report and by legislators--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="628.684" stopTime="628.980">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="628.684" offset="2660039">There's nothing--</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="628.980" stopTime="638.007">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="628.980" offset="2661293">--it applies to new stock, and looking at just the entire structure of the act, it just does not appear to be designed to apply to secondary transactions, period.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="638.007" stopTime="639.898">
+            <label>Unknown Speaker</label>
+            <text syncTime="638.007" offset="2697342">--Unless they're public offerings.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="639.898" stopTime="707.154">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="639.898" offset="2704970">That's my view as to the proper position to come down on.</text>
+            <text syncTime="642.882" offset="2716882">Buyers and the SEC argue that section 12(2) extends far beyond the otherwise limited coverage of the act, and applies to all communications in all contexts involving sales of securities.</text>
+            <text syncTime="659.642" offset="2783860">Their argument in both their briefs is based in part on the 1948 decision of Moore v. Gorman and its progeny.</text>
+            <text syncTime="667.762" offset="2816356">They reason, as that court did, that section 12(2) covers secondary transactions and including private resales, because section 4 exempts such transactions from section 5, but does not exempt such transactions from section 12.</text>
+            <text syncTime="684.803" offset="2884588">Seller's position, of course, is that this begs the initial question, what did section 12(2) intend to regulate in the first instance?</text>
+            <text syncTime="694.955" offset="2925130">Plainly, Congress would not have seen any need to exempt a transaction from section 12(2) if it didn't perceive the transaction as covered by section 12(2) in the first place.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="707.154" stopTime="731.535">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="707.154" offset="2973927">Well, Mr. Jenkins, I guess the problem is that the language of the section 12(2) does say that any person who offers or sells a security by means of a prospectus or oral communication which includes an untrue statement is liable, so the language itself, of course, is broad, as you have to concede.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="731.535" stopTime="804.818">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="731.535" offset="3071520">I respectfully do not so concede.</text>
+            <text syncTime="733.940" offset="3081133">The language itself is limiting language.</text>
+            <text syncTime="736.455" offset="3091164">If Congress had meant to say it broadly, it would have said, any communication, or it would have said nothing, as it did in section 17 of the act.</text>
+            <text syncTime="744.357" offset="3122720">Section 17 says, you shall not acquire money by means of any untrue statement.</text>
+            <text syncTime="748.793" offset="3140484">That is a broad statement.</text>
+            <text syncTime="751.340" offset="3150724">When they put the phrase, by means of a prospectus or oral communication in section 12(2), they had to be connoting some limitation.</text>
+            <text syncTime="761.773" offset="3192415">We believe the limitation is the limitation that flows from the natural lay understanding of the term prospectus, which is a document soliciting the public to subscribe to an issue of stock.</text>
+            <text syncTime="772.548" offset="3235569">We don't think section 2(1) requires that you go any differently and, indeed, if it does, as the buyers are attempting to read section 2(10), why did Congress not simply use the word, any written communication or broadcast in section 2(10)?</text>
+            <text syncTime="787.965" offset="3297218">It used many more words than that.</text>
+            <text syncTime="790.012" offset="3305368">We think that the usage of all of the words have to be read together in light of the initial word, prospectus, as further communications which are used to solicit the public to purchase securities.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="804.818" stopTime="825.699">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="804.818" offset="3364614">And then, having defined prospectus in a way that's contrary to the definition in the statute, you define oral communication the same way, by sort of guilt by association, right?</text>
+            <text syncTime="817.734" offset="3416232">It does say, prospectus or oral communication.</text>
+            <text syncTime="821.061" offset="3429607">How do you get oral communication to mean something less than an oral communication?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="825.699" stopTime="923.442">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="825.699" offset="3448101">Certainly by guilt by association, or noscitur a sociis, or whichever term you want to put on it, and by the reverse reasoning that also applies to section 2(10).</text>
+            <text syncTime="836.368" offset="3490838">If they meant any communication, why didn't they just simply say so?</text>
+            <text syncTime="840.631" offset="3507870">They knew how to write that way.</text>
+            <text syncTime="842.131" offset="3513826">That's the way they wrote section 17.</text>
+            <text syncTime="843.865" offset="3520826">When they used more words than just, any communication, they were connoting limitation.</text>
+            <text syncTime="850.033" offset="3545486">We have articulated in our briefs where we believe the limitation leads.</text>
+            <text syncTime="855.952" offset="3569101">The SEC and the buyers are in the position of necessarily being all or nothing.</text>
+            <text syncTime="861.997" offset="3593342">If it's totally unlimited, their view is the phrase does require application to every communication in every context involving securities.</text>
+            <text syncTime="871.274" offset="3630436">As just mentioned, the list of items that 12... 2(10) uses in defining prospectus is limited to selling statements.</text>
+            <text syncTime="891.330" offset="3710684">The words used when the act was passed were, first, any prospectus, notice, circular, advertisement, letter... which could be broad... or communication, written or by radio, which offers any security for sale.</text>
+            <text syncTime="907.089" offset="3773692">That is treating and describing a specific type of communication, not a negotiated stock purchase agreement and not comments made during the course of due diligence, which the parties agreed were superseded by the stock purchase agreement.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="923.442" stopTime="948.713">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="923.442" offset="3839102">One of the briefs in support of respondents said... discussed section 410(a)(2) of the Uniform Securities Act, said it was similar to 12(2), and said that the consensus among the States is contrary to your position.</text>
+            <text syncTime="942.855" offset="3916738">The consensus is that both private sales and secondary market transactions are covered.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="948.713" stopTime="979.435">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="948.713" offset="3940144">Well, 4... the section of the Uniform Securities Act that they're referring to does not, specifically does not include the phrase, by means of a prospectus or oral communication.</text>
+            <text syncTime="959.240" offset="3982253">Those words are left out of that act.</text>
+            <text syncTime="962.706" offset="3996150">Certainly, with those words left out, I think they're correct the Uniform Securities Act does apply to such transactions, but it's an awfully big distinction.</text>
+            <text syncTime="971.750" offset="4032304">I mean, they're saying the things mean the same even though the '33 act has words of limitation in them that the uniform act does not have.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="979.435" stopTime="1015.654">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="979.435" offset="4063128">I thought perhaps the reason for the use of the word prospectus is it's a term of art, which is as broad as you say but also encompasses (a) and (b), which are exceptions, in 2(10).</text>
+            <text syncTime="995.521" offset="4127390">You know, it defines prospectus as any prospectus, notice, circular, advertisement, letter, or communication, but then it specifically says, by the way, two things are not prospectuses, and that's if you comply with certain SEC rules and so forth, so the reason that they wouldn't say, any written communication, is they wanted to tie it directly to that definition.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1015.654" stopTime="1023.073">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1015.654" offset="4207951">Except that that would have been so much easier to do.</text>
+            <text syncTime="1018.247" offset="4218296">Just say, any defin... any written communication or broadcast except--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1023.073" stopTime="1037.067">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1023.073" offset="4237626">But then it wouldn't have had the two exceptions, (a) and (b).</text>
+            <text syncTime="1027.898" offset="4256957">If they said, any written communication, it wouldn't pick up the two exceptions, which are not relevant here, because... I might be not right about that, but that's--</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1037.067" stopTime="1039.925">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1037.067" offset="4293633">--Are you referring to the... I think it's called the freewriting--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1039.925" stopTime="1055.075">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1039.925" offset="4305022">--2(10) defines prospect, and then says... very broadly, and then says, except that... except that a communication sent or given, and so forth, then it says, and a notice, circular, shall not be deemed a prospectus if, you know, that stuff.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1055.075" stopTime="1057.871">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1055.075" offset="4365626">--Right.</text>
+            <text syncTime="1055.560" offset="4367612">Those are referring to two categories of stuff--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1057.871" stopTime="1058.481">
+            <label>Unknown Speaker</label>
+            <text syncTime="1057.871" offset="4376807">Nothing to do with--</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1058.481" stopTime="1074.053">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1058.481" offset="4379210">--Well, in some sense they are related, that the (a) part of that exception is reference to socalled freewriting, which is specifically permitted.</text>
+            <text syncTime="1068.851" offset="4420692">The whole intent of carving that out is to specifically permit freewriting--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1074.053" stopTime="1074.613">
+            <label>Unknown Speaker</label>
+            <text syncTime="1074.053" offset="4441590">--Yes.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1074.613" stopTime="1077.066">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1074.613" offset="4443785">--during the period after a statutory prospectus--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1077.066" stopTime="1090.186">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1077.066" offset="4453607">Right, but you see, my question is, you're argument depends on well, if they meant any written communication, why didn't they just say it, and one possible reason they didn't just say it is because they wanted to use the word prospectus, which would then have the technical exceptions written into it.</text>
+            <text syncTime="1088.765" offset="4500418">That was my question.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1090.186" stopTime="1107.992">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1090.186" offset="4506061">--But I... unless I'm missing it, I nonetheless still believe the same result would be reached if they'd written, any communication, prospectus means, any communication, they would have still needed to carve out those two types of communications from the definition, unless I'm missing something.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1107.992" stopTime="1110.193">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1107.992" offset="4577323">Yes... all right.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1110.193" stopTime="1111.333">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1110.193" offset="4586100">Okay.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1111.333" stopTime="1156.753">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1111.333" offset="4590697">I want to talk about what would have been an easier way to say it.</text>
+            <text syncTime="1116.113" offset="4609819">I mean, you've made allusions to that several times.</text>
+            <text syncTime="1119.019" offset="4621417">I find it very odd that the limitation that you're seeking to import into the statute would be imported by the word prospectus, rather than by the word sale.</text>
+            <text syncTime="1129.139" offset="4661855">I mean, that limitation, it would have been way up at the top of section 12, any person who publicly offers or sells a security, or offers or sells to the public a security.</text>
+            <text syncTime="1139.010" offset="4701352">Why would you seek to import that limitation, it has to be a public offering or sale, much later in the provision?</text>
+            <text syncTime="1146.334" offset="4730714">Why all the way down, by saying, who offers or sells by means of a prospectus, aha, prospectus must mean a public offering.</text>
+            <text syncTime="1155.519" offset="4767390">It's a very strange way to do it.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1156.753" stopTime="1158.315">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1156.753" offset="4772301">I think the reason--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1158.315" stopTime="1159.315">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1158.315" offset="4778570">You can simply say, public offering or sale.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1159.315" stopTime="1171.310">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1159.315" offset="4782645">--I think the reason that Congress didn't put, public offering or sale, is by that point in the statute, if you look at how the statute is drafted it's clear that the whole statute only applies to public offerings or sale, and the words would have just been superfluous.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1171.310" stopTime="1172.699">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1171.310" offset="4830606">Well, you just said section 17--</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1172.699" stopTime="1177.182">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1172.699" offset="4836144">17 is a unique distinction.</text>
+            <text syncTime="1175.557" offset="4847533">12(2)--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1177.182" stopTime="1183.805">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1177.182" offset="4854116">--So if 17 is not so limiting, well then, 12(2) could be not so limiting.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1183.805" stopTime="1224.412">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1183.805" offset="4880552">--Two answers.</text>
+            <text syncTime="1184.647" offset="4883896">One, the language of 17 is, in comparison to section 12, significantly different and significantly broader, as this Court observed in United States v. Naftalin.</text>
+            <text syncTime="1194.675" offset="4924020">Second, there is specific commentary in the Senate report that this Court felt clearly showed an intent that section 17 extend beyond the rest of the provisions of the act and extend beyond them in the sense that it was applicable to secondary transactions.</text>
+            <text syncTime="1213.885" offset="5000924">The court felt that both of those points warranted a treatment of section 17 as departing from the other scope of the act.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1224.412" stopTime="1233.456">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1224.412" offset="5043034">Following up on Justice Scalia's question, am I correct in understanding that the term, public offering, is not defined in the statute?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1233.456" stopTime="1235.299">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1233.456" offset="5079187">I believe that's correct.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1235.299" stopTime="1242.625">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1235.299" offset="5086501">Rather, what they do, they talk... use the broad term, sale, and then list a series of exemptions from the registration requirement, and anything--</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1242.625" stopTime="1243.000">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1242.625" offset="5115863">That's correct.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1243.000" stopTime="1246.498">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1243.000" offset="5117326">--that's nonexempt therefore becomes public in the way we use the term.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1246.498" stopTime="1249.638">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1246.498" offset="5131328">I believe that's correct also.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1249.638" stopTime="1260.242">
+            <label>Unknown Speaker</label>
+            <text syncTime="1249.638" offset="5143866">Section 4 exempts certain transactions from section 5, but not from section 12.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1260.242" stopTime="1261.225">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1260.242" offset="5186289">That's--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1261.225" stopTime="1269.363">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1261.225" offset="5190260">Does that silence suggest that section 12 applies to transactions that do not have to be registered?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1269.363" stopTime="1284.014">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1269.363" offset="5222756">--We believe not.</text>
+            <text syncTime="1271.488" offset="5231324">We know that section 12 applies to transactions in exempt securities that do not have to be registered.</text>
+            <text syncTime="1278.032" offset="5257447">That is pretty clear from the language that got added to section 12(2).</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1284.014" stopTime="1290.854">
+            <label>Unknown Speaker</label>
+            <text syncTime="1284.014" offset="5281375">The point is that the style of the act does use exemptions in section 4, exempting one section from another.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1290.854" stopTime="1319.469">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1290.854" offset="5308751">That's correct in terms of exempting transactions, if you will, and securities, from section 5 which is the heart of the act, and the section from which violation flows.</text>
+            <text syncTime="1303.990" offset="5361310">The fact... excuse me.</text>
+            <text syncTime="1310.847" offset="5388686">I apologize.</text>
+            <text syncTime="1315.532" offset="5407494">I think I've lost the thrust of the question.</text>
+            <text syncTime="1317.062" offset="5413555">Oh, the exemption--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1319.469" stopTime="1320.749">
+            <label>Unknown Speaker</label>
+            <text syncTime="1319.469" offset="5423168">You were saying, the heart of the act--</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1320.749" stopTime="1327.902">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1320.749" offset="5428288">--from section 12(2) is just only necessary if 12(2) was intended to cover.</text>
+            <text syncTime="1323.122" offset="5437796">We believe it wasn't, as the House report makes clear at various points.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1327.902" stopTime="1349.394">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1327.902" offset="5456918">--Is it your position that the word prospectus includes only transactions required to be registered--</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1349.394" stopTime="1349.549">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1349.394" offset="5542913">No.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1349.549" stopTime="1350.486">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1349.549" offset="5543540">--under section 5?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1350.486" stopTime="1447.416">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1350.486" offset="5547301">No.</text>
+            <text syncTime="1351.361" offset="5550750">Prospectus can clearly be a term that applies in the context of a public distribution of an exempt security.</text>
+            <text syncTime="1358.141" offset="5577917">The act, for whatever reasons, chose to exempt the security, but if there's a public distribution of that exempt security, plainly section 12(2) intends to bring the communications, selling communications oriented toward the public, within its definition in that context.</text>
+            <text syncTime="1375.881" offset="5648866">The act treats Government securities in a fairly unique way, which we believe supports our interpretation of section 12(2).</text>
+            <text syncTime="1384.832" offset="5684706">Government securities are specifically carved out with section 12.</text>
+            <text syncTime="1392.048" offset="5713545">They bring in resales, they bring in public sales of all other securities but exclude public sales of Government securities, obvious reasons of comity and that sort of thing, or perhaps even constitutional considerations.</text>
+            <text syncTime="1403.746" offset="5760356">If, as the buyers claim, section 12(2) was some broad remedy, though, that applies to all aftermarket trading and so on, why would the Congress have felt any need to, in that aftermarket context, still exempt resellers who might make misleading statements about Government securities from the coverage of the provision?</text>
+            <text syncTime="1425.206" offset="5846142">We believe that that special provision of the Government in section 12(2), or any governmental entity, further reflects the fact that section 12(2) was perceived as applying solely in a public offering context.</text>
+            <text syncTime="1438.498" offset="5899328">That's when they intended to protect the Government even if the Government made an untrue statement, not in later contexts.</text>
+            <text syncTime="1445.073" offset="5925659">I will reserve the remaining time, if I may.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1447.416" stopTime="1472.953">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1447.416" offset="5934959">--Mr. Jenkins--</text>
+            <text syncTime="1449.119" offset="5941855">--If I could ask you one question... excuse me, Chief Justice.</text>
+            <text syncTime="1452.805" offset="5956588">The brief of the amicus for the Securities Industry Association says that research reports would be covered if we were to rule against you in favor of the respondent, and tells us the adverse consequences of that.</text>
+            <text syncTime="1470.328" offset="6026596">Do you agree with their theory in that?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1472.953" stopTime="1493.694">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1472.953" offset="6037150">I think there's a possibility of research reports being included.</text>
+            <text syncTime="1476.935" offset="6053032">There is also the potentiality, which I believe also applies to a stock purchase agreement, to conclude that those are not the kind of selling documents that even 2(10) intended to include, even if you apply it as including all written communications.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1493.694" stopTime="1494.897">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1493.694" offset="6120115">The question is, what is a selling document?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="1494.897" stopTime="1525.400">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="1494.897" offset="6124921">Yes, and I think that point is even touched upon in the buyer's briefs, that maybe they're not a selling document and therefore not a prospectus.</text>
+            <text syncTime="1504.565" offset="6163582">I think the same argument can be made as to a prospectus itself.</text>
+            <text syncTime="1508.813" offset="6180614">I do think in the context of research reports, though, there's a severe danger that the issuer of the report could be deemed a seller, having used a prospectus, and the liability imposed by section 12(2) in that context on one who just receives a commission for selling stock is drastic.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1525.400" stopTime="1529.009">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1525.400" offset="6246965">Very well, Mr. Jenkins.</text>
+            <text syncTime="1527.306" offset="6254593">Mr. Kopecky, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="1529.009" stopTime="2661.209">
+          <heading>Argument of Robert J. Kopecky</heading>
+          <turn speaker="robert_j_kopecky" startTime="1529.009" stopTime="1555.949">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1529.009" offset="6261385">Mr. Chief Justice, and may it please the Court--</text>
+            <text syncTime="1534.850" offset="6284686">We begin with the presumption that the plain language of the statute reflects Congress' intent.</text>
+            <text syncTime="1541.658" offset="6311958">Here, neither the text of section 12(2) nor the structure of the act as a whole supports imposing upon section 12(2) the limitations that petitioners ask this Court to read into that express civil remedy.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1555.949" stopTime="1578.191">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1555.949" offset="6369114">Mr. Kopecky, in 2(10), after it says, the term prospectus means any prospectus, et cetera, et cetera, which offers any security for sale, now, would you say that an, simply an agreement of sale signed by both parties is always something which offers a security for sale?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1578.191" stopTime="1583.797">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1578.191" offset="6458139">I'm not sure an agreement, per se, would always offer a security for sale.</text>
+            <text syncTime="1581.596" offset="6471723">I think in this case the agreement clearly did.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1583.797" stopTime="1585.765">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1583.797" offset="6480500">Why is that?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1585.765" stopTime="1602.228">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1585.765" offset="6488441">Well, the agreement here was the culmination of a long process.</text>
+            <text syncTime="1588.234" offset="6498263">The agreement included specifically representations by the sellers that were made as an inducement, and that's in the language of the agreement itself, as an inducement to the buyers to buy the stock, so the agreement itself was part of the selling process.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1602.228" stopTime="1608.023">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1602.228" offset="6554270">So if there had been no representations in the agreement, then perhaps it would not be a prospectus?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1608.023" stopTime="1623.032">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1608.023" offset="6577466">I think perhaps it would not be.</text>
+            <text syncTime="1609.756" offset="6584363">Section 12(2) reaches those communications that convey information to the buyer about some security.</text>
+            <text syncTime="1616.394" offset="6610903">If there's no representation being made, then I'm not sure how you would ever have a cause of action under section 12(2).</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1623.032" stopTime="1638.916">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1623.032" offset="6637444">But take a very simple agreement in which the seller represents that he or she is the owner of the stock.</text>
+            <text syncTime="1628.812" offset="6660536">The only representation says, I, as the owner, hereby offer the following stock, you describe it, you send it in the mail, it said if you want to buy it, sign here.</text>
+            <text syncTime="1636.667" offset="6691987">That would be a prospectus, wouldn't it?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1638.916" stopTime="1643.181">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1638.916" offset="6700973">In my view, it would, because in that case there would be a representation being made about the security.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1643.181" stopTime="1646.429">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1643.181" offset="6718110">So you could, have very simple transactions would be covered by this.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1646.429" stopTime="1647.819">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1646.429" offset="6731066">It is conceivable that--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1647.819" stopTime="1649.709">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1647.819" offset="6736604">And it could be true, just five shares of stock.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1649.709" stopTime="1653.706">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1649.709" offset="6744128">--Of course, you would have to prove that the person who made that statement was negligent.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1653.706" stopTime="1655.050">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1653.706" offset="6760115">Sure.</text>
+            <text syncTime="1653.941" offset="6761055">It has to be something--</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1655.050" stopTime="1655.300">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1655.050" offset="6765548">Right.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1655.300" stopTime="1657.393">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1655.300" offset="6766488">--that, he in fact didn't own three of the shares or something like that.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1657.393" stopTime="1658.252">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1657.393" offset="6774952">Correct.</text>
+            <text syncTime="1657.643" offset="6775892">That's correct.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1658.252" stopTime="1659.657">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1658.252" offset="6778296">But that would be Federal jurisdiction, to resolve that.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1659.657" stopTime="1661.236">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1659.657" offset="6783938">If you use the jurisdictional means--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1661.236" stopTime="1662.407">
+            <label>Unknown Speaker</label>
+            <text syncTime="1661.236" offset="6790312">Right.</text>
+            <text syncTime="1661.470" offset="6791252">I--</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1662.407" stopTime="1662.719">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1662.407" offset="6795014">--I would agree--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1662.719" stopTime="1666.483">
+            <label>Unknown Speaker</label>
+            <text syncTime="1662.719" offset="6796164">--Excuse me.</text>
+            <text syncTime="1663.094" offset="6797731">I thought negligence was not required under section 12.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1666.483" stopTime="1677.198">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1666.483" offset="6811315">--It is, Your Honor.</text>
+            <text syncTime="1667.499" offset="6815285">It is.</text>
+            <text syncTime="1668.138" offset="6817897">It's an affirmative defense.</text>
+            <text syncTime="1669.326" offset="6822599">The seller is required to prove that he was not negligent, but if he can prove that he was not negligent, there is no liability under the statute.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1677.198" stopTime="1677.463">
+            <label>Unknown Speaker</label>
+            <text syncTime="1677.198" offset="6854155">So it's affirmative.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1677.463" stopTime="1683.554">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1677.463" offset="6855200">But it is commonly referred to as a negligencebased liability.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1683.554" stopTime="1695.518">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1683.554" offset="6879546">Mr. Kopecky, if your interpretation of the statute prevails, wouldn't it virtually swallow up any 10(b)-5 causes of action?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1695.518" stopTime="1736.643">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1695.518" offset="6927403">Not at all, Your Honor.</text>
+            <text syncTime="1696.236" offset="6930328">The scope of transactions covered by section 12(2) is a very small subset of those now covered by 10(b)-5, in this respect, 10(b)-5 covers any statement or omission in connection with the sale of the securities.</text>
+            <text syncTime="1710.106" offset="6985812">It doesn't require that there be a buyerseller relationship between the parties.</text>
+            <text syncTime="1714.199" offset="7002113">Most 10(b)-5 actions, and most class actions under 10(b)-5, are brought in the context of statements by issuers that then get relied upon by the market or by some buyer who bought his stock from somebody else, not from the issuer.</text>
+            <text syncTime="1725.975" offset="7049238">That is the vast majority of 10(b)-5 cases.</text>
+            <text syncTime="1728.740" offset="7060314">Those would be unaffected by this case, because section 12(2) simply doesn't reach them.</text>
+            <text syncTime="1733.019" offset="7077450">Section 12(2) requires privity between a buyer and a seller.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1736.643" stopTime="1757.338">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1736.643" offset="7091870">But where a 10(b)-5 action would also lie, or a plaintiff such as you represent, your preferred route would be section 12(2) I assume because of its attorneys' fees and lesser requirements for proof.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1757.338" stopTime="1787.200">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1757.338" offset="7174730">The attorneys' fees would be hard for the plaintiff to get in this case, so I don't think that's a motivating factor.</text>
+            <text syncTime="1761.696" offset="7192075">The negligence standard is obviously a benefit, so it is true that in those categories of cases where there's an overlap between section 12(2) and 10(b)-5, a plaintiff would prefer to sue under 12(2), just as in the context of a registered public offering of securities, if there's a misstatement in the registration statement, the plaintiff in that case would much prefer to sue under section 11 of the '33 act, which has no scienter requirement whatsoever, than under 10(b)-5, where he would have to prove fraud.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1787.200" stopTime="1797.884">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1787.200" offset="7294162">I was going to say, what is your answer to the question why the drafters didn't simply use the word, statement, in place of prospectus, or oral communication?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1797.884" stopTime="1859.641">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1797.884" offset="7336898">The answer to that question is not clear from the legislative history, so I can only speculate, but let me offer a couple of explanations.</text>
+            <text syncTime="1804.693" offset="7364066">One, this statute was basically walking into new territory.</text>
+            <text syncTime="1809.895" offset="7384964">There had not been significant regulation of the securities industry.</text>
+            <text syncTime="1814.658" offset="7403981">I think it is reasonable for Congress to have started with some terms that were known and commonly used, prospectus, circular, notice, and then worked from that in increasing breadth, ending with the term, written communication.</text>
+            <text syncTime="1827.825" offset="7456644">Could they have simply said any communication, or any written communication?</text>
+            <text syncTime="1830.871" offset="7468869">They certainly could have.</text>
+            <text syncTime="1832.713" offset="7476183">I think a second explanation is that, as pointed out in the Solicitor General's brief, we know that the draftsmen started with the British Companies Act as a model, and the British Companies Act has a definition of prospectus that starts out similarly to the definition of this case.</text>
+            <text syncTime="1847.832" offset="7536683">However, in this case the drafters diverted significantly, because the British Companies Act referred to public offerings of securities.</text>
+            <text syncTime="1854.908" offset="7564999">That was eliminated from the definition of prospectus by the Congress that enacted the '33 act.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1859.641" stopTime="1864.169">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1859.641" offset="7583912">Under the British Companies Act, would there be a remedy such as this, for this transaction?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1864.169" stopTime="1884.880">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1864.169" offset="7601989">Under the British Companies Act... well, certainly if we were relying on a prospectus I think we'd have a hard time, because the British Companies Act defines prospectus to include a public offering, so I think we would have a harder case.</text>
+            <text syncTime="1876.085" offset="7649636">I do not have clearly in mind what the British Companies Act says about oral representations, which is a key part of our case here, so I don't know if we could win under that statute.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1884.880" stopTime="1886.942">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1884.880" offset="7684849">Has this issue been litigated over in--</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1886.942" stopTime="1888.847">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1886.942" offset="7693104">Your Honor, I confess I have not studied that.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1888.847" stopTime="1890.377">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1888.847" offset="7700732">--Well, you brought up the British Companies Act.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1890.377" stopTime="1891.096">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1890.377" offset="7706792">A fair--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1891.096" stopTime="1902.435">
+            <label>Unknown Speaker</label>
+            <text syncTime="1891.096" offset="7709718">All right.</text>
+            <text syncTime="1891.659" offset="7712017">How would you answer Justice Kennedy's question that was brought up in the SIA brief, the question of the research reports done by a brokerage firm?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1902.435" stopTime="1966.379">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1902.435" offset="7755066">--I think it is far from clear that brokerage research reports would be subject to liability under section 12(2) for a couple of reasons.</text>
+            <text syncTime="1910.275" offset="7786413">First, in order to have liability under section 12(2), you must be a seller.</text>
+            <text syncTime="1914.664" offset="7803968">You must be a statutory seller.</text>
+            <text syncTime="1916.352" offset="7810759">It's unclear, far from clear, I think, that someone who issues a research report is a seller.</text>
+            <text syncTime="1923.177" offset="7838031">In Pinter v. Dahl, this Court explained what it means to be a statutory seller under section 12(1).</text>
+            <text syncTime="1928.191" offset="7858093">Assume for a minute that definition extends to 12(2).</text>
+            <text syncTime="1931.268" offset="7870423">You must either be the person who passes title to the security, or one who solicits the sale for your own financial benefit, so someone who issues an analyst's report is not necessarily soliciting anybody to buy stock.</text>
+            <text syncTime="1944.060" offset="7921623">Second, the analyst's report itself would have to be a prospectus, and prospectus is defined as a document that offers or confirms the sale of the security.</text>
+            <text syncTime="1956.305" offset="7970524">Now, an analyst's report does not offer a security for sale, nor does it confirm the sale of the security, so I think the concerns about openended liability for analysts is significantly overblown.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1966.379" stopTime="1986.386">
+            <label>Unknown Speaker</label>
+            <text syncTime="1966.379" offset="8010857">Why do you say that prospectus is defined as a document that offers or confirms the sale of a security?</text>
+            <text syncTime="1973.408" offset="8038965">Where do you... I thought it means... I thought part of your case was precisely that it means any notice circular, not just, it means any prospectus, notice, circular, advertisement, letter or communication written--</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1986.386" stopTime="1991.712">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1986.386" offset="8090897">That offers... any of those that offers--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1991.712" stopTime="1991.977">
+            <label>Unknown Speaker</label>
+            <text syncTime="1991.712" offset="8112212">--I see.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1991.977" stopTime="1992.790">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1991.977" offset="8113257">--any security for sale--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1992.790" stopTime="1993.431">
+            <label>Unknown Speaker</label>
+            <text syncTime="1992.790" offset="8116497">I see, which offers--</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1993.431" stopTime="1993.727">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1993.431" offset="8119109">--Right.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1993.727" stopTime="1994.570">
+            <label>Unknown Speaker</label>
+            <text syncTime="1993.727" offset="8120258">--Which offers any security for sale.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="1994.570" stopTime="2001.052">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="1994.570" offset="8123602">Right.</text>
+            <text syncTime="1994.945" offset="8125065">Right, exactly.</text>
+            <text syncTime="1995.476" offset="8127259">That's the end of the definition.</text>
+            <text syncTime="1996.476" offset="8131230">All of those things, any of them have to offer the security for sale, or they're not covered.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2001.052" stopTime="2033.836">
+            <label>Unknown Speaker</label>
+            <text syncTime="2001.052" offset="8149515">That's... although my thought favored you, I hope you'll disabuse me of it if it's not correct, as I'll just get mixed up if it is, but I thought the reason they used the word prospectus instead of any written communication is because they wanted to pick up that particular definition with its limitations, and the limitations are two you just mentioned, plus the fact that a written prospectus, a written communication is not a prospectus if a registration statement has been filed previously and certain things have been done.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2033.836" stopTime="2034.258">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2033.836" offset="8280650">That's correct, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2034.258" stopTime="2035.818">
+            <label>Unknown Speaker</label>
+            <text syncTime="2034.258" offset="8282322">And they wanted to build that all in--</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2035.818" stopTime="2036.334">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2035.818" offset="8288591">I--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2036.334" stopTime="2039.724">
+            <label>Unknown Speaker</label>
+            <text syncTime="2036.334" offset="8290681">--which the word written communication couldn't have done.</text>
+            <text syncTime="2038.178" offset="8298100">Am I on a correct track?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2039.724" stopTime="2040.552">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2039.724" offset="8304265">--I agree with that, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2040.552" stopTime="2046.519">
+            <label>Unknown Speaker</label>
+            <text syncTime="2040.552" offset="8307504">Fine.</text>
+            <text syncTime="2040.880" offset="8308862">Then why didn't they use the word oral communication next, because oral communication doesn't have those limitations?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2046.519" stopTime="2071.991">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2046.519" offset="8331432">Again, the legislative history doesn't enlighten us much on why they used oral communication.</text>
+            <text syncTime="2051.875" offset="8352852">I believe what Congress was getting at in enacting the statute was the process by which owners of securities solicit people to buy those shares from them, and there are two ways you can do that.</text>
+            <text syncTime="2062.121" offset="8393812">You can do it in writing, or you can do it orally.</text>
+            <text syncTime="2065.090" offset="8405724">If the question is, why didn't they subject oral communications to the freewriting exception, I don't know the answer to that.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2071.991" stopTime="2078.864">
+            <label>Unknown Speaker</label>
+            <text syncTime="2071.991" offset="8433310">That cuts off my thought, because I can't get it to work with oral communication.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2078.864" stopTime="2094.607">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2078.864" offset="8460790">I understand, and I'm not sure the logic of all that hangs together, and there's been a lot of question raised about exactly what the freewriting exemption is meant to accomplish and why it was there, so I can't answer how the oral communication precisely fits into that exception from the definition of prospectus.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2094.607" stopTime="2098.935">
+            <label>Unknown Speaker</label>
+            <text syncTime="2094.607" offset="8523798">A prospectus has to be related to the registration statement, doesn't it?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2098.935" stopTime="2099.372">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2098.935" offset="8541039">No.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2099.372" stopTime="2101.543">
+            <label>Unknown Speaker</label>
+            <text syncTime="2099.372" offset="8542815">I thought section 10 required that.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2101.543" stopTime="2130.453">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2101.543" offset="8551488">Section 10 requires what has to be in a prospectus that is issued in conjunction with a registered offering of securities.</text>
+            <text syncTime="2108.635" offset="8579909">If you have a registered offering, the act requires you to provide certain information to the SEC in your registration statement.</text>
+            <text syncTime="2115.286" offset="8606449">It also requires you to provide certain information to investors in the prospectus that's issued with that registration statement, but those requirements, the strict, detailed requirements of section 10, apply only to prospectuses issued in connection with registered offerings of securities.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2130.453" stopTime="2143.541">
+            <label>Unknown Speaker</label>
+            <text syncTime="2130.453" offset="8667158">But section 10 doesn't say, some prospectuses, it says all, so I had thought, unless--</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2143.541" stopTime="2143.995">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2143.541" offset="8719507">I think where that--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2143.995" stopTime="2145.120">
+            <label>Unknown Speaker</label>
+            <text syncTime="2143.995" offset="8721284">--qualifications.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2145.120" stopTime="2156.928">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2145.120" offset="8725777">--I think that comes out of section 5, Your Honor.</text>
+            <text syncTime="2146.947" offset="8733091">Section 5 makes it unlawful to sell any securities that have been registered unless you comply with the provisions of section 10, so section 10 only--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2156.928" stopTime="2162.144">
+            <label>Unknown Speaker</label>
+            <text syncTime="2156.928" offset="8773006">So then you can limit the term, prospectus, in section 10 at least by reference to other provisions of the act.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2162.144" stopTime="2173.437">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2162.144" offset="8793904">--I believe... I believe that's correct, Your Honor.</text>
+            <text syncTime="2165.221" offset="8806234">The meaning of section... of prospectus in section 10 is defined by its context, which is in reference back to registered offering under section 5.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2173.437" stopTime="2180.387">
+            <label>Unknown Speaker</label>
+            <text syncTime="2173.437" offset="8839044">Are punitive damages available in this sort of a cause of action?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2180.387" stopTime="2182.012">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2180.387" offset="8866838">I don't believe so, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2182.012" stopTime="2183.557">
+            <label>Unknown Speaker</label>
+            <text syncTime="2182.012" offset="8873421">Why not?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2183.557" stopTime="2186.603">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2183.557" offset="8879586">I'm not aware of any case that has upheld punitive damages.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2186.603" stopTime="2192.257">
+            <label>Unknown Speaker</label>
+            <text syncTime="2186.603" offset="8891706">Are punitive damages available under a 10(b)-5 action?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2192.257" stopTime="2253.575">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2192.257" offset="8914381">I'm not sure, Your Honor.</text>
+            <text syncTime="2199.364" offset="8942802">Let me return, if I could, to what I think are the key points in our argument today.</text>
+            <text syncTime="2208.641" offset="8979896">One is that the language of section 12(2) simply does not expressly impose the limitation that petitioners are asking for.</text>
+            <text syncTime="2217.341" offset="9014691">Second, the other provisions of the act demonstrate that when Congress meant to exempt either a particular type of transaction or particular type of security from some portion of the act it did so explicitly, and we've talked about, during Mr. Jenkins' argument, sections 4(2), 4(1), which create express exemptions from the registration requirement.</text>
+            <text syncTime="2238.473" offset="9099223">There's no comparable exemption from section 12(2) and, further, again as Mr. Jenkins pointed out, when Congress meant to exempt a particular type of security from section 12(2), it did that explicitly as well.</text>
+            <text syncTime="2250.264" offset="9146348">So when Congress meant there to be exemptions, it enacted them.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2253.575" stopTime="2291.857">
+            <label>Unknown Speaker</label>
+            <text syncTime="2253.575" offset="9159618">Does... Justice Breyer asked you whether one aspect of the definition of prospectus is carried over into the phrase, oral communication.</text>
+            <text syncTime="2269.085" offset="9221685">What about the aspect that requires a prospectus to be in connection with the offer to sell, in connection with the offer or confirmation of sale?</text>
+            <text syncTime="2284.377" offset="9282812">Is oral statement in section 12 limited to that as well?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2291.857" stopTime="2408.091">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2291.857" offset="9312800">I believe it is, Your Honor, by the bymeansof language in section 12(2).</text>
+            <text syncTime="2296.902" offset="9332967">I think to say that a particular security is sold by means of either a written or oral communication means that that statement is made in connection with the solicitation of the sale.</text>
+            <text syncTime="2307.711" offset="9376226">I think the whole purpose of section 12(2) was to focus in on that process by which sellers solicit buyers, and the focus of the bymeansof clause I believe is to hone it right in on just that, those statements, whether oral or written, that are used to solicit sales of securities.</text>
+            <text syncTime="2327.904" offset="9456996">I want to return to just one other point in the text of section 12(2) itself, if I may, and that's the term, oral communication.</text>
+            <text syncTime="2339.713" offset="9504226">This Court has said repeatedly, and most recently in FDIC v. Meyer, that undefined statutory terms are to be given their ordinary, or natural meaning.</text>
+            <text syncTime="2350.147" offset="9545917">Now, petitioners cannot dispute that giving the words of the statute their ordinary meaning, section 12(2) on its face unambiguously applies to any security sold by means of a false or misleading oral communication.</text>
+            <text syncTime="2364.610" offset="9603804">There simply is no connotation you can give to oral communication that limits it to a public offering or an initial offering of securities.</text>
+            <text syncTime="2372.371" offset="9634838">To the contrary, an oral communication is going to occur most often in the context of a private transaction, a negotiated transaction where people are talking to each other, so oral communication, it seems, if you read it just in its natural sense, clearly applies to all transactions.</text>
+            <text syncTime="2386.600" offset="9691785">Now, they say you can't do that.</text>
+            <text syncTime="2388.491" offset="9699308">You have to look to prospectus as a term of limitation on oral communication.</text>
+            <text syncTime="2393.895" offset="9720937">It seems to me that what they're asking you to do is take a term that we think is unambiguously defined... that is, prospectus... find some ambiguity in that, construe it narrowly, and then use that to narrow a clearly broad term.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2408.091" stopTime="2414.308">
+            <label>Unknown Speaker</label>
+            <text syncTime="2408.091" offset="9777675">Are you suggesting that one of the major purposes Congress had in mind was to eliminate the statute of frauds from these transactions?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2414.308" stopTime="2415.808">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2414.308" offset="9802544">I don't think that was a major purpose, Your Honor.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2415.808" stopTime="2416.089">
+            <label>Unknown Speaker</label>
+            <text syncTime="2415.808" offset="9808604">I don't, either.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2416.089" stopTime="2419.057">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2416.089" offset="9809649">I think the major purpose Congress had in mind was--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2419.057" stopTime="2422.728">
+            <label>Unknown Speaker</label>
+            <text syncTime="2419.057" offset="9821561">It surely wasn't primarily concerned with oral communications.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2422.728" stopTime="2451.919">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2422.728" offset="9836294">--I don't disagree with that, Your Honor.</text>
+            <text syncTime="2424.367" offset="9842772">I don't disagree with that.</text>
+            <text syncTime="2425.867" offset="9848833">I would note that in the conference report on the bill, in discussing section 12 in particular, and this is one of the few places we have any reference to section 12 in the legislative history, in paraphrasing section 12, the conference committee said that this bill reaches the sales of securities by means of representations which are untrue or misleading.</text>
+            <text syncTime="2447.044" offset="9933470">That's a very broad term, representations which are untrue or misleading.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2451.919" stopTime="2474.675">
+            <label>Unknown Speaker</label>
+            <text syncTime="2451.919" offset="9953009">Is it fair to say, though, that the 1933 Securities Act was really an act that concerned initial public offerings, and that the '34 act generally addressed private and secondary trading?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2474.675" stopTime="2476.705">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2474.675" offset="10044020">I think as a--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2476.705" stopTime="2479.017">
+            <label>Unknown Speaker</label>
+            <text syncTime="2476.705" offset="10052170">I mean, isn't that the general thrust?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2479.017" stopTime="2482.811">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2479.017" offset="10061365">--As a generality, I think that's correct, Your Honor, but I'd like to respond to that in a couple of ways.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2482.811" stopTime="2489.496">
+            <label>Unknown Speaker</label>
+            <text syncTime="2482.811" offset="10076621">And so this interpretation of 12(2) doesn't fit exactly with that general thrust.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2489.496" stopTime="2506.990">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2489.496" offset="10103370">If you're going to limit the statute by the primary purpose I think one could make that argument.</text>
+            <text syncTime="2494.604" offset="10123746">It is interesting that in the '34 act there was no express right of action created that would cover the transaction in our case, so I think that suggests just the contrary, that Congress thought they had taken care of that in 1933.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2506.990" stopTime="2509.535">
+            <label>Unknown Speaker</label>
+            <text syncTime="2506.990" offset="10173274">Could you have brought a 10(b)-5 action?</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2509.535" stopTime="2512.019">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2509.535" offset="10183514">In theory, we could.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2512.019" stopTime="2512.331">
+            <label>Unknown Speaker</label>
+            <text syncTime="2512.019" offset="10193440">Yes.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2512.331" stopTime="2547.895">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2512.331" offset="10194694">The reason we didn't allege it is because we felt we didn't have a Rule 11 basis for asserting fraud, scienter, and so we brought the cause of action we felt the facts supported.</text>
+            <text syncTime="2521.827" offset="10232624">Let me return to the question about primary purpose.</text>
+            <text syncTime="2524.639" offset="10243909">I think the situation here is analogous to RICO, a statute this Court has construed repeatedly in the last few years.</text>
+            <text syncTime="2531.293" offset="10270554">You can look at the legislative history of RICO, and it is absolutely clear that what motivated RICO, the primary purpose, was to seek the eradication of organized crime in the United States, and yet Congress wrote the statute to pick up persons other than mobsters or organized criminals.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2547.895" stopTime="2548.645">
+            <label>Unknown Speaker</label>
+            <text syncTime="2547.895" offset="10336905">A good example.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2548.645" stopTime="2563.591">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2548.645" offset="10339935">And this Court has said, we're going to construe RICO not in light of what was the primary motivation, but the way Congress wrote the statute, and I suggest that's what the Court should do here with section 12(2), is construe the statute the way Congress wrote it.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2563.591" stopTime="2569.886">
+            <label>Unknown Speaker</label>
+            <text syncTime="2563.591" offset="10399703">And put us in the same boat we are with all those unpleasant RICO cases.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2569.886" stopTime="2612.196">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2569.886" offset="10424885">Your Honor--</text>
+            <text syncTime="2570.370" offset="10426766">[Laughter]</text>
+            <text syncTime="2571.307" offset="10430528">Your Honor, that's a good point, but I think I have a response to it.</text>
+            <text syncTime="2574.384" offset="10442857">It has been the law in the circuits for 50 years that section 12(2) reaches privately negotiated sales of securities.</text>
+            <text syncTime="2581.944" offset="10473159">Even today, no appellate court has ever reached a contrary conclusion.</text>
+            <text syncTime="2585.443" offset="10487057">That tell us something about 1) how the statute should be read, 2) this Court has said on a number of occasions that it is inappropriate to set aside longstanding interpretations of express statutory remedies that parties have come to rely on, but third, in response to your question, Justice O'Connor, there simply hasn't been a flood of section 12(2) suits.</text>
+            <text syncTime="2608.589" offset="10579739">This cause of action has been around for 50 years.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2612.196" stopTime="2620.256">
+            <label>Unknown Speaker</label>
+            <text syncTime="2612.196" offset="10594159">Maybe that's because of our more recent holding here as to the scienter requirement under 10(b)-5.</text>
+          </turn>
+          <turn speaker="robert_j_kopecky" startTime="2620.256" stopTime="2658.647">
+            <label>Mr. Robert J. Kopecky</label>
+            <text syncTime="2620.256" offset="10626341">Perhaps.</text>
+            <text syncTime="2620.569" offset="10627595">I think the explanation is that section 12(2), even if you read the term prospectus as we think it should be read, still applies to a fairly narrow universe of transactions.</text>
+            <text syncTime="2630.533" offset="10667510">You have to be able to prove that you bought from the seller.</text>
+            <text syncTime="2633.173" offset="10678064">You have to prove that he sold to you by means of some misleading statement.</text>
+            <text syncTime="2636.953" offset="10693110">It really focuses in on those transactions that are a small subset of what is driving the explosion of securities litigation in the country today.</text>
+            <text syncTime="2644.262" offset="10722368">I don't think a ruling construing the statute our way is going to add to the burden of the Federal courts or cause an explosion of litigation.</text>
+            <text syncTime="2649.697" offset="10744101">It hasn't happened to date.</text>
+            <text syncTime="2651.243" offset="10750266">If there are no further questions, I thank the Court.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2658.647" stopTime="2661.209">
+            <label>Unknown Speaker</label>
+            <text syncTime="2658.647" offset="10779941">Thank you, Mr. Kopecky.</text>
+            <text syncTime="2659.865" offset="10784748">Mr. Dreeben.</text>
+          </turn>
+        </section>
+        <section startTime="2661.209" stopTime="3253.127">
+          <heading>Argument of Michael R. Dreeben</heading>
+          <turn speaker="michael_r_dreeben" startTime="2661.209" stopTime="2740.473">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2661.209" offset="10790181">Mr. Chief Justice, and may it please the Court--</text>
+            <text syncTime="2669.767" offset="10824454">In our view, the cause of action provided in section 12(2) of the Securities Act of 1933 does extend to all sales of securities made by means of a prospectus or oral communication that contains a misleading statement, and there is no limitation to initial offerings, initial public offerings, or an exclusion of private transactions or secondary transactions.</text>
+            <text syncTime="2694.258" offset="10922361">The key in construing section 12(2) is the phrase, prospectus or oral communication, which is a defined term in the act, and when one looks at the definition in section 2(10) of the prospectus, it's fairly clear that Congress used words that cover a very, very broad range of kinds of communications that offer a security for sale or confirm the sale of a security.</text>
+            <text syncTime="2719.998" offset="11025284">And as my cocounsel alluded to, the origins of the statutory definition of prospectus are very revealing, because they show that the first four terms in that definition are the same that appear in the British Companies Act, and there is evidence from the people who wrote this act that they used the British Companies Act as a model.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2740.473" stopTime="2760.261">
+            <label>Unknown Speaker</label>
+            <text syncTime="2740.473" offset="11107204">Mr. Dreeben, how do you answer Justice Kennedy's question about section 10, which uses the word, a prospectus, but that is definitely the kind of prospectus that would be part of a registration statement?</text>
+            <text syncTime="2755.061" offset="11165613">There, the word prospectus does have a circumscribed meaning.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="2760.261" stopTime="2827.797">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2760.261" offset="11186407">Well, for most of section 10, that is true.</text>
+            <text syncTime="2763.275" offset="11198423">Section 10 is by and large concerned with the kind of formal prospectus that's included with a registration statement.</text>
+            <text syncTime="2769.586" offset="11223710">There is also authority for the Commission later in section 10 to classify various prospectuses according to type, and that is not a limitation that would necessarily apply to prospectuses filed in a registration statement.</text>
+            <text syncTime="2783.113" offset="11277835">But I think the most important point here is that the structure of the acts, the securities laws as a whole, reflects that Congress understood the difference between the broad definition in section 2(10) and the narrower association of prospectus used in a registration statement.</text>
+            <text syncTime="2797.888" offset="11336872">In the Investment Companies Act of 1940, Congress included a definition of prospectus that says, prospectus for certain sections of the act means the prospectus that is described in section 10 of the Securities Act of 1933.</text>
+            <text syncTime="2812.507" offset="11395386">Elsewhere, it has the definition that is contained in section 2(10) of the Securities Act of 1933.</text>
+            <text syncTime="2819.832" offset="11424644">So Congress itself was fully capable of drawing that distinction, and the act itself invites courts to draw appropriate distinctions in--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2827.797" stopTime="2836.465">
+            <label>Unknown Speaker</label>
+            <text syncTime="2827.797" offset="11456513">Well, Mr. Dreeben, speaking of distinctions, what would you do about research reports that brokers commonly use in the sale of securities?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="2836.465" stopTime="2847.492">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2836.465" offset="11491204">--There is no one, unqualified answer to that, Justice O'Connor.</text>
+            <text syncTime="2839.760" offset="11504369">The question would be, is the research report being used as a selling tool by the broker?</text>
+            <text syncTime="2845.461" offset="11527148">If the broker is using this--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2847.492" stopTime="2858.347">
+            <label>Unknown Speaker</label>
+            <text syncTime="2847.492" offset="11535298">Broadly speaking how could it not be?</text>
+            <text syncTime="2850.913" offset="11548986">I mean, the broker says, well, here's a stock to consider and here's our research report.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="2858.347" stopTime="2870.202">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2858.347" offset="11578766">--Well, I think in that context, Justice O'Connor, a research report would be the kind of document that's picked up by the language, and the application of section 2, 12(2) would be justified in light of the cause of action.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2870.202" stopTime="2872.388">
+            <label>Unknown Speaker</label>
+            <text syncTime="2870.202" offset="11626100">So all research reports sent out by brokers are prospecti?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="2872.388" stopTime="2880.073">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2872.388" offset="11634877">To the extent that they are used in a situation that one can conclude, Justice Kennedy, that they are offering a security for sale.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2880.073" stopTime="2887.007">
+            <label>Unknown Speaker</label>
+            <text syncTime="2880.073" offset="11665597">Does that mean they have the same high standard of full disclosure that the prospectus that accompanies the normal public offering has?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="2887.007" stopTime="2911.842">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2887.007" offset="11693391">No, Justice Stevens, they don't, because the requirement that would attach under 12(2) is not a requirement of affirmative disclosure.</text>
+            <text syncTime="2896.362" offset="11730799">The only requirement that's imposed by virtue of 12(2) is that the research report not contain false or misleading statements, and misleading statements in this context means an omission which makes the statements that are made misleading.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2911.842" stopTime="2913.653">
+            <label>Unknown Speaker</label>
+            <text syncTime="2911.842" offset="11792657">Well, that's the same standard under the prospectus.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="2913.653" stopTime="2927.460">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2913.653" offset="11799971">Well, but the question that I thought you were asking, Justice Stevens, is whether there was a laundry list of things that had to be included in a research report analogous to the kinds of things that are required to be included in a registered public offering.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2927.460" stopTime="2930.942">
+            <label>Unknown Speaker</label>
+            <text syncTime="2927.460" offset="11855141">Not by... itemized, but it has the same standard, same high standard of care.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="2930.942" stopTime="2940.891">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2930.942" offset="11869143">Well, it would have a... it would have the same standard of care under section 12(2).</text>
+            <text syncTime="2934.972" offset="11885235">Of course, under section 11 of the Securities Act, a registered offering would subject the issuer to strict liability for--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2940.891" stopTime="2941.282">
+            <label>Unknown Speaker</label>
+            <text syncTime="2940.891" offset="11908849">Right.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="2941.282" stopTime="2946.749">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2941.282" offset="11910417">--misstatements, and the persons who signed the registration statement would also have a very high duty of care.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2946.749" stopTime="2952.873">
+            <label>Unknown Speaker</label>
+            <text syncTime="2946.749" offset="11932359">May I ask, since I interrupted you, do you know the answer to my question about the British Companies Act?</text>
+            <text syncTime="2951.451" offset="11951168">How did the English treat this?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="2952.873" stopTime="3001.182">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="2952.873" offset="11956810">The British Companies Act only applies to initial public offerings.</text>
+            <text syncTime="2956.169" offset="11969976">It doesn't regulate any secondary transactions, and it doesn't regulate private transactions.</text>
+            <text syncTime="2960.541" offset="11987530">And the point that I was trying to make about the comparison between the language is that the British Companies Act quite deliberately included the word, prospective circular, et cetera, and then said, in offering of securities to the public, and the Securities Act drafters dropped that language and substituted in the words, which offers any security for sale, which really expresses a quite different and deliberately broader connotation.</text>
+            <text syncTime="2985.281" offset="12086482">And when picked up in 12(2), I think as Justice Ginsburg indicated, you can have offering circulars that are used in private placements, private transactions.</text>
+            <text syncTime="2994.090" offset="12121695">The plain language of the statute quite clearly applies to seller misstatements in the context of those transactions.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3001.182" stopTime="3007.352">
+            <label>Unknown Speaker</label>
+            <text syncTime="3001.182" offset="12150116">Mr. Dreeben, do we owe any deference to the SEC interpretation of these sections?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="3007.352" stopTime="3047.006">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="3007.352" offset="12174776">Not in the sense of Chevron, Justice O'Connor.</text>
+            <text syncTime="3011.193" offset="12190136">We're not asking for deference in that sense, but we do think that it is extraordinarily revealing and very important to the construction of 12(2) that at the time that this statute was passed, the administrators who were responsible for its implementation, which was the Federal Trade Commission, issued releases that quite clearly said that the act in the main applies to new public offerings, but note, industry, that section 17 and section 12(2) apply also to old securities which exist in the marketplace already.</text>
+            <text syncTime="3041.649" offset="12311971">Section 17, of course, is the remedy that the Government has available against fraud.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3047.006" stopTime="3053.239">
+            <label>Unknown Speaker</label>
+            <text syncTime="3047.006" offset="12333391">Well, that would just affect the distinction between initial and secondary, not necessarily between public and private.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="3053.239" stopTime="3123.631">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="3053.239" offset="12358260">That is true, but the... in addition to the interpretations by the Federal Trade Commission there were also a raft of articles that were written at the time, or around the time, by such people as William O. Douglas and Felix Frankfurter... Felix Frankfurter was at the time very heavily involved in the drafting process... and those articles asserted without qualification that section 12(2) applied to any sale of securities and wanted to educate the investment community that was concerned with this that that was true.</text>
+            <text syncTime="3082.289" offset="12474452">This understanding continued not only immediately after the '33 act was passed but for decades, until the late 1980's.</text>
+            <text syncTime="3090.896" offset="12508934">There was very significant work trying to revise the act in 1940, in which the industry and the Commission together met, and everybody understood and expressed in written documents that section 12(2) applies to a really broad range of transactions, it doesn't distinguish among the various types, it doesn't distinguish broker transactions from initial public offerings, and it should, and recommendations were made to Congress to amend it, and then World War II came along and those amendments were not acted upon.</text>
+            <text syncTime="3116.993" offset="12613319">But the revealing thing here is that these very knowledgeable practitioners, who had every reason to understand--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3123.631" stopTime="3129.239">
+            <label>Unknown Speaker</label>
+            <text syncTime="3123.631" offset="12639860">The one question that prompts us, how do you account for the fact there have been so very few cases like this?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="3129.239" stopTime="3160.055">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="3129.239" offset="12662325">--Well, I... the... probably the principal explanation in years up until the late 1980's was the existence of Rule 10(b)-5 and causes of action under it, which had really swamped the area, and so litigation under 12(2) certainly did increase as the statute of limitations for Rule 10(b)-5 was held to be shorter and scienter requirements were imposed, but it is a very significant point, Justice Stevens, that Rule 10(b)-5 did not exist when the '34 acts were enacted.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3160.055" stopTime="3162.506">
+            <label>Unknown Speaker</label>
+            <text syncTime="3160.055" offset="12785519">Can I ask you a quick question about the research reports?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="3162.506" stopTime="3162.740">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="3162.506" offset="12795341">Sure.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3162.740" stopTime="3170.565">
+            <label>Unknown Speaker</label>
+            <text syncTime="3162.740" offset="12796281">A research report is this, would perhaps be, you offer something for sale, you include a research report, it would be picked up.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="3170.565" stopTime="3171.284">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="3170.565" offset="12827628">Yes.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3171.284" stopTime="3182.077">
+            <label>Unknown Speaker</label>
+            <text syncTime="3171.284" offset="12830449">But I take it you could get out of that if in fact you had enclosed as well a prospectus that had met the SEC's registration requirement because of the exception in (a).</text>
+            <text syncTime="3180.843" offset="12868692">Is that right, or not?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="3182.077" stopTime="3221.999">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="3182.077" offset="12873604">That question has not been definitively decided in the courts.</text>
+            <text syncTime="3186.326" offset="12890635">The weight of the view of commentators is that the exceptions that are contained in section 2(1) do not apply to the remedy that's provided in section 12(2).</text>
+            <text syncTime="3197.228" offset="12934208">There are several reasons for that, and there is a statutory argument that supports it.</text>
+            <text syncTime="3201.772" offset="12952389">The first reason is that there is an unequivocal statement in the House report that assumed that freewriting, oral communications made in the sale of securities are absolutely covered by section 12(2) whether or not a prospectus has been delivered.</text>
+            <text syncTime="3214.564" offset="13003589">There was no sort of free zone for fraud in that area.</text>
+            <text syncTime="3217.938" offset="13017068">And the statute allows you to reach that result because it introduces all of its definitions--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3221.999" stopTime="3227.340">
+            <label>Unknown Speaker</label>
+            <text syncTime="3221.999" offset="13033368">Because it's oral, freewriting oral.</text>
+            <text syncTime="3223.139" offset="13037861">Oral isn't picked up with the definition of prospectus.</text>
+            <text syncTime="3225.544" offset="13047475">Prospectus picks up the written part.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="3227.340" stopTime="3229.324">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="3227.340" offset="13054684">--That is true.</text>
+            <text syncTime="3227.825" offset="13056670">The legislative history doesn't--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3229.324" stopTime="3231.870">
+            <label>Unknown Speaker</label>
+            <text syncTime="3229.324" offset="13062626">Is there any reason (a) and (b) don't apply?</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="3231.870" stopTime="3233.792">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="3231.870" offset="13072866">--The reason is--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3233.792" stopTime="3235.275">
+            <label>Unknown Speaker</label>
+            <text syncTime="3233.792" offset="13080493">To a written... to a written.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="3235.275" stopTime="3248.893">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="3235.275" offset="13086449">--The reason is that the result would be that you would have a free zone for fraud or misstatements so long as you provided a copy of the written prospectus, and commentators have viewed that as an implausible result and one that is contrary to the direct evidence of legislative intent.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3248.893" stopTime="3250.174">
+            <label>Unknown Speaker</label>
+            <text syncTime="3248.893" offset="13140888">Thank you, Mr. Dreeben.</text>
+          </turn>
+          <turn speaker="michael_r_dreeben" startTime="3250.174" stopTime="3250.612">
+            <label>Mr. Michael R. Dreeben</label>
+            <text syncTime="3250.174" offset="13146008">Thank you.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3250.612" stopTime="3253.127">
+            <label>Unknown Speaker</label>
+            <text syncTime="3250.612" offset="13147785">Mr. Jenkins, you have 3 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3253.127" stopTime="3461.060">
+          <heading>Rebuttal of Donald W. Jenkins</heading>
+          <turn speaker="donald_w_jenkins" startTime="3253.127" stopTime="3300.123">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="3253.127" offset="13157816">The fundamental issue here is whether, when everybody says the '33 act was following the British act, which only applied to public offerings, did Congress somehow in the process, by section 12(2), totally convert the '33 act to apply to all private communications in all privately negotiated contexts?</text>
+            <text syncTime="3277.790" offset="13256454">The references by the draftsmen, by the House report, and others that were involved in the process, not later commentary in magazines, demonstrate irrefutably that the overall scope of the act, and its civil liability provisions in particular, didn't expand so drastically from the British Companies Act.</text>
+            <text syncTime="3298.624" offset="13339837">They said it was the same act.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3300.123" stopTime="3303.497">
+            <label>Unknown Speaker</label>
+            <text syncTime="3300.123" offset="13345793">What do you say about commentators named Frankfurter and Douglas?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="3303.497" stopTime="3339.795">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="3303.497" offset="13359272">Mr. Frankfurter was involved in the drafting of the act but not as heavily as Mr. Landis, I think, if you believe what Mr. Landis wrote, which may be a stretch, I don't know, but it appears accurate that Mr. Frankfurter was overseeing it but was not as heavily drafted.</text>
+            <text syncTime="3319.241" offset="13422279">In fact, I think Mr. Landis in his article referred to Mr. Frankfurter seeing the draft of the act for the first time before a meeting, or something along those lines.</text>
+            <text syncTime="3327.299" offset="13454567">He was not as heavily involved as Mr. Landis, who said public offerings not private offerings defines the exact scope of the act.</text>
+            <text syncTime="3335.624" offset="13487795">The act was not intended to regulate sales to institutional--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3339.795" stopTime="3347.261">
+            <label>Unknown Speaker</label>
+            <text syncTime="3339.795" offset="13504513">--the British act which did include an express limitation to public offerings?</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="3347.261" stopTime="3361.848">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="3347.261" offset="13534397">--I think the simple answer is, they felt it wasn't necessary.</text>
+            <text syncTime="3350.900" offset="13548921">The whole design of the first ten sections of the act, and in particular section 5, the heart of the act, is directed solely at one context, public offerings.</text>
+            <text syncTime="3360.303" offset="13586537">Everything else is exempt.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3361.848" stopTime="3379.778">
+            <label>Unknown Speaker</label>
+            <text syncTime="3361.848" offset="13592702">You rely on using the same litany of prospectus, notice, circular, et cetera, but then say, well, it's all right for them to have skipped out the other part, that they didn't copy the British wording to that extent.</text>
+          </turn>
+          <turn speaker="donald_w_jenkins" startTime="3379.778" stopTime="3452.155">
+            <label>Mr. Donald W. Jenkins</label>
+            <text syncTime="3379.778" offset="13664487">That's correct, they did not follow the phrase, include the phrase, to the public, which is in the British Companies Act, but Congress repeatedly said, the draftsmen said, this act is the British securities act.</text>
+            <text syncTime="3393.601" offset="13719762">How could those statements be correctly made if one applies only to public distributions and the other is much, much broader, applying to every private transaction that ever involves the sale of a security and an interstate communication?</text>
+            <text syncTime="3408.298" offset="13778485">The lack of any explanation, specific discussion or anything, anywhere in the legislative history or the House report of any notation that the act extended so much more broadly is to our mind very, very strong proof that Congress, none of the Congressmen, none of the drafters intended such a broad departure from the public offering context.</text>
+            <text syncTime="3432.944" offset="13877124">They just simply couldn't have said the things they said in the reports about the act or in Mr. Landis' article about the act if that were the case, if the act intended to go into such a wide range of private, negotiated transactions.</text>
+            <text syncTime="3448.688" offset="13940131">Thank you.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3452.155" stopTime="3454.577">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3452.155" offset="13953924">Thank you, Mr. Jenkins.</text>
+            <text syncTime="3453.077" offset="13957685">The case is submitted.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3454.577" stopTime="3461.060">
+            <label>Unknown Speaker</label>
+            <text syncTime="3454.577" offset="13963641">The honorable court is now adjourned until Monday next at 10 o 'clock.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

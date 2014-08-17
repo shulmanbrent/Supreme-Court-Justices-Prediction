@@ -1,0 +1,58 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <identified user="jgoldman">2013-12-12</identified>
+        <edit user="jgoldman" date="2014-01-16T13:37:51" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1493203">/xml/cases/2003/02_1603/20040624o_02-1603.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2003/trs/02-1603_20040624-opinion.trs</sourceFile>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="327.071">
+        <title>Beard v. Banks</title>
+        <section startTime="0.000" stopTime="327.071" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice Clarence Thomas</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.336">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court of in No. 02-1603, Beard against Banks will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="8.336" stopTime="327.071">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="8.336" offset="33332">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Third Circuit.</text>
+            <text syncTime="14.039" offset="56111">More than 20 years ago a jury convicted respondent, George E. Banks of 12 counts of first degree murder, and the Trial Court sentenced him to death.</text>
+            <text syncTime="23.220" offset="92787">Respondent’s conviction became final in October 1987 roughly eight months before, this Court handed down its decision in Mills v. Maryland.</text>
+            <text syncTime="33.590" offset="134269">In Mills and McKoy versus North Carolina, this Court held invalid capital sentencing schemes that require juries to disregard mitigating factors not found unanimously.</text>
+            <text syncTime="48.147" offset="192575">Respondent pursued state postconviction relieve on the theory that the instructions and verdict form given to the jury in this case violated the Mills’ principle.</text>
+            <text syncTime="58.531" offset="234057">The Pennsylvania Supreme Court rejected this claim on the merits.</text>
+            <text syncTime="62.648" offset="250567">Respondent then turned to the Federal Courts pressing the same theory.</text>
+            <text syncTime="67.590" offset="270315">The District Court denied relief but the Court of Appeals reversed.</text>
+            <text syncTime="72.158" offset="288601">We summarily reversed the Court of Appeals’ holding however, because the Court of Appeals did not apply the retroactivity analysis set forth in Teague v. lane.</text>
+            <text syncTime="82.547" offset="330188">On remand, the Court of Appeals determined that Mills was not a new rule of constitutional criminal procedure at the time respondent’s conviction became final.</text>
+            <text syncTime="93.903" offset="375536">The Court of Appeals then reinstated the remainder of its previous opinion and again granted respondent relief from his death sentence.</text>
+            <text syncTime="102.282" offset="409078">In an opinion filed with the Clerk today, we reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="107.678" offset="430707">Under Teague the determination whether a constitutional rule of criminal procedure applies to a case on collateral review involves a three-step process.</text>
+            <text syncTime="118.750" offset="474906">First, the court must determine when the defendant’s conviction became final; second, the court must ascertain the legal landscape as at then existed and ask whether the constitution as interpreted by that precedent compels the rule, that is the court must decide whether the rule is actually new; finally, if the rule is new, the court must consider whether it falls within either of two exemptions to non-retroactivity.</text>
+            <text syncTime="147.733" offset="590890">We conclude that respondent’s conviction became final in 1987.</text>
+            <text syncTime="152.612" offset="610429">The legal landscape as of that time consisted of Lockett versus Ohio, Eddings versus Oklahoma, and related cases.</text>
+            <text syncTime="162.040" offset="648150">These cases held that the sentencer could not be precluded from considering mitigating evidence.</text>
+            <text syncTime="169.654" offset="678557">The Court in mills focused for the first time on individual jurors rather that the sentencer as a unit.</text>
+            <text syncTime="177.482" offset="709904">We think it is clear that reasonable jurors could have differed as to whether the Lockett principle compelled Mills.</text>
+            <text syncTime="186.097" offset="744385">Mills broke new ground and the Mills rule is therefore, new.</text>
+            <text syncTime="190.731" offset="762880">Neither of Teague's exceptions apply here.</text>
+            <text syncTime="193.906" offset="775523">The second exception, the only one at issue in this case, is for watershed rules of criminal procedure implicating the fundamental fairness and accuracy of criminal proceeding.</text>
+            <text syncTime="206.608" offset="826410">We have repeatedly emphasized the limited scope of this exception, explaining that it is clearly meant to apply only to a small core of rules requiring observance of those procedures that are implicit in the concept of ordered liberty.</text>
+            <text syncTime="223.555" offset="894119">In providing guidance as to what might fall within this exception, we have referred to the rule of Gideon v. Wainwright right to counsel and only this rule.</text>
+            <text syncTime="235.216" offset="940826">By contrast, we have not hesitated to hold that less sweeping in fundamental rules do not fall within Teague's second exception. We have recognized that avoidance of potentially arbitrary impositions of the death sentences motivated the Court in Mills and McKoy.</text>
+            <text syncTime="254.537" offset="1018044">But because all of our Eighth Amendment jurisprudence concerning capital sentencing is directed toward the enhancement of reliability and accuracy in some sense, the fact that a new rule removes some remote possibility of arbitrary infliction of the death sentence does not suffice to bring it within Teague's second exception.</text>
+            <text syncTime="276.568" offset="1106233">The Mills rule has none of the primacy and centrality of the rule adopted in Gideon.</text>
+            <text syncTime="282.406" offset="1129535">The rule applies narrowly and works no fundamental shift in our understanding of the bedrock procedural element essential to fundamental fairness.</text>
+            <text syncTime="292.464" offset="1169763">We conclude that the Mills rule does not fall within the second Teague exemption.</text>
+            <text syncTime="297.449" offset="1189721">Justice Stevens has filed a dissenting opinion in which Justice Souter, Justice Ginsburg, and Justice Breyer have joined; Justice Souter has filed a dissenting opinion in which Justice Ginsburg has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

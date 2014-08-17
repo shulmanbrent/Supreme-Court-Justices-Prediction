@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:00:17" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="680521">/xml/cases/1989/88_1323/19900221o_88-1323.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1989/trs/88-1323_19900221-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="148.350">
+        <title>Sullivan v. Everhart</title>
+        <section startTime="0.000" stopTime="148.350">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.672">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87123">The opinion of the Court in No. 88-1323, Sullivan against Everhart will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="8.672" stopTime="148.350">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="8.672" offset="121709">This case is here on writ of certiorari to the United States Court of Appeals for the Tenth Circuit.</text>
+            <text syncTime="16.438" offset="152847">That court held invalid certain regulations promulgated by the Secretary of Health and Human Services, under which he nets or calculates the difference between past underpayments and past overpayments.</text>
+            <text syncTime="31.058" offset="211257">The essence of the dispute is that the Social Security Act requires the Secretary to provide a hearing to see whether it is equitable or not before he seeks to recover past overpayments.</text>
+            <text syncTime="50.102" offset="287430">And the dispute is whether that must be done on a month by month basis, a payment by payment basis, or rather the Secretary may offset prior overpayments against prior underpayments and therefore not have to in effect provide the hearing before collecting through offset the prior overpayments.</text>
+            <text syncTime="78.749" offset="402055">The text of the Social Security Act at issue requires the Secretary to find whether “more or less than the correct amount of payment of benefits” has been paid.</text>
+            <text syncTime="94.021" offset="463182">What the issue comes down to is whether the term "correct amount" can reasonably be construed as the Secretary has construed to refer to the net amount owing as of the date of his determination rather than the amount owing each month.</text>
+            <text syncTime="108.819" offset="522323">For the reason set forth in the opinion and too tedious to repeat here, we hold that he can.</text>
+            <text syncTime="115.693" offset="549804">We also hold that the Secretary’s method of computing the netting period does not make the regulations arbitrary and capricious.</text>
+            <text syncTime="122.015" offset="575090">Some delay is inevitable to avoid errors and the Secretary’s regulations limit delay.</text>
+            <text syncTime="128.022" offset="599123">The respondent’s alternative suggestion would either increase the administrative burden or fail to remedy alleged delay problem.</text>
+            <text syncTime="135.309" offset="628276">Therefore, the judgment of the Court of Appeals for the Tenth Circuit is reversed and the case is remanded for further proceedings consistent with our opinion.</text>
+            <text syncTime="142.106" offset="655547">Justice Stevens has filed a dissenting opinion in which Justices Brennan, Marshall, and Kennedy have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

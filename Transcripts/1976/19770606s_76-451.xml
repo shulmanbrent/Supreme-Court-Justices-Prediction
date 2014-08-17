@@ -1,0 +1,31 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-30</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="382240">/xml/cases/1976/76_451/19770606o_76-451.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1976/trs/76-451op.trs</sourceFile>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="70.396">
+        <title>Alabama Power Company v. Davis</title>
+        <section startTime="0.000" stopTime="70.396" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Thurgood Marshall</heading>
+          <turn speaker="thurgood_marshall" startTime="0.000" stopTime="68.801">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="0.000" offset="100536">In the other case 76-451, Alabama Power against Davis is here on writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="12.308" offset="149751">We granted the writ in this case to resolve another conflict among the circuits over the question of whether veterans who have returned the jobs with private employers following their military service are entitled to credit toward their private pensions for the time they spent in military service.</text>
+            <text syncTime="33.379" offset="233969">The District Court and the Court of Appeals below held that the respondent, Davis, a veteran, is entitled to such credit under Section 9 of the Military Selective Service Act.</text>
+            <text syncTime="45.901" offset="284125">An opinion filed today with the clerk, we affirmed.</text>
+            <text syncTime="49.582" offset="298858">We conclude that pensions are an incident of seniority because they are in the nature of a reward for length of service.</text>
+            <text syncTime="58.566" offset="334698">As an incident of seniority, they must, under the Act, be given to the veteran as if they had been no break in his private employment.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="68.801" stopTime="70.396">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="68.801" offset="375658">Thank you, Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

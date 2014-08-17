@@ -1,0 +1,23 @@
+<transcript verified="true">
+      <history>
+        <edit user="jgoldman" date="2013-09-02T21:18:57" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="135028">/xml/cases/2001/01_584/20020401o_01-584.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2001/trs/01-584_20020401-opinion.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="12.094">
+        <title>Adams v. Florida Power Corp.</title>
+        <section startTime="0" stopTime="12.094">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="12.094" flagged="true">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="86858">I have the opinion of the Court to announce in NO. 01-584, Adams versus Florida Power Corporation.</text>
+            <text syncTime="8.405" offset="120399">The writ is dismissed as improperly granted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

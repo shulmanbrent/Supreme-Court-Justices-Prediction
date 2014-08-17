@@ -1,0 +1,1174 @@
+<transcript verified="true">
+      <history>
+        <transcribed>2005-03-29</transcribed>
+        <identified user="dleib">2012-08-12</identified>
+        <verified user="jeffpar">2013-08-18</verified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="13950951">/xml/cases/2004/04_277/20050329a_04-277.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/2004/04-277_20050329-argument.xml</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="thomas_g_hungar" type="advocate" gender="male" path="/advocates/th/thomas_g_hungar" image="/advocates/th/thomas_g_hungar/thumbnail.jpg">Thomas G. Hungar</speaker>
+        <speaker id="paul_t_cappuccio" type="advocate" gender="male" path="/advocates/pc/paul_t_cappuccio" image="/advocates/pc/paul_t_cappuccio/thumbnail.jpg">Paul T. Cappuccio</speaker>
+        <speaker id="thomas_c_goldstein" type="advocate" gender="male" path="/advocates/tg/thomas_c_goldstein" image="/advocates/tg/thomas_c_goldstein/thumbnail.jpg">Thomas C. Goldstein</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3410.991">
+        <title>National Cable and Telecomm. Assn v. Brand X Internet Services</title>
+        <section startTime="0.000" stopTime="1022.500" revised="2014-02-01">
+          <heading>Argument of Thomas G. Hungar</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="64.810">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">We'll hear argument next, number 04-277, National Cable &amp; Telecommunications Association v. Brand X Internet Services.</text>
+            <text syncTime="14.463" offset="57783">Mr. Hungar.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="64.810" stopTime="142.960">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="64.810" offset="259239">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="68.063" offset="272196">In the Telecommunications Act of 1996, Congress declared that it is the policy of the United States to preserve the vibrant and competitive free market that presently exists for the Internet unfettered by federal or state regulation.</text>
+            <text syncTime="86.121" offset="344398">The FCC implemented that clear policy directive in the order under review by concluding that cable modem service should be classified as an information service and not a telecommunications service under the Communications Act.</text>
+            <text syncTime="102.138" offset="408451">That reasonable determination should be upheld, because it is consistent with the text, history, and purposes of the Act.</text>
+            <text syncTime="110.953" offset="443768">The Act defines "telecommunications" as the transmission of information without change in form or substance, and "telecommunications service" as the offering of telecommunications directly to the public for a fee.</text>
+            <text syncTime="126.901" offset="507507">Given that focus on the nature of the FCC reasonably concluded that the integrated cable modem service offering should be viewed as a whole in determining its classification under the Act.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="142.960" stopTime="168.314">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="142.960" offset="571768">Why?</text>
+            <text syncTime="143.551" offset="574171">Why is that reasonable?</text>
+            <text syncTime="144.234" offset="576888">I mean, why is it offered to the public if it's offered alone, but it's not offered to the public if it's offered with a tie-in?</text>
+            <text syncTime="153.609" offset="614400">I mean, if... you know, if I say, you know, I'm selling you a windshield alone, I guess I'm offering a windshield.</text>
+            <text syncTime="160.922" offset="643657">But if I say, you know, you've got to buy the windshield with a car, am I any less selling you a windshield?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="168.314" stopTime="196.931">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="168.314" offset="673228">Well, I don't think we would say, in that example, that you are offering windshields, per se.</text>
+            <text syncTime="174.398" offset="697574">I mean, to give an example, [carmaxDOTcom] offers cars for sale over the Internet, but I don't think we would ordinarily say that they are offering windshields or steering wheels or tires for sale.</text>
+            <text syncTime="184.269" offset="737071">Certainly, that's not been necessary construction of a regulatory regime that, say, is designed to focus on sellers of tires.</text>
+            <text syncTime="190.525" offset="762044">It wouldn't automatically, as a matter of law, have to be applied to entities that are selling cars instead.</text>
+            <text syncTime="195.971" offset="783882">And the same is true here.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="196.931" stopTime="198.973">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="196.931" offset="787644">Well, suppose I just tie it in with windshield wipers.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="198.973" stopTime="202.818">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="198.973" offset="795794">Well, again, I--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="202.818" stopTime="210.375">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="202.818" offset="811259">You can only buy my windshield if you buy the windshield wipers with it.</text>
+            <text syncTime="205.713" offset="822753">Am I no longer selling a windshield because I'm selling it with... only with windshield wipers?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="210.375" stopTime="212.722">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="210.375" offset="841456">--Well, I think it would depend on the nature of the regulatory--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="212.722" stopTime="213.329">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="212.722" offset="850860">Fifty-fifty.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="213.329" stopTime="213.985">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="213.329" offset="853264">--regime.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="213.985" stopTime="224.508">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="213.985" offset="855876">But don't you think that the telecommunications aspect of what's going on here is at least as important as the information aspect of it?</text>
+            <text syncTime="222.151" offset="888581">The information is useless unless it can be conveyed.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="224.508" stopTime="235.004">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="224.508" offset="897985">Well, the... and, by the same token, the transmission component is useless unless it offers all of the... all of the information-services type functionality that Internet service offers.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="235.004" stopTime="244.230">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="235.004" offset="939990">Not necessarily.</text>
+            <text syncTime="235.808" offset="943229">You could... you can use that broadband service to go to other information providers.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="244.230" stopTime="283.152">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="244.230" offset="976875">But, Your Honor, it's the... it's the capabilities that you purchase in the integrated package... not the pure transmission, but the other capabilities, the computer data-processing, data-access capabilities that are an essential part of that.</text>
+            <text syncTime="257.541" offset="1030060">If all you had was the transmission, with none of the other computer functionality... if you typed in the Supreme Court's Website, for instance, [supremecourtusDOTgov,] nothing would happen, because all of the computer functionality, like the domain-name system, which is a very sophisticated, complex, distributed database involving literally millions of computers around the world, that's data processing.</text>
+            <text syncTime="279.621" offset="1118459">That's information-services capability that you use every time you type in a Website.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="283.152" stopTime="283.999">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="283.152" offset="1132565">I understand that.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="283.999" stopTime="289.883">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="283.999" offset="1135909">It's not just transmission.</text>
+            <text syncTime="284.143" offset="1136536">It's much more than that.</text>
+            <text syncTime="285.216" offset="1140820">And without the... without the computer data-processing aspects, it doesn't do anything.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="289.883" stopTime="335.127">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="289.883" offset="1159523">I agree, but the question isn't whether it doesn't do anything; the question is whether you are still offering telecommunications services to the public.</text>
+            <text syncTime="298.516" offset="1194005">And it seems to me... look it, I offer you broadband, initially without any information function at the end of it, and you're using this broadband to do all sorts of good stuff, going where you want, getting what you want, conveying what you want.</text>
+            <text syncTime="313.662" offset="1254609">And then I change my rules and I say,</text>
+            <text syncTime="315.592" offset="1262341">"You know, in the future the only way I'm offering this broadband is if you, in addition to buying the broadband communications capacity, buy my information technology at the end of it. "</text>
+            <text syncTime="328.035" offset="1312078">Have I suddenly stopped selling the broadband... or offering the broadband to the public?</text>
+            <text syncTime="333.827" offset="1335275">I just don't think that's a reasonable--</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="335.127" stopTime="335.261">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="335.127" offset="1340500">Well--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="335.261" stopTime="336.263">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="335.261" offset="1341022">--use of language.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="336.263" stopTime="367.282">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="336.263" offset="1344993">--well, two points.</text>
+            <text syncTime="338.200" offset="1352725">Your question starts with, I think, an incorrect assumption about the nature of the world.</text>
+            <text syncTime="344.279" offset="1377071">The pure transmission function has not been offered to the public, to consumers, separately and apart... again, it doesn't do anything.</text>
+            <text syncTime="353.943" offset="1415732">Consumers don't use the pure transmission functions by itself.</text>
+            <text syncTime="356.412" offset="1425554">"Internet service", by definition, includes the data-processing aspects that the Commission so found on this record, and that factual determine is reasonable and supported by the record.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="367.282" stopTime="369.681">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="367.282" offset="1469127">I was giving you a hypothetical.</text>
+            <text syncTime="369.389" offset="1477486">I--</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="369.681" stopTime="407.856">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="369.681" offset="1478635">Well, in the... in the hypothetical, it's conceivable that a different result might be reached by the regulatory agency with authority for construing the statute and applying it to particular fact situations.</text>
+            <text syncTime="379.344" offset="1517296">But I don't think the word "offering" necessarily and always compels the conclusion that any component of an integrated offering is also separately being offered within the meaning of the statute.</text>
+            <text syncTime="390.453" offset="1561809">It depends on the purposes of the statute, as construed by the regulatory agency.</text>
+            <text syncTime="393.910" offset="1575602">"Offering" is ambiguous.</text>
+            <text syncTime="395.424" offset="1581662">And, therefore, what the agency has done here is reasonable.</text>
+            <text syncTime="398.197" offset="1592738">And it's supported, I would add, by the consistent pre-1996 regulatory approach in this area, which all parties agreed Congress incorporated into the 1996 Act.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="407.856" stopTime="414.143">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="407.856" offset="1631399">--But if you do the same combination over telephone lines, you say they are... they are selling--</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="414.143" stopTime="416.244">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="414.143" offset="1656477">Your Honor--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="416.244" stopTime="417.684">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="416.244" offset="1664940">--offering to the public communications service.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="417.684" stopTime="435.299">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="417.684" offset="1670687">--That's because the telephone companies have always offered a standalone transmission component which other... which other ISPs can utilize.</text>
+            <text syncTime="427.747" offset="1710916">They've done that because of the preexisting regulatory regime.</text>
+            <text syncTime="431.129" offset="1724500">They've always made the separate offering; therefore, it is a telecommunications service.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="435.299" stopTime="449.944">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="435.299" offset="1741113">What bearing does history have upon the definitional question of whether, when you sell a bundled offering of information technology and communications, you are selling communications?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="449.944" stopTime="450.419">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="449.944" offset="1799732">Your Honor--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="450.419" stopTime="456.883">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="450.419" offset="1801613">With respect to the telephone long-lines, you say, yes, you are; and with respect to cable, you say, no, you aren't.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="456.883" stopTime="483.979">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="456.883" offset="1827527">--Your Honor, it's certainly not unusual for this Court, in construing a statute, to look to the regulatory history that led up to the enactment of the statute, particularly where it's clear in the legislative history that Congress was in... was essentially borrowing from the pre-1996 regulatory definitions, the definitional scheme that the Commission adopted in 1980 in its Computer II report.</text>
+            <text syncTime="477.991" offset="1911954">All parties agree that that definitional framework forms the foundation for the very definitions at issue here.</text>
+            <text syncTime="483.062" offset="1932225">That's undisputed.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="483.979" stopTime="492.618">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="483.979" offset="1935882">Mr. Hungar, what is the tentative decision the FCC has taken on the DSL regulation?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="492.618" stopTime="508.841">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="492.618" offset="1970469">Your Honor, the FCC has tentatively concluded that when a telephone company makes an integrated offering of the DSL transmission capacity with the Internet service, as a combined offering to consumers, that, tentatively that is an information service, precisely the classification that you--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="508.841" stopTime="509.294">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="508.841" offset="2035357">Even though--</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="509.294" stopTime="509.426">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="509.294" offset="2037133">--read here.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="509.426" stopTime="513.249">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="509.426" offset="2037656">--telephone lines have always been subject to common-carrier regulation.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="513.249" stopTime="556.110">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="513.249" offset="2052911">That's correct.</text>
+            <text syncTime="513.836" offset="2055314">And even though... when a telephone company is making a separate standalone offering of just the pure DSL transmission capacity, which is useful only to ISPs, to Internet Service Providers, not to consumers, that that would be viewed, has traditionally been viewed, as a common-carriage offering, because it's pure transmission.</text>
+            <text syncTime="529.649" offset="2118531">But when it's a bundled... or when it's an integrated offering... again, this goes back to 1980.</text>
+            <text syncTime="533.962" offset="2135771">This very issue, Justice Scalia, was addressed by the Commission in 1980, and it said, if the offering is limited to pure transmission, it is basic telecommunications, basic service, the precursor to telecommunications service; but if you add any computer functionality to the offering, then it is not basic, it is enhanced service.</text>
+            <text syncTime="553.775" offset="2215079">They said that at paragraphs 93 to 97 of the--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="556.110" stopTime="556.616">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="556.110" offset="2224379">I understand what--</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="556.616" stopTime="556.733">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="556.616" offset="2226364">--Computer II order.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="556.733" stopTime="572.472">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="556.733" offset="2226887">--they're saying, but they're doing it all on policy grounds.</text>
+            <text syncTime="560.451" offset="2241724">This definition means this, because that produces a good result.</text>
+            <text syncTime="564.615" offset="2258442">With respect to telephone lines, they say, yes, bundled is, or it isn't, depending upon whether we like the result it produces.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="572.472" stopTime="573.490">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="572.472" offset="2289789">No, Your Honor.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="573.490" stopTime="574.166">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="573.490" offset="2293864">It just doesn't seem to--</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="574.166" stopTime="641.279">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="574.166" offset="2296581">It depends on the nature of the offering.</text>
+            <text syncTime="575.441" offset="2301701">If the entity is offering... if cable companies, tomorrow, start offering pure cable transmission on an... on a nondiscriminate basis, that would regulated as a telecommunications service.</text>
+            <text syncTime="587.909" offset="2351543">But what the Commission has always said is that you look at the offering as a whole, and if it's a... an integrated offering that encompasses not just telecommunications, but data-processing, and computer-type services, as well, it's in the enhanced or information-service category that... the Commission said, in 1980,</text>
+            <text syncTime="602.879" offset="2411416">"We're doing this, in part, because it's not clear... it's clear that Congress didn't intend, in the 1934 Act, to extend regulation to this new... this novel, new type of intermingled service, and it would be inappropriate, we think, to try and extend the Act to that, for a number of reasons, including that it's very hard to draw lines between which is... which has more of a communications versus data-processing component. "</text>
+            <text syncTime="624.596" offset="2498351">"They had tried that, and concluded that it was unworkable. "</text>
+            <text syncTime="626.612" offset="2506397">And so, they drew the line.</text>
+            <text syncTime="627.668" offset="2510576">Basic transmission, pure transmission, if the offering is limited to that, it is on the telecommunications service, or basic-service line; if it contains the computer-processing capabilities, data acquisition and retrival and the like--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="641.279" stopTime="650.334">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="641.279" offset="2565016">But it seems to be saying, because the cable companies do not offer separate telecommunications service, they don't have to offer it.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="650.334" stopTime="650.787">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="650.334" offset="2601273">--Correct.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="650.787" stopTime="654.807">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="650.787" offset="2603050">I mean, it just... it's almost question-begging.</text>
+            <text syncTime="653.629" offset="2614439">It's peculiar.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="654.807" stopTime="722.709">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="654.807" offset="2619141">I don't think so, Your Honor.</text>
+            <text syncTime="655.814" offset="2623216">It's only... it only... it's only question-begging because the Respondents have attempted to mischaracterize or misdescribe what is going on here.</text>
+            <text syncTime="662.490" offset="2649861">The rule is, if you are a common carrier, as the telephone companies are, and, in 1980, the FCC was regulating in an environment when there was only one avenue into the home, one communications avenue, the telephone line, and they said,</text>
+            <text syncTime="677.050" offset="2708167">"Under these circumstances, telephone common carriers are not going to be allowed to escape Title II regulation completely by offering enhanced services, if they can offer an enhanced service, an intermingled... integrated transmission and computer data-processing service, and that service, as a whole, when it's offered, will be unregulated, because Title II does not extend to those types of integrated service offerings. "</text>
+            <text syncTime="701.195" offset="2804715">They said,</text>
+            <text syncTime="701.904" offset="2807536">"However, if you... if it is a telephone common carrier that's making that offering, a facilities-based, typically-monopoly common carrier, they will have an obligation to also make a standalone offering of transmission under Title II, because they were telephone... traditional common carriers. "</text>
+            <text syncTime="719.744" offset="2878903">Cable companies are not in that category.</text>
+            <text syncTime="721.771" offset="2887053">They have not traditionally been--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="722.709" stopTime="732.772">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="722.709" offset="2890815">Did you say... you say that the FCC is changing its view.</text>
+            <text syncTime="726.682" offset="2906697">It has tentatively changed its view.</text>
+            <text syncTime="728.740" offset="2914952">So it will bracket the telephone companies with the cable companies.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="732.772" stopTime="793.630">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="732.772" offset="2931043">--Well, actually, that's an important point, Justice Ginsburg.</text>
+            <text syncTime="734.403" offset="2937522">The FCC has never said that an integrated offering of DSL that... DSL Internet service, the combined integrated offering, the analog to what we have here, in the cable context... the FCC has never said that that is not an information service.</text>
+            <text syncTime="750.595" offset="3002305">They have... and they have tentatively concluded now that it is.</text>
+            <text syncTime="753.049" offset="3012127">What they have said... what they said in the 1998 order that Respondents cite was that the telecommunications... the telephone companies are already offering DSL on a standalone, pure-transmission basis to other competing Internet Service Providers; therefore, it is a telecommunications service.</text>
+            <text syncTime="770.467" offset="3081822">Indeed, it was undisputed that it was a telecommunications service.</text>
+            <text syncTime="773.145" offset="3092480">And, again, the reason they were doing that, we assume, is because the preexisting Computer II and Computer III framework required the telephone carriers to make that standalone offering.</text>
+            <text syncTime="782.899" offset="3131559">But the Commission has not said the integrated offering is also a telecommunications service, and it has now tentatively concluded that it is an information service, in keeping with 25 years of regulatory history that--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="793.630" stopTime="796.851">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="793.630" offset="3174504">What would be left in the common-carrier category?</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="796.851" stopTime="834.392">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="796.851" offset="3187357">--Well, any standalone, pure-transmission offering, including, under the Computer II rationale, to the extent the Commission adheres to it--</text>
+            <text syncTime="806.530" offset="3226018">and it hasn't overturned it yet; it's considering the extent to which it should create an exception in the DSL context... but under Computer II, a basic, traditional common carrier cannot get away... cannot get out of Title II regulation by offering an integrated offering.</text>
+            <text syncTime="820.429" offset="3281711">They will also have to make the standalone offering, unless and to the extent the Commission determines that that's not necessary; for instance, because the enhanced or integrated... information-service market is sufficiently competitive that it's not necessary and there are adequate alternative--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="834.392" stopTime="835.773">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="834.392" offset="3337509">--Well, that's wonderful policy--</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="835.773" stopTime="835.937">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="835.773" offset="3343047">--communications pipelines.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="835.937" stopTime="870.891">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="835.937" offset="3343673">--that's wonderful policy, but I don't... what I'm still waiting to hear is how you get that out of the definitions, which is the lever that the Commission is using to implement this good policy.</text>
+            <text syncTime="847.722" offset="3390798">It is saying, in some cases, that a bundled offering is an offering of telecommunications; and, in other cases, it's saying a bundled offering isn't.</text>
+            <text syncTime="859.515" offset="3438028">And the reason, you say, is not because of the nature of the thing, because of the definition, it's because you tell us it has good consequences in one case, and doesn't have good consequences in the other.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="870.891" stopTime="872.438">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="870.891" offset="3483481">Your Honor, I'm sorry, but--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="872.438" stopTime="873.243">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="872.438" offset="3489750">That's not my understanding--</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="873.243" stopTime="873.477">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="873.243" offset="3492885">--that's--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="873.477" stopTime="874.373">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="873.477" offset="3493825">--of how definitions work.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="874.373" stopTime="905.331">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="874.373" offset="3497482">--Let me try to clarify what the Commission's position is.</text>
+            <text syncTime="876.650" offset="3506573">The Commission has never said, that I am aware of or that Respondents have pointed out, that the integrated... bundled, if you will... the integrated offering of transmission plus Internet service functionality is a telecommunications service.</text>
+            <text syncTime="891.417" offset="3565610">They have never said that.</text>
+            <text syncTime="892.222" offset="3568849">They have said that some companies, telephone common carriers, will be required to make the separate offering, but it is not correct that the integrated offering is, itself, going to be classified as a telecommunications service.</text>
+            <text syncTime="904.718" offset="3618795">It's classified--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="905.331" stopTime="905.587">
+            <label>Justice David H. Souter</label>
+            <text syncTime="905.331" offset="3621303">So it's--</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="905.587" stopTime="906.174">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="905.587" offset="3622348">--as information.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="906.174" stopTime="916.675">
+            <label>Justice David H. Souter</label>
+            <text syncTime="906.174" offset="3624647">--in effect, it's the unbundling requirement which is your answer to Justice Scalia's... Why should that make a difference?</text>
+            <text syncTime="912.446" offset="3649724">I mean, you could just as well make an unbundling requirement with respect to cable.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="916.675" stopTime="931.822">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="916.675" offset="3666651">You could.</text>
+            <text syncTime="917.599" offset="3670309">And, in fact, the Commission is... has issued a notice of proposed rulemaking and an invitation for comment in the order under review here to consider whether it should make such a requirement under its ancillary Title I authority in this context, and what... and, if so, to what extent?</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="931.822" stopTime="944.782">
+            <label>Justice David H. Souter</label>
+            <text syncTime="931.822" offset="3727256">And the reason for a distinction, at least at the present time... the reason for the reasonableness of the distinction at the present time, as a source of applying this definition, is history, basically.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="944.782" stopTime="955.348">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="944.782" offset="3779082">History and, not unrelated to that, the fact that the cable companies have not traditionally been regulated as common carriers under the--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="955.348" stopTime="955.752">
+            <label>Justice David H. Souter</label>
+            <text syncTime="955.348" offset="3821296">Yeah.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="955.752" stopTime="1015.996">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="955.752" offset="3822968">--Title II of the Act.</text>
+            <text syncTime="956.435" offset="3825685">Yes, that's correct.</text>
+            <text syncTime="957.646" offset="3830491">And then just one final point, if I may... Justice Scalia, I think this also goes to your question... Respondents are the ones who are being inconsistent, and that... the states, for instance, they suggest that, "Well, if"... they say that,</text>
+            <text syncTime="969.981" offset="3879915">"Well, cable modem service should be regulated as a telecommunications service, in part. "</text>
+            <text syncTime="973.869" offset="3895380">But, of course, traditional information service providers, ISPs, should not be; they're pure information service, even though ISPs also provide transmission.</text>
+            <text syncTime="982.845" offset="3931324">They provide telecommunications.</text>
+            <text syncTime="984.658" offset="3938534">Information service... excuse me... Internet service does not work unless you have transmission from wherever the telephone call goes into the central office, and it has to be transmitted from there to the Internet Service Provider's point of presence on the Internet, and from there out onto the Internet.</text>
+            <text syncTime="998.419" offset="3993600">And Internet Service Providers either own or lease that transmission capacity and offer that as part of the bundled offering that they make.</text>
+            <text syncTime="1005.437" offset="4021708">So every Internet Service Provider would be a telecommunications carrier under their position, and that is contrary to what the FCC said before the '96 Act, and it's contrary to what Congress said in the 1996 Act.</text>
+            <text syncTime="1015.580" offset="4062250">They said--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1015.996" stopTime="1020.767">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1015.996" offset="4063922">They claim that that's by toleration of the FCC.</text>
+            <text syncTime="1018.688" offset="4074684">I was going to ask them about that, don't worry.</text>
+            <text syncTime="1020.160" offset="4080640">[Laughter]</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="1020.767" stopTime="1022.500">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="1020.767" offset="4083043">--If I may reserve the balance of my time.</text>
+          </turn>
+        </section>
+        <section startTime="1022.500" stopTime="1629.900" revised="2014-02-01">
+          <heading>Argument of Paul T. Cappuccio</heading>
+          <turn speaker="william_h_rehnquist" startTime="1022.500" stopTime="1026.964">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1022.500" offset="4089940">Very well, Mr. Hungar.</text>
+            <text syncTime="1024.308" offset="4097149">Mr. Cappuccio, we'll hear from you.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1026.964" stopTime="1089.550">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1026.964" offset="4107807">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1037.635" offset="4150439">Let me begin by trying to answer Justice Scalia's question.</text>
+            <text syncTime="1042.365" offset="4169456">The question here, Justice, is, Are we offering two products, or are we offering two ingredients that come together to form a separate product?</text>
+            <text syncTime="1055.176" offset="4220656">And I would submit that if you go back and read paragraph 120 of the Computer II order, 1980, that's exactly what Congress said was happening.</text>
+            <text syncTime="1065.415" offset="4261616">What Congress said is, when you take... not Congress, I'm sorry; the FCC, of course... when you take the communications component and the data-processing component and combine them, they are ingredients into what is a new offering, and a new and unregulated offering.</text>
+            <text syncTime="1080.278" offset="4321071">They said,</text>
+            <text syncTime="1080.790" offset="4323056">"We can't separate them. "</text>
+            <text syncTime="1082.478" offset="4329848">"It's not useful to try to separate them. "</text>
+            <text syncTime="1084.978" offset="4339879">"And we view them as two ingredients, forming a product that is a distinct product. "</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1089.550" stopTime="1092.541">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1089.550" offset="4358165">What is the... what is the data-processing part?</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1092.541" stopTime="1104.587">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1092.541" offset="4370077">In the case of cable modem service, Your Honor, it's a number of things.</text>
+            <text syncTime="1096.620" offset="4386377">It's the ability to, for example, retrieve information from a server that somebody has on the Web--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1104.587" stopTime="1123.833">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1104.587" offset="4418247">So I guess, on that one, if, in fact, you had a telephone system, and, at the other end of the wire, Joe Smith, your friend, had recorded a message,--</text>
+            <text syncTime="1114.922" offset="4459624">and when you rang the call, the service simply picked up the message and played it to you, wouldn't it still be a telephone system?</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1123.833" stopTime="1134.632">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1123.833" offset="4495256">--Well, I think in your situation... in the hypothetical you give, Your Honor, that would be somebody using just a regular transmission-only path to hear what the other person--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1134.632" stopTime="1136.099">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1134.632" offset="4538514">And how is this different?</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1136.099" stopTime="1145.646">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1136.099" offset="4544366">--Well, because here, in the example that I used, for example... it's certainly not the only one... it is the capacity to retrieve information that is stored otherwise.</text>
+            <text syncTime="1144.670" offset="4578638">And that follows, Your Honor--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1145.646" stopTime="1149.144">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1145.646" offset="4582504">Information that other people have stored otherwise?</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1149.144" stopTime="1151.709">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1149.144" offset="4596506">--Yes.</text>
+            <text syncTime="1149.624" offset="4598491">And not... and not necessarily--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1151.709" stopTime="1155.907">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1151.709" offset="4606746">Well, why isn't that even more telecommunications than my answering service?</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1155.907" stopTime="1156.771">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1155.907" offset="4623569">--Well--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1156.771" stopTime="1158.067">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1156.771" offset="4627017">You know, I pick up my messages.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1158.067" stopTime="1163.368">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1158.067" offset="4632242">--I would say, Your Honor, for one thing, it fits squarely within the definition of information service, which says--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1163.368" stopTime="1166.227">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1163.368" offset="4653453">Well, yes, of course it does, and so does my answering service.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1166.227" stopTime="1168.387">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1166.227" offset="4664842">--Well--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1168.387" stopTime="1172.163">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1168.387" offset="4673515">I got... what about the next one?</text>
+            <text syncTime="1170.072" offset="4680202">You were going to... what I want to do is write down a list--</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1172.163" stopTime="1172.648">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1172.163" offset="4688562">--Okay.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1172.648" stopTime="1175.581">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1172.648" offset="4690547">--of those things that are not telecommunications.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1175.581" stopTime="1183.475">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1175.581" offset="4702250">It's the ability to engage in... to use your e-mail, it's the ability--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1183.475" stopTime="1197.208">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1183.475" offset="4733806">Well, the ability to engage or use my e-mail is an ability to access messages that other people, who don't work for you, have left for me.</text>
+            <text syncTime="1193.635" offset="4774452">Now, again, I keep thinking of my answering machine--</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1197.208" stopTime="1197.854">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1197.208" offset="4788767">--Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1197.854" stopTime="1199.555">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1197.854" offset="4791380">--and it doesn't seem very different.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1199.555" stopTime="1200.643">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1199.555" offset="4798171">Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1200.643" stopTime="1201.661">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1200.643" offset="4802560">But, anyway, what's the third one?</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1201.661" stopTime="1212.071">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1201.661" offset="4806635">Well, it's anything that allows you to browse the World Wide Web and to... and to retrieve information from the World Wide Web.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1212.071" stopTime="1213.047">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1212.071" offset="4848222">Yes, indeed.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1213.047" stopTime="1213.409">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1213.047" offset="4852088">Right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1213.409" stopTime="1232.944">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1213.409" offset="4853551">What it is, is a system where I pick up the phone, and what my phone does is... let's say it had the ability to survey a number of possible people who wanted to talk to me.</text>
+            <text syncTime="1225.674" offset="4902661">Would that suddenly change it from a phone to a computer or an information system?</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1232.944" stopTime="1233.280">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1232.944" offset="4931709">The--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1233.280" stopTime="1236.708">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1233.280" offset="4933068">Because the other people are leaving the information; it's not the phone that's doing it.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1236.708" stopTime="1271.310">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1236.708" offset="4946756">--Your Honor, the ability to retrieve information that is stored somewhere out on a server is not the raw transmission functionality.</text>
+            <text syncTime="1245.582" offset="4982282">It is more than that.</text>
+            <text syncTime="1246.670" offset="4986671">It is what the Congress has said it is, it is the ability to retrieve information.</text>
+            <text syncTime="1252.009" offset="5007987">It is not simply sending bits over a line and having those bits not changed and not interfered with.</text>
+            <text syncTime="1257.859" offset="5031393">When you retrieve something from a server, you have to take it in form it is on the server, you have to then put it through the transmission system, and you have to reconvert it back into what you want to see.</text>
+            <text syncTime="1267.710" offset="5070785">It's an interactive process that is more than just sending information.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1271.310" stopTime="1282.456">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1271.310" offset="5085205">Rather like when I phone Europe, and they take the message and turn it into electronic packets, and they send it all over the world and on computers and so forth, and it comes back to me eventually, sounds a lot like my brother-in-law.</text>
+            <text syncTime="1282.243" offset="5128882">[Laughter]</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1282.456" stopTime="1329.393">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1282.456" offset="5129822">Yeah, I guess... look, Your Honor, I am not disputing that an information service has a component of it that's communications.</text>
+            <text syncTime="1291.090" offset="5164304">It may, indeed, have a component of it that's communication.</text>
+            <text syncTime="1294.049" offset="5176111">But what the FCC said in Computer II is that when you combine the... you combine the communications with, for example, the data-retrieval function, that that combination of things is no longer the two separate products, it is a new enhanced service that is beyond Title II.</text>
+            <text syncTime="1313.415" offset="5253642">And, Justice Scalia, part of the evidence that these are not two separate products is, if they were, then Congress never could have said if enhanced services were outside of Title II.</text>
+            <text syncTime="1325.025" offset="5300036">Computer II would have to be wrong and overruled, even though it's now 20--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1329.393" stopTime="1330.086">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1329.393" offset="5317486">The FCC--</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1330.086" stopTime="1388.192">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1330.086" offset="5320307">--Yeah, I'm sorry, I keep saying Congress; I meant the FCC.</text>
+            <text syncTime="1332.326" offset="5329293">The FCC could not have said that, because it would have been forced... if, as the theory goes, the enhanced service has in it the separate product of communications and has a separate status, then they wouldn't have been able to take it out of Computer II.</text>
+            <text syncTime="1346.848" offset="5387389">But let me suggest, stepping back for a second... and, by the way, I should add that in this case, in the paragraph 39 of the order under... below, the FCC said the two were not separable.</text>
+            <text syncTime="1358.368" offset="5433469">Okay?</text>
+            <text syncTime="1359.247" offset="5436918">I understand that to mean they are ingredients intertwined, they are not separate products.</text>
+            <text syncTime="1362.709" offset="5450815">But the basic thing that the agency did here was to decide which of two things is happening.</text>
+            <text syncTime="1367.354" offset="5469414">Are these two separate products?</text>
+            <text syncTime="1369.211" offset="5476833">Is this communications and Chicken McNuggets being bundled together?</text>
+            <text syncTime="1372.912" offset="5491566">Or are these two ingredients that are so interwoven, as they said in Computer II, as to form a distinct product +/?</text>
+            <text syncTime="1378.901" offset="5515598">is a classic example of what an agency does, and it's really not one that this Court, I think, would be likely to secondguess.</text>
+            <text syncTime="1387.221" offset="5548826">It is, indeed, in fact--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1388.192" stopTime="1397.940">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1388.192" offset="5552692">But the... I mean, I think the difficulty that we're having is that it says it in the cable context, and then it doesn't say it in the wire context.</text>
+            <text syncTime="1395.093" offset="5580278">And you can say it just as intelligibly in the wire context.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1397.940" stopTime="1398.308">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1397.940" offset="5591667">--Yeah.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1398.308" stopTime="1400.345">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1398.308" offset="5593130">It's just that you haven't been saying it.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1400.345" stopTime="1437.427">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1400.345" offset="5601280">Let me try to clarify that, Justice Souter.</text>
+            <text syncTime="1402.312" offset="5609221">The reason why DSL meets the definition of "telecommunications service" and we don't is because the telephone companies do, in fact, provide the transmission-only component.</text>
+            <text syncTime="1415.283" offset="5661048">Now, the reason they do that, Justice Souter, is, as Mr. Hungar said, historical, though it wasn't without basis in reasons in history, but they do, in fact, provide it separately.</text>
+            <text syncTime="1427.725" offset="5710890">They do, because Congress required them to do it through a separate subsidiary in Computer II.</text>
+            <text syncTime="1432.232" offset="5728862">There were reasons for that.</text>
+            <text syncTime="1433.048" offset="5732101">They wanted to avoid cross-subsidies, they were the only platform, they were worried about discrimination.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1437.427" stopTime="1446.877">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1437.427" offset="5749656">So is that really the nub of the difference?</text>
+            <text syncTime="1439.854" offset="5759373">It's Congress that is requiring them to do it separately, and Congress doesn't have a comparable requirement with respect to cable.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1446.877" stopTime="1465.080">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1446.877" offset="5787481">I would... I read the statute this way.</text>
+            <text syncTime="1448.776" offset="5795004">Congress takes the world as it comes.</text>
+            <text syncTime="1451.208" offset="5804826">If you are providing it as a common carrier, then you fall within... you're providing it separately... then you fall within the definition of "telecommunications service".</text>
+            <text syncTime="1459.902" offset="5839517">The DSL guys are.</text>
+            <text syncTime="1461.197" offset="5844741">If you are not, and we are not, then you don't fall within--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1465.080" stopTime="1466.094">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1465.080" offset="5860310">Yeah, but that begs the question.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1466.094" stopTime="1466.627">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1466.094" offset="5864281">--Your Honor, I--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1466.627" stopTime="1469.245">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1466.627" offset="5866475">It begs the question.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1469.245" stopTime="1568.842">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1469.245" offset="5876924">--It just says that it's for someone else to decide the second prong of the NARUC test, which is, Should you be compelled?</text>
+            <text syncTime="1554.353" offset="6217352">Okay?</text>
+            <text syncTime="1477.757" offset="5910988">The Congress doesn't decide that.</text>
+            <text syncTime="1478.897" offset="5915585">It's crazy to think that Congress decided, forever and ever and ever, that everybody who came in would be a common carrier, no matter what the market looked like.</text>
+            <text syncTime="1485.270" offset="5940976">Congress, instead, took the world as it came, and it relies on the FCC to decide whether you should be compelled, under the second prong of NARUC, to be a common carrier.</text>
+            <text syncTime="1493.488" offset="5973891">They have declined, in this case, to extend that to us.</text>
+            <text syncTime="1496.384" offset="5985489">That, I would say, is... you know, that's entitled to the utmost deference.</text>
+            <text syncTime="1500.160" offset="6000640">It's a... deciding not to extend their own rules.</text>
+            <text syncTime="1502.518" offset="6010044">And there are perfectly fine reasons for that.</text>
+            <text syncTime="1504.517" offset="6017985">The reasons that pushed them to do it in 1980 to the telephone companies, about cross-subsidies, have no application to us.</text>
+            <text syncTime="1510.837" offset="6043272">And the discrimination justifications back then, when there was only one platform, had no application to us.</text>
+            <text syncTime="1516.292" offset="6065110">Now, you may say, Is this an odd result that it comes out differently at the end?</text>
+            <text syncTime="1519.902" offset="6079530">Well, it is, and it is being dealt with.</text>
+            <text syncTime="1522.594" offset="6090292">The FCC is in the process of reconsidering, in the wireline order, Wireline NPRM, whether it still makes sense to use Computer II to impose a common-carrier obligation, an obligation to do it separately, to provide the communications separately, on the telephone companies.</text>
+            <text syncTime="1538.759" offset="6154971">If they decide that no longer is the case and that they don't have to provide it separately, and the telephone companies stop doing that, they will no longer fall within the definition of "telecommunications service" under the statute.</text>
+            <text syncTime="1550.594" offset="6202305">In other words, the statute asks, What are you, in fact, doing?</text>
+            <text syncTime="1555.383" offset="6221531">There are two ways you could be providing it separately: if you choose to it or if you're forced to do it.</text>
+            <text syncTime="1559.724" offset="6238877">We've done neither.</text>
+            <text syncTime="1561.041" offset="6244101">The telephone companies have been forced to do it.</text>
+            <text syncTime="1563.478" offset="6253819">Congress has... and they've decided we shouldn't be forced to do it, and they're entitled to deference on that.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1568.842" stopTime="1577.338">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1568.842" offset="6275344">Basically, you're saying interstitial lawmaking, like other kinds of lawmaking, can be reasonable without being absolutely consistent at a given moment.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1577.338" stopTime="1578.016">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1577.338" offset="6309303">Correct, Your Honor.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1578.016" stopTime="1585.851">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1578.016" offset="6312020">--That still doesn't explain... it still doesn't explain, to my satisfaction, why it becomes a different product--</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1585.851" stopTime="1587.659">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1585.851" offset="6343367">Okay, let me try--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1587.659" stopTime="1593.536">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1587.659" offset="6350576">--a different product when you're selling it separately, and it is not a different product when you're not selling it separately.</text>
+            <text syncTime="1593.386" offset="6373460">I mean--</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1593.536" stopTime="1621.577">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1593.536" offset="6374087">--Because, Your Honor, it's whether the words "offering telecommunications" are ambiguous.</text>
+            <text syncTime="1597.600" offset="6390387">If I... if I bake cakes, and someone was to say,</text>
+            <text syncTime="1601.418" offset="6405642">"If you offer cakes, you don't offer butter. "</text>
+            <text syncTime="1603.797" offset="6415151">there's nothing in the English language, Justice Scalia, that makes that unreasonable, that a person who offers cakes to the public does not offer butter to the public.</text>
+            <text syncTime="1613.125" offset="6452454">And if you believe that example is correct, then you have to uphold the FCC, because what it says is, the offer of the final product is not offering, to the public, the ingredient.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1621.577" stopTime="1623.679">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1621.577" offset="6486204">--Unless you also sell butter.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1623.679" stopTime="1625.391">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1623.679" offset="6494668">Separately.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1625.391" stopTime="1626.036">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1625.391" offset="6501564">If you sell butter--</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1626.036" stopTime="1626.451">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1626.036" offset="6504072">Separately.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1626.451" stopTime="1627.890">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1626.451" offset="6505744">--separately, then when you sell a cake--</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1627.890" stopTime="1628.018">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1627.890" offset="6511491">But, Your Honor--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1628.018" stopTime="1628.855">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1628.018" offset="6512013">--you're selling butter.</text>
+          </turn>
+          <turn speaker="paul_t_cappuccio" startTime="1628.855" stopTime="1629.900">
+            <label>Mr. Paul T. Cappuccio</label>
+            <text syncTime="1628.855" offset="6515357">--The ILECs do, we don't.</text>
+          </turn>
+        </section>
+        <section startTime="1629.900" stopTime="3169.807" revised="2014-02-01">
+          <heading>Argument of Thomas C. Goldstein</heading>
+          <turn speaker="william_h_rehnquist" startTime="1629.900" stopTime="1634.998">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1629.900" offset="6519536">Thank you, Mr. Cappuccio.</text>
+            <text syncTime="1632.342" offset="6529358">Mr. Goldstein, we'll hear from you.</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="1634.998" stopTime="1954.199">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="1634.998" offset="6539912">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1643.798" offset="6575125">The Court will want to have handy, I think, the red brief of the Respondents Earthlink, et al., because I will repeatedly take you to the text of the statute, which is reproduced at the appendix to that brief.</text>
+            <text syncTime="1656.507" offset="6626011">Mr. Chief Justice, cable modem service refers to the bundled sale, purely for marketing reasons, of two different things: highspeed telecommunications over cable wires, and computer software, like e-mail, that you can access over that highspeed telecommunications.</text>
+            <text syncTime="1675.654" offset="6702602">The Commission admits... and it is a critical admission... that the standalone sale of the telecommunications piece is a telecommunications service, notwithstanding that it is on cable wires rather than telephone wires.</text>
+            <text syncTime="1690.086" offset="6760281">The Ninth Circuit correctly held that it makes no difference that cable companies market the telecommunications with e-mail and the like.</text>
+            <text syncTime="1698.166" offset="6792568">Congress cannot have intended to empower carriers to deregulate themselves through the nicety of adding some further feature to their common carriage.</text>
+            <text syncTime="1709.292" offset="6837081">And I think we can demonstrate that through the text of the statute.</text>
+            <text syncTime="1712.406" offset="6849620">I'd like to take you to two provisions at the outset.</text>
+            <text syncTime="1715.143" offset="6860487">The first one is on 2a of the appendix, and it goes, Justice Souter, to the question of whether there's some difference that Congress has adopted between telephone wires and cable wires.</text>
+            <text syncTime="1726.240" offset="6904895">And the answer to that question is, no.</text>
+            <text syncTime="1728.054" offset="6912209">Subparagraph 46, the definition of "telecommunications service", this is the provision that leads to common-carrier regulation.</text>
+            <text syncTime="1737.430" offset="6949616">The term "telecommunications service" means</text>
+            <text syncTime="1740.011" offset="6959961">"the offering of telecommunications for a fee directly to the public or to such classes of users as to be effectively available directly to the public. "</text>
+            <text syncTime="1748.863" offset="6995383">--and here is the critical clause... "regardless of the facilities used".</text>
+            <text syncTime="1753.098" offset="7012310">Congress made quite clear it was not drawing any distinction based on cable wire versus telephone.</text>
+            <text syncTime="1758.874" offset="7035402">I'd like to point you to two other provisions.</text>
+            <text syncTime="1761.113" offset="7044389">They are not reproduced, because they're in the cable... separate cable provisions, but they will be relevant to your question.</text>
+            <text syncTime="1766.628" offset="7066436">That is 47 USC 541(d) and 522.</text>
+            <text syncTime="1771.593" offset="7086289">Those specifically contemplate that cable companies will be common carriers.</text>
+            <text syncTime="1775.455" offset="7101753">Now, that's the answer to the question, Is there a difference between a cable wire and a telephone wire?</text>
+            <text syncTime="1779.332" offset="7117322">Let me now step back to what the FCC said in its ruling.</text>
+            <text syncTime="1783.246" offset="7132891">The FCC backed into its decision here, and it will turn on the definition of 1a of the appendix.</text>
+            <text syncTime="1790.877" offset="7163507">It said this.</text>
+            <text syncTime="1791.629" offset="7166433">Look, cable modem service fits within the definition of an "information service".</text>
+            <text syncTime="1796.114" offset="7184405">It's this bundled thing.</text>
+            <text syncTime="1797.250" offset="7188898">And we construe the definition of an "information service" to be mutually exclusive of a telecommunications service.</text>
+            <text syncTime="1804.236" offset="7216901">And that is legal error.</text>
+            <text syncTime="1805.606" offset="7222335">And let me take you through the definition.</text>
+            <text syncTime="1807.522" offset="7230067">Subparagraph 20, information service.</text>
+            <text syncTime="1810.908" offset="7243546">The term "information service" means the offering of a capability for, in a variety of things... generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information... via telecommunications.</text>
+            <text syncTime="1824.082" offset="7296313">That is not language of exclusivity; it is language of dependence.</text>
+            <text syncTime="1827.393" offset="7309479">There has to be telecommunications involved.</text>
+            <text syncTime="1829.468" offset="7317838">If you all came to the court today via car, or I came via metro, there was a car or a train involved.</text>
+            <text syncTime="1835.648" offset="7342498">Now, I want to contrast that with another series of statutory provisions.</text>
+            <text syncTime="1839.185" offset="7356709">And what these provisions do is demonstrate, beyond peradventure, that Congress address the problem you are now facing.</text>
+            <text syncTime="1845.712" offset="7382831">It said,</text>
+            <text syncTime="1846.059" offset="7384189">"We recognize that there are definitional provisions that might otherwise fall within the definition of "common carriage". " And if we don't want it to be a common carrier, we will tell you expressly.</text>
+            <text syncTime="1857.445" offset="7429747">There are four of them.</text>
+            <text syncTime="1858.634" offset="7434449">They are reproduced.</text>
+            <text syncTime="1859.696" offset="7438733">Again at 1A, the definition of a "common carrier".</text>
+            <text syncTime="1863.328" offset="7453257">It's the exclusion that appears at the bottom of the definition, three lines from the bottom,</text>
+            <text syncTime="1868.618" offset="7474469">"But a person engaged in radio broadcasting shall not, insofar as such person is so engaged, be deemed a common carrier. "</text>
+            <text syncTime="1876.133" offset="7504457">There's nothing like that for "information services".</text>
+            <text syncTime="1878.565" offset="7514175">There's going to be one specific table that I think will be particularly illustrative.</text>
+            <text syncTime="1882.256" offset="7529012">The next one, the definition of a "telecommunications carrier".</text>
+            <text syncTime="1885.648" offset="7542491">It's at 2a.</text>
+            <text syncTime="1886.719" offset="7546776">There's a specific exclusion.</text>
+            <text syncTime="1888.884" offset="7555448">Telecommunications carrier, these are the people that are common carriers.</text>
+            <text syncTime="1892.208" offset="7568823">The term "telecommunications carrier" means</text>
+            <text syncTime="1895.375" offset="7581466">"any provider of telecommunications services except. "</text>
+            <text syncTime="1898.302" offset="7593169">--so Congress drew this out...</text>
+            <text syncTime="1899.929" offset="7599647">"except that such term does not include aggregators of telecommunications services. "</text>
+            <text syncTime="1904.569" offset="7618247">The next two, and they are the final two, are at 8a, one that deals with private mobile services... it's denoted subparagraph 2...</text>
+            <text syncTime="1914.045" offset="7656176">"A person engaged in the provision of a service that is a private mobile service shall not, insofar as such person is so engaged, be treated as a common carrier for any purposes under this Act. "</text>
+            <text syncTime="1925.043" offset="7700167">There's a definitional category of "private mobile service".</text>
+            <text syncTime="1927.362" offset="7709362">We don't want it to be common carriage.</text>
+            <text syncTime="1928.931" offset="7715631">And the final one is the cable one, and I think it's very illustrative... right below that, subparagraph c...</text>
+            <text syncTime="1934.883" offset="7739455">"Any cable system shall not be subject to regulation as a common carrier or utility by reason of providing any cable service. "</text>
+            <text syncTime="1942.856" offset="7771324">Nothing at all about an information service.</text>
+            <text syncTime="1945.256" offset="7780937">Justice Scalia, you are quite right, this is a case about a statute, and the language has none of the indications that the Commission is relying on here.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1954.199" stopTime="2022.882">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1954.199" offset="7816777">Well, it does have this, that what... if you look at the definition of "telecommunications", it means</text>
+            <text syncTime="1962.263" offset="7848960">"transmitting information without change in the form or content of the information. "</text>
+            <text syncTime="1967.719" offset="7870798">Now, in respect to some of their services... not, maybe, a lot, but in response to some... they certainly change the content and the form.</text>
+            <text syncTime="1976.956" offset="7907788">E-mail, for example, does.</text>
+            <text syncTime="1979.143" offset="7916565">And there are a number of others that do.</text>
+            <text syncTime="1981.719" offset="7926805">So the language, says the FCC... I look to "telecommunications service".</text>
+            <text syncTime="1987.186" offset="7948643">They provide telecommunications service sometimes, and sometimes this other thing, as well, and it's all bundled.</text>
+            <text syncTime="1994.290" offset="7977064">And we read the word "offering" to mean "offering separately".</text>
+            <text syncTime="1999.346" offset="7997336">And so, therefore, a person who offers only a bundled service is not a person who's offering a telecommunications service.</text>
+            <text syncTime="2006.940" offset="8027742">That's how I read it, as trying to understand their argument.</text>
+            <text syncTime="2010.898" offset="8043520">And it seemed to me that argument is logical, and it fits the language.</text>
+            <text syncTime="2016.274" offset="8065045">Now, why is it... are... do you agree that it is logical and fits the language, and at least get them that far, or not?</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2022.882" stopTime="2023.234">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2022.882" offset="8091481">No.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2023.234" stopTime="2023.756">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2023.234" offset="8092839">No.</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2023.756" stopTime="2042.662">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2023.756" offset="8094929">All right, let me take you through both parts.</text>
+            <text syncTime="2025.638" offset="8102452">Telecommunications... we're going to talk about the definition of "telecommunications" and what it is to "offer".</text>
+            <text syncTime="2030.395" offset="8121574">They are wrong in suggesting that there is not telecommunications here, and I can prove it two ways.</text>
+            <text syncTime="2035.808" offset="8143203">The first is, remember, "telecommunications" is the phrase in the definition of "information service", as well.</text>
+            <text syncTime="2041.814" offset="8167236">Let me take you back to it.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2042.662" stopTime="2043.366">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2042.662" offset="8170580">xxx--</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2043.366" stopTime="2061.472">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2043.366" offset="8173401">1a.</text>
+            <text syncTime="2047.179" offset="8188656">The term "information service" means</text>
+            <text syncTime="2048.826" offset="8195239">"the offering of a capability for xxx via telecommunications. "</text>
+            <text syncTime="2053.397" offset="8213525">They're categorizing this thing as an information service, so they have to be acknowledging there's telecommunications involved.</text>
+            <text syncTime="2058.859" offset="8235363">So, obviously, cable modem service--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2061.472" stopTime="2096.239">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2061.472" offset="8245812">No, no, but they're saying if telecommunications and something else is involved, and that's what you offer, you are not offering a telecommunications service.</text>
+            <text syncTime="2072.308" offset="8289176">That's their definition of "offer", as "offer telecommunications service separately".</text>
+            <text syncTime="2078.138" offset="8312477">It would be obvious, for example, if you service were by phone, to connect with the Library of Congress and you owned the Library of Congress, as well as owning the dedicated line.</text>
+            <text syncTime="2089.775" offset="8359079">Then what you're doing is selling information across the line.</text>
+            <text syncTime="2093.373" offset="8373394">So they say that's what they're doing, but just not as much.</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2096.239" stopTime="2352.611">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2096.239" offset="8384888">--Let me explain why I answered them separately.</text>
+            <text syncTime="2098.036" offset="8392098">Because the Commission's argument... if this... Chenery... you have to review a Commission decision... the Commission's argument was that there was no telecommunications involved.</text>
+            <text syncTime="2106.900" offset="8427520">This is a different argument from the fact that there is no offering.</text>
+            <text syncTime="2109.604" offset="8438387">That appears in the Solicitor General's reply brief.</text>
+            <text syncTime="2111.705" offset="8446746">So I wanted to bracket, set aside.</text>
+            <text syncTime="2112.957" offset="8451762">It says,</text>
+            <text syncTime="2113.298" offset="8453120">"That can't be right. "</text>
+            <text syncTime="2114.125" offset="8456464">"The Commission is ruling based on a pure legal error. "</text>
+            <text syncTime="2116.423" offset="8465659">Let me turn to "offering".</text>
+            <text syncTime="2117.526" offset="8470047">We're the only ones that have provided a straightforward dictionary definition of "offering".</text>
+            <text syncTime="2121.617" offset="8486452">An "offering" is to make something available.</text>
+            <text syncTime="2124.023" offset="8496065">And you say,</text>
+            <text syncTime="2124.508" offset="8497946">"All right, is the bundle making available the telecommunications? "</text>
+            <text syncTime="2129.772" offset="8519053">The answer to that question is, yes.</text>
+            <text syncTime="2131.740" offset="8526890">At the very least, it's yes in the context of this statute, which is a common-carriage statute.</text>
+            <text syncTime="2137.313" offset="8549251">Imagine the following hypotheticals, Justice Breyer.</text>
+            <text syncTime="2139.889" offset="8559491">Pick any form of common carriage you want.</text>
+            <text syncTime="2141.542" offset="8566073">If someone said,</text>
+            <text syncTime="2142.156" offset="8568581">"I'm not just giving you the railroad bridge, but I'm also selling you... you have to buy from me the train that's running on it and the grain that's in the train. "</text>
+            <text syncTime="2149.639" offset="8598465">You couldn't avoid common carriage by forcing your customers to buy the unified package together.</text>
+            <text syncTime="2155.794" offset="8623125">The second point is that, remember, the great, great, great majority of communications have nothing to do with their information services.</text>
+            <text syncTime="2176.775" offset="8707030">I have cable modem service.</text>
+            <text syncTime="2165.698" offset="8662727">Lots of people do.</text>
+            <text syncTime="2166.604" offset="8666384">What do I do?</text>
+            <text syncTime="2167.383" offset="8669518">I get up in the morning, and I go to [newyorktimesDOTcom,] I go to [supremecourtusDOTgov.]</text>
+            <text syncTime="2171.543" offset="8686132">You'll be pleased.</text>
+            <text syncTime="2171.969" offset="8687804">I--</text>
+            <text syncTime="2172.690" offset="8690730">[Laughter]</text>
+            <text syncTime="2174.012" offset="8695954">And that has nothing to do with what they're offering.</text>
+            <text syncTime="2178.055" offset="8712150">I don't use the e-mail program that's offered to me by Star Power.</text>
+            <text syncTime="2181.778" offset="8727092">I have my own e-mail program.</text>
+            <text syncTime="2183.319" offset="8733257">It's true, they've given me some extra stuff, but one thing that you know for sure is that doesn't deny that they have given me, fundamentally, the capability to send the information back and forth.</text>
+            <text syncTime="2195.179" offset="8780696">Nothing changes.</text>
+            <text syncTime="2195.932" offset="8783726">And I can illustrate this for you.</text>
+            <text syncTime="2197.457" offset="8789786">Remember the concession that I started with.</text>
+            <text syncTime="2199.659" offset="8798563">They admit that if they sell it alone, then that's a telecommunications service.</text>
+            <text syncTime="2203.958" offset="8815804">They say it makes it different... a difference that you market them together.</text>
+            <text syncTime="2206.540" offset="8826149">But if I get one bill for that or two bills for that, it works just the same.</text>
+            <text syncTime="2211.750" offset="8846942">I send the information back and forth, over and over again.</text>
+            <text syncTime="2215.174" offset="8860630">There is absolutely no difference.</text>
+            <text syncTime="2216.817" offset="8867213">Now, Justice Souter, I want to come back to history, because that's... seems to me the leg that they hope that they have to stand on.</text>
+            <text syncTime="2222.598" offset="8890305">I certainly don't think they have a textual leg to stand on.</text>
+            <text syncTime="2225.382" offset="8901486">Let me make some points about the history.</text>
+            <text syncTime="2227.217" offset="8908800">The context for this is the Computer Inquiries and the modified final judgement under AT&amp;T, and they are simply misdescribing the history.</text>
+            <text syncTime="2236.790" offset="8947148">And I will take you to the actual quotes for what happened.</text>
+            <text syncTime="2239.770" offset="8959060">First, let me take you to the definition of a 23 of our brief.</text>
+            <text syncTime="2251.823" offset="9007229">And the point I'm going to make through this is... what the Commission said over and over and over again under the Computer Inquiries... is this, if you have a telecommunications piece, we're going to call it a "basic service".</text>
+            <text syncTime="2263.241" offset="9052891">If you add information processing on top of that, we're going to call the whole thing an "enhanced service".</text>
+            <text syncTime="2268.451" offset="9073789">So far, everybody's on the same page.</text>
+            <text syncTime="2270.386" offset="9081522">But the piece that they're leaving out is that they made different decisions, policy decisions, Justice Scalia, about how, ultimately, to regulate them, but the definition never changed.</text>
+            <text syncTime="2280.241" offset="9120914">If you added the enhancement on it, just like you add the e-mail on top of it, you still had the basic service.</text>
+            <text syncTime="2286.150" offset="9144529">So here's the quote.</text>
+            <text syncTime="2287.003" offset="9147977">It's at 23 of our brief.</text>
+            <text syncTime="2288.368" offset="9153411">"We find that basic service is limited to the common-carrier offering. "</text>
+            <text syncTime="2293.403" offset="9173577">--they're picking... Congress is picking up precisely the words in the Computer Inquiries...</text>
+            <text syncTime="2296.235" offset="9184862">"of transmission capacity for the movement of information; whereas, enhanced service combines basic service with computer-processing applications. "</text>
+            <text syncTime="2305.163" offset="9220598">The basic service remained.</text>
+            <text syncTime="2307.077" offset="9228225">And then the Commission and the D.C. Circuit confronted just the problem you are.</text>
+            <text syncTime="2311.694" offset="9246720">What happened is that providers, under the Computer Inquiries and under the modified final judgement, tried to combine the two things and say, "We're no longer regulated".</text>
+            <text syncTime="2320.175" offset="9280679">They said,</text>
+            <text syncTime="2320.666" offset="9282664">"Yeah, I know we had telecommunications, but now we want to add something onto it. "</text>
+            <text syncTime="2324.788" offset="9299069">And I can take you to what the courts said and what the Commission said, and that is at pages 24 to 25.</text>
+            <text syncTime="2330.456" offset="9321744">And I think it's exactly what Congress would think if it were confronted with this problem under the plain definitions.</text>
+            <text syncTime="2335.816" offset="9343164">The second block quote on 24.</text>
+            <text syncTime="2338.179" offset="9352673">This is when the Commission was confronted with this problem.</text>
+            <text syncTime="2340.889" offset="9363540">It said that the argument that they're accepting now would allow circumvention of the Computer II and Computer III basic enhanced framework.</text>
+            <text syncTime="2348.121" offset="9392483">AT&amp;T would be able to avoid Computer II and Computer III, unbundling--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2352.611" stopTime="2356.820">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2352.611" offset="9410351">Well, can't the Commission change its mind, Mr. Goldstein?</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2356.820" stopTime="2377.022">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2356.820" offset="9427278">--Mr. Chief Justice, on this question, the answer is, no, because Mr. Hungar has conceded, and the Commission conceded below, that Congress was adopting a definitional framework.</text>
+            <text syncTime="2365.587" offset="9462282">I agree, Mr. Chief Justice, that the Commission can change its policy judgement about how it wants to regulate within the definitional framework that Congress adopted.</text>
+            <text syncTime="2374.782" offset="9499063">So you've pointed me to a critical point, and that is to reinforce--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2377.022" stopTime="2380.568">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2377.022" offset="9508049">Well, I'm glad I did.</text>
+            <text syncTime="2378.457" offset="9513796">[Laughter]</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2380.568" stopTime="2470.828">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2380.568" offset="9522260">--and that is to reinforce this.</text>
+            <text syncTime="2382.168" offset="9528633">Our position is that the Computer Inquiries and the AT&amp;T MFJ had definitions: What's a basic service?</text>
+            <text syncTime="2387.998" offset="9551935">What's an enhanced service?</text>
+            <text syncTime="2388.995" offset="9555905">Congress adopted those for the purposes of the definition of a "telecommunications service" and an "information service".</text>
+            <text syncTime="2395.042" offset="9580147">Now, you can make policy judgements about how to regulate, although you're going to have to do it under the forbearance regime adopted in a response to Justice Scalia's opinion for the Court in MCI.</text>
+            <text syncTime="2404.306" offset="9617136">But, nonetheless, the definitions are what they are.</text>
+            <text syncTime="2406.915" offset="9627585">This is a statute that's being interpreted.</text>
+            <text syncTime="2408.610" offset="9634377">So, let me come back.</text>
+            <text syncTime="2409.747" offset="9638975">So, what did the Commission say under those definitions?</text>
+            <text syncTime="2412.136" offset="9648483">AT&amp;T would be able to avoid Computer II and Computer III unbundling and tariff requirements for any basic service that it could combine with an enhanced service.</text>
+            <text syncTime="2420.808" offset="9683174">You know, we've got the telecommunications, like we're going to tack e-mail onto it.</text>
+            <text syncTime="2423.933" offset="9695713">This is obviously an undesirable and unintended result.</text>
+            <text syncTime="2427.517" offset="9710028">The D.C. Circuit, faced with precisely the same question under the framework that Congress intended to adopt, that is on the next page, on page 25, right below the block quote.</text>
+            <text syncTime="2437.596" offset="9750361">The block quote sets up the problem.</text>
+            <text syncTime="2438.908" offset="9755585">The D.C. Circuit, however, rejected that conclusion, the one that's being proposed here by the Commission, as a strained interpretation of the language of the decree that could not have been intended because it would allow the BOCs to, quote, "create an enormous loophole" in the core restriction of the decree.</text>
+            <text syncTime="2452.786" offset="9811069">So, Justice O'Connor, this comes back to your point in the first half of the argument, and that is, it becomes completely circular.</text>
+            <text syncTime="2459.527" offset="9838028">If the point is that you will only be subject to common-carrier regulation when you decide to provide telecommunications service, nobody ever will.</text>
+            <text syncTime="2469.036" offset="9876062">Everybody will always bundle.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2470.828" stopTime="2491.435">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2470.828" offset="9883272">--No, but they say we have the authority, if they... if there is a bundled service, by looking at the competitive necessity, market power, the need to protect consumers, to insist that an offeror of bundled service split the bundle and then be regulated.</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2491.435" stopTime="2495.168">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2491.435" offset="9965714">I agree.</text>
+            <text syncTime="2492.320" offset="9969267">There are five xxx where the Solicitor General, sort of, pulls the ripcord here.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2495.168" stopTime="2495.460">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2495.168" offset="9980656">Yeah.</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2495.460" stopTime="2509.144">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2495.460" offset="9981806">First, they have a Chenery problem; and that is, this doesn't appear anywhere in the Commission's ruling.</text>
+            <text syncTime="2500.717" offset="10002808">What they said in the Commission's ruling is that they could take a Title I information service and regulate it as common carriage.</text>
+            <text syncTime="2506.739" offset="10026945">This is an entirely different animal.</text>
+            <text syncTime="2508.723" offset="10034887">This is--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2509.144" stopTime="2526.226">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2509.144" offset="10036558">No, but they're replying to your argument, and they're saying it's really not right that this means no regulation.</text>
+            <text syncTime="2516.039" offset="10064144">And the reason it means no regulation is because they've long had the authority to do this, and then they cite some references where that is pretty much what the Commission said.</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2526.226" stopTime="2544.242">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2526.226" offset="10104895">--I still this is covered by Chenery, but let's go to that.</text>
+            <text syncTime="2528.765" offset="10115030">And so, here's the proposition.</text>
+            <text syncTime="2530.034" offset="10120046">The proposition is that the Commission has the untethered authority to force someone to provide a telecommunications service.</text>
+            <text syncTime="2537.079" offset="10148258">And my question back to the other side is, Where in the world in the statute is that?</text>
+            <text syncTime="2541.303" offset="10165185">There is no textural foundation for it whatsoever.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2544.242" stopTime="2551.297">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2544.242" offset="10176888">Well, if you take them as having a broad... if you take the statute as throwing this whole problem in the lap of the Commission--</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2551.297" stopTime="2551.734">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2551.297" offset="10205100">Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2551.734" stopTime="2584.960">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2551.734" offset="10206877">--and then you say they have authority, broadly, to interpret this term "offer", they could give functional reasons, as in some circumstances, to interpret the word "offer" to mean "offer telecommunications separately", and, in other circumstances, because they're functional differences, to take a different position.</text>
+            <text syncTime="2574.614" offset="10298410">Now, either they do or they don't.</text>
+            <text syncTime="2576.624" offset="10306456">If they don't, they're being inconsistent, and that's the subject of a different legal proceeding.</text>
+            <text syncTime="2582.571" offset="10330279">If they do, so be it.</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2584.960" stopTime="2774.623">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2584.960" offset="10339788">Let me deal with the premise that Congress threw this into the lap of the FCC, and also how it is they propose to deal with it, on that assumption.</text>
+            <text syncTime="2592.821" offset="10371239">The answer is, they did not throw it into the lap of the FCC.</text>
+            <text syncTime="2595.664" offset="10382629">The '96 Act enacted these definitions, which are very carefully calibrated, for which there is no text... textual support.</text>
+            <text syncTime="2603.113" offset="10412408">I will come back to "offering".</text>
+            <text syncTime="2604.052" offset="10416170">But Congress did enact a specific provision in MCI versus AT&amp;T. It addressed not only the concern of the majority, but also the concerns of the dissenters, that the Commission needed some flexibility.</text>
+            <text syncTime="2615.226" offset="10460891">And it told the Commission how to address this problem.</text>
+            <text syncTime="2618.217" offset="10472803">It said, in the forbearance procedures,</text>
+            <text syncTime="2621.747" offset="10486909">"Here are the rules that you will apply in deciding to lift regulation. "</text>
+            <text syncTime="2627.261" offset="10508957">They're quite detailed.</text>
+            <text syncTime="2628.302" offset="10513136">They're... now, let me take you to them again... they're at the end of our... I'm sorry, they are at... in our appendix, at 3a.</text>
+            <text syncTime="2640.408" offset="10561620">This is what Congress said.</text>
+            <text syncTime="2642.386" offset="10569456">Congress said,</text>
+            <text syncTime="2643.011" offset="10571964">"We recognize the Commission needs some flexibility, but there are going to be rules, and there are going to be rules so courts can, for example, review, later on, whether or not you're actually applying what we... doing what you want... what we wanted you to do. "</text>
+            <text syncTime="2655.468" offset="10621806">And here's what the Commission has to do, according to Congress.</text>
+            <text syncTime="2658.406" offset="10633613">And it's what the Commission did not do here.</text>
+            <text syncTime="2660.432" offset="10641659">I'm going to start with the indented paragraphs, 1, 2, and 3, and then subparagraph b.</text>
+            <text syncTime="2666.427" offset="10665691">It told the Commission to look at whether or not the former regulation is not necessary to ensure that the charges... and skipping again... are just and reasonable and are not unjustly or unreasonably discriminatory.</text>
+            <text syncTime="2677.105" offset="10708323">Paragraph 2, they have to make sure it's not necessary for the protection of consumers, that it's in the public interest, and that the competitive effects will be positive rather than negative.</text>
+            <text syncTime="2686.064" offset="10744163">The Commission did none of this, notwithstanding that Congress specifically directed them to.</text>
+            <text syncTime="2690.480" offset="10761822">Now, let me then turn to the question of whether or not this is a reasonable interpretation of "offering".</text>
+            <text syncTime="2695.151" offset="10780526">Now, in different contexts, I admit, it's conceivable to come up with different meanings of "offerings", but this is a context, and I think if you take any example where Congress actually... I've given you the common carrier.</text>
+            <text syncTime="2708.169" offset="10832666">I don't think the railroad could ever get away with saying it.</text>
+            <text syncTime="2710.472" offset="10841861">I gave you the examples of the Computer Inquiries and the AT&amp;T MFJ, which are on point.</text>
+            <text syncTime="2714.974" offset="10859833">But take anything that Congress regulates.</text>
+            <text syncTime="2716.968" offset="10867775">Take, for example, the fact that we regulate offering of cigarettes to children.</text>
+            <text syncTime="2720.812" offset="10883239">Now, a merchandiser couldn't come along and say,</text>
+            <text syncTime="2722.679" offset="10890658">"I'm not offering cigarettes. "</text>
+            <text syncTime="2723.837" offset="10895256">"What I've done is, I've created a smoking service. "</text>
+            <text syncTime="2725.980" offset="10903824">"I've taken the cigarettes, and I've put a lighter in it, and you've just got one bill that you have to pay for it. "</text>
+            <text syncTime="2730.434" offset="10921691">The idea that that would evade what Congress is concerned about is loopy.</text>
+            <text syncTime="2734.509" offset="10937992">Think about what Congress is concerned about with common-carriage regulations.</text>
+            <text syncTime="2737.831" offset="10951262">There are three principal consequences to being a telecommunications service.</text>
+            <text syncTime="2741.469" offset="10965786">And imagine if any of them changed a whit, except to favor us, when you bundle the e-mail with it.</text>
+            <text syncTime="2747.026" offset="10988042">First, nondiscrimination.</text>
+            <text syncTime="2748.508" offset="10993998">Would Congress want you to have to charge just and reasonable rates to a competitor any less when you're selling e-mail with the telecommunications than the telecommunications alone?</text>
+            <text syncTime="2759.943" offset="11039765">No.</text>
+            <text syncTime="2760.860" offset="11043422">Interconnection.</text>
+            <text syncTime="2761.878" offset="11047497">Would Congress want a cable modem service network to be less interconnected with all the other networks simply because it has e-mail or a Web browser on it?</text>
+            <text syncTime="2770.363" offset="11081352">I don't know why, I suppose Congress would want to be more sure, because there are more messages.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2774.623" stopTime="2780.526">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2774.623" offset="11098488">But the Congress apparently wanted to go in the direction of deregulation here.</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2780.526" stopTime="2791.598">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2780.526" offset="11122103">Yes, Mr. Chief Justice, it's a fair point, and it is basically... aside for the, sort of, nod at history, it... Mr. Hungar started with that.</text>
+            <text syncTime="2788.078" offset="11152300">And our point is that Congress told them how to deregulate, and that--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2791.598" stopTime="2818.378">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2791.598" offset="11166302">Well, what about Congress thinking, quite honestly, if they... people do think about it.</text>
+            <text syncTime="2796.861" offset="11187409">I have no idea how broadband service will be provided 20 years from now.</text>
+            <text syncTime="2801.105" offset="11204336">There may be a thousand competitors.</text>
+            <text syncTime="2803.111" offset="11212382">There may be wireless.</text>
+            <text syncTime="2804.050" offset="11216144">People may be broadcasting it through their teeth.</text>
+            <text syncTime="2806.711" offset="11226802">I don't know--</text>
+            <text syncTime="2807.719" offset="11230772">[Laughter]</text>
+            <text syncTime="2807.787" offset="11231086">--what it's going to be.</text>
+            <text syncTime="2808.726" offset="11234847">But since I don't know and have really no idea whether it should or should not be regulated, because I don't know the competitive situation, let's leave it up to the FCC.</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2818.378" stopTime="2821.077">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2818.378" offset="11273509">--It did that, but with a critical concession.</text>
+            <text syncTime="2820.544" offset="11282077">It said--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2821.077" stopTime="2838.703">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2821.077" offset="11284271">It sort of it did that in broadcasting, didn't it?</text>
+            <text syncTime="2822.879" offset="11291481">I guess they could have written it to say that</text>
+            <text syncTime="2825.071" offset="11300258">"the FCC shall regulate common-carrier communications in the public interest, convenience, and necessity. "</text>
+            <text syncTime="2832.708" offset="11330769">which would put the FCC in the same situation with regard to this, as it's in with regard to broadcasting.</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="2838.703" stopTime="3120.715">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="2838.703" offset="11354802">--I think it's a very fair comparison.</text>
+            <text syncTime="2840.894" offset="11363474">But also, Justice Breyer, I think... you know, I think we're all on the same page about what Congress intended, and that is, first of all, Congress was aware of cable modem service.</text>
+            <text syncTime="2848.499" offset="11393985">That's said expressly in the Court's opinion in Gulf Power.</text>
+            <text syncTime="2851.309" offset="11405166">It was emphasized by the cable industry in Gulf Power itself.</text>
+            <text syncTime="2856.476" offset="11425855">There is... there are several statutory provisions that refer to cable companies being common carriage.</text>
+            <text syncTime="2862.055" offset="11448216">But, Justice Breyer, what they said is this,</text>
+            <text syncTime="2863.783" offset="11455112">"We have broad encompassing definitions, and that is, it's not going to make a difference if you combine two things together. "</text>
+            <text syncTime="2868.870" offset="11475383">"But, Commission, you go make those. "</text>
+            <text syncTime="2871.254" offset="11484996">--Justice Breyer, all the findings you're talking about are listed in the section 10 forbearance proceedings.</text>
+            <text syncTime="2876.507" offset="11505998">Now, imagine the world as the Commission sees it.</text>
+            <text syncTime="2878.639" offset="11514462">It says that forbearance applies to telecommunications service.</text>
+            <text syncTime="2882.207" offset="11528777">But when it comes to things that aren't telecommunications service, it's "Katie bar the door".</text>
+            <text syncTime="2886.031" offset="11544033">We don't have any rules.</text>
+            <text syncTime="2887.616" offset="11550407">What kind of logical regulatory scheme is that?</text>
+            <text syncTime="2889.909" offset="11559602">And that is that the Commission is constrained with respect to its expertise.</text>
+            <text syncTime="2894.842" offset="11579350">But things that are information services that are outside telecommunications, it can do whatever it wants.</text>
+            <text syncTime="2900.501" offset="11601920">Justice Breyer, I did want to make one additional point, and that is, again, there is a statutory provision here that addresses their claim that they can force you to provide telecommunications service, and that is the definition of a "telecommunications carrier".</text>
+            <text syncTime="2914.884" offset="11659494">And it is on 2a.</text>
+            <text syncTime="2916.234" offset="11664927">I read the exception, so now I'm dealing with the second sentence of the definition,</text>
+            <text syncTime="2922.239" offset="11688856">"A telecommunications carrier shall be treated as a common carrier under this Act only to the extent that it is engaged in providing telecommunications services. "</text>
+            <text syncTime="2930.420" offset="11721665">This lines up perfectly with this Court's decision in Midwest Video.</text>
+            <text syncTime="2934.697" offset="11738697">There was a constraint on what it... what regulation you could impose on broadcasters.</text>
+            <text syncTime="2938.728" offset="11754893">This one says,</text>
+            <text syncTime="2939.694" offset="11758759">"You are only going to be a common carrier if you're providing a telecommunications service. "</text>
+            <text syncTime="2944.045" offset="11776104">But the FCC has this vision that it can, sort of, solve all the problems through its raw discretion and to force someone to provide common carriage.</text>
+            <text syncTime="2952.471" offset="11809855">But the statute's very clear, if you are not providing a telecommunications service, you are not going to be a telecommunications carrier; and, therefore, you are not going to be providing common carriage.</text>
+            <text syncTime="2962.017" offset="11847993">And, as I've said, I don't understand how it is, even if one looked at this particular context, you could decide that Congress thought the bundle made regulation less regulated... less necessary, rather than more regulated... more necessary.</text>
+            <text syncTime="2975.665" offset="11902642">I want, next, if I could, to talk about the notion that you can self-deregulate, and how utterly implausible this is, how is it that the Commission could imagine that Congress created the following regime.</text>
+            <text syncTime="2990.753" offset="11962932">And that is, if you want to provide common carriage, you'll be subject to this regulation; but if you don't feel like it, well, that's okay.</text>
+            <text syncTime="2998.006" offset="11991980">That will render the definition of "telecommunications service"... if you just want to tack e-mail onto the thing, that will render the definition of "telecommunications service"... in the Internet, you're a dead letter, because who in the world would ever do it?</text>
+            <text syncTime="3010.945" offset="12043703">If it's up to the regulated entity, why in the world would anyone provide common carriage?</text>
+            <text syncTime="3016.305" offset="12065123">I think this has, actually, a remarkable parallel to the Court's decision in the Oneida Indian Nation case, where the Court rejected the suggestion that what you could do is... that it would be up to the Indians to decide whether or not they would be able to get property back.</text>
+            <text syncTime="3030.693" offset="12122697">This is what the Court said,</text>
+            <text syncTime="3031.653" offset="12126563">"If OIN may unilaterally reassert sovereign control and remove those parcels from the local tax rolls, little would prevent the tribe from initiating a new generation of litigation to free the parcels. "</text>
+            <text syncTime="3042.470" offset="12169822">--remember, they're free from all regulation at all...</text>
+            <text syncTime="3044.400" offset="12177554">"free the parcels from land zone... local zoning or other regulatory controls that protect all landowners in the area. "</text>
+            <text syncTime="3049.999" offset="12199915">And then, Justice Ginsburg, the opinion goes on to talk about section 465, which is exactly like section 10 forbearance,</text>
+            <text syncTime="3056.682" offset="12226664">"Recognizing these practical concerns, Congress has provided a mechanism for the acquisition of the lands. "</text>
+            <text syncTime="3062.425" offset="12249652">"The regulations implementing section 465 are sensitive to the complex interjurisdictional concerns that arise when the tribe seeks to retain... regain sovereign control over territory. "</text>
+            <text syncTime="3072.399" offset="12289567">"The Secretary must consider. "</text>
+            <text syncTime="3073.753" offset="12295001">--and it lists a whole series of things.</text>
+            <text syncTime="3075.492" offset="12301897">And the parallel, I think, is exact.</text>
+            <text syncTime="3077.423" offset="12309629">You can't have Congress enacting a scheme that tells you how to do it.</text>
+            <text syncTime="3080.862" offset="12323422">Now, let me return to, then, Mr. Cappuccio's suggestion, Justice Scalia, that this is an ingredient, it's not a product.</text>
+            <text syncTime="3088.280" offset="12353097">The straightforward answer is, there's no mention of ingredients or products in the statute.</text>
+            <text syncTime="3092.259" offset="12368980">It says "telecommunications service".</text>
+            <text syncTime="3094.343" offset="12377339">And the question under the definition of "telecommunications service" is, Are you providing telecommunications?</text>
+            <text syncTime="3098.562" offset="12394162">Yeah, the information's going back and forth.</text>
+            <text syncTime="3100.280" offset="12401058">Is it to the public?</text>
+            <text syncTime="3101.427" offset="12405656">Sure, anybody can buy it.</text>
+            <text syncTime="3102.835" offset="12411298">Is there a fee?</text>
+            <text syncTime="3103.544" offset="12414119">You bet, it's kind of expensive, actually.</text>
+            <text syncTime="3105.101" offset="12420389">And that's all that Congress cared about.</text>
+            <text syncTime="3107.773" offset="12431047">Now, this is not a question of whether or not there's butter in a cake, because you... it... there are two reasons.</text>
+            <text syncTime="3115.116" offset="12460408">The first is, fundamentally, the telecommunications is the same; it hasn't been "cooked" into something else.</text>
+            <text syncTime="3119.670" offset="12478589">And the second--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3120.715" stopTime="3122.581">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3120.715" offset="12482769">There's butter on the cake, not in the cake.</text>
+            <text syncTime="3122.303" offset="12489143">[Laughter]</text>
+          </turn>
+          <turn speaker="thomas_c_goldstein" startTime="3122.581" stopTime="3169.807">
+            <label>Mr. Thomas C. Goldstein</label>
+            <text syncTime="3122.581" offset="12490292">--Right.</text>
+            <text syncTime="3123.045" offset="12492173">The second is, the reason all those hypotheticals are... wheels and cars and those sorts of things... don't make any sense here is that they assume a few things.</text>
+            <text syncTime="3132.132" offset="12528431">The first is, they're assuming a first sale that gets regulated.</text>
+            <text syncTime="3135.295" offset="12541179">Somebody buys the butter, somebody buys the tires and gets regulated.</text>
+            <text syncTime="3139.412" offset="12557584">But under their rules it's never regulated at all.</text>
+            <text syncTime="3142.676" offset="12570645">The telecommunications just, poof, escapes all regulation.</text>
+            <text syncTime="3146.201" offset="12584751">And the second is that, in the car example, it's because there's... the reason it has intuitive appeal is that there's a regulatory scheme about cars.</text>
+            <text syncTime="3152.873" offset="12611396">So Congress has decided how all the inputs will be regulated together.</text>
+            <text syncTime="3156.767" offset="12626965">But, again, remember the consequence of sticking this into the unregulated "information services" box is, it's all gone.</text>
+            <text syncTime="3163.914" offset="12655595">There's no regulation of it whatsoever.</text>
+            <text syncTime="3165.946" offset="12663745">It's just not a scheme that makes any sense.</text>
+            <text syncTime="3168.052" offset="12672104">If there are no further questions--</text>
+          </turn>
+        </section>
+        <section startTime="3169.807" stopTime="3410.991" revised="2014-02-01">
+          <heading>Rebuttal of Thomas G. Hungar</heading>
+          <turn speaker="william_h_rehnquist" startTime="3169.807" stopTime="3174.410">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3169.807" offset="12679210">Thank you, Mr. Goldstein.</text>
+            <text syncTime="3171.961" offset="12687778">Mr. Hungar, you have four minutes left.</text>
+          </turn>
+          <turn speaker="thomas_g_hungar" startTime="3174.410" stopTime="3408.629">
+            <label>Mr. Thomas G. Hungar</label>
+            <text syncTime="3174.410" offset="12697600">Thank you, Mr. Chief Justice.</text>
+            <text syncTime="3179.731" offset="12718916">Turning first to the question of the regulatory history, Respondents continue to rely on the fact that, under Computer II, the FCC required telephone common carriers to separate out and separately offer the basic transmission component.</text>
+            <text syncTime="3195.069" offset="12780251">But, importantly, and what refutes Respondent's attempts to rely on history, Congress did not... excuse me... the FCC did not impose that requirement on enhanced service providers.</text>
+            <text syncTime="3206.418" offset="12825600">There were entities called "value-added networks" that obtained the telecommunications functionality, bundled it together with information servicing protocol conversion-type computer functions, and offered that bundled service as an enhanced service.</text>
+            <text syncTime="3221.852" offset="12887353">And the Commission said, in Computer II,</text>
+            <text syncTime="3223.986" offset="12895922">"That is an unregulated enhanced-service offering, it is not subject to Title II of the Act, because we don't think Congress intended Title II, which is aimed at traditional telephone communications, to deal with this new form of intermingled integrated service. "</text>
+            <text syncTime="3238.748" offset="12954958">It is not regulated, even though it is true that there was a communications component.</text>
+            <text syncTime="3243.063" offset="12972199">And, under Respondent's rationale, that offer or that value-added network should have been required to make it file a tariff and comply with all the regulations of Title II of the Act.</text>
+            <text syncTime="3253.329" offset="13013264">And footnote 5 of our reply brief cites the orders discussing this fact.</text>
+            <text syncTime="3258.459" offset="13033744">And in addition, under Computer II, the Commission required AT&amp;T and, later, the Regional Bell Operating Companies, if they were going to offer enhanced services, to offer them separately through subsidiaries, unregulated subsidiaries, even though they were offering bundles of enhanced service and telecommunications, the telecommunications, which they obtained under tariff from their parent corporation.</text>
+            <text syncTime="3281.323" offset="13125277">But the entire bundled offering was unregulated.</text>
+            <text syncTime="3284.544" offset="13138129">And that's been true for 25 years.</text>
+            <text syncTime="3286.192" offset="13144712">And, again, Congress, in 1996, gave no indication that it was overturning this well-established situation in which enhanced services, now information services, were not regulated.</text>
+            <text syncTime="3296.650" offset="13186508">And to suggest that Congress, in an act that talks about preserving the hands-off approach to the Internet, in fact, regulated all Internet Service Providers in a way that they had never been regulated before, we submit, is certainly an unlikely interpretation of the act, and clearly demonstrates that the FCC was reasonable in rejecting that position.</text>
+            <text syncTime="3316.954" offset="13267801">Justice Breyer, you asked about voicemail or similar type systems that would preserve a message.</text>
+            <text syncTime="3323.316" offset="13293192">If provided by a computer functionality, that service is an information service.</text>
+            <text syncTime="3329.950" offset="13319732">Voicemail is an information service.</text>
+            <text syncTime="3331.550" offset="13326106">But the FCC has at least suggested that voicemail and basic telecommunications... if a telephone company tried to offer it... say,</text>
+            <text syncTime="3341.997" offset="13367902">"We're going to offer this bundled, and we don't think it's regulated. "</text>
+            <text syncTime="3344.578" offset="13378247">telephone companies try that sort of thing from time to time, and then the FCC is faced with a decision, in its discretion, of whether that should be viewed as an integrated offering or, instead, as really two things that have just been added together but aren't really... that are really two distinct services.</text>
+            <text syncTime="3357.846" offset="13431327">And the FCC has suggested, in that context, that telephone service and voicemail service, even if they're bundled together, are two distinct services.</text>
+            <text syncTime="3365.473" offset="13461838">And there's an important difference, I think, between that type of offering and the one here.</text>
+            <text syncTime="3369.296" offset="13477094">You can use your... even if your telephone company offers you voicemail, obviously, you... a lot of your use of the telephone system has nothing to do with the voicemail; it's pure telephony, pure telecommunications; whereas, with cable modem service, every time you use it, essentially, you are utilizing at least some of the data-processing, computer-enhanced functionality that is being provided by your... by your Internet Service Provider... the domain-name system, as we discussed, caching.</text>
+            <text syncTime="3396.447" offset="13585763">For instance, Mr. Goldstein says he goes to [supremecourtusDOTgov] every morning.</text>
+            <text syncTime="3399.583" offset="13598302">I suspect he doesn't actually go to this Court's computer.</text>
+            <text syncTime="3403.364" offset="13613453">He probably gets at least the first page off of the cache, which provided by the ISP.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3408.629" stopTime="3410.991">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3408.629" offset="13634456">Thank you, Mr. Hungar.</text>
+            <text syncTime="3409.780" offset="13639053">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

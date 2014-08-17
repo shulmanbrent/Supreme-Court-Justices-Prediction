@@ -1,0 +1,42 @@
+<transcript verified="true" flagged="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="527464">/xml/cases/1978/77_1575/19790402o_77-1575.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1978/trs/77-1575op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="131.800">
+        <title>Federal Communications Commission v. Midwest Video Corporation</title>
+        <section startTime="0.000" stopTime="131.800" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Byron R. White</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="9.939" flagged="true">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">Mr. Justice White will announce the judgment and opinion of the Court in Federal Communications Commission against Midwest Video Corporation and the consolidated cases.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="9.939" stopTime="128.970">
+            <label>Justice Byron R. White</label>
+            <text syncTime="9.939" offset="39706">This case is here from the Court of Appeals for the Eighth Circuit.</text>
+            <text syncTime="14.576" offset="58201">The case involves the validity of certain regulations issued by the Federal Communications Commission in 1976.</text>
+            <text syncTime="23.860" offset="95399">Under these regulations cable television systems have 3,500 subscribers and carry television signals must develop at least a 20-channel capacity by 1986 and they must make available at least four channels were use by public, educational, local government and leased-access users. And in addition, they must furnish equipment and facilities for such access purposes.</text>
+            <text syncTime="54.781" offset="219115">The Court of Appeals for the Eighth Circuit set aside the regulations as unauthorized by the Communications Act of 1934.</text>
+            <text syncTime="63.042" offset="252134">We affirmed that judgment.</text>
+            <text syncTime="65.177" offset="260702">As we explain in the opinion we have filed, the Commission’s authority for cable casting is ancillary to its power to regulate broadcasters.</text>
+            <text syncTime="74.806" offset="299154">And these regulations could not be validly applied to broadcasting because they would too deeply intrude on the editorial discretion and journalistic freedom that the Act intend to do reserve to broadcast licensees.</text>
+            <text syncTime="88.794" offset="355161">In particular, Section 3(h) of the Act expressly forbids imposing common carrier obligations on broadcasters.</text>
+            <text syncTime="96.824" offset="387239">And as we understand the regulations at issue, they treat cable casters at least in part as common carriers.</text>
+            <text syncTime="105.624" offset="422452">This we have concluded and as we have explained in the opinion is forbidden by the Act.</text>
+            <text syncTime="110.504" offset="441992">We thus affirm the judgment of the Court of Appeals as a matter of statutory construction without reaching the constitutional challenges presented to the regulations.</text>
+            <text syncTime="119.807" offset="479190">Mr. Justice Stevens has filed a dissenting opinion.</text>
+            <text syncTime="122.927" offset="491624">Mr. Justice Brennan and Mr. Justice Marshall have joined Mr. Justice Stevens.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="128.970" stopTime="131.800">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="128.970" offset="515866">Thank you, Mr. Justice White.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

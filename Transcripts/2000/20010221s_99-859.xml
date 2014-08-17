@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:08:30" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="1021379">/xml/cases/2000/99_859/20010221o_99-859.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2000/trs/99-859_20010221-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="232.176">
+        <title>Central Green Company v. United States</title>
+        <section startTime="0.000" stopTime="232.176">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.979">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="92674">The opinion of the Court in No. 99-859 Central Green Co. against United States will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="7.979" stopTime="232.176">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="7.979" offset="124543">The Madera Canal, a federal facility leased to the Madera Irrigation District, flows through petitioner's California orchards.</text>
+            <text syncTime="17.621" offset="163100">Petitioner brought suit against the United States and the district alleging that their negligence in designing, constructing, and maintaining the canal caused subsurface flooding resulting in damage to the orchards and increased operating costs for petitioner.</text>
+            <text syncTime="33.663" offset="227257">The complaint sought damages under the Federal Tort Claims Act and other relief.</text>
+            <text syncTime="38.758" offset="247632">Relying on the immunity granted by the Flood Control Act of 1928 which states that "No liability of any kind shall attach to or rest upon the United States for any damage from or by floods or flood waters at any place".</text>
+            <text syncTime="55.485" offset="314610">The United States moved for judgment on the pleadings.</text>
+            <text syncTime="59.025" offset="328716">The District Court dismissed the complaint because the parties agreed that the canal was a part of the Friant Division of the Central Valley Project, and that flood control was one of that project's purposes.</text>
+            <text syncTime="71.756" offset="379603">The Ninth Circuit affirmed, holding that although the canal serves no flood control purpose itself, immunity attached solely because the canal was part of the larger project.</text>
+            <text syncTime="83.699" offset="427459">A passage from this Court’s decision in United States against James, a case decided 15 years ago, which states that it is "clear from 702c's plain language that the terms 'flood' and 'flood waters' apply to all waters contained in or carried through a Federal Flood Control Project for purposes of or related to flood control" provided the basis for the Ninth Circuit's holding.</text>
+            <text syncTime="111.435" offset="538323">That passage however was unquestionably dictum.</text>
+            <text syncTime="115.605" offset="555041">Accordingly, we resort to the statute's text, as illuminated by the holding in James, rather than to that isolated comment, to determine whether Seciton 702c immunity attaches.</text>
+            <text syncTime="129.248" offset="609585">That holding namely that the phrase "flood or flood waters" encompasses waters that are released for flood control purposes when reservoired waters are at flood stage is very different from the Ninth Circuit's reading of Section 702c, under which immunity attaches simply because the Madera Canal is part of the Central Valley Project, and flood control is one of the project's purposes.</text>
+            <text syncTime="156.362" offset="718045">To characterize every drop of water that flows through the immense Central Valley Project as "flood water" simply because flood control is among its many purposes unnecessarily dilutes the statute's language.</text>
+            <text syncTime="172.413" offset="782307">The statute's text does not include the words "flood control project," but, rather, states that immunity attaches to "any damage from or by floods or flood waters”.</text>
+            <text syncTime="183.795" offset="827760">Because neither the statute's language nor this Court’s holding in James supports the Government's submission that 702c immunity must attach to all the water flowing through the canal we disavow the dicta from our decision in United States against James.</text>
+            <text syncTime="200.161" offset="893275">In determining whether 702c immunity attaches, courts should consider the character of the waters that cause the relevant damage and the purposes behind their release, rather than merely the relation between that damage and a flood control project.</text>
+            <text syncTime="215.893" offset="956178">Because the question of immunity was decided on the pleadings, using an incorrect test and without benefit of an evidentiary hearing or further factual development, the case is reversed remanded for further proceedings.</text>
+            <text syncTime="229.366" offset="1010094">Our opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

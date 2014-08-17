@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T16:05:59" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1317836">/xml/cases/2006/05_1126/20070521o_05-1126.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2006/trs/05-1126_20070521-opinion.trs</sourceFile>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="307.017">
+        <title>Bell Atlantic Corporation v. Twombly</title>
+        <section startTime="0.000" stopTime="307.017" revised="2014-01-27">
+          <heading>Opinion Announcement of Justice David H. Souter</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.119">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="89767">Justice Souter has the opinion of the court this morning in case 05-1126, Bell Atlantic Corporation v. Twombly.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="9.119" stopTime="307.017">
+            <label>Justice David H. Souter</label>
+            <text syncTime="9.119" offset="126234">This case comes to us on the writ of certiorari to the United States Court of Appeals for the Second Circuit.</text>
+            <text syncTime="15.046" offset="149849">The 1984 divestiture of AT&amp;T’s local telephone business produced a system of regional service monopolies called Incumbent Local Exchange Carries or ILECs.</text>
+            <text syncTime="29.017" offset="205751">A decade later Congress passed The Telecommunications Act 1996 which sought to promote competition within the telecommunications industry by requiring each ILEC to share its network elements at wholesale prices with its competitors, so called “Competitive Local Exchange Carriers” or CLECs.</text>
+            <text syncTime="51.720" offset="296552">Respondent William Twombly and Lawrence Marcus, whom I will call plaintiffs, represent a class of subscribers to local telephone and high speed Internet services in this action against the petitioner ILECs for claim violations of Section 1 of the Sherman Antitrust Act which prohibits every contract, combination or conspiracy in restraint of trade or commerce.</text>
+            <text syncTime="77.576" offset="399997">The compliant alleges that the ILECS conspired to restrain in trade as shown by two sets of facts, first, by engaging in parallel conduct in their respective service areas to inhibit the growth of upstart CLECs and second by the parallel action of refraining from pursuing business opportunity, in competition against each other.</text>
+            <text syncTime="100.568" offset="491948">The district court dismissed plaintiff’s complaint under Rule 12(b)(6) but the Court of Appeals for the Second Circuit reversed holding that the complaint adequately stated claim because the ILECs failed to show that there is no set of facts under which plaintiffs could demonstrate that the parallel conduct asserted was the product of collision.</text>
+            <text syncTime="123.126" offset="582227">In an opinion filed with the Clerk today we reverse.</text>
+            <text syncTime="126.997" offset="597692">In the Sherman Act Section 1 context we upheld that the plaintiff cannot survive summary judgment without showing something more than mere parallel business conduct to distinguish conspiracy from perfectly legitimate business activity and the plaintiff must offer some proof tending to rule out the possibility that each of the defendants was simply acting unilaterally in response to common market perceptions.</text>
+            <text syncTime="155.053" offset="709914">In this case we consider the antecedent question of what a plaintiff must plead in order to state the Section 1 claim.</text>
+            <text syncTime="162.625" offset="740216">In light of the plaintiff’s obligation to provide the grounds of his entitlement to relief in the pleadings, we hold that stating a Section 1 claim requires a complaint with enough factual matter to suggest that an agreement was made.</text>
+            <text syncTime="177.248" offset="798730">The need at the pleading stage for allegation suggesting not merely consistent with conspiracy, not only fall us from the language of Rule 882 of the Federal Rules of Civil Procedure but also serves the practical purpose of avoiding the unnecessary expense of discovery in cases where there is no reasonable expectation that discovery will reveal evidence of any legal agreement.</text>
+            <text syncTime="207.231" offset="918685">In some, when allegations of parallel conduct are setout in order to make out a Section 1 claim they must be placed in a context that suggests a preceding agreement as distinct from identical independent action.</text>
+            <text syncTime="224.335" offset="987021">Applying the standard to the plaintiff’s compliant here; we conclude that the Section 1 claim comes up short.</text>
+            <text syncTime="231.740" offset="1016696">As to the ILECs supposed agreement to disobey the 1996 Act and thwart the CLECs attempt to compete, we agree with the District Court that nothing in the complaint suggest that the resistance to CLECs was anything more than the natural unilateral reaction of each ILEC intend on keeping its regional dominance.</text>
+            <text syncTime="255.419" offset="1111364">Likewise, the complaint provides no indication that the lack of competition among the ILECs is the product of any illegal agreement rather than the aftereffect of a market historically characterized by monopoly in geographic segmentation.</text>
+            <text syncTime="271.938" offset="1177506">Not withstanding Congress’ high hopes for greater competition, there remain many disincentives to entering new markets in telecommunications and ILECs inaction in this respect fails to suggest conspiracy.</text>
+            <text syncTime="287.764" offset="1240722">Because the plaintiffs here have not nudged their conspiracy claim across the line from conceivable to plausible we hold that their complaint must be dismissed and we remand it for further proceedings.</text>
+            <text syncTime="300.497" offset="1291713">Justice Stevens has filed a dissenting opinion in which Justice Ginsburg joins except as to Part IV.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

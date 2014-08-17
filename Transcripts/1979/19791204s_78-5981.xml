@@ -1,0 +1,36 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="303438">/xml/cases/1979/78_5981/19791204o_78-5981.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1979/trs/78-5981op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="75.794">
+        <title>Ferri v. Ackerman</title>
+        <section startTime="0.000" stopTime="75.794" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice John Paul Stevens</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.388">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">The judgment and opinion of the Court in Ferri against Ackerman will be announced by Mr. Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="8.388" stopTime="74.278">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="8.388" offset="33541">The petitioner was convicted of a federal crime and thereafter brought a suit against his lawyer claiming that the lawyer had been guilty of malpractice in defending him in the criminal trial.</text>
+            <text syncTime="21.935" offset="87667">The lawyer who had been appointed under the Criminal Justice Act claimed that he was entitled to absolute immunity from tort liability.</text>
+            <text syncTime="29.086" offset="116297">The Pennsylvania courts upheld this defense.</text>
+            <text syncTime="32.418" offset="129672">In its opinion, the Pennsylvania Supreme Court explained that it believe that federal law required it to a court absolute immunity to defense counsel appointed pursuant to the federal statute.</text>
+            <text syncTime="45.049" offset="180140">We disagree.</text>
+            <text syncTime="46.298" offset="185156">We hold that federal law is not controlling and that Pennsylvania may decide for itself whether the defense of immunity should be recognized by the Pennsylvania courts in a malpractice action founded on state law.</text>
+            <text syncTime="59.867" offset="239386">Accordingly, for reasons more fully set forth in the unanimous opinion filed with the clerk today, we reverse the judgment of the Supreme Court of Pennsylvania and remand this case to that court to determine the immunity question as the matter of state law.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="74.278" stopTime="75.794">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="74.278" offset="297064">Thank you Mr. Justice Stevens.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

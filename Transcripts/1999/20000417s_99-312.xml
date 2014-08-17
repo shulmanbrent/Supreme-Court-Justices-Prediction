@@ -1,0 +1,43 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:43:46" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="797133">/xml/cases/1999/99_312/20000417o_99-312.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1999/trs/99-312_20000417-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="178.207">
+        <title>Norfolk Southern Railway Company v. Shanklin</title>
+        <section startTime="0.000" stopTime="178.207">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.943">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="84304">The opinion of the Court in No. 99-312, Norfolk Southern Railway Company versus Shanklin will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="7.943" stopTime="178.207">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="7.943" offset="116069">This case is here on writ of certiorari to the Court of Appeals for the Sixth Circuit.</text>
+            <text syncTime="13.763" offset="139266">In October 1993 the respondent’s husband was killed at a railroad grade crossing in Western Tennessee, when his vehicle was struck by a train operated by the petitioner railway company.</text>
+            <text syncTime="27.346" offset="193600">The respondent filed suit claiming among other things that the petitioner was negligent for failing to maintain adequate warning devices at the crossing.</text>
+            <text syncTime="37.760" offset="235292">The warning signs at the crossing had been installed by the State of Tennessee with funding from the Federal Highway Administration.</text>
+            <text syncTime="45.286" offset="265385">Petitioner moved for summary judgment on the ground that the claim was preempted by the Federal Railroad Safety Act.</text>
+            <text syncTime="52.271" offset="293388">The District Court held that the respondent’s inadequate warning device claim was not preempted, and the Court of Appeals for the Sixth Circuit affirmed.</text>
+            <text syncTime="60.977" offset="328183">In an opinion filed with the Clerk of the Court today, we reverse the judgment of the Court of Appeals.</text>
+            <text syncTime="66.962" offset="352111">Under the Safety Act state law is preempted, if the Secretary of Transportation prescribes a regulation covering the subject matter of the state requirement.</text>
+            <text syncTime="77.354" offset="393698">In a case called CSX Transportation versis Easterwood, this Court held that the Secretary’s regulation governing the adequacy of warning devices installed at railroad crossings with the participation of federal funds, preempts state tort law when applicable.</text>
+            <text syncTime="97.538" offset="474364">The question here is whether this regulation is applicable whenever the state installs warning devices using federal funds.</text>
+            <text syncTime="106.073" offset="508533">We hold that it is.</text>
+            <text syncTime="108.014" offset="516265">Our decision in the earlier Easterwood case makes clear that the requirements spelled out in the regulation are mandatory for all devices installed with federal funds, and those provisions establish a federal standard for adequacy that prescribes the warning devices that have to be installed when federal funds are used.</text>
+            <text syncTime="129.169" offset="600902">Once the Federal Government has approved and funded the Crossing Improvement Project and the devices have been installed, state law governing the adequacy of those devices is displaced.</text>
+            <text syncTime="141.181" offset="648967">This is precisely the interpretation that the government urged us to adopt in the Easterwood case.</text>
+            <text syncTime="148.829" offset="679582">The government’s argument here that preemption does not occur until there has been an individualized engineering assessment of the crossing is not entitled to deference, as it is inconsistent with the language of the regulation and contradicts the government’s position in Easterwood, which we adopted as authoritative.</text>
+            <text syncTime="169.404" offset="761920">Justice Breyer has filed a concurring opinion; Justice Ginsburg has filed a dissenting opinion, which Justice Stevens has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

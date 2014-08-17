@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-20T17:51:47" startTime="0.000" oldSpeaker="elena_kagan" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2014-01-20</identified>
+      </history>
+      <resources>
+        <audioFile size="465567">/xml/cases/2011/10_8505/20120618o_10-8505.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2011/trs/10-8505_20120618-opinion.trs</sourceFile>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="89.992">
+        <title>Williams v. Illinois</title>
+        <section startTime="0.000" stopTime="89.992">
+          <heading>Opinion Announcement of Samuel A. Alito, Jr.</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="5.879">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="105472">Justice Alito has the opinion of the Court in two Cases this morning.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="5.879" stopTime="89.992">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="5.879" offset="128982">The first case is Williams versus Illinois, Number 10-8505.</text>
+            <text syncTime="13.150" offset="158030">This case involves DNA evidence and the Confrontation Clause of the Sixth Amendment.</text>
+            <text syncTime="18.344" offset="178824">The petitioner, Sandy Williams was convicted in state court in Illinois for abducting, raping, and robbing a young woman.</text>
+            <text syncTime="26.792" offset="212574">At his trial, the victim identified Williams as her attacker and the State also attempted to show that Williams' DNA matched the forensic sample obtained from the victim at the hospital after the rape.</text>
+            <text syncTime="39.774" offset="264505">Williams subjected to the testimony by the DNA expert who testified for the State.</text>
+            <text syncTime="45.300" offset="286657">After petitioner was convicted, he filed an appeal claiming that the DNA expert's testimony violated the Confrontation Clause.</text>
+            <text syncTime="54.347" offset="322811">The State Court of Appeals rejected this argument and the Supreme Court of Illinois affirmed.</text>
+            <text syncTime="60.644" offset="347993">We granted certiorari and we now affirm.</text>
+            <text syncTime="63.729" offset="360323">Anyone interested in understanding the Court's holding will have to read our opinions.</text>
+            <text syncTime="69.398" offset="382997">I have filed an opinion in which the Chief Justice, Justice Kennedy, and Justice Breyer join.</text>
+            <text syncTime="74.235" offset="402328">Justice Breyer has filed a concurring opinion.</text>
+            <text syncTime="77.321" offset="414657">Justice Thomas has filed an opinion concurring in the judgment.</text>
+            <text syncTime="81.659" offset="432107">Justice Kagan has filed a dissenting opinion in which Justices Scalia and Ginsburg and Sotomayor have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

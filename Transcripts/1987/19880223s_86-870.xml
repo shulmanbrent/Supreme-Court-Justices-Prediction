@@ -1,0 +1,30 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-03T11:53:01" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-03</identified>
+      </history>
+      <resources>
+        <audioFile size="258564">/xml/cases/1987/86_870/19880223o_86-870.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-870op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="44.617">
+        <title>Phillips Petroleum Company v. Mississippi</title>
+        <section startTime="0" stopTime="44.617">
+          <heading>Opinion Announcement of Byron R. White</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="17.171">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80931">the opinions of the Court in No. 86-870, Phillips Petroleum Company versus Mississippi and No. 86-939, and a companion case Etsi Pipelin Project versus Missouri will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="17.171" stopTime="44.617">
+            <label>Justice Byron R. White</label>
+            <text syncTime="17.171" offset="149581">The Phillips case is here from the judgment of the Supreme Court of Mississippi.</text>
+            <text syncTime="23.960" offset="176748">For reasons stated in an opinion on file with the Clerk, we affirm the judgment of the Mississippi Supreme Court.</text>
+            <text syncTime="32.205" offset="209662">Justice O'Connor filed a dissenting opinion and she is joined by Justices Stevens and Justice Scalia.</text>
+            <text syncTime="40.006" offset="240905">Justice Kennedy took no part in the consideration or decision of the case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

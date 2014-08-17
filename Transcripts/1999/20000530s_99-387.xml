@@ -1,0 +1,41 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:45:01" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="575115">/xml/cases/1999/99_387/20000530o_99-387.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1999/trs/99-387_20000530-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="122.749">
+        <title>Raleigh v. Illinois Dept. of Revenue</title>
+        <section startTime="0.000" stopTime="122.749">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.002">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="84117">The opinion of the Court in No. 99-387, Raleigh v. The Illinois Department of Revenue will be announced by Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="8.002" stopTime="122.749">
+            <label>Justice David H. Souter</label>
+            <text syncTime="8.002" offset="116091">This case comes to us on writ of certiorari to the Court of Appeals for the Seventh Circuit.</text>
+            <text syncTime="13.176" offset="136780">The petitioner Raleigh is the trustee in bankruptcy for William Stoecker, the former President of Chandler Enterprises Incorporated, the corporation doing business in the Illinois.</text>
+            <text syncTime="24.968" offset="183905">Chandler bought an airplane out of State and failed to pay the Illinois use tax on the purchase.</text>
+            <text syncTime="30.813" offset="207310">When the State Department of Revenue discovered the omission, it issued a notice of liability to Chandler and the notice of penalty liability to Stoecker as a responsible corporate officer.</text>
+            <text syncTime="42.381" offset="253599">By doing that, the State in effect charged Stoecker with the liability for the corporation’s unpaid tax.</text>
+            <text syncTime="49.116" offset="280558">Stoecker however was by then in bankruptcy.</text>
+            <text syncTime="53.060" offset="296336">While Illinois Law puts the burden of proof on the taxpayer to disprove the validity of a penalty liability claim, the trustee in bankruptcy argued that bankruptcy should be governed by a uniform rule putting the burden of proof on creditors, including State tax authorities.</text>
+            <text syncTime="72.147" offset="372613">The Court of Appeals for the Seventh Circuit rejected the trustee’s argument, yet applied Illinois Law and placed the burden of proof on the trustee.</text>
+            <text syncTime="82.261" offset="413155">Because the evidence on either side was extremely limited, the trustee could not meet the burden and the liability was sustained.</text>
+            <text syncTime="89.612" offset="442517">In an opinion filed with the Clerk of Court today, we affirm.</text>
+            <text syncTime="93.346" offset="457459">The burden of proof is a substantive element of a creditor’s claim.</text>
+            <text syncTime="97.408" offset="473655">If the underlying law creating a tax claim puts the burden of proof on the taxpayer to show that he does not owe the tax claimed by the government, the burden of proof remains with the taxpayer if he files in bankruptcy.</text>
+            <text syncTime="110.675" offset="526736">While Congress may alter substantive aspects of creditor’s claims in bankruptcy, there is no indication that it is chosen to change the burden of proof in tax matters.</text>
+            <text syncTime="120.275" offset="565188">Our decision is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

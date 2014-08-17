@@ -1,0 +1,29 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:07:25" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="172806">/xml/cases/1990/89_1555/19910220o_89-1555.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1555_19910220-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="24.712">
+        <title>Dennis v. Higgins</title>
+        <section startTime="0.000" stopTime="24.712">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.529">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73959">The opinion of the Court in No. 89-1555 Dennis versus Higgins will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="7.529" stopTime="24.712">
+            <label>Justice Byron R. White</label>
+            <text syncTime="7.529" offset="104052">This case is here from the Supreme Court of Nebraska and for the reasons stated in an opinion on file with the clerk the judgment of the Supreme Court of Nebraska is reversed.</text>
+            <text syncTime="18.927" offset="149610">Justice Kennedy has filed a dissenting opinion and he is joined by the Chief Justice.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

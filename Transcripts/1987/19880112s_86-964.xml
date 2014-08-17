@@ -1,0 +1,29 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-03T14:05:50" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-03</identified>
+      </history>
+      <resources>
+        <audioFile size="326361">/xml/cases/1987/86_964/19880112o_86-964.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-964op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="61.649">
+        <title>Thompson v. Thompson</title>
+        <section startTime="0" stopTime="61.649">
+          <heading>Opinion Announcement of Thurgood Marshall</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.621">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80914">The opinion of the Court in No. 86-964, Thompson against Thompson will be announced by Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="7.621" stopTime="61.649">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="7.621" offset="111321">In this case, we affirm the judgment of the United States Court of Appeals for the Ninth Circuit to the effect that the Parental Kidnapping Prevention Act does not provide an implied course of action in federal courts to determine which of the two conflicting state custody decisions is valid.</text>
+            <text syncTime="30.648" offset="203481">We concluded that the context's language and legislative history of the act all indicate that Congress intended to extend full faith and credit requirements to the custody decree rather than to create an entirely new federal course of action.</text>
+            <text syncTime="50.363" offset="282266">Justice O'Connor has filed and opinion concurring in part and concurring in the judgment; Justice Scalia has filed an opinion concurring in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

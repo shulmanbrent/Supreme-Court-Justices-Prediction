@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:54:05" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="725332">/xml/cases/2005/04_1506/20060501o_04-1506.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-1506_20060501-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="159.190">
+        <title>Arkansas Dept. of Health and Human Servs. v. Ahlborn</title>
+        <section startTime="0.000" stopTime="159.190">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.954">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88571">Justice Steven says the opinion in 04-1506, Arkansas Department of Health and Human Services versus Ahlborn.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="9.954" stopTime="159.190">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="9.954" offset="128382">This case comes to us on writ of certiorari to the Court of Appeals for the 8th Circuit.</text>
+            <text syncTime="16.034" offset="152623">We granted review to decide whether a State can, consistent with federal Medicaid law, assert a lien on a Medicaid recipient’s tort settlement in an amount exceeding the portion of the settlement that represents payments for medical care.</text>
+            <text syncTime="33.016" offset="220542">Heidi Ahlborn was severely injured in a car accident in 1996.</text>
+            <text syncTime="38.405" offset="242171">Because she was unable to pay all of her medical costs, Arkansas, through its federally subsidized Medicaid program, paid roughly $215,000.00 of medical expenses on her behalf.</text>
+            <text syncTime="52.138" offset="297028">Meanwhile, Ahlborn sued the individuals allegedly responsible for her injuries.</text>
+            <text syncTime="57.563" offset="318762">Arkansas intervened in that suit to assert a lien on any settlement, but did not actually participate in settlement negotiations that ultimately took place.</text>
+            <text syncTime="67.839" offset="359827">She received an unallocated settlement in the amount of $550,000.00.</text>
+            <text syncTime="74.455" offset="386367">Although Arkansas stipulated that only about $35,000.00 of that settlement represented payments for medical care, it nonetheless asserts that it’s entitled to full reimbursement in the amount of about $215,000.00 for all costs it paid on Ahlborn’s behalf under the Medicaid system.</text>
+            <text syncTime="95.140" offset="469123">In an opinion filed with the Clerk of the Court today, we affirm the 8th Circuit’s ruling that Arkansas is entitled only to the portion of Ahlborn’s settlement that represents payments for medical care, that is, $35,000.00.</text>
+            <text syncTime="110.036" offset="528682">Under the federal Medicaid provisions, a State can -- indeed, it must -- require a Medicaid recipient to assign her rights to recovery from third parties of, quote, “payments for medical care,” unquote; but the federal statute neither requires nor authorizes assignment of rights to payment for other items of damage and, in fact, the federal and anti-lien statute affirmatively prohibits Arkansas’s placement of a lien on property of the recipient that does not constitute third-party payments for medical care.</text>
+            <text syncTime="142.955" offset="660339">Such property includes the part of Ahlborn’s settlement that represents nonmedical damages.</text>
+            <text syncTime="148.879" offset="684058">To the extent Arkansas statutorily inviolates the federal anti-lien provision, it cannot be enforced.</text>
+            <text syncTime="156.568" offset="714778">Our opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

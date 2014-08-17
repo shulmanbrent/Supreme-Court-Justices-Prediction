@@ -1,0 +1,61 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T16:02:22" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1852871">/xml/cases/2006/05_1056/20070430o_05-1056.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2006/trs/05-1056_20070430-opinion.trs</sourceFile>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="440.738">
+        <title>Microsoft Corporation v. AT&amp;T Corp.</title>
+        <section startTime="0.000" stopTime="440.738" revised="2014-01-27">
+          <heading>Opinion Announcement of Justice Ruth Bader Ginsburg</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="11.773">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="89919">We begin this morning with Justice Ginsburg who has the opinion for the court in the case 05-1056; Microsoft v. AT&amp;T.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="11.773" stopTime="440.738">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="11.773" offset="136939">It is a general rule on the United States patent law that “no infringement occurs when a patented product is made and sold in another country.”</text>
+            <text syncTime="24.787" offset="188975">There is an exception, Section 271(f) of the Patent Act, adopted in 1984, provides that infringement does occur when one supplies from the United States for combination abroad, a patented invention’s components.</text>
+            <text syncTime="45.914" offset="273508">The question presented, does the exception stated in 271(f) applied to computer software, first sent from the United States to a foreign manufacturer on a master disk via electronic transmission, then copied by the foreign recipient and installed on computers made and sold abroad.</text>
+            <text syncTime="69.632" offset="368384">Our answer is no, the concrete case AT&amp;T holds a patent on a computer capable of digitally encoding and compressing recorded speech.</text>
+            <text syncTime="82.595" offset="420211">Microsoft’s Windows operating system has the potential to infringe that patent because Windows incorporates software that when installed, enables a computer to process speech in the manner claimed by the patent.</text>
+            <text syncTime="99.954" offset="489697">The instant litigation concerns Microsoft’s sales of Windows to foreign computer manufacturers.</text>
+            <text syncTime="108.242" offset="522820">Typically, Microsoft sends its foreign customers a master version of Windows either on a disk or via an encrypted electronic transmission, which the foreign manufacturer uses to generate copies.</text>
+            <text syncTime="122.544" offset="580081">Those copies, not the master sent by Microsoft, are installed on the foreign manufacturer’s computers the computers are then sold to users abroad.</text>
+            <text syncTime="135.622" offset="632326">AT&amp;T filed suit charging Microsoft with infringement based on the foreign installations of Windows.</text>
+            <text syncTime="144.233" offset="666807">By sending Windows to foreign manufacturers, AT&amp;T urged Microsoft in Section 271(f)’s words, supplied from the United States for combination abroad components of AT&amp;T’s patent in speech processing computer.</text>
+            <text syncTime="163.681" offset="744548">The district court agreed with AT&amp;T and a divided panel of the Federal Circuit affirmed; we now reverse.</text>
+            <text syncTime="172.993" offset="781850">Microsoft does not export from the United States the copies of Windows actually installed on the foreign-made computers in question.</text>
+            <text syncTime="181.178" offset="814556">Therefore, Microsoft does not supply from the United States components of those computers and has not rendered an infringer by 271(f).</text>
+            <text syncTime="191.314" offset="855098">We take up first what 271(f) encompasses as a component combined abroad to form a patented invention.</text>
+            <text syncTime="201.517" offset="895953">Until expressed as a computer readable copy, Windows indeed any software detached from an activating medium remains un-combinable.</text>
+            <text syncTime="212.736" offset="940779">It cannot be inserted into a CD-ROM drive or downloaded from the Internet.</text>
+            <text syncTime="218.275" offset="962931">It cannot be installed or executed on a computer.</text>
+            <text syncTime="222.241" offset="978814">Abstract Software Code is an idea without physical embodiment and as such it does not match 271(f)’s categorization, components amenable to combination.</text>
+            <text syncTime="235.350" offset="1031268">Installable copies of Windows in contrast would fit 271(f)’s usage of the word component.</text>
+            <text syncTime="243.373" offset="1063346">But Microsoft did not supply from the United States the foreign-made copies of Windows installed on the computers here involved.</text>
+            <text syncTime="252.644" offset="1100440">Those copies were supplied from outside the United States.</text>
+            <text syncTime="257.250" offset="1118830">The Federal Circuit majority observed, however, that software components are not like machine parts.</text>
+            <text syncTime="263.966" offset="1145684">Given the character of the technology, the majority concluded “sending a single copy of software abroad with the intent that it would be replicated should trigger 271(f) liability for the foreign-made copies.</text>
+            <text syncTime="279.628" offset="1208378">We resist the Federal Circuit majority’s dynamic reading of 271(f).</text>
+            <text syncTime="285.470" offset="1231783">The statute’s text and the problem to which Congress responded in 1984, lead us to conclude that under 271(f) only components supplied from the United States and not foreign-made copies thereof can trigger liability when combined abroad to form the patented invention at issue.</text>
+            <text syncTime="307.594" offset="1320286">Two, copying software abroad is both easy and inexpensive, Section 271(f), however, contains no instruction to gauge when duplication is easy and cheap enough to deem a copy in fact made abroad nevertheless supplied from the United States.</text>
+            <text syncTime="328.678" offset="1404610">Any doubt that Microsoft’s conduct falls outside 271(f)’s compass would be resolved by the presumption against extraterritoriality.</text>
+            <text syncTime="338.704" offset="1444734">Foreign conduct is generally the domain of foreign law and in the patent area that law may embody policy judgments different from our own about the relative right of inventors, competitors, and the public.</text>
+            <text syncTime="353.654" offset="1504502">Applied to this case, the presumption tugs strongly against construing 271(f) to accomplish as a component, not only a physical copy of software but also software’s intangible code and to render supply from the United States, not only exported copies of software but also duplicates made abroad.</text>
+            <text syncTime="377.688" offset="1600632">If AT&amp;T desires to prevent copying abroad, its remedy today lies in obtaining and enforcing foreign patent.</text>
+            <text syncTime="388.074" offset="1642115">We recognize that reading 271(f) to exclude from coverage foreign-made copies of software may create a loophole favoring software makers.</text>
+            <text syncTime="398.331" offset="1683179">We are un-persuaded however that dynamic judicial interpretation of 271(f) is in order to software’s specific loophole, AT&amp;T and the Federal Circuit majority have identified is in our judgment properly left for Congress to consider and to close if it finds such action warranted.</text>
+            <text syncTime="421.219" offset="1774712">Justice Alito has filed an opinion concurring as to all but footnote 14, in which Justices Thomas and Breyer joined.</text>
+            <text syncTime="430.871" offset="1813374">Justice Stevens has filed a dissenting opinion.</text>
+            <text syncTime="434.540" offset="1828002">The chief justice took no part in the consideration or decision of this case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

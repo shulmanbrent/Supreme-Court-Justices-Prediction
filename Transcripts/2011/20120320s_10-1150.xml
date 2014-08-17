@@ -1,0 +1,61 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-20T17:57:02" startTime="0.000" oldSpeaker="elena_kagan" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2014-01-20</identified>
+      </history>
+      <resources>
+        <audioFile size="1744334">/xml/cases/2011/10_1150/20120320o_10-1150.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2011/trs/10-1150_20120320-opinion.trs</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="409.940">
+        <title>Mayo Collaborative Services v. Prometheus Laboratories, Inc.</title>
+        <section startTime="0.000" stopTime="409.940">
+          <heading>Opinion Announcement of Stephen G. Breyer</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.923">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="104448">In Case Number 10-1150, Mayo Collaborative Services versus Prometheus Laboratories. Justice Breyer has our opinion.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="9.923" stopTime="409.940">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="9.923" offset="144050">Section 101 of the Patent Act says, in relevant part, “Whoever invents or discovers any new and useful process, machine, manufacture or composition of matter may obtain a patent.”</text>
+            <text syncTime="26.044" offset="208624">The Court has long held, however, that the provision contains an important implicit exception.</text>
+            <text syncTime="33.180" offset="237150">Laws of nature, natural phenomena and abstract ideas are not patentable.</text>
+            <text syncTime="41.738" offset="271318">Thus, Einstein could not have patented his formula, E=mc2, nor could Archimedes have patented his principle of flotation.</text>
+            <text syncTime="52.161" offset="313010">Such discoveries, the Court has said, are manifestations of nature, free to all men and reserved exclusively to none.</text>
+            <text syncTime="62.842" offset="355746">The underlying concern is that since laws of nature are the basic tools of scientific work allowing them to be patented would pose to great a threat to future innovation, but the exception cannot go too far.</text>
+            <text syncTime="80.073" offset="424709">Virtually, every invention relies to some degree on some law of nature, so the Court has also said that inventions that apply a law of nature in a useful and inventive way are patentable.</text>
+            <text syncTime="94.683" offset="483119">But what must a claim do to leave the unpatentable law of nature category and enter the patentable application of the law of nature category?</text>
+            <text syncTime="105.865" offset="527841">To count as an application, a claim cannot simply state a law of nature and then add the words “apply it.”</text>
+            <text syncTime="114.256" offset="561382">Einstein could not get a patent on his law by telling people, “Apply my law as you think fit.”</text>
+            <text syncTime="121.394" offset="590012">This case raises these questions.</text>
+            <text syncTime="125.247" offset="605372">The patent claims here focus upon doctors who use drugs called thiopurine drugs to treat patients with certain kinds of autoimmune diseases.</text>
+            <text syncTime="136.385" offset="649885">Doctors have used these drugs for some time.</text>
+            <text syncTime="139.740" offset="663364">And they know that after a patient receives a dose, the drug has to be metabolized in order to work.</text>
+            <text syncTime="146.796" offset="691576">They also know that different patients metabolize the drug to different degrees in different ways and they know how to determine by examining a patient’s bloodstream to metabolize drug level.</text>
+            <text syncTime="161.443" offset="750195">But before the invention at issue here came along, they did not know just what metabolized level in the blood meant too much drug, so lower the dose and what level meant too little drug, so raise the dose.</text>
+            <text syncTime="178.722" offset="819263">The process claims here embody more recent discoveries that answer these last questions.</text>
+            <text syncTime="186.690" offset="851132">In case you would like to know, a level of less than 230 picomoles of metabolized drug per 800,000,000 red blood cells shows need to increase the dosage while a level of 400 shows a need to reduce the dosage.</text>
+            <text syncTime="200.326" offset="905676">I thought you'd like to know that.</text>
+            <text syncTime="202.388" offset="913930">These correlations, however, are unpatentable natural laws even though the relationship they describe arise only after a drug is administered to a patient and that is a human action, the relationships themselves are natural ones caused by the natural interactions of the drug with the human body.</text>
+            <text syncTime="225.295" offset="1005568">So, we have to look beyond the correlations themselves and ask whether the process that the patent applicant seeks to claim embodies something more than just those natural laws.</text>
+            <text syncTime="237.591" offset="1054783">We conclude that the claims before us do not contain anything significant beyond the natural law of correlations themselves.</text>
+            <text syncTime="247.106" offset="1092817">The processes, as I'll summarize them, consist, in effect, of three steps.</text>
+            <text syncTime="252.999" offset="1116432">Those steps tell doctors, one, administer a thiopurine drug to your patient.</text>
+            <text syncTime="260.959" offset="1148197">Two, determine, i.e., measure the resulting metabolite levels in the patient's blood, and then three, consider the resulting measurements in the light of the correlations.</text>
+            <text syncTime="274.694" offset="1203158">The first step, the administering step, simply identifies a set of people who may be interested in applying the relevant laws, namely, doctors who treat their patients with thiopurine drugs.</text>
+            <text syncTime="288.432" offset="1258120">Our case law makes clear that you cannot patent a natural law just by limiting use of the patented process to those in a certain technological environment as if, for example, Archimedes had limited use of the flotation principle to boat builders, that isn't good enough.</text>
+            <text syncTime="305.060" offset="1324680">The second step, the determining step, simply tells the doctors to measure metabolite levels in the blood, but measuring metabolites is something that researchers in the field were doing before the correlations at issue here were found and doing so is a necessary precursor to applying those correlations.</text>
+            <text syncTime="323.498" offset="1398345">Our cases tell us that a process cannot be rendered patentable simply by adding conventional pre-solution activity to the statement of a natural law.</text>
+            <text syncTime="333.448" offset="1438156">The third step, the consider step, simply adds to these first two steps a statement of the natural laws with, at most, a suggestion that doctors should take those laws into account when treating their patients, perhaps, by modifying the drug dosage they subsequently administer if they decide that doing so makes sense all things considered.</text>
+            <text syncTime="354.500" offset="1522375">Insofar as the claim set forth additional steps beyond the law of nature itself, those steps consist of well understood routine, conventional activity already engaged in by the scientific community.</text>
+            <text syncTime="368.768" offset="1579426">We consequently conclude that the patent claims say nothing significantly more than apply the law, i.e., apply the natural laws that they describe and that simple additional instruction, by itself, is insufficient to transform an otherwise patentable claim into a -- unpatentable claim into a patentable one.</text>
+            <text syncTime="388.720" offset="1659256">We discuss these matters further in our opinion, but we also describe the relevant case law and explain why we cannot accept the respondents and the Government's counter arguments.</text>
+            <text syncTime="400.250" offset="1705441">We hold that the patents are invalid under Section 101 of the Patent Act, and we reverse the Federal Circuit's contrary determination.</text>
+            <text syncTime="407.544" offset="1734593">The decision is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

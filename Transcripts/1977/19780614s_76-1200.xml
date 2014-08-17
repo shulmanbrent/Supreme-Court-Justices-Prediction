@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="471921">/xml/cases/1977/76_1200/19780614o_76-1200.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1977/trs/76-1200op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="97.949">
+        <title>Crist v. Bretz</title>
+        <section startTime="0.000" stopTime="97.949" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Potter Stewart</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.605">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="79980">The judgment and opinion of the Court in Crist against Bretz will be announced by Mr. Justice Stewart.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="8.605" stopTime="95.571">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="8.605" offset="114357">This case is here on appeal from the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="14.825" offset="139226">It involves another aspect of the constitutional guarantee against being twice put in jeopardy.</text>
+            <text syncTime="21.729" offset="166811">Precise issue is relatively simple one and it's a single one and it is whether the federal rule, governing the time when jeopardy attaches in a jury trial is binding on Montana through the Fourteenth Amendment.</text>
+            <text syncTime="39.187" offset="236715">The federal rule is that jeopardy attaches when the jury is impaneled and sworn.</text>
+            <text syncTime="46.225" offset="264822">A Montana statue provides that jeopardy does not attach until the first witness is sworn.</text>
+            <text syncTime="55.377" offset="301394">For the reasons stated in some detail in the written opinion of the Court filed today, we hold that the federal rule, that jeopardy attaches when the jury is impaneled and sworn is an integral part of the constitutional guarantee against double jeopardy.</text>
+            <text syncTime="72.893" offset="371507">And that accordingly it is binding upon the individual states.</text>
+            <text syncTime="78.333" offset="393240">For these reasons the judgment before us is affirmed.</text>
+            <text syncTime="81.606" offset="406302">Mr. Justice Blackmun has filed a concurring opinion.</text>
+            <text syncTime="84.957" offset="419781">The Chief Justice has filed a dissenting opinion.</text>
+            <text syncTime="87.961" offset="431797">Mr. Justice Powell has also filed a dissenting opinion which the Chief Justice and Mr. Justice Rehnquist have joined.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="95.571" stopTime="97.949">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="95.571" offset="462204">Thank you, Mr. Justice Stewart.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,669 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-17T17:06:18" startTime="857.321" oldSpeaker="unknown_speaker" newSpeaker="byron_r_white"/>
+        <edit user="jgoldman" date="2014-04-17T17:06:20" startTime="1007.126" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-17</identified>
+      </history>
+      <resources>
+        <audioFile size="14141378">/xml/cases/1975/74_1033/19751209a_74-1033.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1975/trs/74-1033_19751209.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="howard_e_shapiro" type="advocate" gender="male" path="/advocates/hs/howard_e_shapiro" image="/advocates/hs/howard_e_shapiro/thumbnail.jpg">Howard E. Shapiro</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="morton_c_jacobs" type="advocate" gender="male" path="/advocates/mj/morton_c_jacobs" image="/advocates/mj/morton_c_jacobs/thumbnail.jpg">Morton C. Jacobs</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3509.434">
+        <title>Dann v. Johnston</title>
+        <section startTime="0" stopTime="1476.398">
+          <heading>Argument of Howard E. Shapiro</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="49.919">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="103359">We will hear arguments next in Dann, the Commissioner of Patents against Johnston.</text>
+            <text syncTime="46.951" offset="291127">Mr. Shapiro you may proceed whenever you are ready.</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="49.919" stopTime="691.563">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="49.919" offset="302935">Mr. Chief Justice and may it please the Court.</text>
+            <text syncTime="53.469" offset="317145">Three years ago in Gottschalk against Benson, this Court held that a method of programming a general purpose digital computer to convert signals from one form of binary number or another was not a patentable process under Section 101 of the Patent Code.</text>
+            <text syncTime="74.425" offset="401050">In this case, the Court of Customs and Patent Appeals has held that a computer program used to keep records of financial accounts is patentable as a new machine rather than as a process, even though the application in our view claims no new apparatus and the program is carried out in conventional general purpose computers, intentionally designed to handle such programming.</text>
+            <text syncTime="104.761" offset="522363">The case is here on a writ of certiorari under Section 1256 of the judicial code.</text>
+            <text syncTime="111.599" offset="549739">The issues before the Court of Customs and Patent Appeals and before this Court, are whether such a program is patentable subject matter under Section 101 of the patent code, and whether use of computers to keep track of financial transactions as disclosed in the specification in this case, is obvious from the prior art.</text>
+            <text syncTime="137.301" offset="652557">Now, as the Benson case explains in some detail, a general purpose digital computer operates by performing arithmetical and logical operations on numbers.</text>
+            <text syncTime="149.337" offset="700623">Now, all of the data is reduced to digits represented by the symbols “1” and “0” in the binary-number system and these numbers can be made physically to correspond to on and off states of electronic signals, and these are controlled through the opening and closing of electronic pathways within the system.</text>
+            <text syncTime="173.645" offset="797903">It is a sort of system of switching among circuits.</text>
+            <text syncTime="177.571" offset="813576">This switching process is accomplished through a sequence of coded instructions called the program.</text>
+            <text syncTime="185.100" offset="843669">Now, to create a program, the problem to be resolved, it has to be reduced to a series of sequences or steps expressed in a language which the computer will accept.</text>
+            <text syncTime="201.456" offset="909080">In effect therefore, every computer program requires an algorithm, which is a precise and complete step-by-step recipe for a computational procedure because computers do not think, the algorithm has to set out in very exacting and specific rules, and it has to be expressible in a programming language.</text>
+            <text syncTime="225.214" offset="1004166">The computer then takes the expressed language, which is usually in a higher language, you go through several steps from ordinary human thought to a special computer language as to language that is close to what the machine actually uses and through a translator device, the computer converts the language into the machine’s code.</text>
+            <text syncTime="247.299" offset="1092459">This reduces the program to the binary number system of on and off states and then the computer can carry out the arithmetic and logic functions by which it operates.</text>
+            <text syncTime="260.012" offset="1143346">Now, the patent application in this case discloses a computer program for an accounting system.</text>
+            <text syncTime="268.741" offset="1178246">The system permits the maintenance of individual customer accounts, say by a bank, by assigning category codes to checks and deposit slips that are marked in a machine-readable magnetic ink.</text>
+            <text syncTime="285.341" offset="1244701">The categories of transactions are -- are computed as totals, and they are reported as statements to the customer so that he can find his rent expense for a period or his repair expense or what have you.</text>
+            <text syncTime="300.743" offset="1306246">The specification which describes the steps in some detail, it sets out flow diagrams for the programs and it gives as an example of a specific program, a program for use in an IBM 1400 general purpose digital computer.</text>
+            <text syncTime="322.846" offset="1394644">The -- the accounting aspects are shown in the -- in the appendix at pages 72 and 83, at least illustratively, because they show a sample check with the category code and a transaction journal and a summary statement.</text>
+            <text syncTime="341.901" offset="1470921">I think the -- a precise way into this specification which is long and detailed would be to glance at page A7 of the appendix, which states that in the system a data processing -- a data processor EGA store program, digital computer embodying this invention is employed.</text>
+            <text syncTime="365.936" offset="1567052">The program may assume many different forms that are well known in the art.</text>
+            <text syncTime="371.002" offset="1587323">Now, that is essentially all that this specification deals with.</text>
+            <text syncTime="374.435" offset="1601011">When you go on through it, you do not find any description of “apparatus” or “circuitry” of any -- or devises of any kind.</text>
+            <text syncTime="381.814" offset="1630582">What you find are the steps, the sequence of steps to be carried out in the computer.</text>
+            <text syncTime="387.375" offset="1652838">So in our view, this specification describes a system of records and procedures for carrying out accounting in a general purpose digital computer system.</text>
+            <text syncTime="401.023" offset="1707382">The patent claims are very broadly worded.</text>
+            <text syncTime="405.529" offset="1725459">The accounting procedures can be carried out in existing computers long in use and no new machinery is necessary.</text>
+            <text syncTime="412.941" offset="1755029">Now, the patent examiner in this case rejected the application under Section 112 of the ground that it was indefinite and inadequately disclosed, and under Section 102 on the ground that prior patents anticipated these inventions.</text>
+            <text syncTime="430.681" offset="1826082">The respondent appealed to the Patent Office Board of Appeals.</text>
+            <text syncTime="435.581" offset="1845622">Now, the Board at this time was constrained by decisions of the Court of Customs and Patent Appeals, particularly Ingrid Bernhard (ph) and its progeny, which hold that each program for a general purpose computer makes the computer into a different machine and that, therefore, if it is a new program it becomes a new machine.</text>
+            <text syncTime="460.732" offset="1946246">The logic of this is said to be that electronically the program sets up a different set of circuits, and therefore, it is structurally, at least for the few millions of a second that the program and the circuits are in existence in the machine.</text>
+            <text syncTime="480.749" offset="2026285">This Court’s decision in Benson had not come down at this time, when the matter was before the Board of Patent Appeals.</text>
+            <text syncTime="488.388" offset="2056900">Nevertheless the Board of Patent Appeals, for the first time in this case held that the patent application was not patentable subject matter within Section 101 of the patent code.</text>
+            <text syncTime="503.795" offset="2118445">It said that the claims did not enhance the internal functioning of a computer, but were merely a process for using it, using that computer for purposes outside the technological arts; this was an attempt to accommodate CCPA decisions as they then stood.</text>
+            <text syncTime="519.359" offset="2180721">It expressly held that a computer operating with any given stored program is not a different machine simply because somebody decides to assign to its memory a particular human meaning and the Board specifically found that there was no difference between the apparatus claims which were in this patent and the machine claims they really had to stand or fall together, and then finally the Board held that the claims were obvious in the light of prior art because it has said that banks have long been using magnetic ink machine-readable category codes, and also that the system fell within the disclosure of apportion of another patent previously issued, the Derk’s (ph) patent.</text>
+            <text syncTime="564.852" offset="2362742">The respondent challenged the Board of Appeals decision in the court of Customs and Patent Appeals on every ground.</text>
+            <text syncTime="573.470" offset="2397223">Now, while the appeal was pending, this Court’s decision in Benson came down and then the respondent abandoned his process claims, living only the machine claims.</text>
+            <text syncTime="584.956" offset="2443095">The commissioner argued in the court below that Benson applied both to the machine and the patent claims, and that the computer programs were unpatentable under Section 101.</text>
+            <text syncTime="594.879" offset="2482801">The respondent argued, referring particularly to the CCPA’s earlier decisions that a computer program is a physical structure, that machine claims are patentable under Benson, that Benson has not affected the rule in the CCPA.</text>
+            <text syncTime="609.154" offset="2539957">That an unprogrammed general purpose computer is a different machine and -- in effect he said that Benson was confined to machine claim -- was confined to process claims.</text>
+            <text syncTime="624.325" offset="2600561">The court below held again that that record-keeping machine systems, which comprise programmed general computers, digital computers, are statutory subject matter and they could be patented if they were not obvious in the line of prior art.</text>
+            <text syncTime="643.717" offset="2678197">Again it reaffirmed its decision in the Bernhardt case.</text>
+            <text syncTime="647.815" offset="2694601">It held that Benson was inapplicable, because Benson dealt with a process claim and these were drafted in the form of machine claims and of course it rejected the holding of obviousness from the prior art.</text>
+            <text syncTime="663.737" offset="2758236">Judge Markey (ph) dissented, concluding that the disclosure was obvious, and then Judge Rich (ph) wrote a very interesting decent in which he analyzed Benson and concluded that there is just no difference between machine claims and structure claims in this context, that it is simply a matter of the patent draftsman's art and that meant the thrust of Benson clearly indicates that computer programs are not patentable.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="691.563" stopTime="693.769">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="691.563" offset="2869517">He does not think much of Benson, does he?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="693.769" stopTime="702.768">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="693.769" offset="2878399">No he does not.</text>
+            <text syncTime="695.051" offset="2883519">He disagrees.</text>
+            <text syncTime="696.198" offset="2888117">He adheres to the CCPA analysis which is that --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="702.768" stopTime="704.653">
+            <label>Justice Byron R. White</label>
+            <text syncTime="702.768" offset="2914343">(Inaudible) had he not in Benson?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="704.653" stopTime="705.878">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="704.653" offset="2921971">He had written Benson, yes.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="705.878" stopTime="707.239">
+            <label>Justice Byron R. White</label>
+            <text syncTime="705.878" offset="2926778">But he was reversed?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="707.239" stopTime="711.151">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="707.239" offset="2932211">He was, yes.</text>
+            <text syncTime="709.156" offset="2939943">The --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="711.151" stopTime="719.068">
+            <label>Justice Byron R. White</label>
+            <text syncTime="711.151" offset="2947885">What was the (Inaudible), had he ever expressed how it was held, how he would have held prior to Benson ---</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="719.068" stopTime="734.292">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="719.068" offset="2979545">I believe he joined the decision in Bernhardt and a decision subsequent to Benson which were decided on records completed before the Benson case, which continued to adhere to the CCPA’s Bernhardt rule.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="734.292" stopTime="749.703">
+            <label>Justice Byron R. White</label>
+            <text syncTime="734.292" offset="3040463">(Inaudible) that the government should be allowed to bring here?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="749.703" stopTime="757.305">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="749.703" offset="3102112">Yes, there is an argument that the commissioner is -- is barred jurisdictionally from contesting --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="757.305" stopTime="762.668">
+            <label>Justice Byron R. White</label>
+            <text syncTime="757.305" offset="3132518">Because he is the Board or the Board is -- he may not challenge the Board’s -- the Board's decision?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="762.668" stopTime="763.170">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="762.668" offset="3153939">That is correct.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="763.170" stopTime="769.364">
+            <label>Justice Byron R. White</label>
+            <text syncTime="763.170" offset="3156028">Alright.</text>
+            <text syncTime="764.387" offset="3160835">I think that relates to whether or not this is a machine or a new machine?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="769.364" stopTime="788.269">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="769.364" offset="3180792">That is right.</text>
+            <text syncTime="769.963" offset="3183196">It is really whether the Bernhardt rule can be challenged in this proceeding because of the way in which it came up.</text>
+            <text syncTime="777.297" offset="3212453">We think it clearly can be for the reasons I recited in listing the Board of Appeals' rejection.</text>
+            <text syncTime="781.985" offset="3231261">The Board of Appeals restrained by Bernhardt at this time, and as the court to which its decisions of the Board have--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="788.269" stopTime="793.743">
+            <label>Justice Byron R. White</label>
+            <text syncTime="788.269" offset="3256339">But you are taking issue with the the decision of the -- of the Board?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="793.743" stopTime="820.334">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="793.743" offset="3278281">In the light of what has happened in Benson, the issue came before the CCPA.</text>
+            <text syncTime="803.168" offset="3316002">The rejection was under Section 101 by the Board, and the issue before the CCPA in part concerned, what does Benson do to the general doctrine of Bernhardt.</text>
+            <text syncTime="816.650" offset="3369919">The CCPA held as it had to one way or another --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="820.334" stopTime="823.813">
+            <label>Justice Byron R. White</label>
+            <text syncTime="820.334" offset="3384652">Was not Benson after the Board’s decision in this case?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="823.813" stopTime="825.526">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="823.813" offset="3398549">Yes, that is correct.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="825.526" stopTime="830.814">
+            <label>Justice Byron R. White</label>
+            <text syncTime="825.526" offset="3405446">So, you think Benson bore heavily on the -- one the issues of this case?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="830.814" stopTime="832.303">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="830.814" offset="3426552">Yes.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="832.303" stopTime="841.891">
+            <label>Justice Byron R. White</label>
+            <text syncTime="832.303" offset="3432508">And -- so you say that you should at least have a chance to represent your arguments to the Board of -- to the Board, at the very least?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="841.891" stopTime="857.321">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="841.891" offset="3470856">At the very least, Your Honor.</text>
+            <text syncTime="843.322" offset="3476603">This Court’s jurisdiction after all is under Section 1256 of the code, it is broad certiorari jurisdiction, just as broad as if this case came up from the District Court under Section 145, and then through the Court of Appeals.</text>
+            <text syncTime="856.725" offset="3530206">The issue under Section --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="857.321" stopTime="868.772">
+            <label>Justice White</label>
+            <text syncTime="857.321" offset="3532610">Does anyone know -- there has been any subsequent cases or other cases that you know what the, how the Board would decide its case after Benson?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="868.772" stopTime="877.924">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="868.772" offset="3578376">I think since Benson, the -- the Board I think is taking position that Benson is controlling as the commissioner argued in this case.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="877.924" stopTime="884.368">
+            <label>Justice Byron R. White</label>
+            <text syncTime="877.924" offset="3615052">You mean the Board has since taken a position, that its position in this case is wrong?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="884.368" stopTime="959.742">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="884.368" offset="3640757">I would have to -- well, its decision in this case was a rejection of the applications under 101.</text>
+            <text syncTime="889.235" offset="3660296">A step in its reasoning, a step in its reasoning is no longer valid, that is right because of Benson which made clear that these computer programs are not patentable.</text>
+            <text syncTime="904.884" offset="3722886">Well, I turn to the merits then.</text>
+            <text syncTime="908.702" offset="3738141">If we look at the specification, we can see that what we have got here is nothing more than an accounting system carried out in a computer.</text>
+            <text syncTime="919.234" offset="3780250">Now, as an accounting system, the disclosure is unpatentable because a method of transacting business is an abstract concept without a physical embodiment; an abstract concepts and laws of nature and mental process are not patentable and certainly business methods are not patentable.</text>
+            <text syncTime="936.546" offset="3849527">When you take a business method or an accounting system and you embody it as a sequence of steps for using a general purpose computer, it is also unpatentable subject matter.</text>
+            <text syncTime="945.628" offset="3885785">Now, Benson clearly holds that a mathematical formula is not patentable.</text>
+            <text syncTime="950.425" offset="3905011">It then goes on to hold that such an abstract concept does not become patentable when it is expressed as an algorithm for a computer program.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="959.742" stopTime="961.438">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="959.742" offset="3942314">As a process path?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="961.438" stopTime="1007.126">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="961.438" offset="3949106">As a process, but the thrust of Benson is that abstract concepts like accounting systems are also unpatentable when expressed as computer programs.</text>
+            <text syncTime="971.515" offset="3989335">If you -- if you call the machine you do not really change anything, as Judge Rich pointed out, all that is happening, when you say it is a process or a machine is -- is that you are taking the same sequence of steps and then saying, well, we will call it a machine because it operates in the computer -- it is the same way as if we call it a process.</text>
+            <text syncTime="995.491" offset="4085256">The -- in fact I think that since all computer programs are algorithms, are series of steps, sequences of steps, none can be patentable under Benson as either machines are process, and this is the thrust of Judge Rich's analysis.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1007.126" stopTime="1031.136">
+            <label>Justice Rehnquist</label>
+            <text syncTime="1007.126" offset="4131859">Well, certainly Mr. Shapiro, that is far beyond the holding of Benson and it seems to me that it would require more technological ability than I posses and I would suspect perhaps than you posses to say flatly that nothing that might subsequently be done with a computer in the way of programming could ever be patented?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="1031.136" stopTime="1050.457">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="1031.136" offset="4227885">We have -- we have tried to reserve the possibility which we have no technological force as you recognized that there maybe some sort of combination or use of program and computer that -- that operates in some synergistic way.</text>
+            <text syncTime="1047.651" offset="4293922">I cannot anticipate what it is, I am not an inventor.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1050.457" stopTime="1055.453">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1050.457" offset="4305103">No, but you probably would have anticipated the telegraph or the telephone either any more than I would have?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="1055.453" stopTime="1138.005">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="1055.453" offset="4325165">Which is why, which is precisely why in using those cases, the Court’s decisions involving those inventions, the telegraph and the -- the telephone, have always been limited in such a way that the results achieved as distinguished from the machinery themselves cannot be patented and what is happening here in this case is that the -- the simple idea of using a general purpose computer to carry out an accounting program, without being embodied or limited to any particular apparatus, is getting -- is being patented and that is part of the objectionable aspect of this -- this -- of this application.</text>
+            <text syncTime="1098.404" offset="4496946">The grant of the patent in effect is a grant of a monopoly on the general idea of providing individual financial record keeping by computer.</text>
+            <text syncTime="1107.381" offset="4532786">We think that at most the disclosure involves a new use of an old machine and even that I think I would have to qualify the new use, but when you claim it is a machine, you run into the -- the long-standing rule that you cannot get a machine patent on a new use of that machine.</text>
+            <text syncTime="1127.298" offset="4612512">And that is clear in the patent law, and Congress made it doubly clear in 1952 when it added to the patent code the definition of process, which says that a process is a new use of an old machine.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1138.005" stopTime="1142.484">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1138.005" offset="4655352">But did the Board not say this was just a new use, it is a new machine?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="1142.484" stopTime="1166.024">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="1142.484" offset="4673220">The Board did not say it is a new machine.</text>
+            <text syncTime="1144.060" offset="4679594">It simply -- it simply -- in fact it claimed to the contrary that there was no structural change by the nature of this fact.</text>
+            <text syncTime="1151.835" offset="4710628">All it did was reject a premise that the examiner had relied on which was at that -- it was inconsistent with Bernhardt.</text>
+            <text syncTime="1160.475" offset="4745214">The Board tried to accept Bernhardt and then come back in the back door with the way around it.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1166.024" stopTime="1167.958">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1166.024" offset="4767366">You do not think it said it was a new machine?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="1167.958" stopTime="1168.883">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="1167.958" offset="4775098">No.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1168.883" stopTime="1170.879">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1168.883" offset="4778859">But nevertheless not patentable?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="1170.879" stopTime="1229.178">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="1170.879" offset="4786801">They said it was not patentable because it found no structural change, no enhancement of a function of the machine, those were his words, enhancement of the function of the machine.</text>
+            <text syncTime="1180.031" offset="4823477">So they did not concede that this was a new machine.</text>
+            <text syncTime="1187.276" offset="4852420">Now, we get to this question of is it a new machine or is it not and you really have to think about what -- what computers are and what they do.</text>
+            <text syncTime="1195.423" offset="4885021">The Bernhardt case says that every general purpose computer becomes a special purpose computer when you put in a new program and the reason for this is that the electronic circuitry changes, but this machine only exists in fractions of a second while the program is going on, and as soon as the sequence is completed the new machine is gone until the program is put back in again.</text>
+            <text syncTime="1218.076" offset="4975614">Now, this evanescence electronic condition just is not a new machine under Section 101.</text>
+            <text syncTime="1225.703" offset="5006125">The only machine involved is the existing general purpose computer.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1229.178" stopTime="1232.163">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1229.178" offset="5020022">What if you have the analog computer?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="1232.163" stopTime="1239.134">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="1232.163" offset="5031934">I think the argument would be the same, although we do not have an analog computer here and the technology is somewhat different.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1239.134" stopTime="1247.513">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1239.134" offset="5059832">I mean, there you do not have it just for an instant, you have, once it is wired I take it, it -- it is -- is set in place the way any other machine is?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="1247.513" stopTime="1269.821">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="1247.513" offset="5093374">Well, with this difference I do not fully -- this record that has not told us enough about the -- the operation of what are called general purpose analogs, and I really cannot describe them for you, but I think as in Benson I would have to say that the issue of analog computers is not before us here, but with -- at least with the general purpose computer, about which we can talk with --</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1269.821" stopTime="1272.598">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1269.821" offset="5182608">Is that a digital, basically a general purpose?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="1272.598" stopTime="1471.364">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="1272.598" offset="5193684">This calls for a -- a general purpose digital computer.</text>
+            <text syncTime="1279.006" offset="5219284">Now, these machines, I mean, digital general purpose computers are frequently multi-programmed.</text>
+            <text syncTime="1284.354" offset="5240704">So that you have, may be operated on time-sharing basis, and almost simultaneously they have data from all kinds of sources and programs coning in, and they are able to sort it out and operate almost instantaneously on a large number of them.</text>
+            <text syncTime="1296.666" offset="5290023">Now, to say that this single general purpose computer is as many different machines, for legal purposes, as -- as there are programs in it, is really the step into the area of legal fiction, which is what Judge Rich candidly recognized we were dealing with.</text>
+            <text syncTime="1315.698" offset="5366092">The various configurations of circuitry or electronic pathways are no more new machines than would be switching configurations in a railroad yards that is constantly changing or the -- or the different circuit patterns that appear in electric sign that flashes the news; you change those circuit patterns to light up the bulbs, it is all it is, but it is one machine.</text>
+            <text syncTime="1337.184" offset="5452087">When we get down to -- it does not make a difference between process claims and machine claims.</text>
+            <text syncTime="1340.973" offset="5467238">As I have said that is a matter of the draftsman art and finally there is an argument made that the general purpose computer will achieve the same results as a hardwire special purpose computer, so it must be a new machine.</text>
+            <text syncTime="1354.002" offset="5519274">But I think the answer to that is that -- that a special purpose machine can accomplish the same results as a programmed general purpose device, but equivalence of results is not equivalence of means.</text>
+            <text syncTime="1368.442" offset="5577057">It is well established that the results that a machine achieves, the function of the machine, to use the old language from Corning against Burden, is not patentable as a machine.</text>
+            <text syncTime="1378.071" offset="5615614">The special purpose machine has a physical structure.</text>
+            <text syncTime="1380.591" offset="5625645">The program is only a sequence of steps carried out in a machine with a different structure.</text>
+            <text syncTime="1385.160" offset="5643930">Now, this is what led to the Digitronics decision which we have described in our reply brief.</text>
+            <text syncTime="1393.877" offset="5678830">There is an argument made that the, there would be an unconstitutional discrimination to grant a patent on a hardwire machine, but not on a program general purpose machine or rather to put more truthfully on the program itself, I think the answer to that is that it is up to Congress, as the Court pointed out in Benson, to decide how far it will go.</text>
+            <text syncTime="1413.625" offset="5757824">In Deepsouth against Latrum (ph), the Court pointed out that the scope of the patent clause is for Congress to implement, and that is what really takes care of the equal protection argument in Nash (ph).</text>
+            <text syncTime="1428.080" offset="5815607">Now, finally there is a, I mean, really what this sounds in -- is the problem of -- of technology overtaking existing law.</text>
+            <text syncTime="1436.158" offset="5847895">We faced this in the CATV area now and the Court’s decisions have reflected that and in recently I think in the Radio Music case, 20th Century Music Corporation against Aiken, where the technology just does not fit the existing law.</text>
+            <text syncTime="1451.382" offset="5908812">Congress was called on to do something about this in Benson, it has not acted on computer programming yet, we do not know whether it will.</text>
+            <text syncTime="1460.207" offset="5944130">Thank you.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1471.364" stopTime="1473.212">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1471.364" offset="5988747">Mr. Shapiro, you usually have six minutes.</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="1473.212" stopTime="1476.398">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="1473.212" offset="5996166">I should like -- I should like to reserve the remainder of my time, Your Honor.</text>
+          </turn>
+        </section>
+        <section startTime="1476.398" stopTime="3302.103">
+          <heading>Argument of Morton C. Jacobs</heading>
+          <turn speaker="warren_e_burger" startTime="1476.398" stopTime="1511.245">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1476.398" offset="6008913">Very well, Mr. Jacobs?</text>
+            <text syncTime="1492.106" offset="6071712">Among other things in your own time, I wish you would address yourself for my benefit to Judge -- Chief Judge Markey’s observation on unobviousness if you will?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="1511.245" stopTime="1712.298">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="1511.245" offset="6148303">Mr. Chief Justice and may it please the Honorable Court.</text>
+            <text syncTime="1523.408" offset="6196890">Respondent’s invention is concerned with the problem of meeting the needs of small businessmen, farmers and professionals to have good accurate, reliable financial records and to have, where possible, the benefit of large-scale data processing systems in the same way that large corporations and government make use of these facilities.</text>
+            <text syncTime="1563.976" offset="6359163">One solution to that problem of providing a computer is to do the same thing that is done in a large corporation of the government to have all of the departments or users conform to the single system, a single algorithmic procedure that the computer is constructed to operate on.</text>
+            <text syncTime="1593.560" offset="6477550">In short, if all of these small users, the businessmen, the professionals, the farmers would all keep their books in the same way, then that solution would have been available.</text>
+            <text syncTime="1614.664" offset="6561978">Respondent said, instead of having all the users adapt to the machine, let us construct a machine which will adapt to the users and so he provided a set of controls for a computer, so that any ledger format, any method of bookkeeping could be used by a user.</text>
+            <text syncTime="1645.345" offset="6684649">And that ledger format and bookkeeping procedure of each user would be established in the circuits of the machine, in the Master Circuits as we called them in the patent application, and a general set of controls would adapt to those master circuits and their contents and operate, so that each individual's format, its own way and in its own words could be operated on by the machine, each individuals own method of bookkeeping could be operated on and what is more interesting because of this adoptive procedure, each time a user wanted to change his procedure, change his data, change his records, he could do it in a simple fashion.</text>
+            <text syncTime="1704.215" offset="6920169">He did not need a computer programmer or anyone else to restructure the machine.</text>
+            <text syncTime="1708.850" offset="6938663">He could communicate directly with the machine by reason of these controls.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1712.298" stopTime="1730.828">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1712.298" offset="6952456">(oice Overlap) this programming be just as much available and just as useful to the ordinary taxpayer to separate his checks that went out for contributions to his church, the contribution or the payments to his doctor, to taxes, to other detectable expenses or not?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="1730.828" stopTime="1904.651">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="1730.828" offset="7026644">Yes it would, Mr. Chief Justice and that is contemplated by use of the program that -- that this machine is implemented in, that precisely those benefits would be derived.</text>
+            <text syncTime="1747.037" offset="7091428">I spoke primarily of -- of business users, people engaged in some enterprise, but it would also apply to personal financial record keeping as well.</text>
+            <text syncTime="1756.874" offset="7130820">So that out of this system would be derived the possibility that people can go their own way and still get the benefits of the reliability of the digital computer, the fast speed of the digital computer, to keep sound records for tax and other purposes and as far as the, as far as these benefits are concerned they are once of in effect by an adaptive machine removing the impediment of having to deal with a machine, because the machine adapts to the user.</text>
+            <text syncTime="1800.471" offset="7305214">Now, this is not a method of bookkeeping that is inside the machine.</text>
+            <text syncTime="1803.760" offset="7318379">It is not an accounting algorithm that is inside the machine.</text>
+            <text syncTime="1807.316" offset="7332590">It is a machine that adapts to any body’s method of bookkeeping, adapts to any ledger format and it does whatever is required in that regard.</text>
+            <text syncTime="1823.981" offset="7399255">Besides the software programming version in the computer, in the patent application for the computer that we have described, we also indicate that the control mechanisms can also be implemented by what is called hardware programming.</text>
+            <text syncTime="1848.406" offset="7496952">The description is in terms of one skilled in the art and in the computer art, knows the circuits of the computer art, would understand how to build and operate the circuit in accordance with the statutory requirements of Section 112.</text>
+            <text syncTime="1866.549" offset="7569468">The computer expert would know what happens in those circuits and would know how to build a machine and operate it, and in both the hardware version and the software version.</text>
+            <text syncTime="1875.621" offset="7605831">If we had a demonstration of this machine, and it was all inside the machine housing so we couldn’t look in there, there would be no question, it would be a machine, because it would perform automatically.</text>
+            <text syncTime="1892.399" offset="7672913">It would need all the definitions of a machine, a devise that does something reasonably complex without human intervention, automatically.</text>
+            <text syncTime="1901.120" offset="7707813">That is an automatic machine; it goes beyond the definition of machine.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1904.651" stopTime="1913.948">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1904.651" offset="7721919">Well but you can say that about a record player too, but that does not mean you get a patent for a new record?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="1913.948" stopTime="1934.205">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="1913.948" offset="7759117">That is true, Mr. Justice Rehnquist.</text>
+            <text syncTime="1918.618" offset="7777821">One does not get a new patent on a new record because there is no technical innovation on the contents of the record.</text>
+            <text syncTime="1926.118" offset="7807810">We are not seeking a patent on a record.</text>
+            <text syncTime="1928.587" offset="7817632">We are seeking a patent on a machine and on the structure of the machine.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1934.205" stopTime="1948.807">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1934.205" offset="7840097">But the physical machine is already well developed, is it not, and then perhaps patented it separately?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="1948.807" stopTime="2032.859">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="1948.807" offset="7898507">The answer to your question is a complicated one, Mr. Justice Rehnquist and I -- I would like to give you an answer.</text>
+            <text syncTime="1961.060" offset="7947512">This diagram is an attempt at a lawyer’s abstraction of all that we need to know of how a computer is constructed as it relates to the issues, the legal issues in this case.</text>
+            <text syncTime="1982.044" offset="8031522">In order to understand how a special purpose computer is constructed, we have to understand also how the electrical components are combined to produce that computer.</text>
+            <text syncTime="1997.048" offset="8091499">They are combined in the fashion of using conventional computer elements, correction electrical components, conventional electrical components, resistors, diodes, transistors and connecting to those resistors, diodes and transistors into a circuit configuration, the circuit configurations that we illustrate here are the basic circuit configurations used in a computer.</text>
+            <text syncTime="2027.957" offset="8215111">They are and circuits, not circuits or circuits, they are called logic circuits.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2032.859" stopTime="2034.480">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2032.859" offset="8234755">May I ask, Mr. Jacobs?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2034.480" stopTime="2036.071">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2034.480" offset="8241233">Yes sir.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2036.071" stopTime="2039.440">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2036.071" offset="8247607">Is what appears on that chart precisely is the same thing as it appears on page 30 of your brief?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2039.440" stopTime="2040.068">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2039.440" offset="8261086">Yes sir.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2040.068" stopTime="2043.267">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2040.068" offset="8263594">It is because that chart is going to be gone after this oral argument?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2043.267" stopTime="2047.633">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2043.267" offset="8276342">Yes sir.</text>
+            <text syncTime="2044.193" offset="8280103">It appears precisely on page 30.</text>
+            <text syncTime="2045.992" offset="8287313">It is just a blow-up of what appears there.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2047.633" stopTime="2048.181">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2047.633" offset="8293792">Alright.</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2048.181" stopTime="2051.136">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2048.181" offset="8295986">Commits me to point to the items so that I can communicate with you.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2051.136" stopTime="2051.870">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2051.136" offset="8307898">Thank you.</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2051.870" stopTime="2222.986">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2051.870" offset="8310823">Thank you, sir.</text>
+            <text syncTime="2056.915" offset="8330990">A circuit configuration is what we are asking for in the way of patent.</text>
+            <text syncTime="2061.947" offset="8351052">The configuration of the circuit elements, as defined in the brief of the petitioner, on pages 14 and 15, and on the footnote on page 15 I believe, a configuration is the ordered arrangement, the physical location and arrangement for interrelationship of the ports.</text>
+            <text syncTime="2087.822" offset="8454601">We take circuit components and we connect them in a configuration and that is done -- and that is done at the logic circuit level.</text>
+            <text syncTime="2096.925" offset="8490964">These same logic circuits are in turn connected at another level in a hierarchical structure of this complex machine.</text>
+            <text syncTime="2107.436" offset="8533073">Those functional circuits; adder, compare, branch, the fetch and store, the basic circuits of a general purpose computer are configured by hardware programs using as the basic elements the and or and not logic circuits.</text>
+            <text syncTime="2130.469" offset="8625233">At the level of the special purpose computer, these same functional circuits are combined in a new circuit configuration and that circuit configuration is also a program in the same way that the programs are employed to build the functional circuits.</text>
+            <text syncTime="2160.860" offset="8746755">So to answer your question, Mr. Justice Rehnquist, we are building a circuit configuration that claims define a circuit configuration.</text>
+            <text syncTime="2172.114" offset="8791790">They define a circuit configuration whether it be built by hardware or software programming and as I indicated, if we saw this machine operating, the question would arise from the patent office, not is this machine patentable subject matter because it is a machine, but how do you construct it with hardware programming or software programming and that question is a simple question.</text>
+            <text syncTime="2203.686" offset="8918014">It is how do you electrically interconnect and interrelate the circuit elements?</text>
+            <text syncTime="2211.045" offset="8947480">That is the issue in this case, that is the difference between hardware programming and software programming, a mode of connection.</text>
+            <text syncTime="2221.211" offset="8988126">The patent office says --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2222.986" stopTime="2236.732">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2222.986" offset="8995232">What is it that you contribute to all of that or is this all yours?</text>
+            <text syncTime="2232.030" offset="9031385">You talked about machine, and you are talking about IBM machine, are you not?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2236.732" stopTime="2241.271">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2236.732" offset="9050193">We are talking about the IBM machine, Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2241.271" stopTime="2244.183">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2241.271" offset="9068375">What does this do to the IBM machine?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2244.183" stopTime="2256.919">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2244.183" offset="9080077">The IBM machine consists of electrical components, logic circuits and functional circuits and it also consists of another device called a “function sequencer.”</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2256.919" stopTime="2259.092">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2256.919" offset="9130964">What do you put in there in addition?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2259.092" stopTime="2265.513">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2259.092" offset="9139637">What we put in there in addition is the software program which is the circuit configuration.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2265.513" stopTime="2268.596">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2265.513" offset="9165341">And where is that coming at?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2268.596" stopTime="2466.577">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2268.596" offset="9177671">Here it is the software programs which are stored in the memory states of a computer.</text>
+            <text syncTime="2274.630" offset="9201808">Up to this point we have what are called unrelated circuits, the functional circuits.</text>
+            <text syncTime="2280.883" offset="9226886">If we think for a moment of an adder, a compare circuit, a branch circuit, simple fetch and store circuits, simple little things like that and combine them into patterns of hundreds, thousands, even millions of such circuits, extraordinary things take place that computer scientists have told us.</text>
+            <text syncTime="2305.361" offset="9324792">You can restructure those circuits by that combination into a musical synthesizer, you can reconstruct it into a document or character recognition machine, into a talking computer.</text>
+            <text syncTime="2321.015" offset="9387382">Into a computer for reading electrical meters, a computer performing calculations on a readings that it achieves, a computer that can take us to the moon and all of those different things are done with these four little circuits.</text>
+            <text syncTime="2338.866" offset="9458748">They are not little in -- in concept.</text>
+            <text syncTime="2342.346" offset="9472646">They are reasonably sophisticated.</text>
+            <text syncTime="2345.014" offset="9483408">You know, they could fit in my hand in modern technology, so small we couldn’t even see them microscopically in the most modern technology, but with the combinations of those elementary, unrelated circuits, the extraordinary technology of a modern computer has achieved.</text>
+            <text syncTime="2370.623" offset="9585808">The configuration of those circuits is the same thing that takes place at the elementary level of forming circuit configurations, which have always been patentable since Sam Morse.</text>
+            <text syncTime="2389.934" offset="9663026">The same thing in the way of a circuit configuration that takes place at the functional circuit level, which have always been patentable since I have been involved in this technology and that goes back some decades.</text>
+            <text syncTime="2407.261" offset="9732303">The fact that programs are used to construct these functional circuits is no detriment to patentability.</text>
+            <text syncTime="2417.792" offset="9774517">The fact that programs are used to build special purpose computers is no detriment to patentability.</text>
+            <text syncTime="2424.517" offset="9801370">The only issue is how do you connect the circuits.</text>
+            <text syncTime="2429.769" offset="9822373">As my colleague indicated before lunch, but if it is done evanescently, if it is done in fractions of a second or millionths of a second then it is not patentable.</text>
+            <text syncTime="2443.961" offset="9879111">If it is done slowly, permanently, like taking an erector set and riveting the pieces together permanently that would be patentable, but if we took a nut and bolt and put the pieces together and then took the pieces apart with a nut and bolt, the machine we built with that later technique, that would be evanescent, it could not be patented they say.</text>
+            <text syncTime="2464.416" offset="9960926">There is no basis in the law for this theory?</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2466.577" stopTime="2482.883">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2466.577" offset="9969599">But it is one thing to say that a -- a pro the fact that you require rely on a program should not make it unpatentable.</text>
+            <text syncTime="2476.669" offset="10009932">It is quite another to say that the program itself is patentable, which is really what you are saying here?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2482.883" stopTime="2625.051">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2482.883" offset="10034801">Almost, Mr. Justice Rehnquist, almost, but let me clarify what the word program is.</text>
+            <text syncTime="2489.315" offset="10060610">If we look in the Encyclopedia Britannica, we will find the definition of the word program.</text>
+            <text syncTime="2495.469" offset="10085165">Now, interestingly enough it does not appear in the Section under computers, the definition does not.</text>
+            <text syncTime="2502.242" offset="10112228">The definition appears in the Section under Automation, in the Section on Automatic Machines and in the Encyclopedia Britannica, they say a program tells us how a machine will function.</text>
+            <text syncTime="2522.055" offset="10191535">A program tells the machine what the parts will do and how they will work together to produce the desired result.</text>
+            <text syncTime="2531.307" offset="10228525">The very first programs that we know of took place some hundreds of years ago in the time when the patent system was developed.</text>
+            <text syncTime="2540.592" offset="10265723">As the encyclopedia reminds us and that is a program for operating a steam engine, so that a man does not have to stand at the valves and open them and close them, as he had to do in the first steam engines, even I was surprised to learn that.</text>
+            <text syncTime="2556.448" offset="10329148">What they did with the program was to replace the human being at this tedious mental and physical labor, and build a mechanism for interconnecting the parts.</text>
+            <text syncTime="2569.087" offset="10379617">So that as the piston went out, one thing happen with the valves, when the piston went in another thing happened with the valves, that is a program.</text>
+            <text syncTime="2576.563" offset="10409606">A program is when we take a manual choke and replace it with an automatic choke.</text>
+            <text syncTime="2584.873" offset="10442833">We have programmed this simple device.</text>
+            <text syncTime="2587.713" offset="10454118">It is a rather elementary kind of program, but it is a program nevertheless and in modern technology where the computer is being put under the hood of our automobiles in order to solve the problems of pollutants and alike, the programmed digital computer is now being used as we explain in our brief and as Amici have explained in their brief -- briefs, to build these mechanisms under the computer, the control mechanisms, so that the engine will operate more effectively.</text>
+            <text syncTime="2623.717" offset="10598210">In fact, they are patent, excuse me --</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2625.051" stopTime="2648.825">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2625.051" offset="10603539">Let me (Voice Overlap) in the taking of you example of a change from a manual choke to an automatic choke, presumably there is only one or at the most patents that are available on --- on that kind of change, but if your theory is right, there is a patent available for every conceivable configuration of this computer programming?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2648.825" stopTime="2864.075">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2648.825" offset="10698624">I would say yes and no to the first part of your comment, your premise, but I would say yes to the last part, and let me explain that.</text>
+            <text syncTime="2659.634" offset="10741883">They are not just a few patents to automatic chokes.</text>
+            <text syncTime="2663.527" offset="10757452">Automatic chokes are a development that have existed for long time, and these mechanisms are always under examination and ways of looking -- ways of being searched for to improve upon them, they still are in even in the mechanical and electro-mechanical sense.</text>
+            <text syncTime="2679.785" offset="10822445">In the second part of your question let me say this.</text>
+            <text syncTime="2689.076" offset="10859643">Many, many computer programs are being written, many more will be written.</text>
+            <text syncTime="2694.837" offset="10882631">Most of them use the state of the art, just as most circuits that are built are state of the art. Perhaps one percent of the circuits that are built that are available to us, go beyond the state of the art and are patentable subject matter.</text>
+            <text syncTime="2710.626" offset="10945847">As far as computer programs are concerned, I would suspect it is far a less than one percent, maybe a fraction of one percent of patentable subject matter.</text>
+            <text syncTime="2719.505" offset="10981374">Not patentable subject matter, correction, are patentable.</text>
+            <text syncTime="2722.184" offset="10992032">They would all be patentable subject matter I have to say because they all configure a circuit, they all take electrical circuits and combine them into new sequences and combinations and relationships.</text>
+            <text syncTime="2735.277" offset="11044381">And that is patentable subject matter as a machine and the important part for us, the important part for us is to understand the import of all of this, and of the rule that is being requested by the patent office.</text>
+            <text syncTime="2753.904" offset="11118882">The patent office says computers built by software programming are not patentable.</text>
+            <text syncTime="2762.889" offset="11154827">They cite a case which on the same theory holds, that since a program is supposed to be a new use of this digital computer, it does not infringe a patent built on a hardware, on the same type of computer with hardware programming.</text>
+            <text syncTime="2783.512" offset="11237374">The import of that decision is that one can take any hardware patent and infringe it with impunity, it would not be an unlawful infringement, by programming a general purpose computer to perform the same set of functions, to create the same sequence of circuits.</text>
+            <text syncTime="2806.430" offset="11329011">That is what that decision holds and what we have as result in the way of an absurdity, we have as a result that you cannot get patents on software programming and any hardware programming patents you get, can be easily infringed by software programming.</text>
+            <text syncTime="2821.329" offset="11388675">As a consequence the patent system is not available as an incentive for operating in a computer technology.</text>
+            <text syncTime="2828.306" offset="11416574">That is the import of -- of the rule suggested by the patent owners.</text>
+            <text syncTime="2838.705" offset="11458161">The Board of Appeals held that we have a new machine.</text>
+            <text syncTime="2843.848" offset="11478745">They held it is a different machine from the general purpose computer and they did not feel constrained to do the bidding of the CCPA, when it comes to evaluating this technology.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2864.075" stopTime="2874.383">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2864.075" offset="11559620">And they would hold any -- as any general purpose computer that has a new program designed for it to be a new machine, I -- I suppose?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2874.383" stopTime="2874.625">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2874.383" offset="11600789">There has been no --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2874.625" stopTime="2877.265">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2874.625" offset="11601834">May not hold it patentable but they would hold it to be a new machine?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2877.265" stopTime="2904.972">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2877.265" offset="11612388">There has been no change in the Board of Appeals' position in this regard.</text>
+            <text syncTime="2881.107" offset="11627748">There has been one case which was published, in fact, we have submitted it to the CCPA over opposition, but we did submit it to the CCPA and I think it is ultimately a part of the total record.</text>
+            <text syncTime="2892.977" offset="11675186">A decision of the Board of Appeals and that Board of Appeals did not change its position on new machine, different machine, or new use, there is not a -- an iota of change of the Court’s position in that regard.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2904.972" stopTime="2910.811">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2904.972" offset="11723147">Did the Board required to follow the court in other cases?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2910.811" stopTime="2939.539">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2910.811" offset="11746552">As a general rule it does, but we are talking basically here about what is a factual issue.</text>
+            <text syncTime="2915.983" offset="11767241">What happens inside of this box with the circuits?</text>
+            <text syncTime="2921.931" offset="11791065">And I think the Board would feel a large sense of independence, since one of their prerequisites for holding office in 35 U.S.C Section 7, is that they have substantial scientific ability and I believe they would have a considerable sense of independence in this regard.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2939.539" stopTime="2942.373">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2939.539" offset="11861491">Did the Board say it was a new machine?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2942.373" stopTime="2950.905">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2942.373" offset="11872776">That was their holding because the examiner below said it was not a new machine, that it was merely a new use, and they were reversed -- that rejection was reversed.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2950.905" stopTime="2951.670">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2950.905" offset="11906944">And they rejected it --</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2951.670" stopTime="2953.051">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2951.670" offset="11909975">And they said it -- may I read?</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2953.051" stopTime="2954.945">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2953.051" offset="11915512">They rejected it for some other reason?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2954.945" stopTime="2995.720">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2954.945" offset="11923036">Yes.</text>
+            <text syncTime="2955.334" offset="11924603">They said since -- they said that there was a premise by the examiner that an unprogrammed or a definitely programmed general purpose computer is the same machine as the one that would result from appellants programming of the same or a similar computer.</text>
+            <text syncTime="2972.938" offset="11995029">Since neither the Court of Customs and Patent Appeals nor this Board considers this premise to be valid, each of the rejections advanced by the examiner is not sustained.</text>
+            <text syncTime="2984.142" offset="12039855">Now, there was another issue let me speak to it at this point, about their saying later on about different machine.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2995.720" stopTime="2998.470">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2995.720" offset="12086144">[Laughter] time is short, is it not?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="2998.470" stopTime="3135.468">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="2998.470" offset="12097220">It races, Mr. Justice White.</text>
+            <text syncTime="3003.215" offset="12116133">They say they are simply because one chooses to denominate a Section of its memory by a term descriptive of one meaning, such as a file of stock numbers like in taking inventory, rather than the file of sums of money that that kind of difference would not be a new machine, or as they use the phrase different machine and we have no disagreement with that.</text>
+            <text syncTime="3025.100" offset="12203695">We are not asking for a patent because we have applied old techniques of an adoptive machine to a situation in which it is now going to be used for financial record keeping.</text>
+            <text syncTime="3038.848" offset="12258657">As to the issues of unobviousness, Mr. Chief Justice, there is no suggestion in the patent office’s briefs, that the prior art can achieve the same result, that the same mechanisms exist, the same combination of control mechanisms, what we call a master and a general control and their interrelationship as defined in the claims and as found by the CCPA.</text>
+            <text syncTime="3076.256" offset="12408286">There is not a slightest doubt that those mechanisms do not exist in the prior art.</text>
+            <text syncTime="3082.638" offset="12433886">Mr. Chief Justice Markey dealt with one issue and that is category codes.</text>
+            <text syncTime="3087.529" offset="12453426">We do not seek a patent on category codes and I can say only that that is not an issue, it is referred to in the claims, but that provides the context in which this kind of machine has to function and anybody can use any other machine to work with category codes, to perform the same types of services, the same type of use of -- of general purpose computers for record keeping of users as long as they do not build the machine that we have which is adaptive to the user and which has a different combination of controls.</text>
+            <text syncTime="3133.342" offset="12636701">On the issue of jurisdiction --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3135.468" stopTime="3165.972">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3135.468" offset="12645165">So if a -- if a holding company, if a conglomerate had a lots of units around the country and it wanted to keep track of it -- of the -- of the bookkeeping and the profits of the various units and it used this very machine to -- to give it ready information about the operations of its various units, would that, would that infringe this patent?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="3165.972" stopTime="3174.121">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="3165.972" offset="12767209">Yes it would if they use the same configuration of controls that which infringed this patent, but they would have no reason to --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3174.121" stopTime="3181.039">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3174.121" offset="12799810">Is your -- but you would not say in order to infringe they would have to have the identical circuitry?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="3181.039" stopTime="3186.382">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="3181.039" offset="12827499">No, our claims are not limited to any particular program, software or hardware and not limited to various ways of --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3186.382" stopTime="3190.829">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3186.382" offset="12848815">So your very claims of generality of this -- of this way of doing things?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="3190.829" stopTime="3197.395">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="3190.829" offset="12866579">We are -- we are claiming the generality of circuit configurations whereby these set of controls is achieved.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3197.395" stopTime="3199.821">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3197.395" offset="12892910">So you are not just claiming something like a copyright, I mean- --</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="3199.821" stopTime="3200.855">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="3199.821" offset="12902628">No, we are not.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3200.855" stopTime="3208.149">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3200.855" offset="12906703">You are claiming -- you are -- there could be a lot of machines to do the same function, but differently hooked up that would violate your patent?</text>
+          </turn>
+          <turn speaker="morton_c_jacobs" startTime="3208.149" stopTime="3302.103">
+            <label>Mr. Morton C. Jacobs</label>
+            <text syncTime="3208.149" offset="12935855">That is right, Mr. Justice White.</text>
+            <text syncTime="3211.313" offset="12948603">As far as the issue of new use is concerned, let me make one comment.</text>
+            <text syncTime="3216.270" offset="12968352">New use means you compare the current invention with the prior machine.</text>
+            <text syncTime="3224.561" offset="13001579">If the current invention is the same structure as claimed with the prior machine, then it is a new use.</text>
+            <text syncTime="3232.900" offset="13034912">If it is a different structure, then you evaluate that structure for unobviousness and we do not claim the same structure because we have a configuration inside of that machine which did not exist there before, and that is the -- that is the fundamental issue.</text>
+            <text syncTime="3249.669" offset="13101994">New use when it was written into the 1952 statute was for purposes of extending patentability because you could not get patents before.</text>
+            <text syncTime="3257.785" offset="13134490">The patent office is arguing here that it ought to be used to restrict patentability, not to extend it.</text>
+            <text syncTime="3270.416" offset="13184959">A point is raised in the reply brief that I would like to speak to just quickly and that is with regard to misuse of patents.</text>
+            <text syncTime="3278.935" offset="13219023">It is a completely misleading and erroneous statement to say that the law is such that a staple article of commerce like a general purpose computer could be tied in by means of a patent.</text>
+            <text syncTime="3292.280" offset="13272417">It is clearly in viol -- it would be clearly in violation of the Section 271 of the statute.</text>
+            <text syncTime="3299.800" offset="13302510">Thank you.</text>
+          </turn>
+        </section>
+        <section startTime="3302.103" stopTime="3509.434">
+          <heading>Rebuttal of Howard E. Shapiro</heading>
+          <turn speaker="warren_e_burger" startTime="3302.103" stopTime="3303.942">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3302.103" offset="13311705">Do you have anything further, Mr. Shapiro?</text>
+          </turn>
+          <turn speaker="howard_e_shapiro" startTime="3303.942" stopTime="3507.373">
+            <label>Mr. Howard E. Shapiro</label>
+            <text syncTime="3303.942" offset="13319124">Yes, Your Honor, briefly.</text>
+            <text syncTime="3311.898" offset="13350889">First I note that in respondents’ analysis, he has not pointed to anything in the language of its application, which expressly describes a circuit configuration.</text>
+            <text syncTime="3326.357" offset="13408776">Those words do not appear.</text>
+            <text syncTime="3328.350" offset="13416717">No drawing appears showing any particular circuit configuration of any kind.</text>
+            <text syncTime="3333.999" offset="13439287">What is described is a sequence of steps that can be carried out in a computer.</text>
+            <text syncTime="3342.409" offset="13472933">The reference has been made to a hardwire version, and the phrase special computer use.</text>
+            <text syncTime="3352.231" offset="13512221">The respondent himself, in his application at A66, drew the distinction between a general purpose computer which is programmed and a hardwire version, but there is nothing in this application that would tell anyone how to build a hardwire version There has been a discussion of the meaning of the claims.</text>
+            <text syncTime="3382.704" offset="13634161">I think if you look at the appendix to the petition at page 37A, one can see the way that any claim for a process, involving a computer program can be simply revised by a few words to be a machine claim.</text>
+            <text syncTime="3411.494" offset="13749308">It is literally a matter of substituting the word machine and substituting the word means, but that has to be backed by some sort of structure description in the specification and that just is not here.</text>
+            <text syncTime="3426.548" offset="13809495">It has been stated that the program -- the application is not limited to any particular program, so that what is claimed is the general right to use computers for this particular kind of accounting.</text>
+            <text syncTime="3446.169" offset="13887966">A word on the obviousness question which we have submitted on our briefs, obviousness does not require the same mechanisms to be in existence.</text>
+            <text syncTime="3456.940" offset="13931016">Obviousness is the gap between what exits and what someone skilled in the art could bring into existence.</text>
+            <text syncTime="3466.058" offset="13967588">The same mechanism's issue is a matter of anticipation by prior patents, and that is not before the Court, that arises under Section 102, the obviousness issue under Section 103.</text>
+            <text syncTime="3477.966" offset="14015130">Judge Markey, in his dissent on obviousness was quite specific.</text>
+            <text syncTime="3486.903" offset="14050970">He said that one skilled in the art presented with a conventional machine system would have found that obvious without knowledge of appellant's disclosure to have modified the system, as set forth in the appealed claims.</text>
+            <text syncTime="3501.181" offset="14108022">He was not just confining himself to category codes.</text>
+            <text syncTime="3506.198" offset="14128084">Thank you, Your Honor.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3507.373" stopTime="3509.434">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3507.373" offset="14132786">Gentleman.</text>
+            <text syncTime="3508.074" offset="14135607">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

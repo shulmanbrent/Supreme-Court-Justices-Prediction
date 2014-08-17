@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="630014">/xml/cases/1982/81_1114/19830329o_81-1114.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1982/trs/81-1114op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="134.397">
+        <title>Illinois v. Abbott &amp; Associates, Inc.</title>
+        <section startTime="0" stopTime="134.397">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="7.398">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92310">The judgment and opinion in Illinois against Abbott Associates will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="7.398" stopTime="133.094">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="7.398" offset="121881">This case involves a construction of a provision of the Hart-Scott-Rodino Antitrust Improvements Act of 1976.</text>
+            <text syncTime="17.368" offset="161691">One provision of that statute provides that when the Attorney General of the United States has brought an action under the federal antitrust laws and has reason to believe that a state might have a basis for a similar federal action, he should give notice to the state attorney general.</text>
+            <text syncTime="34.517" offset="230341">The state attorney general then by another provision in the statute is authorized to request disclosure to the state of the investigative files of the Federal Government.</text>
+            <text syncTime="45.522" offset="274331">In this case, there was a federal grand jury investigation in Illinois of price fixing in the construction trades and the Attorney General gave the appropriate notice to the Illinois Attorney General who then requested access to the grand jury transcripts that the Federal Government had generated in the proceeding.</text>
+            <text syncTime="63.488" offset="346220">The statute says that the disclosure should be made to the extent permitted by law.</text>
+            <text syncTime="69.833" offset="371611">So when the state attorney general asked for the material the federal enforcement officials said they had to have a court order to get them because it's required by Rule 6(e) of Federal Rule of Criminal Procedure.</text>
+            <text syncTime="83.573" offset="426573">They said, they had no objection on the merits to disclosure but the procedure had to be followed.</text>
+            <text syncTime="88.719" offset="447157">The state attorney general then filed the appropriate petition and the District Judge denied access on the ground that they did not make the showing of need required by the federal rules.</text>
+            <text syncTime="100.882" offset="495745">The Court of Appeals affirmed and we granted certiorari to consider whether access should be granted, because other Circuit Courts had rendered conflicting decisions.</text>
+            <text syncTime="112.383" offset="541825">We affirm unanimously today the decision of the Court of Appeals because the statute only allows disclosure to the extent permitted by law and as we understand the federal rules and the applicable facts disclosure would not be permitted in this case.</text>
+            <text syncTime="127.171" offset="600966">The opinion is unanimous but Justice Brennan has filed a concurring opinion in which Justice O'Connor joined.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="133.094" stopTime="134.397">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="133.094" offset="624686">Thank you Justice Stevens.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

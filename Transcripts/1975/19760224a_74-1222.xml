@@ -1,0 +1,1882 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-28</verified>
+        <edit user="jgoldman" date="2014-05-01T10:12:27" startTime="526.302" oldSpeaker="unknown_speaker" newSpeaker="warren_e_burger"/>
+        <edit user="jgoldman" date="2014-05-01T10:12:30" startTime="627.732" oldSpeaker="unknown_speaker" newSpeaker="warren_e_burger"/>
+        <edit user="jgoldman" date="2014-05-01T10:12:32" startTime="779.666" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-05-01T10:12:36" startTime="788.958" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-05-01T10:12:42" startTime="1220.451" oldSpeaker="unknown_speaker" newSpeaker="warren_e_burger"/>
+        <edit user="jgoldman" date="2014-05-01T10:12:45" startTime="1461.634" oldSpeaker="unknown_speaker" newSpeaker="byron_r_white"/>
+        <edit user="jgoldman" date="2014-05-01T10:12:48" startTime="1615.155" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-05-01T10:12:55" startTime="1628.054" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-05-01T10:13:01" startTime="1628.054" oldSpeaker="potter_stewart" newSpeaker="byron_r_white"/>
+        <edit user="jgoldman" date="2014-05-01T10:13:20" startTime="1637.858" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <edit user="jgoldman" date="2014-05-01T10:13:22" startTime="1879.294" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-05-01T10:13:23" startTime="1933.034" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-05-01T10:13:26" startTime="2430.300" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <edit user="jgoldman" date="2014-05-01T10:13:31" startTime="2443.686" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <edit user="jgoldman" date="2014-05-01T10:13:35" startTime="2511.127" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-05-01T10:13:38" startTime="2639.340" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-05-01T10:13:43" startTime="2734.798" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-05-01T10:13:49" startTime="3020.202" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-05-01T10:13:50" startTime="3022.037" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-05-01T10:13:51" startTime="4067.946" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-05-01T10:13:52" startTime="4155.323" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-05-01T10:14:08" startTime="4158.595" oldSpeaker="unknown_speaker" newSpeaker="potter_stewart"/>
+        <edit user="jgoldman" date="2014-05-01T10:14:23" startTime="4294.011" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-05-01T10:14:28" startTime="4543.440" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-05-01T10:14:29" startTime="4551.590" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <edit user="jgoldman" date="2014-05-01T10:14:31" startTime="4554.112" oldSpeaker="unknown_speaker" newSpeaker="william_j_brennan_jr"/>
+        <identified user="jgoldman">2014-05-01</identified>
+      </history>
+      <resources>
+        <audioFile size="19654989">/xml/cases/1975/74_1055/19760224a_74-1222.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1975/trs/74-1222_19760224.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="melvin_kent_kammerlohr" type="advocate" gender="male" path="/advocates/mk/melvin_kent_kammerlohr" image="/advocates/mk/melvin_kent_kammerlohr/thumbnail.jpg">Melvin Kent Kammerlohr</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_c_cunningham" type="advocate" gender="male" path="/advocates/wc/william_c_cunningham" image="/advocates/wc/william_c_cunningham/thumbnail.jpg">William C. Cunningham</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+        <speaker id="william_j_brennan_jr" type="justice" gender="male" path="/justices/william_j_brennan_jr" image="/justices/william_j_brennan_jr/thumbnail.jpg">William J. Brennan, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="4887.507">
+        <title>Stone v. Powell</title>
+        <section startTime="0.000" stopTime="1705.818" revised="2014-01-21">
+          <heading>Argument of Melvin Kent Kammerlohr</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="54.588">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="104716">We will hear arguments next in number 74-1222, Wolff against Rice.</text>
+            <text syncTime="51.723" offset="311606">Mr. Kammerlohr, you may proceed whenever you are ready.</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="54.588" stopTime="191.488">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="54.588" offset="322995">Thank you Mr. Chief Justice and may it please the Court.</text>
+            <text syncTime="61.844" offset="352043">This is a case of -- for the then Warden Wolff of the Nebraska Penitentiary who is no longer there, was the, is now a petitioner in this case, the case brought by Mr. David Rice under 28 U.S.C 2254 to primarily contest the admission at his trial of some dynamite, dynamite caps, tools, other paraphernalia and also later some dynamite particles found in his clothing at the police station.</text>
+            <text syncTime="100.477" offset="506584">Briefly how this case arouse, Your Honors, on the early morning hours of August 17, 1970.</text>
+            <text syncTime="110.981" offset="548589">The police station in Omaha, Nebraska received a 911 emergency call, they had woman who was screaming, sounded like perhaps she was being raped and a certain location was given.</text>
+            <text syncTime="124.038" offset="600834">Two patrol cars were dispatched, a third patrol car heard the message and also went to the location on Ohio Street in Omaha, Nebraska and upon entering the premises, Officer Larry Menard saw a suitcase on the floor which he moved slightly, and the suitcase exploded killing Officer Menard and injuring two other policemen and demolishing the house.</text>
+            <text syncTime="151.289" offset="709816">The -- about five days later on the 22 of August 1970, the police had, during those five days working round the clock trying to gather evidence and so on, had learned that from witnesses that the bomb had been planted by one Dwaine Peek who is a member of the National Committee to Combat Fascism, which was also considered -- said to be in a case, and referred to as an offshoot of the Black Panther Organization.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="191.488" stopTime="197.548">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="191.488" offset="870626">It does not inform any of the predicate for the issuance of the search warrant, does not it?</text>
+            <text syncTime="196.042" offset="888807">You are just giving background --</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="197.548" stopTime="202.980">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="197.548" offset="894868">Yes, Your Honor, just giving background to refresh --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="202.980" stopTime="206.155">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="202.980" offset="916602">-- information in possession of the police at that time?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="206.155" stopTime="292.462">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="206.155" offset="929245">Yes, Your Honor.</text>
+            <text syncTime="208.149" offset="937291">And also, information in the -- as a result of this information and prior building of records over two-year period of newsletters, put out by the National Committee to Combat Fascism that they had advocated violence to police officers, including the killing of police officers.</text>
+            <text syncTime="232.684" offset="1035407">With the -- plus another evidence, they had gathered that perhaps one Edward Poindexter who was a member of the National Committee and officer, President I believe of the National Committee to Combat Fascism and Dwaine Peek, arrest warrants were issued for those two members.</text>
+            <text syncTime="253.759" offset="1119730">The police started on what they call a taskforce on the afternoon, late afternoon of August 22, first went to the headquarters of the National Committee to Combat Fascism.</text>
+            <text syncTime="266.862" offset="1172079">They went through the headquarters looking for these two persons that they had a search warrant -- arrest warrant for and did not locate them. They then went to Poindexter’s home, did not locate him there.</text>
+            <text syncTime="281.486" offset="1230594">They went to cousin, a cousin’s home of Dwaine Peek, cousin’s name are Frank and Will Peek and then they went to the home of David Rice, who is the respondent in this case.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="292.462" stopTime="296.743">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="292.462" offset="1274479">And up to this point, what warrants if any, did they have?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="296.743" stopTime="303.272">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="296.743" offset="1291616">Up to this point, they had arrest warrants for Dwaine Peek and Edward Poindexter, Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="303.272" stopTime="305.052">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="303.272" offset="1317738">Not for the, not for the respondent?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="305.052" stopTime="307.648">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="305.052" offset="1324843">That is correct, Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="307.648" stopTime="308.515">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="307.648" offset="1335292">-- up to that point?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="308.515" stopTime="330.377">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="308.515" offset="1338740">At this point.</text>
+            <text syncTime="312.317" offset="1353892">The -- I would like to point out that they did not, I think the opinion in the United States Court of Appeals for the Eight Circuit, does a disservice to this case by saying, by comparing it to Langford versus Gilstone where some 300 non-related searches were made.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="330.377" stopTime="331.702">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="330.377" offset="1426198">Is that Baltimore case?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="331.702" stopTime="343.498">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="331.702" offset="1431423">Yes, Your Honor.</text>
+            <text syncTime="332.809" offset="1435916">In this case, there are only three searches made before they arrived at the Rice premises and even those were connected.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="343.498" stopTime="346.380">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="343.498" offset="1478652">Did they search anything at the first two stops?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="346.380" stopTime="366.676">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="346.380" offset="1490146">They searched the premises at the headquarters, at the other two stops the record is not clear just what they did, they went there looking for them at least.</text>
+            <text syncTime="355.998" offset="1528703">I believe at the one place, there was a police officer there already, who assured them that neither one of the defendants are on the -- the subjects were on the premises.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="366.676" stopTime="374.958">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="366.676" offset="1571335">Just the pursuant to what Mr. Justice Stewart had mentioned, at that point the mission was to execute to serve an arrest warrant --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="374.958" stopTime="375.619">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="374.958" offset="1604458">For two other people --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="375.619" stopTime="378.284">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="375.619" offset="1607175">-- for two people who are not involved in this case?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="378.284" stopTime="399.875">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="378.284" offset="1617833">That is correct, Mr. Chief Justice.</text>
+            <text syncTime="382.146" offset="1633297">They were all three members of the party, the National Committee to Combat Fascism, and -- which had been prior -- previously connected into the case by the fact that Dwaine Peek was said to have planted the bomb for the National Committee to Combat Fascism.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="399.875" stopTime="401.212">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="399.875" offset="1704141">Was said by whom?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="401.212" stopTime="408.806">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="401.212" offset="1709470">His sisters and Donald Peek a brother had given this information to the police.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="408.806" stopTime="417.132">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="408.806" offset="1739877">And that information been published, made public to the public generally?</text>
+            <text syncTime="413.366" offset="1758163">It was a newspaper, was not it, or a publication?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="417.132" stopTime="429.902">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="417.132" offset="1773209">All the police officers were cognizant of this. Several witnesses had seen Dwaine Peek carrying a heavy suitcase and telling people, do not touch it, on the night before the -- the night before the bomb was planted.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="429.902" stopTime="430.895">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="429.902" offset="1824305">And that was Peek?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="430.895" stopTime="431.439">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="430.895" offset="1828275">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="431.439" stopTime="436.190">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="431.439" offset="1830469">Who was the subject of, one of the subjects, one of the two subjects of the arrest warrants?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="436.190" stopTime="505.896">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="436.190" offset="1849382">That is correct.</text>
+            <text syncTime="441.631" offset="1871220">The -- upon arrival or some, late at night, maybe nine-thirty, ten o'clock at night that David Rice's premises, the lights were on, a television set was playing, they could see it through the door, the police knocked on the door and there was no response.</text>
+            <text syncTime="462.030" offset="1952827">And at this time the -- two of the police officers decided they should go back and see if they could get a search warrant.</text>
+            <text syncTime="471.169" offset="1989294">They left the other officers there to surround the house and the two officers went back to the police headquarters and drafted an affidavit and found themselves a magistrate, who incidentally in Nebraska, all magistrates are members of the Nebraska Bar Association in Good Standing, they presented the affidavit to the magistrate who issued the search warrant for the premises describing the exact address of David Rice’s premises and the things to be searched or to be seized.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="505.896" stopTime="508.393">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="505.896" offset="2128265">What, what were they?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="508.393" stopTime="526.302">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="508.393" offset="2138192">Dynamite, dynamite caps, pliers, pincher-nose pliers, those are the kind of -- maybe I should, it is in the appendix, Your Honor.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="526.302" stopTime="530.212">
+            <label>Chief Justice Burger</label>
+            <text syncTime="526.302" offset="2209872">(Inaudible)</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="530.212" stopTime="551.045">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="530.212" offset="2225545">I believe it is on page ten of the appendix, Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="551.045" stopTime="568.788">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="551.045" offset="2308824">Wire is not -- it is not quite so explicit as you have indicated, as I read it.</text>
+            <text syncTime="555.699" offset="2327423">Dynamite and illegal weapons, also the devices which might be used to construct weapons or explosive devices which could be used to cause injury to persons or damage the property, is that it?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="568.788" stopTime="572.686">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="568.788" offset="2379772">Yes, that is it, Your Honor.</text>
+            <text syncTime="569.608" offset="2383116">It is not -- it does not say the pliers and the wires, I am sorry.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="572.686" stopTime="574.840">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="572.686" offset="2395446">It does say what you have indicated.</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="574.840" stopTime="607.520">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="574.840" offset="2404014">In any -- in any case the police then with -- the two officers with the search warrant went back to the Rice premises and all the officers entered the premises and found the evidence, which is objected to in this case.</text>
+            <text syncTime="588.799" offset="2459812">It was all in plain sight upon entering the premises.</text>
+            <text syncTime="593.337" offset="2477993">They did not have to overturn anything or open any drawers or anything of that nature.</text>
+            <text syncTime="600.952" offset="2508504">The Federal District, well, first the Supreme Court of Nebraska --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="607.520" stopTime="613.992">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="607.520" offset="2534731">(Inaudible) they knew the police where there all this time, did not they, did not the police first wrap on the door?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="613.992" stopTime="614.802">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="613.992" offset="2560644">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="614.802" stopTime="616.690">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="614.802" offset="2563883">And they knew the police were there?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="616.690" stopTime="620.129">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="616.690" offset="2571407">There was no one there inside the premises.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="620.129" stopTime="621.992">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="620.129" offset="2585199">And when he went back?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="621.992" stopTime="623.871">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="621.992" offset="2592618">Still no one inside the premises, Your Honor.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="623.871" stopTime="626.861">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="623.871" offset="2600141">That is what I am trying to get straight.</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="626.861" stopTime="627.732">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="626.861" offset="2612158">The --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="627.732" stopTime="629.168">
+            <label>Chief Justice Burger</label>
+            <text syncTime="627.732" offset="2615606">They staked out the house?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="629.168" stopTime="630.580">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="629.168" offset="2621353">They staked out the house while they were gone.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="630.580" stopTime="634.902">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="630.580" offset="2626995">And sent an officer to get the warrant that you just referred to on pages --</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="634.902" stopTime="639.369">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="634.902" offset="2644236">Two officers, to get the warrant of arrest and staked out the house.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="639.369" stopTime="646.057">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="639.369" offset="2662104">And the house was empty, as I understand it at all relevant times, although there were lights on in the house and I think a television set was turned on, is that correct?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="646.057" stopTime="647.464">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="646.057" offset="2688853">Correct, Your Honor, that is correct.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="647.464" stopTime="648.791">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="647.464" offset="2694496">But nobody in the house?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="648.791" stopTime="738.337">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="648.791" offset="2699825">No people in the house.</text>
+            <text syncTime="653.602" offset="2719051">The -- before the actual trial, the respondent moved for suppression in the District Court of Douglas County, which is in Omaha.</text>
+            <text syncTime="666.130" offset="2769206">The District Court denied suppression of the evidence.</text>
+            <text syncTime="670.352" offset="2786029">The Supreme Court of Nebraska affirmed finding that the affidavit for search warrant was sufficient.</text>
+            <text syncTime="680.891" offset="2828243">The Federal District Court in the 2254 case then found that the affidavit for search warrant was not sufficient.</text>
+            <text syncTime="689.316" offset="2861888">We then had later, after that order was first -- that order of several months previous to the -- to another order which the Federal District Court later issued finding that there were not any other grounds either authorizing legal entry into the premises.</text>
+            <text syncTime="707.109" offset="2933150">The United States Court of Appeals affirmed and we then petitioned this Court and are here and although I have a number of issues in my brief and in our petition for certiorari, I would like to primarily argue two main points which we would urge this Court to adopt and we would still like to rely of course on our other points in our case, should those be denied.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="738.337" stopTime="747.325">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="738.337" offset="3058016">Mr. Kammerlohr, before you proceed, may I ask you is there -- do we have any papers filed here a copy of the opinion of the Supreme Court of Nebraska?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="747.325" stopTime="748.342">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="747.325" offset="3093960">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="748.342" stopTime="751.246">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="748.342" offset="3098035">Can you tell me where?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="751.246" stopTime="762.289">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="751.246" offset="3109634">No, Your Honor, I am sorry.</text>
+            <text syncTime="752.283" offset="3113813">The Supreme Court of Nebraska, opinion does not appear -- the federal opinions are all I have in the --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="762.289" stopTime="771.821">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="762.289" offset="3153833">Yes, that is what I thought.</text>
+            <text syncTime="763.265" offset="3157699">But, I do not -- I cannot even see the citation of the, perhaps your colleague can find it --</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="771.821" stopTime="779.666">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="771.821" offset="3191972">I have the 188 Nebraska, 728 --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="779.666" stopTime="788.240">
+            <label>Justice Stewart</label>
+            <text syncTime="779.666" offset="3223318">(Inaudible)</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="788.240" stopTime="788.958">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="788.240" offset="3257591">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="788.958" stopTime="809.376">
+            <label>Justice Blackmun</label>
+            <text syncTime="788.958" offset="3260517">That is Northwestern cited as 199 Northwestern 2nd 480.</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="809.376" stopTime="951.432">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="809.376" offset="3342123">As I have alluded to -- alluded in my brief, this Court of course is very familiar with the arguments against the exclusionary rule and for the exclusionary rule and there has been dissatisfaction mentioned a number of times so that I do not intend to go into all of those various cases and try to tell the this Court the same things that you are very familiar with and take up your time and time of others here.</text>
+            <text syncTime="840.524" offset="3466780">I do think I should mention, just briefly, why we do not feel that the; number one, the exclusionary rule should apply on officers or acting under a search warrant.</text>
+            <text syncTime="856.338" offset="3529996">We would ask the clerk to modify the exclusionary rule to very least to that point.</text>
+            <text syncTime="864.279" offset="3561761">The magistrate perhaps was the person who was wrong if anyone was wrong and issued a search warrant in this case.</text>
+            <text syncTime="875.387" offset="3606169">I do not believe that we can blame or that the purposes of the exclusionary rule would be served if the purposes are to deter unlawful action of the police or they have tried to do what is right, they have gone to a lawyer magistrate and asked for a search warrant.</text>
+            <text syncTime="899.584" offset="3703031">I don’t see how can there can be any possibility of deterrents to future cases, because it is the type of procedure we operate under, it is preemptory type writ, there is no way of having an immediate hearing to see if the writ is any good.</text>
+            <text syncTime="914.068" offset="3760918">The police certainly would not be in a position every time they get a search warrant to question its validity.</text>
+            <text syncTime="924.714" offset="3803550">We encourage the use of search warrants and I believe the imposition of the exclusionary rule would go more to discourage the use of search warrants than to encourage it.</text>
+            <text syncTime="935.575" offset="3846914">So for those reasons and for that purpose of the exclusionary rule I would ask the Court to at least modify the exclusionary rule to that extent when officers are operating under search warrant.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="951.432" stopTime="953.166">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="951.432" offset="3910443">Generally, I suppose you mean --?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="953.166" stopTime="1027.135">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="953.166" offset="3917340">Generally, I would ask in good -- when they are operating in good faith and think that they are following the law that the exclusionary rule serves no purpose and in that light generally, I might also say I know we are all interested in seeing that we have the preservation of freedom and privacy in this country, but the exclusionary rule as this Court well knows, does absolutely nothing to protect those who do not have any guilty evidence on their premises.</text>
+            <text syncTime="985.915" offset="4048370">If the police should suddenly take it into their heads to become a Police State or Nazi-type State, the general public who does not have any guilty evidence on their premises where they have -- have absolutely no remedy under the exclusionary rule, they are not just protected.</text>
+            <text syncTime="1000.360" offset="4106153">The same is true when the police take it into their head to harass gamblers or house of prostitution or anything else where they do not want the evidence to used in the court, but they merely want to either gather the evidence to destroy it or they want to -- let them know that they are aware of their operations, the exclusionary rule does those people absolutely no good.</text>
+            <text syncTime="1025.060" offset="4204896">Now, we do not, we cannot measure of course --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="1027.135" stopTime="1031.009">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="1027.135" offset="4213255">(Inaudible).</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1031.009" stopTime="1032.339">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1031.009" offset="4228719">I believe it could --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="1032.339" stopTime="1032.917">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="1032.339" offset="4234048">-- you are talking about?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1032.917" stopTime="1040.170">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1032.917" offset="4236347">Because the alternative remedies that then suggest, I believe they could, Your Honor.</text>
+            <text syncTime="1037.021" offset="4252752">If we had --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="1040.170" stopTime="1046.742">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="1040.170" offset="4265395">(Inaudible) knock down doors and all that knocks down old constitutions, does it?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1046.742" stopTime="1050.079">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1046.742" offset="4291622">Unless we do provide a better remedy than the exclusionary rule, Your Honor?</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1050.079" stopTime="1079.740">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1050.079" offset="4304997">Not that they have been suggested necessarily as alternative remedies, they have been suggested as additional remedies, have they not?</text>
+            <text syncTime="1057.439" offset="4334463">Maybe the exclusionary rule only -- only serves to effectuate the Fourth Amendment in the context of a criminal trial, but other remedies are at least theoretically available to effectuate that constitutional provision in other contexts, i.e. civil lawsuits, Bivens; Bivens case, you are familiar with, are you not?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1079.740" stopTime="1080.441">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1079.740" offset="4423593">The Bivens case --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1080.441" stopTime="1087.981">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1080.441" offset="4426414">That is not an alternative to the exclusionary rule, it is an additional sanction, is it not?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1087.981" stopTime="1095.495">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1087.981" offset="4456612">That is correct, Your Honor.</text>
+            <text syncTime="1089.006" offset="4460687">It is an additional -- 1983 cases -- I believe that was a probably a 1983 case, was it not?</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1095.495" stopTime="1096.881">
+            <label>Unknown Speaker</label>
+            <text syncTime="1095.495" offset="4486600">(Inaudible)</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1096.881" stopTime="1102.184">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1096.881" offset="4492138">It was not.</text>
+            <text syncTime="1097.442" offset="4494437">Well, I believe that anyway that there is a remedy under 42 1983.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1102.184" stopTime="1115.855">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1102.184" offset="4513349">1983, where the Bivens involved a Federal -- the Federal Government, that is the reason it was in 1983, but as to against state agents there might be 1983 remedies and these are not alternatives, they are additional remedies, are they not, under present state of the law?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1115.855" stopTime="1124.499">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1115.855" offset="4568102">In a present state of the law, but I am just saying that those writers like Allan Oaks, Professor Oaks and Mr. Chief Justice Burger I believe dissented in Bivens to suggest that --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1124.499" stopTime="1125.326">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1124.499" offset="4602688">(Voice Overlap) was not it?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1125.326" stopTime="1132.280">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1125.326" offset="4605927">If we should move away from the exclusionary rule completely we should have an alternative remedy.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1132.280" stopTime="1140.634">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1132.280" offset="4633826">Those remedies, there is considerable question about their efficacy and practical value, but they are -- they are now there, are they not?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1140.634" stopTime="1140.878">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1140.634" offset="4667158">Yes, they are.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1140.878" stopTime="1147.961">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1140.878" offset="4668203">You are not -- you are not suggesting or trying to invent addition -- anything that is not already there, are you?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1147.961" stopTime="1150.417">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1147.961" offset="4696520">I am not suggesting that we --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1150.417" stopTime="1157.689">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1150.417" offset="4706342">You are suggesting that we take away something, not that we add something, is that correct, from what is presently they are to effectuate the --</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1157.689" stopTime="1162.306">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1157.689" offset="4735390">I am suggesting that the exclusionary rule does not do a thing for these certain classes that I was mentioning.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1162.306" stopTime="1163.463">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1162.306" offset="4753885">That is correct.</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1163.463" stopTime="1167.210">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1163.463" offset="4758483">And I am suggesting that we do add something --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1167.210" stopTime="1169.781">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1167.210" offset="4773529">They are already there, what would you add?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1169.781" stopTime="1189.469">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1169.781" offset="4783769">I would make a requirement that before the exclusionary rule be completely abandoned by this Court in all cases that the States must provide a tort remedy with a minimum recovery for the person who is injured.</text>
+            <text syncTime="1186.696" offset="4851478">I guess the governmental subdivision who employs the police --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1189.469" stopTime="1210.356">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1189.469" offset="4862554">So what, we should wait for, assuming that we might consider -- re-reconsider the exclusionary rule we should not do so until majority of the State Legislatures had acted, or majority of the State Courts had acted providing a specific tort remedy with a minimum amount of recovery, is that your suggestion?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1210.356" stopTime="1211.130">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1210.356" offset="4946042">I am suggesting --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1211.130" stopTime="1212.309">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1211.130" offset="4949176">I do not understand that?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1212.309" stopTime="1220.451">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1212.309" offset="4953878">That you could impose that in an opinion to make an incentive for state legislatures to move ahead and do this --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1220.451" stopTime="1221.961">
+            <label>Chief Justice Burger</label>
+            <text syncTime="1220.451" offset="4986479">(Inaudible)</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1221.961" stopTime="1222.298">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1221.961" offset="4992540">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1222.298" stopTime="1232.004">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1222.298" offset="4993898">Where the state provides an alternative remedy then the Mapp against Ohio is out?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1232.004" stopTime="1234.285">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1232.004" offset="5032664">Yes, Your Honor.</text>
+            <text syncTime="1232.380" offset="5034231">I believe that it could be done by this Court.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1234.285" stopTime="1243.069">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1234.285" offset="5041754">Would not you -- would not it be your guess that every state in the union, including Alaska and Hawaii probably have such a tort remedy right now?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1243.069" stopTime="1263.079">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1243.069" offset="5076967">Not with any minimum recovery, I think that is the problem with most of them as people are not materially injured very much in this cases.</text>
+            <text syncTime="1252.901" offset="5116256">So they do not even bother the tort remedy because they might get a few dollars back and it would not be worth it.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1263.079" stopTime="1291.324">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1263.079" offset="5157007">Are you suggesting there be a minimum recovery even, what -- first of all there has to be a finding of liability, does not it?</text>
+            <text syncTime="1269.535" offset="5182816">And then normally recovery is -- is key to the amount of damage.</text>
+            <text syncTime="1273.774" offset="5199743">You are suggesting of what, punitive damages, that a state must create a cause of action and allow for minimum punitive damages before the exclusionary rule should be reconsidered at least with respect to that state, is that what you are saying?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1291.324" stopTime="1295.946">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1291.324" offset="5269960">It would be a form of those, Your Honor, yes.</text>
+            <text syncTime="1293.395" offset="5278215">A punitive damages I guess you --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1295.946" stopTime="1299.861">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1295.946" offset="5288455">-- trouble damages plus attorneys’ fees, some sort of approach?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1299.861" stopTime="1318.730">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1299.861" offset="5304128">Yes, Your Honor and of course I am not advocating that in this case as far as a search warrant.</text>
+            <text syncTime="1307.679" offset="5335371">I think that this Court should not impose exclusionary rule in cases where, as I have mentioned earlier, search in -- under search warrant.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1318.730" stopTime="1321.710">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1318.730" offset="5379570">How to enact with a warrant?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1321.710" stopTime="1337.910">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1321.710" offset="5391482">That is correct, I do not believe that the -- unless there is some showing of collusion or fraud or something like that or the police actually lied in their affidavit or something in that nature, perjury.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="1337.910" stopTime="1343.823">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="1337.910" offset="5456265">(Inaudible) and disconnected from the police department in town?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1343.823" stopTime="1346.722">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1343.823" offset="5479985">Well, that is what they are in our case, I do not know how many --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="1346.722" stopTime="1353.449">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="1346.722" offset="5491583">That is the situation I am talking about?</text>
+            <text syncTime="1350.199" offset="5505480">Can you localize it with police at all?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1353.449" stopTime="1379.574">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1353.449" offset="5518437">There is no connection.</text>
+            <text syncTime="1354.389" offset="5522198">He is supposed to be interpose between the police and the public.</text>
+            <text syncTime="1358.931" offset="5540380">He, I believe that if someone were to be -- if some sort of a sanction ought to be imposed, it ought to be imposed on the magistrate, we should do away on the absolute protection that magistrate has in this type of case, which I believe is a court-made rule.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1379.574" stopTime="1385.767">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1379.574" offset="5622927">Are you suggesting that a magistrate be what, criminally of civilly liable, for doing what?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1385.767" stopTime="1402.492">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1385.767" offset="5647691">I am suggesting that a magistrate who is grossly negligent, that should have a some sort of liability or else his employers, yes and remove the immunity, the absolute immunity that magistrates now enjoy.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1402.492" stopTime="1405.303">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1402.492" offset="5714669">(Inaudible) judicial immunity, would it not?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1405.303" stopTime="1406.864">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1405.303" offset="5725849">It would cut across, yes, Your Honor.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1406.864" stopTime="1413.055">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1406.864" offset="5732118">(Voice overlap) in several cases?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1413.055" stopTime="1430.672">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1413.055" offset="5756883">I believe it be one possibility at least that an alternative rather to say that we are trying to deter the police who cannot possibly understand all of the intricacies and the certainties of the law.</text>
+            <text syncTime="1424.773" offset="5803798">Also the -- a lot of prosecutors do not understand the intricacies and the certainties of the law.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1430.672" stopTime="1435.867">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1430.672" offset="5827309">You were going to make two points on this, you have made one now and your second one you have only about two or three minutes left.</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1435.867" stopTime="1461.634">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1435.867" offset="5848102">I am sorry, but time got away from me, Your Honor.</text>
+            <text syncTime="1437.774" offset="5855730">The other point which I strongly urge this Court to adopt was the, I believe I can refer to this -- the easiest the court rule know what I am talking about is Mr. Justice Powell’s concurring opinion in Schneckloth versus Bustamonte that the Federal Courts not consider search and seizure.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1461.634" stopTime="1464.626">
+            <label>Justice White</label>
+            <text syncTime="1461.634" offset="5951234">(Inaudible) need not consider the form of --</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1464.626" stopTime="1465.964">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1464.626" offset="5963145">Pardon, Your Honor?</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1465.964" stopTime="1474.465">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1465.964" offset="5968474">We agree on you on that, we need not consider the argument you have just made about modification of the rule?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1474.465" stopTime="1475.546">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1474.465" offset="6002538">You need to consider?</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1475.546" stopTime="1477.922">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1475.546" offset="6006822">We would not need to consider it.</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1477.922" stopTime="1487.063">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1477.922" offset="6016331">Oh! The one I have just made.</text>
+            <text syncTime="1479.127" offset="6021137">Well, I think that two could work together in some cases, it is rather a fall-back position, but I think --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1487.063" stopTime="1488.984">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1487.063" offset="6052902">Which is the fall-back position according to you?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1488.984" stopTime="1585.609">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1488.984" offset="6060634">The first argument.</text>
+            <text syncTime="1492.879" offset="6076203">The -- I believe that the second argument is based on; (a) that the violation of the Fourth Amendment is connected with a collar book claim of innocence, plus an opportunity to be heard in the State Court and to err these issues.</text>
+            <text syncTime="1513.664" offset="6159273">Now, I cannot conceive right off where second issue would need to be but there could be a possibility I suppose where the petitioner is claiming that the Fourth Amendment resulted in being unjustly convicted because he was innocent and he had a valid opportunity to contest it, and yet it was under a search warrant.</text>
+            <text syncTime="1539.200" offset="6261464">And if we did not adopt the first issue then he would still be able to bring it up under the invalid search warrant, in those cases only however.</text>
+            <text syncTime="1547.596" offset="6295005">But of course nobody here wants an innocent man convicted, I believe that is a point that should be allowed to continue and I believe everybody would agree with that in 2254 cases.</text>
+            <text syncTime="1562.787" offset="6355818">That -- this -- in summary then I would urge the Court to or I would say that we agree wholeheartedly with the concurring opinion in Schneckloth and with Mr. Justice Stewart and Mr. Harlan, Justice Harlan in the Kaufman case in the dissent.</text>
+            <text syncTime="1583.411" offset="6438260">Thank you.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1585.609" stopTime="1592.135">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1585.609" offset="6447142">Mr. Peek who came back into the act and testified that he indeed was the fellow who carried --</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1592.135" stopTime="1596.474">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1592.135" offset="6473160">Mr. Peek testified on behalf of the state against Mr. Rice.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1596.474" stopTime="1612.461">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1596.474" offset="6490610">They had arranged that he and -- the respondent here had arranged this booby trap suitcase that killed the policeman that you have described earlier.</text>
+            <text syncTime="1607.603" offset="6535123">Have you not, you are not making a harmless error argument?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1612.461" stopTime="1615.155">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1612.461" offset="6554558">No, Your Honor.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="1615.155" stopTime="1626.663">
+            <label>Justice Blackmun</label>
+            <text syncTime="1615.155" offset="6565320">I must take it that your argument concedes that the Eight Circuit opinion is the proper one based on opinions of this Court?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1626.663" stopTime="1628.054">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1626.663" offset="6611296">No, Your Honor, I am not.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1628.054" stopTime="1629.253">
+            <label>Justice White</label>
+            <text syncTime="1628.054" offset="6616834">No, you make a point in your brief that makes it a valid search?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1629.253" stopTime="1637.858">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1629.253" offset="6621640">-- in my brief which I have not argued, which I think this, I think the Eight Circuit --</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="1637.858" stopTime="1644.797">
+            <label>Justice Blackmun</label>
+            <text syncTime="1637.858" offset="6656122">That indicates that the Eight Circuit opinion is out of line with anything decided here?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="1644.797" stopTime="1705.818">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="1644.797" offset="6683812">The Eight Circuit is out of line in comparing the case with Langford versus Gilstone (ph) and also with saying that the police their exigent circumstances argument by going for a search warrant.</text>
+            <text syncTime="1658.869" offset="6740132">It is trying to take one for the other, you know, a trade-off of some type and they did leave a cordon around the empty house and I do -- I do not see how they can say that we lost exigent circumstances argument.</text>
+            <text syncTime="1673.949" offset="6800422">And thirdly, I think that the court misconstrued the Hayden case by saying that the police had have probable cause to believe that the person they were looking where there at the very time they entered the premises.</text>
+            <text syncTime="1691.267" offset="6869699">Because in Warden versus Hayden, even though they knew the person where in there they did not know that -- they did not have probable cause to open the washing machine lid where they found the weapon, and nevertheless that was sustained.</text>
+          </turn>
+        </section>
+        <section startTime="1705.818" stopTime="4388.337" revised="2014-01-21">
+          <heading>Argument of William C. Cunningham</heading>
+          <turn speaker="warren_e_burger" startTime="1705.818" stopTime="1713.993">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1705.818" offset="6927900">Thank you, Mr. Kammerlohr.</text>
+            <text syncTime="1707.625" offset="6935214">Mr. Cunningham.</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="1713.993" stopTime="1834.093">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="1713.993" offset="6960605">Mr. Chief Justice and may it please the Court.</text>
+            <text syncTime="1717.536" offset="6974816">In the assignment of duties between counsel, in our case my colleague J. Patrick Green from Omaha, Nebraska was to have presented the oral argument and he has been incapacitated yesterday by severe attack of influenza.</text>
+            <text syncTime="1732.039" offset="7032807">I propose to deal with three points in the argument for the Court and be able to respond to questions from you, and in this order.</text>
+            <text syncTime="1741.460" offset="7070528">First, we think it of primary importance to deal with the question added to the grant of the petition for certiorari on 30th June, last year to whip whether the constitutional validity of the search and seizure performed by the Omaha police under the circumstances of this case is judicially cognizable under the 28 U.S.C 2254.</text>
+            <text syncTime="1764.635" offset="7163211">Almost in identical language on that same day, June 30 in Powell versus Stone, the court again added that question to the grant of certiorari and asked the parties involved, both to brief and to argue those questions, and so I propose to deal with that question first.</text>
+            <text syncTime="1781.196" offset="7229457">Secondly, I would like to deal with the need for Federal Review at lower court level federal constitutional questions, and by lower court level, I mean both the United States District Courts and the Circuit Courts of Appeal; with questions presented by state prisoners under 28 U.S.C 2254, in seeking petitions for habeas -- writs of habeas corpus.</text>
+            <text syncTime="1806.876" offset="7332171">Thirdly, I would like to present arguments regarding the standards that should be used by either state or federal courts to determine a constitutional validity of the search in this case.</text>
+            <text syncTime="1819.378" offset="7382221">Addressing myself to the first question, and transmitting any discussion of the facts which I think were brought out to some extent by counsel for the petitioner, I could deal with those in questions if the court so desires.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1834.093" stopTime="1839.619">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1834.093" offset="7441049">Is there relevance -- significantly relevant facts that have been omitted?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="1839.619" stopTime="1879.294">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="1839.619" offset="7463096">I think, Your Honor, when we take the record in its totality, including and placing the special stress upon the careful hearings -- evidentiary hearings in the Federal District Court in Lincoln, Nebraska before Judge Warren Urbam (ph), all of which is before the Court that we then have the total facts of the case.</text>
+            <text syncTime="1858.716" offset="7539478">But absent those two evidentiary hearings in March and July of 1974, before Judge Urbam granted the writ of habeas corpus, I think the Court would have had, had it come on direct review in an inadequate record before it.</text>
+            <text syncTime="1876.070" offset="7608964">So it supplemented then by those evidentiary hearings --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1879.294" stopTime="1880.393">
+            <label>Justice Stewart</label>
+            <text syncTime="1879.294" offset="7621816">They are all in (Inaudible)</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="1880.393" stopTime="1933.034">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="1880.393" offset="7626205">They are, Your Honor.</text>
+            <text syncTime="1884.032" offset="7640834">The relevant portions of them from the, yes.</text>
+            <text syncTime="1888.514" offset="7658701">Dealing then with the question of cognizability that the Court has asked us to brief and argue, we have to ask ourselves whether habeas corpus should be available.</text>
+            <text syncTime="1897.918" offset="7696318">This was raised of course in the concurring opinion in Schneckloth versus Bustamonte and there, when the Court -- when Justice Powell writing the concurring opinion, cites in footnote 16, Professor Amsterdam on certain finality interests that are to be -- that were to be concerned with in attempting to limit the Federal Collateral Review.</text>
+            <text syncTime="1924.106" offset="7801121">Justice Powell, realizes of course that Professor Amsterdam was talking about Federal Collateral Review for federal prisoners and not state prisoners --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1933.034" stopTime="1934.837">
+            <label>Justice Stewart</label>
+            <text syncTime="1933.034" offset="7836752">That was the covenant (ph) case?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="1934.837" stopTime="1989.490">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="1934.837" offset="7843962">Right, and Professor Amsterdam was very careful I think to make the point that he did not think that those considerations need apply to state prisoners in seeking federal collateral review of their claims, based upon Federal Constitutional violations.</text>
+            <text syncTime="1950.970" offset="7908536">The next year in 1965, Professor Amsterdam wrote a considerably longer and exhaustive article, criminal prosecutions affecting federally guaranteed civil rights, discussing removal there and habeas corpus petitions to avoid state court actions.</text>
+            <text syncTime="1968.710" offset="7979485">And I understand him to argue from that law review article the need there is, especially in state court proceedings, for some sort of federal monitoring at Federal District Court and Circuit Court level of the application of Federal Constitutional standard's defect situations.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1989.490" stopTime="1996.707">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1989.490" offset="8062659">Of course, this question could not have arisen before the decision in Mapp against the United States?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="1996.707" stopTime="1997.668">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="1996.707" offset="8091498">No, You Honor, no.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="1997.668" stopTime="1999.703">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="1997.668" offset="8095364">Except in a Rochin type situation?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="1999.703" stopTime="2001.384">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="1999.703" offset="8103514">Yes sir.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2001.384" stopTime="2003.761">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2001.384" offset="8110202">And Mapp was decided when, about 1961?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2003.761" stopTime="2006.765">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2003.761" offset="8119710">1961, Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2006.765" stopTime="2028.437">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2006.765" offset="8131727">And this question could not have possibly have risen until then and the Mapp opinion and I do not, I only read it recently, was four members of the Court joined it and the fifth, Justice Black, joined it only on the basis that involved compulsory self incrimination rather than purely a Fourth Amendment?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2028.437" stopTime="2033.297">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2028.437" offset="8218453">Yes, Your Honor.</text>
+            <text syncTime="2031.154" offset="8229320">But I take it that ever since then --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2033.297" stopTime="2033.853">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2033.297" offset="8237888">It was followed?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2033.853" stopTime="2040.313">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2033.853" offset="8240083">It has been followed and that the Circuit Courts have consistently applied it and the Federal District Courts, and so is this Court.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2040.313" stopTime="2048.646">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2040.313" offset="8265892">But this all, this problem could not have arisen, and therefore, at the earliest it goes back to the decision in Mapp against the United States?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2048.646" stopTime="2050.536">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2048.646" offset="8299224">Indeed, Your Honor, yes sir.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2050.536" stopTime="2062.768">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2050.536" offset="8306852">And then there was a conflict I gather on the Circuits after Mapp, as to whether or not this kind of a claim of Fourth Amendment claim, type claim, was available on Federal habeas corpus in reviewing a state conviction?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2062.768" stopTime="2063.527">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2062.768" offset="8355753">Right, Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2063.527" stopTime="2072.322">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2063.527" offset="8358783">And that was never, it was rather only rather implicitly resolved in this court was not it, because Kaufman involved a federal review of a federal conviction?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2072.322" stopTime="2074.118">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2072.322" offset="8393996">2255.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2074.118" stopTime="2077.600">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2074.118" offset="8401101">And it was not until, what case --?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2077.600" stopTime="2099.272">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2077.600" offset="8415103">I would say, Your Honor, in this Court’s treatment of Linkletter, this Court took from the Fifth Circuit in 1963 a habeas corpus case and in 1965, this Court took jurisdiction in Linkletter versus Walker and decided the case on its merits.</text>
+            <text syncTime="2093.771" offset="8479782">This Court could not have taken jurisdiction if there had not been jurisdiction in the courts below.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2099.272" stopTime="2102.774">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2099.272" offset="8501725">(Inaudible) the court dealt with -- in Linkletter was its retroactivity?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2102.774" stopTime="2103.240">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2102.774" offset="8515727">True enough.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2103.240" stopTime="2104.693">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2103.240" offset="8517607">The retroactivity of Mapp?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2104.693" stopTime="2106.616">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2104.693" offset="8523459">True.</text>
+            <text syncTime="2105.541" offset="8526803">But it was a habeas corpus case.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2106.616" stopTime="2122.135">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2106.616" offset="8531087">It could not have -- so that was just, it was implicitly a sub silentio if you will, adopted this rule by this Court without any explanation or explication or maybe realization?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2122.135" stopTime="2145.715">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2122.135" offset="8593154">Other District Courts, the District Courts of Appeal for example in Thornton versus the United States, the District Court of Columbia realized the distinction there was between a federal prisoner seeking federal review and a state prisoner, and allowing, in the opinion in that court, that state prisoners should have this device of reviewing a state conviction against them.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2145.715" stopTime="2176.510">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2145.715" offset="8687508">Mr. Cunningham, I suppose you could turn that argument around in view of all that we have said about comity and federalism, in cases like Younger and Osche (ph), and say that even though it is perfectly proper to have a federal collateral review of a federal conviction within a unitary system, perhaps the same principle ought not to be -- ought not to obtain where you are talking about a federal system with a federal court reviewing a state conviction?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2176.510" stopTime="2228.136">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2176.510" offset="8810701">I know how sensitive that the court must be to questions of comity like that, and I have read your opinion for the Court in Huffman versus Pursue, seeing what I could get from it and although I read two paragraphs and a very careful footnote, I still could be led to the conclusion that, Your Honor decided or there writing for the Court, allowed that if indeed there would be subsequent criminal prosecution, which at that time was threatened, that if a federal constitutional claim was in question that the proper time to review it would have been in collateral federal habeas corpus review of a state court conviction later on, but not to stop the process before it began.</text>
+            <text syncTime="2222.134" offset="8993245">And so, I have construed Huffman versus Pursue to say at least that.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2228.136" stopTime="2256.777">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2228.136" offset="9017173">Well, certainly one would not necessarily treat all constitutional claims the same I suppose, but, that is perhaps right to counsel and that type of thing might be treated differently than Fourth Amendment.</text>
+            <text syncTime="2240.388" offset="9066179">All I am suggesting is that while certainly by the argument you make that it is more important when a Federal Court is reviewing a state conviction than when a Federal Court reviews a federal conviction, you can say just the opposite in view of the federalism considerations?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2256.777" stopTime="2296.782">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2256.777" offset="9131798">True enough, but I would think that it is easy to understand that the State Court's primary allegiance could be to the enforcement of their own criminal law.</text>
+            <text syncTime="2267.843" offset="9175998">They stand responsible to do that and to review questions of state law and their own criminal statutes and the imposition of them and in matters that come before them, correctly or not.</text>
+            <text syncTime="2279.253" offset="9221660">But that Federal Courts are to remove from that if we are to guarantee federal supremacy of the federal law, are better circumstanced to look dispassionately upon a question that might involve an alleged violation of federal constitutional standards.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2296.782" stopTime="2334.609">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2296.782" offset="9291772">Well, that statement has been made many times, including an opinions of this court, so you are more or less in good company, but does not then -- on what basis can one denigrate the State Courts of this Country in that way, to say that they do not have the same kind of understanding of the federal constitution, nor that they, if they understand it, they are reluctant to follow where their understanding leads?</text>
+            <text syncTime="2322.883" offset="9396158">That may once have been true in parts of the country a hundred years ago and it may have even been true more recently in other parts of the country, but what basis is there for making that kind of an assumption?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2334.609" stopTime="2401.052">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2334.609" offset="9443074">To make such a broad indictment I think, Your Honor, would be irresponsible.</text>
+            <text syncTime="2338.291" offset="9457807">I do not want to believe that a single state court judge would set out maliciously to deprive anyone of a state court -- of a federally constitution -- a federally guaranteed constitutional right.</text>
+            <text syncTime="2348.422" offset="9498349">And yet, when I look for example, if this Court could refer to page 117, I believe of the respondents brief, we attempted to -- 119, excuse me, at footnote 5, we attempted to take the record of the State Supreme Court in Nebraska, in reviewing whether or not a warrant, search warrant was sufficient in a State Supreme Court.</text>
+            <text syncTime="2381.708" offset="9631469">And the Court will note there that in a number of occasions, the warrant was sustained by the State Supreme Court, that certiorari was denied on direct review by this Court and that on Federal Collateral review, the Eight Circuit Court of Appeals had found the warrant to be insufficient.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2401.052" stopTime="2408.236">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2401.052" offset="9708896">And why does that mean, that does not necessarily mean that the Eight Circuit was right and the Supreme Court of Nebraska wrong, does it?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2408.236" stopTime="2430.300">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2408.236" offset="9737630">I could not argue that, Your Honor, but for example from 1961, post Mapp, when I conducted that search of cases, I find only one time that the State Supreme Court of Nebraska held a warrant to be insufficient and that was in 1975 in State versus Kelos (ph), where there was a laps of nine months between the facts alleged to establish probable cause in the issuance --</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2430.300" stopTime="2437.968">
+            <label>Justice Stevens</label>
+            <text syncTime="2430.300" offset="9825820">Is not it irrelevant statistic, the number of times that state trial courts have held warrants insufficient, those that were probably not appealed?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2437.968" stopTime="2443.686">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2437.968" offset="9856540">Right, and that would be difficult to find, Your Honor.</text>
+            <text syncTime="2442.262" offset="9873676">And --</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2443.686" stopTime="2449.210">
+            <label>Justice Stevens</label>
+            <text syncTime="2443.686" offset="9879423">You are dealing with very, very sketchy information is what I am suggesting when you just point to one Supreme Court opinion?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2449.210" stopTime="2481.744">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2449.210" offset="9901470">True enough.</text>
+            <text syncTime="2450.153" offset="9905232">But for example, with my new specificity in this case, we see what a State Supreme Court and State Lower Court did with a warrant, so wanting in probable causes to leave no doubt in the mind of four Federal Court Judges in very careful opinions and exhausting -- exhaustive, painstaking evidentiary hearings to find that there simply was no basis for the warrant that was based, quite frankly as the officer testified upon his speculation.</text>
+            <text syncTime="2478.066" offset="10016932">That is neither reasonable, good faith nor probable cause.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2481.744" stopTime="2495.010">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2481.744" offset="10031665">Your footnote that you have just referred to, establishes just one thing and that is that the Eight Circuit is a little more final than the Supreme Court of Nebraska because it is subsequent, does it really establish anything else at all?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2495.010" stopTime="2511.127">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2495.010" offset="10084745">It does I think, Your Honor, and that is the point before that I was making when I said that I would want the facts in this case amplified by what carefully was led out in testimonies, warrant testimony, affidavits, with an opportunity to cross-examine in the lower district court and that --</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="2511.127" stopTime="2530.287">
+            <label>Justice Jr.</label>
+            <text syncTime="2511.127" offset="10149216">(Inaudible) that had, there not been habeas remedy available in this case, and the respondent here were limited to direct review in this Court.</text>
+            <text syncTime="2522.700" offset="10195505">You are suggesting I gather that there would have been no record upon which we could properly have evaluated the merit of the Fourth Amendment --</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2530.287" stopTime="2549.757">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2530.287" offset="10225807">Indeed, and then if we are, Your Honor, to take away federal habeas corpus review under 2254 at the lower district court and circuit court level and to impose that duty upon an already burdened Supreme Court in terms of direct review, add to that an inadequate factual presentation or record --</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2549.757" stopTime="2557.769">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2549.757" offset="10303652">Does not Nebraska have a motion to suppress proceeding where you could make the same sort of factual join that was ultimately made before Judge Urbam?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2557.769" stopTime="2569.726">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2557.769" offset="10335730">I believe indeed, there was such a hearing in this case, and I believe that the officer, or the impartial magistrate who issued the warrant then held a hearing.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2569.726" stopTime="2575.769">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2569.726" offset="10383586">But he was a municipal court judge in Douglas County, that would not be the Judge before whom a case was tried, was it?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2575.769" stopTime="2583.813">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2575.769" offset="10407723">I believe there was preliminary hearing and that he had occasion to review the warrant that he had issued.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2583.813" stopTime="2589.784">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2583.813" offset="10439906">Well, does the defendant have a right to renew the claim in the District Court, the State District Court where it is being tried?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2589.784" stopTime="2596.446">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2589.784" offset="10463834">Yes, Your Honor and I believe that all stages of the proceedings, the lawyers who were then representing him urged that motion to suppress and unsuccessfully.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2596.446" stopTime="2603.605">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2596.446" offset="10490479">Well, why should not he have had to make a factual showing at that time?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2603.605" stopTime="2632.517">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2603.605" offset="10519109">I certainly -- were I the State Court Judge and knowing that some sort of direct review was possible would want to have had a complete record, but I submit that the record was only completed for one reason or another and I know not why really when it came to the Federal District Court and Judge Urbam began to ask questions, like the questions that were answered very candidly at page 54, 55 and 56 of the respondent’s brief.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2632.517" stopTime="2635.869">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2632.517" offset="10634780">(Inaudible) state court?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2635.869" stopTime="2639.340">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2635.869" offset="10648154">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="2639.340" stopTime="2672.521">
+            <label>Justice Jr.</label>
+            <text syncTime="2639.340" offset="10662052">(Inaudible) the case from, from Nebraska case being Nebraska actually?</text>
+            <text syncTime="2644.077" offset="10680964">I do not know whether the situation has changed.</text>
+            <text syncTime="2645.973" offset="10688592">One of the problems as I recall the trouble was then, was that too many States no longer -- did not yet have adequate collateral procedures because I remember Nebraska adopted one, three or four days, before case Nebraska was to be argued here and I do not know how its function since, I do not if what you tell us about this case, at least to this case it has not functioned too effectively?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2672.521" stopTime="2673.760">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2672.521" offset="10794754">It seems not, Your Honor.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2673.760" stopTime="2696.538">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2673.760" offset="10799665">Well (Inaudible) towards, then the Fourth Amendment issue has been once presented to the state courts, it is not -- a lot of states would not let you in their collateral proceeding just to take up an issue that has already been presented to its courts, is not that true in Nebraska?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2696.538" stopTime="2699.010">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2696.538" offset="10890780">Your question again, Your Honor, I am sorry.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2699.010" stopTime="2716.225">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2699.010" offset="10900706">Suppose a suppression motion has been made and the Fourth Amendment issue has been passed upon by Nebraska Trial Court, and the claim has been rejected, and that judgment was affirmed in the Nebraska Supreme Court, state collateral proceedings are not then available, I take it?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2716.225" stopTime="2717.779">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2716.225" offset="10969565">No.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2717.779" stopTime="2722.608">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2717.779" offset="10975730">And, for exhaustion purposes it is not necessary to attempt to --?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2722.608" stopTime="2728.161">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2722.608" offset="10995060">No, not under the decisions of this Court.</text>
+            <text syncTime="2724.474" offset="11002584">The respondent had a right to go --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2728.161" stopTime="2728.797">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2728.161" offset="11017317">(Inaudible)</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2728.797" stopTime="2730.117">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2728.797" offset="11019825">Indeed.</text>
+            <text syncTime="2729.365" offset="11022123">And did --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2730.117" stopTime="2734.402">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2730.117" offset="11025154">Once the state court has dealt with the issue, that is enough for the, federally?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2734.402" stopTime="2734.798">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2734.402" offset="11042290">It is true.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="2734.798" stopTime="2752.913">
+            <label>Justice Jr.</label>
+            <text syncTime="2734.798" offset="11043857">Well I gather then (Inaudible) the prospect is that in Nebraska we are not like we are the only court, only federal court, to review the federal constitutional claim.</text>
+            <text syncTime="2748.423" offset="11098401">We are not like to ever to get a record adequately to do that?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2752.913" stopTime="2754.746">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2752.913" offset="11116269">It certainly would not happen in this case, Your Honor.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2754.746" stopTime="2765.678">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2754.746" offset="11123687">What about a motion to suppress?</text>
+            <text syncTime="2758.009" offset="11136749">Excuse me, excuse me, I guess it depends on how you -- on how you look at the record that has been made in the state court?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2765.678" stopTime="2778.701">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2765.678" offset="11167364">I suppose one has to think about who conducted the hearings and the length of time, the remove there was from the emotive situation within which --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2778.701" stopTime="2800.782">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2778.701" offset="11219505">The Congress has established some rule as to when on federal collateral you have a hearing and you have to find some, supposedly find some defects in the state procedure before you proceed with the federal hearing, but if you do find those defects that is -- that is the benchmark for when you have a federal hearing, is that right?</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2800.782" stopTime="2807.343">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2800.782" offset="11307798">(Inaudible) understood you, I thought you have said you could bring the exact same question again in the state court?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2807.343" stopTime="2810.711">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2807.343" offset="11334025">I would take it by a motion to suppress you could and if you could have --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2810.711" stopTime="2811.489">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2810.711" offset="11347505">(Inaudible)</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2811.489" stopTime="2813.652">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2811.489" offset="11350639">If you could have an evidentiary hearing.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2813.652" stopTime="2816.282">
+            <label>Unknown Speaker</label>
+            <text syncTime="2813.652" offset="11359312">(Inaudible)</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2816.282" stopTime="2819.545">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2816.282" offset="11369761">I suppose so, yes, Your Honor.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2819.545" stopTime="2823.434">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2819.545" offset="11382822">And all of that would be in the record, we would have the exact same record we have got now?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2823.434" stopTime="2839.938">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2823.434" offset="11398391">I am not sure of that, Your Honor and I cannot be because what accounts for the testimony then that led to the issue on the search warrant, which the court has in the appendix at page 10, and the subsequent testimony of First Sergeant Fifer (ph) and then Lieutenant, and then --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2839.938" stopTime="2842.006">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2839.938" offset="11464429">(Inaudible) you have done in the suppression here?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2842.006" stopTime="2843.934">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2842.006" offset="11472683">It was not --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2843.934" stopTime="2849.005">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2843.934" offset="11480416">(Inaudible) it was not, I said could if?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2849.005" stopTime="2851.255">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2849.005" offset="11500687">If -- the same questions might be asked if the --</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2851.255" stopTime="2859.462">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2851.255" offset="11509673">Is there anything on this record that could not have been put in on motion to suppress?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2859.462" stopTime="2874.087">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2859.462" offset="11542483">Other than what I would say would be the candor of the officers who testified at the evidentiary hearing and said that it was based upon speculation.</text>
+            <text syncTime="2867.726" offset="11575606">It appears in the search warrant, not upon speculation, but sworn testimony furnishing probable cause.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2874.087" stopTime="2876.752">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2874.087" offset="11600997">On the testimony in the suppression hearing?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2876.752" stopTime="2880.756">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2876.752" offset="11611655">Yes, Your Honor, but reviewed by a state court not by a federal court.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2880.756" stopTime="2883.787">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2880.756" offset="11627642">It is reviewed by this court?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2883.787" stopTime="2886.576">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2883.787" offset="11639763">If -- if you had an adequate record before you.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2886.576" stopTime="2891.343">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2886.576" offset="11650943">I say, could you or could you not have an adequate record?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2891.343" stopTime="2895.074">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2891.343" offset="11670065">If they gave candid answers, Your Honor, yes?</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2895.074" stopTime="2909.158">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2895.074" offset="11685007">What kind of answers would be less, more or less candid before the United States District Judge as compared with a State Court Judge of Nebraska?</text>
+            <text syncTime="2904.804" offset="11723877">Does not this depend on the lawyer more than on the judicial officer?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2909.158" stopTime="2960.206">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2909.158" offset="11741327">Perhaps to some extent, Your Honor, and the thoroughness with which he conducts an examination and yet I note that in answer to a question, by Judge Urbam, the officer who had before furnished the information, which led to the issuance of the search warrant said in answer to this question; “Did you have any report from anyone that Dwaine Peek was then inside the Rice house or had been inside the Rice house that day” and this is at page 54, his answer, “No Sir, the only thing we had was a speculation because it was a known house of that particular group and he was a member of that group and it was a place where he might possibly be.”</text>
+            <text syncTime="2950.383" offset="11906212">That is a wanting in good faith, reasonableness or probable cause that I think it took everyone by surprise at that hearing.</text>
+            <text syncTime="2958.558" offset="11938917">Whether or not --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2960.206" stopTime="2965.852">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2960.206" offset="11945500">But Urbam’s cross examination was a little more effective than defense counsel’s cross examination in the state courts?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2965.852" stopTime="2967.309">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2965.852" offset="11968069">Precisely, Your Honor.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2967.309" stopTime="2975.079">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2967.309" offset="11973921">Is that good as the system or is it the subjective factors of the idiosyncrasies and talents of the lawyer?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2975.079" stopTime="2984.228">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2975.079" offset="12004954">It might have been an accident of history or chance in this particular case, but nonetheless upon questioning, that answer was elicited from this officer.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2984.228" stopTime="2985.469">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2984.228" offset="12041526">What page?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2985.469" stopTime="2987.338">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2985.469" offset="12046541">Page 54, Your Honor, the respondent’s --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2987.338" stopTime="2987.982">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2987.338" offset="12054065">Of your brief?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2987.982" stopTime="2989.362">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2987.982" offset="12056572">The respondent’s brief.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2989.362" stopTime="2993.072">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2989.362" offset="12062110">If that judge had been on the state court, everything would have been alright?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="2993.072" stopTime="3003.698">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="2993.072" offset="12076948">[Laughter] and elicited that question and that answer, Your Honor.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3003.698" stopTime="3015.038">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3003.698" offset="12119475">(Inaudible) if this hearing had had the same scope than the State proceeding, then maybe the State Supreme Court would have decided the case the same way the Eight Circuit did?</text>
+            <text syncTime="3013.720" offset="12159495">We do not know, do we?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3015.038" stopTime="3020.202">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3015.038" offset="12164824">We do not and we would have to speculate on that, Your Honor.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3020.202" stopTime="3021.757">
+            <label>Justice Jr.</label>
+            <text syncTime="3020.202" offset="12185513">(Inaudible) going out only to this system --</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3021.757" stopTime="3022.037">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3021.757" offset="12191678">Yes.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="3022.037" stopTime="3046.256">
+            <label>Justice Jr.</label>
+            <text syncTime="3022.037" offset="12192827">-- holding the inadequacy and everything else to the state procedure.</text>
+            <text syncTime="3025.649" offset="12207247">If the only Federal Court, if the only Federal Court to review the federal constitutional claim is this Court, if that is the system, what bearing if any the valid or nature of our discretionary jurisdiction have on its inadequacy as a system?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3046.256" stopTime="3104.284">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3046.256" offset="12289689">I would, if sitting where you were, be terribly worried that I would have inadequate records before me, that already pressed by work that will be pressed by more work, that I might, by a decision, take up jurisdiction that has been given by the constitution to Congress, that I would have to make a break with four or five decisions passed on by this Court and relied upon by countless litigants and that anything so cataclysmic changing the scope of habeas corpus could be better be done by well considered program legislation dealing with all those things.</text>
+            <text syncTime="3089.702" offset="12463456">If Congress wants to change the scope of habeas corpus in the hearing, in lower federal courts, this Court, Congress and the Constitution seems to guarantee and has up until this point, then it should be done by Congress that this Court --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3104.284" stopTime="3164.619">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3104.284" offset="12521761">The unarticulated premise of your whole position, I take it must be, but you tell me if that is not so, that the case presented by this record, where a man who has set a booby trap with dynamite in a suitcase, in pursuit of his own objectives, obviously criminal if we believe this record, is to get off scotfree and that that is an appropriate price to pay for mistakes in a warrant application or in the granting of that application by a judicial officer in Nebraska.</text>
+            <text syncTime="3153.980" offset="12720605">hat that is a reasonable and an appropriate price to pay and if that is the only way that we can accomplish that result; is that a fair statement of the, what underlies your position?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3164.619" stopTime="3239.582">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3164.619" offset="12763132">I would not say that.</text>
+            <text syncTime="3166.166" offset="12769297">I would say in answer to that you have touched upon the point raised initially in Justice Powell’s concurring opinion in Schneckloth, which is, is there a colorable claim of innocence.</text>
+            <text syncTime="3177.631" offset="12815168">The State of Nebraska has said that no claim, much less colorable, had ever been made by the defendant, the respondent in this case in any real way.</text>
+            <text syncTime="3187.086" offset="12852994">That has been a matter of tremendous concern to him and to his lawyers.</text>
+            <text syncTime="3193.320" offset="12877967">Justice Powell, in the concurring opinion in Schneckloth says, at page 257, that guilt or innocence had never been part of the consideration, the proper consideration in granting habeas corpus or not and at page 115 and 116 of the respondent’s brief, we discussed that your repeated attempts, and especially in the fourth footnote at those pages, the repeated attempts by the defendant to claim his innocence, there is in the record before this court a confession to that suitcase bombing by Dwaine Peek, who later recanted his confession and then named David Rice and Edward Poindexter who happened to be the President and Minister of Information of the local Black Panther Party.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3239.582" stopTime="3242.476">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3239.582" offset="13063018">Testified against them in the trial?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3242.476" stopTime="3251.854">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3242.476" offset="13074616">And he at that time was under first degree murder charges and subsequent to the trial saying that no deal had been made, was treated as a juvenile delinquent and has not been seen since.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3251.854" stopTime="3254.220">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3251.854" offset="13112128">17 years old at that time, was he not?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3254.220" stopTime="3255.378">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3254.220" offset="13121532">Correct, Your Honor.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3255.378" stopTime="3262.352">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3255.378" offset="13126130">Well, now taking the whole record, however, as it was accepted by the Jury and in the Trial Courts --</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3262.352" stopTime="3264.118">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3262.352" offset="13154029">Yes Sir.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3264.118" stopTime="3279.396">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3264.118" offset="13161134">Is it not a fair statement that this man, if you adopt Justice Cardozo’s statement, is to go free because of the constable blunder, or is not that fair?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3279.396" stopTime="3325.216">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3279.396" offset="13222260">I understand, I am familiar with from People versus Defore, Your Honor, but I would say that the man is not to be imprisoned if the trial at which he was tried was wanting in federal constitutional guarantees, if the trial was unfair.</text>
+            <text syncTime="3296.014" offset="13288716">In July of 1974, the District Court in Lincoln said that he must be retried or let go within 90 days.</text>
+            <text syncTime="3305.792" offset="13327795">All of those mandates were stated by the Eight Circuit, the Eight Circuit Court affirmed, and so for 19 months, so the petition for habeas corpus has been granted and we know that this man has in the judgment of four Federal Court Judges have been tried unfairly, that the issue then innocence is still open.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3325.216" stopTime="3329.105">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3325.216" offset="13405536">By the standards that have existed up to this time on the exclusionary doctrine?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3329.105" stopTime="3330.002">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3329.105" offset="13421105">Indeed, Your Honor.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3330.002" stopTime="3348.928">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3330.002" offset="13424657">But if the fundamental proposition of the validity of the exclusionary doctrine is found and determined now, not to be warranted by the constitution, then the ball bounces the other way, does not it?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3348.928" stopTime="3350.186">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3348.928" offset="13500412">Yes, Your Honor, that is Parts II and III --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3350.186" stopTime="3368.728">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3350.186" offset="13505428">Or in the alternative in what the Attorney General described as one of his alternative positions, if that is an issue that cannot be raised in federal habeas corpus at all, then I am sure the result follows?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3368.728" stopTime="3369.283">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3368.728" offset="13579616">Yes.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="3369.283" stopTime="3379.065">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="3369.283" offset="13581810">In line with the comments of the Chief Justice, is it your view that the exclusionary rule is compelled by the constitution?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3379.065" stopTime="3388.293">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3379.065" offset="13620889">It is traditionally created of course, Your Honor, and it gives effect to the Fourth Amendment.</text>
+            <text syncTime="3385.633" offset="13647220">I believe it is compelled.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="3388.293" stopTime="3390.909">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="3388.293" offset="13657878">(Inaudible)</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3390.909" stopTime="3430.924">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3390.909" offset="13668327">If Congress is going to take it away procedurally by denying federal habeas corpus, then I think that that is for Congress to do.</text>
+            <text syncTime="3399.419" offset="13702391">But I think that for example, when a court allows evidence to be placed before it, that they know has been seized in contravention of the constitution, that we approach something very much like Shelly versus Kramer (ph), that the Court -- that the State, if it be a state prosecution, is in some way in complicity in allowing illegal activity to be become the basis for a prosecution.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="3430.924" stopTime="3436.662">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="3430.924" offset="13828406">(Inaudible) what we have said in Calandra, with respect to the constitutional status of the exclusionary rule?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3436.662" stopTime="3437.165">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3436.662" offset="13851289">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="3437.165" stopTime="3451.376">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="3437.165" offset="13853274">And is it your view that the constitution requires that that rule be enforced fully with every guide to the circumstances, have a technical evaluation of the Fourth Amendment maybe?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3451.376" stopTime="3453.812">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3451.376" offset="13910117">As a general proposition, yes.</text>
+            <text syncTime="3452.823" offset="13915968">But even in the fact--</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="3453.812" stopTime="3466.584">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="3453.812" offset="13919939">Any and all circumstances, the constitution requires that evidence illegally seized because of the defective warrant or otherwise, cannot be employed, or admitted in the trial?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3466.584" stopTime="3469.504">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3466.584" offset="13971034">I think that is the only realistic thing because --</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="3469.504" stopTime="3474.936">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="3469.504" offset="13982633">Any basis in that in history of our Country or prior to Mapp, any basis whatever?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3474.936" stopTime="3482.439">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3474.936" offset="14004367">Unless it be Shelly versus Kramer, in which we do not want the Court acting through its judicial arm --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3482.439" stopTime="3509.440">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3482.439" offset="14034460">(Inaudible) certainly suggested your answer, it could have been decided the way it was, unless it was constitutional, although prior to Mapp, as my brother Powell has pointed -- implied in his -- in his question under -- under the regime of Weekes against the United States, it was always thought to be a ministerial rule of evidence.</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3509.440" stopTime="3510.901">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3509.440" offset="14142398">But this court has a notion --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3510.901" stopTime="3517.626">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3510.901" offset="14148249">But it was made constitutional, it had to be or it could not have been imposed upon the States.</text>
+            <text syncTime="3514.894" offset="14164236">It had to be something beyond this court’s supervisory power?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3517.626" stopTime="3520.889">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3517.626" offset="14175207">And then the decisions in Katz begin to --</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="3520.889" stopTime="3533.014">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="3520.889" offset="14188269">Safe Streets Act of course it is congressional, but has not Congress enacted the exclusionary rule in the Safe Streets Act both as to violations of an Act by state officials as well as by federal officials?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3533.014" stopTime="3535.422">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3533.014" offset="14236752">I would think so.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3535.422" stopTime="3555.109">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3535.422" offset="14246365">Your rationale is the correct one, can you, that is the Shelly versus Kramer approach, can you possibly justify the limitation on standing have it only the defendant who can raise the issue, would it not be necessary under that rationale that the point be available to the defendant, even though it was some third parties’ rights who were invaded by the search?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3555.109" stopTime="3579.850">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3555.109" offset="14325150">Right, indeed in this case, Your Honor, the codefendant, David Rice has sought now unsuccessfully in the lower federal district court before the same Judge Warren Urbam, to raise the point about the unconstitutionality of the search and Judge Urbam has held that he did not have the requisite standing to raise the issue over the introduction of the evidence in a common trial against him of that evidence that was --</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3579.850" stopTime="3583.439">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3579.850" offset="14424102">Holding maybe correct under Alderman, who would be inconsistent with your analysis?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3583.439" stopTime="3586.556">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3583.439" offset="14438417">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3586.556" stopTime="3636.028">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3586.556" offset="14450852">You have suggested I think that this had, that the exclusionary rule had something to do with a fair trial and I think some of my colleagues implicitly accepted that suggestion, that at least so long as the exclusionary rule existed it had something to do with a fair trial.</text>
+            <text syncTime="3605.180" offset="14525353">Do you really think so?I never understood so.</text>
+            <text syncTime="3607.830" offset="14536011">I had always thought that it had to do with quite a different constitutional value, i.e. enforcement of the protections of the Fourth Amendment which by their terms have nothing to do with a trial, fair or unfair, they have to do with unreasonable searches and seizures and in so far as a probative, relevant material evidence is excluded from a trial that leads to unfairness rather than fairness, does not it?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3636.028" stopTime="3636.493">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3636.028" offset="14648755">I would, You Honor --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3636.493" stopTime="3657.327">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3636.493" offset="14650636">Because anything that impairs the search for truth impairs the search for justice and certainly anything that excludes, any rule that excludes relevant material, prohibitive evidence impairs the fairness of a trial because it impairs the full disclosure that a trial is supposed to accomplish, does not it?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3657.327" stopTime="3684.279">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3657.327" offset="14734019">Yes.</text>
+            <text syncTime="3657.825" offset="14736004">Your Honor, I would not want to read the Fourth Amendment just by itself.</text>
+            <text syncTime="3661.425" offset="14750319">I would want to include the Fifth Amendment as well and say that the fairness of the hearing is going to be measured, not just by whether or not there has been a technical Fourth Amendment violation, but whether or not the whole trial, including the introduction at the evidence, the opportunity to cross-examine the people who introduce the evidence and all of the procedural safeguards for Due Process --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3684.279" stopTime="3686.772">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3684.279" offset="14841748">Compulsory of self-incrimination part of it?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3686.772" stopTime="3688.952">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3686.772" offset="14851779">Or to Due Process, Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3688.952" stopTime="3689.683">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3688.952" offset="14860452">Or both?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3689.683" stopTime="3696.175">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3689.683" offset="14863377">Both.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3696.175" stopTime="3701.072">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="3696.175" offset="14889395">Certainly the Eighth Circuit did not make any finding that there had been any independent Fifth Amendment Violation?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3701.072" stopTime="3704.338">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3701.072" offset="14908935">No, Your Honor.</text>
+            <text syncTime="3701.705" offset="14911443">Just a straight violation of the Fourth Amendment.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3704.338" stopTime="3707.601">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="3704.338" offset="14921996">Well, are you contending that they should have made such a finding?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3707.601" stopTime="3712.656">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3707.601" offset="14935057">No, I think their opinion as it stands is perfectly adequate.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3712.656" stopTime="3735.231">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3712.656" offset="14955328">But I, just to go back, I thought the whole point of the Linkletter, or at least a big part of the point of the Linkletter opinion, was that the exclusionary rule did not have anything to do with the fairness of a trial and in so far as it did have anything to do with a fairness of a trial, the exclusionary rule impaired the fairness of a trial?</text>
+            <text syncTime="3729.946" offset="15024500">Was not that point of the Linkletter opinion, in saying that the Mapp rule was not to be retroactive?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3735.231" stopTime="3740.881">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3735.231" offset="15045607">Yes, Your Honor, but I cannot see that the introduction into evidence in any proceeding, State or Federal --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3740.881" stopTime="3750.423">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3740.881" offset="15068177">Probative material evidence, (Voice Overlap) evidence that would clearly be admissible, except because of the way it was obtained by the prosecutor?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3750.423" stopTime="3774.266">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3750.423" offset="15106316">Yes, because I regard, Your Honor, the totality of the process, including the trial and subsequent appeals, all of them, whenever allowed, to be part and parcel of the whole process to determine guilt or innocence and that until that be, until that course be run, we do not know whether we have something that is relevant or irrelevant to that issue.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3774.266" stopTime="3805.979">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3774.266" offset="15201715">Mr. Cunningham, Mr. Justice Stewart has given rise to one view and I would not undertake to say whether it is the majority view or not of the function of a trial, that is a search for truth, but are you not by implication articulating the contrary view that the trial in a criminal case is a search for admissible truth, admissible truth, not truth in the abstract?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3805.979" stopTime="3817.086">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3805.979" offset="15328566">No, Your Honor.</text>
+            <text syncTime="3806.397" offset="15330238">I would want to say that any legal proceeding in its best aspect is precisely a search for truth.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3817.086" stopTime="3836.522">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3817.086" offset="15372974">That and except then the -- one of these two alternatives is that then surely you must agree with Justice Stewart that the exclusionary rule frustrates, defeats the search for truth as this case so richly demonstrates?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3836.522" stopTime="3856.529">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3836.522" offset="15450714">If the subsequent hearings had not been held in this case, and the Federal Court had had not had revealed to it the real circumstances that lay behind the issuance, the application for an issuance of the search warrant, we would have no check upon this whole procedure and I cannot believe that the state --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3856.529" stopTime="3871.360">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3856.529" offset="15530754">(Inaudible) procedure, not on substance, it is a check on procedure to seek to it that the only evidence that comes in is evidence acquired in accordance with constitution as construed by this Court?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3871.360" stopTime="3872.124">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3871.360" offset="15590104">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3872.124" stopTime="3895.546">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3872.124" offset="15593134">So that as a result, ultimately, Justice Cardozo’s prophecy came true that on some occasions, the Federal Courts have excluded the actual evidence of the body of the murder victim because of the way in which the police learned the location of the concealed body, is that not true?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3895.546" stopTime="3925.583">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3895.546" offset="15686861">That has happened, Your Honor and I think the Eight Circuit Court of Appeals faced that issue squarely at the end of their opinion when they said that we consider it necessary to point out that the record discloses a widespread search for the suspect Peek and Poindexter, which events at least a negligent disregard by the Omaha Police for constitutional rights of not only petitioner, but possibly other citizens as well.</text>
+            <text syncTime="3919.774" offset="15783723">Such a police search is at least reminiscent of police conduct condemned in Langeford versus Gilstone (ph).</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3925.583" stopTime="3928.464">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3925.583" offset="15807025">Have to do with the core of this case?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3928.464" stopTime="3950.879">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3928.464" offset="15818518">I think, Your Honor, they said that though they found evidence, some evidence of guilt, the whole procedure because of the introduction of this evidence on an invalid warrant, invalidated the whole proceeding and that in order to be fair, one has to go back and try the case without the introduction at the evidence -- of this illegally seized evidence.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3950.879" stopTime="3952.837">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3950.879" offset="15908171">Dynamite and the caps and all that sort of thing?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3952.837" stopTime="3960.385">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3952.837" offset="15916007">Yes, Your Honor.</text>
+            <text syncTime="3954.115" offset="15921127">It is entirely possible that that dynamite could have been planted.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3960.385" stopTime="3964.901">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3960.385" offset="15946205">The dynamite fragments in the cuts of his pants planted too?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3964.901" stopTime="3966.787">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3964.901" offset="15964282">Could have been, Your Honor.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3966.787" stopTime="3977.423">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="3966.787" offset="15971805">That is quite a different question whether it was illegally seized.</text>
+            <text syncTime="3970.150" offset="15985284">I mean, there is no connection between the claim that it might have been planted and the claim that it was illegally seized, is there?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="3977.423" stopTime="4010.183">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="3977.423" offset="16014332">Collaboration was necessary for an admitted accomplice in the murder, Dwaine Peek and collaboration was found in what later proved to be, according to the District Court and the Circuit Court of Appeals, an illegal and unconstitutional search, but it furnished the collaboration for the State Court in affirming that conviction.</text>
+            <text syncTime="3999.399" offset="16102208">Quite simply collaboration was needed for Dwaine Peek and it came as the result of an illegal search.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="4010.183" stopTime="4057.745">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="4010.183" offset="16145363">(inaudible) you, but this is a very important case and you are very well prepared on arguing it, very well indeed.</text>
+            <text syncTime="4019.892" offset="16184233">I want to come back to question I have asked you as to whether Congress had authority to change the exclusionary rule which you view as required by the constitution.</text>
+            <text syncTime="4031.070" offset="16228954">If I understood your answer correctly, you have said that Congress could change the habeas corpus jurisdiction of the Federal Courts.</text>
+            <text syncTime="4039.343" offset="16262078">I myself do not think it is necessary to do that for this purpose, but put that aside, are you saying that Congress have no authority to modify in any respect or to revoke the exclusionary rule in the federal courts?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4057.745" stopTime="4062.109">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4057.745" offset="16335638">I believe, Your Honor, I have to say that they had the power to do that.</text>
+            <text syncTime="4061.140" offset="16349222">Would they have to --</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="4062.109" stopTime="4063.735">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="4062.109" offset="16353088">The constitutional requirement?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4063.735" stopTime="4067.946">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4063.735" offset="16359567">My question is would they have to amend the constitution to do it?</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="4067.946" stopTime="4069.101">
+            <label>Justice Jr.</label>
+            <text syncTime="4067.946" offset="16376494">(Inaudible)</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4069.101" stopTime="4072.036">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4069.101" offset="16381092">Right, right, I realize that --</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="4072.036" stopTime="4080.790">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="4072.036" offset="16392794">(Inaudible) there cannot be a constitutional amendment to change a judge-made rule, that was not even extended to the states until 1961?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4080.790" stopTime="4089.139">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4080.790" offset="16427798">Which is, and this Court’s decisions putting it as part and parcel of the Fourth Amendment.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="4089.139" stopTime="4097.527">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="4089.139" offset="16461235">And you read, you find all of this in the language of the Fourth Amendment?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4097.527" stopTime="4098.425">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4097.527" offset="16494776">[Laughter] no, Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4098.425" stopTime="4100.720">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="4098.425" offset="16498329">(Inaudible) Mapp against Ohio?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4100.720" stopTime="4106.961">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4100.720" offset="16507524">This -- other decisions of this Court and the extension of the right of privacy too in your subsequent decisions.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="4106.961" stopTime="4116.174">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="4106.961" offset="16532497">Four Justices at that time, but more than four since then have said it is not a constitutional requirement, in Calandra for example.</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4116.174" stopTime="4118.819">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4116.174" offset="16569382">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4118.819" stopTime="4126.435">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="4118.819" offset="16579936">Is it constitutional requirement, I suppose it is really no different than the right to counsel which has developed over the years that is also constitutionally compelled, is not it?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4126.435" stopTime="4131.575">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4126.435" offset="16610447">As well as other constitutional rights that we have taken from the bill of rights, but not mention specifically --</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="4131.575" stopTime="4132.886">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="4131.575" offset="16630927">(Voice Overlap) is what I am suggesting?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4132.886" stopTime="4144.108">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4132.886" offset="16636256">The right to privacy, the right to freedom of association, things like that that the Court has seen and interpreted from the constitution.</text>
+            <text syncTime="4141.354" offset="16670110">One final thing I would remiss --</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="4144.108" stopTime="4155.323">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="4144.108" offset="16681082">Have the trier of facts in litigation to an opportunity to consider the most relevant evidence on the issue of truth which you say is the object of trial?</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="4155.323" stopTime="4155.849">
+            <label>Justice Jr.</label>
+            <text syncTime="4155.323" offset="16725908">(Inaudible)</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4155.849" stopTime="4158.595">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="4155.849" offset="16728102">The other, which one?</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4158.595" stopTime="4159.402">
+            <label>Justice Stewart</label>
+            <text syncTime="4158.595" offset="16739074">Privacy.</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4159.402" stopTime="4159.626">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4159.402" offset="16742313">Privacy --</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="4159.626" stopTime="4163.142">
+            <label>Unknown Speaker</label>
+            <text syncTime="4159.626" offset="16743149">Both --</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4163.142" stopTime="4203.912">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4163.142" offset="16757255">I think in Katz for example, when we said that the evidence might have been tremendously relevant, but there was a rightful expectation of privacy and although there had not been a physical intrusion, that right of privacy was sufficiently broad to be protected by the introduction of admittedly relevant evidence and so too in this Court’s decision in Rochin versus California.</text>
+            <text syncTime="4187.234" offset="16853594">Everyone knew that he had illegally seized or possessed morphine in his stomach.</text>
+            <text syncTime="4193.033" offset="16876791">It was the way they went about getting it that shocked the conscience of the court and led us to say that Due Process guarantees at least that kind of a proceeding free from that kind of taint.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="4203.912" stopTime="4205.714">
+            <label>Unknown Speaker</label>
+            <text syncTime="4203.912" offset="16920363">(Inaudible)</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4205.714" stopTime="4207.155">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4205.714" offset="16927469">I beg your pardon?</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="4207.155" stopTime="4212.309">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="4207.155" offset="16933320">Telling the truth is really not always the objective, the primary objective in litigation in our Courts?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4212.309" stopTime="4216.167">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4212.309" offset="16953905">No it should be, Your Honor, it should be.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="4216.167" stopTime="4222.445">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="4216.167" offset="16969369">Trials, devote more time to trying the police than they do the defendant?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4222.445" stopTime="4230.105">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4222.445" offset="16994447">[Laughter] an unfortunate distraction, but to leave them less than wholly cross-examined I think would be sort of remiss too.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="4230.105" stopTime="4265.081">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="4230.105" offset="17025062">I think your reference to Rochin, inevitably brings up the question of Schmerberg case, where it did not shock the conscience of the court to put a needle in the man’s veins and withdraw a sufficient amount of blood to determine the alcoholic intake of the man at that period.</text>
+            <text syncTime="4248.581" offset="17098936">So that -- does that not suggest that even at the risk of oversimplification that the same processes which brought new light on the constitution, let us as say 20 years ago, might bring new light on the constitution today?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4265.081" stopTime="4294.011">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4265.081" offset="17164974">Indeed, the constitution I think must continue to grow and to be interpreted.</text>
+            <text syncTime="4269.521" offset="17182737">I remember, Justice Douglas in an answer, in a colloquy over a paper called, “Two Faces of Federalism” saying that he found it difficult to describe Due Process, but Justice Holmes had approached it one time, in a letter not an opinion, in which he said if what happened generally makes you want to vomit is usually a deprivation of Due Process of law, but some have stronger stomachs than others.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="4294.011" stopTime="4302.128">
+            <label>Justice Jr.</label>
+            <text syncTime="4294.011" offset="17280749">(Inaudible) reserve the situation -- procedures which would could make you want to vomit?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4302.128" stopTime="4375.967">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4302.128" offset="17313140">Right, exactly and if medical science has advanced to the point where we can take from a person unconscious a sample of blood and achieve some sort of evidence, then perhaps you know, we had a tolerance for that at time and may not later.</text>
+            <text syncTime="4316.846" offset="17372073">The only thing I would like to say, Your Honor, and I know that we have had ample time here, is that, if this Court sees fit either to cut down the extent of the writ of habeas corpus, the reach of it, and if they see fit or see fit to adopt new rules for a search, reasonableness, good faith of the policemen, whatever it may be, if the Court does this, my client must not be penalized for taking the decisions that were the law at that time seriously, nor must the Eight Circuit Court of Appeals be penalized for taking the decisions of this Court seriously because a proceeding has been conducted and to know tell him at this stage of the game that he has pursued the wrong avenue --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="4375.967" stopTime="4383.375">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="4375.967" offset="17608533">Penalty when we reverse another court Mr. Cunningham, [laughs] (inaudible) might just welcome the ultimate justice?</text>
+          </turn>
+          <turn speaker="william_c_cunningham" startTime="4383.375" stopTime="4388.337">
+            <label>Mr. William C. Cunningham</label>
+            <text syncTime="4383.375" offset="17638208">Right.</text>
+            <text syncTime="4384.275" offset="17641761">Yes, Your Honor.</text>
+            <text syncTime="4385.978" offset="17648553">Thank you.</text>
+          </turn>
+        </section>
+        <section startTime="4388.337" stopTime="4887.507" revised="2014-01-21">
+          <heading>Rebuttal of Melvin Kent Kammerlohr</heading>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4388.337" stopTime="4391.314">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4388.337" offset="17658061">Let me have a minute, Your Honor, just to clarify a couple of points.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="4391.314" stopTime="4394.033">
+            <label>Unknown Speaker</label>
+            <text syncTime="4391.314" offset="17669869">(Inaudible)</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4394.033" stopTime="4435.743">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4394.033" offset="17680840">First I would like to pint out that even though the counsel claims that Mr. Rice makes some claims of innocence, what Mr. Justice Powell was talking about and Mr. Black -- Justice Black and Harlan and Stewart in the Bustamante case and the Kaufman cases was a claim under the Fourth Amendment.</text>
+            <text syncTime="4414.812" offset="17763909">We are talking about the Fourth Amendment in that if habeas corpus were allowed in Fourth Amendment, it would reveal a colorable claim of innocence, then they should preserve it in those cases, but not a claim of innocence based on something that is not under the Fourth Amendment.</text>
+            <text syncTime="4430.176" offset="17825349">I do not believe that is the whole or the suggestion of those opinions --</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="4435.743" stopTime="4439.542">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="4435.743" offset="17847606">Justice Harlan advocated the claim of innocence position in Kaufman?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4439.542" stopTime="4439.986">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4439.542" offset="17862861">No.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="4439.986" stopTime="4441.437">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="4439.986" offset="17864638">I do not think that is true?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4441.437" stopTime="4495.416">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4441.437" offset="17870385">I believe he did not limit it to that, he did not limit it to that at least, but I am just suggesting that it means a claim of innocence under the Fourth Amendment not a claim of innocence, say for insufficient evidence that the jury has already ruled against it.</text>
+            <text syncTime="4457.502" offset="17934646">It is which what he is arguing here that maybe the jury was wrong, but not would be remedied any by a Fourth Amendment claim and habeas corpus.</text>
+            <text syncTime="4470.563" offset="17986891">Another point I would like to point out to the Court the motion for suppression in this case was handled by the federal -- by the State District Court, not the magistrate who issued the search warrant.</text>
+            <text syncTime="4481.202" offset="18029523">The magistrate issued a search warrant then the case came to the trial court level, which is a jury trial level in Nebraska.</text>
+            <text syncTime="4489.191" offset="18061392">And the motion was made in that trial court, the same court who later held the trial, the same judge.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4495.416" stopTime="4500.386">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="4495.416" offset="18086365">Under your Nebraska practice, is it the custom is to make the motion before trial?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4500.386" stopTime="4501.582">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4500.386" offset="18106218">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4501.582" stopTime="4504.266">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="4501.582" offset="18111025">Not at the time (Voice Overlap) the proper of the evidence?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4504.266" stopTime="4505.739">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4504.266" offset="18121683">That is correct.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4505.739" stopTime="4510.245">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="4505.739" offset="18127638">Although I suppose it could be done at the later time too.</text>
+            <text syncTime="4508.267" offset="18137774">You have objected to the evidence?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4510.245" stopTime="4528.131">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4510.245" offset="18145611">We have a procedure for a interlocutory appeal from a motion to suppress to the State Supreme Court, and then I believe it can still, but I am not certain -- if it can still be brought up at the time of trial.</text>
+            <text syncTime="4526.440" offset="18210394">I would certainly think so --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4528.131" stopTime="4532.930">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="4528.131" offset="18217186">But the custom is to file a motion of suppress before the commencement of the trial?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4532.930" stopTime="4533.896">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4532.930" offset="18236412">That is correct, and then --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4533.896" stopTime="4537.031">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="4533.896" offset="18240278">And that appeal is before the judge who is going to try the case or --</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4537.031" stopTime="4538.244">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4537.031" offset="18252817">Yes, generally speaking --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4538.244" stopTime="4539.154">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="4538.244" offset="18257624">-- or at least one of the --</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4539.154" stopTime="4543.440">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4539.154" offset="18261281">It has to be one of the District Court Judges.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="4543.440" stopTime="4551.005">
+            <label>Justice Jr.</label>
+            <text syncTime="4543.440" offset="18278417">(Inaudible) cold case in Nebraska.</text>
+            <text syncTime="4546.121" offset="18289180">Nebraska adopted a counterpart of 2255 as its post conviction procedure, did it not?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4551.005" stopTime="4551.590">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4551.005" offset="18308719">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="4551.590" stopTime="4553.057">
+            <label>Justice Jr.</label>
+            <text syncTime="4551.590" offset="18311018">Is that still the one?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4553.057" stopTime="4554.112">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4553.057" offset="18316869">That is still the one we have, Your Honor.</text>
+          </turn>
+          <turn speaker="william_j_brennan_jr" startTime="4554.112" stopTime="4564.324">
+            <label>Justice Jr.</label>
+            <text syncTime="4554.112" offset="18321154">And in this could there have been a proceeding under that remedy after the Supreme Court affirmed the denial of the motion to suppress?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4564.324" stopTime="4569.257">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4564.324" offset="18362009">Not as concerning the search warrant.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4569.257" stopTime="4581.135">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="4569.257" offset="18381653">(Voice overlap) or is it because the state does not have a counterpart of the rule of the Kaufman case.</text>
+            <text syncTime="4575.336" offset="18405999">Does the State say we are not going to consider Fourth Amendment type claims on collateral?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4581.135" stopTime="4584.893">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4581.135" offset="18429196">No, it would be because the Supreme Court of Nebraska had already decided the issue.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4584.893" stopTime="4589.243">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="4584.893" offset="18444243">And your collateral of remedy, state collateral remedy is limited to new questions?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4589.243" stopTime="4599.614">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4589.243" offset="18461588">New questions, which have not been before the court.</text>
+            <text syncTime="4592.409" offset="18474336">Now, they might have brought up the search without the warrant -- in collateral proceedings, they did not.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="4599.614" stopTime="4602.638">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="4599.614" offset="18503070">The Supreme Court decision on the issue is res judicata --</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4602.638" stopTime="4603.746">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4602.638" offset="18515191">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="4603.746" stopTime="4609.697">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="4603.746" offset="18519684">-- and not -- as a consequence of that the collateral attack is barred on traditional grounds?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4609.697" stopTime="4619.809">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4609.697" offset="18543403">I believe that is what would happen if someone brought back in the District Court a collateral proceeding, the District Judge would merely say this has all been decided by the State Supreme Court and the --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4619.809" stopTime="4648.434">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="4619.809" offset="18583945">You do not have a federal habeas corpus, you do not have a res judicata.</text>
+            <text syncTime="4626.114" offset="18609127">In other words, no 2255, something -- the Fourth Amendment claim might have been in a Federal District Court and considered by the, by United States Court of Appeals, nonetheless, unless I am mistaken, their remedy under Section 2255 is available to reconsider that claim, would it not, under the Kaufman rule?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4648.434" stopTime="4654.173">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4648.434" offset="18698362">Under the Kaufman case if the identical question had been to this Court and ruled adversely, I do not --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="4654.173" stopTime="4659.064">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="4654.173" offset="18721349">United States Court of Appeals where the conviction was affirmed, we are getting pretty far field?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4659.064" stopTime="4663.444">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4659.064" offset="18740889">I do not see how it could, but --</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="4663.444" stopTime="4673.691">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="4663.444" offset="18758443">What is Nebraska rule if there had not been a motion to suppress at the criminal trial?</text>
+            <text syncTime="4668.729" offset="18779550">Could the defendant raise the issue in the collateral proceeding in a state court, the Fourth Amendment question?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4673.691" stopTime="4674.002">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4673.691" offset="18799403">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="4674.002" stopTime="4680.568">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="4674.002" offset="18800657">Because it is the fact that there was actually the question litigated that forecloses it.</text>
+            <text syncTime="4678.525" offset="18818734">It would not waive it by dealing to make the motion --</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4680.568" stopTime="4705.605">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4680.568" offset="18826884">At least, now Judge Urbam -- it is -- you are correct to the fact it was litigated.</text>
+            <text syncTime="4685.551" offset="18846842">Now, the other question, a search without the search warrant, which I brought up in the State Supreme Court, was not litigated there because they held the search warrant was valid, but Judge Urbam said that the fact the we briefed it in State Supreme Court was sufficient exhaustion in Federal Courts, which I disagree with also.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="4705.605" stopTime="4718.312">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="4705.605" offset="18927090">You seem to assume, I was under the impression that the magistrate who issued the warrant was the same judicial officer who passed on the suppression motion, and you say that that is not correct?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4718.312" stopTime="4809.154">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4718.312" offset="18977872">That is incorrect.</text>
+            <text syncTime="4722.637" offset="18995217">And another point that I think Mr. Cunningham brought up which highlights the bad part of having a habeas -- federal habeas corpus sitting years later is that when the evidentiary hearing was held before Judge Urbam some four years after the fact and the evidence is not clear at that time in the officer’s mind, they have had hundreds of cases probably since the time and one Lieutenant Perry testified at that evidentiary hearing four years later that he -- that Dwaine Peek had told them before they went to the Rice premises that the bomb was constructed there at the Rice premises and that Dwaine, his brother, had told him this.</text>
+            <text syncTime="4766.043" offset="19168879">Judge Urbam, and he -- then Judge Urbam is doing the questioning and he said, well how do you know that?</text>
+            <text syncTime="4771.679" offset="19191345">And he said, I was present when Officer Foxel (ph) interrogated Dwaine Peek and Judge Urbam then looked on the, a sheet they have at the police station that shows who was present at the interrogation, and Lieutenant Perry’s name did not appear on there.</text>
+            <text syncTime="4788.435" offset="19258427">So Judge Urbam arrived at the conclusion that Lieutenant Perry was perjuring himself, and I think he put a lot of weight on this and this is just one of the bad things that happened by hiring before you litter.</text>
+            <text syncTime="4799.467" offset="19302522">I say that Lieutenant Perry might have learned about in a number of ways and forgot how he learned about it, and it did not necessarily perjure himself.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="4809.154" stopTime="4824.432">
+            <label>Justice Byron R. White</label>
+            <text syncTime="4809.154" offset="19341287">(Inaudible) hearing in the state court and the record made, and the motion to suppress denial that a federal habeas corpus court is not supposed to hold a hearing of its own, unless as the statute requires it finds some defect in state court proceeding.</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4824.432" stopTime="4825.756">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4824.432" offset="19402414">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="4825.756" stopTime="4830.598">
+            <label>Justice Byron R. White</label>
+            <text syncTime="4825.756" offset="19407638">And what defect did Judge Urbam found -- find in the state court of suppression hearing?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4830.598" stopTime="4838.577">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4830.598" offset="19427074">He did not -- he got in to the, he got in to it on the search without a warrant issue -- without a search warrant issue.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="4838.577" stopTime="4840.831">
+            <label>Justice Byron R. White</label>
+            <text syncTime="4838.577" offset="19458943">(Inaudible) hearing unless there was some --</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4840.831" stopTime="4858.611">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4840.831" offset="19468034">He did not hold an evidentiary hearing on the search warrant issue.</text>
+            <text syncTime="4846.145" offset="19489245">Once he found that the search warrant was invalid, the affidavit for the search warrant was invalid, then we raised issues that nevertheless the police had a right to be on the premises, then he held an evidentiary hearing on that question.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="4858.611" stopTime="4860.580">
+            <label>Justice Byron R. White</label>
+            <text syncTime="4858.611" offset="19539087">There had never been a hearing on that in the state court?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4860.580" stopTime="4864.957">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4860.580" offset="19547028">No, Your Honor because the Supreme Court never reached that issue.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="4864.957" stopTime="4875.302">
+            <label>Justice Byron R. White</label>
+            <text syncTime="4864.957" offset="19564478">(Inaudible) the same that he was, he was -- he really cannot be saying that he was retreading ground that the state court had gone over because it had never gone over that ground?</text>
+          </turn>
+          <turn speaker="melvin_kent_kammerlohr" startTime="4875.302" stopTime="4883.244">
+            <label>Mr. Melvin Kent Kammerlohr</label>
+            <text syncTime="4875.302" offset="19605856">No, I am just, I am merely saying this shows that the police officer’s memories may get kind of dim after four years.</text>
+            <text syncTime="4882.116" offset="19633127">Thank you, Your Honors.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="4883.244" stopTime="4887.507">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="4883.244" offset="19637620">Thank you Mr. Cunningham, thank you Mr. Kammerlohr.</text>
+            <text syncTime="4885.336" offset="19645980">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

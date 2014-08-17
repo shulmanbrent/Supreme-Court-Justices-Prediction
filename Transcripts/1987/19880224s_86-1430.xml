@@ -1,0 +1,29 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-01T14:13:00" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-01</identified>
+      </history>
+      <resources>
+        <audioFile size="190756">/xml/cases/1987/86_1430/19880224o_86-1430.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-1430op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="27.559">
+        <title>Peralta v. Heights Medical Center, Inc.</title>
+        <section startTime="0" stopTime="27.559">
+          <heading>Opinion Announcement of Byron R. White</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.188">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80937">The opinion of the Court in No. 86-1430, Peralta versus Heights Medical Center will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="8.188" stopTime="27.559">
+            <label>Justice Byron R. White</label>
+            <text syncTime="8.188" offset="113642">This case is here from the Court of Appeals of Texas, and for the reasons stated in an opinion on file with the Clerk, we affirm the judgment of that court.</text>
+            <text syncTime="22.089" offset="169231">The opinion is unanimous.</text>
+            <text syncTime="24.179" offset="177590">Justice Kennedy took no part in the case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

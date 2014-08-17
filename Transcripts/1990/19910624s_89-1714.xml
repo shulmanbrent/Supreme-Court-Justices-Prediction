@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:09:55" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="532887">/xml/cases/1990/89_1714/19910624o_89-1714.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1714_19910624-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="114.730">
+        <title>Pauley v. BethEnergy Mines, Inc.</title>
+        <section startTime="0.000" stopTime="114.730">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.873">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73968">The opinion of the Court in No. 89-1714, Pauley versus Bethenergy Mines and companion cases will be announced by Justice Blackmun.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="10.873" stopTime="114.730">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="10.873" offset="117436">This rather complicated litigation concerns the Federal Black Lung Benefits Program created to provide compensation for minors disabled due to pneumoconiosis arising out of coal mine employment.</text>
+            <text syncTime="28.781" offset="189011">We have before us three cases, as the Chief Justice indicated, one from the Court of Appeals for the Third Circuit and two from the Fourth Circuit.</text>
+            <text syncTime="38.812" offset="229135">They center on regulations issued by the Secretary of Labor under a congressional directive that the regulations "shall not be more restrictive than" regulations issued by the Department of Health, Education, and Welfare when that department administered the program earlier.</text>
+            <text syncTime="62.293" offset="323072">There are statutory presumptions of eligibility and provisions allowing the agency to rebut the presumption by four methods.</text>
+            <text syncTime="70.958" offset="357762">Under the earlier HEW regulations, there were only two methods.</text>
+            <text syncTime="75.887" offset="377511">And the issue, therefore, is whether the Department of Labor regulations are more restrictive.</text>
+            <text syncTime="81.685" offset="400708">The Third Circuit ruled that they were not.</text>
+            <text syncTime="84.626" offset="412410">The Fourth Circuit ruled that they were.</text>
+            <text syncTime="87.339" offset="423277">So, our task was to resolve the conflict.</text>
+            <text syncTime="91.152" offset="438533">We hold today that the rebuttal provisions are not more restrictive and thus, affirm the judgment of the Third Circuit.</text>
+            <text syncTime="99.175" offset="470611">We reverse the judgment of the Fourth Circuit and remand those cases.</text>
+            <text syncTime="104.040" offset="490046">Justice Scalia has filed a dissenting opinion.</text>
+            <text syncTime="107.534" offset="504048">Justice Kennedy took no part in the consideration or decision of the cases.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

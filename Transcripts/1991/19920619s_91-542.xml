@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:30:51" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="543390">/xml/cases/1991/91_542/19920619o_91-542.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/91-542_19920619-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="113.136">
+        <title>Wright v. West</title>
+        <section startTime="0.000" stopTime="113.136">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="6.778">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90845">The opinions of the Court in two cases will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="6.778" stopTime="113.136">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="6.778" offset="117908">In the first case, I have the judgment of the Court to announce, Wright v. West, 91-542.</text>
+            <text syncTime="13.370" offset="144239">This case comes to us on writ of certiorari to the United States Court of Appeals for the Fourth Circuit.</text>
+            <text syncTime="20.452" offset="172556">Respondent, Frank West, was convicted of grand larceny in a Virginia Trial Court.</text>
+            <text syncTime="25.706" offset="193663">On direct and state collateral review, the Supreme Court of Virginia rejected West's claim that the evidence introduced at trial was insufficient to support his conviction.</text>
+            <text syncTime="37.289" offset="239952">West then sought a writ of habeas corpus from the District Court for the Eastern District of Virginia which also rejected West's sufficiency challenge.</text>
+            <text syncTime="48.583" offset="285092">The Court of Appeals reversed.</text>
+            <text syncTime="50.599" offset="293137">Applying our decision in Jackson versus Virginia, the Court of Appeals correctly recognized that as a matter of due process, evidence is sufficient to support a criminal conviction if after reviewing the evidence in the light most favorable to the prosecution any rational trial or fact could have found the essential elements of the crime beyond a reasonable doubt.</text>
+            <text syncTime="73.381" offset="384357">The Court of Appeals concluded that in this case, the Jackson standard was not met.</text>
+            <text syncTime="79.051" offset="407031">We unanimously reverse.</text>
+            <text syncTime="81.576" offset="417062">The Chief Justice, Justice Scalia, and I conclude that there was sufficient evidence to support West's conviction regardless of whether the State Court determination of that question should be reviewed deferentially or de novo on federal habeas.</text>
+            <text syncTime="96.163" offset="475472">Justice White has filed an opinion concurring in the result; Justice O'Connor has filed an opinion concurring in the judgment in which Justice Blackmun and Justice Stevens have joined; Justice Kennedy and Justice Souter also have filed opinions concurring in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

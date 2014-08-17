@@ -1,0 +1,24 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-01T14:05:47" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-01</identified>
+      </history>
+      <resources>
+        <audioFile size="259800">/xml/cases/1987/86_1415/19880113o_86-1415.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-1415op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="44.931">
+        <title>Marino v. Ortiz</title>
+        <section startTime="0" stopTime="44.931">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="44.931">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80913">No. 86-1415, Marino versus Ortiz, the two consolidated cases.</text>
+            <text syncTime="9.069" offset="117171">As to the issue raised in Marino namely whether a District Court may dismissed as an impermissible collateral attack, a lawsuit challenging a consent decree by non parties to the underlying litigation, we are equally divided, and therefore affirmed the judgment below on that basis.</text>
+            <text syncTime="27.826" offset="192195">As to the issue raised in Costello, we unanimously affirmed because petitioners were not parties to the underlying lawsuit and because the failed to intervene for purposes of appeal, they may not appeal from the consent decree approving that lawsuit settlement.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

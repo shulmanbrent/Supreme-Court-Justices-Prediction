@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-30</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="597892">/xml/cases/1976/76_60/19770620o_76-60.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1976/trs/76-60op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="124.315">
+        <title>Briscoe v. Bell</title>
+        <section startTime="0" stopTime="124.315">
+          <heading>Opinion Announcement of Warren E. Burger</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="12.549">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="100521">The judgment and opinion of the Court in 76-60, Briscoe, the Governor of Texas, against the Attorney General of the United States will be announced by Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="12.549" stopTime="120.676">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="12.549" offset="150676">This case is here in writ of certiorari to the Court of Appeals for the District of Columbia Circuit.</text>
+            <text syncTime="19.258" offset="177530">The petitioners, the Governor and the Secretary of State of Texas brought this action in the District Court seeking to prevent respondents, the Attorney General of the United States, and the Director of the Census from making official determination that Texas was a jurisdiction covered by the Voting Rights Act of 1965 as amended in 1975 to cover discrimination against language minority groups.</text>
+            <text syncTime="49.860" offset="299888">Petitioner's basic claim was that the federal officials had misinterpreted Section 4 of the Act and deciding that Texas was covered.</text>
+            <text syncTime="59.847" offset="339907">Respondent opposed these claims on the merits and also argued in the District Court that the administrative coverage decision was completely unreviewable in any court.</text>
+            <text syncTime="71.395" offset="386092">The District Court found that it had very limited jurisdiction to ensure that respondents had correctly interpreted the statute and ruled against petitioners on all of their statutory claims.</text>
+            <text syncTime="84.191" offset="437187">The Court of Appeals affirmed both the jurisdictional subsequent rulings.</text>
+            <text syncTime="90.909" offset="464145">We find that the courts below lacks subject matter jurisdiction.</text>
+            <text syncTime="95.919" offset="484103">We hold that when Congress said in Section 4 of the Voting Rights Act that the administrative determinations "shall not be reviewable in any court", it meant exactly that.</text>
+            <text syncTime="110.208" offset="541259">Accordingly, we vacate the judgment of the Court of Appeals and order dismissal of petitioner's complaint.</text>
+            <text syncTime="116.601" offset="566859">Mr. Justice Powell concurs in the judgment.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="120.676" stopTime="124.315">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="120.676" offset="583159">Thank you, Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

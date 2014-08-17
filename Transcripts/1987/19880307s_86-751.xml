@@ -1,0 +1,30 @@
+<transcript>
+      <history>
+        <identified user="jgoldman">2014-04-03</identified>
+      </history>
+      <resources>
+        <audioFile size="226534">/xml/cases/1987/86_751/19880307o_86-751.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-751op.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="56.578">
+        <title>Arkansas Best Corporation v. Commissioner of Internal Revenue</title>
+        <section startTime="0" stopTime="56.578">
+          <heading>Opinion Announcement of Thurgood Marshall</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.872">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 86-751, Arkansas Best Corporation versus Commissioner of Internal Revenue will be announced by Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="9.872" stopTime="56.578">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="9.872" offset="39393">This case is here on certiorari to the United States Court of Appeals for the Eighth Circuit.</text>
+            <text syncTime="16.447" offset="65724">The United States Tax Court held that the stock that was purchased for business purposes was subject to ordinary-loss treatment.</text>
+            <text syncTime="26.713" offset="106789">The Court of Appeals reversed this determination.</text>
+            <text syncTime="30.748" offset="122984">We conclude that petitioner's purpose in acquiring the stock is irrelevant to the determination whether the stock is within the broad definition of capital assets in the Internal Revenue Code.</text>
+            <text syncTime="45.982" offset="183902">We therefore affirm the judgment of the Court of Appeals of the Eighth Circuit.</text>
+            <text syncTime="51.320" offset="205218">Justice Kennedy took no part in the consideration or decision of this case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

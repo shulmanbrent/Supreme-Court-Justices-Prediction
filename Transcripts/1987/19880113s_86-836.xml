@@ -1,0 +1,28 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-03T11:49:25" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-03</identified>
+      </history>
+      <resources>
+        <audioFile size="204639">/xml/cases/1987/86_836/19880113o_86-836.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-836op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="31.033">
+        <title>Hazelwood School District v. Kuhlmeier</title>
+        <section startTime="0" stopTime="31.033">
+          <heading>Opinion Announcement of Byron R. White</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.482">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="81028">The opinion of the Court in No. 86-836, Hazelwood School District versus Kuhlmeier will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="10.482" stopTime="31.033">
+            <label>Justice Byron R. White</label>
+            <text syncTime="10.482" offset="122928">This case is here from the Eighth Circuit Court of Appeals, and the judgment of that court entered in this case is reversed for the reason stated in an opinion on file with the Clerk.</text>
+            <text syncTime="23.428" offset="174651">Justice Brennan has filed a dissenting opinion and Justices Marshall and Blackmun have joined that opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

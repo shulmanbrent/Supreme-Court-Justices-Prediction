@@ -1,0 +1,26 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="157504">/xml/cases/1983/82_1326/19840111o_82-1326.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1983/trs/82-1326op-incomplete.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="13.415">
+        <title>Secretary of the Interior v. California</title>
+        <section startTime="0.000" stopTime="13.415" revised="2014-01-27">
+          <heading>Opinion Announcement of Justice Sandra Day O'Connor</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="12.575">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="103564">The judgment and opinion of the Court in Secretary of Interior against California and consolidated cases will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="12.575" stopTime="13.415">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="12.575" offset="153824">This case comes --</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

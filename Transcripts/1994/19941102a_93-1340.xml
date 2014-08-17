@@ -1,0 +1,1072 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1994-11-02</transcribed>
+        <edit user="dleib" date="2012-07-12T01:14:35" startTime="3311.724" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <identified user="dleib">2012-07-12</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="13625249">/xml/cases/1994/93_1340/19941102a_93-1340.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1994/93-1340_19941102-argument.xml</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="miguel_a_estrada" type="advocate" gender="male" path="/advocates/me/miguel_a_estrada" image="/advocates/me/miguel_a_estrada/thumbnail.jpg">Miguel A. Estrada</speaker>
+        <speaker id="mark_r_lippman" type="advocate" gender="male" path="/advocates/ml/mark_r_lippman" image="/advocates/ml/mark_r_lippman/thumbnail.jpg">Mark R. Lippman</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3365.822">
+        <title>United States v. Mezzanatto</title>
+        <section startTime="0.000" stopTime="1590.396">
+          <heading>Argument of Miguel A. Estrada</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="60.789">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="144185">We'll hear argument next in Number 93-1340, United States v. Gary Mezzanatto.</text>
+            <text syncTime="9.872" offset="183578">Mr. Estrada.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="60.789" stopTime="194.708">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="60.789" offset="387333">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="67.894" offset="415754">The issue in this case is whether a criminal defendant may waive the protection of evidence rule 410 and criminal rule 11(3)(6), both of which provide in identical terms that evidence of plea discussions is not admissible against the defendant.</text>
+            <text syncTime="85.320" offset="485449">Respondent was charged with drug possession.</text>
+            <text syncTime="89.308" offset="501331">He and his lawyer sought a meeting with the prosecutor to explore whether the Government might use respondent as a witness against others.</text>
+            <text syncTime="98.747" offset="539156">The prosecutor agreed to the meeting because respondent in turn agreed that if he said anything at the meeting that was inconsistent with any later trial testimony by him, the prosecutor would have the right to use the statements at the meeting to impeach the trial testimony.</text>
+            <text syncTime="116.291" offset="609269">Respondent ultimately did go to trial, testified, and was impeached in accordance with that agreement.</text>
+            <text syncTime="123.112" offset="636541">The jury found him guilty, but the Ninth Circuit reversed.</text>
+            <text syncTime="126.564" offset="650438">It ruled that the rights conferred by rule 410 and rule 11(e)(6) are not waivable, and that an agreement purporting to do so would chill plea bargaining and violate public policy for that reason.</text>
+            <text syncTime="139.574" offset="702474">We brought the case here because we strongly disagree with those conclusions.</text>
+            <text syncTime="144.525" offset="722223">We start with the language of the rules.</text>
+            <text syncTime="146.910" offset="731731">The rules provide that evidence of plea discussions is inadmissible not in all circumstances but only when offered against the defendant who made the statements.</text>
+            <text syncTime="156.000" offset="768094">That language strongly indicates, we think, that the rules are intended for the protection of the criminal defendant, and that is consistent with a long tradition in our system of laws generally, and of the practice of the rules of evidence in particular, as Justice Scalia noticed in Green v. Bulk Laundry, of providing special protections for defendants in criminal cases.</text>
+            <text syncTime="179.549" offset="862343">This Court has looked at the issue of waiver in many cases involving those special protections, including some of the most valuable rights secured by the Constitution to criminal defendants, and has consistently ruled that those protections may be waived by defendants.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="194.708" stopTime="211.003">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="194.708" offset="922947">So in your view the Government, as part of its standard plea bargain form, asks the defendant to waive its... his right not to have the testimony used in the Government's case on direct, for all purposes?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="211.003" stopTime="227.964">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="211.003" offset="988149">We think that so far as the waivability of the rule goes, Justice Kennedy, which is really a question about whether the right is personal, the answer to that is yes.</text>
+            <text syncTime="221.895" offset="1031721">I cannot imagine that any criminal defendant would do so unless he otherwise intended to plead guilty.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="227.964" stopTime="245.176">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="227.964" offset="1055963">Well, let's suppose he really wanted a plea bargain discussion and the Government says, now, one of the things you are waiving here is your self-incrimination privilege.</text>
+            <text syncTime="237.070" offset="1092430">We're going to play a cassette recording of this entire plea bargain to the jury, of the plea bargain discussion to the jury if the plea bargain doesn't work.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="245.176" stopTime="273.410">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="245.176" offset="1124822">Justice Kennedy, if he makes that judgment knowingly, it's no different from the judgment that criminal defendants made every day... excuse me, make every day concerning whether they wish to confess to the crime.</text>
+            <text syncTime="258.067" offset="1176440">Ordinarily we think of that as an affirmative good, and if they recognize that this is evidence that may be used against them, and they do so knowingly, I doubt that very many will do it, but there will be no problem with that.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="273.410" stopTime="297.043">
+            <label>Justice David H. Souter</label>
+            <text syncTime="273.410" offset="1237775">But of course the difference is they don't waive the rule before they've committed the crime, and here, the... you're asking for the waiver before presumably... the Government is asking for the waiver presumably before the misstatement is made, and before the defendant is faced with, in effect, deciding whether to accept the consequence of the waiver.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="297.043" stopTime="299.478">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="297.043" offset="1332338">Well, that may be true, Justice Souter--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="299.478" stopTime="301.513">
+            <label>Justice David H. Souter</label>
+            <text syncTime="299.478" offset="1342056">Maybe that shouldn't make a difference, but it is a difference.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="301.513" stopTime="396.455">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="301.513" offset="1350206">--Yes, it is a difference, and it should not make a difference for the following reason.</text>
+            <text syncTime="306.381" offset="1369641">He, unlike the Government, knows what he will say, and he is... he has perfectly... he has it perfectly within his control to sort of understand what it is that he will tell the Government and to make a judgment as to whether that is something that he wishes to communicate to the Government.</text>
+            <text syncTime="327.830" offset="1455427">But your point I think raises a point on the public policy part of this argument that is very important and that I think bears stressing, which is that the context in which the Government asks for this is extremely important, and we brought this case to the Court on the assumption that the context is important.</text>
+            <text syncTime="351.010" offset="1548214">And the context is that the Government is talking to the defendant in the context of his proffer of cooperation, and in the context of that proffer of cooperation, the Government often would not meet with a criminal defendant even in the absence of a waiver.</text>
+            <text syncTime="367.722" offset="1614983">And there is a good reason for that, because statements made by cooperating witnesses may be used in undercover work that is dangerous and life-threatening, and may be relied on to put other people in jail, and we think that it is reasonable for the Government to think that somebody who is coming to the Government to cooperate only if he can retain the ability to tell a different story under oath at a later trial, should not be a Government witness.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="396.455" stopTime="402.793">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="396.455" offset="1729922">Well, that--</text>
+            <text syncTime="397.089" offset="1732534">--Doesn't... go ahead.</text>
+            <text syncTime="397.824" offset="1735460">But doesn't the statute take care of that by saying that it preserves the right to prosecute him for perjury?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="402.793" stopTime="404.311">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="402.793" offset="1755313">No, it does not.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="404.311" stopTime="407.930">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="404.311" offset="1761374">I take it this defendant could be prosecuted for perjury, under your view of the facts.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="407.930" stopTime="413.417">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="407.930" offset="1775898">Under our view of the validity of the waiver, yes.</text>
+            <text syncTime="411.732" offset="1791049">Under his view of it, no.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="413.417" stopTime="415.036">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="413.417" offset="1797841">He couldn't be prosecuted for perjury?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="415.036" stopTime="437.116">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="415.036" offset="1804319">No.</text>
+            <text syncTime="415.453" offset="1805991">No, Justice Stevens, because the rule requires that in order to be admissible at any prosecution, including one for perjury, the statement must have been made on the record and under oath, so even though this is a statement that would meet all the elements of 1001, and as made to the prosecutor if it was fault would be a Federal crime, under the strict reading of the rule--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="437.116" stopTime="442.353">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="437.116" offset="1892613">No, but the statement for which he'd be prosecuted would be his trial testimony, which would have been made under oath.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="442.353" stopTime="461.898">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="442.353" offset="1913511">--Yes, but then we would have a... a) that statement would not be covered by the rule in any event, because that statement is not a statement made during plea discussions, his own testimony as to what the underlying facts were, and b) there would be some--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="461.898" stopTime="463.517">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="461.898" offset="1991774">I see.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="463.517" stopTime="467.402">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="463.517" offset="1998252">--difficulty showing to a second jury--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="467.402" stopTime="470.254">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="467.402" offset="2013716">You don't have these people take an oath when they talk to you, then.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="470.254" stopTime="478.526">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="470.254" offset="2025106">--No, we don't, and that, of course, wouldn't do the whole trick, because it would have to be on the record, and there is a fair--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="478.526" stopTime="480.478">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="478.526" offset="2058229">You do make a record, don't you, of your interviews?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="480.478" stopTime="494.655">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="480.478" offset="2066066">--We make a record in terms of having an agent who is at the interview and who will prepare a report who is then furnished to the defendants for discovery.</text>
+            <text syncTime="492.136" offset="2112668">I do not think that that's toward a rule.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="494.655" stopTime="503.927">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="494.655" offset="2122804">What do you think that subparagraph (ii) contemplates?</text>
+            <text syncTime="497.405" offset="2133775">Doesn't it contemplate that these statements would be made by the defendant under oath, on the record, and in the presence of counsel?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="503.927" stopTime="523.488">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="503.927" offset="2159793">I don't think that Congress gave this part of the problem that much thought.</text>
+            <text syncTime="507.796" offset="2175362">What Congress had in mind when it provided for that exception is the part of the rule that makes a plea of guilty later withdrawn inadmissible, so that there will be a record of court proceedings in which the defendant--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="523.488" stopTime="528.126">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="523.488" offset="2238056">Well, he couldn't be prosecuted for perjury for pleading guilty.</text>
+            <text syncTime="526.340" offset="2249445">I mean, I don't understand.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="528.126" stopTime="538.815">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="528.126" offset="2256655">--Well, if he pled guilty and in the course of his plea allocution made statements of fact that were later proven to be false, and he--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="538.815" stopTime="570.619">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="538.815" offset="2299392">Oh, you don't... I see, you think this starts... well, which does this refer to, trial proceedings, or the proceedings in the plea bargain, in your view, subparagraph (ii) of the rule, little (ii), where it says in (i) of the... such statement is admissible to, (i) in the... where, to clarify it... and (ii) is, in a criminal proceeding for perjury or false statement if the statement was made by the defendant under oath, on the record, and in the presence of counsel.</text>
+            <text syncTime="564.549" offset="2402314">Now, is that referring to a statement in the plea bargaining discussion or a statement in the later court proceeding, in your view?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="570.619" stopTime="582.511">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="570.619" offset="2426660">--As the exception was contemplated, Justice Stevens, it refers only to a statement made in court as part of the part of the rule that makes--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="582.511" stopTime="589.848">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="582.511" offset="2474203">All right, so that if he then testifies falsely in court later on, you can indict him for perjury, and prove the perjury by what he said at the interview.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="589.848" stopTime="591.032">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="589.848" offset="2503565">--It would not--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="591.032" stopTime="591.566">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="591.032" offset="2508267">That's what this says.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="591.566" stopTime="612.113">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="591.566" offset="2510356">--It would not normally cover his testimony at trial.</text>
+            <text syncTime="594.984" offset="2524045">It covers the... maybe I'm not explaining this well, Justice Stevens, but maybe I should back up.</text>
+            <text syncTime="601.722" offset="2551003">In the context of taking a plea of guilty, sometimes the judge may, but need not, place the defendant under oath for his plea allocution.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="612.113" stopTime="613.546">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="612.113" offset="2592590">I understand.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="613.546" stopTime="624.421">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="613.546" offset="2598337">In addition to making inadmissible statements made during plea discussions with the prosecutor, this rule also makes inadmissible statements made in connection with a plea of guilty that was later withdrawn.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="624.421" stopTime="632.443">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="624.421" offset="2641805">In the Rule 11 proceedings... that's subparagraph (iii), but the however language at the end of the rule with the two subparagraphs in it refer back to all four--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="632.443" stopTime="644.084">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="632.443" offset="2673883">Yes, it does, and I'm not saying that it should not.</text>
+            <text syncTime="637.613" offset="2694572">All I'm saying was, that was... that the factual pattern that was contemplated was that one that I described.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="644.084" stopTime="647.869">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="644.084" offset="2720485">--You'd think it was primarily intended to refer to the Rule 11 proceeding.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="647.869" stopTime="648.369">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="647.869" offset="2735636">Yes.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="648.369" stopTime="660.677">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="648.369" offset="2737622">But it surely doesn't say that, and it seems to me that it would protect the Government's right to prosecute for perjury if there's a conflict between trial testimony and the testimony in the plea bargain discussion.</text>
+            <text syncTime="658.408" offset="2777746">If you tell me that's not your understanding, then--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="660.677" stopTime="687.344">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="660.677" offset="2786836">Except that then the evidence that would prove that the trial testimony was false, Justice Stevens, would still likely be inadmissible under the strict reading of the rule, because the statements made to the prosecutor were not on the record, and I think that is the reading of the rule that is more or less required by its plain language.</text>
+            <text syncTime="686.577" offset="2890490">That is to say--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="687.344" stopTime="698.385">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="687.344" offset="2893521">--That's because you say it's customary for prosecutors not to put a defendant under oath and not to make a record such as is spoken of in (ii)?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="698.385" stopTime="715.930">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="698.385" offset="2937720">--That is right, Mr. Chief Justice, and there are many reasons for that.</text>
+            <text syncTime="702.687" offset="2954856">In many of the courthouses in the country, it would be impossible to get a court reporter to get to these meetings, so as a practical matter it would never be the case that these--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="715.930" stopTime="730.023">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="715.930" offset="3007832">That may be, but the language of subparagraph (ii), prosecution for perjury or false statement if the statement was made by the defendant under oath, that sounds to me like the statement... the later statement in court.</text>
+            <text syncTime="727.654" offset="3054748">I'll accept your... you say that's what it means.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="730.023" stopTime="730.506">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="730.023" offset="3064257">--Justice Stevens--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="730.506" stopTime="731.990">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="730.506" offset="3066138">You can't use the statute for that purpose.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="731.990" stopTime="732.323">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="731.990" offset="3072094">--If... if he--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="732.323" stopTime="733.140">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="732.323" offset="3073452">It surprises me.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="733.140" stopTime="756.771">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="733.140" offset="3076691">--And again, maybe it is I who is not explaining this very well, but if he testifies as he did here, we could prosecute him for the perjury that he committed in the courtroom.</text>
+            <text syncTime="748.750" offset="3139176">The question then would be whether, in order to prove that perjury, the evidence of his plea statements to the prosecutor would be admissible.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="756.771" stopTime="763.609">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="756.771" offset="3171254">And you would argue it would be, would you not?</text>
+            <text syncTime="759.057" offset="3180345">You wouldn't concede that evidence as inadmissible.</text>
+            <text syncTime="761.273" offset="3189227">That's exactly what the purpose of subparagraph (ii) is.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="763.609" stopTime="770.046">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="763.609" offset="3198526">It is exactly what the purpose is, Justice Stevens.</text>
+            <text syncTime="766.544" offset="3210334">It's not what the rule says.</text>
+            <text syncTime="768.663" offset="3218797">It says that the--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="770.046" stopTime="778.102">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="770.046" offset="3224335">Well, we disagree on that.</text>
+            <text syncTime="770.781" offset="3227261">Well, I guess it's inadmissible unless it was made under oath on the record and in the presence of counsel.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="778.102" stopTime="779.304">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="778.102" offset="3256518">--That is right, Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="779.304" stopTime="785.541">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="779.304" offset="3261325">And if it was... if those three things are met, then yes, it's admissible in the subsequent perjury.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="785.541" stopTime="803.919">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="785.541" offset="3286298">That is right, Justice O'Connor, and all I was saying is that in the usual case that raises the facts that we brought to this Court, that will not be true, because these tend to be meetings in the U.S. Attorney's offices where there is not a court reporter, and where the defendant is not placed under oath.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="803.919" stopTime="831.754">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="803.919" offset="3359858">Do you have the--</text>
+            <text syncTime="804.836" offset="3363516">--Another problem is also that the... I thought the usual situation is not that he tells the truth during the settlement negotiations, or plea bargaining, and lies at the trial, it's the opposite.</text>
+            <text syncTime="819.012" offset="3420149">He lies during the session where he's cooperating with you, supposedly, and then later, when the defendant that you use his evidence against is put on trial, he tells the truth.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="831.754" stopTime="903.368">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="831.754" offset="3471140">Well, the usual fact is that... I mean, in cases where this ends up being a problem, is that he will say something in his own trial under oath that is false, and will say something in the meeting with the prosecutor, something else in the meeting with the prosecutor that is false, but it is true that the situation that you describe can come up fairly often, too, and that is one of our points.</text>
+            <text syncTime="857.304" offset="3573331">The point of the exercise is that we're asking him, or he's asking us to come talk to us for the purpose of using him as a witness for the Government.</text>
+            <text syncTime="865.493" offset="3606141">We have a special concern about the reliability of his statements and our being able to use them without there being these types of arguments when we're trying to get through a criminal trial that is designed to establish what happened.</text>
+            <text syncTime="880.836" offset="3667476">And in a situation in which he is coming in in a frame of mind such that he's still contemplating crimes of false statement, with a false statement to the prosecutor or a possible perjury at his own trial, he is coming in in a frame of mind that makes him... that disqualifies him, in effect, to be a Government witness, and I think--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="903.368" stopTime="929.500">
+            <label>Justice David H. Souter</label>
+            <text syncTime="903.368" offset="3757651">Is the consequence of this, Mr. Estrada, going to be that, at least so far as the use of the statements for impeachment... perhaps not as far as Justice Kennedy's hypothesis suggested, but so far as the use of the statement for impeachment is concerned, that if you prevail, there really will never be any application of the rule to exclude a statement?</text>
+            <text syncTime="923.346" offset="3837481">I mean, the exception... the waiver exception, if you want to call it that, is going to become the rule, isn't it?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="929.500" stopTime="1000.781">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="929.500" offset="3862141">--That is not really true as a practical matter, Justice Souter, for the following reason.</text>
+            <text syncTime="935.673" offset="3886801">The rule could conceivably cover two class of cases, one of which I will call charge bargaining, which really doesn't involve using the defendant as a witness against anyone, and the other one, which is cooperation.</text>
+            <text syncTime="949.647" offset="3942703">In the second category, the answer is yes.</text>
+            <text syncTime="952.433" offset="3953883">In the first category, it will be a waste of time for everyone involved even to meet with the defendant, because charge bargaining, which is the usual type of plea bargaining that has traditionally been known to this Court, really usually only involves the defense lawyer calling the prosecutor on the phone and arguing about what his client did and what he thinks an appropriate sentence or charge might be.</text>
+            <text syncTime="986.606" offset="4090556">And in the first class, the charge bargaining class of cases, we never ask for a waiver.</text>
+            <text syncTime="991.843" offset="4111454">We never ask to meet with the client, or hardly ever, because it would be a waste of their time and ours, and we only do it in cases that involve cooperation, and as to--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1000.781" stopTime="1019.077">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1000.781" offset="4147294">Well, I mean, you're in effect saying the rule doesn't apply in the charge bargaining situation simply because the defendant isn't there, and what you're... if I understand you, what you're saying is that in cases in which the defendant is there and is talking, as a practical matter, if this exception is allowed, the exception will swallow the rule.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1019.077" stopTime="1019.777">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1019.077" offset="4220436">--It is not--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1019.777" stopTime="1020.827">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1019.777" offset="4223258">Or become the rule.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1020.827" stopTime="1030.949">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1020.827" offset="4227437">--It is not true as a general matter that in the charge bargaining situation the rule wouldn't apply because the lawyer is the agent of his client for the purpose, and--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1030.949" stopTime="1034.968">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1030.949" offset="4267979">Well, you're not going to impeach the client later on based on the word of his lawyer.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1034.968" stopTime="1038.436">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1034.968" offset="4283966">--Well, that generally would not be the case, that is true.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1038.436" stopTime="1062.820">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1038.436" offset="4297863">No.</text>
+            <text syncTime="1038.872" offset="4299640">So... but I mean, in any case in which the client, the defendant, is going to be in front of the State's agent making statements in a bargaining process, it's going to be the second... by definition, it's going to be the second of the two examples that you give, and it would seem to me that the Government is always, if this is allowed, going to insist, and, as Justice Kennedy said, make it a part of the standard Government form--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1062.820" stopTime="1063.404">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1062.820" offset="4395457">Well--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1063.404" stopTime="1070.141">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1063.404" offset="4397756">--that in talking to us you waive inadmissibility protection, however they phrase it, of rule 410.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1070.141" stopTime="1071.010">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1070.141" offset="4424714">--I don't have any--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1071.010" stopTime="1071.926">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1071.010" offset="4428162">So that's going to be the rule.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1071.926" stopTime="1093.173">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1071.926" offset="4431819">--I don't have any hesitation in conceding, Justice Souter, that as to the class of cases that involve cooperation we would normally ask for a waiver, and that would not be a consequence of what happens in this Court.</text>
+            <text syncTime="1084.817" offset="4483437">That is what has been happening for the last several years all over the country.</text>
+            <text syncTime="1089.054" offset="4500365">The... as to the charge bargaining situation.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1093.173" stopTime="1121.859">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1093.173" offset="4516874">That may not be what Congress wanted.</text>
+            <text syncTime="1095.208" offset="4524920">Mr. Estrada, I suppose if the Government insisted... insists on waivers in the witness, potential witness, what you'd refer to as the same... and the potential witnesses simply refused to agree to the waivers, then the Government might change its position, and in some cases it would not want... it could not have the waiver because the defendant wouldn't agree to it.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1121.859" stopTime="1123.159">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1121.859" offset="4631604">That is right.</text>
+            <text syncTime="1122.342" offset="4633485">I mean, there--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1123.159" stopTime="1124.810">
+            <label>Unknown Speaker</label>
+            <text syncTime="1123.159" offset="4636724">So it's kind of a market situation, I guess.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1124.810" stopTime="1175.326">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1124.810" offset="4643411">--That's exactly right, and you can contemplate some potential witnesses who would have enough market power to do something like that.</text>
+            <text syncTime="1132.730" offset="4675072">Say, for example, if the head of the Gambino crime family gets taken in with his underling, Sammy the Bull, and the Government knows that in order to put the head of the Gambino crime family in, in jail, it will need the testimony of the underboss, you can very well think of that person as having a great deal of bargaining power.</text>
+            <text syncTime="1157.614" offset="4774546">I don't think even he would ordinarily think that the waiver is that significant, but there are in fact witnesses who, in the context of an investigation, can be so important that they will be able to haggle effectively with the Government.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1175.326" stopTime="1183.932">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1175.326" offset="4845390">But then I... I'm sorry.</text>
+            <text syncTime="1176.809" offset="4851346">Go on.</text>
+            <text syncTime="1177.109" offset="4852600">No, you... I've already had some.</text>
+            <text syncTime="1178.361" offset="4857615">I suppose you could say that the Sixth Amendment right to jury trial has been swallowed up by the exception as well.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1183.932" stopTime="1185.765">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1183.932" offset="4879872">Well, that's right, Justice Scalia.</text>
+            <text syncTime="1185.281" offset="4885305">I mean--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1185.765" stopTime="1196.339">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1185.765" offset="4887186">Your whole point is that you have the right, but it's a right that's yours and if you want to give it away, you may, and if in fact most people choose to, that's just the way--</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1196.339" stopTime="1198.941">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1196.339" offset="4929504">--That is absolutely right.</text>
+            <text syncTime="1197.822" offset="4935460">Most of our cases--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1198.941" stopTime="1209.214">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1198.941" offset="4939849">--Mr. Estrada, isn't that really the issue here?</text>
+            <text syncTime="1199.974" offset="4944028">You describe the rule as one for the special protection of the defendant, but I'm not sure that's the way the court of appeals viewed the rule.</text>
+            <text syncTime="1206.095" offset="4968479">They thought it had a public purpose beyond the protection of the defendant.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1209.214" stopTime="1219.438">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1209.214" offset="4981018">--It is always possible, Justice Stevens, to characterize something that is in effect a personal right as serving broader societal objectives.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1219.438" stopTime="1230.627">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1219.438" offset="5021873">It's also possible to characterize a rule that is designed to provide... serve a broad social interest in encouraging plea bargaining and disposing of lots of criminal cases, you can characterize such a rule as nothing more than protection of a personal right.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1230.627" stopTime="1239.366">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1230.627" offset="5066595">That is true, and it's a question of the burden and who should bear the burden of showing that this is that type of rule.</text>
+            <text syncTime="1238.483" offset="5098046">It is our view--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1239.366" stopTime="1251.224">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1239.366" offset="5101599">In your judgment, are there any nondisposable evidence rules, procedure rules, any rules in the criminal process that are not disposable by the parties?</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="1251.224" stopTime="1586.911">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="1251.224" offset="5149037">--Yes.</text>
+            <text syncTime="1252.409" offset="5153739">I mean, under our view, the first and threshold question is always whether the right is intended to be a personal one.</text>
+            <text syncTime="1260.682" offset="5186863">And if you take, for example, Rule 11, you can read the language, for example, of Rule 11(a) and compare it to the language of Rule 11(e)(6) which is at issue here, and you will see that the language in Rule 11(a) is quite different, and it imposes duties expressly on the court to make sure that at the time of the guilty plea the defendant will be advised of X, Y, and Z, and it goes on to impose other duties on the court of that nature.</text>
+            <text syncTime="1293.070" offset="5316430">And if you look at the background of the rule, you understand that the point of that part of the rule is to make sure that a clear record will be made of a guilty plea so that we can in effect dispose quickly and efficiently of baseless collateral attacks later.</text>
+            <text syncTime="1308.245" offset="5377138">So that type of rule, which by its terms and by its policy is intended for the protection of society when society and the criminal defendant have interests that are adverse, would be one that would not be waivable.</text>
+            <text syncTime="1326.957" offset="5451953">My second example would be the Speedy Trial Act.</text>
+            <text syncTime="1329.926" offset="5463865">The speedy trial right under the Sixth Amendment is one that is understood to be one of the defendant, and waivable by him.</text>
+            <text syncTime="1337.247" offset="5493122">During the consideration of the Speedy Trial Act of 1974, however, it developed that Congress was principally concerned about the fact that people were not having trials quickly enough and were out committing crimes, and the preamble of the Speedy Trial Act describes it as an act to, if I may quote the actual language,</text>
+            <text syncTime="1362.547" offset="5594373">"to assist in reducing crime and the danger of recidivism by requiring speedy trials. "</text>
+            <text syncTime="1373.188" offset="5636900">Now, you then look at the legislative history of that act, and before that act came into full effect in 1979, Congress passed a new statute that changed it somewhat significantly, and the committee report by the Senate expressly stated that in the context of the statutory right the interests of society and the interest of the criminal defendant are adverse, because in a memory-dependent system it will always be to the defendant's... or it will often be to the defendant's advantage to stretch out the length of time that the trial should take.</text>
+            <text syncTime="1417.384" offset="5813697">It's the old notion that a continuance is as good as an acquittal, except that it doesn't last as long, and it goes further to say, in a section entitled "Waiver", that because of the strong public policy, as already explained, that it is their strong view that this right should not be waivable.</text>
+            <text syncTime="1440.064" offset="5904394">Now, the right of that nature, where the purpose of the right is to take care of certain circumstances in which the interests of society and of the criminal defendant are adverse, and one of the interesting points about the example that I just gave you, the Speedy Trial Act, is that that is one of the examples in which Congress expressly adverts to the background rule and acknowledges that ordinarily all rights are waivable, and it said so in terms, and then has a section saying, "Waiver", we don't want this to be waivable.</text>
+            <text syncTime="1477.255" offset="6053187">And our point here is that the background rule in our society is so strongly that, that all rights are waivable, that when someone claims that a particular one should not be, or is not, the burden is on that person to make some sort of affirmative showing based on what is there by way of legislative materials that might show that.</text>
+            <text syncTime="1501.538" offset="6150258">Now, the argument that has been made here really goes in two parts, one as to the mandatory language of the rules, and as to that one, our basic answer is that the structure of the rules from their language is no different from the hearsay rules, everyone knows that those are waivable.</text>
+            <text syncTime="1519.582" offset="6222461">And the second one goes to the policy of the rule to encourage candid communications, and our basic short answer to that is that that is no different from the rules that govern privileges for confidential communications under Rule 501, like the attorney-client privilege, for example.</text>
+            <text syncTime="1540.596" offset="6306471">It is the purpose of that rule to encourage candid communications.</text>
+            <text syncTime="1547.036" offset="6332280">The rule is that the statement can't be used for any purpose, even for impeachment.</text>
+            <text syncTime="1553.422" offset="6357775">Congress must have contemplated, therefore, and the courts must have contemplated that there would be some cases in which the unavailability of the rule would lead to perjury being unrebutted.</text>
+            <text syncTime="1566.980" offset="6412005">But precisely because the effect of the rule is to keep evidence from the fact-finder, the usual rule is that they are not construed broadly, and in fact no one would con... excuse me.</text>
+            <text syncTime="1578.705" offset="6458921">No one would say that they may not be waived.</text>
+            <text syncTime="1581.590" offset="6470520">And I see that I have very little time.</text>
+            <text syncTime="1583.942" offset="6479924">I would like to reserve the remainder of my time for rebuttal.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1586.911" stopTime="1590.396">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1586.911" offset="6491731">Very well, Mr. Estrada.</text>
+            <text syncTime="1588.429" offset="6497896">Mr. Lippman, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="1590.396" stopTime="3179.405">
+          <heading>Argument of Mark R. Lippman</heading>
+          <turn speaker="mark_r_lippman" startTime="1590.396" stopTime="1668.229">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1590.396" offset="6505733">Mr. Chief Justice and may it please the Court:</text>
+            <text syncTime="1597.966" offset="6536035">Respondent's argument begins at the heart of the Government's waiver theory.</text>
+            <text syncTime="1603.454" offset="6557978">The Government maintains that many mandatory rules, like rights, carry a general presumption of waivability, that we must evaluate all mandatory rules and statutory procedures against a backdrop of the overarching implied waiver principle.</text>
+            <text syncTime="1618.463" offset="6617955">To support this contention, the Government cites the stipulation practice, and the Shutte case, a 120-year-old case.</text>
+            <text syncTime="1626.919" offset="6651809">The stipulation practice, however, is fundamentally different from the Government's affirmative waiver regime.</text>
+            <text syncTime="1633.739" offset="6679081">Stipulations are an old, common law practice which began well before the passage of the Federal Rules of Evidence and continues today, but it is a very limited doctrine, and allows parties to avoid proving nondisputed issues, or issues which at the time are not perceived material to the proceeding.</text>
+            <text syncTime="1652.719" offset="6755045">The purpose behind stipulations is to save time and expense, rather than having the parties go through the formality of proving a fact not at issue, and that's always what stipulations have always been, never more.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1668.229" stopTime="1678.518">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1668.229" offset="6817008">How about a stipulation that something be admitted in evidence, not stipulating as to provable fact, but just stipulating as to particular testimony or a document being admitted into evidence?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1678.518" stopTime="1692.378">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1678.518" offset="6858177">Again, the same rationale applies, Your Honor, and that is that it's a time-saving device.</text>
+            <text syncTime="1683.156" offset="6876776">Why should the parties go through the formality of proving an issue of fact, or whatever, if it's already conceded that it's not material?</text>
+            <text syncTime="1690.762" offset="6907183">All it does is take up court time.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1692.378" stopTime="1708.021">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1692.378" offset="6913661">That has nothing... I would think a stipulation as to admissibility of evidence has nothing to do with a fact that's not material.</text>
+            <text syncTime="1700.033" offset="6944276">The fact... a disputed fact may be very material.</text>
+            <text syncTime="1703.319" offset="6957442">All they're saying is that this particular piece of evidence we stipulate is admissible.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1708.021" stopTime="1717.662">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1708.021" offset="6976250">Yes, but the purpose, the underlying rationale is that it's pointless to go through the exercise of proving it, the parties don't contest it, and that's always, always what stipulations have always been.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1717.662" stopTime="1735.373">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1717.662" offset="7014807">I don't agree with you on that.</text>
+            <text syncTime="1719.445" offset="7021912">I think sometimes when you're getting ready to mark exhibits for a trial, I've got some that may be questionable, and I say, you stipulate to the admissibility of these, and you've got some that may be questionable, I'll stipulate to the admissibility of those.</text>
+            <text syncTime="1733.689" offset="7078859">It's not necessarily agreement.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1735.373" stopTime="1743.294">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1735.373" offset="7085651">The way I would distinguish that, Your Honor, is that there are proper stipulations, and there are not proper stipulations.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1743.294" stopTime="1745.629">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1743.294" offset="7117312">The kind I entered into were improper, actually.</text>
+            <text syncTime="1744.979" offset="7123999">[Laughter]</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1745.629" stopTime="1794.860">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1745.629" offset="7126611">Well, I'm not sure about that, Your Honor.</text>
+            <text syncTime="1747.181" offset="7132881">It might be a close question.</text>
+            <text syncTime="1748.748" offset="7139150">What I'm saying here is that an affirmative waiver, like the one we have here, is nothing like the typical stipulations that we've come to know.</text>
+            <text syncTime="1756.668" offset="7170810">An affirmative waiver such as here bargains away and gives up fundamental procedural requirements and protections material to the case.</text>
+            <text syncTime="1765.841" offset="7207486">To be more specific, Your Honor, in the present context, the Justice Department could not require a defendant to waive certain hearsay requirements imposed on the Government's case as a condition of a plea negotiation, and that's the fundamental distinction.</text>
+            <text syncTime="1780.100" offset="7264538">Stipulations and waivers are not the same, and let me continue with that thought.</text>
+            <text syncTime="1786.004" offset="7288152">Stipulations are always subject to the court's control.</text>
+            <text syncTime="1790.158" offset="7304766">The purpose is to make sure it remains within the spirit of stipulations.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1794.860" stopTime="1805.668">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1794.860" offset="7323574">I'm going back to your starting premise.</text>
+            <text syncTime="1797.645" offset="7334755">Of course the Government can't make anybody waive anything, but then the Government can say, okay, then we don't want to bargain.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1805.668" stopTime="1820.694">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1805.668" offset="7366833">Right.</text>
+            <text syncTime="1807.018" offset="7372162">I guess the point I use, the stipulation package, Your Honor, is that that is all they have to support their contention that rules, that everything in the law carries a presumption of waivability, and I think that's fundamentally wrong.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1820.694" stopTime="1828.866">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1820.694" offset="7426915">Isn't that true about our legal system generally, that we are... we follow the party control principle, as distinguished from other systems that don't?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1828.866" stopTime="1869.258">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1828.866" offset="7459620">No, I don't believe so, Your Honor, and let me explain why.</text>
+            <text syncTime="1832.418" offset="7473831">Why... we know for a fact that there are many statutes and rules that have... that contain enabling clauses.</text>
+            <text syncTime="1838.472" offset="7498072">For example, absent the parties' agreement, this is to be done.</text>
+            <text syncTime="1841.774" offset="7511238">If we buy the Government's argument, then all those enabling clauses are rendered superfluous.</text>
+            <text syncTime="1848.495" offset="7538092">Now, clearly Congress did not create all those rules and statutes for an academic exercise.</text>
+            <text syncTime="1854.065" offset="7560348">I think my reading of the... my understanding of stipulations and enabling clauses gives effect to everything.</text>
+            <text syncTime="1860.735" offset="7587098">Stipulations deal with superficial agreements for time-saving.</text>
+            <text syncTime="1865.039" offset="7604338">Enabling clauses allow parties to complete major changes in procedure.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1869.258" stopTime="1878.883">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1869.258" offset="7621161">Are you saying, nothing, nothing can be waived unless the provision, whether it be a statute or a rule, contains a phrase such as, absent agreement?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1878.883" stopTime="1882.768">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1878.883" offset="7659614">What I'm saying is that rules that have a public function cannot, such as this--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1882.768" stopTime="1894.058">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1882.768" offset="7675183">Well, all rules have some public function, I assume, if only to assure a just outcome to the trial.</text>
+            <text syncTime="1889.989" offset="7704126">I mean, that's a public function.</text>
+            <text syncTime="1891.940" offset="7711858">Every rule contributes to that, I assume.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1894.058" stopTime="1903.914">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1894.058" offset="7720322">--I think that there's some helpful guidelines that the Court can use to determine whether a rule has a public function or is a personal right.</text>
+            <text syncTime="1902.046" offset="7752296">I think that's an important distinction.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1903.914" stopTime="1914.056">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1903.914" offset="7759819">I suppose there are two... that's a dichotomy, in your view?</text>
+            <text syncTime="1907.300" offset="7773298">A rule which confers a personal right is one thing, and a rule which has a public function is another?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1914.056" stopTime="1920.210">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1914.056" offset="7800361">One that strictly has a personal benefit and no further, Your Honor, like constitutional rights, because they're just personal rights.</text>
+            <text syncTime="1919.274" offset="7821259">If I may continue--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1920.210" stopTime="1938.771">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1920.210" offset="7825021">But you can--</text>
+            <text syncTime="1920.976" offset="7828051">--Don't continue before you answer this question.</text>
+            <text syncTime="1923.662" offset="7838814">[Laughter]</text>
+            <text syncTime="1924.262" offset="7841217">For instance... you say, for instance, the Fifth Amendment and the Sixth Amendment, the guarantee of jury trial, privilege against self-incrimination, don't... they don't... they serve no public function.</text>
+            <text syncTime="1936.052" offset="7888342">They just confer kind of an individual benefit.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1938.771" stopTime="1961.453">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1938.771" offset="7899209">--No, I wouldn't go that far, Your Honor.</text>
+            <text syncTime="1940.137" offset="7904642">What I'm saying is that it's difficult to draw lines, but it's clear that certain rights, certain rules have more of a public function.</text>
+            <text syncTime="1947.110" offset="7932541">The Speedy Trial Act, for example, the time provisions, are not waivable, and they are not waivable because there is a societal interest in having cases or defendants tried expeditiously irrespective of what the parties want.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1961.453" stopTime="1971.809">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1961.453" offset="7989906">Well, but until the speedy trial statute that Mr. Estrada quoted was enacted, the speedy trial had always been waivable.</text>
+            <text syncTime="1968.207" offset="8016969">That was bedrock jurisprudence of this Court.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1971.809" stopTime="1972.726">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1971.809" offset="8031388">The right, Your Honor?</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1972.726" stopTime="1973.677">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1972.726" offset="8035045">Yes.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1973.677" stopTime="1976.212">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1973.677" offset="8038807">But the time provisions of the act are not--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1976.212" stopTime="1979.062">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1976.212" offset="8048943">But the act--</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1979.062" stopTime="1980.547">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1979.062" offset="8060332">--and what I'm saying is, Congress has treated--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1980.547" stopTime="1983.699">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1980.547" offset="8066288">--The act specifically so provides.</text>
+            <text syncTime="1981.997" offset="8072139">That was his whole point.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="1983.699" stopTime="2046.522">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="1983.699" offset="8078931">--There is legislative history, but the courts that have considered the issue have said that the reason it's not waivable, Your Honor, is because society has an independent interest in seeing that cases are moved along irrespective of what the parties believe--</text>
+            <text syncTime="1996.958" offset="8132012">Let me... if I could continue to answer your question this way, Your Honor, in United States v. Olano Justice Kennedy, you said that Rule 24(c) of the Federal Rules of Criminal Procedure is a product of a judgment, that our jury system should have a constant and stable structure, one that cannot be varied by stipulation with or without the consent of the parties.</text>
+            <text syncTime="2018.804" offset="8219365">I think that is distinction that is applicable here.</text>
+            <text syncTime="2021.823" offset="8231382">In other words, isn't Congress trying to creat a permanent and constant structure, the plea bargain mechanism, in plea negotiation?</text>
+            <text syncTime="2028.310" offset="8257400">The Government has conceded, now, that Rule 11, perhaps all the Rule 11 provisions except 11(e)(6), are not waivable, but isn't Congress, by placing the policing rule in that entire structure, aren't they telling us something, that this is one continuum from the beginning of plea negotiation to the open plea?</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2046.522" stopTime="2096.222">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2046.522" offset="8330229">Well, one response to the continuum argument I suppose is Mr. Estrada's response, and that is, if you assume that the public function is to facilitate, indeed to promote, plea bargaining, this, the so-called waiver rule that he wants is going to have no effect in most plea bargaining situations at all, because a plea bargain is normally simply a deal which is made between a prosecutor and defense counsel, and the first time the defendant has anything to say is when he stands in front of the court and answers the questions about factual basis, and so on.</text>
+            <text syncTime="2084.480" offset="8482053">So that if we assume the public function here is the facilitation of plea bargaining, then I'm not sure that there is any threat to that in the Government's position.</text>
+            <text syncTime="2094.705" offset="8522908">What's your response to that?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2096.222" stopTime="2115.451">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2096.222" offset="8529073">My response, Your Honor, is that Congress thought long and hard about how to create exclusion, and in creating exceptions to it, it believed, and the legislative history supports, that by this exclusion, it would encourage and promote frank and open candid plea discussion.</text>
+            <text syncTime="2113.499" offset="8598141">That was a broad rule to--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2115.451" stopTime="2121.772">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2115.451" offset="8605978">No, but Mr. Estrada's point is that plea discussions normally just don't even implicate the rule.</text>
+            <text syncTime="2119.570" offset="8622383">Do you think he is factually mistaken?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2121.772" stopTime="2140.400">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2121.772" offset="8631264">--I'm saying that Congress included a broad distinction that applied to both contexts, and just because there is... Estrada's distinction of cooperation or more cooperation type agreements from ones that are more classical bargain type agreements is creating a distinction that Congress didn't make in the rules.</text>
+            <text syncTime="2137.365" offset="8693645">The rules speak in mandatory and clear terms, and--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2140.400" stopTime="2187.564">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2140.400" offset="8705765">Justice Souter can protect his own question, but I'm interested in the same point, because frankly it had not occurred to me until I heard the Government's argument.</text>
+            <text syncTime="2149.006" offset="8740143">He says, look, plea bargains go on all the time, and they're not under this procedure.</text>
+            <text syncTime="2153.576" offset="8758428">They're not in a context in which the defendant is present with his counsel making statements to the United States Attorney.</text>
+            <text syncTime="2162.164" offset="8792805">That context is reserved for questions when they want the witness' cooperation both by disclosing information that he knows so that they can have further investigation, number 1, and number 2 so that they can use his testimony at trial, so that the plea bargaining you're talking about is just not really affected in most cases by this rule.</text>
+            <text syncTime="2181.478" offset="8870023">And Justice Souter is asking, in your experience in the criminal system, is that generally correct?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2187.564" stopTime="2250.907">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2187.564" offset="8894369">--I'm not so sure I can generalize that, Your Honor.</text>
+            <text syncTime="2191.683" offset="8910879">I think that we have to... rather than my experience, I... to just answer your question, Your Honor, I think we have to look at what Congress was doing.</text>
+            <text syncTime="2201.157" offset="8948809">I get the sense the Government has its own agenda and its own distinctions, and perhaps they could have argued that when the rules were promulgated, but Congress saw a broad exclusion that applied in the context, and they've limited in saying that now the Government's counsel has to be present, and they've created two exceptions to it, and they're saying, look, it's not enough.</text>
+            <text syncTime="2220.686" offset="9026863">We have defendants that lie, and it is frustrating our investigation.</text>
+            <text syncTime="2225.589" offset="9046507">But Congress didn't buy it.</text>
+            <text syncTime="2227.374" offset="9053612">Congress wasn't blind to the lying problem, or the misconduct problem.</text>
+            <text syncTime="2232.076" offset="9072420">We know that from the legislative history, and we know that from the perjury exception.</text>
+            <text syncTime="2235.295" offset="9085272">What the Government is effectively doing is saying, look, the rules are inadequate.</text>
+            <text syncTime="2239.016" offset="9100214">The cooperation is really what it's all about.</text>
+            <text syncTime="2242.384" offset="9113694">But shouldn't they be going back to Congress and seeking another amendment to the rule, or broadening... or... excuse me, Your Honor, just broadening or changing the rules?</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2250.907" stopTime="2274.439">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2250.907" offset="9147757">Isn't your correct response that we don't know how many cases there are without lawyers and how many with the defendant there, but whatever the number, Congress obviously thought it sufficient to justify the promulgation of a rule dealing with that category of cases, however big it is, whether it's 10 people or 10 million?</text>
+            <text syncTime="2267.999" offset="9216094">Congress thought there ought to be a special provision for that category of cases, so why should we debate how many of them there are?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2274.439" stopTime="2275.689">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2274.439" offset="9241903">I would agree, Your Honor.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2275.689" stopTime="2346.451">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2275.689" offset="9246918">Would you stipulate to that?</text>
+            <text syncTime="2277.155" offset="9252769">[Laughter]</text>
+            <text syncTime="2278.307" offset="9257367">But does the number of them and the relative character of these bargaining sessions nonetheless have an effect on what we should infer about Congress' intent on waivability, because if in fact in the characteristic situation which there would be a waiver, there probably will indeed be a really extensive bargaining going on... I mean, something more than just a plea for a sentence... and counsel will be there on each side, and so on.</text>
+            <text syncTime="2314.313" offset="9401354">Isn't it reasonable to assume that the defendant is likely to be in a position to make an intelligent waiver, if he makes one, on the theory that he's really going to get something in return for it, something important to him, and if we assume that is going to be the characteristic context, wouldn't that be a good reason to conclude that Congress probably did not intend this rule to be proof against waiver if a defendant really waives?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2346.451" stopTime="2400.050">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2346.451" offset="9529981">I just... no, I don't, Your Honor, and let me explain why.</text>
+            <text syncTime="2349.736" offset="9543042">I think that it boils down to whether you look at it as a right, and on a right under Johnson v. Zerbst, you look at the voluntariness issue.</text>
+            <text syncTime="2356.473" offset="9570001">But it seems to me that Congress wanted an absolute and inflexible rule, and the reason they want it is, if you look at how intricate and elaborate the rule is, and all the exceptions, it suggests to me that Congress didn't want to go through the formal exercise of creating rules that could be expressly waived away, or parties could create exceptions, or in the Government's view, the free market theory of contracts.</text>
+            <text syncTime="2382.171" offset="9672818">To me that... it's counterintuitive to the very specificity and intricacy of the rules, and that they tried to balance all these interests, and they tried to realize that in creating effectively the Rule 106 or the exception that creates the completion doctrine that if there was abuse that the Government could avoid it.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2400.050" stopTime="2433.973">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2400.050" offset="9744289">Mr. Lippman, suppose the Government doesn't get a waiver in the negotiations, and they enter into discussions for cooperation, then later at the trial, despite its not having gotten a prior waiver, the Government introduces evidence of what was said in those discussions, and there's no objection on the part of counsel and a conviction occurs, is that reversible error?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2433.973" stopTime="2446.547">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2433.973" offset="9880022">Well, it would be reviewed under a plain error standard, Your Honor, under the forfeiture analysis set forth in United States v. Olano, but again, forfeitures and waivers are two different animals, as this Court laid out pretty clearly in United States v. Olano.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2446.547" stopTime="2449.416">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2446.547" offset="9930281">So you think it can't be done prior, but can be done at the trial?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2449.416" stopTime="2487.358">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2449.416" offset="9941775">No.</text>
+            <text syncTime="2450.733" offset="9947104">No, and Olano says that it's never right.</text>
+            <text syncTime="2453.185" offset="9956822">In other words, if there's error in the first instance to waive a rule or right, and the fact that nobody made a timely objection doesn't make it right because someone failed to make a timely objection.</text>
+            <text syncTime="2462.908" offset="9995796">What it means is that on appellate review we're going to look at a different standard, and the policies for the two are quite different.</text>
+            <text syncTime="2469.062" offset="10020352">In other words, for the forfeiture analysis, that promotes efficient proceeding where the judge has an opportunity to consider the impropriety of the procedure and he can rule and make... and correct them, but if he doesn't do that, then effectively he bars the judge from making those corrections, and I think that's pretty clear in Olano, Your Honor.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2487.358" stopTime="2524.363">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2487.358" offset="10093599">Is there any other example of... well, look, as I look through Rule 11(e), it seems like most of it tells judges what they are supposed to do, and it seems aimed at protecting... at courts.</text>
+            <text syncTime="2498.998" offset="10140097">The courts are supposed to behave, to make... in a certain way to make certain that what... this court-imposed function normally is fair.</text>
+            <text syncTime="2507.735" offset="10175101">But that particular section doesn't really have to do with courts, it has to do with the parties, and if it isn't for the parties, I don't know who it's for.</text>
+            <text syncTime="2514.424" offset="10201850">It's certainly not for the courts.</text>
+            <text syncTime="2515.991" offset="10208120">So can you think of any other instance where you have rules of evidence that seemed aimed at the parties, where it's not waivable?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2524.363" stopTime="2535.504">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2524.363" offset="10241556">Well, Rule 7(a) is considered nonwaivable, Your Honor, the indictment requirement that I cited that... I believe Smith v. United States is the indictment--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2535.504" stopTime="2550.347">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2535.504" offset="10286174">I can understand not waiving things that have to do with courts, which have to do with how the court is supposed to behave.</text>
+            <text syncTime="2542.258" offset="10313132">Is there any instance where you could look and see, this has to do, really this rule here is here for the protection of the parties, one or the other or both?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2550.347" stopTime="2557.601">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2550.347" offset="10345524">--Well, the... as a rule of procedure, Your Honor?</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2557.601" stopTime="2561.821">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2557.601" offset="10374572">Any rule, a rule of evidence, a rule... a rule of admissibility.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2561.821" stopTime="2566.023">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2561.821" offset="10391395">The Fair Labor Standards Act would be one, Your Honor.</text>
+            <text syncTime="2563.321" offset="10397455">That's a nonwaivable right.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2566.023" stopTime="2568.058">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2566.023" offset="10408218">A rule of admissibility in court.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2568.058" stopTime="2569.475">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2568.058" offset="10416368">Oh, you're saying rule of... I'm sorry, you said--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2569.475" stopTime="2577.264">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2569.475" offset="10422010">Yes, any rule that has to do with evidence.</text>
+            <text syncTime="2571.094" offset="10428489">Any rule that seems, you know, somewhat closely analogous.</text>
+            <text syncTime="2574.629" offset="10442699">Or, I'll put down FLSA.</text>
+            <text syncTime="2576.748" offset="10451163">I mean--</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2577.264" stopTime="2581.752">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2577.264" offset="10453148">--Well, I consider the time... sure.</text>
+            <text syncTime="2579.200" offset="10460985">The time provisions of the Speedy Trial Act are nonwaivable, Your Honor.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2581.752" stopTime="2583.218">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2581.752" offset="10471121">--Right.</text>
+            <text syncTime="2582.402" offset="10473733">Any other?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2583.218" stopTime="2612.505">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2583.218" offset="10476972">Again, I don't believe that Rule 24(c), and I think in the concurring opinion with Justice Kennedy indicated so.</text>
+            <text syncTime="2600.197" offset="10544890">I... the problem is that the question hasn't come up.</text>
+            <text syncTime="2603.565" offset="10558369">There isn't much law either way on the point, and I would comfortably assert that you cannot waive hearsay requirements even though they're between the parties.</text>
+            <text syncTime="2611.236" offset="10589089">It's not a... a stipulation--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2612.505" stopTime="2613.671">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2612.505" offset="10594105">They're waived every day of the week, aren't they?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2613.671" stopTime="2618.825">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2613.671" offset="10598807">--Yes, but it's a stipulation, Your Honor, and I'm trying to create the distinction between a stipulation and a waiver.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2618.825" stopTime="2623.177">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2618.825" offset="10619392">Just by failing to object to hearsay--</text>
+            <text syncTime="2621.443" offset="10629945">--Yes, right.</text>
+            <text syncTime="2621.777" offset="10631199">--you waive your objection.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2623.177" stopTime="2626.062">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2623.177" offset="10636841">You forfeit it, Your Honor, and there's a distinction... U.S. v. Olano.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2626.062" stopTime="2631.882">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2626.062" offset="10648335">Well, you somehow give up, whatever you want to say.</text>
+            <text syncTime="2629.014" offset="10660143">What's the difference?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2631.882" stopTime="2634.684">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2631.882" offset="10671636">Between a forfeiture and a waiver, Your Honor, or--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2634.684" stopTime="2635.451">
+            <label>Unknown Speaker</label>
+            <text syncTime="2634.684" offset="10682921">Yes.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2635.451" stopTime="2645.309">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2635.451" offset="10685952">--A forfeiture is where the parties were... a procedure is improper, and that's assumed.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2645.309" stopTime="2645.676">
+            <label>Unknown Speaker</label>
+            <text syncTime="2645.309" offset="10725344">Well--</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2645.676" stopTime="2646.259">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2645.676" offset="10726807">I--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2646.259" stopTime="2651.380">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2646.259" offset="10729210">--is the omission of hearsay improper if it's not objected to?</text>
+            <text syncTime="2650.178" offset="10744884">I mean, that's kind of--</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2651.380" stopTime="2653.332">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2651.380" offset="10749690">--Yes.</text>
+            <text syncTime="2651.796" offset="10751362">Yes.</text>
+            <text syncTime="2652.163" offset="10752825">Yes, very much so.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2653.332" stopTime="2656.950">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2653.332" offset="10757423">--I've handled dozens of cases, and we have hearsay coming in all the time.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2656.950" stopTime="2660.402">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2656.950" offset="10771947">No, no, I guess I don't... I don't... I guess I don't understand your question.</text>
+            <text syncTime="2659.633" offset="10782709">What I'm saying is--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2660.402" stopTime="2662.752">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2660.402" offset="10785739">Maybe you don't understand the answer.</text>
+            <text syncTime="2662.185" offset="10792845">[Laughter]</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2662.752" stopTime="2678.796">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2662.752" offset="10795143">--Well, maybe not, Your Honor.</text>
+            <text syncTime="2663.604" offset="10798592">Let me get another crack at it.</text>
+            <text syncTime="2665.054" offset="10804338">Would you ask the question again?</text>
+            <text syncTime="2667.322" offset="10813429">What I'm saying is, if someone doesn't raise a timely objection to a hearsay requirement, that's error under Olano, and it's reviewed under plain error--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2678.796" stopTime="2703.495">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2678.796" offset="10859300">Mr. Lippman, I've heard trial attorneys say any number of times to the jury, I could object, but I want you to hear everything, so I'm not raising it.</text>
+            <text syncTime="2686.283" offset="10889289">I want everything to be before you as triers of the fact.</text>
+            <text syncTime="2689.421" offset="10901827">I'm not holding back anything.</text>
+            <text syncTime="2691.687" offset="10910918">Isn't that common in trials?</text>
+            <text syncTime="2694.223" offset="10921054">So the defense attorney is making a point of the utter candor on the defense's side and saying, I am not going to raise these objections that I could have.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2703.495" stopTime="2825.608">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2703.495" offset="10958147">--I guess I'd answer this question by looking at the facts of United States v. Olano.</text>
+            <text syncTime="2708.031" offset="10976224">There, the judge invited stipulations that alternate jurors could sit in with the jurors during deliberation in violation of Rule 24(c).</text>
+            <text syncTime="2717.469" offset="11014049">The parties ultimately agreed, and the case... and the case... defendant was tried and convicted.</text>
+            <text syncTime="2723.290" offset="11037246">Defendant argued that it was error to admit the evidence.</text>
+            <text syncTime="2729.027" offset="11060234">I mean, to stipulate to the violation of 24(c).</text>
+            <text syncTime="2732.396" offset="11073713">The Court agreed, or it was assumed.</text>
+            <text syncTime="2735.431" offset="11085834">Justice Kennedy in his concurring opinion seemed to indicate that yes, it was error.</text>
+            <text syncTime="2738.835" offset="11099522">The Government agreed and conceded it probably was error, and so the analysis whether... rose to the level of plain error.</text>
+            <text syncTime="2745.822" offset="11127421">So there's a fundamental distinction here, and I think maybe, going back, you know, that a careful reading of United States v. Olano will make that absolutely clear.</text>
+            <text syncTime="2754.428" offset="11161798">It's the Court's holding.</text>
+            <text syncTime="2757.296" offset="11173292">I think that I really disagree with the Government's characterization of the prestatement rules as rights, and they do it, and they argue it basically because the protections just run to the defendant.</text>
+            <text syncTime="2774.675" offset="11242882">But we know that through the advisory committees they limited the protection of the defendant just because... just to the defendant because they wanted... they didn't want third parties getting the protection of the rules because they thought that that rule was too broad, and I think it's fair to assume that they felt the Government didn't need the protections because the defendant is usually the one that's giving the incriminating and helpful information, not the other way around.</text>
+            <text syncTime="2799.806" offset="11343401">So it's a fundamental misreading of the rules to say that that's a right just because it's protection that runs to the defendant, and it's even more of a misreading when you look in a larger context and see that Congress really wanted cases settled, and their view... we may disagree with it, but their view was that the best way to balance the interest and get cases settled was to have this exclusion as an absolute exclusion in every case, so the system and institution could work efficiently.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2825.608" stopTime="2871.505">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2825.608" offset="11446533">I understand your distinction and agree with it, between forfeiture and waiver, but your position is that this rule, like most of the rules, cannot be waived, and the hearsay rule is also one that can't be waived.</text>
+            <text syncTime="2842.319" offset="11513406">So I guess it would be your position that if in the course of a trial such as Justice Ginsburg described, Counsel, whenever evidence was introduced the judge looks at counsel for the defendant and says, you're making no objection to the introduction of this hearsay evidence, and the defendant's counsel says, no, Your Honor, we want the jury to hear all the truth, that is error, then, for the judge to admit it, even though both sides want it to come in, because under your view the hearsay... hearsay is not--</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2871.505" stopTime="2872.605">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2871.505" offset="11630121">It would depend on the con--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2872.605" stopTime="2873.022">
+            <label>Unknown Speaker</label>
+            <text syncTime="2872.605" offset="11634510">--is--</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2873.022" stopTime="2873.939">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2873.022" offset="11636182">--I'm sorry, Your Honor.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2873.939" stopTime="2887.014">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2873.939" offset="11639839">--It wouldn't depend on the context.</text>
+            <text syncTime="2874.291" offset="11641302">I mean, if the hearsay rule is being violated, and the only reason it's not being violated is that both parties want this evidence to come in, you would say that a good trial judge would exclude it.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2887.014" stopTime="2891.316">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2887.014" offset="11692188">A good trial judge would determine what the purpose of a stipulation was.</text>
+            <text syncTime="2890.800" offset="11707339">For example--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2891.316" stopTime="2894.652">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2891.316" offset="11709429">There has been no prior stipulation.</text>
+            <text syncTime="2893.835" offset="11719460">I mean, it--</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2894.652" stopTime="2896.120">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2894.652" offset="11722699">--Well, you just let it in at the time, rather than--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2896.120" stopTime="2914.749">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2896.120" offset="11728655">--Just right at the very time.</text>
+            <text syncTime="2897.387" offset="11733671">He looks at counsel... and so you can't run your argument that stipulations are something different, an argument I don't really understand, but that is not applicable, assume.</text>
+            <text syncTime="2907.012" offset="11772227">It just happens, just like that.</text>
+            <text syncTime="2908.662" offset="11778810">You'd say that the trial judge must exclude it because the hearsay rule, like most of the rules, is simply not waivable.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2914.749" stopTime="2944.201">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2914.749" offset="11803156">--What I'd... I guess it's difficult for me to analyze a rule... I'm trying to understand your facts.</text>
+            <text syncTime="2920.652" offset="11826771">What I'm saying is, to answer your question, Your Honor, what I would say is, the stipulation practice is not a proper package to rewrite the rules of evidence and rewrite the rules of procedure, and if you follow the Government's argument, that is the ultimate logic, that if we can waive, through stipulation or any affirmative agreement, that we can, even though Congress has laid out mandatory rules of procedure and evidence, that means that we can just write our own.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2944.201" stopTime="2968.752">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2944.201" offset="11920916">What we mean is, basically, I've seen an awful lot of transcripts, spouses testify, doctors testify, hearsay of all kinds comes in, documents come in that don't correspond with authentication rules, that happens in trial after trial after trial, and nobody objects, and they're properly admitted because nobody objected, and what we want to know is, is there anything different about this?</text>
+            <text syncTime="2965.348" offset="12005553">I mean, if parties can do that, why can't they do this?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2968.752" stopTime="2972.120">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2968.752" offset="12019137">What I'm saying is, that's essentially a forfeiture, and I--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2972.120" stopTime="2980.191">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2972.120" offset="12032616">I've never seen this difference.</text>
+            <text syncTime="2973.487" offset="12038049">I just read the transcript, and when I read the transcript it's not objected to, so that's the end of that point.</text>
+            <text syncTime="2978.191" offset="12056858">I mean, that's the normal--</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2980.191" stopTime="2986.464">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2980.191" offset="12064903">--It's the review for plain error, Your Honor.</text>
+            <text syncTime="2982.226" offset="12073054">It's a different analysis, and I think United States v. Olano really sets it out quite clearly.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2986.464" stopTime="2995.218">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2986.464" offset="12089981">--You disagree with his question.</text>
+            <text syncTime="2987.380" offset="12093638">You don't agree that it's all properly admitted.</text>
+            <text syncTime="2990.349" offset="12105550">Your position is, it is improperly admitted.</text>
+            <text syncTime="2992.868" offset="12115581">Even when nobody objects, it's improperly admitted.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="2995.218" stopTime="2995.886">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="2995.218" offset="12124985">Correct, Your Honor.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2995.886" stopTime="3015.881">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2995.886" offset="12127702">And they get away with it only because there's been forfeiture on appeal, but we're running just a whole lot of trials out there every day that are just in violation of statutes that Congress has passed.</text>
+            <text syncTime="3005.992" offset="12168139">Unfortunately, nobody can review them because they forfeited it.</text>
+            <text syncTime="3008.527" offset="12178275">We just have a lot of lazy judges who do not stop these violations of law that occur every day.</text>
+            <text syncTime="3013.329" offset="12197501">It's a terrible prospect.</text>
+            <text syncTime="3014.514" offset="12202203">I hate to think.</text>
+            <text syncTime="3015.364" offset="12205547">[Laughter]</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="3015.881" stopTime="3058.459">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="3015.881" offset="12207636">It's nothing... unlike invited error, Your Honor, or a party... it's... parties can't basically sandbag and then receive a benefit on review for it.</text>
+            <text syncTime="3029.190" offset="12260926">I don't really see this as a dramatic proposition at all, but maybe I... maybe I'm not understanding your question.</text>
+            <text syncTime="3034.261" offset="12281197">I... getting back, I think that if we could characterize this as rights, allow the Government to convince us that these are really rights that are waivable, then there goes the integrity and meaning of the rule, for then, as Justice Kennedy said, what would prevent... and the Government concedes... them from pursuing extracting waivers for substantive evidence, indeed, for any purpose and for any proceeding.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="3058.459" stopTime="3071.600">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="3058.459" offset="12377955">You know, I'm a little confused by your continual reference to Olano and Justice Kennedy's opinion, because with all respect to Justice Kennedy, that wasn't the opinion of the Court, was it?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="3071.600" stopTime="3075.219">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="3071.600" offset="12430513">His concurring opinion on the nonwaivability of--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3075.219" stopTime="3075.921">
+            <label>Unknown Speaker</label>
+            <text syncTime="3075.219" offset="12445037">Olano, mm-hmm.</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="3075.921" stopTime="3077.488">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="3075.921" offset="12447858">--Correct, it was his concurring opinion.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="3077.488" stopTime="3081.742">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="3077.488" offset="12454128">It was a rather lonely concurrence.</text>
+            <text syncTime="3079.623" offset="12462592">It was different, was it not?</text>
+          </turn>
+          <turn speaker="mark_r_lippman" startTime="3081.742" stopTime="3175.052">
+            <label>Mr. Mark R. Lippman</label>
+            <text syncTime="3081.742" offset="12471055">Well, the Government conceded that it was nonwaivable, and went on that assumption, and it seems that Justice Kennedy had good reasons for considering it to be a non... a nonwaivable rule.</text>
+            <text syncTime="3093.716" offset="12519016">Again, getting back, if we allow the court... the Government to extract... to characterize this as rights, then there goes the rule that any integrity and meaning to it is lost, and the Government now muscles through and calls the shots, and overrides the spirit and the intent of Congress.</text>
+            <text syncTime="3112.594" offset="12594458">The Government argues that they really won't have an incentive, or if a defendant will not, that it's not a problem, because defendants won't voluntarily give up the protections when it comes to substantive evidence, but that's not true with the exposure they face.</text>
+            <text syncTime="3127.604" offset="12654539">They feel if they cooperate and the Government will act in good faith, why shouldn't they?</text>
+            <text syncTime="3133.758" offset="12679199">Why shouldn't they run the risk, just like running the risk with impeachment evidence?</text>
+            <text syncTime="3141.030" offset="12708247">I think the legislative history is helpful because it shows that the waiver argument here is nothing more than a device to circumvent the legislative mandate.</text>
+            <text syncTime="3153.171" offset="12756835">They tried again and again to get the impeachment exception, and they lost, and they would ask you to be blind to that fact and say, well, we're on a clean slate now, it's a waiver, it's a totally different ball game, and I would disagree, that I think the legislative history does inform this analysis, and that it's clear that it's just a way to, again to circumvent the mandate.</text>
+            <text syncTime="3173.168" offset="12836769">I thank you, Your Honors.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3175.052" stopTime="3179.405">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3175.052" offset="12844293">Thank you, Mr. Lippman.</text>
+            <text syncTime="3176.787" offset="12851294">Mr. Estrada, you have 3 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3179.405" stopTime="3365.822">
+          <heading>Rebuttal of Miguel A. Estrada</heading>
+          <turn speaker="miguel_a_estrada" startTime="3179.405" stopTime="3245.531" flagged="true">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="3179.405" offset="12861743">Thank you, Mr. Chief Justice.</text>
+            <text syncTime="3182.023" offset="12872192">Just a couple of points.</text>
+            <text syncTime="3183.840" offset="12879506">The first is that Congress did not think about the issue of waiver, and it is our view here that, given what the consequence of the other side's view for the truth-finding process of the trial, only the most clear evidence that waiver was required to be precluded should suffice, because at the end of the day, what we're talking about is a requirement that tells the Government that it is required to sit on its hands and let perjury go unrebutted while it knows that it's going on, and where evidence could come in in accordance with the freely given waiver that could tell the jury that this is a person who has given inconsistent statements on the very same issue that they have to make judgment on.</text>
+            <text syncTime="3232.123" offset="13072603">Congress did not think about the separate, legal concept of waiver.</text>
+            <text syncTime="3235.575" offset="13086396">There are cases in which Congress has thought about it and has done something about it in the text of the statute, or the legislative history, and the result being urged here--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3245.531" stopTime="3252.585">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3245.531" offset="13126206">I'm not clear on one thing, though, Mr. Estrada.</text>
+            <text syncTime="3247.133" offset="13132685">It is clear if there were no waiver, then the prosecutor would have to sit there and let the perjury go unrebutted.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="3252.585" stopTime="3254.304">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="3252.585" offset="13154523">--That is right, Justice Stevens--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3254.304" stopTime="3255.637">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3254.304" offset="13161315">The Congress thought that was acceptable.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="3255.637" stopTime="3268.612">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="3255.637" offset="13166644">--Yes... well, no, not acceptable, Justice Stevens.</text>
+            <text syncTime="3259.089" offset="13180541">I think it would be fair to say that Congress thought that in many circumstances this was an endurable cost to bring parties to the bargaining table.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3268.612" stopTime="3269.064">
+            <label>Unknown Speaker</label>
+            <text syncTime="3268.895" offset="13219725">Right.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="3269.064" stopTime="3270.597">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="3269.064" offset="13220352">It didn't view it as an affirmative good--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3270.597" stopTime="3272.016">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3270.597" offset="13226516">It was an acceptable cost.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="3272.016" stopTime="3311.724">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="3272.016" offset="13232159">--There was a goal of the rule, and there are many other rules, like the rules I mentioned earlier governing testimonial privileges, that go on the same assumption, yet precisely because it is recognized that they hinder the truth-finding function of the trial, no one would say that they are not waivable.</text>
+            <text syncTime="3289.525" offset="13302272">And again, there is a difference between saying that Congress thought that this might be an acceptable cost in some contexts, and saying that Congress would have required... required the prosecutor to let perjury go unrebutted when the defendant and his lawyer both felt themselves free to negotiate freely and openly with the Government without the backstop provided by the rule.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3311.724" stopTime="3320.579">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3311.724" offset="13390983">Yes, but you do get... the mere fact of perjury and dishonesty and all the rest of it is not sufficient unless there's a waiver to adduce as for impeachment purposes.</text>
+          </turn>
+          <turn speaker="miguel_a_estrada" startTime="3320.579" stopTime="3362.922">
+            <label>Mr. Miguel A. Estrada</label>
+            <text syncTime="3320.579" offset="13426405">That is right.</text>
+            <text syncTime="3321.229" offset="13429018">I mean, we do not argue that the rule has an impeachment exception.</text>
+            <text syncTime="3326.316" offset="13449393">We recognize that Congress in effect said that that would be an acceptable cost in some contexts.</text>
+            <text syncTime="3333.070" offset="13476456">Our position here is to urge that Congress did not view that as an affirmative good that had to be accomplished by the rule, and that unless... and that, given that Congress recognized it as a cost, and as something that was bad that could be brought by the rule, only the most clear evidence of congressional intent to displace a well-settled background doctrine should result in a judgment that waiver is not allowed, and that evidence has not been furnished here.</text>
+            <text syncTime="3361.653" offset="13590768">Thank you.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3362.922" stopTime="3365.822">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3362.922" offset="13595783">Thank you, Mr. Estrada.</text>
+            <text syncTime="3364.472" offset="13602053">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

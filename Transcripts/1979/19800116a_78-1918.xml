@@ -1,0 +1,1042 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+      </history>
+      <resources>
+        <audioFile size="15143186">/xml/cases/1979/78_1918/19800116a_78-1918.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1979/trs/78-1918_19800116.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="maryann_walsh" type="advocate" gender="female" path="/advocates/mw/maryann_walsh" image="/advocates/mw/maryann_walsh/thumbnail.jpg">Maryann Walsh</speaker>
+        <speaker id="charles_f_lettow" type="advocate" gender="male" path="/advocates/cl/charles_f_lettow" image="/advocates/cl/charles_f_lettow/thumbnail.jpg">Charles F. Lettow</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3759.852">
+        <title>Harrison v. PPG Industries, Inc.</title>
+        <section startTime="0.000" stopTime="1550.273" revised="2014-01-22">
+          <heading>Argument of Maryann Walsh</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="42.362">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="103424">Ms. Walsh, you may proceed whenever you are ready.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="42.362" stopTime="108.763">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="42.362" offset="272802">Mr. Chief Justice, and may it please the Court.</text>
+            <text syncTime="45.401" offset="285027">This Court is quite familiar with the complexities of the Clean Air Act.</text>
+            <text syncTime="49.121" offset="299865">In 1977 Congress substantially amended the Act, including the judicial review provisions of section 307(b)(1).</text>
+            <text syncTime="57.776" offset="334451">That section now gives original jurisdiction--to the Court of Appeals for the District of Columbia to review the administrative actions under certain enumerated sections of the Act and other final actions which have nationwide application or effect.</text>
+            <text syncTime="73.488" offset="397354">The regional Courts of Appeal are given original jurisdiction over other enumerated sections of the Act and "any other final action of the Administrator under the Act" of local or State-wide effect or application.</text>
+            <text syncTime="91.264" offset="468407">We contend, EPA does, that section 307(b)(1) means exactly what it says, that the Courts of Appeal have original jurisdiction to review all action, all final actions by the Administrator taken under the Act and to explain this interpretation first --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="108.763" stopTime="111.826">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="108.763" offset="538415">That is to the exclusion of District Courts, your position is.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="111.826" stopTime="118.610">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="111.826" offset="550640">Yes, Your Honor; right.</text>
+            <text syncTime="113.464" offset="557223">Except for the provision under the citizens' supervision under section 304, right; yes.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="118.610" stopTime="131.817">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="118.610" offset="577808">Does the legislative history reveal whether the authors of that amendment, all others, had any idea of the scope of its impact?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="131.817" stopTime="139.311">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="131.817" offset="630680">To some extent admittedly the legislative history on section 307(b)(1) in --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="139.311" stopTime="141.248">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="139.311" offset="660668">It isn't very helpful, is it?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="141.248" stopTime="448.539">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="141.248" offset="668400">It is not extremely helpful but it is not unhelpful either, Your Honor.</text>
+            <text syncTime="145.808" offset="686582">It is obvious that Congress was most concerned with and addressed the problem of allocating venue between the Courts of Appeals for the D.C. Circuit and the regional Courts of Appeals.</text>
+            <text syncTime="159.144" offset="739976">Congress did indicate however that they were placing review of all rules and orders of regional, Statewide or local application with the regional Courts of Appeals.</text>
+            <text syncTime="170.435" offset="785115">And this was an expansion of the jurisdiction under the 1977 Amendments.</text>
+            <text syncTime="176.983" offset="811342">Another significant fact is that the House bill that the House Report that this legislative history is in was addressing, at that point the only amendment to what had been the prior section 307(b)(1) was the "any other final action" language.</text>
+            <text syncTime="196.316" offset="888665">So the legislative history was addressing that addition to section 307(b)(1).</text>
+            <text syncTime="202.217" offset="912280">So limited as the legislative history is, it does indicate that Congress was aware of an expansion of jurisdiction.</text>
+            <text syncTime="210.050" offset="943522">I would like to discuss the particular final action involved in this case and then explain why our interpretation is the most manageable, practical and efficient way of interpreting section 307(b)(1).</text>
+            <text syncTime="223.403" offset="997021">In August 1971, the Administrator promulgated proposed new source performance standards for stationary sources, which included emission limitations for sulfur dioxides.</text>
+            <text syncTime="236.110" offset="1047803">The statute at that time -- and it still does, as amended defines new stationary sources to include sources which were modified or constructed after the date of the proposed regulations.</text>
+            <text syncTime="249.986" offset="1103287">And stationary sources were also defined to include fossil fuel-fired steam generating plants such as PPG has at its Lake Charles, Louisiana facility.</text>
+            <text syncTime="261.728" offset="1150307">Now, in May 1975 EPA wrote PPG and asked that PPG provide additional -- not additional, but provide information as to the operation of its facility and what was included on the possibility that the new source performance standards might be applicable to the Louisiana facility.</text>
+            <text syncTime="284.434" offset="1241109">In May and in June of that year PPG responded with their interpretation of whether the new source performance standards would apply or not.</text>
+            <text syncTime="295.411" offset="1284995">They provided detailed diagrams of their facility, purchase order as to when the different parts of the facility, because only one section of the overall facility, chemical manufacturing facility was particularly involved, purchase orders for those parts of it.</text>
+            <text syncTime="310.983" offset="1347271">In October of 1976 EPA concluded that the new source performance standards would be applicable to the facility because of the construction date, the date construction had commenced after the date of the proposed regulations.</text>
+            <text syncTime="326.748" offset="1410382">PPG requested a reconsideration of that and submitted additional material.</text>
+            <text syncTime="331.992" offset="1431385">A meeting was later held between PPG officials and EPA representatives and EPA concluded that its original determination was still in fact in effect.</text>
+            <text syncTime="343.678" offset="1478092">In April of 1977 PPG, as permitted under EPA's regulations, formally asked for a "determination of construction" and along with that "determination" request, which was essentially a request for EPA to reconsider its prior conclusion, PPG submitted a memorandum of law and a memorandum of facts, once again setting out its interpretation.</text>
+            <text syncTime="370.949" offset="1587179">There is no indication here that PPG was ever prevented from adding all of the material it wanted to to the record.</text>
+            <text syncTime="380.149" offset="1623960">Nevertheless, EPA determined in June of '77 that its original conclusion still held, that despite further review of the facility and the standards, that the standards were applicable to PGG's facility.</text>
+            <text syncTime="398.430" offset="1697102">PPG subsequently filed a petition for review with the Fifth Circuit.</text>
+            <text syncTime="402.256" offset="1712358">The Fifth Circuit at PPG's request dismissed the petition for lack of jurisdiction under section 307(b)(1).</text>
+            <text syncTime="410.455" offset="1745168">The Fifth Circuit concluded that Congress could not have intended to place review of final actions in the Courts of Appeals where the action by the Administrator was based on what it termed was a skeletal record, as in this case.</text>
+            <text syncTime="425.598" offset="1805772">The Fifth Circuit was also apparently quite influenced by the lack of discovery apparatus, the mechanical limitations that were inherent in Courts of Appeals v. District Courts.</text>
+            <text syncTime="437.948" offset="1855195">And on that basis, the Fifth Circuit read final action very narrowly.</text>
+            <text syncTime="443.525" offset="1877452">They did not provide a criteria for interpreting that phrase, however.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="448.539" stopTime="456.639">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="448.539" offset="1897514">Ms. Walsh, do you agree with the characterization of the Fifth Circuit that the record in this case was skeletal?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="456.639" stopTime="479.171">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="456.639" offset="1929906">No, Your Honor.</text>
+            <text syncTime="457.260" offset="1932413">We believe that it was sufficient for EPA to make the determination that was involved.</text>
+            <text syncTime="461.675" offset="1950072">Granted in comparison to administrative records in other cases where the issue involved, the legal issue and the factual matters are much more extensive, it was small as compared to numerous boxes of material.</text>
+            <text syncTime="478.817" offset="2018617">But it --</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="479.171" stopTime="489.680">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="479.171" offset="2020080">Isn't the real question though not whether it was sufficient for EPA to make the determination but whether it was sufficient for the Fifth Circuit to determine whether the EPA had acted correctly?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="489.680" stopTime="526.873">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="489.680" offset="2062085">Well, that analysis of the record goes both ways.</text>
+            <text syncTime="496.030" offset="2087476">Was it substantively on the merits; was it sufficient to uphold EPA's decision.</text>
+            <text syncTime="501.999" offset="2111404">But the primary question I suppose is.</text>
+            <text syncTime="504.254" offset="2120391">Was it -- if record sizes are criteria or jurisdiction or determination of jurisdiction, then that would be the appropriate question.</text>
+            <text syncTime="514.238" offset="2160306">We contend, however, that is not the criteria for determining jurisdiction and on that basis it would not be necessary to analyze the size or the quantity of the record.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="526.873" stopTime="545.267">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="526.873" offset="2210879">In your view, if the record is one which is sufficient to satisfy the agency, is it automatically sufficient for appellate review in the Court of Appeals?</text>
+            <text syncTime="539.349" offset="2260720">Does it always follow that then it is sufficient for the reviewing court?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="545.267" stopTime="602.563">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="545.267" offset="2284440">Not necessarily, in that if there is a record, and the Administrator's decision must be based on a record to be sustainable, certainly.</text>
+            <text syncTime="558.438" offset="2337102">Now, Congress has provided that on petitions for review there will be a sufficient record presented to the Courts of Appeal under 28 U.S.C. 2113.</text>
+            <text syncTime="569.893" offset="2382973">That specifies what the agency must certify to the Court of Appeals on a petition for review and that, then, constitutes the reviewable record.</text>
+            <text syncTime="580.216" offset="2424247">And that assures, contrary to what the Fifth Circuit assumed in this instance, that a reviewable record will always be presented to the -- an appellate court.</text>
+            <text syncTime="591.239" offset="2468342">Now, if that standard can't be met, if there is no record to certify, then on that basis there would not be a jurisdiction over that particular action.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="602.563" stopTime="619.869">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="602.563" offset="2513586">Let's assume that in a particular case the agency considers the record adequate but the Court of Appeals asked to review it and concludes that it is inadequate, just assume that.</text>
+            <text syncTime="617.715" offset="2574190">I take it you would agree that could happen?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="619.869" stopTime="620.288">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="619.869" offset="2582862">Yes.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="620.288" stopTime="637.800">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="620.288" offset="2584534">As it did here now.</text>
+            <text syncTime="622.941" offset="2595088">Could the Court of Appeals appoint a special master or a referee to take testimony to fulfill the function that might have been fulfilled by a District Court.</text>
+            <text syncTime="634.479" offset="2641272">Is there any inherent power in a Court of Appeals to do that?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="637.800" stopTime="667.882">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="637.800" offset="2654542">Well, I believe that I would assume that option would be available to the Court of Appeals.</text>
+            <text syncTime="645.046" offset="2683591">The way to interpret the statute is that what is necessary to supplement the record to determine whether the Administrator's action was sustainable or not would be remand to the agency for supplementation or the other options that would be available to the Court of Appeals which might in some instances be the appointment of a special master.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="667.882" stopTime="669.739">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="667.882" offset="2774915">It is an obvious alternative, isn't it?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="669.739" stopTime="670.129">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="669.739" offset="2782333">Yes.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="670.129" stopTime="670.754">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="670.129" offset="2783901">Always.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="670.754" stopTime="671.521">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="670.754" offset="2786408">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="671.521" stopTime="686.671">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="671.521" offset="2789439">Yet one of your arguments is that you want to speed up the process of review so people will know what is expected of them under the EPA.</text>
+            <text syncTime="680.202" offset="2824129">And if the Court of Appeals remands to the agency, that certainly isn't going to speed up the process.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="686.671" stopTime="733.126">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="686.671" offset="2850043">But what we are concerned with is speeding up -- certainly speeding up the application and determining the finality of the Administrator's actions.</text>
+            <text syncTime="698.168" offset="2896018">And we are not saying that this is a way for it to -- that EPA gets by by making decisions on inadequate records, certainly not.</text>
+            <text syncTime="706.574" offset="2929664">But without having to -- without tying jurisdiction -- without tying jurisdiction to record size, that hurdle, that initial hurdle of the analysis of the record as the determiner of jurisdiction is removed.</text>
+            <text syncTime="720.844" offset="2986715">Now, certainly that doesn't remove the necessity to analyze the record on its substance under the judicial review of the Administrator's actions as supported by that record.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="733.126" stopTime="758.574">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="733.126" offset="3035826">Well, I had read the Fifth Circuit's opinion and its use of the word "skeletal" not as meaning that it was less than 20 pages or less than 15 pages, but skeletal in a sense that it was simply correspondence largely between the private party and the EPA; and it was skeletal for purposes of review.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="758.574" stopTime="858.395">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="758.574" offset="3137703">Well, on the basis that it -- certainly there is that indication in the Fifth Circuit's opinion.</text>
+            <text syncTime="766.053" offset="3167587">However, on the basis of what it termed a skeletal record it refused to take jurisdiction, determining that the skeletal quality of the record is what prevented it under section 307(b)(1) from taking jurisdiction which then, under the Fifth Circuit's opinion and reading the Fifth Circuit's opinion and reading what the Fifth Circuit did, means that analyzing the record and the skeletal or non-skeletal quality of it is the basis on which jurisdiction must originally be determined under section 307(b)(1).</text>
+            <text syncTime="802.653" offset="3313977">I think the Fifth Circuit characterization of the record has to be recognized as first going to jurisdiction as well as to the substance of the record.</text>
+            <text syncTime="816.037" offset="3367476">The reason that we feel that section 307(b)(1) must be determined to place original and exclusive review over all final actions in the Courts of Appeals is that, as I have indicated, this is a final and definite way of determining jurisdiction from the outset.</text>
+            <text syncTime="837.050" offset="3451591">And this serves the purpose not merely of EPA, and probably EPA is the last party it serves, but most importantly it facilitates actions moving through the courts -- in the Courts of Appeals.</text>
+            <text syncTime="851.788" offset="3510523">It does not cause an inefficient waste of time in either the District Court or the Courts of Appeals.</text>
+            <text syncTime="858.082" offset="3535705">It works to --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="858.395" stopTime="893.567">
+            <label>Justice Byron R. White</label>
+            <text syncTime="858.395" offset="3536959">Well, can I ask you a question about the final -- I must confess -- I know the parties don't argue this, but I have some question about the finality of the June 8 letter itself.</text>
+            <text syncTime="870.190" offset="3584084">Now, that is the final agency action that is under review, the June 8, 1977 letter.</text>
+            <text syncTime="876.014" offset="3607385">That refers to the fact that the agency refuses to change the position it expressed in its October 5, 1976 letter.</text>
+            <text syncTime="884.658" offset="3641971">One thing I would like to know is whether you regard the October 5, 1976 letter as also having been final agency action.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="893.567" stopTime="899.519">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="893.567" offset="3677602">I would say that, yes, it would be -- it could have been considered final agency action, because that certainly is --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="899.519" stopTime="901.402">
+            <label>Justice Byron R. White</label>
+            <text syncTime="899.519" offset="3701426">It is just as final as the June 8 letter was?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="901.402" stopTime="921.380">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="901.402" offset="3708949">Yes.</text>
+            <text syncTime="901.843" offset="3710725">The reason why the June 8 is characterized as final action, certainly for these purposes, is that the October letter indicated that it was the agency's final decision but I believe it also referred to the fact that if PPG had any further questions or requested a --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="921.380" stopTime="940.871">
+            <label>Justice Byron R. White</label>
+            <text syncTime="921.380" offset="3788884">Well, but it was still open to PPG after the June 8 letter to ask further questions, because they had further correspondence.</text>
+            <text syncTime="928.357" offset="3816782">And on August 18 they got still another final agency action, didn't they?</text>
+            <text syncTime="933.408" offset="3837053">Don't we have three different letters, each of which has an equal claim to finality, that is at the moment it was received?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="940.871" stopTime="972.044">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="940.871" offset="3866833">Yes, I believe so.</text>
+            <text syncTime="947.905" offset="3894941">If PPG had made no request or submitted a petition for review after receiving the October letter, that would have constituted final agency action that was reviewable.</text>
+            <text syncTime="962.210" offset="3952201">Now, EPA and PPG kept open the reconsideration of the determination at that point, with PPG supplying further information --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="972.044" stopTime="987.223">
+            <label>Justice Byron R. White</label>
+            <text syncTime="972.044" offset="3991594">Couldn't PPG today write another letter and say, "We have got another idea, we will only use 90 percent oil and 10 percent gas," or something like this.</text>
+            <text syncTime="979.715" offset="4022209">Would that change the situation if you wrote back and said, "No, we adhere to our October 5, 1976 position."</text>
+            <text syncTime="985.167" offset="4044048">Would that also be a final action?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="987.223" stopTime="1003.039">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="987.223" offset="4052302">In the sense that they could now file another petition for review on that basis, no, because it would be the same -- is the same determination that is involved and we are already involved with a petition for review on the particular --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1003.039" stopTime="1007.312">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1003.039" offset="4115519">Does it effect, to file a petition for review; is that the reason?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1007.312" stopTime="1012.426">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1007.312" offset="4132655">Yes, but there has been no change in the particular agency action involved.</text>
+            <text syncTime="1011.438" offset="4149164">Now, under the --</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1012.426" stopTime="1016.134">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="1012.426" offset="4153031">But there was none between '77 and '76 either, was there?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1016.134" stopTime="1041.205">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1016.134" offset="4167868">No, not between -- not between June and the subsequent June letter which reaffirmed the October decision.</text>
+            <text syncTime="1026.195" offset="4208201">By referring to the later determination we give advantage to PPG or to whatever affected the party.</text>
+            <text syncTime="1034.939" offset="4243101">Now, there is a provision in the section 307(b)(1) that I would like to emphasize, and that is the publication.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1041.205" stopTime="1043.482">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1041.205" offset="4268178">All right.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1043.482" stopTime="1107.040">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1043.482" offset="4277269">Congress specified because of problems that had previously been encountered in the Act as to what the proper filing time was.</text>
+            <text syncTime="1051.963" offset="4311228">Since there is a cut-off date as to when that filing can be made, that the Administrator was to publish in the Federal Register notice of the publications, actions, determinations and that the time to file a petition for review would start 60 days from that notice.</text>
+            <text syncTime="1071.760" offset="4390431">Now there -- and as EPA recognizes in this case there was no Federal Register publication, EPA's policy as they have reiterated now is to publish all the determinations.</text>
+            <text syncTime="1086.913" offset="4451035">The only problem is that it goes to how long the affected party has available to seek a petition for review.</text>
+            <text syncTime="1097.366" offset="4492831">In this instance the situation -- the effect was that it worked to the advantage of PPG.</text>
+            <text syncTime="1102.562" offset="4513625">In other words, that 60-day time period never never started running.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1107.040" stopTime="1136.146">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1107.040" offset="4531493">Would the October 5 determination -- say there had been a criminal proceeding or something like that later on and if there is a failure to seek review of a final action which is subject to review in the Court of Appeals, as I remember the statute, you cannot attack the determination.</text>
+            <text syncTime="1122.379" offset="4592933">If there were no publication in the Federal Register and no review sought from the October 5, '76 proceeding and sometime in October or November you start a criminal proceeding, could they have attacked the action in such a proceeding?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1136.146" stopTime="1192.967">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1136.146" offset="4647999">Yes, they could have, because there was -- the opportunity for review remains open if that Federal notice has never been published.</text>
+            <text syncTime="1148.071" offset="4695646">Now, an enforcement action is brought, we would contend that the appropriate -- the circumstances, the scenario at that point would be to file a -- they can still file a petition for review of the Administrator's action under 307(b)(1).</text>
+            <text syncTime="1165.695" offset="4766177">And that probably the enforcement proceeding should be held in abeyance pending that determination.</text>
+            <text syncTime="1171.863" offset="4790836">But that for closure effect of 307(e) -- excuse me, (b)(2) does not go into effect because the opportunity to challenge it still remains open.</text>
+            <text syncTime="1183.730" offset="4838275">That is why EPA is making efforts to see that all of its final actions will be published in the Federal Register.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1192.967" stopTime="1204.024">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1192.967" offset="4875264">Of course if we held that these actions, these letters back and forth were not final actions within the meaning of the Act, then the company would always be free in an enforcement proceeding to challenge them.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1204.024" stopTime="1219.396">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1204.024" offset="4919463">If because they would not have been reviewable under 307(b)(1).</text>
+            <text syncTime="1207.640" offset="4933883">Finality is a prerequisite for jurisdiction.</text>
+            <text syncTime="1210.979" offset="4947257">Certainly if it is not final, then neither the Court of Appeals nor the District Court under principles of administrative law would be able to review it.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1219.396" stopTime="1227.837">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1219.396" offset="4981008">Is there any statute or regulation that would preclude EPA from changing its position on any of these anytime it changed its mind?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1227.837" stopTime="1229.400">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1227.837" offset="5014758">Having once made -- in other words, going back --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1229.400" stopTime="1239.516">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1229.400" offset="5020923">On anyone of these letters, could they 30 days later have said, "Oh, we have reexamined it and we think we have got a little different approach now and we are going to take a different position."</text>
+            <text syncTime="1236.853" offset="5050807">Is there anything in the statute to prevent them from doing that?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1239.516" stopTime="1241.041">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1239.516" offset="5061465">No.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1241.041" stopTime="1249.234">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1241.041" offset="5067525">Under a court proceeding, for example, after a certain number of days goes by the judge can't change his mind.</text>
+            <text syncTime="1245.962" offset="5087169">But here, as I understand it, the agency is free change its mind whenever it wants to.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1249.234" stopTime="1252.839">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1249.234" offset="5100335">Well, assuming that it is always acting in accordance with the statute --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1252.839" stopTime="1257.239">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1252.839" offset="5114755">I understand, the law and the material before it and all the rest, But these are complicate matters.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1257.239" stopTime="1257.997">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1257.239" offset="5132309">Exactly.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1257.997" stopTime="1265.285">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1257.997" offset="5135339">They have been asked to reexamine by additional letters and additional data, when the actual facility was built and all this sort of thing.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1265.285" stopTime="1270.536">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1265.285" offset="5164492">And if that would happen, then the affected party would have the opportunity to --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1270.536" stopTime="1275.510">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1270.536" offset="5185494">And the agency could change its rule at any time -- it has no time limit when it can change its ruling.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1275.510" stopTime="1277.819">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1275.510" offset="5205452">No, the agency is not precluded from --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1277.819" stopTime="1278.375">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1277.819" offset="5214647">It is nevertheless --</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1278.375" stopTime="1280.016">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1278.375" offset="5216841">-- changing the regulations.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1280.016" stopTime="1282.893">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1280.016" offset="5223424">Nevertheless it is the final action within the meaning of the statute.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1282.893" stopTime="1295.192">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1282.893" offset="5234918">Because it -- it -- that particular action -- and this goes more to the merits of the actions that are involved -- determined that the new source performance standards would be applicable to the facility at that point.</text>
+            <text syncTime="1294.828" offset="5282670">And --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1295.192" stopTime="1297.625">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1295.192" offset="5284133">Unless we change our mind.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1297.625" stopTime="1322.220">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1297.625" offset="5293850">What you are saying is the agency does not lose jurisdiction after it has taken a purported final action and an appeal has been filed in the Court of Appeals, unlike a District Court, for example, would have lost jurisdiction and could not, except by leave of the Court of Appeals, modify findings or a decree.</text>
+            <text syncTime="1321.747" offset="5390399">But you say -</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1322.220" stopTime="1322.455">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1322.220" offset="5392280">That's right.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1322.455" stopTime="1328.452">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1322.455" offset="5393220">-- say the agency does not lose jurisdiction even after it has pronounced a final action in the cases in the Court of Appeals.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1328.452" stopTime="1358.015">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1328.452" offset="5417148">Yes, Your Honor.</text>
+            <text syncTime="1330.544" offset="5425507">I wouldn't characterize it as purported final action.</text>
+            <text syncTime="1332.905" offset="5435016">It is a final determination.</text>
+            <text syncTime="1335.352" offset="5444733">Certainly, as this case represents, there has been no determination of the applicability of the new source performance standards, to my knowledge, for the other emission category such as the nitrogen oxides, and a final action by EPA or a decision that those regulations apply to the PPG facility.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1358.015" stopTime="1376.515">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1358.015" offset="5535431">Well, in your brief you concede that under our former cases even if the action of the EPA is final action and therefore subject to appellate review, it may not be ripe for appellate review.</text>
+            <text syncTime="1374.474" offset="5601259">Do I read your footnote correctly?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1376.515" stopTime="1380.380">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1376.515" offset="5609409">Yes, Your Honor; right.</text>
+            <text syncTime="1379.007" offset="5619440">In other words, --</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1380.380" stopTime="1397.201">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1380.380" offset="5624874">Then if they remand it, if the Court of Appeals would simply say this is not ripe for judicial review, appellate review, then that would be subject presumably to examination here to see whether we agreed that it was not ripe.</text>
+            <text syncTime="1394.907" offset="5682970">Is that so?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1397.201" stopTime="1447.507">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1397.201" offset="5692165">That would be subject to examination here or the Court of Appeals would have the option of remanding to the agency for completion of the administrative proceedings or further administrative hearings, whatever is involved.</text>
+            <text syncTime="1409.057" offset="5739604">The critical factor and the issue we are directed at today is that the rightness or the substantiality of the record, of supporting the Administrator's record -- decision, rather, does not go to determining jurisdiction under 307(b)(1), the language of 307(b)(1) that the indication and the intent of Congress is that jurisdiction be a definite concept.</text>
+            <text syncTime="1434.974" offset="5843257">And the way to make it a definite concept consistent with reading the statute is to make exactly what this section says, to make all final actions reviewable in the Courts of Appeal.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1447.507" stopTime="1466.691">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1447.507" offset="5893413">I suppose if the Court of Appeals had said in this case, "This is not ripe for review," EPA could then have proceeded to expand the record.</text>
+            <text syncTime="1460.526" offset="5945448">But in this case, you were not in a position to expand the record because they said there was no need for it.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="1466.691" stopTime="1550.273">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="1466.691" offset="5970108">No, they said that it -- they said it was not -- they had no jurisdiction, because it was not -- it was not a reviewable record under 307(b)(1) for Courts of Appeal purposes.</text>
+            <text syncTime="1477.711" offset="6014203">And they left -- very much left the -- the -- the parties, both parties in the lurch.</text>
+            <text syncTime="1483.885" offset="6038862">And I think that that must be the -- what will happen in every case based on the Fifth Circuit's decision, because they say that the record that was involved lacked some magic quality that would make it reviewable.</text>
+            <text syncTime="1498.072" offset="6095705">Now, the option that is available to the Court of Appeals or the District Court in reviewing administrative action under this Court's line of cases is remand to the agency.</text>
+            <text syncTime="1508.256" offset="6136351">So the Fifth Circuit concentration on the discovery apparatus or the mechanical limitations inherent in the Courts of Appeals was really irrelevant because neither the Court of Appeals nor the District Court had that option available to them when reviewing the administrative record.</text>
+            <text syncTime="1527.734" offset="6214301">Therefore the most efficient way to interpret section 307(b)(1) and the way that is consistent with the integrity of the statute, the statutory language, is to read it as definite earmark or determination of jurisdiction in the Courts of Appeals.</text>
+            <text syncTime="1546.453" offset="6289220">I reserve the remainder of my time for rebuttal.</text>
+          </turn>
+        </section>
+        <section startTime="1550.273" stopTime="3423.302" revised="2014-01-22">
+          <heading>Argument of Charles F. Lettow</heading>
+          <turn speaker="warren_e_burger" startTime="1550.273" stopTime="1556.266">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1550.273" offset="6304475">Very well.</text>
+            <text syncTime="1554.024" offset="6319417">Mr. Lettow.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="1556.266" stopTime="2080.612">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="1556.266" offset="6328404">Mr. Chief Justice, and may it please the Court.</text>
+            <text syncTime="1559.191" offset="6340106">We disagree directly on the construction given the other final action catch phrases at the end of those two sentences, at the beginning of section 307(b)(1).</text>
+            <text syncTime="1570.740" offset="6386291">But every once in a while one of the old Latin statutory construction phrases makes sense when applied in a modern context to the Federal statute or construction problems.</text>
+            <text syncTime="1583.003" offset="6435401">We think this is a classic case, actually, for application of the doctrine of statutory construction ejusdem generis to construe the catch phrase at the end of a statutory series like those that are similar to it in the enumeration that proceeds it.</text>
+            <text syncTime="1600.768" offset="6506454">But the key thing I think the Court has to remember in focusing on this case is that the agency is arguing for original, exclusive and preclusive jurisdiction in the Court of Appeals that section 307(b)(2) bars anybody from raising an issue in the enforcement proceedings or anything that would come along subsequently, if that issue could have been raised under a direct review action under section 307(b)(1).</text>
+            <text syncTime="1632.597" offset="6633723">Now, I recognize that in this particular case the briefing might not be especially helpful, at least the opening brief of EPA is cryptic.</text>
+            <text syncTime="1642.363" offset="6672802">Our responsive brief and EPA's reply are really where the arguments are found.</text>
+            <text syncTime="1648.113" offset="6695790">In addition to the problems of just discussing the type of action that took place in this case, whether it is final, we believe that EPA has misread seriously three statutory provisions, as well as our position in the case.</text>
+            <text syncTime="1662.120" offset="6751901">What I would like to do is take a few minutes at the outset and summarize our arguments and position and perhaps support the case in the context and then focus on the detailed points.</text>
+            <text syncTime="1675.425" offset="6805086">I remind the Court that Congress established the special judicial review provisions in 1970.</text>
+            <text syncTime="1683.210" offset="6836224">It mandated at that time review in the Courts of Appeals for certain specifically enumerated actions.</text>
+            <text syncTime="1690.199" offset="6864123">Other actions were definitely at that time reviewed in District Courts under the generally applicable Federal question jurisdictional grant and then the Administrative Procedure Act.</text>
+            <text syncTime="1702.701" offset="6914173">Those other actions or the actions that were brought in District Court included actions to review the application of the new source standards, in fact the application of the new source standards at issue in this particular case.</text>
+            <text syncTime="1716.039" offset="6967568">There were a series of District Court actions that took place between 1970 and 1977 on these precise types of matters.</text>
+            <text syncTime="1726.634" offset="7009886">In 1977, however, Congress added a number of further specific sections to the listing that was in section 307 and it added those other final action catch words at the end of the two sentences.</text>
+            <text syncTime="1741.691" offset="7070177">Now, EPA's arguments are based on the broadest conceivable reading of those other final action catch words.</text>
+            <text syncTime="1749.363" offset="7100792">They are so broad that they would make the specific listing that precedes it redundant and useless.</text>
+            <text syncTime="1756.397" offset="7129004">The words "special enumeration" might as well not be there at all.</text>
+            <text syncTime="1763.095" offset="7155754">You can construe the other final catch words in light of the enumeration, however, because that specified list of actions, both in the first sentence and in the second one, deal with a consistent class of actions.</text>
+            <text syncTime="1778.260" offset="7216462">Those actions, if you look at them and analyze them in detail, all are either ruling actions or they are adjudications where EPA has to act on the basis of an opportunity for a hearing to the affected party.</text>
+            <text syncTime="1793.669" offset="7278007">And that opportunity for a hearing brings into play the formal adjudication provisions of section 554 of the APA and it insures that the Court of Appeals has a record available to it for review.</text>
+            <text syncTime="1808.734" offset="7338297">And accordingly, and make no mistake about it, our position on jurisdiction is in no way unclear.</text>
+            <text syncTime="1817.361" offset="7372779">In short, and I would like to reiterate it again, we say that a ejusdem generis construction of the other final action catchwords would include either EPA action which is rule-making or adjudication where the statute on its face provides an opportunity for a hearing, bringing into play section 554 of the Administrative Procedure Act.</text>
+            <text syncTime="1847.422" offset="7493047">We recognize -- the rule-making, by the way, would either have to be subject to section 553 of the Administrative Procedure Act or to the further provisions that actually in the Clean Air Act in section 307(d) that displace the Administrative Procedure Act's provisions and are more stringent in certain respects, especially insofar as keeping a docket and making a record.</text>
+            <text syncTime="1873.140" offset="7595969">Now, we recognize that ejusdem generis construction construction of the other final action catch words would not include the section 112 reference in listing in the second sentence because section 112, while it refers to hazardous substances, does not call for an opportunity for a hearing on the part of the private party.</text>
+            <text syncTime="1898.504" offset="7697429">Section 112 however deals with three different kinds of actions.</text>
+            <text syncTime="1902.135" offset="7711953">It deals with an approval by EPA, actually EPA, not a State, of an application or a notice for permission to either build or modify a plant that emits hazardous pollutants.</text>
+            <text syncTime="1919.112" offset="7779871">In the second part it deals with violations of hazardous pollutants.</text>
+            <text syncTime="1923.095" offset="7795754">And in the third part it deals with waivers from that hazardous pollutant standard.</text>
+            <text syncTime="1928.599" offset="7817801">Section 112(c) does require in each of these three instances that EPA make statutorily defined findings before it takes its action.</text>
+            <text syncTime="1940.604" offset="7865762">Accordingly, we believe that section 112(c)'s provisions can be taken into account in a ejusdem generis construction of these other final action catch words if the Court wants to, because it could add to the categories of adjudication which are covered by those catch words those actions which are taken by EPA where the statute expressly requires that certain determinations or factual findings to be made in support of its action.</text>
+            <text syncTime="1971.055" offset="7987597">We don't think, and the reason we don't put that forward as a favored construction of the statute is that section 112(c) is an exceptional provision in the statute.</text>
+            <text syncTime="1980.407" offset="8025004">This Court has had the Adamo Wrecking case before it, it knows that the Act has special provisions for enforcement as well as judicial review for hazardous pollutants and we think that section 112(c) is an exception and you don't need to include it within this ejusdem generis class.</text>
+            <text syncTime="1999.767" offset="8102431">But either way, whether the Court would adopt the optional construction or not, you wouldn't have reached the action in the present case because here you don't have the requirement at all stated in the statute that EPA make these types of final determinations.</text>
+            <text syncTime="2015.741" offset="8166379">We do agree with EPA that it is a final determination.</text>
+            <text syncTime="2019.906" offset="8182993">PPG was in the process of building that plant.</text>
+            <text syncTime="2023.330" offset="8196681">It was just about built at the time this all started and, indeed, it had to know whether or not those standards in the fossil fuel-fired generating unit requirements that EPA had put forward were applicable or not.</text>
+            <text syncTime="2039.542" offset="8261569">It had to govern its conduct by them as it operated this particular plant.</text>
+            <text syncTime="2044.835" offset="8282676">We do think in construing the statute that the Court should be particularly concerned about EPA's most expansive reading, because it would really have a strong adverse affect on judicial administration.</text>
+            <text syncTime="2057.464" offset="8333249">You heavily burden the Courts of Appeals with review of actions by EPA that were taken outside the administrative record.</text>
+            <text syncTime="2065.856" offset="8366791">As Professor Currie points out, anytime you have an adjudication that does not take place under section 554 the agency can go outside the administrative record and grasp grounds for its decision.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2080.612" stopTime="2086.001">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2080.612" offset="8425827">Well, your alternative would burden the District Courts rather than the Courts of Appeals.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2086.001" stopTime="2119.632">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2086.001" offset="8447352">No, it wouldn't necessarily, Justice Rehnquist, for two reasons.</text>
+            <text syncTime="2090.301" offset="8464593">The first is that you are going to have many more petitions for review filed in the Courts of Appeal under this reading than you are any other reading of the statute.</text>
+            <text syncTime="2099.814" offset="8502627">And that is because of the review preclusion provisions.</text>
+            <text syncTime="2103.171" offset="8516106">You are going to have people who realize that they only have one chance to get review.</text>
+            <text syncTime="2107.522" offset="8533452">Unless they carry forward any possible claim they might have within the 60-day time period, they lose, under the Yakus case, the right to review those issues entirely.</text>
+            <text syncTime="2118.709" offset="8578173">You have got to remember --</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2119.632" stopTime="2124.179">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2119.632" offset="8581935">Why wouldn't that be equally true with respect to the District Courts?</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2124.179" stopTime="2155.635">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2124.179" offset="8600116">Because if you were in the District Court you would be outside the reach of section 307(b)(1) and section 307(b)(1) in the judicial review provisions and section 307(b)(2) in the review preclusion provisions have a juxtaposed scope.</text>
+            <text syncTime="2143.928" offset="8679111">The preclusion provisions get carried along or drug along by the coverage of the judicial provisions.</text>
+            <text syncTime="2151.241" offset="8708368">So if you were in District Court you wouldn't be under the special review provisions at all.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2155.635" stopTime="2156.414">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2155.635" offset="8725922">I see.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2156.414" stopTime="2185.166">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2156.414" offset="8729057">And the second reason, though, as this Court has pointed out in the Overton Park case, a District Court can use discovery means, it has those procedures available to prove out the non-record aspect of the agency action.</text>
+            <text syncTime="2175.450" offset="8805125">It can use them.</text>
+            <text syncTime="2176.272" offset="8808469">It doesn't have to use discovery in aid of a trial of de novo facts but it uses the discovery to prove out the basis for the agency's action.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2185.166" stopTime="2196.036">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2185.166" offset="8843995">But under the Government's reading of the statute where it concedes the Court of Appeals can remand, couldn't the Court of Appeals remand for similar supplementation of the agency record?</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2196.036" stopTime="2225.731">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2196.036" offset="8887568">Your Honor, it could but as Justice Marshall's opinion in the Overton Park case where the Court points out, I think it is at page 420, anytime you remand to the agency, when you have got a circumstance like that, you are going to risk post hoc rationalization and the opinion in the Overton Park case warns that you don't give deference, or the Court doesn't give deference to what results from the remand, because of that danger.</text>
+            <text syncTime="2224.263" offset="9000417">Now, the Fifth Circuit was acutely aware of that.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2225.731" stopTime="2229.523">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2225.731" offset="9006268">Didn't the opinion leave open the right of a District Court to send it back?</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2229.523" stopTime="2234.229">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2229.523" offset="9021419">Yes, it did; it definitely did that, yes.</text>
+            <text syncTime="2231.766" offset="9030405">You warned that that might be a consequence of it.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="2234.229" stopTime="2235.704">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="2234.229" offset="9040332">I warned -- the Court did.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2235.704" stopTime="2244.430">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2235.704" offset="9046183">Yes.</text>
+            <text syncTime="2236.962" offset="9051199">But in any event what we are saying is the Fifth Circuit was acutely aware of this because it had had a case called Save The Bay --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2244.430" stopTime="2252.590">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2244.430" offset="9081083">What is wrong with a little post rationalization?</text>
+            <text syncTime="2248.352" offset="9096756">I thought we remanded sometimes because somebody hadn't rationalized enough.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2252.590" stopTime="2253.570">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2252.590" offset="9113684">Well, Your Honor, we tried --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2253.570" stopTime="2263.994">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2253.570" offset="9117654">We send them back and say, "Look, it is fine if you want to reach this result if you just give some reasons.</text>
+            <text syncTime="2259.484" offset="9141269">You didn't give enough reasons.</text>
+            <text syncTime="2260.491" offset="9145344">Now give some."</text>
+            <text syncTime="2261.593" offset="9149733">And they have post-rationalized and send it back.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2263.994" stopTime="2344.893">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2263.994" offset="9159346">We would have liked to have had some readings for the application of the new source standards in this particular case that focus on the particular requirements that were placed on the waste heat boilers, because as the Court knows from looking at the briefs and the record, these are not your standard every-day boilers.</text>
+            <text syncTime="2282.443" offset="9233115">They fit in the midst of a cogeneration system where the actual air feed to the boilers come is the turbine exhaust gas.</text>
+            <text syncTime="2292.179" offset="9272090">You cannot measure, as a consequence, the pollutants in the exhaust, if you will, from the waste heat boilers and get the numbers where the pollutant parameters are actually specified in EPA's new source standards, because you have a combination of the pollutants from the supplemental fuel there along with those from the turbines, which are completely separate and apart.</text>
+            <text syncTime="2316.618" offset="9369893">And EPA as a consequence couldn't directly apply the new source standards in this case.</text>
+            <text syncTime="2321.527" offset="9389432">One of our problems has always been that it applied special ad hoc requirements that we say are not specified in the statute and, indeed, at that time were not authorized.</text>
+            <text syncTime="2330.777" offset="9426526">But we never have really gotten to that claim.</text>
+            <text syncTime="2334.279" offset="9440528">We are focused on the particular difference between a waste heat boiler in a cogeneration system and a regular boiler, because we have been arguing about, among other things, jurisdiction and review.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2344.893" stopTime="2350.578">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2344.893" offset="9482951">Well, if you weren't you might have gotten to it.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2350.578" stopTime="2351.621">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2350.578" offset="9505729">I beg your pardon, Your Honor?</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2351.621" stopTime="2355.355">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2351.621" offset="9509804">You might have gotten to the merits if you weren't fighting about jurisdiction.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2355.355" stopTime="2403.713">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2355.355" offset="9524746">Well, at the time we filed, and this goes back to the timing of the particular letters where you have to realize that we had a letter on August 3 that basically said the requirements applied only at the time we were operating -- or PPG was operating those boilers with 100-percent fossil fuel, no input from the -- or no waste heat from the turbines at all.</text>
+            <text syncTime="2380.907" offset="9627042">And then the Clean Air Act was actually passed or enacted by the President's signature on August 7.</text>
+            <text syncTime="2387.377" offset="9652851">Then we get the letter of August 18 that says we were wrong on August 3, what we are really going to do is apply the new source standards and we are going to apply the specific ad hoc requirements without necessarily any statement or reasons by the --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2403.713" stopTime="2423.546">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2403.713" offset="9718262">Even the Government perhaps have different views of what the universe of reviewable matters would contain.</text>
+            <text syncTime="2411.899" offset="9750967">I suppose you might have a different view if 99.9 percent of the final judgments really would have an adequate record.</text>
+            <text syncTime="2418.871" offset="9778866">I take it you think that an awful lot of them wouldn't have an adequate record.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2423.546" stopTime="2428.657">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2423.546" offset="9797569">No, Your Honor, I wouldn't think so.</text>
+            <text syncTime="2424.968" offset="9803212">I think there are a lot of informal actions that EPA takes that do have --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2428.657" stopTime="2433.476">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2428.657" offset="9818049">Well, I know a lot of them, but I take it you must think that an awful lot of them wouldn't have enough.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2433.476" stopTime="2488.155">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2433.476" offset="9837275">In this particular case the agency could have had an adequate record for review.</text>
+            <text syncTime="2437.628" offset="9853889">In fact, following along with a question that Justice Stevens asked earlier, after we got the August 18 letter we went back to the agency and had a meeting at which we tried to discuss the particular ad hoc requirements that were imposed that weren't set out in the standard.</text>
+            <text syncTime="2454.169" offset="9920031">And we did not get any resolution of that; there were no letters written, there was no correspondence at all that is reflected in the administrative record in this particular case.</text>
+            <text syncTime="2462.873" offset="9954826">If we would have gotten a series of, again, amendments if you will, to the final order to take those further matters into account, then I think we would have come closer to having an adequate record for review.</text>
+            <text syncTime="2477.929" offset="10015117">But that was in part why especially the Court of Appeals said, "We don't know why they chose these particular requirements, it is a skeletal record insofar as that is concerned."</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2488.155" stopTime="2495.045">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2488.155" offset="10055973">So you think that if EPA really does its work they probably can have an adequate record in almost any case?</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2495.045" stopTime="2495.714">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2495.045" offset="10083558">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2495.714" stopTime="2511.629">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2495.714" offset="10086275">Even if it is informal adjudication.</text>
+            <text syncTime="2499.074" offset="10099649">So we should let the possibility of an inadequate record, just because of ineptness send all these cases to the District Court?</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2511.629" stopTime="2610.531">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2511.629" offset="10149909">No, Your Honor.</text>
+            <text syncTime="2512.604" offset="10153775">Justice White, that is why we put forward very carefully a bright line ejusdem generis construction of those catch words at the end of the statute.</text>
+            <text syncTime="2522.843" offset="10194735">This problem didn't arise prior to the 1977 Amendments, because you had Court of Appeals exclusive and preclusive jurisdiction limited to specific enumerated actions.</text>
+            <text syncTime="2537.085" offset="10251682">And as I said, those actions were the rule-making or they were adjudication where the agency on the statute had a responsibility to provide the affected party with an opportunity for hearing unless you brought section 554 of the APA into play.</text>
+            <text syncTime="2554.306" offset="10320645">And it is only when you get these unclear and ambiguous words on a final action that you have a problem.</text>
+            <text syncTime="2560.997" offset="10347395">And we think those words are ambiguous only standing alone, because if you take the context of the sections, section 307(b)(1), and what happened in 1970 in particular, when Congress put that in place, because Congress at that time put it in place with a careful recognition that it was applying the special review listing only to actions which would have an adequate record for review in the Court of Appeals.</text>
+            <text syncTime="2592.829" offset="10474663">With the action that it actually took in 1977, you do not get the very broadest possible reading that EPA has put forward.</text>
+            <text syncTime="2600.572" offset="10505697">Instead you get ejusdem generis construction.</text>
+            <text syncTime="2603.620" offset="10517817">That is the other final action really means things that are like the things that are in the listing, not anything.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2610.531" stopTime="2625.334">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="2610.531" offset="10545507">You don't think the special review proceeding depends on -- going to the Court of Appeals depends on an ad hoc evaluation of the record but that the likelihood of a skeletal record is why you apply the ejusdem generis construction.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2625.334" stopTime="2629.642">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2625.334" offset="10604753">Precisely.</text>
+            <text syncTime="2626.566" offset="10609664">That is precisely -- we agree with the agency completely.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2629.642" stopTime="2633.626">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2629.642" offset="10621889">The likelihood of somebody having made a mistake.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2633.626" stopTime="2658.811">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2633.626" offset="10637876">Well, we -- Justice White, we agree with the agency completely, the union of bright line jurisdiction rule, you mean something that you can tell on the face of the statute before you even go into one of these proceedings whether or not you are going to be subject to at the end, exclusive and preclusive review in the Courts of Appeals or whether you are not, and you can raise defenses in enforcement cases or go to the District Court for review if you want to.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2658.811" stopTime="2672.817">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2658.811" offset="10738604">Well, if you predicted only about one out of a thousand final actions might have an insufficient record because somebody made a mistake, it certainly isn't much of an argument for your construction.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2672.817" stopTime="2710.599">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2672.817" offset="10794611">But Justice White, the application of EPA's rule would mean that you would have everything from, oh, I think of EPA's decision to black list a company from Federal contracts, it is informal adjudication; it doesn't have a record attached to it.</text>
+            <text syncTime="2689.493" offset="10861380">You could have -- I suppose if EPA ever gets to the point where it puts up auto inspection stations in those States that won't do it themselves for emission requirements, individual cars going through that auto inspection station, that would be a final action by the agency, certainly insofar as that particular car is concerned.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2710.599" stopTime="2731.823">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2710.599" offset="10945808">I want to be sure I understand what you think the phrase "any other final action" in the present 307(b)(1) means.</text>
+            <text syncTime="2721.389" offset="10988962">You say ejusdem generis.</text>
+            <text syncTime="2722.684" offset="10994082">It means actions similar to those which are specifically enumerated?</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2731.823" stopTime="2734.215">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2731.823" offset="11030653">Yes, that is precisely right.</text>
+            <text syncTime="2733.616" offset="11037863">And we think --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2734.215" stopTime="2747.133">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2734.215" offset="11040266">And because those would -- could be expected to have adequate records to provide intelligent review, informed review on the part of the Court of Appeals; is that it?</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2747.133" stopTime="2750.444">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2747.133" offset="11091884">That is precisely it.</text>
+            <text syncTime="2748.205" offset="11096168">And that is the criteria that the Congress --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2750.444" stopTime="2752.361">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2750.444" offset="11105155">Not whether in this case there is an adequate record.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2752.361" stopTime="2752.779">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2752.361" offset="11112782">No.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2752.779" stopTime="2755.903">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2752.779" offset="11114454">Not whether in any particular case there is an adequate record.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2755.903" stopTime="2772.715">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2755.903" offset="11126993">No, not at all; that is precisely right.</text>
+            <text syncTime="2757.726" offset="11134307">You can take the statute, you can construe it I suppose without regard to the facts of this particular case, because jurisdictionally we think on any proper ejusdem generis construction of the statute we would fall outside the special Court of --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2772.715" stopTime="2775.971">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2772.715" offset="11194284">And that ejusdem would then include what?</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2775.971" stopTime="2783.374">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2775.971" offset="11207241">It would include rule-making, because the actions both in the first and second sentences do include some rule-making.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2783.374" stopTime="2784.915">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2783.374" offset="11236916">It would include all rule-making.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2784.915" stopTime="2792.706">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2784.915" offset="11243081">That is right, because they are either subject to 553 of the APA or the special provisions of section 307(d).</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2792.706" stopTime="2793.291">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2792.706" offset="11274219">Yes.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2793.291" stopTime="2810.812">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2793.291" offset="11276518">And it would include also those adjudications which EPA has to take which are subject to statutorily the right of an affected party to request a hearing, to provide the opportunity for a hearing.</text>
+            <text syncTime="2806.651" offset="11330017">And there you actually bring into play section 554.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="2810.812" stopTime="2812.504">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="2810.812" offset="11346631">And there would be a hearing record.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2812.504" stopTime="2892.968">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2812.504" offset="11353422">That is right.</text>
+            <text syncTime="2813.021" offset="11355408">There is one exception, and that is 112(c) which deals with hazardous pollutants, and that is the only exception.</text>
+            <text syncTime="2819.626" offset="11381844">EPA has raised a couple of other sections which they say are also exceptions.</text>
+            <text syncTime="2824.519" offset="11401488">They have raised in particular sections 111(j) and 119 as not fitting the statutory scheme or plan that we have put forward.</text>
+            <text syncTime="2836.959" offset="11451225">We think it mistakes those provisions.</text>
+            <text syncTime="2839.783" offset="11462510">Section 111(j) authorizes innovative technology waivers from new source standards.</text>
+            <text syncTime="2846.041" offset="11487587">EPA says it requires an opportunity for a hearing only where the agency grants relief but there is no opportunity for a hearing where it denies it and so it doesn't fit.</text>
+            <text syncTime="2857.852" offset="11534817">But the statutory language actually says the Administrator may grant a waiver after notice and opportunity for public hearing.</text>
+            <text syncTime="2867.343" offset="11572746">And given this context, we have a great deal of difficulty with how EPA could possibly decide in advance of proceedings whether or not it would ultimately grant or deny relief.</text>
+            <text syncTime="2879.387" offset="11620916">It has to gather the facts, including by a hearing, and then decide as the statute says "after notice and hearing."</text>
+            <text syncTime="2889.285" offset="11660518">The same problem exactly arises with --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2892.968" stopTime="2895.030">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2892.968" offset="11675251">You are not saying we have to conduct a hearing?</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2895.030" stopTime="2895.297">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2895.030" offset="11683506">No.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2895.297" stopTime="2902.634">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2895.297" offset="11684551">It posted a notice and nobody showed up at the time for a hearing, if that guy doesn't have to sit there for three hours and twiddle his thumbs.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="2902.634" stopTime="3008.208">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="2902.634" offset="11713912">No, that is precisely right.</text>
+            <text syncTime="2904.050" offset="11719555">But that isn't the criteria even for bringing section 554 in play, it is just providing an opportunity for a public hearing.</text>
+            <text syncTime="2911.656" offset="11749961">And, indeed, 554 as the Court well knows provides summary judgment opportunities in the administrative context and other things, too.</text>
+            <text syncTime="2919.029" offset="11779532">But it is the fact that the statute provides an opportunity for a hearing that distinguishes it.</text>
+            <text syncTime="2926.105" offset="11807744">Section 119 is precisely the same.</text>
+            <text syncTime="2930.922" offset="11827075">It provides after notice and a hearing on the record, in several instances.</text>
+            <text syncTime="2937.135" offset="11851943">In other words, you get an opportunity for a hearing under section 119 as well.</text>
+            <text syncTime="2941.714" offset="11870229">And we think the agency's putting forward this grant denied dichotomy is a mis-reading of the statute.</text>
+            <text syncTime="2950.177" offset="11904084">And that those two sections do fit within this general plan.</text>
+            <text syncTime="2956.566" offset="11929684">And as a matter of fact Courts of Appeals have actually made such construction.</text>
+            <text syncTime="2960.453" offset="11945148">They have used this ejusdem generis idea.</text>
+            <text syncTime="2964.100" offset="11959777">But from the reverse vantage point, they have construed the substantive provisions that are actually listed in the special judicial review provision in light of the record desired for Court of Appeals review.</text>
+            <text syncTime="2978.068" offset="12015679">An example -- and it is not cited in our brief -- is the Marathon Oil case at 564 F.2nd 1253.</text>
+            <text syncTime="2987.982" offset="12055280">In that case the Court had before it the question of whether the hearing required for a Clean Water Act discharge permit was a formal adjudicatory hearing under section 554 or whether EPA could dispense with the hearing requirement cross-examination or particular requirements during the hearing.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3008.208" stopTime="3022.776">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3008.208" offset="12136155">Mr. Lettow, with respect to this precise issue now before us, this may all be in your brief and I have read them some time ago and it is not in my mind, have the Courts of Appeals -- have any other Courts of Appeals besides this one addressed this issue?</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="3022.776" stopTime="3034.830">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="3022.776" offset="12194461">Not this precise issue.</text>
+            <text syncTime="3024.878" offset="12202924">They have addressed certainly the scope of the judicial review provisions but you have the references, for example, of the Utah Power case --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3034.830" stopTime="3036.592">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3034.830" offset="12242735">Yes, that is in the District of Columbia Court.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="3036.592" stopTime="3060.563">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="3036.592" offset="12249736">That is right.</text>
+            <text syncTime="3037.653" offset="12254020">And the Chrysler case under the Noise Act and the Crown Simpson case under the Water Act.</text>
+            <text syncTime="3042.940" offset="12275127">They have been consistent in adopting strict and precise and carefully crafted narrow interpretations because particularly of the review preclusion aspects that get carried along with them.</text>
+            <text syncTime="3056.016" offset="12327476">And also the difficulty of record problems posed by review --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3060.563" stopTime="3063.857">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3060.563" offset="12345657">On this precise issue there is no other Court of Appeals decision.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="3063.857" stopTime="3065.718">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="3063.857" offset="12358823">No, but as I am about to point out --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3065.718" stopTime="3075.685">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3065.718" offset="12366242">But you say on the general generic question there are other Courts of Appeals decisions which are not in conflict but rather are consistent.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="3075.685" stopTime="3297.832">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="3075.685" offset="12406157">That is precisely right.</text>
+            <text syncTime="3077.085" offset="12411695">And in fact the Marathon Oil case is one of them, because in that case the Court construed the reference, the substantive provisions reference listing in the special judicial review provisions to have some impact on what those actual requirements were for that particular substantive statute.</text>
+            <text syncTime="3097.144" offset="12491943">And the Court said, actually quoted from the Attorney General's manual on the APA on the subject.</text>
+            <text syncTime="3104.637" offset="12521932">The Attorney General's manual had said that a requirement that administrative decisions beyond the record can be clearly implied in the provision for judicial review in the Circuit Courts of Appeal.</text>
+            <text syncTime="3115.846" offset="12566758">That was where the actual statute called for a hearing but didn't say whether you had on the record such that you would also bring 554 into play.</text>
+            <text syncTime="3126.176" offset="12608031">And decisions that are consistent with Marathon Oil are the U.S. Steel case in the Seventh Circuit and the First Circuit Seacost Anti-pollution League Case, those are at 556 F. 2d and 572 F. 2d respectively.</text>
+            <text syncTime="3141.233" offset="12668322">So the courts have used this ejusdem generis idea but they have used it from a reverse vantage point.</text>
+            <text syncTime="3148.836" offset="12698728">There is one final thing I would particularly like to cover and that is EPA's broad construction would actually introduce an internal conflict into section 307 itself.</text>
+            <text syncTime="3160.886" offset="12746898">As The Court knows, in the first section of section 307 the Courts of Appeals are reviewing, among other things, and it says that EPA's action in promulgating any standard under section 202 of the Act, but then right away a parenthetical clause appears, other than a standard required to be prescribed under section 202(b)(1) of the Act, this section deals with auto emission standards.</text>
+            <text syncTime="3186.622" offset="12849821">EPA's broad reading of the catch phrase in the sentence would actually draw back into the ambit of Court of Appeals review that item which is specifically excluded by the parenthetical exemption.</text>
+            <text syncTime="3200.439" offset="12905096">EPA argues in its reply brief that section 202(b)(1) of the parenthetically exempted part of the statute doesn't call on the agency to take any action which is reviewable in any court.</text>
+            <text syncTime="3215.274" offset="12964446">That is wrong, and that is wrong for the reasons that are stated in Professor Currie's report to the administrative conference which actually produced the recommendations that went to Congress and formed the basis for the 1977 Amendments.</text>
+            <text syncTime="3228.752" offset="13018363">As Professor Currie pointed out, section 202 does require or does have in it particular provisions which call for numbers in the auto pollution standards.</text>
+            <text syncTime="3246.063" offset="13087640">Those numbers, for example, are things like 1.5 grams for a vehicle mile hydrocarbons.</text>
+            <text syncTime="3253.199" offset="13116165">But in every case the statute says that EPA standards may not exceed that level.</text>
+            <text syncTime="3259.327" offset="13140720">In other words, EPA standards can be more stringent.</text>
+            <text syncTime="3261.708" offset="13150229">And as Professor Currie points out in his report, which is in the Iowa Law Review reprinted there, you have to have court of review or you have to have the opportunity for court review whether or not EPA properly exercised its power to make the standards more stringent than the statutorily set levels or not.</text>
+            <text syncTime="3280.850" offset="13226820">And he had concluded at that point that the only possibility of review of course was in District Court under the Federal questions statutes and the Administrative Procedure Act, so a review had to be available there.</text>
+            <text syncTime="3291.836" offset="13270706">And we agree whole-heartedly.</text>
+            <text syncTime="3293.950" offset="13279169">We also note that section 202(b)(1) has --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3297.832" stopTime="3304.677">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3297.832" offset="13294738">I don't follow.</text>
+            <text syncTime="3298.449" offset="13297142">Why would it be necessary to have review of the question whether the standard was sufficiently stringent?</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="3304.677" stopTime="3316.388">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="3304.677" offset="13322115">When EPA sets the standard it doesn't necessarily set it at the precise numerical level.</text>
+            <text syncTime="3311.858" offset="13350849">It can go more -- at a level more stringent than that, depending on --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3316.388" stopTime="3319.845">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3316.388" offset="13368926">And the company would seek review.</text>
+            <text syncTime="3318.735" offset="13378330">If it is not stringent enough --</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="3319.845" stopTime="3322.519">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="3319.845" offset="13382719">You could have an environmental group coming in and saying --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3322.519" stopTime="3325.120">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3322.519" offset="13393481">What facts are there that there be such review?</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="3325.120" stopTime="3333.507">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="3325.120" offset="13403826">The possibility that just because the statute does not fix the standard, it allows discretion.</text>
+            <text syncTime="3331.661" offset="13430053">Admittedly, it only allows it one way.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3333.507" stopTime="3338.674">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3333.507" offset="13437367">What you are saying is, if there is to be review on behalf of an environmental group that will have so be in the District Court.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="3338.674" stopTime="3338.925">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="3338.674" offset="13458056">Yes.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3338.925" stopTime="3340.785">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3338.925" offset="13459101">There is no such review provided in the Court of Appeals.</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="3340.785" stopTime="3356.911">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="3340.785" offset="13466520">That is exactly right.</text>
+            <text syncTime="3341.921" offset="13471013">And, on the other hand, if they set a more stringent standard and the auto companies challenge it, again that review has to be in District Court.</text>
+            <text syncTime="3350.801" offset="13506539">And, moreover, EPA completely ignores the fact that the 1977 Amendments changed --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3356.911" stopTime="3362.448">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3356.911" offset="13530990">Why couldn't that review be regional rather than national, the second half of the section?</text>
+          </turn>
+          <turn speaker="charles_f_lettow" startTime="3362.448" stopTime="3423.302">
+            <label>Mr. Charles F. Lettow</label>
+            <text syncTime="3362.448" offset="13553142">Well, because the action obviously would have national impact.</text>
+            <text syncTime="3366.685" offset="13570069">I don't think there is much claim that the action itself would not have a nation-wide scope.</text>
+            <text syncTime="3372.778" offset="13594520">It certainly wouldn't be focused as this was on a particular plant in one city in Lake Charles, Louisiana.</text>
+            <text syncTime="3381.540" offset="13629524">But the thing that is missed is that the statute was amended in '77 to add -- to require -- it actually requires EPA to proscribe substitute emission standards for certain small manufacturers of light-duty vehicles and also to deal with evaporative emissions of hydrocarbons.</text>
+            <text syncTime="3402.454" offset="13713220">You can deal with these two things also by calling for District Court review, by of course having the ejusdem generis construction of the catch phrase reflect the particular exemption that is in the particular item in the series.</text>
+            <text syncTime="3420.919" offset="13787094">I see my time is up.</text>
+            <text syncTime="3422.169" offset="13792005">Thank you.</text>
+          </turn>
+        </section>
+        <section startTime="3423.302" stopTime="3759.852" revised="2014-01-22">
+          <heading>Rebuttal of Maryann Walsh</heading>
+          <turn speaker="warren_e_burger" startTime="3423.302" stopTime="3427.116">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3423.302" offset="13796603">Ms. Walsh, do you have anything further?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3427.116" stopTime="3581.134">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3427.116" offset="13811858">I would like to try and show some of the shadows on PPG's bright line of ejusdem generis.</text>
+            <text syncTime="3432.865" offset="13834846">First of all, as we discussed in our reply brief, there are certain actions that the Administrator can take under the Act that are specified in the enumerated portions of 307(b)(1) that would not necessarily be based on the -- a complete formal record, the type that PPG requires.</text>
+            <text syncTime="3451.934" offset="13911124">I think one of the mistakes that PPG makes is they assume that every time you have an action made on a record that there will be an opportunity for a hearing and a hearing that is conducted.</text>
+            <text syncTime="3464.364" offset="13960861">The Administrative Procedure Act in section 553 providing for rule-making requires that rule-making proceed on a notice and an opportunity for hearing.</text>
+            <text syncTime="3477.984" offset="14015300">And that opportunity for hearing may consist of just the type of action taken in this case.</text>
+            <text syncTime="3482.927" offset="14035048">That is the submission of data, the transfer of correspondence between the agency and the party involved.</text>
+            <text syncTime="3489.850" offset="14062738">In other words, PPG assumes, reads into the statute things that are not there, the requirement of what they would call a complete and presumably an APA record in their ejusdem generis provisions of 307.</text>
+            <text syncTime="3509.266" offset="14140479">It is not provided in the APA, they are asking more than the APA does.</text>
+            <text syncTime="3513.532" offset="14157511">The types of actions that Congress refers to in those enumerated sections are not necessarily the types of actions that would be based on a record after a formal hearing.</text>
+            <text syncTime="3524.025" offset="14199515">So that looking to ejusdem generis, which is no more than an aid to construction, it certainly should not be referred to as a controlling interpretive principle for this important provision of the Act.</text>
+            <text syncTime="3537.703" offset="14254164">Looking to ejusdem generis, it does not provide us with a clear definite way of interpreting the statute.</text>
+            <text syncTime="3543.525" offset="14277465">Of necessity it requires a reference to at least one, of not two courts before there is a final -- possibly three courts, before there is a final determination of jurisdiction.</text>
+            <text syncTime="3554.839" offset="14322709">The question was asked as to the burden that would be put on Courts of Appeals.</text>
+            <text syncTime="3559.259" offset="14340368">Under our reading of the statute of all references made to Courts of Appeal on petitions for review, certainly PPG's reference or interpretation does not ease the load on the courts.</text>
+            <text syncTime="3572.107" offset="14391777">It allows for application to a District Court.</text>
+            <text syncTime="3575.661" offset="14405987">If the District Court's analysis of the record or determination of jurisdiction --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3581.134" stopTime="3590.519">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3581.134" offset="14427930">It makes quite a bit of difference if you are dividing the possible work up among them, a hundred districts, as compared with 11 Courts of Appeals.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3590.519" stopTime="3591.095">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3590.519" offset="14465442">First of all --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3591.095" stopTime="3615.261">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3591.095" offset="14467741">And let us suppose that there were 20,000 final judgments, final orders every year of EPA, let us just assume that a lot of the Courts, some of the Courts of Appeals are pretty heavy, pretty deep under water; and more so perhaps than a hundred District Courts.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3615.261" stopTime="3621.702">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3615.261" offset="14564394">We certainly recognize that and that is why we are looking for an interpretation of the statute that would not overly burden the courts.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3621.702" stopTime="3626.157">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="3621.702" offset="14590203">But each decision under the EPA by the District Court is appealable to the Court.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3626.157" stopTime="3631.701">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3626.157" offset="14607966">Certainly, that is just what I was going to point out, that that decision in and of itself would be appealable.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3631.701" stopTime="3636.080">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3631.701" offset="14630222">But they aren't.</text>
+            <text syncTime="3632.416" offset="14633044">They aren't.</text>
+            <text syncTime="3632.936" offset="14635133">What percentage of judgments are appealable, Ms. Walsh?</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3636.080" stopTime="3637.097">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3636.080" offset="14647672">I can't give you a definite --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3637.097" stopTime="3639.311">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3637.097" offset="14651747">Well, you won't tell me that all of them are.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3639.311" stopTime="3640.162">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3639.311" offset="14660629">No, I would not indicate that.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3640.162" stopTime="3641.615">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3640.162" offset="14663973">A large percentage of them.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3641.615" stopTime="3646.443">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3641.615" offset="14669824">Certainly the possibility is there for a large percentage.</text>
+            <text syncTime="3644.354" offset="14680795">I would point out that the PPG brief made reference --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3646.443" stopTime="3649.799">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3646.443" offset="14689155">Well, possibly all of them would be.</text>
+            <text syncTime="3649.057" offset="14699604">But they aren't.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3649.799" stopTime="3652.678">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3649.799" offset="14702529">No, they are not.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3652.678" stopTime="3654.634">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3652.678" offset="14714128">Not even half of them.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3654.634" stopTime="3674.005">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3654.634" offset="14721860">I am not sure as to that amount but they -- the possibility is there for reference to one, if not two, courts.</text>
+            <text syncTime="3663.302" offset="14756551">The definite possibility, the thing we can say with certainty is that when a final action is involved we have an uncertain determination of jurisdiction under PPG's interpretation of this of the statute.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3674.005" stopTime="3680.635">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3674.005" offset="14799391">Of course, if we held that the action was not final, then it wouldn't have to burden either court.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3680.635" stopTime="3687.053">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3680.635" offset="14825932">That possibility is there anytime you have administrative action the possibility of it being non-pliable and no burden is there --</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3687.053" stopTime="3692.444">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3687.053" offset="14851636">In this case, nor did the Court of Appeals find there was any question about finality.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3692.444" stopTime="3693.651">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3692.444" offset="14873161">I would like to know what --</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3693.651" stopTime="3693.701">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3693.651" offset="14877968">No -- right --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3693.701" stopTime="3701.770">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3693.701" offset="14878177">what this case you know of to holding finality in an order like this, the cases you cite aren't very close.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3701.770" stopTime="3703.822">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3701.770" offset="14910464">But on the basis of where our records --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3703.822" stopTime="3707.121">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3703.822" offset="14918614">What kind of order as being a final order.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3707.121" stopTime="3710.826">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3707.121" offset="14931884">Do you mean as to the application of the regulations or this particular --</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3710.826" stopTime="3717.404">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3710.826" offset="14946722">The letter of June 8, 1977.</text>
+            <text syncTime="3713.735" offset="14958320">It is the closest thing that you have ever seen appealed to this Court.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3717.404" stopTime="3731.195">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3717.404" offset="14972949">It would seem to me that Camp v. Pitts where the record was based on a request for a determination by the Comptroller the determination was made on the exchange of correspondence would be the most similar.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3731.195" stopTime="3732.288">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3731.195" offset="15028120">Camp v. Pitts.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3732.288" stopTime="3732.662">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3732.288" offset="15032508">Yes.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3732.662" stopTime="3737.129">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3732.662" offset="15033971">Well, this has been litigated --</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3737.129" stopTime="3739.877">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3737.129" offset="15051839">It is --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3739.877" stopTime="3743.254">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3739.877" offset="15062915">Since everybody agrees with it, you --</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3743.254" stopTime="3745.758">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3743.254" offset="15076394">We are concerned with jurisdiction, which we believe is --</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="3745.758" stopTime="3750.878">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="3745.758" offset="15086425">Since it is jurisdiction, of course we have an independent duty to satisfy ourselves.</text>
+          </turn>
+          <turn speaker="maryann_walsh" startTime="3750.878" stopTime="3754.954">
+            <label>Ms. Maryann Walsh</label>
+            <text syncTime="3750.878" offset="15106905">Yes, Your Honor.</text>
+            <text syncTime="3752.380" offset="15112861">We would ask that this Circuit be reversed.</text>
+            <text syncTime="3754.412" offset="15121011">Thank you.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="3754.954" stopTime="3759.852">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="3754.954" offset="15123205">Thank you, Ms. Walsh.</text>
+            <text syncTime="3755.681" offset="15126131">Thank you, Mr. Lettow.</text>
+            <text syncTime="3756.562" offset="15129579">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

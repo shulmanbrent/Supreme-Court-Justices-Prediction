@@ -1,0 +1,43 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1990-02-20</transcribed>
+        <edit user="tschaefer" date="2012-08-08T15:34:43" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <identified user="tschaefer">2012-08-08</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:01:13" startTime="0.000" oldSpeaker="harry_a_blackmun" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="531621">/xml/cases/1989/88_1377/19900220o_88-1377.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1989/88-1377_19900220-opinion.xml</sourceFile>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="111.125">
+        <title>Sullivan v. Zebley</title>
+        <section startTime="0.000" stopTime="8.052">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.052">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87121">The opinion of the Court in No. 88-1377, Sullivan against Zebley will be announced by Justice Blackmun.</text>
+          </turn>
+        </section>
+        <section startTime="8.052" stopTime="111.125">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="harry_a_blackmun" startTime="8.052" stopTime="111.125">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="8.052" offset="119304">This case is here from the Third Circuit, concerns supplemental security income benefits for children.</text>
+            <text syncTime="16.874" offset="154517">The Social Security Act authorizes this for a child who suffers from an impairment of “comparable severity” to one that would render an adult disabled.</text>
+            <text syncTime="30.790" offset="210210">An adult is disabled if he is prevented from engaging in any substantial gainful activity.</text>
+            <text syncTime="38.207" offset="239885">The Secretary of Health and Human Services has created a five-step test to determine adult disability that the third step, a claimant may be found to be disabled if medical evidence matches or is equal to anyone of at number of listed impairments.</text>
+            <text syncTime="57.409" offset="316685">If this does not work for the adult claimant, he still may qualify at the fourth and fifth steps.</text>
+            <text syncTime="64.459" offset="344897">In contrast, the Secretary’s test for a child claimant ends with what he equates to the adult’s third step.</text>
+            <text syncTime="72.783" offset="378230">The respondent child here was denied benefits and brought a class action challenging the child disability regulations.</text>
+            <text syncTime="80.388" offset="408636">The District Court granted summary judgment for the Secretary.</text>
+            <text syncTime="84.333" offset="424414">The Court of Appeals vacated that judgment for it found the regulatory scheme inconsistent with the Act.</text>
+            <text syncTime="91.389" offset="452626">In an opinion filed with the Clerk today, we agree that the child disability regulations are inconsistent with the statutory statement of comparable severity and we affirm the Court of Appeals judgment.</text>
+            <text syncTime="105.124" offset="507588">Justice White has filed a dissenting opinion and is joined therein by the Chief Justice.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,63 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="1690167">/xml/cases/2008/07_591/20090625o_07-591.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2008/trs/07-591_20090625-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="395.808">
+        <title>Melendez-Diaz v. Massachusetts</title>
+        <section startTime="0" stopTime="395.808">
+          <heading>Opinion Announcement of Antonin Scalia</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="10.059">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="106496">Justice Scalia has our opinion this morning in case 07-591, Melendez-Diaz versus Massachusetts.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="10.059" stopTime="395.808">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="10.059" offset="146725">This case is here on writ of certiorari to the Appeals Court of Massachusetts.</text>
+            <text syncTime="15.645" offset="168981">Petitioner Luis Melendez-Diaz was charged with the Massachusetts crime of distributing and trafficking in cocaine.</text>
+            <text syncTime="24.987" offset="206388">At his trial, the prosecution placed into evidence the substances from the crime scene and three certificates of analysis showing that substance to contain cocaine.</text>
+            <text syncTime="39.425" offset="264171">The certificates, they're called that in the Massachusetts' statute, were sworn to before a notary public by analysts at the State Laboratory Institute of the Massachusetts Department of Public Health.</text>
+            <text syncTime="53.656" offset="321118">Petitioner objected to admission of the certificates contending that they violated his right under the Sixth Amendment to be confronted with the witnesses against him.</text>
+            <text syncTime="63.838" offset="361765">The trial court overruled the objection.</text>
+            <text syncTime="66.238" offset="371378">The Appeals Court of Massachusetts affirmed relying on a prior decision of the Massachusetts Supreme Judicial Court which held that certificates of analysis do not contain testimonial statements so that the analyst who authored the certificates need not appear at trial.</text>
+            <text syncTime="83.690" offset="441177">The Supreme Judicial Court denied review in this case.</text>
+            <text syncTime="87.290" offset="455596">We granted certiorari and now reverse.</text>
+            <text syncTime="91.531" offset="472524">The Sixth Amendment guarantees the right to -- guarantees defendants the right to be confronted with the witnesses against them.</text>
+            <text syncTime="100.298" offset="507632">In Crawford versus Washington, we held that the term “witnesses” in the Sixth Amendment means those who present testimony against the defendant, and we describe the class of testimonial statements as including “extra judicial statements contained in formalized testimonial materials such as affidavits.”</text>
+            <text syncTime="122.901" offset="598016">The documents at issue in this case were called “certificates” but they are undoubtedly affidavits.</text>
+            <text syncTime="127.907" offset="618078">They contain written sworn declarations of fact.</text>
+            <text syncTime="132.246" offset="635423">They were made for the purpose of establishing or proving some fact at petitioner's trial, and they are functionally equivalent to live in-court testimony concerning the precise testimony one would expect the analyst to provide if called at trial.</text>
+            <text syncTime="150.156" offset="707103">Respondent and the dissent advance a number of arguments in an attempt to distinguish this case from Crawford.</text>
+            <text syncTime="156.231" offset="731345">Respondent argues that the analyst's testimony does not alone establish the defendant's guilt.</text>
+            <text syncTime="161.967" offset="754333">It shows that he committed a crime only when it is put together with other evidence.</text>
+            <text syncTime="167.562" offset="776694">That is true as it is often true of trial testimony.</text>
+            <text syncTime="172.483" offset="796338">It does not prevent the analyst from being in the words of the Sixth Amendment, witnesses against the defendant.</text>
+            <text syncTime="179.658" offset="825072">Respondent and the dissent assert that the analysts are not “conventional witnesses” of the sort whose failure to be called for cross-examination at the famous trial of Sir Walter Raleigh provoked the public outcry against violation of the English procedural right ultimately incorporated in our Sixth Amendment.</text>
+            <text syncTime="201.029" offset="910545">But the distinctions between the absent witnesses against Raleigh and the analyst in this case do not survive closer scrutiny.</text>
+            <text syncTime="208.807" offset="941683">And in any event, the trial of Sir Walter Raleigh marks the core of the right to confrontation, not its perimeter.</text>
+            <text syncTime="217.234" offset="975329">Respondent argues that the analyst should be exempt from confrontation because their testimony is based on neutral scientific testimony or testing that is not subject to manipulation.</text>
+            <text syncTime="230.612" offset="1028932">It is far from evident that scientific evidence is uniquely immune from the risks of error and manipulation.</text>
+            <text syncTime="239.561" offset="1064667">But regardless, this argument is little more than an invitation to return to our overruled decision in Ohio versus Roberts which held that testimony was admissible, absent confrontation as long as it bore “particularized guarantees of trustworthiness.”</text>
+            <text syncTime="258.435" offset="1140214">We repudiated that approach five years ago in Crawford and it remains an implausible interpretation of the Confrontation Clause.</text>
+            <text syncTime="267.609" offset="1176889">Respondent contends that the certificates qualify as business or official records of the sort traditionally admissible absent to the declarant's testimony.</text>
+            <text syncTime="277.374" offset="1215969">But the hearsay -- but the hearsay exceptions covered materials prepared in the regular course of administering an entity's affairs.</text>
+            <text syncTime="286.605" offset="1252854">It did not include materials such as these certificates that were prepared specifically for use in litigation.</text>
+            <text syncTime="294.177" offset="1283156">Respondent contends that the defendant's rights are adequately protected by the Sixth Amendment's Compulsory Process Clause which guarantees a criminal defendant the right to subpoena witnesses in his favor.</text>
+            <text syncTime="307.853" offset="1337908">Apart from the fact that here the analysts are not expected to testify in favor of the defendant, the ability to subpoena them is no substitute for the Confrontation Clause's requirement that the prosecution present its witnesses in court.</text>
+            <text syncTime="324.044" offset="1402587">If for example the analyst who executed the certificate is no longer alive, it should be the prosecution and not the defense that suffers the disadvantage of his absence.</text>
+            <text syncTime="336.024" offset="1450548">And finally, respondent and the dissent argue that if we do not exempt forensic scientific testimony from the Confrontation Clause, the criminal process will grind to a halt.</text>
+            <text syncTime="347.480" offset="1496315">Of course it is not within our power to abandon the dictates of the Confrontation Clause because it makes prosecution more difficult.</text>
+            <text syncTime="355.579" offset="1528811">In any case, the practice in many states is already in accord with our decision today without any indication that the criminal justice system has been impaired.</text>
+            <text syncTime="366.204" offset="1571234">Accordingly, we conclude that the certificates of analysis were improperly admitted into evidence in violation of petitioner's Six Amendment right to confrontation.</text>
+            <text syncTime="376.091" offset="1610836">The judgment of the Appeals Courts of Massachusetts is reversed, and the case remanded for further proceedings not inconsistent with our opinion.</text>
+            <text syncTime="384.156" offset="1643018">Justice Thomas has filed a concurring opinion.</text>
+            <text syncTime="387.367" offset="1655871">Justice Kennedy has filed a dissenting opinion which the Chief Justice, Justice Breyer and Justice Alito have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

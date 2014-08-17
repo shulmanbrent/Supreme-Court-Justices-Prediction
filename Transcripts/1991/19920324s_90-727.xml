@@ -1,0 +1,50 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1992-03-24</transcribed>
+        <edit user="tschaefer" date="2012-08-14T20:40:30" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="david_h_souter"/>
+        <identified user="tschaefer">2012-08-14</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:29:46" startTime="0.000" oldSpeaker="david_h_souter" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="874444">/xml/cases/1991/90_727/19920324o_90-727.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1991/90-727_19920324-opinion.xml</sourceFile>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="195.892">
+        <title>Holmes v. Securities Investor Protection Corporation</title>
+        <section startTime="0.000" stopTime="7.825">
+          <heading>Announcement of Justice Souter</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.825">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90875">The opinions of the Court in three cases will be announced by Justice Souter.</text>
+          </turn>
+        </section>
+        <section startTime="7.825" stopTime="195.892">
+          <heading>Announcement of Justice Souter</heading>
+          <turn speaker="david_h_souter" startTime="7.825" stopTime="195.892">
+            <label>Justice David H. Souter</label>
+            <text syncTime="7.825" offset="122117">The first of the three is Holmes and Securities Investor Protection Corporation, No. 90-727.</text>
+            <text syncTime="15.661" offset="153464">This case comes to us on writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="21.601" offset="177184">Acting under the Securities Investor Protection Act, the respondent, Securities Investor Protection Corporation which we have been calling SIPC, caused the liquidation of two security broker dealers after they failed to meet obligations to their customers.</text>
+            <text syncTime="38.117" offset="243326">Under the statute, SIPC must reimburse customers of broker dealers who lose money after their broker dealer becomes insolvent, and SIPC says it had to pay millions of dollars to the customers of the two broker dealers at issue here.</text>
+            <text syncTime="51.697" offset="297660">SIPC sought to recoup some of the millions by suing petitioners, Robert Holmes and others, saying that they had conspired to manipulate the price of stocks that the broker dealers have bought some of the stocks at inflated prices, that the stock price later plummeted because the fraud came to light, and that this forced the broker dealers into insolvency triggering SIPC's duty to reimburse the customers and of course, ultimately causing SIPC's loses.</text>
+            <text syncTime="80.695" offset="413644">SIPC alleged that by doing so, the conspirators broke the securities laws for which SIPC could sue them under the Racketeer Influenced and Corrupt Organizations Act or the RICO statute.</text>
+            <text syncTime="93.169" offset="463486">District Court entered summary judgment for Holmes saying, among other things, that SIPC did not have standing to sue the conspirators because SIPC itself had never bought any of the manipulated stocks.</text>
+            <text syncTime="104.162" offset="507476">The Court of Appeals reversed holding that RICO does not require that a plaintiff buy a security to be allowed to sue.</text>
+            <text syncTime="110.376" offset="532344">In an opinion filed with the Clerk today, we reverse the Ninth Circuit intern but on a different ground.</text>
+            <text syncTime="116.491" offset="556795">We think that a plaintiff cannot sue under the RICO statute unless the defendant's acts proximately caused the plaintiff's injury.</text>
+            <text syncTime="123.885" offset="586366">That means that there must be a direct relationship between the plaintiff's injury and the defendant's conduct, a requirement that SIPC cannot meet.</text>
+            <text syncTime="133.157" offset="623459">SIPC claims to have sued in two different capacities.</text>
+            <text syncTime="136.544" offset="637043">First, it says that it stands in the shoes of the broker dealers' customers and can assert any right the customers could assert.</text>
+            <text syncTime="142.891" offset="662434">But even if this is true, the link between the customer's injury and the conspirators' act is too attenuated to allow recovery since the customers were harmed only because the conspirators first injured the broker dealers.</text>
+            <text syncTime="154.834" offset="710186">Second, SIPC says that a section of the statute entitles it to recover.</text>
+            <text syncTime="158.710" offset="725651">However, we think that the provision in question deals only with intervention and is thus, beside the point of the issue before us.</text>
+            <text syncTime="165.519" offset="752922">Because we hold that the conspirators' acts did not approximately caused SIPC's injury, we need not determine whether a plaintiff suing under the RICO statute and alleging that the defendant broke the securities law must always have been a buyer or a seller of the security in order to be entitled to sue.</text>
+            <text syncTime="182.325" offset="820109">Justice O'Connor has filed a separate opinion concurring in part and concurring in the judgment in which Justice White and Justice Stevens have joined; Justice Scalia has filed a separate opinion concurring in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

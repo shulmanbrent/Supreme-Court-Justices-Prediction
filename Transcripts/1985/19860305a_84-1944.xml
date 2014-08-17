@@ -1,0 +1,910 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1986-03-05T13:49</transcribed>
+        <edit user="tschaefer" date="2012-09-03T19:27:57" startTime="2924.683" oldSpeaker="unknown_speaker" newSpeaker="byron_r_white"/>
+        <identified user="tschaefer">2012-09-03</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="12008510">/xml/cases/1985/84_1944/19860305a_84-1944.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1985/84-1944_19860305-argument.xml</sourceFile>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="albert_g_lauber_jr" type="advocate" gender="male" path="/advocates/al/albert_g_lauber_jr" image="/advocates/al/albert_g_lauber_jr/thumbnail.jpg">Albert G. Lauber, Jr.</speaker>
+        <speaker id="edward_f_sutkowski" type="advocate" gender="male" path="/advocates/es/edward_f_sutkowski" image="/advocates/es/edward_f_sutkowski/thumbnail.jpg">Edward F. Sutkowski</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="2967.274">
+        <title>United States v. Hemme</title>
+        <section startTime="0.000" stopTime="1449.602">
+          <heading>Argument of Albert G. Lauber, Jr.</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="35.137">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="134499">Mr. Lauber, you may proceed whenever you're ready.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="35.137" stopTime="248.376">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="35.137" offset="275038">Mr. Chief Justice and may it please the Court:</text>
+            <text syncTime="38.458" offset="288308">This case is here on direct appeal, somewhat unusual for a tax case, because the district court declared a provision of the Revenue Code unconstitutional as a retroactive law that deprives Appellees of property without due process.</text>
+            <text syncTime="56.170" offset="359152">In their brief on the merits Appellees, while not abandoning this constitutional theory, seem to place greater reliance upon the statutory construction argument, a variant of which they presented below, but which the district court did not pass upon.</text>
+            <text syncTime="72.162" offset="423100">Before talking about either of these arguments, I'd like to explain briefly how the challenged statute works, which is a little bit complicated in some ways.</text>
+            <text syncTime="82.737" offset="465418">The challenged statute is Section 210(c) of the Revenue Code, which Congress enacted in 1976.</text>
+            <text syncTime="90.524" offset="496556">This is one example of many transitional rules that Congress from time to time puts into the Revenue Code to bridge the gap between an older statutory regime and an amended regime.</text>
+            <text syncTime="104.350" offset="551831">In 1976 Congress overhauled the estate and gift tax quite comprehensively.</text>
+            <text syncTime="110.254" offset="575446">One thing Congress did was to effect an overall reduction of estate taxes, particularly for smaller estates.</text>
+            <text syncTime="118.941" offset="610241">Congress also brought about a degree of integration between the gift tax and the estate tax.</text>
+            <text syncTime="126.847" offset="641797">For present purposes, the most relevant integrating thing Congress did was to repeal a pair of exemptions that were available under the old law... they were basically deductions... and replace them with a single unified credit under the new law.</text>
+            <text syncTime="144.141" offset="710969">Under the old law, a taxpayer during life was entitled to exempt a total of $30,000 of his property in gift form from the gift tax.</text>
+            <text syncTime="155.733" offset="757363">That was in addition to the annual exclusion of $3,000 per donee.</text>
+            <text syncTime="162.070" offset="782754">The donor was free to claim this $30,000 exemption in whole or in part, whenever he wanted it.</text>
+            <text syncTime="170.926" offset="818176">At his death, his estate was then entitled to exempt $60,000 of property from the estate tax, and the ability to claim that was independent of the donor's inter vivos claim of the gift tax exemption.</text>
+            <text syncTime="188.401" offset="888079">In 1976 Congress abolished both of those exemptions and replaced them with a single unified credit, which was designed to replace both the gift tax $3,000 exemption and the estate tax $60,000 exemption.</text>
+            <text syncTime="206.515" offset="960491">And the new credit was to be available against either or both of these taxes as first incurred.</text>
+            <text syncTime="214.619" offset="992883">That meant that somebody could use part of the unified credit for gifts during life and what he didn't use would be available to be used against the estate tax by his executor after his death.</text>
+            <text syncTime="228.128" offset="1047008">Congress realized that there was a problem of continuity here, because some people would have claimed the $30,000 gift tax exemption in whole or in part during life for gifts they made prior to 1977.</text>
+            <text syncTime="243.822" offset="1109702">The effective date of the new law was January 1st, 1977.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="248.376" stopTime="258.198">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="248.376" offset="1127988">Mr. Lauber, had he waited until January 2, '77, he'd get the full... we wouldn't have a case here, would we?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="258.198" stopTime="282.847">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="258.198" offset="1167276">That's right, because after the new law was enacted that abolished the old gift tax exemption, and everything was then governed by the unified credit.</text>
+            <text syncTime="266.537" offset="1200608">So if he had made the gifts on January 2, he would have had to use up part of his unified credit or pay gift tax on the transfer.</text>
+            <text syncTime="276.943" offset="1242195">So if he gave away $30,000 on January 2, he would have had to use up--</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="282.847" stopTime="283.497">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="282.847" offset="1265810">$45,000.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="283.497" stopTime="291.869">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="283.497" offset="1268422">--Well, it was 45, right, including the five little ones.</text>
+            <text syncTime="287.765" offset="1285559">He would have had to use up part of his unified credit in order to avoid paying gift tax.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="291.869" stopTime="294.655">
+            <label>Justice Byron R. White</label>
+            <text syncTime="291.869" offset="1301963">He'd have had to use it all up to avoid paying the tax.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="294.655" stopTime="409.261">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="294.655" offset="1313039">I think not all, because the credit is dollar for dollar against the tax, whereas the old exemption you only get a number of cents on the dollar equal to your marginal rate.</text>
+            <text syncTime="305.126" offset="1354940">Anyway, Congress saw there was a problem of continuity because if people who previously had claimed and been allowed their $30,000 gift tax exemption got the full unified credit, which was meant to be a replacement for the old exemption, they'd get the same thing twice.</text>
+            <text syncTime="320.903" offset="1418052">So to prevent this problem Congress enacted the challenged provision, Section 210(c) of the code.</text>
+            <text syncTime="329.209" offset="1451279">And it provides that the unified credit available to a person or his estate would be reduced by an amount equal to 20 percent of the aggregate amount allowed as a specific exemption under prior law for gifts made after the day the conference committee approved the new bill and before the end of the year.</text>
+            <text syncTime="357.245" offset="1563397">The purpose of the provision was to prevent what this Court has called a rush to the door by people trying to hurry up and make a lot of gifts at the end of the year in the hope of double-dipping by getting both the old exemption plus a full new credit.</text>
+            <text syncTime="372.538" offset="1624628">The reason why Congress picked 20 percent as the multiplier to work out this reduction isn't clear, but it's generally thought Congress figured that was equal to the average effective gift tax rate, and therefore... in fact, gift tax rates ranged from about three percent to 58 percent.</text>
+            <text syncTime="390.799" offset="1697666">But Congress apparently thought that the average effective rate paid by the nation's taxpayers as a whole on their gifts was about 20 percent and therefore that if you took that out of the unified credit you would be compensating for the tax benefit on average realized by most people who claimed the old exemption.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="409.261" stopTime="414.815">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="409.261" offset="1771541">You say it isn't clear.</text>
+            <text syncTime="410.563" offset="1776661">Why wouldn't something like that be in the legislative history?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="414.815" stopTime="417.400">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="414.815" offset="1793692">Well, it really, you would think it's something--</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="417.400" stopTime="417.934">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="417.400" offset="1804037">It's an unfair question.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="417.934" stopTime="594.265">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="417.934" offset="1806231">--Congress would have thought about.</text>
+            <text syncTime="419.952" offset="1814277">They may have just picked the number out of their hats for all we know.</text>
+            <text syncTime="424.320" offset="1831727">As the Appellees have noted, the estate and gift tax provisions were a little bit of a last minute addition.</text>
+            <text syncTime="432.909" offset="1866104">The Senate I think hadn't incorporated a similar regime, and maybe Congress didn't flesh out what it was doing as well as it might have.</text>
+            <text syncTime="443.951" offset="1910303">But it picked 20 percent, apparently believing that would approximate the average of tax benefit that people realized who claimed the exemption before.</text>
+            <text syncTime="455.175" offset="1955129">Now, the facts of this case are that the decedent, Mr. Hirschi, made his gifts on September 28th, 1976, which was during the transitional period covered by Section 210(c).</text>
+            <text syncTime="472.153" offset="2023048">He made his gifts three weeks after the conference committee approved the bill, two weeks, about, after both houses of Congress passed the bill, but one week before the exemption signed the bill.</text>
+            <text syncTime="487.946" offset="2086264">He made his gifts to five people who were all objects of his bounty, being either blood relatives or in-laws.</text>
+            <text syncTime="496.119" offset="2118969">The amount of his gifts, $45,000, which was apparently tailored exactly to use up his full $30,000 lifetime gift tax exemption and his five annual exclusions for his five donees.</text>
+            <text syncTime="510.661" offset="2177066">In other words, he gave away as much as he could without paying any tax.</text>
+            <text syncTime="514.897" offset="2193993">Two days later he filed a gift tax return, on the last day of the quarter, claiming the entire $30,000 gift tax exemption, reporting zero taxable gifts and no gift tax due.</text>
+            <text syncTime="528.890" offset="2249999">And this return, for all the records show, was accepted as filed by the Commissioner and no gift tax was ever assessed against or paid by Mr. Hirschi.</text>
+            <text syncTime="541.615" offset="2300886">Mr. Hirschi died two years later, in November of '78, well after Section 210(c) was enacted into law.</text>
+            <text syncTime="551.922" offset="2342159">His executors claimed, who are Appellees, claimed the full unified credit against the estate tax.</text>
+            <text syncTime="560.828" offset="2377790">The Commissioner took the position that under Section 210(c), our transitional rule, that had to be reduced by $6,000, 20 percent of the $30,000 gift tax exemption that Mr. Hirschi had claimed during the transitional period.</text>
+            <text syncTime="577.421" offset="2444141">Even so, after the reduction of the unified credit from 34 to 28,000, still the estate paid less estate tax than it would have paid had Congress never amended the tax laws in 1976.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="594.265" stopTime="602.188">
+            <label>Justice Byron R. White</label>
+            <text syncTime="594.265" offset="2511537">Mr. Lauber, weren't the full amount of the gifts included in his estate?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="602.188" stopTime="605.957">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="602.188" offset="2543198">That's correct, Justice White, all $45,000 were included in his estate.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="605.957" stopTime="607.742">
+            <label>Justice Byron R. White</label>
+            <text syncTime="605.957" offset="2558244">Because they were gifts in contemplation of death.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="607.742" stopTime="608.475">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="607.742" offset="2565454">Right.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="608.475" stopTime="610.042">
+            <label>Justice Byron R. White</label>
+            <text syncTime="608.475" offset="2568380">So they were subject to the estate tax.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="610.042" stopTime="611.061">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="610.042" offset="2574649">That's right.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="611.061" stopTime="618.165">
+            <label>Justice Byron R. White</label>
+            <text syncTime="611.061" offset="2578724">Whereas if they hadn't been in contemplation of death, it wouldn't have... they wouldn't have been included in his estate?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="618.165" stopTime="621.883">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="618.165" offset="2607146">That's correct.</text>
+            <text syncTime="619.917" offset="2614146">There are other ways--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="621.883" stopTime="643.515">
+            <label>Justice Byron R. White</label>
+            <text syncTime="621.883" offset="2621983">Suppose the law had never been changed, and under the old law what would happen in a gift in contemplation of death where somebody made a gift in contemplation of death and took his exemption and paid some tax and then he had to pay his estate tax, too?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="643.515" stopTime="649.502">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="643.515" offset="2708501">--Well, under the old law, if he had made the gift in contemplation of death and say he claimed the $30,000 exemption and paid no tax--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="649.502" stopTime="650.319">
+            <label>Justice Byron R. White</label>
+            <text syncTime="649.502" offset="2732429">Yes.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="650.319" stopTime="662.777">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="650.319" offset="2735772">--You then have the property included in the estate, subject to estate tax, and he would basically have wasted the specific exemption, claimed it, but aside from the time value of money by deferring the tax he wouldn't really have gotten a great tax benefit.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="662.777" stopTime="665.628">
+            <label>Justice Byron R. White</label>
+            <text syncTime="662.777" offset="2785510">What if he had made $60,000 in gifts?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="665.628" stopTime="666.763">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="665.628" offset="2797003">And paid tax?</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="666.763" stopTime="669.732">
+            <label>Justice Byron R. White</label>
+            <text syncTime="666.763" offset="2801497">And paid tax, and then it's all included in his estate.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="669.732" stopTime="673.534">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="669.732" offset="2813408">Then he'd get a credit against the estate tax in the amount of gift tax paid.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="673.534" stopTime="687.261">
+            <label>Justice Byron R. White</label>
+            <text syncTime="673.534" offset="2828559">Well, don't you think that makes some difference in this case, that he can't be double-dipping?</text>
+            <text syncTime="681.357" offset="2859906">He's going to get socked for the amount of his gifts in his estate tax.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="687.261" stopTime="690.213">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="687.261" offset="2883521">Well, no, that's not right, Justice White, because don't forget that the unified credit--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="690.213" stopTime="696.983">
+            <label>Justice Byron R. White</label>
+            <text syncTime="690.213" offset="2895328">Well, what good did his gift tax credit do him if all of his property is included in his estate?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="696.983" stopTime="702.871">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="696.983" offset="2922391">--Well, he got several things from it.</text>
+            <text syncTime="699.069" offset="2930750">First of all, he paid no gift tax in September of '76.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="702.871" stopTime="703.521">
+            <label>Justice Byron R. White</label>
+            <text syncTime="702.871" offset="2945901">That's right.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="703.521" stopTime="705.055">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="703.521" offset="2948514">Which would have had to have been otherwise paid.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="705.055" stopTime="705.688">
+            <label>Justice Byron R. White</label>
+            <text syncTime="705.055" offset="2954679">Yes.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="705.688" stopTime="719.430">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="705.688" offset="2957186">It was deferred until several years later.</text>
+            <text syncTime="710.090" offset="2974845">Furthermore, he deferred the tax... he avoided paying the tax himself, because there was no gift tax, and instead it came in the form of an estate tax--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="719.430" stopTime="719.898">
+            <label>Justice Byron R. White</label>
+            <text syncTime="719.430" offset="3012148">That's right.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="719.898" stopTime="724.584">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="719.898" offset="3014029">--paid by his estate.</text>
+            <text syncTime="721.148" offset="3019044">So he benefited.</text>
+            <text syncTime="722.684" offset="3025209">His estate, his heirs, may not be particularly happy.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="724.584" stopTime="731.088">
+            <label>Justice Byron R. White</label>
+            <text syncTime="724.584" offset="3032732">What you're talking to is you're dealing with the estate and you say the estate has to reduce its credit by $6,000.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="731.088" stopTime="735.992">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="731.088" offset="3058750">Right, an account of the tax benefit that Mr. Hirschi got from the gift tax.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="735.992" stopTime="744.481">
+            <label>Justice Byron R. White</label>
+            <text syncTime="735.992" offset="3078395">Well, he certainly didn't get the benefit he would have had if it hadn't been in contemplation of death.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="744.480" stopTime="746.014">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="744.480" offset="3112354">Well that's true.</text>
+            <text syncTime="745.148" offset="3115070">He gambled--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="746.014" stopTime="749.251">
+            <label>Justice Byron R. White</label>
+            <text syncTime="746.014" offset="3118519">Because he now has to face the estate tax.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="749.251" stopTime="785.973">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="749.251" offset="3131475">--That's right.</text>
+            <text syncTime="750.117" offset="3134923">But it often happened in the prior law, Justice White, that people could waste their exemption, and people could claim a $30,000 gift tax exemption on a gift, but that gift could wind up being included in the estate as a gift in contemplation of death, as a transfer with a retained life interest, as a transfer with power of appointment reserved.</text>
+            <text syncTime="767.995" offset="3206395">In any of those cases, it would be subject to estate tax and he would have wasted his gift tax exemption.</text>
+            <text syncTime="773.364" offset="3227919">And there was no change in that from the old law to the new law, because what happened under the new law is the waste of the old exemption is reflected in the removal of that chunk of the unified credit.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="785.973" stopTime="802.583">
+            <label>Justice Byron R. White</label>
+            <text syncTime="785.973" offset="3278388">Well, it just seems to me that because these gifts were included in his estate, he's not exactly in the same position to have his exemption reduced as somebody who really got the benefit.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="802.583" stopTime="808.320">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="802.583" offset="3344739">Well, that's the statutory argument that the Appellees make, and perhaps I should just go right into that.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="808.320" stopTime="816.793">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="808.320" offset="3367727">Before you do, because I want to be sure I understand.</text>
+            <text syncTime="810.989" offset="3378385">I'm not 100 percent I do.</text>
+            <text syncTime="812.108" offset="3382878">You argue that he's better off under the new law than if the law had never been passed, as I understand it?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="816.793" stopTime="818.278">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="816.793" offset="3401581">Well, his estate, the group.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="818.278" stopTime="843.876">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="818.278" offset="3407537">Combining him and the estate as one for the moment.</text>
+            <text syncTime="820.461" offset="3416315">As I understand your argument... see if I state it correctly, because it's awfully easy to get confused... under the old law he would have paid no gift tax, but the amount of the gifts would have been included in his estate tax and he would have paid an estate tax on that amount that would have been included.</text>
+            <text syncTime="835.989" offset="3478381">And that tax would have been higher than under the new law where he got a $28,000 exemption or credit against the tax as to both of them, is that right?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="843.876" stopTime="844.659">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="843.876" offset="3509937">That's right.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="844.659" stopTime="856.653">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="844.659" offset="3513072">So the net result is he pays less tax, he and his estate together pay less tax, than would have been paid, because he paid no gift tax before and the estate tax would have been higher?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="856.653" stopTime="867.642">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="856.653" offset="3561033">If Congress had never amended the law, the figures we're comparing, what would have happened if he had... if Congress had never changed the law at all, enacted our provision--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="867.641" stopTime="868.092">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="867.641" offset="3605023">That's right.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="868.092" stopTime="869.060">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="868.092" offset="3606799">--the tax under those rates--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="869.060" stopTime="874.980">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="869.060" offset="3610666">He's better off than if the law had never been passed.</text>
+            <text syncTime="870.593" offset="3616830">But in both cases, assuming that these were gifts in contemplation of death.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="874.980" stopTime="885.286">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="874.980" offset="3634385">--Right.</text>
+            <text syncTime="875.530" offset="3636579">Assuming these same facts and that Congress either did or did not pass the law we're considering, he paid less tax overall, even with this reduction of $6,000.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="885.286" stopTime="897.126">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="885.286" offset="3675554">You do agree that it would be appropriate to address the statutory question because by doing that we could avoid theoretically the constitutional issues, do you not?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="897.126" stopTime="900.461">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="897.126" offset="3722992">No.</text>
+            <text syncTime="899.145" offset="3731038">You could if you rule--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="900.461" stopTime="901.145">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="900.461" offset="3736262">Well, if they prevail.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="901.145" stopTime="902.263">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="901.145" offset="3738979">--Yes, if you rule for them.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="902.263" stopTime="904.347">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="902.263" offset="3743472">So it's appropriate to address it, I suppose.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="904.347" stopTime="905.732">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="904.347" offset="3751831">We agree with that, Justice O'Connor, yes.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="905.732" stopTime="912.386">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="905.732" offset="3757369">And I gather it's your theory that the word "allowed" does not mean benefited--</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="912.386" stopTime="913.905">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="912.386" offset="3784014">That's right.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="913.905" stopTime="917.907">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="913.905" offset="3790075">--in substance.</text>
+            <text syncTime="914.888" offset="3794045">It means allowed, and it was allowed.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="917.907" stopTime="957.798">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="917.907" offset="3806061">What the statute says is that you've got to reduce the credit by any amount allowed as a specific exemption under prior law.</text>
+            <text syncTime="925.594" offset="3836781">And their theory is, although Mr. Hirschi claimed the exemption and although the Commissioner didn't disallow it, because he accepted the return as filed, in effect or ultimately it was not allowed because under the estate tax they wound up paying estate tax on that property anyway.</text>
+            <text syncTime="942.638" offset="3905013">And we think that argument is foreclosed by this Court's decision in 1943 in Virginian Hotel, where the Court held that the word "allowed" means claimed by the taxpayer and not objected to by the Commissioner.</text>
+            <text syncTime="957.182" offset="3963214">And the Court--</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="957.798" stopTime="959.032">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="957.798" offset="3965617">In an income tax case?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="959.032" stopTime="959.765">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="959.032" offset="3970528">--Pardon me?</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="959.765" stopTime="960.734">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="959.765" offset="3973559">An income tax case?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="960.734" stopTime="992.769">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="960.734" offset="3977425">That was an income tax case.</text>
+            <text syncTime="961.917" offset="3982127">That involved depreciation deductions, where somebody had claimed a depreciation deduction in the earlier year and had a net loss.</text>
+            <text syncTime="970.923" offset="4018176">So he didn't really get any benefit from the depreciation.</text>
+            <text syncTime="974.042" offset="4030610">And he asserted that the deduction wasn't allowed for depreciation, so he shouldn't have to reduce his basis in the property on that account.</text>
+            <text syncTime="982.797" offset="4065614">And the Court rejected that argument and pointed out that our tax code has no machinery for having a formal allowance of deductions.</text>
+            <text syncTime="990.253" offset="4095498">The IRS gets about 100 million tax returns--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="992.769" stopTime="1001.825">
+            <label>Justice Byron R. White</label>
+            <text syncTime="992.769" offset="4105529">But I take it you would treat this taxpayer like the taxpayer who made the same gifts, except that they were not in contemplation of death?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="1001.825" stopTime="1003.094">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="1001.825" offset="4141787">--Exactly right.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1003.094" stopTime="1007.646">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1003.094" offset="4146803">And both of them would be reduced $6,000?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="1007.646" stopTime="1021.605">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="1007.646" offset="4164984">Right.</text>
+            <text syncTime="1008.148" offset="4167074">Both of them claimed the deduction, were allowed the deduction.</text>
+            <text syncTime="1010.698" offset="4177209">One of them had the misfortune to die within three years, so that his estate suffered.</text>
+            <text syncTime="1015.151" offset="4195077">But either way the donor, who claimed it, was allowed the specific exemption.</text>
+            <text syncTime="1020.538" offset="4216602">And the Court pointed out--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1021.605" stopTime="1032.596">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1021.605" offset="4220886">If you're only going to reduce it $6,000, the fellow whose gifts were not in contemplation of death, his estate taxes would be substantially lower.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="1032.596" stopTime="1034.632">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="1032.596" offset="4264876">--Right, rather than only marginally lower, as his--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1034.632" stopTime="1035.932">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1034.632" offset="4273026">Very much lower.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="1035.932" stopTime="1097.538">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="1035.932" offset="4278146">--Overall, Congress has reduced everybody's estate tax in 1976.</text>
+            <text syncTime="1040.602" offset="4296850">But the Court in Virginian Hotel pointed out that every year the Commissioner gets millions of tax returns that are claiming billions of deductions, and there's no way the Commissioner tells people, we have allowed your deduction.</text>
+            <text syncTime="1052.576" offset="4344706">What happens is that the return is accepted as filed, and that means the deduction is allowed, because the tax is computed on the basis of the return as filed, including that deduction.</text>
+            <text syncTime="1064.401" offset="4392040">And the taxpayer in Virginian Hotel argued that he got to tax benefit from this claim which was allowed, and the Court held that was immaterial.</text>
+            <text syncTime="1072.538" offset="4424641">Now, what has happened here is that we think even if... we don't think that the premise of the Appellees' argument is correct.</text>
+            <text syncTime="1083.979" offset="4470408">We think Mr. Hirschi did derive some benefit, not the one he hoped for, perhaps, but he derived some benefit from the claim of the exemption anyway.</text>
+            <text syncTime="1092.668" offset="4505098">He deferred the tax for several years.</text>
+            <text syncTime="1095.103" offset="4514816">He didn't pay it himself.</text>
+            <text syncTime="1096.086" offset="4518786">His estate paid it instead.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1097.538" stopTime="1098.838">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1097.538" offset="4524638">$6,000 worth.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="1098.838" stopTime="1354.790">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="1098.838" offset="4529758">$6,000.</text>
+            <text syncTime="1099.640" offset="4532997">Not quite, a little bit less.</text>
+            <text syncTime="1101.940" offset="4542192">And what's really happened here is that the decedent probably got some not terribly good tax advice.</text>
+            <text syncTime="1109.296" offset="4571658">He probably was ill advised to claim the specific exemption, because he was in the lowest possible gift tax bracket of about three to five percent.</text>
+            <text syncTime="1118.619" offset="4608961">It would have been wise for him not to claim it at all, because the consequence was a reduction of 20 percent in his unified credit his estate would get.</text>
+            <text syncTime="1129.410" offset="4652115">But despite the fact that he may have been unwise in claiming his exemption, nevertheless he got the benefit from it, and there's no indication that he ever regretted having claimed it.</text>
+            <text syncTime="1140.249" offset="4695479">The President signed the bill in October and the return is not due for the calendar quarter until November 15th.</text>
+            <text syncTime="1148.771" offset="4729542">There's no showing in the record that Mr. Hirschi tried to withdraw his gift tax return or amend it to disclaim the exemption, so he apparently died content that he had gotten his exemption.</text>
+            <text syncTime="1158.863" offset="4769875">Now his heirs and executors have found out that if he hadn't claimed that and died within three years of making the gifts, they're worse off.</text>
+            <text syncTime="1167.619" offset="4804879">But that does not mean Mr. Hirschi did not derive the benefit from the exemption he freely claimed on that gift tax return.</text>
+            <text syncTime="1175.438" offset="4836226">I guess I should say a word about the constitutional argument of the holding of the court below.</text>
+            <text syncTime="1182.728" offset="4865379">We think that that holding is wrong for at least four reasons.</text>
+            <text syncTime="1188.465" offset="4888262">First of all, as Justice Stevens and I discussed, it's hard to see how anyone was deprived of property here by the law.</text>
+            <text syncTime="1197.738" offset="4925356">Mr. Hirschi was deprived of no property because he paid no gift tax at all, and his heirs wound up paying a lower estate tax than would have been true if Congress had not enacted this law.</text>
+            <text syncTime="1209.879" offset="4973944">So it's hard to see where anyone has been deprived of property in the least.</text>
+            <text syncTime="1214.464" offset="4992334">Secondly, even if one could find a deprivation of property, we don't think that this statute was retroactive.</text>
+            <text syncTime="1221.769" offset="5021487">That's because the statute was enacted two years before the taxable event, Mr. Hirschi's transfer of property at his death, occurred.</text>
+            <text syncTime="1231.592" offset="5060775">And it is true that the law required the credit available to the estate to be computed by reference to certain events that had occurred in the past, but this Court has held that that does not, that fact, does not make a law retroactive.</text>
+            <text syncTime="1248.771" offset="5129529">Indeed, the estate tax has always depended in computing the tax upon events that may have occurred many, many years before the testator died, as for example in the case of gifts in contemplation of death or gifts with a retained life interest.</text>
+            <text syncTime="1263.546" offset="5188670">The mere fact that a statute effective at the date of death takes into account events occurring prior to the death of the testator does not make the statute retroactive.</text>
+            <text syncTime="1276.121" offset="5238930">Thirdly, even if one could construe the law as retroactive, that wouldn't make in unconstitutional.</text>
+            <text syncTime="1283.177" offset="5267142">This Court has repeatedly upheld retroactive tax statutes by looking at all the facts involved in the case.</text>
+            <text syncTime="1292.300" offset="5303609">And the factors the Court has considered are factors like Congress' reason for making the law retroactive, the harshness of the result worked upon the taxpayer, and the degree of notice the taxpayer had of what Congress was going.</text>
+            <text syncTime="1307.125" offset="5362959">We think all three of those factors here would make it clear this law could not be unconstitutional properly.</text>
+            <text syncTime="1314.965" offset="5394306">First of all, Congress clearly had a rational purpose for making the law retroactive, if such it was, because Congress' purpose was to prevent this rush to the door by people who were trying to circumvent the effect, the purpose of the law, by taking advantage of a gap in coverage.</text>
+            <text syncTime="1335.543" offset="5476644">That's clearly a rational purpose.</text>
+            <text syncTime="1337.594" offset="5484795">Secondly, there was no harsh result worked on the taxpayer or his heirs here, because they paid lower, a lower tax than they would have paid had the law not been enacted at all.</text>
+            <text syncTime="1351.538" offset="5540592">And finally, it seems clear there was adequate notice--</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="1354.790" stopTime="1365.581">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="1354.790" offset="5553653">Mr. Lauber, excuse me for interrupting you, but I'd like to know whether you think we have to decide both the statutory and the constitutional issue.</text>
+            <text syncTime="1362.196" offset="5583224">Did the district court decide anything except the constitutional issue?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="1365.581" stopTime="1366.798">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="1365.581" offset="5596808">--No, sir, it didn't.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="1366.798" stopTime="1372.152">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="1366.798" offset="5601614">If we reverse on that issue, would we have to go any further?</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="1372.152" stopTime="1447.066">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="1372.152" offset="5623035">You certainly have the option, if you reverse the constitutional holding, to remand it to let the district court consider.</text>
+            <text syncTime="1377.288" offset="5643619">I mean, the Appellees made a very similar statutory argument below.</text>
+            <text syncTime="1380.940" offset="5658248">The district court, for reasons it's hard to guess, didn't even mention it.</text>
+            <text syncTime="1386.727" offset="5681340">So the Court certainly could remand it for the district court to decide.</text>
+            <text syncTime="1391.798" offset="5701611">But we think it's appropriate for the Court to avoid that need for a remand by deciding the statutory question here if they agree with us, if the Court agrees with us on the constitutional question.</text>
+            <text syncTime="1400.921" offset="5738182">The old Court of Claims decided a very similar statutory issue, so you have the benefit of that decision as well as the briefs the parties have filed, which have addressed it quite thoroughly.</text>
+            <text syncTime="1413.579" offset="5788755">But you're not required to decide the statutory question.</text>
+            <text syncTime="1418.282" offset="5807563">The final factor I was going to mention is the factor of notice to taxpayers, and here the conference committee action approving the bill certainly constituted notice, constructive notice to taxpayers of what was going on.</text>
+            <text syncTime="1432.740" offset="5865451">Indeed, the Court on many occasions has upheld retroactive laws when the retroactive activity date is back to the date of committee action.</text>
+            <text syncTime="1442.931" offset="5906202">Thank you.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="1447.066" stopTime="1449.602">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="1447.066" offset="5922711">Mr. Sutkowski.</text>
+          </turn>
+        </section>
+        <section startTime="1449.602" stopTime="2904.120">
+          <heading>Argument of Edward F. Sutkowski</heading>
+          <turn speaker="edward_f_sutkowski" startTime="1449.602" stopTime="1479.853">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1449.602" offset="5932847">Mr. Chief Justice and may it please the Court:</text>
+            <text syncTime="1452.870" offset="5945908">I'd like to address your attention to page 2 of the Government's brief, which near the bottom summarizes their position and I think will make the decision in this case rather straightforward.</text>
+            <text syncTime="1467.144" offset="6003064">Specifically, the Government proposes that:</text>
+            <text syncTime="1469.580" offset="6012781">"Rather, the unified credit in such circumstances. "</text>
+            <text syncTime="1473.065" offset="6026679">--relating to the transaction in this case...</text>
+            <text syncTime="1475.666" offset="6037128">"was required to be reduced to reflect the transfer tax benefit-- "</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="1479.853" stopTime="1481.353">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="1479.853" offset="6053846">What page are you reading from?</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1481.353" stopTime="1635.071">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1481.353" offset="6059906">--Page 2 of the Government's brief...</text>
+            <text syncTime="1483.205" offset="6067221">"to reflect the transfer tax benefit that the transferor had already garnered. "</text>
+            <text syncTime="1492.095" offset="6102852">Several questions have been raised by the Court with respect to that benefit, and counsel has referred to the Estate of Renick case, the Court of Claims case which is offered in support of the Government's position.</text>
+            <text syncTime="1506.088" offset="6158754">In that case, the Court of Claims held that the taxpayer in essentially similar circumstances, although the taxpayer in Renick had made the gift on December 30 of the year, that is to say after the date of enactment, as contrasted with the taxpayer in this case who made the gifts prior to the date of enactment but after the applicable committee reports had been published.</text>
+            <text syncTime="1538.274" offset="6287590">The Court of Claims held that it appeared that the taxpayer in Renick would benefit from the $30,000 exclusion.</text>
+            <text syncTime="1548.548" offset="6328654">In any event, the single item of legislative history turning on the passing use of the word "benefited" does not warrant departing from the unambiguous language of the statute.</text>
+            <text syncTime="1558.853" offset="6369823">Putting it another way, the Court of Claims held that, having tentatively benefited by this gift, this claimed exemption, is tantamount or the same as having garnered that forever.</text>
+            <text syncTime="1574.065" offset="6430741">As a matter of fact, the real distinction to be drawn in this case is between the taxpayer who suffered the unfortunate consequence of having died within the three-year period preceding... succeeding the date of the gift and the one who had not.</text>
+            <text syncTime="1587.490" offset="6484448">In the case of Mr. Hirschi, having no control over only that event, which incidentally was the only event that transpired after the effective date of this legislation, his death, he was docketed.</text>
+            <text syncTime="1603.183" offset="6547142">He was not attempting to double dip.</text>
+            <text syncTime="1604.733" offset="6553412">He was penalized.</text>
+            <text syncTime="1605.885" offset="6558009">That is to say, the property that was subject to the lifetime transfer tax, the gift tax, suffering the reduction of his unified credit to the extent of 20 percent of the specific exemption allowed, i.e., $6,000, and the property was brought back into his estate for estate tax purposes and subject to tax under that system, with no corresponding restoration of the credit that had been absorbed by operation of the rule under 2010(c).</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1635.071" stopTime="1640.975">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1635.071" offset="6674724">That's... I suppose you could call this both a statutory and a constitutional argument.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1640.975" stopTime="1644.893">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1640.975" offset="6698339">Statutory in the sense that it focuses on the word "allowed" and "allowable".</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1644.893" stopTime="1645.343">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1644.893" offset="6714012">Right.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1645.343" stopTime="1669.242">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1645.343" offset="6715789">And in the Court of Claims, incidentally, Your Honor, they misquoted the statute as suggesting the word "allowable" in the first instance.</text>
+            <text syncTime="1653.383" offset="6747972">But the statute in 2010(c) specifically provides that to the extent that the specific exemption was allowed, not allowable.</text>
+            <text syncTime="1661.904" offset="6782035">The Court of Claims has simply misquoted the operative provision of the statute in the statutory sense, so it seems to me that the Renick case is--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1669.242" stopTime="1677.598">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1669.242" offset="6811397">Well, the Government says it was allowed because the taxpayer did not have to pay a gift tax at the time.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1677.598" stopTime="1686.187">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1677.598" offset="6844834">--By virtue of an event arising after the transaction, namely Mr. Hirschi's death, and by virtue of the Government--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1686.187" stopTime="1694.910">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1686.187" offset="6879211">Well, but at the time the gift was made the Government says he did not then have to pay a gift tax; therefore, it was allowed.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1694.910" stopTime="1696.476">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1694.910" offset="6914110">--That's correct.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1696.476" stopTime="1698.162">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1696.476" offset="6920380">And what's your response to that?</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1698.162" stopTime="1705.248">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1698.162" offset="6927067">It was never allowed in the committee sense of the word.</text>
+            <text syncTime="1702.965" offset="6946293">The relevant committee reports--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1705.248" stopTime="1706.267">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1705.248" offset="6955488">It was later disallowed--</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1706.267" stopTime="1707.917">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1706.267" offset="6959563">--Well, now they disallowed.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="1707.917" stopTime="1710.935">
+            <label>Justice Byron R. White</label>
+            <text syncTime="1707.917" offset="6966146">--by taking it into his estate.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1710.935" stopTime="1778.680">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1710.935" offset="6978163">And the relevant committee reports provide that the taxpayer was to have benefited from the use of this transitional rule, suffered no detriment, not been penalized, but was to have been benefited by the invocation of this election.</text>
+            <text syncTime="1729.533" offset="7052559">And incidentally, the reference to benefited was found in not just the conference committee report, but its antecedent the House Ways and Means Committee report, which has suggested that the unified credit be docketed, if you will, be decreased by 20 percent of the specific exemption if it had been absorbed by a taxpayer from the date of the enactment of the gift tax legislation, some 44 years ago.</text>
+            <text syncTime="1760.402" offset="7176066">So we're not really focusing upon a 114-day window transitional period here in the sense of the use of the word "benefited".</text>
+            <text syncTime="1770.058" offset="7214728">We're talking about a transaction that was put into place with reference to the use of the specific exemption from the date of the enactment of the gratuitous transfer tax.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1778.680" stopTime="1780.749">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1778.680" offset="7249209">Well, but that wasn't adopted, was it?</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1780.749" stopTime="1878.329">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1780.749" offset="7257464">No, it was not.</text>
+            <text syncTime="1781.516" offset="7260494">But that's the context in terms of benefit.</text>
+            <text syncTime="1783.500" offset="7268435">In terms of the rush to the door to accomplish this objective, that is to say to decrease the revenues available to the Government or to redistribute wealth within the 114-day transitional period, I would merely suggest to the Court that there was no rush to the door in that sense of the word.</text>
+            <text syncTime="1804.531" offset="7352550">There's no national emergency at issue here, as has been the case in several of the other retroactive income tax cases and one estate tax case.</text>
+            <text syncTime="1812.537" offset="7384628">But in this gift tax here, there could have been no rush to the door inasmuch as all this individual did was to take advantage of a beneficial... an election which was to be beneficial.</text>
+            <text syncTime="1823.726" offset="7429350">And as the individual died within the three year period beginning on the date of the gift, that was brought back into the individual's estate.</text>
+            <text syncTime="1832.014" offset="7462473">And not only was a rush prevented, but Mr. Hirschi, the taxpayer, and his successors was penalized for having availed himself of what was to have been a beneficial election.</text>
+            <text syncTime="1845.674" offset="7517121">Putting it another way, a distinction should be drawn as between Mr. Hirschi, who took advantage of the procedure set forth in the committee reports and had the misfortune of dying within three years, and an individual who did the same and did not have the misfortune of dying within three years.</text>
+            <text syncTime="1864.953" offset="7594235">Those two taxpayers are treated quite differently, inasmuch as Mr. Hirschi is penalized to the extent of $6,000 for having availed Mr. Hirschi of that particular beneficial election.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1878.329" stopTime="1894.924">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1878.329" offset="7647733">May I ask, do you agree with the first submission that the Government makes, that if the statute had never been passed and if he died within the three year period, he and the estate together would have paid a larger tax than they do?</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1894.924" stopTime="1896.974">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1894.924" offset="7714189">I'm sorry, would you repeat that question, please?</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1896.974" stopTime="1918.972">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1896.974" offset="7722339">They say that what you're really saying is you didn't get as much of a benefit out of the new law as if the arrangement had been a little different.</text>
+            <text syncTime="1904.546" offset="7752641">But is it not true that the net result of the new law is to impose a lesser total tax on the donor and the estate that would have been the case had the same facts occurred and no new statute ever been passed?</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1918.972" stopTime="1928.078">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1918.972" offset="7810319">That's correct, except that we did suffer a detriment of $6,000 more than a similarly situated taxpayer who had not died under the same set of circumstances.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1928.078" stopTime="1938.117">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1928.078" offset="7846786">Well, but it's also true, is it not, under the old law that if the donor had lived more than three years he would have been discriminated against?</text>
+            <text syncTime="1936.548" offset="7880641">You have the same difference.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1938.117" stopTime="1940.219">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1938.117" offset="7886910">No, he would not.</text>
+            <text syncTime="1939.117" offset="7890881">Under the new law--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1940.219" stopTime="1943.004">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1940.219" offset="7895374">Because the gift then wouldn't have been included in the estate.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1943.004" stopTime="1972.856">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1943.004" offset="7906450">--Under the new law, Your Honor, my understanding of the operation of the new law for transactions occurring after 12-31-76, there was a conclusive presumption.</text>
+            <text syncTime="1951.859" offset="7941872">The three-year rule automatically brought the property back in.</text>
+            <text syncTime="1955.244" offset="7955456">And as was the case under the prior law, as Justice White brought out earlier in his question to counsel, under the old law 2035 would have operated to bring the property back into the decedent's estate and give credit against the estate tax base for the gift taxes paid.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1972.856" stopTime="1976.058">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1972.856" offset="8025882">Yes, but you don't get the credit because you took the exemption.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1976.058" stopTime="1983.095">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1976.058" offset="8038630">Well, that's correct.</text>
+            <text syncTime="1978.308" offset="8047720">But you didn't take the exemption.</text>
+            <text syncTime="1980.043" offset="8054617">That is, you took it, but you didn't receive it, putting it another way.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1983.095" stopTime="1997.588">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1983.095" offset="8066842">What I'm suggesting is the harm, the differentiation between the person who dies within three years of the gift and one who dies more than three years later, was true under the old law and is true under the new law.</text>
+            <text syncTime="1993.436" offset="8108220">Both of them suffer by reason of their premature death.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="1997.588" stopTime="2009.379">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="1997.588" offset="8124834">That's not necessarily true, Your Honor.</text>
+            <text syncTime="1999.606" offset="8132879">Under the new law, under the new system, this taxpayer suffered more than what a similarly situated taxpayer who did not die within the three-year period.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2009.379" stopTime="2012.564">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2009.379" offset="8171959">But he wouldn't have been a similarly situated taxpayer.</text>
+            <text syncTime="2011.931" offset="8182199">That's my point.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2012.564" stopTime="2013.850">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2012.564" offset="8184706">Well, by virtue of his death that's correct.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2013.850" stopTime="2019.202">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2013.850" offset="8189826">If you call a taxpayer who dies within the three years similarly situated to one who dies later, then you're absolutely right.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2019.202" stopTime="2042.917">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2019.202" offset="8211247">My concern would be, Your Honor, what sort of rationale legislative purpose could be ascribed to the drawing of a distinction between an alive and a dead taxpayer, especially in light of the committee reports that suggest that this taxpayer had the right to make this election and avail the taxpayer of a benefit and then, having made the benefit, was deprived of $6,000 in additional property.</text>
+            <text syncTime="2040.683" offset="8297137">I'm wondering if the difference should be if it--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2042.917" stopTime="2068.699">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2042.917" offset="8306123">Well, the difference between somebody who dies in three years and someone who doesn't is not the Government would deduct $6,000 from both of them, but the difference would be in the estate tax.</text>
+            <text syncTime="2057.943" offset="8366205">I mean, there would be more in the estate.</text>
+            <text syncTime="2060.409" offset="8376132">In your client's estate, the gifts would be included.</text>
+            <text syncTime="2064.680" offset="8393163">In the one who didn't die within three years, it wouldn't be included.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2068.699" stopTime="2070.084">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2068.699" offset="8409255">--Well, it depends upon what system we're visiting about here.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2070.084" stopTime="2073.219">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2070.084" offset="8414793">We're talking about it under the new law.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2073.219" stopTime="2077.187">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2073.219" offset="8427332">Under the new law, the three year rule was conclusive.</text>
+            <text syncTime="2074.852" offset="8433810">It would automatically be within the transfer tax base.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2077.187" stopTime="2077.754">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2077.187" offset="8443214">Exactly.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2077.754" stopTime="2271.265">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2077.754" offset="8445513">Except that in our situation, because we were within the transitional period, we suffered a double tax.</text>
+            <text syncTime="2086.710" offset="8481248">The issue has been considered, I believe, as to the absence of property being taken.</text>
+            <text syncTime="2097.584" offset="8524821">It's our position that $6,000 in additional property was taken by virtue of the operation of this rule.</text>
+            <text syncTime="2105.005" offset="8554496">The Government has asserted that the district court, the court below, has mischaracterized this 2010(c) as retroactive legislation.</text>
+            <text syncTime="2114.195" offset="8591276">I think a review of the relevant facts will suggest that this indeed is retroactive legislation and one that should not be countenanced by this Court.</text>
+            <text syncTime="2123.735" offset="8629415">Specifically, the events giving rise... the material events giving rise to the transaction were as follows.</text>
+            <text syncTime="2130.872" offset="8657941">On September 14th of '76, a conference committee report was issued which displayed the language about benefit to be availed by the taxpayer making the selection.</text>
+            <text syncTime="2142.380" offset="8703916">Mr. Hirschi made his gifts on September 28th, filed his gift tax return in a timely fashion.</text>
+            <text syncTime="2150.403" offset="8736099">I'm not quite sure what's to be made of the fact that he filed his tax return on September 30.</text>
+            <text syncTime="2155.789" offset="8757624">I suppose any taxpayer that files their tax returns on January 1 of the year succeeding the year in question is to be looked upon as someone who is evil.</text>
+            <text syncTime="2165.912" offset="8798061">On October 4, the legislation was enacted and was deemed to be retroactive to the date before these gifts were made.</text>
+            <text syncTime="2179.722" offset="8853337">Mr. Hirschi, as is suggested, had the misfortune of dying within the three-year period.</text>
+            <text syncTime="2185.642" offset="8877056">It seems to me that, as was the case in the first gift tax case of significance decided by this Court, when all events giving rise to the transaction occurred before the date of the enactment, it's constitutionally impermissible to go backwards and impose a tax upon the completed gift.</text>
+            <text syncTime="2205.070" offset="8954692">And I think in reviewing the three different types of taxes... that is, the income tax, the estate tax, and the gift tax... very real distinctions are to be drawn as among those three.</text>
+            <text syncTime="2216.778" offset="9001608">As to the income tax, where retroactivity seems to be the day, for good reason, the taxpayer has either the cash generated from his, the taxpayer's, activities, or the property which has been the subject of the sale from which to pay the tax.</text>
+            <text syncTime="2234.007" offset="9070466">Moreover, there is a national objective to be served in protecting the revenue accounting periods, fiscal periods, in the administration of that statute.</text>
+            <text syncTime="2242.912" offset="9106097">In the estate tax area, it's been universally recognized that the facts in existence at the date of the taxpayer's death govern the transaction.</text>
+            <text syncTime="2252.318" offset="9143714">We see this as the case with joint tenancy properties and in the case of retained life estates, life insurance policy transfers.</text>
+            <text syncTime="2261.959" offset="9182270">In all situations, the facts in existence at the date of the taxpayer's death, after which period the taxpayer has no need to store up money with which to live.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2271.265" stopTime="2287.074">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2271.265" offset="9219469">May I ask you a question on that point?</text>
+            <text syncTime="2272.865" offset="9225947">Supposing Congress were to make the period measuring a gift in contemplation of death four years instead of three years.</text>
+            <text syncTime="2281.987" offset="9262414">Could they do that and have that apply to gifts that had been made during the last year or two?</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2287.074" stopTime="2306.819">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2287.074" offset="9282790">This Court is Milliken suggested that if the change was in the mere rate, which was essentially that sort of case... that is, if you're speaking of a situation where we had the transfer in contemplation of death issue available to us and we're merely changing rates--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2306.819" stopTime="2315.224">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2306.819" offset="9361679">No, I'm not suggesting changing rates.</text>
+            <text syncTime="2307.987" offset="9366381">Changing the date.</text>
+            <text syncTime="2309.203" offset="9371292">In other words, in this case if they extended the period a year and he had died a year later, it would still be in contemplation of death.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2315.224" stopTime="2317.443">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2315.224" offset="9395325">--I do not think they could constitutionally in the gift tax area.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2317.443" stopTime="2317.843">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2317.443" offset="9404207">You don't.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2317.843" stopTime="2337.257">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2317.843" offset="9405774">The reason the gift tax area differs from the other two areas I think is quite obvious.</text>
+            <text syncTime="2324.363" offset="9431897">Namely, the taxpayer measures the amount of the gift which is to be incurred before proceeding to engage in a voluntary, irrevocable act.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2337.257" stopTime="2340.392">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2337.257" offset="9483515">He also makes a judgment about how long he's apt to live, too.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2340.392" stopTime="2342.225">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2340.392" offset="9496053">And how much money the taxpayer needs.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2342.225" stopTime="2355.734">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2342.225" offset="9503368">And if he had real good reason to figure he'd live, say, three and a half years, so he said he's go ahead and do it, and then Congress changed the rules on him and made it four years instead of three, he would have been cheated in exactly the same way that you described.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2355.734" stopTime="2362.722">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2355.734" offset="9557389">That's correct, Your Honor.</text>
+            <text syncTime="2357.034" offset="9562613">That taxpayer measures the excess of the property the taxpayer has over what the taxpayer needs, and if--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2362.722" stopTime="2373.013">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2362.722" offset="9585288">See, in both cases the liability would be determined on the basis of events that had occurred without regard to the amendment.</text>
+            <text syncTime="2371.011" offset="9618515">I forget how you phrased the test.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2373.013" stopTime="2543.389">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2373.013" offset="9626457">--Well, the test that counsel has alluded to is that we look to the facts and circumstances in existence at the date of death.</text>
+            <text syncTime="2379.167" offset="9651116">But when we're talking about 2035, a transfer in contemplation of death, that's by definition a bring-back statute.</text>
+            <text syncTime="2386.871" offset="9681941">It seems to me that in Untermeyer v. Anderson, the critical case in this area involving the gift tax, the application of the gift tax retroactively to transactions completed, if the facts suggested by the Justice would be applied to that case the result would be precisely the same.</text>
+            <text syncTime="2404.849" offset="9753830">That is to say, you cannot enact a piece of legislation that purports to go back four years before it's effective date and picks up a gift tax transaction and brings it back into the taxable estate of the transferor, as contrasted with an income tax situation, where the assets are there, the income has been made.</text>
+            <text syncTime="2423.113" offset="9826868">Darusmont, minimum alternative tax case, in which this Court sustained the ability of the legislature to impose a new minimum alternative tax upon completed transactions.</text>
+            <text syncTime="2435.170" offset="9875142">Pension Benefit Guaranty Corporation v. Gray, where we had a multi-employer pension plan withdrawal liability at issue, where several months after the employer withdrew from the particular multi-employer plan it was met with a retroactive legislative enactment that imposed a $211,000 plus imposition.</text>
+            <text syncTime="2455.916" offset="9958107">We have an ongoing business transaction.</text>
+            <text syncTime="2457.783" offset="9965630">We have a national emergency, if you will, a specie of disintermediation occurring, people withdrawing plans, less wage base, pensioners in a very bad position, an avowed national purpose to be served.</text>
+            <text syncTime="2471.493" offset="10020383">In this estate and gift tax, the gratuitous transfer tax area, this tax had been on the books for over 40 years.</text>
+            <text syncTime="2478.213" offset="10047341">It had been the subject of repeated attempted rehauls for a period of time, and as a matter of fact only after this piece of legislation came on the books did we have an overhaul, an attempt to systematize the overall mechanism of the transfer tax base, which incidentally, my understanding, doesn't account for a terrific amount of revenue, which is not to say it's meaningless, but it is to suggest that this was not a situation that warranted a national knee-jerk reaction, to let's punish those that availed themselves of this particular benefit, but was specifically designed to provide some sort of transitional rule that would prohibit someone from taking advantage of both systems, achieving the ability to use $30,000 worth of gift tax-free transfers and yet not sustain any detriment in terms of the ensuing unified credit which was under the new system.</text>
+            <text syncTime="2534.200" offset="10271263">Mr. Herschi and his successors were not of a class that attempted to take advantage of that, that is to say were not of a class that were double dipping.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2543.389" stopTime="2545.074">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2543.389" offset="10308043">They may have attempted to, but they--</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2545.074" stopTime="2547.609">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2545.074" offset="10314731">I suppose that's why we're here.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2547.609" stopTime="2550.728">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2547.609" offset="10324866">--In the long run, in the long run it didn't work.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2550.728" stopTime="2583.716">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2550.728" offset="10337405">Yes, it didn't work.</text>
+            <text syncTime="2551.595" offset="10340853">And I would suggest it's not because of ill-advised tax planning.</text>
+            <text syncTime="2554.880" offset="10354019">I would suggest it's as a consequence of very highly sophisticated, knowledgeable tax planning on the part of counsel for Mr. Hirschi, that suggested to Mr. Hirschi, if anything, I'd suggest that you take advantage of this election that is a one-time 114-day window period benefit available to you, and that you make the election irrespective of whatever else may arise and proceed.</text>
+            <text syncTime="2582.949" offset="10466241">And he did.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2583.716" stopTime="2587.268">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2583.716" offset="10469271">He just probably thought he was healthier than he was.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2587.268" stopTime="2593.372">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2587.268" offset="10483482">Well, unfortunately I have yet to find an individual who knows when the grim reaper will be--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2593.372" stopTime="2594.355">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2593.372" offset="10507932">Let alone a lawyer.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2594.355" stopTime="2603.430">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2594.355" offset="10511903">--Let alone a lawyer.</text>
+            <text syncTime="2595.707" offset="10517232">There are many things that we are supposed to know.</text>
+            <text syncTime="2597.390" offset="10524024">That's one that I'm not sure that even I can guess at.</text>
+            <text syncTime="2600.644" offset="10536981">In this particular instance--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2603.430" stopTime="2604.880">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2603.430" offset="10548161">Or an accountant.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2604.880" stopTime="2608.898">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2604.880" offset="10554012">--Well, I think they know most of it.</text>
+            <text syncTime="2606.382" offset="10559968">The actuaries know everything, I understand, in terms of mortality.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2608.898" stopTime="2611.300">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2608.898" offset="10569999">It didn't work out here.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2611.300" stopTime="2857.525">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2611.300" offset="10579612">In the case... in the Government's brief, they suggest that the astute taxpayer, the knowledgeable taxpayer, should have waited until November 15th of that same year, with a view toward comparing the relative advantages and disadvantages of making this election.</text>
+            <text syncTime="2630.497" offset="10656412">I submit to this Court that the taxpayer had to perform one other act within that period, and that's die.</text>
+            <text syncTime="2637.501" offset="10684416">He had to also be sure that the statute as read really meant what it didn't mean, meant what it didn't say.</text>
+            <text syncTime="2645.221" offset="10715345">Put another way, the word Mr. Hirschi.</text>
+            <text syncTime="2660.415" offset="10776158">In terms of the notice aspect which counsel has alluded to, he states in the reply briefs and in the original brief, the suggestion on page 24, and I quote, was that:</text>
+            <text syncTime="2673.772" offset="10829552">"In any event, the committee reports provided him, the decedent, with constructive notice of what the effect of claiming the specific exemption was very likely to be. "</text>
+            <text syncTime="2686.163" offset="10879080">I suggested at page 24 of our brief that, in reviewing that rule, the House report provided that there was to be a docking of 20 percent of the amount allowed as a specific exemption in computing the taxable gifts under the present law, and thus in the case where a donor had benefited from the use of the full $30,000 gift tax specific exemption under present law, the maximum unified credit allowable would be reduced by $6,000.</text>
+            <text syncTime="2721.653" offset="11021082">On page 24 of our brief, I suggest that notice, if that's the issue, the notice would have apprised the taxpayer of the consequences of this election, not just that the taxpayer was to receive a benefit of the election, but if the taxpayer made the election and then had the misfortune of dying within three years from the date of the gift that property would not only be brought back into the taxpayer's taxable base, but there would be no restoration of the credit that had been absorbed by virtue of the transaction.</text>
+            <text syncTime="2756.976" offset="11162352">And to that end, the committee reports should have added to them, and I suggested, that even if the property which was the subject of the claimed $30,000 gift tax specific exemption is subsequently included in the donor's estate by reason of 2035, that the result would then be dictated as the Government has suggested.</text>
+            <text syncTime="2776.573" offset="11240719">Phrased differently, there was no actual notice, there was no constructive notice.</text>
+            <text syncTime="2782.394" offset="11264021">In fact, there was a bit of a snare for the sophisticated taxpayer with sophisticated tax advice, to the effect that if we make this beneficial election we'll have the benefit of that election forever.</text>
+            <text syncTime="2798.603" offset="11328909">In terms of the constitutional arguments, I would suggest that this case is not an income tax case.</text>
+            <text syncTime="2807.559" offset="11364644">This case is not as estate tax case in the sense that there was reference in the amicus to this Hafner case, where that's a completely different issue, but all sorts of gifts of taxable or exempt bonds, depending upon someone's perspective, that were transferred before dates of enactment.</text>
+            <text syncTime="2826.922" offset="11442176">There was perhaps a rush to the door in Hafner and its progeny.</text>
+            <text syncTime="2832.392" offset="11464014">This was not a national emergency case, as the case of Gray v. the Pension Benefit Guaranty Corporation.</text>
+            <text syncTime="2838.880" offset="11489928">There was no double dipping in the case of this taxpayer, and the events giving rise to the transaction, the completed gifts, all occurred before the date of enactment.</text>
+            <text syncTime="2849.702" offset="11533291">But for the death of this individual within the three year period, we I suppose would not be here.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2857.525" stopTime="2866.730">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2857.525" offset="11564533">May I ask one more question.</text>
+            <text syncTime="2859.325" offset="11571743">Is the net result of the district court judgment that you got $6,000, a refund in effect?</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2866.730" stopTime="2868.399">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2866.730" offset="11601418">The net result, yes.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2868.399" stopTime="2871.534">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2868.399" offset="11608001">So that's the amount in dispute?</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2871.534" stopTime="2891.029">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2871.534" offset="11620540">I only wish it were for 60 and 600, and perhaps, if it were 500, the constitutional and statutory arguments would be more momentous.</text>
+            <text syncTime="2884.675" offset="11673098">But it seems to me that the retroactivity issue and the constitutional issue are equally applicable, as is obviously the case.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2891.029" stopTime="2895.247">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2891.029" offset="11698594">Think of how many lawyers would have been here if it was $600,000.</text>
+          </turn>
+          <turn speaker="edward_f_sutkowski" startTime="2895.247" stopTime="2899.583">
+            <label>Mr. Edward F. Sutkowski</label>
+            <text syncTime="2895.247" offset="11715417">You haven't seen Hafner yet, Your Honor.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2899.583" stopTime="2904.120">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2899.583" offset="11732762">Do you have anything further, Mr. Lauber?</text>
+          </turn>
+        </section>
+        <section startTime="2904.120" stopTime="2962.705">
+          <heading>Rebuttal of Albert G. Lauber, Jr.</heading>
+          <turn speaker="albert_g_lauber_jr" startTime="2904.120" stopTime="2924.683">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="2904.120" offset="11750943">One very brief point.</text>
+            <text syncTime="2905.353" offset="11755854">One way of looking at the tax benefit that Mr. Hirschi got, aside from deferring the tax to his heirs and the time value of money, is that he took a gamble.</text>
+            <text syncTime="2913.458" offset="11788246">He gambled that if he claimed this benefit and he lived three years he'd never be taxed, either under the gift tax or the estate tax.</text>
+            <text syncTime="2921.498" offset="11820429">He took a betting man's risk.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="2924.683" stopTime="2933.539">
+            <label>Justice Byron R. White</label>
+            <text syncTime="2924.683" offset="11833177">He would still have to... he would get his unified tax cut by $6,000.</text>
+          </turn>
+          <turn speaker="albert_g_lauber_jr" startTime="2933.539" stopTime="2957.437">
+            <label>Mr. Albert G. Lauber, Jr.</label>
+            <text syncTime="2933.539" offset="11868599">Right, that would happen.</text>
+            <text syncTime="2935.308" offset="11875704">But that property he gave away would never be taxed by the United States under any circumstances.</text>
+            <text syncTime="2940.243" offset="11895452">So what really happened here is the decedent took a bit of a gamble and lost.</text>
+            <text syncTime="2944.430" offset="11912171">But at this Court held in United States and Manufacturers National Bank at 363 U.S. 201, the executor should not complain because his decedent gambled and lost.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="2957.437" stopTime="2962.705">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="2957.437" offset="11964207">Thank you, gentlemen The case is submitted.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2962.705" stopTime="2967.274">
+            <label>Unknown Speaker</label>
+            <text syncTime="2962.705" offset="11985314">The Honorable Court is now adjourned until Monday next at 10:00.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

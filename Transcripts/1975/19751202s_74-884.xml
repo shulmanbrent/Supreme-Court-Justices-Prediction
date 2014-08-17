@@ -1,0 +1,47 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-29</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="348268">/xml/cases/1975/74_884/19751202o_74-884.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1975/trs/74-884op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="68.614">
+        <title>United States v. Powell</title>
+        <section startTime="0.000" stopTime="57.888" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice William H. Rehnquist</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.601">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="73669">Mr. Justice Rehnquist has the opinion for the Court to announce in 74-884, United States against Powell.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="8.601" stopTime="57.888">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="8.601" offset="108046">This case comes to us from the Eastern District of Washington where the respondent, one Josephine Powell, was convicted of mailing a firearm capable of being concealed on the person to with a sawed-off shotgun in violation of Title 18 United States Code, Section 1715.</text>
+            <text syncTime="34.090" offset="210028">The Court of Appeals for the Ninth Circuit reversed her conviction on the ground that this act of Congress was unconstitutionally vague.</text>
+            <text syncTime="44.578" offset="251929">In an opinion filed today with the clerk, we conclude that the statute of Congress was not unconstitutionally vague and we, therefore, reversed the judgment of the Court of Appeals.</text>
+          </turn>
+        </section>
+        <section startTime="57.888" stopTime="63.770" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Potter Stewart</heading>
+          <turn speaker="potter_stewart" startTime="57.888" stopTime="63.770">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="57.888" offset="305218">I should just say that I have filed an opinion concurring in part and dissenting in part.</text>
+          </turn>
+        </section>
+        <section startTime="63.770" stopTime="68.614" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice William H. Rehnquist</heading>
+          <turn speaker="william_h_rehnquist" startTime="63.770" stopTime="65.831">
+            <label>Justice William H. Rehnquist</label>
+            <text syncTime="63.770" offset="328729">I should have said that.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="65.831" stopTime="68.614">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="65.831" offset="336983">Thank you Mr. Justice Rehnquist, Mr. Justice Powell.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

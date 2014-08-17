@@ -1,0 +1,49 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:49:32" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1260906">/xml/cases/2005/04_1264/20060221o_04-1264.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-1264_20060221-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="293.042">
+        <title>Buckeye Check Cashing, Inc. v. Cardegna</title>
+        <section startTime="0.000" stopTime="293.042">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="11.904">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88739">Justice Scalia has the opinion in number 04-1264, Buckeye Check Cashing Inc. v. Cardegna.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="11.904" stopTime="293.042">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="11.904" offset="136282">This case is here on writ of certiorari to the Supreme Court of Florida.</text>
+            <text syncTime="16.454" offset="154463">The respondents John Cardegna and Donna Reuter entered into various deferred payment transactions with the petitioner Buckeye Check Cashing, in which they received cash in exchange for a personal check in the amount of the cash plus a finance charge.</text>
+            <text syncTime="35.640" offset="231263">For each separate transaction, they signed an agreement that included provisions for the arbitration of disputes arising out of the contracts.</text>
+            <text syncTime="45.039" offset="268879">The respondents brought a putative class action in Florida State Court alleging that Buckeye charged usurious interest rates and that the agreement violated various Florida Lending and Consumer Protection laws, rendering it criminal on its face.</text>
+            <text syncTime="62.888" offset="340246">Buckeye moved to compel arbitration.</text>
+            <text syncTime="65.957" offset="352471">The trial court denied the motion, holding that a court rather than an arbitrator should resolve the claim that a contract is illegal and void ab initio.</text>
+            <text syncTime="77.074" offset="396984">The District Court of Appeal of Florida for the 4th circuit reversed holding it because respondents did not challenge the arbitration provision itself, but instead claimed that the entire contract was void, the agreement to arbitrate was enforceable, and the question of the contract’s legality should go to the arbitrator.</text>
+            <text syncTime="94.602" offset="467097">The respondents appealed, and the Florida Supreme Court in its turn reversed, reasoning that to enforce an agreement to arbitrate in a contract challenged as unlawful, “could breathe life into a contract that not only violates State Law, but is also criminal in nature”.</text>
+            <text syncTime="114.413" offset="546300">In an opinion filed with the clerk today, we reversed the judgment of the Florida Supreme Court and affirm that regardless of whether the challenge is brought in Federal or State Court, a challenge to the validity of the contract as a whole and not specifically to the arbitration clause must go to the arbitrator.</text>
+            <text syncTime="132.978" offset="620592">To overcome judicial resistance to arbitration, Congress enacted the Federal Arbitration Act, Section 2 of which embodies the national policy favoring arbitration and places arbitration agreements on equal footing with all other contracts by providing that they “shall be valid, irrevocable and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract”.</text>
+            <text syncTime="162.155" offset="737307">Our prior contracts dealing with Section 2, notably Prima Paint and Southland Corporation, establish three propositions:  first, as a matter of substantive federal arbitration law and arbitration provision is severable from the remainder of the contract; second, unless the challenge is to the arbitration provision itself, the issue of the contract’s validity is considered by the arbitrator in the first instance; and third, this arbitration law applies in State as well as Federal Courts.</text>
+            <text syncTime="198.410" offset="882339">The parties have not requested, and we do not undertake reconsideration of these holdings.</text>
+            <text syncTime="203.279" offset="901774">Applying them to this case, we conclude that because respondents challenged the agreement but not specifically its arbitration provisions, those provisions are enforceable apart from the remainder of the contract, and challenge to their validity should be considered by an Arbitrator, not a Court.</text>
+            <text syncTime="219.954" offset="968543">In declining to apply Prima Paint’s rule of severability, the Florida Supreme Court relied on the state distinction between void and voidable contracts.</text>
+            <text syncTime="229.968" offset="1008563">Prima Paint makes this distinction irrelevant.</text>
+            <text syncTime="232.978" offset="1020579">That case rejected application of state severability rules to the arbitration agreement without discussing whether the challenge at issue would have rendered the contract void or voidable.</text>
+            <text syncTime="244.552" offset="1066868">Likewise, in Southland, which arose in State Court, we did not ask whether the several challenges made there would render the contract void or voidable.</text>
+            <text syncTime="253.323" offset="1101977">We simply rejected the proposition that the enforceability of the arbitration agreement turned on the State Legislature’s judgment concerning the forum for enforcement of the State Law cause of action.</text>
+            <text syncTime="265.352" offset="1150146">So also here, we cannot accept the Florida Supreme Court’s conclusion that enforceability of the arbitration agreement should turn on “Florida public policy and contract law”.</text>
+            <text syncTime="277.960" offset="1200510">Accordingly, the judgment of the Florida Supreme Court is reversed and the case is remanded for further proceedings not inconsistent with this opinion.</text>
+            <text syncTime="285.317" offset="1229977">Justice Thomas has filed a dissenting opinion.</text>
+            <text syncTime="288.187" offset="1241470">Justice Alito took no part in the consideration or decision of this case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

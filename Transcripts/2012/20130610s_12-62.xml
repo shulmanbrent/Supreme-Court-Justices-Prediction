@@ -1,0 +1,57 @@
+<transcript verified="true">
+      <history>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="1351850">/xml/cases/2012/12_62/20130610o_12-62.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/12-62_20130610-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="sonia_sotomayor" type="justice" gender="female" path="/justices/sonia_sotomayor" image="/justices/sonia_sotomayor/thumbnail.jpg">Sonia Sotomayor</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="311.520">
+        <title>Peugh v. United States</title>
+        <section startTime="0" stopTime="311.520">
+          <heading>Opinion Announcement of Sonia Sotomayor</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="6.424">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="105472">Justice Sotomayor has our opinion this morning in case 12-62, Peugh versus United States.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="6.424" stopTime="311.520">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="6.424" offset="131072">In an effort of to reduce unwarranted disparities in federal sentencing, Congress passed the Sentencing Reform Act.</text>
+            <text syncTime="14.874" offset="164927">The Act created the United States Sentencing Commission which is tasked with promulgating sentencing guidelines.</text>
+            <text syncTime="22.372" offset="194915">Those guidelines prescribe a sentencing range for a criminal defendant based on his personal characteristics such as his criminal history and the characteristics of his offense.</text>
+            <text syncTime="35.539" offset="247578">As enacted, the guidelines were meant to be mandatory, meaning that they were legally binding on the sentencing court.</text>
+            <text syncTime="43.172" offset="278089">In United States versus Booker, this Court found that the mandatory guidelines were unconstitutional.</text>
+            <text syncTime="50.700" offset="308182">To cure the constitutional problem, the Court struck down the provisions of the act that made the guidelines mandatory and left an advisory system in its place.</text>
+            <text syncTime="63.910" offset="361054">After Booker, the guidelines still operate to channel sentencing discretion and avoid excessive disparities, but District Courts may now sentence outside the guidelines subject to deferential appellate review.</text>
+            <text syncTime="79.301" offset="422599">The Sentencing Commission periodically reviews and amends the Guidelines.</text>
+            <text syncTime="84.283" offset="442556">District Courts are directed to apply the most up-to-date version of the guidelines in effect at the time of sentencing with one caveat.</text>
+            <text syncTime="94.383" offset="482994">They are not to do so if applying the new guidelines would violate the Constitution's ex post facto clause by retroactively increasing the punishment for the defendant's crime.</text>
+            <text syncTime="107.903" offset="537015">We have interpreted this clause to bar laws that create a significant risk of increasing a defendant's punishment.</text>
+            <text syncTime="117.749" offset="576408">The question presented here is whether now that the guidelines are advisory; it violates the ex post facto clause to apply a new, more punitive guideline retroactively.</text>
+            <text syncTime="131.250" offset="630429">Petitioner Marvin Peugh was convicted of multiple counts of bank fraud.</text>
+            <text syncTime="136.666" offset="652058">Under the version of the guidelines in effect at the time of his crime, Peugh would have been subject to an advisory guideline range of 30 to 37 months of imprisonment.</text>
+            <text syncTime="147.720" offset="696257">But in between the time of the crime and Peugh's sentencing, the Sentencing Commission amended the guidelines in several ways, increasing Peugh's guideline range to 70 to 87 months of imprisonment.</text>
+            <text syncTime="162.568" offset="755712">The District Court rejected Peugh's argument that applying the new guideline range violated the ex post facto clause.</text>
+            <text syncTime="170.580" offset="787790">The court decided that a within-guideline sentence was appropriate and sentenced Peugh to 70 months of imprisonment.</text>
+            <text syncTime="179.168" offset="822063">The Court of Appeals for the Seventh Circuit affirmed, applying circuit precedent holding that retroactive increases in the advisory sentencing guidelines do not implicate an ex post facto concern.</text>
+            <text syncTime="193.273" offset="878488">We granted certiorari and now reversed.</text>
+            <text syncTime="196.857" offset="892803">While the guidelines are no longer mandatory, they still occupy a central role in sentencing.</text>
+            <text syncTime="204.168" offset="922060">Indeed, they are designed to anchor sentencing discretion in order to promote uniformity.</text>
+            <text syncTime="210.884" offset="948914">Under our post-Booker precedents, District Courts are required to begin sentencing by calculating correctly the guidelines range.</text>
+            <text syncTime="220.491" offset="987366">Failure to do so is reversible procedural error.</text>
+            <text syncTime="224.738" offset="1004398">District Courts may depart from the range, but they must consider the extent of any deviation and provide us sufficient justification to support the variance.</text>
+            <text syncTime="235.362" offset="1046821">Court of Appeals, in turn, may presume a within-guidelines range as reasonable and may further consider the extent of any deviation from the guidelines in reviewing a sentence for reasonableness.</text>
+            <text syncTime="248.792" offset="1100633">The cumulative effect of these legal rules is to make the guidelines the loadstar of sentencing in the federal system, even in a post-Booker world.</text>
+            <text syncTime="259.712" offset="1144310">Both common sense and empirical evidence indicate that these rules will steer District Courts to give more within-guideline sentences.</text>
+            <text syncTime="269.798" offset="1184643">As a result, increasing the applicable sentencing range carries a significant risk of an increased punishment.</text>
+            <text syncTime="278.936" offset="1221214">For these reasons which we elaborate in greater detail in the opinion filed today, we hold that retroactively applying an increase in the applicable guideline range violates the ex post facto clause.</text>
+            <text syncTime="293.838" offset="1280773">The judgment of the Seventh Circuit is reversed.</text>
+            <text syncTime="297.265" offset="1294461">Justice Thomas has filed a dissenting opinion which the Chief Justice, Justice Scalia and Justice Alito joined in part.</text>
+            <text syncTime="305.527" offset="1327480">Justice Alito has also filed a dissenting opinion which Justice Scalia joins.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

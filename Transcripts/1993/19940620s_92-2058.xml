@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1994-06-20</transcribed>
+        <edit user="jclow26" date="2012-08-13T21:51:16" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="harry_a_blackmun"/>
+        <identified user="jclow26">2012-08-13</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:41:13" startTime="0.000" oldSpeaker="harry_a_blackmun" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="340531">/xml/cases/1993/92_2058/19940620o_92-2058.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1993/92-2058_19940620-opinion.xml</sourceFile>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="62.380">
+        <title>Hawaiian Airlines, Inc. v. Norris</title>
+        <section startTime="0.000" stopTime="8.136">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.136">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="91009">The opinion of the Court in No. 92-2058, Hawaiian Airline versus Norris will be announced by Justice Blackmun.</text>
+          </turn>
+        </section>
+        <section startTime="8.136" stopTime="62.380">
+          <heading>Announcement of Justice Blackmun</heading>
+          <turn speaker="harry_a_blackmun" startTime="8.136" stopTime="62.380">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="8.136" offset="123505">This case comes to us from the Supreme Court of Hawaii.</text>
+            <text syncTime="12.382" offset="140537">The respondent, Norris, lost his job as an aircraft mechanic with the petitioner, Hawaiian Airlines when he refused to sign a maintenance record for a plane he considered unsafe.</text>
+            <text syncTime="25.898" offset="194558">He brought separate State Court suits against the Airline and its officers in which, he alleged wrongful discharge in violation of public policy expressed in federal statutes.</text>
+            <text syncTime="36.908" offset="238549">The State Court dismissed these tort claims as preempted by the Railway Labor Act.</text>
+            <text syncTime="43.541" offset="265089">The State Supreme Court reversed rejecting petitioner's claim of preemption.</text>
+            <text syncTime="49.160" offset="287554">In an opinion filed with the Clerk today, we affirm that judgment and hold that the Railway Labor Act does not preempt respondent's state law causes of action.</text>
+            <text syncTime="60.392" offset="332485">The court is unanimous on this one.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

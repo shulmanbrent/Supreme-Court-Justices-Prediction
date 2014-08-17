@@ -1,0 +1,31 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2014-01-16T12:23:18" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="215959">/xml/cases/2002/02_258/20030422o_02-258.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2002/trs/02-258_20030422-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="32.627">
+        <title>Jinks v. Richland County, South Carolina</title>
+        <section startTime="0.000" stopTime="32.627">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.464">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85451">The opinion of the court number 02-258, Jinks against Richland County will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="9.464" stopTime="32.627">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="9.464" offset="123276">This case is here on certiorari to the Supreme Court of South Carolina.</text>
+            <text syncTime="14.931" offset="145115">For the reasons set forth in an opinion filed with the Clerk of the Court today, we reverse the judgment of the Supreme Court of South Carolina and remand for proceedings not inconsistent with our opinion.</text>
+            <text syncTime="27.733" offset="196315">The Court's decision is unanimous.</text>
+            <text syncTime="29.818" offset="204674">Justice Souter has filed a concurring opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

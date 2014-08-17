@@ -1,0 +1,35 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:28:28" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="409799">/xml/cases/1991/90_913/19911203o_90-913.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/90-913_19911203-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="79.726">
+        <title>Board of Governors of the Federal Reserve System of the United States v. MCorp Financial, Inc.</title>
+        <section startTime="0.000" stopTime="79.726">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="12.691">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90896">The opinion of the Court in No. 90-913, Board of Governors of the Federal Reserve System versus MCorp Financial, Inc. and a companion case will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="12.691" stopTime="79.726">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="12.691" offset="141574">These two cases come to us on cross-petitions for certiorari to the United States Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="20.959" offset="174697">They arise out of two separate administrative proceedings brought by the Board of Governors of the Federal Reserve System against a Bank Holding Company.</text>
+            <text syncTime="29.710" offset="209701">In No. 90-913, there is a challenge to the Court of Appeals holding that the Bankruptcy Court had jurisdiction to enjoin proceedings challenging the Board's so-called source of strength regulation.</text>
+            <text syncTime="44.217" offset="267693">And the cross-petition challenges that court's holding that the Bankruptcy Court did not have jurisdiction to enjoin an administrative proceeding alleging a violation of Section 23A of the Federal Reserve Act.</text>
+            <text syncTime="56.312" offset="316072">I am sure all of this is perfectly clear to you.</text>
+            <text syncTime="58.614" offset="325267">Based on our interpretation of the Financial Institutions Supervisory Act in the relevant precedents, we hold that the Bankruptcy Court lacked jurisdiction to enjoin either proceeding.</text>
+            <text syncTime="69.658" offset="369466">Accordingly, the judgment of the Court of Appeals is reversed in one case and affirmed in the other.</text>
+            <text syncTime="75.403" offset="392454">Justice Thomas took no part in the consideration or decision of the case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

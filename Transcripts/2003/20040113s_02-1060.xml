@@ -1,0 +1,58 @@
+<transcript verified="true">
+      <history>
+        <transcribed>2004-01-13</transcribed>
+        <edit user="dleib" date="2012-08-12T15:44:30" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="stephen_g_breyer"/>
+        <identified user="dleib">2012-08-12</identified>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jeffpar" date="2013-12-11T12:31:28" startTime="0.000" oldSpeaker="stephen_g_breyer" newSpeaker="william_h_rehnquist"/>
+        <identified user="jeffpar">2013-12-11</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1405264">/xml/cases/2003/02_1060/20040113o_02-1060.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/2003/02-1060_20040113-opinion.xml</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="303.430">
+        <title>Illinois v. Lidster</title>
+        <section startTime="0.000" stopTime="303.430" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice Stephen G. Breyer</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.817">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 02-1060, Illinois against Lidster will be announced by Justice Breyer.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="10.817" stopTime="303.430">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="10.817" offset="43259">This case asks whether the Fourth Amendment permits police to set up a highway checkpoint and stop motorists in order to ask them for information about a hit-and-run accident.</text>
+            <text syncTime="24.087" offset="96340">The accident took place in August 1997 when an unidentified motorist hit and killed a 70-year-old bicyclist.</text>
+            <text syncTime="33.381" offset="133433">About a week later, the police set up a checkpoint on the highway.</text>
+            <text syncTime="37.736" offset="150883">Each car would draw to a stop at the checkpoint remaining there for 10 to 15 seconds while a police officer ask the occupants whether they had seen anything happened there at the previous weekend and each policeman handed each deriver a flyer which described the accident and requested information.</text>
+            <text syncTime="57.929" offset="231654">Now, the respondent, in this case Robert Lidster, is driving a mini van and as it approached the checkpoint it swerved nearly hitting one of the officers.</text>
+            <text syncTime="68.535" offset="274077">The officer smelled alcohol on his breath and they gave him a sobriety test, they arrested him, and he was convicted of driving under the influence of alcohol and eventually his conviction got to the Illinois Supreme Court which reversed the conviction on the ground of the checkpoint stop, this roadblock, violated the Fourth Amendment’s prohibition against unreasonable searches and seizures.</text>
+            <text syncTime="92.539" offset="370103">Now, we are here considering the Illinois Supreme Court’s decision a constitutional question and we disagree with that court’s constitutional conclusion.</text>
+            <text syncTime="104.126" offset="416496">The Illinois Court fought that the case called Indianapolis versus Edmond, a case that this Court governed the outcome.</text>
+            <text syncTime="112.622" offset="450456">In Edmond, this Court held that police checkpoint stops of automobiles ordinarily do violate the Fourth Amendment unless they have reasonable suspicion that the stopped individual committed a crime.</text>
+            <text syncTime="128.107" offset="512418">Everybody agrees there was no individualized suspicion here, but Edmond concerned the kind of stop to which reasonable suspicion might be relevant or it could matter, namely a stop designed to see whether a car’s occupant had committed a crime or were committing a crime, and this is not that kind of a stop.</text>
+            <text syncTime="148.901" offset="595592">It is a very different stop with a very different kind of purpose.</text>
+            <text syncTime="152.521" offset="610011">The stop is one of enlisting the help of the vehicle’s occupant as members of the public in providing information about a crime committed not by them but of other people.</text>
+            <text syncTime="163.082" offset="652225">So Edmond, we think, is beside the point.</text>
+            <text syncTime="167.167" offset="668630">Nor do we believe, putting Edmond to beside, we do not think that the Fourth Amendment requires applications to this information gathering kind of stop a legal rule that would make them all unconstitutional.</text>
+            <text syncTime="181.365" offset="725368">That kind of a rule would often prevent policemen from asking motorists for assistance.</text>
+            <text syncTime="187.305" offset="749192">It would deprive them if important law enforcement help with voluntary cooperation by members of the public can provide.</text>
+            <text syncTime="196.255" offset="784927">Now, clearly the law allows policemen to ask members of the public to help, at least when they are pedestrian.</text>
+            <text syncTime="204.888" offset="819513">And we think an opposite rule that would stop them from asking motorists for help cannot be justified.</text>
+            <text syncTime="212.758" offset="850965">So, our conclusion on the law is that we apply a rule of reason to such stops.</text>
+            <text syncTime="219.998" offset="879909">To determine whether a particular stop was reasonable, we have to look to the gravity of the public concern, the degree to which the seizure advances the public interest and the severity of the interference with individual liberty.</text>
+            <text syncTime="234.503" offset="938005">We then apply those factors in this case.</text>
+            <text syncTime="237.560" offset="950230">We think the public concern was grave.</text>
+            <text syncTime="240.404" offset="961515">The police were investigating a crime that had resulted in a human death.</text>
+            <text syncTime="245.494" offset="981891">The police tailored the stop to the circumstance advancing their grave concern to a significant degree.</text>
+            <text syncTime="253.132" offset="1012506">The stops interfered only minimally with liberty, contact with the police lasted just a few seconds and it consisted of a simple request and a flyer.</text>
+            <text syncTime="264.745" offset="1058900">For these reasons and for others set out in the opinion, we think the information-seeking stop is a reasonable one, thus, it was constitutional.</text>
+            <text syncTime="275.220" offset="1100800">We reverse the Illinois Supreme Court.</text>
+            <text syncTime="278.228" offset="1112816">Justice Stevens filed an opinion concurring in part and dissenting in part in which Justices Souter and Ginsburg have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

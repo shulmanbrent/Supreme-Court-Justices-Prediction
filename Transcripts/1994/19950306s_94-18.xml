@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-16</identified>
+        <edit user="jgoldman" date="2014-01-16T11:20:08" startTime="0.000" oldSpeaker="john_paul_stevens" newSpeaker="william_h_rehnquist"/>
+      </history>
+      <resources>
+        <audioFile size="609421">/xml/cases/1994/94_18/19950306o_94-18.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1994/trs/94-18_19950306-opinion.trs</sourceFile>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="130.638">
+        <title>Mastrobuono v. Shearson Lehman Hutton, Inc.</title>
+        <section startTime="0.000" stopTime="130.638">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="130.638">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="86868">I have the opinion of the Court to announce the Mastrobuono versus Shearson Lehman Hutton, number 94-18.</text>
+            <text syncTime="8.311" offset="120096">In this case the Mastrobuonos entered into a contract with Shearson, whereby Shearson agreed to handle their securities trading account, the terms of the contract were spelled-out in Shearson’s standard form agreement.</text>
+            <text syncTime="22.469" offset="176729">Paragraph 13 of that agreement contains a choice of law provision stating that “the agreement shall be governed by the laws of the State of New York”.</text>
+            <text syncTime="31.871" offset="214346">It also contains an arbitration clause stating “all disputes arising out of the agreement shall be resolved by arbitration.”</text>
+            <text syncTime="40.704" offset="249663">The Mastrobuonos later sued Shearson in Federal District Court claiming that it had mishandled their securities account and Shearson filed a motion to enforce the arbitration clause under the Federal Arbitration Act.</text>
+            <text syncTime="55.814" offset="310058">The Court granted the motion and a penal of arbitrators was appointed.</text>
+            <text syncTime="60.286" offset="327926">After hearings the arbitrators ruled in favor of the Mastrobuonos and awarded both compensatory and punitive damages.</text>
+            <text syncTime="69.078" offset="363139">Shearson challenged the punitive damages component of the award arguing that under the agreement the arbitrator should have applied New York law, and the New York Law allows only courts but not arbitrators to award punitive damages.</text>
+            <text syncTime="85.129" offset="427296">The District Court and the Court of Appeals agreed with Shearson.</text>
+            <text syncTime="89.032" offset="442969">In an opinion written by Justice Stevens and filed with the clerk today we reverse.</text>
+            <text syncTime="94.280" offset="463972">The central purpose of the Federal Arbitration Act is to insure that private agreements to arbitrator are enforced according to their terms.</text>
+            <text syncTime="102.659" offset="497408">If the parties to this contract agreed to allow punitive damages to be awarding the arbitration then the arbitrator’s award must be enforced.</text>
+            <text syncTime="111.962" offset="534711">We think the contract is best read to allow punitive damages because the arbitration clause indicates that punitive damages maybe awarded at the discretion on the arbitrator.</text>
+            <text syncTime="123.310" offset="580060">We rule in favor of the petitioners and uphold the award of punitive damages.</text>
+            <text syncTime="128.108" offset="599286">Justice Thomas has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

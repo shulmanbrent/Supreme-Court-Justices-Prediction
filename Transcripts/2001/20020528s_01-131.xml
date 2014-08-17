@@ -1,0 +1,41 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:11:00" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="741158">/xml/cases/2001/01_131/20020528o_01-131.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2001/trs/01-131_20020528-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="163.448">
+        <title>Gisbrecht v. Barnhart</title>
+        <section startTime="0.000" stopTime="163.448">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.688">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87365">The opinion of the court in number 01-131, Gisbrecht against Barnhart will be announced by Justice Ginsburg.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="9.688" stopTime="163.448">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="9.688" offset="126026">This case concerns fees for lawyer who successfully represent in court clients seeking Social Security old age survivors or disability benefits.</text>
+            <text syncTime="21.800" offset="174509">How those fees should be determined is the question that has divided the Court of Appeals.</text>
+            <text syncTime="28.427" offset="201050">Congress has provided that when an applicant for Social Security benefits prevails in court, reasonable counsel fees may be awarded subject to two limitations:  first, fees are payable only out of benefits already past-due awarded to the claimant; and second the fee awards may not exceed 25% of the past-due benefits.</text>
+            <text syncTime="53.512" offset="301360">The petitioners in this case sought Social Security disability benefits.</text>
+            <text syncTime="57.898" offset="318914">They were unsuccessful at the administrative level but they prevailed in court.</text>
+            <text syncTime="63.468" offset="341171">Each had signed a standard form contract agreeing to pay his or her attorney 25% of all past-due benefits recovered.</text>
+            <text syncTime="72.728" offset="378265">Petitioners, more accurately their attorneys, urged that the 25% calculation should control subject to downward adjustment if the resulting fee proves too large judge by the size of the benefit recovered or the quality of the lawyers representation.</text>
+            <text syncTime="90.846" offset="450676">The Social Security Commissioner on the other hand urges counsel fee determination by the lodestar method that is the method now widely used on the statutes that unlike the Social Security Act provision at issue shift the obligation to pay counsel from the prevailing party to the losing party in the litigation.</text>
+            <text syncTime="113.551" offset="541478">Under the lodestar method fees are determined by multiplying the hours the attorney reasonably spent on the case by an hourly rate reasonable for the lawyer’s work.</text>
+            <text syncTime="123.930" offset="583065">The Court of Appeals for the Ninth Circuit whose judgment we review held that the lodestar method governed.</text>
+            <text syncTime="130.628" offset="609814">We reverse that judgment for reasons detailed in the Court’s opinion.</text>
+            <text syncTime="135.712" offset="630189">We conclude that Congress designed the Social Security Act's provision for counsel fees to contain but not to override the agreements between lawyers and Social Security benefits claimant.</text>
+            <text syncTime="148.341" offset="680658">Accordingly, we hold that the attorney-client agreement controls if it yields a fee that does not exceed 25% of past-due benefits and is otherwise reasonable.</text>
+            <text syncTime="160.171" offset="727992">Justice Scalia has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

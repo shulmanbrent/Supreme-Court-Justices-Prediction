@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:10:09" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="767060">/xml/cases/1990/89_1436/19910122o_89-1436.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1436_19910122-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="173.270">
+        <title>United States v. R. Enterprises, Inc.</title>
+        <section startTime="0.000" stopTime="173.270">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="6.253">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73979">The opinions of the Court in two cases will be announced by Justice O’Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="6.253" stopTime="173.270">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="6.253" offset="98952">The first case 89-1436 is United States against R. Enterprises, Inc.</text>
+            <text syncTime="14.664" offset="132598">This case comes to us on writ of certiorari to the United States Court of Appeals for the Fourth Circuit.</text>
+            <text syncTime="21.542" offset="160079">In early 1988, a federal grand jury sitting in the Eastern District of Virginia issued a series of subpoenas to respondents, R. Enterprises, Inc. and MFR Court Street Books, seeking a variety of corporate books and records in connection with an investigation of interstate transportation of obscene materials.</text>
+            <text syncTime="45.341" offset="255269">The respondents moved to quash the subpoenas arguing that they called for their production of materials irrelevant to the grand jury’s investigation, and that enforcement of the subpoenas would likely infringe First Amendment rights.</text>
+            <text syncTime="60.204" offset="314723">The District Court denied the respondents’ motion to quash, but the Court of Appeals reversed holding that the government must show relevancy, admissibility at trial, and specificity in order to enforce a grand jury subpoena.</text>
+            <text syncTime="78.041" offset="386090">That court concluded that the subpoena’s issued here failed to meet a requirement that any documents subpoenaed must be admissible as evidence at trial.</text>
+            <text syncTime="88.419" offset="427572">In the opinion filed today, we reverse and hold that the Court of Appeals applied an improper standard under Rule 17(c) of the Federal Rules of Criminal Procedure or evaluating the grand jury subpoenas issued to the respondents.</text>
+            <text syncTime="105.068" offset="494237">Since the grand jury subpoena is presumed to be reasonable, the burden of showing otherwise is on the recipient seeking to avoid compliance.</text>
+            <text syncTime="114.469" offset="531853">Whereas here, the grand jury subpoena is challenged on relevancy grounds, the motion to quash must be denied unless the District Court determines there is no reasonable possibility that the category of materials the government seeks will produce information relevant to the general subject of the grand jury’s investigation.</text>
+            <text syncTime="136.007" offset="617953">The District Court properly concluded that there was a reasonable possibility that the respondents’ business records would produce information relevant to the grand jury’s investigation and to the interstate transportation of obscene materials.</text>
+            <text syncTime="151.400" offset="679497">The judgment of the Court of Appeals is reversed and the case is remanded for proceedings consistent with this opinion.</text>
+            <text syncTime="159.131" offset="710426">Justice Scalia has joined in all but part 3(b) of the opinion.</text>
+            <text syncTime="164.100" offset="730279">Justice Stevens has filed an opinion concurring in part and concurring in the judgment in which Justices Marshall and Blackmun have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

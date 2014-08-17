@@ -1,0 +1,35 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:02:53" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="474781">/xml/cases/1989/88_42/19891107o_88-42.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1989/trs/88-42_19891107-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="96.914">
+        <title>Hallstrom v. Tillamook County</title>
+        <section startTime="0.000" stopTime="96.914">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.660">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87124">The opinion of the Court in No. 88-42, Hallstrom versus Tillamook County will be announced by Justice O’Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="7.660" stopTime="96.914">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="7.660" offset="117740">This case comes to us on writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="13.704" offset="141877">It requires the Court to determine whether compliance with the notice provision of the Resource Conservation and Recovery Act of 1976 is a mandatory precondition to commencing suit against an alleged violator of the regulations of that Act.</text>
+            <text syncTime="35.097" offset="227454">Section 6972(b) of that Act prohibits the commencement of such an action until 60 days after the parties have notified the appropriate state and federal agencies and the alleged violator of their intention to bring suit.</text>
+            <text syncTime="52.027" offset="295163">In an opinion filed today, we hold that compliance with the notice and 60-day delay requirement mandated by the Act is a mandatory, not an optional, prerequisite to suit under the Act.</text>
+            <text syncTime="66.572" offset="353364">Nothing in the language, structure, or legislative history of the statute permits us to disregard its plain meaning or to allow equitable modification of the statutory requirement.</text>
+            <text syncTime="78.160" offset="399757">Accordingly, if a party fails to comply with the 60-day notice requirement, the District Court must dismiss the action as barred by the terms of the statute.</text>
+            <text syncTime="87.646" offset="437687">The judgment of the Court of Appeals is accordingly affirmed.</text>
+            <text syncTime="91.729" offset="453988">Justice Marshall has filed a dissenting opinion with which Justice Brennan joins.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

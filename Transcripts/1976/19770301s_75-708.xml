@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-30</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="442005">/xml/cases/1976/75_708/19770301o_75-708.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1976/trs/75-708op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="85.342">
+        <title>Marks v. United States</title>
+        <section startTime="0.000" stopTime="85.342" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Lewis F. Powell, Jr.</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="9.991">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="100532">The judgments and opinion of the Court in 75-708, Marks and others against the United States will be announced by Mr. Justice Powell.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="9.991" stopTime="83.436">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="9.991" offset="140447">The petitioners in this case were the operators of a movie theater in Newport Kentucky.</text>
+            <text syncTime="16.774" offset="167614">They were charged with transporting obscene materials in the interstate commerce in violation of a federal statute.</text>
+            <text syncTime="24.358" offset="197916">The alleged violation occurred in early 1973 before our decision in Miller against California.</text>
+            <text syncTime="32.613" offset="230935">In Miller, we announced new standards by which to decide whether allegedly obscene materials are protected by the First Amendment.</text>
+            <text syncTime="42.072" offset="268761">The instructions to the jury in this case were based on Miller rather than prior law.</text>
+            <text syncTime="48.719" offset="295405">Since the conduct had issue occurred before Miller, we think it was error to apply the Miller standards retroactively.</text>
+            <text syncTime="57.691" offset="331245">We would not influence criminal liability if a conduct not punishable under the earlier standards.</text>
+            <text syncTime="64.504" offset="358517">We therefore reverse the convictions and remand the case.</text>
+            <text syncTime="68.001" offset="372519">Mr. Justice Brennan filed an opinion concurring in part and dissenting in part in which Mr. Justice Stewart and Mr. Justice Marshall joined.</text>
+            <text syncTime="76.364" offset="405956">Mr. Justice Stevens also filed an opinion concurring in part and dissenting in part.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="83.436" stopTime="85.342">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="83.436" offset="434272">Thank you Mr. Justice Powell.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

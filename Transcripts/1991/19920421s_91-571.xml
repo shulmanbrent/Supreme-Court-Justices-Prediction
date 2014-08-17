@@ -1,0 +1,43 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:27:49" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="588743">/xml/cases/1991/91_571/19920421o_91-571.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/91-571_19920421-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="124.474">
+        <title>Taylor v. Freeland &amp; Kranz</title>
+        <section startTime="0.000" stopTime="124.474">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="14.660">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90849">The opinion of the Court in No. 91-571, Taylor against Freeland and Kranz will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="14.660" stopTime="124.474">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="14.660" offset="149468">This case comes to us on a writ of certiorari to the United States Court of Appeals for the Third Circuit.</text>
+            <text syncTime="21.924" offset="178516">It started in 1984 when Emily Davis filed a bankruptcy petition.</text>
+            <text syncTime="27.492" offset="200772">At that time, Davis was pursuing a lawsuit against her employer.</text>
+            <text syncTime="32.321" offset="220103">On a schedule filed with the Bankruptcy Court, Davis claimed that the proceeds from this lawsuit would be exempt from distribution to creditors.</text>
+            <text syncTime="41.464" offset="256674">She listed the value of the proceeds as unknown because she did not know whether she would win or lose the lawsuit.</text>
+            <text syncTime="49.475" offset="288648">The bankruptcy trustee did not object.</text>
+            <text syncTime="52.768" offset="301918">Several months later, while the bankruptcy case still was pending, Davis won $110,000 judgment against her employer.</text>
+            <text syncTime="62.969" offset="342669">The trustee asked the Bankruptcy Court to include this money in Davis' bankruptcy estate so that he could distribute it to the creditors.</text>
+            <text syncTime="74.060" offset="387078">The Bankruptcy Court granted the trustee's request, and both the District Court and the Court of Appeals for the Third Circuit affirmed its decision.</text>
+            <text syncTime="83.629" offset="425321">In an opinion filed today with the Clerk's office, we now reverse the Court of Appeals.</text>
+            <text syncTime="89.584" offset="449145">Davis claimed the proceeds from the lawsuit as exempt property.</text>
+            <text syncTime="94.150" offset="467430">The relevant bankruptcy rule gave the trustee only 30 days to object to this claim.</text>
+            <text syncTime="101.535" offset="496896">The trustee missed this deadline.</text>
+            <text syncTime="104.467" offset="508704">Although the trustee argues that Davis had no statutory basis for claiming the property as exempt, we have no authority to create an exception to the 30-day period.</text>
+            <text syncTime="116.227" offset="555724">The proceeds, therefore, are exempt for distribution to creditors.</text>
+            <text syncTime="120.563" offset="573069">Justice Stevens has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

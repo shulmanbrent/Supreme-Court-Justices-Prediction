@@ -1,0 +1,36 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2014-01-16T12:19:54" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="587729">/xml/cases/2002/01_1500/20030304o_01-1500.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2002/trs/01-1500_20030304-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="125.649">
+        <title>Clay v. United States</title>
+        <section startTime="0.000" stopTime="125.649">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.438">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85133">Justice Ginsburg has the opinions of the Court to announce in two cases.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="8.438" stopTime="125.649">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="8.438" offset="118883">The first case is number 01-1500 Clay against United States.</text>
+            <text syncTime="18.185" offset="157858">A motion by a federal prisoner propose conviction release is subject to a one year time limitation that generally runs from the date on which the judgment of conviction becomes final.</text>
+            <text syncTime="31.918" offset="212715">This case concerns the starting date for the one year limitation.</text>
+            <text syncTime="36.296" offset="230269">It presents a narrow but recurring question on which Courts of Appeals have divided.</text>
+            <text syncTime="42.053" offset="253257">When a defendant and a federal prosecution takes an unsuccessful direct appeal from a judgment of conviction but does not next seek this court's review by petitioning for a writ of certiorari on what date does the judgment becomes final for post conviction release purpose, is the critical date, the one in which the appellate court issues its mandate or does finality instead attached on the date ordinarily 69 days later when the time for filing a petition for certiorari expires.</text>
+            <text syncTime="78.809" offset="400274">In accord with this Court’s consistence understanding of finality in the context of collateral review and the weight of lower court authority, we reject the issuance of appellate court mandate as the triggering date.</text>
+            <text syncTime="92.646" offset="455654">The Court of Appeals for the Seventh Circuit considered the mandate date crucial so we reverse the judgment of that Court for the purposes starting the clock on the one year limitation period we hold a judgment of conviction becomes final when the time expires for filing of petition for certiorari contesting the appellate court's affirmation of the conviction.</text>
+            <text syncTime="115.648" offset="547709">Under that holding, the petitioning prisoner’s motion for postconviction relief appears to be timely.</text>
+            <text syncTime="123.374" offset="578534">The decision is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

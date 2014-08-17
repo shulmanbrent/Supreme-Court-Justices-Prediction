@@ -1,0 +1,29 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:08:31" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="161744">/xml/cases/1990/90_18/19910513o_90-18.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/90-18_19910513-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="22.021">
+        <title>Gilmer v. Interstate/Johnson Lane Corporation</title>
+        <section startTime="0" stopTime="22.021">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.196">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73973">The opinion of the Court in No. 90-18 Gilmer versus Interstate Johnson Lane Corporation will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="8.196" stopTime="22.021">
+            <label>Justice Byron R. White</label>
+            <text syncTime="8.196" offset="106678">For the reasons stated in an opinion on file with the clerk, the judgment of the Court of Appeals for the Fourth Circuit is affirmed.</text>
+            <text syncTime="17.031" offset="141996">Justice Stevens has filed a dissenting opinion in which Justice Marshall joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

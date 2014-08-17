@@ -1,0 +1,43 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1994-03-30</transcribed>
+        <edit user="jclow26" date="2012-08-14T16:18:59" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="ruth_bader_ginsburg"/>
+        <identified user="jclow26">2012-08-14</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:41:18" startTime="0.000" oldSpeaker="ruth_bader_ginsburg" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="667880">/xml/cases/1993/92_8841/19940330o_92-8841.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1993/92-8841_19940330-opinion.xml</sourceFile>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="144.222">
+        <title>Powell v. Nevada</title>
+        <section startTime="0.000" stopTime="8.677">
+          <heading>Announcement of Justice Ginsburg</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.677">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90992">The opinion of the Court in No. 92-8841, Powell against Nevada will be announced by Justice Ginsburg.</text>
+          </turn>
+        </section>
+        <section startTime="8.677" stopTime="144.222">
+          <heading>Announcement of Justice Ginsburg</heading>
+          <turn speaker="ruth_bader_ginsburg" startTime="8.677" stopTime="144.222">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="8.677" offset="125683">This case concerns the retroactivity of the Court's 1991 decision in County of Riverside against Mclaughlin.</text>
+            <text syncTime="18.637" offset="165493">When a person is arrested without a warrant, the Fourth Amendment protects him against unreasonable seizures post for a prompt judicial determination whether probable cause exists for continuing the person in detention.</text>
+            <text syncTime="35.627" offset="233412">As a rule, Mclaughlin held prompt means within 48 hours.</text>
+            <text syncTime="42.163" offset="259639">The petitioner in this case, Kitrich Powell, charged in late 1989 with the murder of his girlfriend's four-year-old daughter, was detained by Nevada police for four days before a magistrate confirmed the existence of probable cause to jail him pending prosecution.</text>
+            <text syncTime="65.167" offset="351590">The Nevada Supreme Court in 1992 held that the 48-hour rule prescribed in Mclaughlin was inapplicable in Powell's case because our 1991 decision issued many months after Powell's 1989 arrest.</text>
+            <text syncTime="83.409" offset="424628">In so ruling, the Nevada Supreme Court overlooked Grifitth v. Kentucky, a 1987 decision, in which we declared a rule for the conduct of criminal prosecutions is to be applied retroactively to all cases, state or federal, not yet final when the rule is announced.</text>
+            <text syncTime="106.851" offset="518355">We, therefore, vacate the Nevada Supreme Court's judgment.</text>
+            <text syncTime="110.641" offset="533506">Our decision does not mean Powell will succeed in overturning his conviction where several questions remain open on remand.</text>
+            <text syncTime="120.323" offset="572272">Most prominently, the Nevada Supreme Court has yet to consider closely the appropriate remedy for a delay in determining probable cause for detention pending prosecution.</text>
+            <text syncTime="133.219" offset="623785">That issue is one this Court did not address in Mclaughlin.</text>
+            <text syncTime="138.543" offset="645101">Justice Thomas joined by the Chief Justice has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

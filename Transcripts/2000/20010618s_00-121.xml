@@ -1,0 +1,43 @@
+<transcript>
+      <history>
+        <identified user="rkrog">2014-04-21</identified>
+      </history>
+      <resources>
+        <audioFile size="1050025">/xml/cases/2000/00_121/20010618o_00-121.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2000/trs/00-121_20010618-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="240.431">
+        <title>Duncan v. Walker</title>
+        <section startTime="0" stopTime="240.431">
+          <heading>Opinion Announcement of Sandra Day O'Connor</heading>
+          <turn speaker="unknown_speaker" startTime="0.000" stopTime="8.406">
+            <label>Unknown Speaker</label>
+            <text syncTime="0.000">The opinion of the Court in No. 00-121, Duncan versus Walker will be announced by Justice O’Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="8.406" stopTime="240.431">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="8.406">This case comes to us on writ of certiorari to the United States Court of Appeals for the Second Circuit.</text>
+            <text syncTime="14.532">Title 28 U.S. Code Section 2244(d)(2) is a tolling provision for a federal statute of limitations for federal habeas petitions.</text>
+            <text syncTime="25.891">It provides that the time during which a properly filed application for State post-conviction or other collateral review with respect to the pertinent judgment or claim is pending shall not be counted toward any period of limitation under the Section.</text>
+            <text syncTime="45.124">And this case presents the question, whether a federal habeas corpus petition is an application for State postconviction or other collateral review within the meaning of this statute?</text>
+            <text syncTime="59.142">The respondent Walker was convicted of robbery in New York State Court.</text>
+            <text syncTime="63.893">His conviction became final before the April 24, 1996 effective date of the Antiterrorism and Effective Death Penalty Act, which we use the acronym AEDPA to describe.</text>
+            <text syncTime="79.141">Respondent filed a federal habeas petition under Section 2254.</text>
+            <text syncTime="85.250">The District Court dismissed the petition without prejudice because it was not apparent that respondent had exhausted his available state remedies.</text>
+            <text syncTime="94.434">Without returning to State Court and more than one year after AEDPA’s effective date and the statute of limitations period, the respondent filed another federal habeas petition in the same District Court.</text>
+            <text syncTime="107.991">This time the District Court dismissed the petition as time barred because respondent had not filed a petition within a reasonable time of AEDPA’s effective date.</text>
+            <text syncTime="118.911">The Second Circuit Court of Appeals reversed holding that his second petition was timely because his first federal habeas petition had tolled the one year statute of limitations period.</text>
+            <text syncTime="132.991">The Second Circuit based its decision on its interpretation of the phrase, “other collateral review” which it thought included federal habeas petitions, and there is a conflict of authority among the Courts of Appeals on this question.</text>
+            <text syncTime="150.733">So, we granted certiorari and in the opinion filed today we reverse the judgment of Second Circuit.</text>
+            <text syncTime="157.669">Our only job in the case is one of statutory construction and under the correct reading of the statute we hold that the word “state” applies to the entire phrase postconviction or other collateral review.</text>
+            <text syncTime="172.719">In other portions of the same AEDPA statute and laws Congress specifically use both the word “state” and “federal” to denote state and federal proceedings.</text>
+            <text syncTime="184.388">In Section 2254(d)(2) by contrast the word “state” is employed but not the word “federal” as a modifier for the phrase.</text>
+            <text syncTime="197.579">We presume that Congress acted intentionally by excluding the word ‘federal’ in this provision, and to read the statute to include petitions for federal review would render the word “state” in significant if not total surplusage.</text>
+            <text syncTime="215.917">We hold then that the Section did not toll the limitation period during the pendency of his first federal habeas petition.</text>
+            <text syncTime="223.956">Justice Souter has filed a concurring opinion; Justice Stevens has filed an opinion concurring in part and concurring in the judgment which Justice Souter has joined, and Justice Breyer has filed a dissenting opinion which Justice Ginsburg has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

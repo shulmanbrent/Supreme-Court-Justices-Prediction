@@ -1,0 +1,78 @@
+<transcript verified="true">
+      <history>
+        <edit user="jeffpar" date="2014-01-20T18:48:04" startTime="0.000" oldSpeaker="elena_kagan" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="2125053">/xml/cases/2012/11_9540/20130620o_11-9540.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/11-9540_20130620-opinion.trs</sourceFile>
+        <speaker id="elena_kagan" type="justice" gender="male" path="/justices/elena_kagan" image="/justices/elena_kagan/thumbnail.jpg">Elena Kagan</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="504.576">
+        <title>Descamps v. United States</title>
+        <section startTime="0" stopTime="504.576">
+          <heading>Opinion Announcement of Elena Kagan</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="8.057">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="106496">Justice Kagan has our opinion this morning in case 11-9540, Descamps versus United States.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="8.057" stopTime="504.576">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="8.057" offset="138679">This is a case about a federal statute called ACCA, the Armed Career Criminal Act, possibly not what you're here for this morning.</text>
+            <text syncTime="20.439" offset="188207">ACCA, we've had many disagreements about ACCA over the years, I think one thing we would all agree on is that ACCA is not a very well written statute.</text>
+            <text syncTime="31.933" offset="234183">And because it's not very well written, it's hard to apply and because it's hard to apply, it takes up a lot more of our time than we would like.</text>
+            <text syncTime="40.826" offset="269709">So, what is ACCA?</text>
+            <text syncTime="42.204" offset="275247">ACCA is a sentence enhancer. Certain people who are convicted of being a felon with a firearm that usually has a 10-year maximum sentence, but that sentence can get enhanced if the person has committed three violent felonies.</text>
+            <text syncTime="59.830" offset="345778">And it can get enhanced by quite a bit so that the sentence ends up, in this case, more than double what it otherwise would be.</text>
+            <text syncTime="67.716" offset="377334">The question that ACCA often presents is how we figure out whether a prior felony is one of the three prior felonies that you can count under ACCA.</text>
+            <text syncTime="79.459" offset="424249">What the statute does is it lists a number of crimes.</text>
+            <text syncTime="82.944" offset="438251">It lists burglary and arson and extortion.</text>
+            <text syncTime="86.360" offset="451835">Who knows why those three and then it has something called a “residual clause”, sort of a kitchen sink clause, which gives us a lot of difficulties too, but this case is about one of the listed crimes.</text>
+            <text syncTime="99.053" offset="502617">It's about burglary and what you might think is, “Well, that's pretty easy.</text>
+            <text syncTime="103.464" offset="520276">All you have to do was look to see whether a person has been convicted of burglary and that gets counted as one of the three,” what are called “predicate offenses,” but in fact, it's not that easy for reasons that this case demonstrates.</text>
+            <text syncTime="117.601" offset="576805">That is because different states define burglary very differently.</text>
+            <text syncTime="122.655" offset="597076">So in some states, it's like the classic breaking and entering, and that we think is exactly the kind of violent felony that Congress meant to count as one of these three predicate offenses.</text>
+            <text syncTime="135.759" offset="649529">But in some cases, in some states, burglary covers a much wider range of conduct.</text>
+            <text syncTime="142.232" offset="675338">It also covers shoplifting.</text>
+            <text syncTime="144.515" offset="684534">And we think actually that that's not the kind of thing that Congress meant to count to so greatly enhance peoples' sentences and that's what's true in this case.</text>
+            <text syncTime="156.066" offset="730718">The California burglary statute, which this case is about, defines burglary very widely to include not just breaking and entering but also to include shoplifting.</text>
+            <text syncTime="167.397" offset="776067">And the question that we've encountered is what to do with the statute like that.</text>
+            <text syncTime="172.335" offset="795815">There are two approaches that you can follow: The first approach is called the “factual approach”.</text>
+            <text syncTime="178.972" offset="822356">Let's call it.</text>
+            <text syncTime="180.427" offset="828103">And that would involve looking to what the person actually did to try to figure out whether the person, in fact, did something that looks like breaking and entering or did something that looks like shoplifting.</text>
+            <text syncTime="193.705" offset="881288">But we've explained in many opinions that there are real problems with that approach.</text>
+            <text syncTime="198.461" offset="900305">And the problems are, we don't think Congress meant for us to take that approach.</text>
+            <text syncTime="203.136" offset="919009">We've looked at the text of the ACCA statute and it seems as though that's not what Congress had in mind.</text>
+            <text syncTime="209.420" offset="944086">We've said that there are real constitutional problems with that approach as well because it would involve judges making determinations about what a defendant actually did, but in our system, properly belong to juries.</text>
+            <text syncTime="222.073" offset="994764">So we said that that's another problem with it and we've said also that there are real practical problems with it because it's hard to figure out what somebody actually did sometimes many, many, years ago, many decades ago even, it's inefficient and it may very well be unfair.</text>
+            <text syncTime="239.799" offset="1065608">So, instead of adopting that approach, we've adopted something called the “categorical approach” and what we do is we figure out something that we called the “generic crime of burglary”.</text>
+            <text syncTime="249.774" offset="1105523">We say, “What's mostly what burglary is?”</text>
+            <text syncTime="253.937" offset="1122241">And mostly, what burglary is and what we think Congress had in mind is breaking and entering.</text>
+            <text syncTime="259.843" offset="1145856">And then we compare the elements of that crime, the generic offence to the elements of the crime that the person was convicted of.</text>
+            <text syncTime="267.883" offset="1177934">So because -- if the person was convicted of a crime that's much broader than the generic offense, we've said that that conviction cannot count under ACCA because we don't really know.</text>
+            <text syncTime="281.078" offset="1230806">The person might have been -- in fact actually committed breaking and entering or the person might have committed just shoplifting, and we don't to use the factual approach for all the reasons that I've said.</text>
+            <text syncTime="294.904" offset="1286081">So, we basically just say that the conviction doesn't count under ACCA.</text>
+            <text syncTime="299.092" offset="1302800">And that means that there are some criminals who get a break, but we've decided that that's the better approach to take than the alternative.</text>
+            <text syncTime="308.844" offset="1341774">Now, what I've said basically resolves this case because here, the defendant is named Michael Descamps and he was convicted for burglary under California law and the question is, “Can that conviction count as an ACCA predicate offense?”</text>
+            <text syncTime="325.124" offset="1406976">And we – and -- the categorical approach would say, “No.</text>
+            <text syncTime="329.075" offset="1422754">It can't count because in California law, burglary includes all these non-violent things and so, it can't count, case closed.”</text>
+            <text syncTime="339.694" offset="1465177">Now, what the courts below did was that they said that the case was not closed.</text>
+            <text syncTime="344.865" offset="1485866">They said that they could look beyond the elements of the crime that Mr. Descamps was convicted of, as long as it only considered certain generally reliable documents: Indictments, jury trial, jury charges, plea agreements, and plea colloquies to see what Mr. Descamps really did, to see whether he in fact broke and entered or just shoplifted.</text>
+            <text syncTime="368.749" offset="1581474">And looking to those documents is something that we, in fact, have approved in very limited situations and those limited situations are when the statute itself is something called “divisible,” when it lists alternative crimes, you know crime X or crime Y or crime Z, and you're trying to figure out which crime the defendant was convicted of so that you can then compare that crime to the elements of the generic offense.</text>
+            <text syncTime="396.873" offset="1693905">I mean life is so much fun here under ACCA.</text>
+            <text syncTime="401.439" offset="1712191">And so, we've allowed courts to do this in that limited context where the statute lists crimes divisibly and we're just trying to figure out which crime the defendant was actually convicted of.</text>
+            <text syncTime="417.310" offset="1775720">But in this opinion, what we say is that that's the only context in which one can use that approach.</text>
+            <text syncTime="423.124" offset="1798917">It's called the “modified categorical approach”.</text>
+            <text syncTime="425.959" offset="1810307">We say that that's the only context when a statute is divisible, but one can use a modified categorical approach.</text>
+            <text syncTime="433.236" offset="1839355">Otherwise, our standard categorical approach is what should work.</text>
+            <text syncTime="439.019" offset="1862552">And here because this statute did not list crimes divisibly, instead the statute had only a single set of elements that defined the relevant crime much more broadly than the generic offense, this statute flunks the categorical approach and so the conviction cannot be use as an act of predicate offense.</text>
+            <text syncTime="461.836" offset="1953771">We, basically, for reasons that are laid out in the opinion, show that the approach of the courts below, looking beyond the elements to try to figure out what the defendant actually did, would really just implode the categorical approach, and for all the reasons that we've given, the categorical approach, although it sometimes leads to very peculiar results, is kind of the best way we can think of to make this statute work.</text>
+            <text syncTime="492.053" offset="2074666">So, the decision below is reversed.</text>
+            <text syncTime="494.424" offset="2084174">Justice Kennedy has filed a concurring opinion and Justice Thomas has filed an opinion concurring in the judgment.</text>
+            <text syncTime="501.443" offset="2112178">Justice Alito has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

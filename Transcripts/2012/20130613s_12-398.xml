@@ -1,0 +1,61 @@
+<transcript verified="true">
+      <history>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="1616063">/xml/cases/2012/12_398/20130613o_12-398.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/12-398_20130613-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="377.064">
+        <title>Association for Molecular Pathology v. Myriad Genetics</title>
+        <section startTime="0" stopTime="377.064">
+          <heading>Opinion Announcement of Clarence Thomas</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.452">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="107520">Justice Thomas has our opinion this morning in case 12 -398, the Association for Molecular Pathology versus Myriad Genetics.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="9.452" stopTime="377.064">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="9.452" offset="145241">This case comes to us on a writ of certiorari to United States Court of Appeals for the Federal Circuit.</text>
+            <text syncTime="16.184" offset="172199">Each human gene is encoded with DNA, or as DNA which takes the shape of a double helix.</text>
+            <text syncTime="24.091" offset="203860">DNA is used to create strings of Amino acids that build proteins in the body.</text>
+            <text syncTime="30.586" offset="229773">Scientists can extract DNA from cells and isolate specific segments.</text>
+            <text syncTime="36.962" offset="255269">They can also synthetically creates strands of DNA containing only the portions of DNA that are actually used to create strings of amino acids.</text>
+            <text syncTime="47.830" offset="298736">These synthetic DNA molecules are known as complimentary DNA or cDNA.</text>
+            <text syncTime="56.842" offset="334785">The question in this case is whether DNA and cDNA are eligible for patent protection.</text>
+            <text syncTime="67.815" offset="378776">Respondent Myriad Genetics, found the precise sequence and location of the human genome of two genes or on the human genome of two genes called BRCA1 and BRCA2.</text>
+            <text syncTime="82.170" offset="436140">Mutations in these genes are dramatic or can dramatically increase the risk of breast and ovarian cancers developing.</text>
+            <text syncTime="92.342" offset="476787">This knowledge enabled Myriad to develop medical test useful for detecting mutations in those genes and is thereby assessing a patient's risk of developing cancer.</text>
+            <text syncTime="107.341" offset="536869">Once it found these genes Myriad sought and obtained several patents.</text>
+            <text syncTime="113.257" offset="560483">These patents gave Myriad the exclusive right to isolate an individual's BRCA1 and BRCA2 genes and the exclusive right to synthetically create cDNA based on these genes.</text>
+            <text syncTime="128.441" offset="621192">Petitioners filed a lawsuit seeking a declaration that Myriad's patents are invalid.</text>
+            <text syncTime="136.169" offset="652121">The District Court agreed and invalidated Myriad's patents, but the Federal Circuit reversed, finding both isolated DNA and cDNA patent eligible.</text>
+            <text syncTime="147.475" offset="697365">In an opinion filed with the clerk today we affirm in part and reverse in part.</text>
+            <text syncTime="153.121" offset="719935">Section 101 of the Patent Act states “That who ever invents or discovers any new and useful composition of matter may obtain a patent” subject to other requirement is not an issue here.</text>
+            <text syncTime="169.419" offset="785136">In interpreting this language we have long held that so called “Products of nature are not patentable because something that already exists in nature is a not a new invention.</text>
+            <text syncTime="183.373" offset="840934">But we have also recognized that the rule against patents on naturally occurring things does have limits, because at some level everything comes from nature.</text>
+            <text syncTime="196.152" offset="892029">Patent protection strikes a delicate balance between creating incentives that lead to creation, invention and discovery on the one hand and impeding flow of information that might permit and spur invention on the other.</text>
+            <text syncTime="212.521" offset="957544">Applying these principles we must determine whether Myriad's patents claim a new and useful composition of matter or instead claim naturally occurring phenomena.</text>
+            <text syncTime="225.653" offset="1010103">Myriad's DNA claim falls within the products of nature exception and are not eligible for patent protection.</text>
+            <text syncTime="233.260" offset="1040509">Myriad's principal contribution was uncovering the precise location and sequence of BRCA1 and BRCA2 genes.</text>
+            <text syncTime="244.720" offset="1086380">Myriad did not create or altered the genetic information encoded in the two genes or the genetic structure of the DNA itself.</text>
+            <text syncTime="254.315" offset="1124728">It identified important and useful genes but this discovery, ground breaking as it was, does not by itself satisfy the Section 101 inquiry.</text>
+            <text syncTime="267.467" offset="1177287">We, therefore, conclude that nearly finding the location of the BRCA 1 and BRCA2 genes does not render the genes patent eligible, new compositions of matter under Section 101.</text>
+            <text syncTime="283.814" offset="1242697">Myriad's claims are not saved by the fact that isolating DNA from the human genome severs the chemical bonds that bind gene molecules together.</text>
+            <text syncTime="295.085" offset="1287837">The claims are not expressed in terms of chemical composition nor do they rely on the chemical changes resulting from the isolation of a particular DNA section.</text>
+            <text syncTime="307.745" offset="1338410">Consequently Myriad's patent on BRCA gene -- on the BRCA gene, are invalid.</text>
+            <text syncTime="316.494" offset="1373414">We reach different conclusion how ever with respect to cDNA.</text>
+            <text syncTime="320.536" offset="1389610">In our view, cDNA is not a product of nature and is therefore patent eligible under Section 101.</text>
+            <text syncTime="328.346" offset="1420852">In order to create cDNA, portions of natural DNA must be eliminated from the naturally occurring gene.</text>
+            <text syncTime="336.538" offset="1453662">The result is a molecule that contains only the portions of the DNA sequence that create proteins.</text>
+            <text syncTime="344.717" offset="1486367">Because cDNA is not naturally occurring but is instead the product of human ingenuity, we conclude that cDNA is distinguishable from not patentable products of nature.</text>
+            <text syncTime="358.575" offset="1541747">For these reasons and others set forth in our opinion, we affirm the judgment of the Federal Circuit in part and reverse in part.</text>
+            <text syncTime="368.671" offset="1582184">The opinion of the Court is unanimous.</text>
+            <text syncTime="371.256" offset="1592529">Justice Scalia has filed an opinion concurring in part and concurring in the judgment.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

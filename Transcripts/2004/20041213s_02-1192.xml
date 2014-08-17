@@ -1,0 +1,55 @@
+<transcript verified="true">
+      <history>
+        <transcribed>2004-12-13</transcribed>
+        <edit user="dleib" date="2012-08-12T16:25:57" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="clarence_thomas"/>
+        <identified user="dleib">2012-08-12</identified>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2013-12-12T12:04:18" startTime="0.000" oldSpeaker="clarence_thomas" newSpeaker="antonin_scalia"/>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1400399">/xml/cases/2004/02_1192/20041213o_02-1192.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/2004/02-1192_20041213-opinion.xml</sourceFile>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="311.987">
+        <title>Cooper Industries, Inc. v. Aviall Services, Inc.</title>
+        <section startTime="0.000" stopTime="311.987" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice Clarence Thomas</heading>
+          <turn speaker="antonin_scalia" startTime="0.000" stopTime="11.511">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in case No. 02-1192, Cooper Industries versus Aviall Services will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="11.511" stopTime="311.987">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="11.511" offset="45976">This case comes to us on writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="17.753" offset="70949">Petitioner owned four aircraft engine maintenance facilities in Texas until 1981 when it sold them to respondent.</text>
+            <text syncTime="26.127" offset="104490">Respondent operated the sites for several years and then discovered that both it and petitioner had contaminated them with hazardous substances.</text>
+            <text syncTime="38.140" offset="152555">Respondent notified the Texas Environmental Authorities of the contamination.</text>
+            <text syncTime="43.207" offset="172826">The state directed respondent by letter to clean up the sites, but neither the State nor the Federal Government took judicial or administrative measures to compel the clean up.</text>
+            <text syncTime="54.992" offset="219951">Ultimately, respondent cleaned up the properties under the State's supervision incurring significant cost.</text>
+            <text syncTime="62.669" offset="250671">Respondent filed this action against petitioner under the Comprehensive Environmental Response Compensation and Liability Act, commonly referred to as CERCLA, seeking to recoup its costs.</text>
+            <text syncTime="78.519" offset="313992">In particular, respondent asserted a claim under CERCLA's contribution provision, Section 113(f)(1).</text>
+            <text syncTime="87.941" offset="351713">The District Court granted summary judgment in favor of petitioner holding that respondent could not sue under Section 113(f)(1) because it had not been subject to a civil action under CERCLA's Section 106 or 107.</text>
+            <text syncTime="105.910" offset="423602">A divided panel of the Fifth Circuit affirmed.</text>
+            <text syncTime="109.229" offset="436872">On rehearing en banc, however, the Court of Appeals reversed by a divided vote holding that a voluntary remediator such as respondent could seek contribution under Section 113(f)(1), even though it had not been subject to a Section 106 or 107 civil action.</text>
+            <text syncTime="132.909" offset="531540">In an opinion filed with the Clerk today, we reverse the judgment of the Court of Appeals and remand the case for further proceedings.</text>
+            <text syncTime="141.789" offset="567066">The first sentence of Section 113(f)(1) provides as relevant "any person may seek contribution during or following any civil action under Section 106 or under Section 107(a) of CERCLA."</text>
+            <text syncTime="163.016" offset="652016">The natural meaning of "may" in this sentence is that it authorizes certain contribution actions that satisfy the specified condition during or following a civil action and no others.</text>
+            <text syncTime="178.598" offset="714292">Reading the sentence to authorize contribution actions at any time regardless of the existence of a civil action would render the during or following-condition entirely superfluous.</text>
+            <text syncTime="193.219" offset="772807">The last sentence of Section 113(f)(1) which provides "nothing in this subsection shall diminish the right of any person to bring an action for contribution in the absence of a civil action under Section 106 or 107 does not change our conclusion."</text>
+            <text syncTime="215.784" offset="863086">That sentence does not itself establish a cause of action, nor does it expand Section 113(f)(1) to authorize contribution actions not brought during or following a civil action, nor does it specify what causes of action for a contribution, if any, exist outside Section 113(f)(1).</text>
+            <text syncTime="242.284" offset="969038">In short, Section 113(f)(1) does not support respondent's suit.</text>
+            <text syncTime="248.804" offset="995161">Respondent contends that it may also recover cost under Section 107(a)(4)(B).</text>
+            <text syncTime="256.524" offset="1026090">We decline to address the issue.</text>
+            <text syncTime="258.667" offset="1034658">First, there is a question whether respondent waived its Section 107 claim below.</text>
+            <text syncTime="266.053" offset="1064124">Second, the merits of the Section 107 claim, if not waived, were not decided below or briefed in this Court.</text>
+            <text syncTime="274.423" offset="1097665">They deserve full consideration in their own right.</text>
+            <text syncTime="277.907" offset="1111562">We also decline to decide whether respondent has an implied right to contribution under Section 107 distinct from a right to cost recovery.</text>
+            <text syncTime="288.537" offset="1154090">Justice Ginsburg has filed a dissenting opinion in which Justice Stevens joins.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

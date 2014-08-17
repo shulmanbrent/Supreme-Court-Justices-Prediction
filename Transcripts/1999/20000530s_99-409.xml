@@ -1,0 +1,46 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:59:31" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="917474">/xml/cases/1999/99_409/20000530o_99-409.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1999/trs/99-409_20000530-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="208.327">
+        <title>Hartford Underwriters Ins. Company v. Union Planters Bank, N.A.</title>
+        <section startTime="0.000" stopTime="208.327">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.779">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="84168">The opinion of the Court in No. 99-409, Hartford Underwriters Insurance Co. versus Union Planters Bank will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="9.779" stopTime="208.327">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="9.779" offset="123247">It’s your lucky day, this is not a bankruptcy case.</text>
+            <text syncTime="15.713" offset="146966">It comes to us on certiorari to the United States Court of Appeals for the Eighth Circuit.</text>
+            <text syncTime="20.973" offset="167969">It arises out of the bankruptcy proceedings of a company called Hen House Interstate.</text>
+            <text syncTime="26.704" offset="190957">During its attempted reorganization pursuant to Chapter 11 of the Bankruptcy Code, Hen House obtained Workers’ Compensation Insurance from petitioner Hartford Underwriters.</text>
+            <text syncTime="38.058" offset="236305">Although Hen House repeatedly failed to make the monthly premium payments required by the policy, Hartford continued to provide the insurance.</text>
+            <text syncTime="47.042" offset="272250">The reorganization ultimately failed and the court converted the case to a Chapter 7 liquidation proceeding and appointed a Trustee.</text>
+            <text syncTime="56.657" offset="310702">Learning of the bankruptcy proceedings after the conversion and recognizing that the estate lacked encumbered funds to pay the premiums, Hartford attempted to charge the past two premiums to respondent Union Planter Bank’s security interest pursuant to 11 U.S.C. Section 506(c).</text>
+            <text syncTime="78.240" offset="397115">The Bankruptcy Court ruled for Hartford and the District Court affirmed, but the en banc Eighth Circuit reversed, concluding that Section 506(c) could not be invoked by an administrative claimant such as Hartford.</text>
+            <text syncTime="93.149" offset="456674">We affirm.</text>
+            <text syncTime="94.856" offset="463570">As an administrative claimant, Hartford is not a proper party to seek recovery under Section 506(c) which provides, “the Trustee may recover from property securing an allowed secured claim, the costs and expenses of preserving or disposing of such property.”</text>
+            <text syncTime="112.661" offset="534728">The statute appears quite plain in specifying who may use Section 506(c), namely the Trustee.</text>
+            <text syncTime="120.130" offset="564612">Although the statutory text does not explicitly state the persons other than the Trustee may not seek recovery under 506(c), several contextual features support that conclusion.</text>
+            <text syncTime="130.997" offset="608080">First, a situation in which a statute authorizes specific action and designates a particular party in power to take that action is surely among the least appropriate in which to presume non-exclusivity.</text>
+            <text syncTime="145.127" offset="664609">Second, the fact that the sole party named, the Trustee, has a unique role in bankruptcy proceedings, makes it entirely plausible that Congress would provide a power to him and not to others.</text>
+            <text syncTime="156.464" offset="709957">Further, had Congress intended the provision to be broadly available, it could simply have said so as it has done in describing the parties who can act under other Sections of the Code.</text>
+            <text syncTime="167.505" offset="754157">Hartford’s argument that Section 506(c) is not exclusive because it does not use the word ‘only’, or rather expressly restrictive language is therefore unpersuasive.</text>
+            <text syncTime="179.677" offset="802849">Hartford argues that pre-Code practice supports its reading, but it is questionable whether the pre-Code precedents establish a bankruptcy practice sufficiently widespread and well-recognized to justify the conclusion of implicit adoption by Congress.</text>
+            <text syncTime="195.047" offset="864289">In any event, whereas here, the meaning of the Code’s text is itself clear, its operation prevails over contrary prior practice.</text>
+            <text syncTime="204.968" offset="903995">The Court’s opinion is again unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

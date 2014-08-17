@@ -1,0 +1,22 @@
+<transcript verified="true">
+      <history>
+        <edit user="jgoldman" date="2013-09-02T21:29:22" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="128824">/xml/cases/2005/04_373/20051114o_04-373.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-373_20051114-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="10.187">
+        <title>Maryland v. Blake</title>
+        <section startTime="0" stopTime="10.187">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="10.187">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="88177">In No. 04-373, Maryland versus Blake, the writ of certiorari is dismissed as improvidently granted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

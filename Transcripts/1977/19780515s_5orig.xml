@@ -1,0 +1,29 @@
+<transcript>
+      <history/>
+      <resources>
+        <audioFile size="332853">/xml/cases/1977/5orig/19780515o_5orig.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1977/trs/5origop.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="63.183">
+        <title>United States v. California</title>
+        <section startTime="0" stopTime="63.183">
+          <heading>Opinion Announcement of Warren E. Burger</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="11.811">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="79988">The judgment and opinion of the Court in 5 original, the United States against California will be announced by Mr. Justice Stewart.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="11.811" stopTime="60.903">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="11.811" offset="127217">The question in this case arising under our original jurisdiction is whether California or the United States has dominion over the submerged lands and waters within the Channel Islands National Monument which is situated within the three mile marginal sea of the coast of southern California.</text>
+            <text syncTime="36.278" offset="225020">For the reasons set out in detail and the written opinion of the Court filed with the clerk this morning, we hold that dominion lies with California and not the United States.</text>
+            <text syncTime="49.104" offset="276324">Mr. Justice White has filed a dissenting opinion in which he has been joined by the Chief Justice and Mr. Justice Blackmun, and Mr. Justice Marshall took no part in the consideration or decision of the case.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="60.903" stopTime="63.183">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="60.903" offset="323554">Thank you, Mr. Justice Stewart.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

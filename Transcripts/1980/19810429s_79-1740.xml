@@ -1,0 +1,31 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="488496">/xml/cases/1980/79_1740/19810429o_79-1740.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1980/trs/79-1740op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="99.075">
+        <title>Ball v. James</title>
+        <section startTime="0" stopTime="99.075">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="15.461">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92062">The judgment and opinion of the Court in 79-1740, Ball against James, and in 80-317, University of Texas against Camenisch will each be announced by Justice Stewart.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="15.461" stopTime="99.075">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="15.461" offset="153815">The first of these cases, No. 79-174, Ball against James is here on appeal from the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="25.760" offset="195089">This case concerns the constitutionality of the system for electing the directors of a large water reclamation district in Arizona, an electoral system which limits voting eligibility to landowners and apportions voting power according to the amount of land a voter owns.</text>
+            <text syncTime="49.051" offset="288189">The case requires us to consider whether the peculiarly narrow function of this local governmental body and the special relationship of one class of citizens to that body releases it from the strict demands of the one-person, one-vote principle of the Equal Protection Clause of the Fourteenth Amendment.</text>
+            <text syncTime="69.113" offset="368438">For the reason stated in the opinion of the Court filed today, we hold in disagreement with the Court of Appeals that this system for electing directors does not violate the constitution.</text>
+            <text syncTime="83.570" offset="426325">Justice Powell while joining the opinion of the Court has filed a concurring opinion.</text>
+            <text syncTime="91.843" offset="459344">Justice White has filed a dissenting opinion which Justice Brennan, Justice Marshall, and Justice Blackmun have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

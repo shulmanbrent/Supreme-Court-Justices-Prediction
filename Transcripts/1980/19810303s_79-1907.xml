@@ -1,0 +1,37 @@
+<transcript>
+      <history>
+        <identified user="jgoldman">2014-02-24</identified>
+      </history>
+      <resources>
+        <audioFile size="457911">/xml/cases/1980/79_1907/19810303o_79-1907.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1980/trs/79-1907op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="91.403">
+        <title>Commissioner of Internal Revenue v. Portland Cement Company of Utah</title>
+        <section startTime="0" stopTime="91.403">
+          <heading>Opinion Announcement of Warren E. Burger</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.698">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92092">The judgment and opinion of the Court in Commissioner of Internal Revenue against Portland Cement will be announced by Mr. Justice Powell.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="8.698" stopTime="88.612">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="8.698" offset="126783">This is a case involving a rather technical question of federal taxation.</text>
+            <text syncTime="13.979" offset="147994">It comes to us on certiorari from the Court of Appeals for the Tenth Circuit.</text>
+            <text syncTime="19.696" offset="170773">Respondent is an integrated miner and manufacturer of cement with a mining plants in Utah.</text>
+            <text syncTime="28.072" offset="204314">The question presented involves the applicability of an equation.</text>
+            <text syncTime="33.626" offset="226570">One used to determine the proper depletion, deduction allowable under the Internal Revenue Code.</text>
+            <text syncTime="42.140" offset="260634">We were asked to decide which of respondent's products in the combined mining, manufacturing operations was the first marketable product for purposes of the equation.</text>
+            <text syncTime="57.508" offset="322074">There is a flat conflict among the circuits on this question.</text>
+            <text syncTime="62.795" offset="343181">As an oral summary of our opinion in this tax case would highly be enlightening.</text>
+            <text syncTime="69.115" offset="368468">I will simply say that for the reasons stated at some length in the opinion filed this morning, we agree anonymously with the Commission of Internal Revenue and reverse the judgment of the Court of Appeals.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="88.612" stopTime="91.403">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="88.612" offset="446521">Thank you, Mr. Justice Powell.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

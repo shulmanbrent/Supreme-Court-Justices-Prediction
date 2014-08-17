@@ -1,0 +1,30 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:31:53" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="265903">/xml/cases/1991/91_471/19920601o_91-471.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1991/trs/91-471_19920601-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="43.755">
+        <title>Chemical Waste Management, Inc. v. Hunt</title>
+        <section startTime="0.000" stopTime="43.755">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.059">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="90883">The opinion of the Court in No. 91-471, Chemical Waste Management versus Hunt will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="9.059" stopTime="43.755">
+            <label>Justice Byron R. White</label>
+            <text syncTime="9.059" offset="127036">For reasons very similar to those given by Justice Stevens in the Michigan trash case that was just announced, we hold that the Alabama statute at issue in this case which deals with hazardous waste is also an unconstitutional discrimination against interstate commerce.</text>
+            <text syncTime="33.614" offset="225257">Hence, we reverse the judgment of the Alabama Supreme Court and remand the case for further proceedings.</text>
+            <text syncTime="40.657" offset="253469">The Chief Justice has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

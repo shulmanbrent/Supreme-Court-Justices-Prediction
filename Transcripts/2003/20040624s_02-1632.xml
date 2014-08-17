@@ -1,0 +1,100 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2013-12-12T11:53:39" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="3132094">/xml/cases/2003/02_1632/20040624o_02-1632.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2003/trs/02-1632_20040624-opinion.trs</sourceFile>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="738.760">
+        <title>Blakely v. Washington</title>
+        <section startTime="0.000" stopTime="345.442" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice Antonin Scalia</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="6.427">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinions of the Court in two cases will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="6.427" stopTime="345.442">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="6.427" offset="25704">The first case is No. 02-1632, Blakely versus Washington.</text>
+            <text syncTime="14.142" offset="56529">This case comes to us on writ of certiorari to the Washington State Court of Appeals.</text>
+            <text syncTime="20.392" offset="81502">The petitioner Ralph Howard Blakely, Jr., kidnapped his estranged wife and her son from their orchard home in Grant County, Washington.</text>
+            <text syncTime="31.149" offset="124552">He drove her to a friend’s home in Montana where he was finally arrested the next day after the friend called the police.</text>
+            <text syncTime="38.869" offset="155376">The State of Washington brought criminal charges against him and he agreed to plead guilty to the reduced charge of second degree kidnapping with a firearm.</text>
+            <text syncTime="49.150" offset="196545">Washington’s Sentencing Reform Act specifies a "standard range", that is a statutory term, of 49 to 53 months imprisonment for that offense of second degree kidnapping with a firearm.</text>
+            <text syncTime="66.995" offset="267912">The Act allows a judge however, to depart upward from that standard range to a maximum of 10 years if he finds exceptional circumstances.</text>
+            <text syncTime="78.896" offset="315559">In this case, the judge departed upward and imposed an exceptional sentence of 90 months, more than three years beyond the top of the standard range, after finding that Blakely had committed the offense with deliberate cruelty.</text>
+            <text syncTime="95.983" offset="383896">That determination was not based on facts admitted by the defendant but on the judge’s own findings made after a sentencing hearing at which the victim and other witnesses testified.</text>
+            <text syncTime="108.337" offset="433319">Blakely argued that his sentence violates his Sixth Amendment right to jury trial because the facts supporting that three year add on were not proved to a jury beyond a reasonable doubt.</text>
+            <text syncTime="122.249" offset="488908">The State Court rejected that argument and we granted certiorari.</text>
+            <text syncTime="126.815" offset="507193">In an opinion filed with the Clerk today, we conclude that the 90 months exceptional sentence was unconstitutionally imposed.</text>
+            <text syncTime="136.023" offset="544078">The Sixth Amendment provides that “in all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial by an impartial jury.”</text>
+            <text syncTime="147.473" offset="589845">In a case decided four years ago, Apprendi versus New Jersey, we held that “other than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury and proved beyond a reasonable doubt.”</text>
+            <text syncTime="169.711" offset="678766">Blakely’s sentence violated this principle because he was sentenced to more than three additional years in prison based on a finding of deliberate cruelty that was neither found by a jury nor admitted in his guilty plea.</text>
+            <text syncTime="182.775" offset="731011">The State argues that Blakely’s sentence is valid because even though it was above the standard range, it was still below the overall statutory maximum of 10 years.</text>
+            <text syncTime="194.440" offset="777718">We conclude however that the relevant statutory maximum for purposes of the Aprendy case is the maximum a judge may impose based solely on the facts reflected in the jury verdict or admitted by the defendant.</text>
+            <text syncTime="209.217" offset="836859">Here, the judge could not have imposed the 90 months sentence based solely on the guilty plea because Washington law requires an exceptional sentence to be based on factors other than those used in computing the standard range of sentence.</text>
+            <text syncTime="223.628" offset="894433">The right to jury trial is fundamental in our constitution.</text>
+            <text syncTime="227.272" offset="909061">The Sixth Amendment requires that every fact which the law makes essential to the punishment be found by a jury beyond a reasonable doubt.</text>
+            <text syncTime="234.947" offset="939781">Without that restriction, the law could be drawn in such a manner that a judge could sentence a man for committing murder even if the jury convicted him of only illegally possessing the firearm that he used to commit it, or of making any illegal lane change while fleeing the death scene, the fact that the murder could be found by the judge.</text>
+            <text syncTime="257.303" offset="1029120">The dissenters would reject our holding in Apprendi but they provide no alternative test that gives coherent content to the right of jury trial.</text>
+            <text syncTime="267.969" offset="1071856">They merely say that the judicially prescribed portion of the sentence cannot be excessive.</text>
+            <text syncTime="275.587" offset="1102263">The tail cannot wag the dog.</text>
+            <text syncTime="278.820" offset="1115220">This does not seem to us a constitutional or even a feasible criterion.</text>
+            <text syncTime="286.096" offset="1144372">Our holding does not prohibit determinate sentencing schemes.</text>
+            <text syncTime="290.647" offset="1162553">It merely requires the facts in those schemes to be found by the jury.</text>
+            <text syncTime="296.122" offset="1184392">In the present case, for example, instead of having a postconviction trial before the judge which is what occurred, there could have been a postconviction trial before the jury.</text>
+            <text syncTime="308.626" offset="1234442">This is perhaps not as efficient as judicial fact finding but no one ever claimed that jury trial was efficient.</text>
+            <text syncTime="318.125" offset="1272477">Its purpose in our system is to assure that the people control the third branch just as they controlled the first two.</text>
+            <text syncTime="327.197" offset="1308735">Accordingly, we reverse the judgment of the Washington Court of Appeals and remand the case for further proceedings.</text>
+            <text syncTime="334.493" offset="1337887">Justice Kennedy has filed a dissenting opinion in which Justice Breyer joins; Justice Breyer has filed a dissenting opinion in which Justice O’Connor joins.</text>
+          </turn>
+        </section>
+        <section startTime="345.442" stopTime="738.760" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice Sandra Day O'Connor</heading>
+          <turn speaker="sandra_day_oconnor" startTime="345.442" stopTime="738.760">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="345.442" offset="1381669">I have also filed a dissenting opinion in this case.</text>
+            <text syncTime="350.193" offset="1400686">Today’s decision will create great uncertainty for judges, prosecutors, and defense attorneys.</text>
+            <text syncTime="357.587" offset="1430256">It will generate probably thousands of cases in courts around the country as parties attempt to cope with sentencing requirements unlike any of the nation has previously applied.</text>
+            <text syncTime="371.420" offset="1485636">The adverse impact of the majority’s holding on sentencing reform efforts across the country will be far reaching and disastrous.</text>
+            <text syncTime="381.664" offset="1526596">As Justice Breyer observes in his dissent, the Court’s holding leaves legislatures with one of three sentencing options.</text>
+            <text syncTime="390.652" offset="1562540">Each of which, risks either impracticality, unfairness, or harm to the very constitutional interest the majority purports to vindicate.</text>
+            <text syncTime="402.426" offset="1609665">The first would be a pure charge offense or determinate sentencing scheme, whereby all defendant convicted of a particular crime receive identical punishments regardless of differences in their backgrounds, character, or the nature of a crime.</text>
+            <text syncTime="420.045" offset="1680091">The Congress and State legislatures long ago rightly rejected this unjust system.</text>
+            <text syncTime="428.528" offset="1714051">The second possibility would be a return to the pre-reformed days of indeterminate sentencing and untethered judicial discretion in imposing sentences within an upper limit set by the Legislative Branch, but experience has shown that indeterminate sentencing schemes that rely on individual judicial discretion result, in many cases, in severe and unwarranted sentencing disparities.</text>
+            <text syncTime="459.609" offset="1838393">Indeed, it is this very experienced that has prompted the State of Washington to adapt the regime struck down today.</text>
+            <text syncTime="468.247" offset="1872980">The final option, which the Court seems to think Congress and state ligislatures will choose, would be to retain guideline schemes but submit all facts that increase the upper limit of the applicable sentencing range to the jury or to a second jury.</text>
+            <text syncTime="488.571" offset="1954273">The cause of such a system would be exorbitant.</text>
+            <text syncTime="492.164" offset="1968588">Prosecutors would be required to charge five, ten, maybe more different factual elements in every indictment.</text>
+            <text syncTime="501.098" offset="2004323">Courts would be forced to hold separate penalty-faced jury trials so that prejudicial evidence relating the punishment would not taint the guilt face determination.</text>
+            <text syncTime="513.041" offset="2052075">Prosecutors would be forced to bring separate criminal prosecutions.</text>
+            <text syncTime="517.684" offset="2070674">If facts, bearing upon punishment were discovered only after the original indictment or during the trial process.</text>
+            <text syncTime="526.181" offset="2104633">To the extent that Congress and state legislatures are unwilling or unable to bear these additional costs, there will be an inevitable increase in judicial discretion with all of its attendant failings.</text>
+            <text syncTime="541.381" offset="2165447">The immediate practical consequences for sentencing courts and prosecutors starting this very afternoon will be equally unsettling.</text>
+            <text syncTime="551.402" offset="2205571">Does today’s decision apply in full force to the federal sentencing guidelines?</text>
+            <text syncTime="557.351" offset="2229394">Must indictments now contain all sentencing factors to be charged as elements of the crime?</text>
+            <text syncTime="564.857" offset="2259383">If so, must state and federal prosecutors re-indict everyone currently charged wit a crime?</text>
+            <text syncTime="571.830" offset="2287282">When and how must separate punishment-faced trial be held?</text>
+            <text syncTime="576.247" offset="2304940">What are the constitutional and statutory evidenciary requirements applicable to those proceedings?</text>
+            <text syncTime="583.414" offset="2333571">How are juries to deal with highly complexed and often times open-ended sentencing guidelines provisions obviously written for application by experienced judges?</text>
+            <text syncTime="595.601" offset="2382367">What happens to defendants who have already entered pleas of guilty and are awaiting sentencing?</text>
+            <text syncTime="601.948" offset="2407758">The Court ignores these questions as well as the havoc it is about to wreak on trial courts across the country.</text>
+            <text syncTime="610.196" offset="2440777">Now, if the court were vindicating a clear constitutional principle, I could accept the uncertainty and costs imposed by today’s decision.</text>
+            <text syncTime="619.762" offset="2479020">It is not.</text>
+            <text syncTime="621.350" offset="2485394">Indeed, the scheme struck down today has served not undermined Sixth Amendment and due process values.</text>
+            <text syncTime="629.666" offset="2518622">After passage of the Sentencing Reform Act in the State of Washington, the defendants in the state knew what their presumptive sentences would be, they knew what the real stakes of going to trial were, they knew what facts about their crime and criminal history would be relevant in the Sentencing Court, they were guaranteed meaningful appellate review to protect against an arbitrary sentence, and finally, they were ensured that invidious characteristic such as race, would not impact their sentences.</text>
+            <text syncTime="663.894" offset="2655504">In my view the sentencing scheme adopted by the legislature of the State of Washington and other states who have enacted similar schemes was a sensible and constitutional response to the lack of transparency and the wide sentencing disparities and here in the state’s pre-reformed system of indeterminate sentencing.</text>
+            <text syncTime="687.137" offset="2748500">Because I find that unpersuasive that either the Sixth Amendment or Due Process after more than 200 years can be found today to compel this result.</text>
+            <text syncTime="699.697" offset="2798759">I respectfully dissent.</text>
+            <text syncTime="704.315" offset="2817254">My dissent has been joined by the Chief Justice except as to part 4b and by Justice Kennedy except as to part 4b, and has been joined by Justice Breyer.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

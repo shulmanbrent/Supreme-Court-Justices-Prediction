@@ -1,0 +1,51 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:55:37" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1214721">/xml/cases/2005/04_1203/20060110o_04-1203.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-1203_20060110-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="281.522">
+        <title>United States v. Georgia</title>
+        <section startTime="0.000" stopTime="281.522">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="10.876">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88634">Justice Scalia has the opinion in No. 04-1203, United States versus Georgia, and 04-1236, Goodman versus Georgia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="10.876" stopTime="281.522">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="10.876" offset="132102">These cases are here on writs of certiorari to United States Court of Appeals for the 11th Circuit.</text>
+            <text syncTime="17.454" offset="158433">The petitioner in No. 04-1236, Tony Goodman, is a paraplegic inmate of the Georgia prison system.</text>
+            <text syncTime="28.936" offset="204304">He filed a pro se complaint in the District Court against the State, challenging the conditions of his confinement.</text>
+            <text syncTime="36.341" offset="233979">He alleged that the prison system did not take account of his disability in ways that made the conditions of his confinement quite cruel.</text>
+            <text syncTime="49.330" offset="285911">He brought claims seeking money damages under Title II of the Americans with Disabilities Act and under the Eighth Amendment, Cruel and Unusual Punishments Clause.</text>
+            <text syncTime="60.621" offset="331050">The District Court dismissed his Eighth Amendment claims as defectively plead and granted summary judgment to the state on his Title II claims for money damages on the ground that these claims were barred by state sovereign immunity.</text>
+            <text syncTime="75.501" offset="390610">Goodman appealed to the Court of Appeals for the 11th Circuit.</text>
+            <text syncTime="78.680" offset="403253">And the United States, the petitioner in the second case here, 04-1203, intervened on appeal to defend the constitutionality of Title II’s abrogation of state sovereign immunity.</text>
+            <text syncTime="91.541" offset="454766">The 11th Circuit affirmed the District Court’s judgment as to Goodman’s Title II claims for money damages, holding them barred by sovereign immunity; but it reversed the District Court’s dismissal of his Eighth Amendment claims.</text>
+            <text syncTime="106.954" offset="516415">It held that Goodman had successfully alleged a limited number of Eighth Amendment violations and instructed the District Court on remand to permit Goodman to amend his complaint.</text>
+            <text syncTime="117.894" offset="560196">We granted certiorari to consider whether Title II of the ADA validly abrogates state sovereign immunity with respect to Goodman’s claims.</text>
+            <text syncTime="128.454" offset="602410">We now reverse the 11th Circuit on this point.</text>
+            <text syncTime="132.728" offset="619442">Section 5 of the Fourteenth Amendment gives Congress the power to, “enforce”, the guarantees set forth in the earlier sections of the Fourteenth Amendment.</text>
+            <text syncTime="144.790" offset="667716">Whatever the extent of Congress’s prophylactic enforcement powers under Section 5 -- that is, its power to forbid some actions by the states that are not in themselves violations of the Fourteenth Amendment -- Section 5 indisputably grants Congress the power to create remedies against the states for actual violations of the Fourteenth Amendment.</text>
+            <text syncTime="171.037" offset="772729">This enforcement power includes, of course, the power to abrogate state sovereign immunity by authorizing private suits for money damages.</text>
+            <text syncTime="180.676" offset="811285">Because it is not challenged on this appeal, we assume without deciding that the 11th Circuit’s treatment of Goodman’s Eighth Amendment claims was correct.</text>
+            <text syncTime="190.014" offset="848588">In addition, because it is not disputed here, we assume without deciding that the same alleged conduct that violated the Eighth Amendment also violated Title II of the ADA.</text>
+            <text syncTime="201.423" offset="894250">Therefore, Goodman’s claims for money damages against the state under Title II were evidently based, at least in large part, on conduct that independently violated Section 1 of the Fourteenth Amendment.</text>
+            <text syncTime="215.079" offset="948898">We hold that Title II’s abrogation sovereign immunity as to such claims is indisputably valid.</text>
+            <text syncTime="222.338" offset="977947">From the many allegations in Goodman’s pro se filings, it is not clear precisely what conduct he intended to allege in support of his Title II claims.</text>
+            <text syncTime="231.856" offset="1015981">It is also unclear to what extent such conduct also violated the Fourteenth Amendment.</text>
+            <text syncTime="237.168" offset="1037297">Once Goodman’s complaint is amended on remand, the lower courts will be best situated to determine, in the first instance, which aspects of the state’s alleged conduct violated Title II, to what extent such misconduct also violated the Fourteenth Amendment and, insofar as such misconduct violated Title II, but did not violate the Fourteenth Amendment, whether Congress’s purported abrogation of sovereign immunity as to that class of conduct is nevertheless valid.</text>
+            <text syncTime="267.678" offset="1159341">The judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.</text>
+            <text syncTime="274.096" offset="1184941">The Court’s decision is unanimous; Justice Stevens has filed a concurring opinion, in which Justice Ginsburg has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

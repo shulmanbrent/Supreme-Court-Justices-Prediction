@@ -1,0 +1,51 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:49:51" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1057647">/xml/cases/2005/04_1332/20060118o_04-1332.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-1332_20060118-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="242.233">
+        <title>Will v. Hallock</title>
+        <section startTime="0.000" stopTime="242.233">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="10.156">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88713">Justice Souter has the opinion in No. 04-1332, Will versus Hallock.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="10.156" stopTime="242.233">
+            <label>Justice David H. Souter</label>
+            <text syncTime="10.156" offset="129255">This case comes to us on certiorari to the United States Court of Appeals for the 2nd Circuit.</text>
+            <text syncTime="15.707" offset="151511">Richard Hallock’s credit-card information was stolen and used to pay the fee on a child-pornography website.</text>
+            <text syncTime="23.166" offset="181291">Based on this information, Customs agents executed a search warrant at his house and seized various pieces of computer equipment.</text>
+            <text syncTime="31.284" offset="213787">No criminal charges were brought; but the equipment was returned damaged, and all of the stored data were lost.</text>
+            <text syncTime="38.375" offset="242209">As a result, the computer-software company that Richard Hallock’s wife, Susan, owned and operated from home was forced out of business.</text>
+            <text syncTime="47.019" offset="276690">Susan Hallock sued the United States under the Federal Tort Claims Act, alleging negligence by the agents in making the search.</text>
+            <text syncTime="55.441" offset="310440">The District Court dismissed the suit after finding that the agents’ behavior fell within an exception to the Tort Claims Act waiver of sovereign immunity.</text>
+            <text syncTime="64.273" offset="345758">In the meantime, Susan Hallock also filed a so-called Bivens action against the individual agents involved in the search.</text>
+            <text syncTime="73.228" offset="381598">After the District Court ruled for the Government in the first suit, the agents sought to have the Bivens suit thrown out by invoking the judgment bar of the Tort Claims Act.</text>
+            <text syncTime="84.142" offset="425275">The judgment bar precludes action against federal employees on the same subject matter as a concluded prior suit brought against the Government under the Act itself.</text>
+            <text syncTime="95.229" offset="469578">The District Court found that the judgment bar was not applicable, and the 2nd Circuit affirmed.</text>
+            <text syncTime="103.003" offset="500716">We granted certiorari to decide whether the judgment bar applied, but in a unanimous opinion filed today with the Clerk of Court, we vacate for want of appellate jurisdiction.</text>
+            <text syncTime="114.697" offset="547423">Even though the suit against the agents was still pending, appellate jurisdiction was said to exist in this case by virtue of the collateral order doctrine.</text>
+            <text syncTime="123.596" offset="583054">That doctrine permits appeals from a small class of rulings that do not conclude litigation, but conclusively decide an issue separate from the merits that would be effectively unreviewable on appeal.</text>
+            <text syncTime="137.463" offset="638538">Examples of such orders include those denying claims of the absolute immunity, qualified immunity, Eleventh Amendment immunity and double jeopardy.</text>
+            <text syncTime="147.580" offset="678976">There is a temptation to extrapolate from these examples to a rule that collateral appeal is available whenever a party is claiming a right to win in advance of trial.</text>
+            <text syncTime="158.115" offset="721085">But if this temptation is not resisted, as we explained in our earlier digital-equipment case, just about every pretrial order could be described as denying a claim to avoid trial, and the general rule requiring one appeal at the end of the litigation would be reduced to tatters.</text>
+            <text syncTime="175.627" offset="791198">Thus, we clarify today that it is not just the avoidance of trial that counts when deciding if a preliminary order is immediately appealable; for appealability, there has to be something more.</text>
+            <text syncTime="189.378" offset="846160">It has to be shown that the failure to allow immediate appeal would imperil a substantial public interest.</text>
+            <text syncTime="196.658" offset="875312">There is no such public interest at stake here, simply because the judgment bar of the Tort Claims Act was held to be inapplicable.</text>
+            <text syncTime="205.151" offset="909271">The Government likens this order to one denying qualified immunity, but that is not a good analogy.</text>
+            <text syncTime="212.342" offset="938006">If Susan Hallock had brought her Bivens action and no other, the agents could not possibly claim a right not to stand trial.</text>
+            <text syncTime="220.751" offset="971652">The judgment bar, therefore, is more like rules of claim preclusion than rules of immunity, and we have said before that orders denying claim preclusions do not fit under the collateral order doctrine.</text>
+            <text syncTime="233.931" offset="1024419">Thus, the Court of Appeals did not have appellate jurisdiction over the case, and we vacate its judgment with instructions to dismiss the appeal.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

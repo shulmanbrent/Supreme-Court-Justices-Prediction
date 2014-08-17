@@ -1,0 +1,37 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-29</verified>
+      </history>
+      <resources>
+        <audioFile size="440752">/xml/cases/1975/75_250/19760607o_75-250.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1975/trs/75-250op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="91.722">
+        <title>City of Charlotte v. Local 660, International Association of Firefighters</title>
+        <section startTime="0.000" stopTime="91.722" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Thurgood Marshall</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="11.527">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="73679">The judgment and opinion of the Court in 75-250, City of Charlotte against the International Association of Firefighters will be announced by Mr. Justice Marshall.</text>
+          </turn>
+          <turn speaker="thurgood_marshall" startTime="11.527" stopTime="90.108">
+            <label>Justice Thurgood Marshall</label>
+            <text syncTime="11.527" offset="119759">This case involves the question of whether the refusal of the petitioner, the City of Charlotte, North Carolina to allow a dues check-off for the Local 660 and its members violating the Equal Protection Clause of the Fourteenth Amendment.</text>
+            <text syncTime="27.767" offset="184647">The District Court for the Western District of North Carolina found the City's refusal violated the Equal Protection Clause.</text>
+            <text syncTime="34.646" offset="212232">The Court of Appeals for the Fourth Circuit affirmed.</text>
+            <text syncTime="37.851" offset="224980">We granted certiorari and we now reverse.</text>
+            <text syncTime="41.600" offset="240027">The City of Charlotte refuses to allow check-offs unless the check-off benefits all City employees or all employees of a single department.</text>
+            <text syncTime="52.467" offset="283495">Since the Union represents only 351 of the 543 uniformed members of the Fire Department, it is not eligible for check-off under this policy, and we find the policy is sufficiently reasonable to survive a Equal Protection attack.</text>
+            <text syncTime="70.331" offset="354966">The policy is a legitimate method for avoiding the burden of withholding money for all purposes or organizations that request a check-off.</text>
+            <text syncTime="79.037" offset="389761">Accordingly, the judgment of the Court of Appeals is reversed and the case remanded for proceedings consistent with this opinion.</text>
+            <text syncTime="85.459" offset="415465">Mr. Justice Stewart has filed a statement, concurring in the judgment.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="90.108" stopTime="91.722">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="90.108" offset="434064">Thank you, Mr. Justice Marshall.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

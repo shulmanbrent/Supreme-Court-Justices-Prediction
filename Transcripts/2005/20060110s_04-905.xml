@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:54:15" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1422943">/xml/cases/2005/04_905/20060110o_04-905.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/04-905_20060110-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="333.558">
+        <title>Volvo Trucks North America, Inc. v. Reeder-Simco GMC, Inc.</title>
+        <section startTime="0.000" stopTime="333.558">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="11.154">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88713">Justice Ginsburg has the opinion in No. 04-905, Volvo Trucks North America versus Reeder-Simco GMC.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="11.154" stopTime="333.558">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="11.154" offset="133226">This case, calling for interpretation of a federal law, the Robinson-Patman Price Discrimination Act, involves specially ordered products, heavy-duty Volvo trucks, sold by franchised dealers through a competitive bidding process.</text>
+            <text syncTime="33.547" offset="222878">In this process, the retail customer states its specifications and invites bids, generally from dealers franchised by different manufacturers.</text>
+            <text syncTime="44.547" offset="266868">Only when a Volvo dealer’s bid proves successful does the dealer arrange to purchase the trucks, which Volvo then builds to meet the customers’ specifications.</text>
+            <text syncTime="57.576" offset="319009">Reeder-Simco, an Arkansas Volvo dealer, sued Volvo, alleging that Reeder’s sales and profits declined, because Volvo offered other dealers price concessions more favorable than the discounts Volvo offered to Reeder.</text>
+            <text syncTime="78.112" offset="401137">Seeking travel damages under the Robinson-Patman Act and compensatory damages under the Arkansas Franchise Practices Act, Reeder prevailed on both federal and state claims at trial and on appeal to the 8th Circuit.</text>
+            <text syncTime="96.652" offset="475221">We granted review on the federal claim to resolve this question:  may a manufacturer offering different wholesale prices to different dealers be held liable under the Robinson-Patman Act absent the showing that the manufacturer discriminated between dealers contemporaneously competing to resell to the same retail customer?</text>
+            <text syncTime="124.251" offset="585666">State law protecting franchisees may provide, and in this case has provided, a remedy for the dealer exposed to conduct of the kind Reeder alleged; but the federal Robinson-Patman Act, we hold, does not cover Reeder’s complaint.</text>
+            <text syncTime="144.454" offset="666437">The Act centrally addresses price discrimination between purchases of products of light grade and quality who compete to resell those products.</text>
+            <text syncTime="155.075" offset="708964">Competition of that character ordinarily is not involved when a product subject to special order is sold to a customer-specific competitive bidding process.</text>
+            <text syncTime="169.723" offset="767583">Congress passed the Robinson-Patman Act in 1936 to combat perceived harm to competition occasioned by powerful buyers, rather than sellers; specifically, Congress responded to the advent of large chain stores, enterprises with the clout to obtain lower prices for goods than smaller buyers could demand.</text>
+            <text syncTime="197.012" offset="876671">Reeder presented three principle categories of proof at trial:  first, Reeder compared concessions it received on four occasions when it bid successfully against non-Volvo dealers and thus purchased Volvo trucks with more favorable concessions other successful Volvo dealers received were bidding process in which Reeder did not participate; second, Reeder compared concessions Volvo offered on several occasions when Reeder bid unsuccessfully, again, against non-Volvo dealers with more favorable concessions received by other Volvo dealers who gained contracts, again, on which Reeder did not bid; finally, Reeder brought up two instances in which Reeder did bid against other Volvo dealers for a particular sale.</text>
+            <text syncTime="255.155" offset="1109265">In one, Volvo initially offered Reeder and the other dealer the same concession; Volvo ultimately granted a larger concession to the other dealer, but only after that dealer had won the bid.</text>
+            <text syncTime="269.921" offset="1168302">In the second instance of head-to-head competition that Reeder identified, Volvo increased Reeder’s initial discount to match the discount offered to the other competing Volvo dealer; neither dealer won the bid.</text>
+            <text syncTime="286.885" offset="1236220">Mixed and matched selective comparisons of the manipulable kind Reeder presented, we hold, do not show the injury to competition targeted by the Robinson-Patman Act.</text>
+            <text syncTime="300.515" offset="1290764">Reeder did not establish that it was disfavored vis-à-vis the other Volvo dealers in the uncommon instances in which they competed for the same sale, let alone that the alleged discrimination was substantial.</text>
+            <text syncTime="318.528" offset="1362757">For the reasons just sketched and more fully drawn out in the Court’s opinion, the judgment of the Court of Appeals is reversed.</text>
+            <text syncTime="328.105" offset="1401105">Justice Stevens has filed a dissenting opinion, in which Justice Thomas joins.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

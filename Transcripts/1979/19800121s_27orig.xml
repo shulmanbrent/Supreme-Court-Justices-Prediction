@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="400718">/xml/cases/1979/27orig/19800121o_27orig.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1979/trs/27origop.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="100.105">
+        <title>Ohio v. Kentucky</title>
+        <section startTime="0.000" stopTime="100.105" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Harry A. Blackmun</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="10.311">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">The judgment and opinion of the Court in No. 27 Original, Ohio against Kentucky will be announced by Mr. Justice Blackmun.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="10.311" stopTime="98.446">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="10.311" offset="41169">Well this case is a boundary dispute between the State of Ohio and the Commonwealth of Kentucky.</text>
+            <text syncTime="16.642" offset="66560">It began in 1966 when Ohio filed a complaint under this Court's original jurisdiction to establish the boundary between the two states at the northerly edge of the Ohio River as it has existed in 1792 when Kentucky was admitted to the union.</text>
+            <text syncTime="35.033" offset="140121">Kentucky by its answer took the position that the boundary line is the current low watermark on the northerly side of the river.</text>
+            <text syncTime="43.930" offset="175647">Later, Ohio moved to amend its complaint to assert that the boundary was the middle of the river.</text>
+            <text syncTime="50.594" offset="202292">In 1973, argument was heard on that issue and we denied the motion.</text>
+            <text syncTime="56.208" offset="224758">And the case thus reverted to its original posture namely that the northern edge of the river is the line alright but that the parties disagree as to whether it was the 1792 line or the current and changing line.</text>
+            <text syncTime="71.955" offset="287765">The Special Master has filed his report recommending the 1792 line.</text>
+            <text syncTime="76.961" offset="307827">We agree with the Special Master.</text>
+            <text syncTime="79.254" offset="316918">We therefore overrule the exceptions, adopt the Master's report and remand the case to him for the preparation and submission of an appropriate form of decree.</text>
+            <text syncTime="89.847" offset="359340">Mr. Justice Powell has filed a dissenting opinion and is joined therein by Mr. Justice White and Mr. Justice Rehnquist.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="98.446" stopTime="100.105">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="98.446" offset="393718">Thank you Mr. Justice Blackmun.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

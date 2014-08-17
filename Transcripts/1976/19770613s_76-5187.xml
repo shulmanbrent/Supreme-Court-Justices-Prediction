@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-30</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="462487">/xml/cases/1976/76_5187/19770613o_76-5187.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1976/trs/76-5187op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="90.445">
+        <title>Lee v. United States</title>
+        <section startTime="0" stopTime="90.445">
+          <heading>Opinion Announcement of Warren E. Burger</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="10.400">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="100534">The judgment and opinion of the Court in Number 76-5187, Lee against the United States will be announced by Mr. Justice Powell.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="10.400" stopTime="88.257">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="10.400" offset="142121">The petitioner in this case was a child of stealing two wallets from the blind operator of a newsstand in the lobby of the United States Post Office.</text>
+            <text syncTime="21.231" offset="185380">During his first trial, the District Court granted petitioner's motion to dismiss on the ground that the indictment had failed to specify accurately the crime charged.</text>
+            <text syncTime="33.452" offset="234281">Petitioner was retried and convicted.</text>
+            <text syncTime="36.226" offset="245357">His conviction was affirmed by the Court of Appeals for the Seventh Circuit.</text>
+            <text syncTime="40.697" offset="263225">We granted certiorari to consider whether the petition of second trial violated the Double Jeopardy Clause of the Fifth Amendment.</text>
+            <text syncTime="49.310" offset="297706">We hold that it did not.</text>
+            <text syncTime="51.429" offset="306170">We think the principles explained in our decision in the last term in the United States against Dinitz are applicable.</text>
+            <text syncTime="59.623" offset="338980">As the dismissal was granted at petitioner's request without judicial or prosecutorial overreaching and on -- and on the ground consistent with retrial, the Double Jeopardy Clause does not bought re-prosecution.</text>
+            <text syncTime="76.863" offset="407943">Mr. Justice Brennan and Mr. Justice Rehnquist have filed separate concurring opinions.</text>
+            <text syncTime="83.236" offset="433438">Mr. Justice Marshall has filed a dissenting opinion.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="88.257" stopTime="90.445">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="88.257" offset="453501">Thank you, Mr. Justice Powell.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

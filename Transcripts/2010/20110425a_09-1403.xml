@@ -1,0 +1,965 @@
+<transcript verified="true">
+      <history>
+        <transcribed minutes="56">2011-04-25T10:02</transcribed>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="13600687">/xml/cases/2010/09_1403/20110425a_09-1403.mp3</audioFile>
+        <sourceFile>/data/sites/oyez.org/cases/2010/2010_09_1403/09-1403_20110425-argument.xml</sourceFile>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="elena_kagan" type="justice" gender="female" path="/justices/elena_kagan" image="/justices/elena_kagan/thumbnail.jpg">Elena Kagan</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="sonia_sotomayor" type="justice" gender="female" path="/justices/sonia_sotomayor" image="/justices/sonia_sotomayor/thumbnail.jpg">Sonia Sotomayor</speaker>
+        <speaker id="david_boies" type="advocate" gender="male" path="/advocates/db/david_boies" image="/advocates/db/david_boies/thumbnail.jpg">David Boies</speaker>
+        <speaker id="nicole_saharsky" type="advocate" gender="female" path="/advocates/ns/nicole_saharsky" image="/advocates/ns/nicole_saharsky/thumbnail.jpg">Nicole A. Saharsky</speaker>
+        <speaker id="david_sterling" type="advocate" gender="male" path="/advocates/ds/david_sterling" image="/advocates/ds/david_sterling/thumbnail.jpg">David Sterling</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3370.479">
+        <title>Erica P. John Fund, Inc. v. Halliburton Co.</title>
+        <section startTime="0.000" stopTime="939.037">
+          <heading>Argument of David Boies</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="11.139">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="104448">We'll hear argument first this morning in Case 09-1403, Erica P. John Fund v. Halliburton Company.</text>
+            <text syncTime="10.356" offset="145826">Mr. Boies.</text>
+          </turn>
+          <turn speaker="david_boies" startTime="11.139" stopTime="53.885">
+            <label>Mr. David Boies</label>
+            <text syncTime="11.139" offset="148961">Mr. Chief Justice, may it please the Court:</text>
+            <text syncTime="14.141" offset="160977">The district court below found, and it is not disputed here, that the plaintiff fulfilled all of the requirements of Rule 23(a) for class certification.</text>
+            <text syncTime="25.198" offset="205176">The district court also found, and the court of appeals affirmed, that the plaintiffs demonstrated all of the requirements for class certification under 23(b)(3) except for the Fifth Circuit's loss causation requirement.</text>
+            <text syncTime="41.577" offset="270691">The court below recognized that whether or not there was an efficient market was not disputed.</text>
+            <text syncTime="48.647" offset="299008">It was conceded that we have an efficient market here.</text>
+            <text syncTime="51.783" offset="311547">There were no challenges--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="53.885" stopTime="55.268">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="53.885" offset="319906">I just stop you there.</text>
+          </turn>
+          <turn speaker="david_boies" startTime="55.268" stopTime="55.701">
+            <label>Mr. David Boies</label>
+            <text syncTime="55.268" offset="325444">--Certainly.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="55.701" stopTime="60.372">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="55.701" offset="327220">Mr. Boies, if could What if that had been disputed?</text>
+            <text syncTime="57.170" offset="333072">Is that something that can be disputed at the certification stage?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="60.372" stopTime="63.588">
+            <label>Mr. David Boies</label>
+            <text syncTime="60.372" offset="345924">Yes, Your Honor.</text>
+            <text syncTime="61.755" offset="351462">The--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="63.588" stopTime="69.825">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="63.588" offset="358776">Mr. Boies, what's the difference then?</text>
+            <text syncTime="64.754" offset="363374">Why could that be disputed at the certification stage, but not the question of price impact?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="69.825" stopTime="106.248">
+            <label>Mr. David Boies</label>
+            <text syncTime="69.825" offset="383645">--Because the issue of efficient market goes to the presumption of reliance, and if the court holds at the certification stage that there is no efficient market, then the basis for presuming class-wide reliance is impacted.</text>
+            <text syncTime="89.886" offset="463893">And so you can have a situation in which the common issues do not predominate over the individualized issues.</text>
+            <text syncTime="98.075" offset="496703">That cannot happen with respect to loss causation because, as Respondent concedes here, loss causation is a common issue.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="106.248" stopTime="113.169">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="106.248" offset="529408">Well, how about materiality?</text>
+            <text syncTime="109.283" offset="541529">Could you rebut materiality at the certification stage?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="113.169" stopTime="125.661">
+            <label>Mr. David Boies</label>
+            <text syncTime="113.169" offset="557098">No, Your Honor, we don't think you can rebut materiality at the -- at the certification stage.</text>
+            <text syncTime="119.239" offset="581339">I would note that under the Fifth Circuit rule, loss causation is in addition to materiality.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="125.661" stopTime="142.088">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="125.661" offset="607044">Well, now I'm a little confused, because the efficient market and materiality are all part of the prima facie case triggering the Basic presumption.</text>
+            <text syncTime="137.886" offset="655945">So, why couldn't you rebut one part of that case but not another part of that case?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="142.088" stopTime="167.870">
+            <label>Mr. David Boies</label>
+            <text syncTime="142.088" offset="672768">Because the issue of materiality is something that goes to a class-wide common issue.</text>
+            <text syncTime="148.158" offset="697010">The issue of reliance can go to whether or not issues predominate or not.</text>
+            <text syncTime="155.062" offset="724595">Rule 23(b)(3) talks about whether common issues predominate or not.</text>
+            <text syncTime="161.149" offset="748941">That's the issue at class certification stage.</text>
+            <text syncTime="163.668" offset="759077">The merits issue is not implicated at class certification--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="167.870" stopTime="169.071">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="167.870" offset="775899">But common reliance--</text>
+          </turn>
+          <turn speaker="david_boies" startTime="169.071" stopTime="169.454">
+            <label>Mr. David Boies</label>
+            <text syncTime="169.071" offset="780706">--under Rule 23--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="169.454" stopTime="174.891">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="169.454" offset="782169">--can be rebutted at the -- common reliance can be rebutted at the certification stage?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="174.891" stopTime="176.708">
+            <label>Mr. David Boies</label>
+            <text syncTime="174.891" offset="804007">--Excuse me, Your Honor?</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="176.708" stopTime="182.462">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="176.708" offset="811217">The Basic presumption can be -- can the Basic presumption be rebutted at the certification stage?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="182.462" stopTime="199.174">
+            <label>Mr. David Boies</label>
+            <text syncTime="182.462" offset="834205">The Basic presumption of reliance, yes, Your Honor.</text>
+            <text syncTime="184.164" offset="841101">For example, if you were to take a situation in which you -- not present here, but where you disputed whether or not the market was efficient or not, that is something that could be decided at the class certification stage.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="199.174" stopTime="206.328">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="199.174" offset="901078">Can it be rebutted by proof other than proof generally disproving the efficiency of the market?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="206.328" stopTime="213.266">
+            <label>Mr. David Boies</label>
+            <text syncTime="206.328" offset="929708">We believe under the Court's decision in Basic that that is something that is reserved for trial, that -- that rebuttal.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="213.266" stopTime="215.800">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="213.266" offset="957503">And what is that based on, the footnote in Basic?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="215.800" stopTime="216.452">
+            <label>Mr. David Boies</label>
+            <text syncTime="215.800" offset="967638">Yes.</text>
+            <text syncTime="216.135" offset="968892">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="216.452" stopTime="228.443">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="216.452" offset="970250">Well, that's pretty thin, isn't it?</text>
+            <text syncTime="217.735" offset="975370">It's a -- it's dictum in a footnote in an opinion issued at a time when conditional class certification was permitted.</text>
+            <text syncTime="226.991" offset="1012360">Do you have anything else to support that?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="228.443" stopTime="229.876">
+            <label>Mr. David Boies</label>
+            <text syncTime="228.443" offset="1018211">I don't from this Court, Your Honor.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="229.876" stopTime="232.562">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="229.876" offset="1023854">Do you have anything in the rule to support that?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="232.562" stopTime="233.678">
+            <label>Mr. David Boies</label>
+            <text syncTime="232.562" offset="1034616">Anything in the rule?</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="233.678" stopTime="234.230">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="233.678" offset="1039109">Yes.</text>
+          </turn>
+          <turn speaker="david_boies" startTime="234.230" stopTime="255.927">
+            <label>Mr. David Boies</label>
+            <text syncTime="234.230" offset="1041304">Well, I think the -- I think what the rule does is it talks about whether issues of common issue predominate over individualized issue.</text>
+            <text syncTime="243.303" offset="1077561">And since this is something that would be at the class certification stage, not creating individualized issues, we would think that is something that's reserved for trial.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="255.927" stopTime="292.433">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="255.927" offset="1128135">Mr. Boies, how would it work in your view of the case?</text>
+            <text syncTime="258.510" offset="1138479">That is, you say that the loss, what's been called loss causation, is not something to be decided at the certification stage, but at the trial or summary judgment.</text>
+            <text syncTime="273.353" offset="1197829">Well, how -- how would the plaintiff class prove loss causation?</text>
+            <text syncTime="281.126" offset="1228863">Given the reliance hurdle that you have surmounted, now you're in -- you have your class certified; how does the class prove loss causation.</text>
+          </turn>
+          <turn speaker="david_boies" startTime="292.433" stopTime="350.020">
+            <label>Mr. David Boies</label>
+            <text syncTime="292.433" offset="1274107">As -- as this Court indicated in Dura, in order to prove loss causation, you must demonstrate that you had either an increase in the prices, and this -- this assumes that you are concealing negative information; the reverse would be true if you were concealing positive information -- an increase at the time that the concealment took place or a decline when the actual facts were revealed.</text>
+            <text syncTime="324.322" offset="1401689">And it would be required at summary judgment by a summary judgment standard, and at trial by a trial standard, and at the pleading stage by a pleading standard, for the plaintiff to make out that case.</text>
+            <text syncTime="338.747" offset="1459367">In other words, there are three times loss causation is tested: Pleadings, summary judgment, and trial.</text>
+            <text syncTime="344.283" offset="1481519">The question is whether a fourth test should be interposed at the class certification stage.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="350.020" stopTime="362.863">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="350.020" offset="1504507">Counsel, doesn't a lack of response to a disclosure -- couldn't it be in some situations reflective of an inefficient market?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="362.863" stopTime="380.924">
+            <label>Mr. David Boies</label>
+            <text syncTime="362.863" offset="1555811">Yes, Your Honor, I think it could.</text>
+            <text syncTime="365.149" offset="1565006">I think that you -- you could very well have a situation in which if you demonstrated a lack of response, that could impact the issue of efficiency; and I think that would be an issue that -- that in a proper case where unlike this one it was presented--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="380.924" stopTime="398.453">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="380.924" offset="1628118">Why is it?</text>
+            <text syncTime="381.841" offset="1631775">Why is this case -- why can't you pigeonhole this case into that argument, which, it appears what your -- what the Respondents have done is move away from the loss causation proof and gone to the issue of whether they rebutted reliance or not.</text>
+          </turn>
+          <turn speaker="david_boies" startTime="398.453" stopTime="422.401">
+            <label>Mr. David Boies</label>
+            <text syncTime="398.453" offset="1698231">--The -- the problem is, as the Fifth Circuit noted at page 335 of the F. 3d report, efficiency of this market was conceded below.</text>
+            <text syncTime="412.361" offset="1753819">In other words, the Respondents conceded that this market was efficient?</text>
+            <text syncTime="416.581" offset="1770747">So that issue -- that issue was not presented, and the rebuttal issue was not -- was not presented in this case.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="422.401" stopTime="481.440">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="422.401" offset="1794048">Mr. -- Mr. Boies, you talked about loss causation.</text>
+            <text syncTime="426.436" offset="1810139">The Respondents assert that that's not what the Fifth Circuit was really doing, that -- that really they're just trying to rebut the presumption essentially of -- of Basic by -- by showing that at the -- at the far end, there was -- there was nothing that could justify the presumption.</text>
+            <text syncTime="453.604" offset="1918809">Would you be satisfied if we just said that we agree with you that the requirement to prove loss causation is -- is no good, and sent it back to the Fifth Circuit and then let the Fifth Circuit adopt the theory that Respondents assert they have already adopted?</text>
+            <text syncTime="474.251" offset="2001356">I mean, it's sort of a Pyrrhic victory, it seems to me, if you haven't just disapproved loss causation.</text>
+          </turn>
+          <turn speaker="david_boies" startTime="481.440" stopTime="488.344">
+            <label>Mr. David Boies</label>
+            <text syncTime="481.440" offset="2030195">Well, it depends on how the Fifth Circuit then construes reliance.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="488.344" stopTime="491.879">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="488.344" offset="2057780">Well, they -- they would construe it the way Respondents say they have already construed it.</text>
+          </turn>
+          <turn speaker="david_boies" startTime="491.879" stopTime="550.584">
+            <label>Mr. David Boies</label>
+            <text syncTime="491.879" offset="2071886">Your Honor, I think that if they simply changed the wording and called loss causation reliance, obviously it wouldn't make any difference.</text>
+            <text syncTime="501.853" offset="2111801">But as this Court indicated in Basic, and just last month in Matrixx, loss causation and reliance are two distinct elements.</text>
+            <text syncTime="510.024" offset="2144507">And the reason that's important in this particular context is that reliance can create a situation where you have individualized issues predominating over common issues.</text>
+            <text syncTime="523.934" offset="2200095">Loss causation can't because, as Respondents concede here, loss causation is a class-wide issue.</text>
+            <text syncTime="532.290" offset="2233532">Either -- there either is loss causation or is not loss causation.</text>
+            <text syncTime="536.158" offset="2248997">That, as this Court held in Dura, is an element of the merits case.</text>
+            <text syncTime="540.228" offset="2265297">It is one that we must prove at all three stages -- pleadings, summary judgment, and trial.</text>
+            <text syncTime="546.715" offset="2291210">But it is not something that goes to the Rule 23 standard.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="550.584" stopTime="561.142">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="550.584" offset="2306779">I think what you've said is that there's really no difference between loss causation and what Respondents assert that the Fifth Circuit found.</text>
+          </turn>
+          <turn speaker="david_boies" startTime="561.142" stopTime="582.138">
+            <label>Mr. David Boies</label>
+            <text syncTime="561.142" offset="2348993">No, Your Honor.</text>
+            <text syncTime="561.975" offset="2352337">I did not mean to say that.</text>
+            <text syncTime="565.427" offset="2366130">I think that there is a difference.</text>
+            <text syncTime="568.796" offset="2379609">I think there's a -- I think there are -- there are two differences.</text>
+            <text syncTime="571.748" offset="2391416">There's a difference between what Respondents say and what the Fifth Circuit says.</text>
+            <text syncTime="576.069" offset="2408657">The Fifth Circuit talks about loss causation, says it's in addition to efficient market, does not talk about reliance.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="582.138" stopTime="582.588">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="582.138" offset="2432899">Right.</text>
+          </turn>
+          <turn speaker="david_boies" startTime="582.588" stopTime="617.062">
+            <label>Mr. David Boies</label>
+            <text syncTime="582.588" offset="2434779">There's also a difference between what Respondents say and what this Court has said in Basic and Matrixx and the other cases, in terms of what is required to prove for class certification.</text>
+            <text syncTime="595.530" offset="2486502">What is required to prove for class certification under Rule 23, unless and until Rule 23 is changed, is that common issues predominate.</text>
+            <text syncTime="604.219" offset="2521297">Common issues will predominate even with respect to what the Respondents here argue because -- because what they argue, just like loss causation, is a common issue.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="617.062" stopTime="621.598">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="617.062" offset="2572601">Okay, but -- but you -- you would want us to say that and not just say that loss causation--</text>
+          </turn>
+          <turn speaker="david_boies" startTime="621.598" stopTime="622.799">
+            <label>Mr. David Boies</label>
+            <text syncTime="621.598" offset="2590783">Yes.</text>
+            <text syncTime="622.298" offset="2593604">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="622.799" stopTime="659.556">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="622.799" offset="2595589">How do you see or what difference do you see between their loss causation evidence and an inefficient market?</text>
+            <text syncTime="635.273" offset="2645535">Could they -- assuming there was no stipulation in this case, do you see any difference in -- in how they could use the fact that other information affected the market and not this one?</text>
+            <text syncTime="650.450" offset="2706244">Or is it your theory of the case that there is no evidence that they could marshal to show that this is an inefficient market?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="659.556" stopTime="721.629">
+            <label>Mr. David Boies</label>
+            <text syncTime="659.556" offset="2742606">I don't believe under this Court's decision in Basic that, given the actual objective facts that have been admitted -- it's a very public market, very widespread distribution of information, a lot of analysts are reporting on it -- I don't believe that as a objective factual matter they would be able ever to demonstrate that this was not an efficient market.</text>
+            <text syncTime="686.206" offset="2849186">If you had a much smaller market, indeed if you -- if you had a market as the Court was considering in Basic, which was a much smaller market, much less public, much less analyst support, there may be areas in which they -- they could rebut it.</text>
+            <text syncTime="703.667" offset="2919090">But I think, given what we all know about the Halliburton stocks -- widely traded, large number of shares traded, a lot of analysts, a lot of public information -- I don't believe under this Court's decision in Basic you could conclude reasonably that that was not an efficient market.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="721.629" stopTime="779.335">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="721.629" offset="2990874">What do you say to -- to the following argument, that there are some economists who say that, even in a market that is generally efficient, there can be instances in which the market does not incorporate certain statements into the price of a stock; and therefore even when it is demonstrated that the market meets the test for efficiency that the lower courts have settled upon in the wake of Basic, the defendant in a -- in a class action where there is reliance on the Basic presumption should be permitted at the class certification stage to prove that the allegedly fraudulent statements had no impact on price, and by doing that destroy the theory that the class relied on the statements, because they relied on the price which incorporated the statements?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="779.335" stopTime="856.335">
+            <label>Mr. David Boies</label>
+            <text syncTime="779.335" offset="3221692">I -- I think, Your Honor, that if you have a situation in which the proof is class-wide, it is something that goes only to summary judgment or trial.</text>
+            <text syncTime="797.796" offset="3295566">It does not go to the class certification stage.</text>
+            <text syncTime="800.081" offset="3304761">With respect to the issue of whether somebody is relying on an efficient market, that is distinct from whether a particular statement was or was not actionable.</text>
+            <text syncTime="816.341" offset="3369754">In other words, the summary judgment issue, the trial issue, is whether the particular statement was actionable and that includes all of the things that the court identifies.</text>
+            <text syncTime="826.197" offset="3409147">But those issues are going to be, if there is an efficient market, class-wide issues.</text>
+            <text syncTime="832.886" offset="3435896">In other words, it's not going to be the case that in a particular instance a statement did not get into the market will affect only one member of the class.</text>
+            <text syncTime="845.027" offset="3484484">It's going to affect all members of the class.</text>
+            <text syncTime="846.644" offset="3490962">Because it is something that is common all of the class members, Rule 23 says that is something for trial, not for class certification.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="856.335" stopTime="862.406">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="856.335" offset="3529728">Well, whether there's an efficient market is also common to all members of the class, so why would you make an exception for that?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="862.406" stopTime="918.206">
+            <label>Mr. David Boies</label>
+            <text syncTime="862.406" offset="3553970">Because if there's no efficient market, then individualized issues are going to predominate.</text>
+            <text syncTime="869.642" offset="3582913">That is, the test under Rule 23 is whether individual issues or common issues are going to predominate.</text>
+            <text syncTime="876.379" offset="3609872">If you destroy the efficient market theory in a particular case, then individual issues of reliance can predominate.</text>
+            <text syncTime="884.402" offset="3642055">However, that can't happen with respect to loss causation or price distortion or any of these other issues that are fundamental to the merits and are common to the entire class, because if there's no loss causation, there's no cause of action.</text>
+            <text syncTime="904.780" offset="3723557">As this Court held in Dura, there must be loss causation.</text>
+            <text syncTime="907.816" offset="3735677">So if there's no loss causation there aren't any individual issues to adjudicate.</text>
+            <text syncTime="913.069" offset="3756680">If there are no more questions, I would save the remainder of my time for rebuttal.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="918.206" stopTime="939.037">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="918.206" offset="3777264">Thank you, counsel.</text>
+            <text syncTime="918.873" offset="3779877">Ms. Saharsky.</text>
+          </turn>
+        </section>
+        <section startTime="939.037" stopTime="1559.968">
+          <heading>Argument of Nicole A. Saharsky</heading>
+          <turn speaker="nicole_saharsky" startTime="939.037" stopTime="1033.464">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="939.037" offset="3860543">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="942.405" offset="3874022">The Fifth Circuit erred in requiring proof of loss causation at class certification for three reasons: First, it's conducting a merits inquiry that's not tethered to the Rule 23 requirements; second, it's taking a presumption and requiring plaintiffs to prove it; and third, it's confusing the distinct elements of reliance and loss causation.</text>
+            <text syncTime="961.568" offset="3950717">Just to start in with some of the Court's questions: First, Justice Scalia's: Does the court require proof of loss causation?</text>
+            <text syncTime="967.139" offset="3972974">The Fifth Circuit could not be more clear.</text>
+            <text syncTime="968.989" offset="3980392">It is not talking about rebutting the presumption of reliance, giving the defendants an opportunity to do that at class certification.</text>
+            <text syncTime="975.210" offset="4005261">It is putting an affirmative burden on plaintiffs that they have to meet in every single case, even if the defendants do not come to court with any evidence.</text>
+            <text syncTime="982.649" offset="4035041">And that is a very heavy burden, as the district court in this case realized.</text>
+            <text syncTime="986.684" offset="4051132">And just to make this as concrete as possible, loss causation is the question at the end of the day, whether the price decline that caused the losses was sufficiently related to the earlier alleged material misstatement and whether there was any other cause that could have led to the price decline.</text>
+            <text syncTime="1005.597" offset="4126783">So if a plaintiff cannot come in and prove loss causation, there could be many reasons for that.</text>
+            <text syncTime="1012.085" offset="4152696">It may be because the market is not efficient.</text>
+            <text syncTime="1014.703" offset="4163250">It could also be because there's no material misstatement.</text>
+            <text syncTime="1017.655" offset="4175057">But it could also be, as this Court recognized in Dura, that there was a material misstatement, it did inflate the stock price, but then other causes such as a bad economy or other news about the company came along, and that's what caused the stock price to drop.</text>
+            <text syncTime="1032.414" offset="4234094">Justice--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1033.464" stopTime="1043.889">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1033.464" offset="4238273">But you acknowledged that if the cause was the fact that the market was not efficient, that could be raised at the certification stage.</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1043.889" stopTime="1080.312">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1043.889" offset="4279965">--Well, that's certainly what the Court suggested in Basic and what the courts of appeals have done, is to say that that's a threshold showing that is sufficiently collateral to the merits that it needs to be made, so that the presumption can be invoked in the first instance.</text>
+            <text syncTime="1056.780" offset="4331478">But these ideas about rebutting the presumption by showing that at the end of the day the plaintiff can't prove its case, these are things, as Mr. Boies said, that stand or fall on a class-wide basis.</text>
+            <text syncTime="1067.303" offset="4373588">And the real problem with the Fifth Circuit's decision is that it did not tie its proof of loss causation to the requirements of Rule 23.</text>
+            <text syncTime="1075.658" offset="4407024">Everyone agrees here that loss causation stands or falls on a class-wide basis.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1080.312" stopTime="1093.453">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1080.312" offset="4425624">The rule isn't, I take it -- or correct me if I'm wrong -- that simply because the issue is on a class-wide basis, it can't be challenged at the certification stage.</text>
+            <text syncTime="1088.918" offset="4460105">We don't have a rule that's that broad, do we?</text>
+            <text syncTime="1091.720" offset="4471286">Or am I missing a point?</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1093.453" stopTime="1107.880">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1093.453" offset="4478182">Well, that's what Rule 23, 23(b)(3), which is the one at issue here -- the question is do common issues predominate over individual ones.</text>
+            <text syncTime="1101.976" offset="4512350">What you're trying to answer is can this group of people proceed together, not can this group of people make out their case.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1107.880" stopTime="1112.116">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1107.880" offset="4535965">But suppose there's no demonstrated basis that that common issue exists?</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1112.116" stopTime="1154.877">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1112.116" offset="4552892">Then I think the plaintiff should lose at the 12(b)(6) stage, and that is a stage that has real bite after this Court's decision in Dura and after the PSLRA.</text>
+            <text syncTime="1121.056" offset="4588628">There are heightened pleading requirements that apply.</text>
+            <text syncTime="1123.322" offset="4597718">There are plaintiffs that will lose at summary judgment on the issue of loss causation, for example, because, A, either they don't allege a price drop, B, they don't connect the price drop to the earlier distortion of the market when there's a material misstatement.</text>
+            <text syncTime="1138.066" offset="4656650">There can be many reasons that they lose at that merits stage, but class certification is not a merits stage, and the Fifth Circuit made it one because of its own policy judgments about the effects of class certification.</text>
+            <text syncTime="1150.492" offset="4706388">And with all due respect to the Fifth Circuit, it's just not that Court's judgment to make that--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1154.877" stopTime="1172.155">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1154.877" offset="4723942">Class certification is not a merits determination except with respect to reliance?</text>
+            <text syncTime="1161.883" offset="4751945">Except with respect to the fraud on the market theory?</text>
+            <text syncTime="1164.666" offset="4763021">That you can; that is a merits inquiry and you can decide it at the class certification stage?</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1172.155" stopTime="1176.809">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1172.155" offset="4793010">And except, just to add to the Chief Justice's question, an efficient market theory?</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1176.809" stopTime="1212.547">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1176.809" offset="4811609">--That's right.</text>
+            <text syncTime="1177.993" offset="4816415">You're asking is this theory going to be available to the plaintiffs at trial, and the way that the plaintiffs show that the theory is available to them is by establishing an efficient market and saying that they traded within the time period while the price was distorted.</text>
+            <text syncTime="1190.967" offset="4868242">It's just like establishing any other threshold inquiry that would make evidence or a legal theory available at trial.</text>
+            <text syncTime="1197.288" offset="4893529">But the question the Court is supposed to be asking at the 23, at the Rule 23 stage, the class certification stage, is not can these people win on the merits.</text>
+            <text syncTime="1206.393" offset="4929996">And that's a question the Fifth Circuit was asking.</text>
+            <text syncTime="1208.345" offset="4937728">The question it's supposed to ask is can this group of people proceed together.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1212.547" stopTime="1228.090">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1212.547" offset="4954551">You seem to -- maybe I don't understand your argument, but you and Mr. Boies seem to be arguing that whether there is a common question -- that it is a common question whether there is a common question, and therefore that has to wait until the merits stage.</text>
+            <text syncTime="1226.724" offset="5011289">Is that what you're saying?</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1228.090" stopTime="1253.957">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1228.090" offset="5016722">No, that's not what we're saying.</text>
+            <text syncTime="1230.159" offset="5025081">What we're saying is when common issues predominate on the issue of reliance, and when the Petitioners -- or when the plaintiffs invoke fraud on the market and they show that there is an efficient market, this Court said in Basic, they can all proceed together because they are showing that the price -- that the material misstatement was reflected in the stock price.</text>
+            <text syncTime="1249.839" offset="5103762">This is an impersonal market in which you rely on the stock price.</text>
+            <text syncTime="1252.541" offset="5114525">They all rely on it in the same way.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1253.957" stopTime="1279.323">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1253.957" offset="5120272">And if they show that the statement was not incorporated in the price, in the price, and they're not claiming that they relied, that every member of the class actually relied on the statement, they're all claiming they relied on the price -- if they show that the statement wasn't incorporated in the price, then why doesn't reliance cease to be a common issue and become a question of an individual issue that would have to be proved by each, each member of the class?</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1279.323" stopTime="1288.278">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1279.323" offset="5221731">Well, in that circumstance reliance ceases to be and the case cannot be established on the merits.</text>
+            <text syncTime="1284.142" offset="5240957">They stand or fall together on the merits.</text>
+            <text syncTime="1286.428" offset="5250152">Their theory is the same for all of them.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="1288.278" stopTime="1293.082">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="1288.278" offset="5257467">Yeah, but the fact that they would lose on the merits doesn't necessarily mean that they are entitled to class certification.</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1293.082" stopTime="1354.171">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1293.082" offset="5276693">Right.</text>
+            <text syncTime="1294.532" offset="5282544">They're entitled to class certification if they have a common issue.</text>
+            <text syncTime="1297.282" offset="5293516">And what the Court said in Basic is that if they set out the prerequisites for the fraud on the market, which the court of appeals agreed were met in this case, that they could proceed together.</text>
+            <text syncTime="1306.506" offset="5330401">That threshold showing is required.</text>
+            <text syncTime="1308.106" offset="5336775">Justice Kagan, I take your point that there is -- that even the question of whether the market is efficient is a common one, so perhaps one could logically say: Well, they have a common issue on the efficiency of the market; why should they even have to show that at class certification?</text>
+            <text syncTime="1321.099" offset="5388810">But this Court said in Basic, and the courts of appeals have said, it's reasonable in that case since it's so divorced from the merits to require a threshold showing to even allow them to invoke the presumption at the outset.</text>
+            <text syncTime="1332.121" offset="5432905">But that is very, very different from what the Fifth Circuit said in this case.</text>
+            <text syncTime="1335.257" offset="5445444">The Fifth Circuit in this case said basically: Prove your whole case.</text>
+            <text syncTime="1338.442" offset="5458192">You don't just have to prove that there was a price decrease; you have to prove that there was an initial material misstatement, that it distorted the stock price, that it led to a price decrease and that the price decrease can't be, can't be shown by any other superseding cause.</text>
+            <text syncTime="1352.385" offset="5513885">It's essentially, as the Seventh Circuit said--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1354.171" stopTime="1394.196">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1354.171" offset="5521095">Can you -- can you do this in reverse?</text>
+            <text syncTime="1355.703" offset="5527259">I mean, suppose the class comes in and, instead of proving at the outset that the market's an efficient market and allege a misrepresentation, they come in at the back end and they say: When that statement that we assert was a misrepresentation was corrected, the price of stock went down and we lost money.</text>
+            <text syncTime="1381.804" offset="5631645">Now, it seems to me you would have to argue, well, that's a good allegation if it's an efficient market, which is a common question, right?</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1394.196" stopTime="1394.898">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1394.196" offset="5681173">--Right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1394.898" stopTime="1411.740">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1394.898" offset="5683994">So they can certify under Rule 23 by using the back end.</text>
+            <text syncTime="1400.365" offset="5705832">Instead of proving the efficient market, they can prove that there was a statement correcting the alleged misrepresentation, the price of stock went down, right, and they can certify the class?</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1411.740" stopTime="1412.859">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1411.740" offset="5751390">No.</text>
+            <text syncTime="1412.340" offset="5753793">The Court said--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1412.859" stopTime="1417.061">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1412.859" offset="5755883">Why not?</text>
+            <text syncTime="1413.359" offset="5757868">It would be -- it would be a common question whether the market's efficient or not.</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1417.061" stopTime="1426.333">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1417.061" offset="5772601">--This Court said in Basic that in order to establish the presumption that you need to show the efficiency of the market, the trading during the relevant time period.</text>
+            <text syncTime="1425.298" offset="5805620">I agree with you that--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1426.333" stopTime="1448.163">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1426.333" offset="5809695">They're not relying on that assumption.</text>
+            <text syncTime="1428.117" offset="5816905">They -- they come in and show that there was a correction of what we alleged was a misstatement and the market went down.</text>
+            <text syncTime="1436.689" offset="5851178">That's all that they allege.</text>
+            <text syncTime="1437.807" offset="5855671">And of course, that proves anything only if there's an efficient market.</text>
+            <text syncTime="1443.509" offset="5878450">But that will be a common question to the whole class, so we'll, we'll -- we'll save that for later.</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1448.163" stopTime="1464.589">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1448.163" offset="5897049">--Well, with respect, just alleging that the market went down would not be enough to show that there was an initial price distortion because of the company's material misstatement.</text>
+            <text syncTime="1456.852" offset="5931844">Stock prices can go down for any number of reasons.</text>
+            <text syncTime="1459.102" offset="5940830">There's a significant linkage that's required between the initial material misstatement and the eventual loss.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1464.589" stopTime="1468.660">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1464.589" offset="5962773">Well, but they assert that.</text>
+            <text syncTime="1465.456" offset="5966221">They assert that the reason it went down was because of the initial misstatement.</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1468.660" stopTime="1474.195">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1468.660" offset="5979073">Certainly in the courts of appeals now, that's not the way the plaintiffs proceed.</text>
+            <text syncTime="1472.695" offset="5995165">The way they proceed is on the Basic theory.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1474.195" stopTime="1479.266">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1474.195" offset="6001225">I understand that.</text>
+            <text syncTime="1474.647" offset="6003001">I'm just saying that seems to me it's a crazy way to run a railroad.</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1479.265" stopTime="1480.550">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1479.265" offset="6021496">I don't think that that's--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1480.550" stopTime="1490.073">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1480.550" offset="6026616">If you can allege what's upfront, you can allege what's -- what's in the back, and what's upfront becomes a common question, so you certify the whole class.</text>
+          </turn>
+          <turn speaker="nicole_saharsky" startTime="1490.073" stopTime="1554.080">
+            <label>Ms. Nicole A. Saharsky</label>
+            <text syncTime="1490.073" offset="6064650">--With respect, Your Honor, I mean, if you -- if you would like to -- if you would like to expand even beyond Basic and allow class certification.</text>
+            <text syncTime="1496.393" offset="6089937">But the courts of appeals have used Basic for 20 years, Congress is well aware of it and has not seen fit to change it.</text>
+            <text syncTime="1501.762" offset="6111462">This is the way that these cases proceed.</text>
+            <text syncTime="1503.631" offset="6118881">This Court at the time of Basic recognized that every court of appeals had thought that it made sense to proceed in that way, using the fraud on the market theory.</text>
+            <text syncTime="1511.237" offset="6149392">This is well established.</text>
+            <text syncTime="1512.453" offset="6154198">And just to be clear, Respondents never suggested in this case that Basic should be revisited.</text>
+            <text syncTime="1516.522" offset="6170499">This is not an issue that the courts below considered.</text>
+            <text syncTime="1518.724" offset="6179276">This is not an issue that was fully briefed, and it's not something that we think should be considered.</text>
+            <text syncTime="1522.794" offset="6195576">The problem in this case is that the Fifth Circuit took it upon itself to tighten the Rule 23 requirements.</text>
+            <text syncTime="1528.531" offset="6218564">It was not satisfied with the rules as they exist, and it took the class certification stage and turned it into a merits inquiry stage.</text>
+            <text syncTime="1536.935" offset="6252105">They required plaintiffs to prove almost their entire case at this stage of the litigation, and that just wasn't right, because the class certification stage -- can I finish this -- is about whether plaintiffs can proceed as a group together, as the Court in Amchem said they often can in securities fraud actions.</text>
+            <text syncTime="1553.147" offset="6316993">The judgment should be reversed.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1554.080" stopTime="1559.968">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1554.080" offset="6320755">Thank you, counsel.</text>
+            <text syncTime="1554.547" offset="6322636">Mr. Sterling.</text>
+          </turn>
+        </section>
+        <section startTime="1559.968" stopTime="3078.810">
+          <heading>Argument of David Sterling</heading>
+          <turn speaker="david_sterling" startTime="1559.968" stopTime="1588.403">
+            <label>Mr. David Sterling</label>
+            <text syncTime="1559.968" offset="6344265">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1562.335" offset="6353774">Basic recognized that, absent the class-wide presumption of fraud on the market reliance, individual issues of reliance predominate, as they do in any other fraud context.</text>
+            <text syncTime="1574.310" offset="6401630">Consequently, when a district court, after the rigorous analysis required by Rule 23, finds that the presumption is unavailable or rebutted, reliance ceases to be a class-wide issue.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1588.403" stopTime="1601.127">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1588.403" offset="6458055">I -- I -- when -- what in the Fifth Circuit's decision puts this inquiry into the reliance prong and where did you argue it this way below?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="1601.127" stopTime="1612.434">
+            <label>Mr. David Sterling</label>
+            <text syncTime="1601.127" offset="6508941">We argued it below based upon the premise in Basic that the presumption is rebutted when there is proof--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1612.434" stopTime="1612.701">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1612.434" offset="6554081">Could you--</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="1612.701" stopTime="1613.868">
+            <label>Mr. David Sterling</label>
+            <text syncTime="1612.701" offset="6555230">--that the market price did not distort--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1613.868" stopTime="1630.813">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1613.868" offset="6559828">--Could you give me a place in the record where you actually said that, as opposed to relying on Oscar to argue that the Fifth Circuit was right in addressing as a merits question whether the plaintiff had proven loss causation?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="1630.813" stopTime="1640.086">
+            <label>Mr. David Sterling</label>
+            <text syncTime="1630.813" offset="6627641">--It was not addressed as a merits question, Justice Sotomayor.</text>
+            <text syncTime="1633.598" offset="6638822">It was addressed, as Oscar said, as a prerequisite for finding reliance in order to certify the class.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1640.086" stopTime="1646.405">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1640.086" offset="6664735">So you're not defending the rationale of the Fifth Circuit now?</text>
+            <text syncTime="1642.454" offset="6674244">You're -- you're sort of backing yourself into the reliance element?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="1646.405" stopTime="1678.627">
+            <label>Mr. David Sterling</label>
+            <text syncTime="1646.405" offset="6690022">We are not defending all of the language in Oscar, clearly, but the basic test in the Fifth Circuit, as our case made clear on pages 116a and 119a of the petition appendix, is not loss causation; it's price impact, because Basic says at page 248 any showing that severs the link between the misrepresentation and the stock price defeats the presumption.</text>
+            <text syncTime="1670.271" offset="6785526">Basic makes clear on that same page that a showing that the stock price was not distorted by the misrepresentation defeats the presumption.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1678.627" stopTime="1691.101">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1678.627" offset="6818858">But, Mr. Sterling, if I think -- if I disagree with you and I think that Oscar said that loss causation needs to be shown at the certification stage, you agree that that is not a correct statement of the law; is that correct?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="1691.101" stopTime="1759.163">
+            <label>Mr. David Sterling</label>
+            <text syncTime="1691.101" offset="6868804">We do agree with that, Justice Kagan.</text>
+            <text syncTime="1692.553" offset="6874655">But our opinion made clear that it's not loss causation as this Court knows it in Dura; the test is simply price impact.</text>
+            <text syncTime="1700.576" offset="6906734">And the Fifth Circuit recognized -- and the Fund recognized this below on page 551a of the Joint Appendix -- their only burden under the Fifth Circuit caselaw was to show price impact, and they could show it either of two ways.</text>
+            <text syncTime="1713.884" offset="6959919">Their papers show this, page 116 and 119a of the joint appendix.</text>
+            <text syncTime="1717.186" offset="6973189">They can show price inflation upon a misrepresentation, which, as this Court made clear in Dura, is not synonymous with loss causation.</text>
+            <text syncTime="1725.357" offset="7005790">Or failing that -- and they could not show that here because their own proof showed that none of the alleged misrepresentations moved the market.</text>
+            <text syncTime="1733.047" offset="7036615">So, the alternative way to show price impact is simply to show a price decline following a corrective disclosure.</text>
+            <text syncTime="1740.367" offset="7065872">And while that showing is similar to loss causation, it's an easier, less rigorous showing of loss causation, because under the price impact test at the Fifth Circuit, all the plaintiff need show is that it's reasonable to infer that some portion of the decline was attributable to the revelation of the truth.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1759.163" stopTime="1787.348">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1759.163" offset="7141000">Mr. Sterling, I wasn't sure what argument you were making in your brief.</text>
+            <text syncTime="1762.567" offset="7154688">One possible argument you could be making is that the plaintiffs have to show a price impact.</text>
+            <text syncTime="1767.684" offset="7175168">Another possible argument you could be making is that you have to have the opportunity to rebut the plaintiff's use of the Basic presumption by yourself showing that there was no price impact.</text>
+            <text syncTime="1780.361" offset="7225846">And you seemed often to be saying the first, even though I would think that the second is the most you can make as a -- as a plausible argument.</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="1787.348" stopTime="1813.082">
+            <label>Mr. David Sterling</label>
+            <text syncTime="1787.348" offset="7253744">If we suggested the first, Justice Kagan, I apologize because we did not intend to.</text>
+            <text syncTime="1791.467" offset="7270254">Basic puts the initial burden on the defendant to show the absence of price impact, showing that the presumed fact does not exist.</text>
+            <text syncTime="1800.490" offset="7306407">Once that threshold showing is made, the burden remains on the plaintiff under Rule 301 and Rule 23 to show by a preponderance of the evidence that the market price was in fact, distorted.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1813.082" stopTime="1813.415">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1813.082" offset="7356771">But -- but why do you--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1813.415" stopTime="1853.707">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1813.415" offset="7358025">The way the Fifth Circuit wrote the decision, the Fifth Circuit seems to be saying: Plaintiffs, you didn't show an initially false representation; and you, you plaintiff, didn't show a -- a corrective statement that caused a price drop.</text>
+            <text syncTime="1832.461" offset="7434198">As I read the Fifth Circuit's decision, it says: Plaintiff, you failed to prove one of the two things that you would have to prove.</text>
+            <text syncTime="1840.048" offset="7464605">And you say: No, they really put the burden on -- on defendants, Fifth Circuit put the burden on defendant and found that defendant had met it instead of the other way around?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="1853.707" stopTime="1900.069">
+            <label>Mr. David Sterling</label>
+            <text syncTime="1853.707" offset="7519253">We agree, Your Honor, that the Fifth Circuit put the initial burden of production on the plaintiff and that's contrary to Basic.</text>
+            <text syncTime="1859.944" offset="7544121">We -- we agree with that.</text>
+            <text syncTime="1861.378" offset="7549868">However, in terms of the Fifth Circuit's language that I believe Your Honor's referring to, that is when the Fifth Circuit was discussing the alleged corrective disclosures.</text>
+            <text syncTime="1870.919" offset="7588112">Because the plaintiff could not show that any of the alleged misrepresentations moved the market, they had to rely upon what they claimed were corrective disclosures.</text>
+            <text syncTime="1880.025" offset="7624474">That was the only way they could show price impact.</text>
+            <text syncTime="1882.225" offset="7633251">The Fifth Circuit, at various times, looked at each of the alleged corrective disclosures and said that's not a corrective disclosure because it doesn't reveal the truth in any way; it's bad news, but it's non-culpable bad news.</text>
+            <text syncTime="1894.534" offset="7682570">It doesn't in any way suggest that Halliburton said something during the class period that was false.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1900.069" stopTime="1990.662">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1900.069" offset="7704722">Can I -- I'm trying this question out.</text>
+            <text syncTime="1903.188" offset="7717157">Try to give me your best answer.</text>
+            <text syncTime="1905.856" offset="7727815">If I don't have it clear enough, just forgive it and go on to another.</text>
+            <text syncTime="1909.877" offset="7743906">As I'm understanding this case with Basic, the idea is there is a presumption.</text>
+            <text syncTime="1917.613" offset="7774835">Somebody lies and says there's an oil well I found oil in.</text>
+            <text syncTime="1921.767" offset="7791449">A lot of people buy on the stock market.</text>
+            <text syncTime="1925.386" offset="7805973">It turns out there was no oil, and a lot of people say they lost money.</text>
+            <text syncTime="1929.505" offset="7822378">All right.</text>
+            <text syncTime="1930.790" offset="7827602">The point of the stock market presumption is to say: Smith, you're a typical plaintiff and this presumption is going to help you by the following.</text>
+            <text syncTime="1940.563" offset="7866681">We're going to say what happened to the typical person on the stock market during that period happened to you, and there are a lot of people who bought and sold on the stork market.</text>
+            <text syncTime="1949.835" offset="7903775">And that's why efficient markets is needed to show at the certification stage, because if there weren't certification -- if that isn't shown, the whole thing falls apart.</text>
+            <text syncTime="1959.559" offset="7942646">But what you're just saying on terms of whether the revelation lowered the price has nothing to do with the question of what happened to the typical person, Smith, happened to you, nothing to do with it.</text>
+            <text syncTime="1975.569" offset="8006698">It has to do with whether anybody was hurt.</text>
+            <text syncTime="1978.771" offset="8019446">Now, that has nothing to do with the certification stage.</text>
+            <text syncTime="1982.406" offset="8033970">That's the win or lose stage.</text>
+            <text syncTime="1985.342" offset="8045777">Now, that's how I'm understanding it at the moment.</text>
+            <text syncTime="1987.960" offset="8056226">So what's wrong with the way I understand it?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="1990.662" stopTime="2039.344">
+            <label>Mr. David Sterling</label>
+            <text syncTime="1990.662" offset="8067093">Justice Breyer, the -- the problem is, we're back to reliance.</text>
+            <text syncTime="1995.232" offset="8085274">Basic exists -- Basic creates a presumption as an exception to the long understood rule that fraud cases were not appropriate vehicles for class actions because each individual would have to say, Mr. Smith in your hypothetical, I read Halliburton's statement and I relied upon it.</text>
+            <text syncTime="2010.742" offset="8147341">Basic said, because that's so impractical cases would never be certified, we're going to say we're going to assume the entire market is like Mr. Smith, and Mr. Smith relies on the integrity of the stock price when the stock price is distorted by the misrepresentation.</text>
+            <text syncTime="2028.121" offset="8216931">But if the stock price was not in fact distorted by the misrepresentation, it makes no sense to say everybody relied on the misrepresentation through its effect on the stock price.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2039.344" stopTime="2060.342">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2039.344" offset="8261757">--Which means you would lose.</text>
+            <text syncTime="2040.761" offset="8267400">I -- I mean, which means that the plaintiff would lose.</text>
+            <text syncTime="2043.463" offset="8278267">But it doesn't mean that there is not a common issue, that the -- that the latter question, whether in fact the market was affected or not is, is not a common question.</text>
+            <text syncTime="2055.771" offset="8327481">Rule 23 only requires that -- that there be a common question.</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2060.342" stopTime="2183.704">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2060.342" offset="8345767">But Justice Scalia, Basic sets forth a special rule.</text>
+            <text syncTime="2063.960" offset="8360187">Basic is an exception to the long-understood rule about the nonsusceptibility in class actions to class treatment of fraud cases.</text>
+            <text syncTime="2071.131" offset="8388921">Basic says it's not just enough to allege the operative facts, and we will presume reliance.</text>
+            <text syncTime="2078.303" offset="8417656">Basic says you have to plead and prove them, and all of those operative facts are subject to common proof.</text>
+            <text syncTime="2084.957" offset="8444197">The efficient market: the efficient market applies to everybody, it's common proof.</text>
+            <text syncTime="2088.592" offset="8458721">Everybody recognizes, everybody agrees, Mr. Boies said so today, and the government said so today: if the market -- if the district court does not find that the market -- that the market for the stock is efficient at the class certification stage, you can't certify, because it's not reasonable to infer then that the misrepresentation was translated into the stock price.</text>
+            <text syncTime="2111.858" offset="8551821">Materiality is another requirement under Basic.</text>
+            <text syncTime="2114.827" offset="8563733">It's a threshold condition.</text>
+            <text syncTime="2115.893" offset="8568017">Again, common proof.</text>
+            <text syncTime="2117.945" offset="8576167">All the courts except for the Seventh Circuit agree materiality must be proven at the class certification level.</text>
+            <text syncTime="2125.117" offset="8604902">Same thing for whether the misrepresentation was public.</text>
+            <text syncTime="2128.152" offset="8617023">If it was not publicly made, it's not reasonable to infer that it had an impact on the stock price.</text>
+            <text syncTime="2133.806" offset="8639592">All of these operative facts are subject to common proof.</text>
+            <text syncTime="2136.758" offset="8651400">But Basic says unless those facts are proven at the class certification stage, the presumption of class-wide reliance doesn't apply and individual issues of reliance predominate.</text>
+            <text syncTime="2149.650" offset="8703018">The same must be true for rebuttal proof.</text>
+            <text syncTime="2152.935" offset="8716184">Basic says eight times that the presumption is rebuttable, and it makes no sense at all to rely upon these indirect or surrogate, circumstantial proof of whether the misrepresentation moved the market.</text>
+            <text syncTime="2169.479" offset="8782326">That's all these are -- materiality, whether it was publicly made, whether the market was efficient.</text>
+            <text syncTime="2174.515" offset="8802492">These are all just surrogates of whether it is reasonable to believe or to infer that the stock price was in fact distorted by the misrepresentation.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2183.704" stopTime="2197.131">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2183.704" offset="8839168">Well, could you explain to me why in this case it's not reasonable to believe, meaning assuming the truth, that there was falsity in the statements made, those alleged--</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2197.131" stopTime="2198.447">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2197.131" offset="8892876">Because -- I'm sorry.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2198.447" stopTime="2230.352">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2198.447" offset="8898205">--Assuming truth to those statements, why wouldn't a market react to corrective measures?</text>
+            <text syncTime="2207.521" offset="8934463">Because what I see is a difference between saying it's an inefficient market or that the statements had no price impact for some other merits-related reason.</text>
+            <text syncTime="2225.400" offset="9006038">But why does that tie to an inefficient market at all?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2230.352" stopTime="2241.742">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2230.352" offset="9025787">Well, again, general market efficiency is just a proxy or a surrogate for whether it's reasonable to think the conditions exist for the stock price to be affected by a misrepresentation.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2241.742" stopTime="2253.800">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2241.742" offset="9071344">So tell me why on its face, with the false statements alleged here, why would it be unreasonable to conclude that the market wouldn't respond to them?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2253.800" stopTime="2269.929">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2253.800" offset="9119619">One reason is because the market deemed the information to be immaterial, the market didn't care about it, the market didn't react to it.</text>
+            <text syncTime="2262.073" offset="9152637">Another reason could be that, while a market is generally efficient, a market was inefficient for this type of information.</text>
+            <text syncTime="2269.077" offset="9180745">I--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2269.929" stopTime="2275.047">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2269.929" offset="9184089">Well, but you conceded efficiency below, so you've sort of given up that argument.</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2275.047" stopTime="2376.881">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2275.047" offset="9204569">--We conceded efficiency below because, candidly, their own proof showed that none of the misrepresentations moved the market.</text>
+            <text syncTime="2283.569" offset="9238632">And what we have here is not circumstantial proof of general market efficiency or materiality or whether the statement was public; here there was direct proof that none of these misrepresentations moved the market, and that is the whole premise of the Basic class-wide presumption of reliance.</text>
+            <text syncTime="2304.150" offset="9320970">Basic itself says if the stock price was not distorted by the misrepresentation, you can't say the entire class relied upon the misrepresentation to the stock price.</text>
+            <text syncTime="2313.672" offset="9359109">And that's exactly what we have here.</text>
+            <text syncTime="2315.908" offset="9367991">It is the DNA proof, and it makes no sense for district courts to be certifying class actions based upon this indirect or circumstantial proof while ignoring the direct proof of the absence of price impact.</text>
+            <text syncTime="2328.883" offset="9419922">And in effect what they're asking this Court to do is to extend Basic.</text>
+            <text syncTime="2334.787" offset="9443537">Basic itself is a judicially created presumption designed to make a judicially created cause of action easier to be maintained as a class action.</text>
+            <text syncTime="2347.345" offset="9493797">Now, it was one thing for courts decades ago to imply a private cause of action under 10(b) and it was another thing for this Court to create a rebuttable presumption of reliance in Basic in order to make it easier to maintain these cases as class actions.</text>
+            <text syncTime="2363.521" offset="9558476">But it would do violence to Stoneridge's admonition that the 10b cause of action ought not be further expanded to now make that rebuttable presumption of reliance irrebuttable at the class certification stage.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2376.881" stopTime="2412.554">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2376.881" offset="9611870">But your -- your argument seems to say, to -- to get a class certified you have to virtually prove your case on the merits.</text>
+            <text syncTime="2389.522" offset="9662443">You -- you leave almost nothing over.</text>
+            <text syncTime="2394.676" offset="9683132">I mean, if you've won the class action certification on your basis and you've shown the material misleading and the price dropped as a consequence, the efficient market first -- you've shown all that, what else is left on the merits?</text>
+            <text syncTime="2410.185" offset="9745095">You win on the merits if you win certification.</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2412.554" stopTime="2471.926">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2412.554" offset="9754603">Justice Ginsburg, that -- that is not our position.</text>
+            <text syncTime="2415.339" offset="9765784">Our position is in order to get the class-wide presumption of reliance, it's the plaintiff's burden to plead and prove upfront as threshold facts, a public misrepresentation that was material made in an efficient market.</text>
+            <text syncTime="2431.182" offset="9829104">However, the defendant has the right at the class certification stage to rebut that presumption by any showing, to quote Basic,</text>
+            <text syncTime="2439.872" offset="9863899">"that severs the length between the misrepresentation and the stock price. "</text>
+            <text syncTime="2442.990" offset="9876334">When that threshold showing is made, the burden is back on the plaintiff to demonstrate the necessary linkage.</text>
+            <text syncTime="2450.845" offset="9907785">It's not a finding on the merits.</text>
+            <text syncTime="2453.129" offset="9916876">A determination at the class certification stage is simply one of whether the Rule 23(b) predominance requirement is met and whether the class can appropriately proceed as a class, as opposed to in the traditional individual fashion, and that finding is not binding on the ultimate finder of fact.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2471.926" stopTime="2483.484">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2471.926" offset="9992108">Mr. Sterling, maybe this is just to repeat Justice Ginsburg's question, but what else is there?</text>
+            <text syncTime="2477.045" offset="10012588">I mean, what would not be proper to introduce in the way that you're talking about at the certification stage?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2483.483" stopTime="2488.435">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2483.483" offset="10038293">Falsity, scienter, actual proof of loss causation, and damages.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2488.435" stopTime="2495.541">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2488.435" offset="10058146">The Fifth Circuit suggested that scienter could come in at the -- at the certification stage.</text>
+            <text syncTime="2494.339" offset="10081761">You're disclaiming that?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2495.541" stopTime="2554.961">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2495.541" offset="10086567">Footnote 35 of the Fifth Circuit opinion makes clear that it is not requiring scienter.</text>
+            <text syncTime="2500.410" offset="10106002">The Fifth Circuit says, in response -- in analyzing what is or is not a corrective disclosure, it says it has to do something that suggests that a statement was made that is potentially actionable was false.</text>
+            <text syncTime="2514.568" offset="10162636">Otherwise it's not a revelation of the truth.</text>
+            <text syncTime="2517.586" offset="10174757">And all that is, again, is a second way under the Fifth Circuit's test of showing whether there is the necessary price impact to justify certifying a class, or alternatively to determine that individual issues of reliance predominate.</text>
+            <text syncTime="2531.762" offset="10231495">And allowing the defendants to rebut the presumption of reliance at the class certification stage is consistent with this Court's class action case law and with Rule 23.</text>
+            <text syncTime="2543.903" offset="10279978">This Court has consistently said that the Rule 23 requirements are not to be presumed, they're not to be assumed, they have to be found.</text>
+            <text syncTime="2552.509" offset="10314459">Actual conformance is the test.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2554.961" stopTime="2566.602">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2554.961" offset="10324281">The only requirement we're talking about is (b)(3) because it's -- it's not argued and the district court found that all of the 23(a) requirements were satisfied.</text>
+            <text syncTime="2564.833" offset="10363779">That's not the particular--</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2566.602" stopTime="2611.464">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2566.602" offset="10370779">Correct Your Honor.</text>
+            <text syncTime="2567.268" offset="10373496">But 23(b)(3) requires a court to make a finding that predominance exists.</text>
+            <text syncTime="2573.939" offset="10400141">And the 2003 amendments to the -- to Rule 23 make clear that a court should not certify a class unless and until it is satisfied that all of the Rule 23 requirements are met; and it makes no sense to say that a court is going to conduct this rigorous analysis and make the Rule 23(b)(3) findings without considering the defendant's rebuttal proof of whether, in fact, there was price impact, because Basic itself says if there is no price impact, the presumption falls away, individual issues of reliance predominate, and the class cannot be certified.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2611.464" stopTime="2627.140">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2611.464" offset="10550293">On your rebuttal proof point, you said just now that all you had to do was come forward with some evidence, but that the burden remains on the plaintiff.</text>
+            <text syncTime="2621.486" offset="10590312">Is that -- what kind of evidence do you think you have to come forward with in order to flip the burden back to the plaintiff?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2627.140" stopTime="2641.399">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2627.140" offset="10612987">Well, under Basic, it's any showing that severs the link, and here it was proof -- we had our own expert that demonstrated that, again kind of harping on their expert -- none of the misrepresentations inflated the stock price--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2641.399" stopTime="2657.909">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2641.399" offset="10670038">So you're saying you can put an expert on the stand and the expert will say there was no price impact, and then the plaintiffs have to make the case that there, in fact, was a -- a price impact at the certification stage, that the plaintiffs have to prove that by a preponderance?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2657.909" stopTime="2658.909">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2657.909" offset="10736076">--Correct, Your Honor.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2658.909" stopTime="2660.175">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2658.909" offset="10740046">Once you put a expert on the -- on the stand.</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2660.175" stopTime="2673.149">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2660.175" offset="10745062">Under Rule 301, the presumption does not shift the ultimate burden of proof.</text>
+            <text syncTime="2664.210" offset="10761258">It stays on the party that -- that bears it.</text>
+            <text syncTime="2666.245" offset="10769408">That is consistent with Rule 23 as well, which puts the burden on the plaintiff, to prove all of the Rule 23 elements exist.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2673.148" stopTime="2687.539">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2673.148" offset="10796993">Well, that does suggest that the Basic presumption isn't worth much in your world.</text>
+            <text syncTime="2676.683" offset="10811099">That you put an expert on the stand, and the Basic presumption falls away, and the plaintiffs have to actually prove their case at that very early stage that there was no price impact.</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2687.539" stopTime="2725.163">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2687.539" offset="10854567">We agree, Your Honor, that they have to show price impact, but that's not a hard burden to show.</text>
+            <text syncTime="2692.276" offset="10873480">If any of their 22 -- they allege that we made misrepresentations that were false on 22 days during the class period.</text>
+            <text syncTime="2700.763" offset="10907439">All they had to do was show one day during that class period statistically significant price movement, and they're in.</text>
+            <text syncTime="2707.036" offset="10932517">Or all they had to show was any of the alleged -- I've forgotten how many -- corrective disclosures during the class period.</text>
+            <text syncTime="2713.272" offset="10957490">Any one day, if there was a -- a meaningful price movement that a court could infer was related to the revelation of truth, that's all they need to show.</text>
+            <text syncTime="2723.978" offset="11000330">But they couldn't show that.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2725.163" stopTime="2747.477">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2725.163" offset="11005032">Counsel, I suppose if you prevail and a defendant tries to establish at the certification stage that there's no loss causation and loses, then that's law of the case and you've missed the three opportunities that Mr. Boies was willing to give you at the pleading stage, summary judgment, and the merits.</text>
+            <text syncTime="2745.411" offset="11086012">That issue is out of the case if you lose, right?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2747.477" stopTime="2771.776">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2747.477" offset="11094267">No, Your Honor, because the finding at the class certification stage is not binding upon the ultimate fact finder.</text>
+            <text syncTime="2754.932" offset="11124151">So if the -- if the Court determines by a preponderance of the evidence that reliance is not there, if the Court -- if the case goes to trial and an individual plaintiff brings his or her own case based upon subjective reliance, that the Court's determination that the class certification stage is not binding on the jury.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2771.776" stopTime="2785.052">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2771.776" offset="11191547">What if there's no -- no new evidence?</text>
+            <text syncTime="2776.430" offset="11210146">One of the objections to your theory is you don't have discovery at the certification stage.</text>
+            <text syncTime="2781.767" offset="11231462">What if you have no new evidence to put on at later stages?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2785.052" stopTime="2839.872">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2785.052" offset="11244628">It's possible that the jury would agree with the judge who made the determination at the class certification hearing, it's possible that the judge -- that the jury might not.</text>
+            <text syncTime="2794.392" offset="11281930">But the discovery issue, Your Honor, is a complete red herring, because Rule 23 makes clear that the district court has ample discretion at the class certification stage to allow discovery into the merits to the extent that they are relevant to the class certification issue.</text>
+            <text syncTime="2810.936" offset="11348177">And more importantly here, the Fund never asked for discovery.</text>
+            <text syncTime="2815.388" offset="11365940">In fact, when the Fund filed its motion for class certification on page 139A of the joint appendix, the Fund said no discovery is needed to resolve this motion except for expert discovery.</text>
+            <text syncTime="2827.279" offset="11413483">The Fund never asked for discovery at the district court level, the Fund never asked for discovery at the Fifth Circuit.</text>
+            <text syncTime="2832.933" offset="11436157">The only time they've ever hinted that they wanted discovery related to the class certification issue was at this Court.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2839.872" stopTime="2871.075">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2839.872" offset="11463847">I thought that the whole reason you -- you say that the class certification stage is so significant is precisely because once the class is certified, there will be immense discovery on the merits of the case, which will be so expensive for defendants that they're inclined to throw in the towel.</text>
+            <text syncTime="2865.504" offset="11566456">Now you're telling us that you -- you want to move discovery up to the class certification stage?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2871.075" stopTime="2877.629">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2871.075" offset="11588712">Justice Scalia, that was not my point, and I apologize if -- if it came out that way.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2877.628" stopTime="2880.147">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2877.628" offset="11614939">I -- I -- I'm sure it wasn't your point, but--</text>
+            <text syncTime="2879.747" offset="11623403">[Laughter]</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2880.147" stopTime="2911.219">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2880.147" offset="11624970">All -- all -- all I was -- all I suggesting that if a plaintiff were to say, you know, Your Honor, to the district court, we think we -- we can't -- we should not have the class certification hearing yet because we need some discovery on point A, B, C, which did not happen here, the district court can say fine or can say I don't think you need it.</text>
+            <text syncTime="2899.827" offset="11703756">But the premise of your question is certainly correct.</text>
+            <text syncTime="2903.279" offset="11717548">The grant of class certification is a seminal event in a 10b-5 case.</text>
+            <text syncTime="2908.267" offset="11737506">It has huge repercussions for the defendant.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2911.219" stopTime="2933.132">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2911.219" offset="11749313">No, no, no.</text>
+            <text syncTime="2912.019" offset="11752448">You -- on page 13 of your brief you say one of the objections to it -- to your opponents or your friends' view is that it would just postpone the defendant's ability to rebut the presumption, result in countless classes being certified with the certain knowledge that they would have to be decertified later.</text>
+            <text syncTime="2929.096" offset="11820784">Well, if it's so certain, then there's no in terrorem effect.</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="2933.132" stopTime="2972.423">
+            <label>Mr. David Sterling</label>
+            <text syncTime="2933.132" offset="11836876">Just when -- that's assuming that the defendant has the wherewithal to stick it out through it all, but the sheer grant of class certification which aggregates hundreds, tens, thousands -- tens of thousands of these claims together in one big case makes every one of these cases, in effect, a company case, and it puts huge settlement pressure on the defendant.</text>
+            <text syncTime="2957.248" offset="11933424">I mean, in -- in this case Halliburton had 440 million shares of stock outstanding during the class period.</text>
+            <text syncTime="2962.751" offset="11955367">The class period lasts 2 1/2 years.</text>
+            <text syncTime="2965.353" offset="11965816">It's easy to do the math and say that had this class been certified, there would have been huge pressure upon Halliburton to settle.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2972.423" stopTime="3007.346">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2972.423" offset="11994133">Does your rule apply in all fraud cases?</text>
+            <text syncTime="2975.827" offset="12007717">That is, a thousand farmers say, Mr. Jackson was our common buying agent, and the defendant lied to Mr. Jackson, and he relied on the lie.</text>
+            <text syncTime="2985.517" offset="12046482">It is a common issue whether he relied on the lie or he didn't rely on the lie.</text>
+            <text syncTime="2990.421" offset="12066126">I can understand somebody saying at the certification stage they have to see whether he's really a common agent.</text>
+            <text syncTime="2996.408" offset="12090055">But let's imagine that's assumed.</text>
+            <text syncTime="2998.508" offset="12098414">The only question left is, did he rely or not rely?</text>
+            <text syncTime="3002.978" offset="12116281">Is that a question for the merits or is that a question for the common -- for the--</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="3007.346" stopTime="3010.548">
+            <label>Mr. David Sterling</label>
+            <text syncTime="3007.346" offset="12133731">Basic is really an exception that applies only--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3010.548" stopTime="3014.286">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3010.548" offset="12146584">--So you're saying in the case that I just gave you reliance is for the merits?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="3014.286" stopTime="3015.569">
+            <label>Mr. David Sterling</label>
+            <text syncTime="3014.286" offset="12161526">--Correct, Your Honor.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3015.569" stopTime="3020.023">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3015.569" offset="12166646">Whether he really relied or didn't rely, the common agent is for the merits?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="3020.023" stopTime="3020.773">
+            <label>Mr. David Sterling</label>
+            <text syncTime="3020.023" offset="12184513">But you couldn't have--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3020.773" stopTime="3021.973">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3020.773" offset="12187439">Is that -- is that your answer is?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="3021.973" stopTime="3027.258">
+            <label>Mr. David Sterling</label>
+            <text syncTime="3021.973" offset="12192246">--No, Your Honor.</text>
+            <text syncTime="3022.473" offset="12194335">You couldn't have a case in that situation because reliance is an individual issue.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3027.258" stopTime="3049.956">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3027.258" offset="12213457">No.</text>
+            <text syncTime="3027.708" offset="12215233">A thousand people say Mr. Jackson is our common buying agent, and the defendant lied to this common buying agent, and he represented us.</text>
+            <text syncTime="3040.701" offset="12267165">Relied on that.</text>
+            <text syncTime="3042.368" offset="12273852">I'm asking if you that issue of reliance in an appropriate case is for the certification stage?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="3049.956" stopTime="3051.492">
+            <label>Mr. David Sterling</label>
+            <text syncTime="3049.956" offset="12304259">Yes, Your Honor, because--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3051.492" stopTime="3051.775">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3051.492" offset="12310319">Yes.</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="3051.775" stopTime="3055.927">
+            <label>Mr. David Sterling</label>
+            <text syncTime="3051.775" offset="12311468">--you still have everybody having to say Mr. Jackson is my agent.</text>
+            <text syncTime="3055.277" offset="12325470">That's--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3055.927" stopTime="3057.729">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3055.927" offset="12328082">And they also have to prove there is a lie?</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="3057.729" stopTime="3068.168">
+            <label>Mr. David Sterling</label>
+            <text syncTime="3057.729" offset="12335292">--Right.</text>
+            <text syncTime="3057.962" offset="12336232">And that's a -- but the individualized question of reliance is simply, is Mr. Jackson your agent or not?</text>
+            <text syncTime="3063.181" offset="12357130">Because of that there is no common issue that -- that predominates on reliance.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3068.168" stopTime="3070.787">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3068.168" offset="12377088">Okay.</text>
+          </turn>
+          <turn speaker="david_sterling" startTime="3070.787" stopTime="3074.106">
+            <label>Mr. David Sterling</label>
+            <text syncTime="3070.787" offset="12387537">If there are no further questions, we would ask that the judgment below be affirmed.</text>
+            <text syncTime="3073.422" offset="12398090">Thank you.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3074.106" stopTime="3078.810">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3074.106" offset="12400807">Thank you, Mr. Sterling.</text>
+            <text syncTime="3075.691" offset="12407181">Mr. Boies, you have 5 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3078.810" stopTime="3369.396">
+          <heading>Rebuttal of David Boies</heading>
+          <turn speaker="david_boies" startTime="3078.810" stopTime="3140.966">
+            <label>Mr. David Boies</label>
+            <text syncTime="3078.810" offset="12419615">Thank you, Your Honor.</text>
+            <text syncTime="3079.843" offset="12423795">Thank you, Mr. Chief Justice.</text>
+            <text syncTime="3081.595" offset="12430796">Let me respond to Mr. Sterling's statement that all we had to do was show one statistically significant price movement.</text>
+            <text syncTime="3090.867" offset="12467890">As the Court is aware from the briefing, on December 7th of 2001, the Halliburton put out a release that indicated that their prior statements that their asbestos reserves were -- were adequate were not -- were not true.</text>
+            <text syncTime="3107.912" offset="12536017">The stock dropped 42 percent, more than 42 percent.</text>
+            <text syncTime="3112.614" offset="12554825">The actual drop was 42.4.</text>
+            <text syncTime="3116.249" offset="12569349">Expert witnesses calculated that the company's specific drop was slightly larger than that because the market was generally going up that day.</text>
+            <text syncTime="3126.456" offset="12610205">But it was a dramatic drop.</text>
+            <text syncTime="3129.075" offset="12620654">Their own expert, as is indicated in the briefing, agreed that there wasn't anything else happening that day other than asbestos news, and so--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3140.966" stopTime="3149.156">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3140.966" offset="12668301">So you win, so you win at the certification stage or at the pleading stage, whatever.</text>
+            <text syncTime="3146.620" offset="12690871">So why is it such I big deal to you here?</text>
+          </turn>
+          <turn speaker="david_boies" startTime="3149.156" stopTime="3367.646">
+            <label>Mr. David Boies</label>
+            <text syncTime="3149.156" offset="12701006">--Because under the -- the Fifth Circuit rule, I understand that counsel disavows the actual language of the Fifth Circuit rule, but it was that language that the district court relied on in failing to certify the class.</text>
+            <text syncTime="3162.797" offset="12755550">And with -- with -- with respect to the Fifth Circuit test, what the Fifth Circuit says is that because the announcement on December 7th did not specifically reference the prior announcements, it cannot be considered a correction of those prior announcements.</text>
+            <text syncTime="3183.259" offset="12837470">Indeed, the court, the Fifth Circuit goes even further, and this is at page 338 of the F. Supp. opinion.</text>
+            <text syncTime="3190.530" offset="12866518">It says, quote: The district court must decide whether the corrective disclosure more probably than not shows that the original estimates or predictions were designed to defraud.</text>
+            <text syncTime="3203.105" offset="12916778">So what the Fifth Circuit is doing is it's bringing, even the defrauding aspect, not just the falsity aspect, but the defrauding aspect right into the class certification stage.</text>
+            <text syncTime="3216.015" offset="12968500">And I think Justice Scalia's question was exactly on point with respect to discovery, because either they're going to make these merits decisions without discovery or you're going to have all of the discovery before you have the class certification.</text>
+            <text syncTime="3233.643" offset="13038926">It's got to be one or the other.</text>
+            <text syncTime="3235.593" offset="13046763">And in either case what is happening is you're converting what Rule 23 says is an issue as to whether common issues predominate into an issue as to what is the strength of the merits claim that the plaintiff has, and while it is true, reliance is part of the merits claim.</text>
+            <text syncTime="3259.092" offset="13140804">The reason reliance is different is because reliance, if it -- if there is no reliance, if there's no efficient market, then reliance can make individual issues predominate, but when the only issue is not a step issue like efficient market, but is a direct merits issue, there isn't any way that you can make individual issues predominate regardless of how you decide it; and loss causation and price distortion are both those kind of common issues; and counsel says he doesn't defend the -- the actual loss causation statements of the -- of the -- of the Fifth Circuit, and what I would ask is whether the Court, if the Court does decide to send it back, that the Court look at what the right standard is for the court below to be applying when it deals with class certification.</text>
+            <text syncTime="3324.867" offset="13403909">And I would urge the Court that when you have pleadings, summary judgment, and trial tests for merits questions, then you don't need another merits test on -- at the class certification stage, even if Rule 23 permitted it, which we don't think it does.</text>
+            <text syncTime="3345.365" offset="13485829">What Rule 23 is designed to do is simply say are individual issues or common issues going to predominate?</text>
+            <text syncTime="3353.053" offset="13516654">And all of the class have the same loss causation, have the same price distortion issues.</text>
+            <text syncTime="3362.242" offset="13553330">If the Court has no more questions, that completes my argument.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3367.646" stopTime="3370.479">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3367.646" offset="13574959">Thank you, counsel, counsel.</text>
+            <text syncTime="3369.396" offset="13581960">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

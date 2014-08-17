@@ -1,0 +1,60 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:33:58" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="1688153">/xml/cases/1998/98_405/20000124o_98-405.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1999/trs/98-405_20000124-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="400.500">
+        <title>Reno v. Bossier Parish School Board</title>
+        <section startTime="0" stopTime="400.500">
+          <heading/>
+          <turn speaker="john_paul_stevens" startTime="0.000" stopTime="5.105">
+            <label>Justice Stevens</label>
+            <text syncTime="0.000" offset="85906">Justice Scalia has an opinion to announce.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="5.105" stopTime="400.500">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="5.105" offset="106282">Opinions to announce in Reno versus Bossier Parish School Board, No. 98-405 and Price versus Bossier Paris School, 98-406.</text>
+            <text syncTime="17.328" offset="155183">These cases come to us on appeal from a three judge panel of the United States District Court for the District of Colombia and they are here before us for the second time.</text>
+            <text syncTime="28.005" offset="197919">Bossier Parish, Louisiana is a jurisdiction covered by Section 5 of the Voting Rights Act of 1965, which prohibits jurisdictions in certain parts of the country from enacting any change in a voting procedure without first obtaining pre-clearance from either the Attorney General or the District Court for the District of Columbia.</text>
+            <text syncTime="50.161" offset="286526">Following the 1990 Census, the Bossier Parish School Board sought pre-clearance for a proposed redistricting plan from the Attorney General.</text>
+            <text syncTime="59.011" offset="321948">After she refused to grant it, the Board turned to the District Court.</text>
+            <text syncTime="63.820" offset="341175">Section 5 authorizes pre-clearance of a proposed voting change that "does not have the purpose and will not have the effect of denying or abridging the right to vote on account of race or color."</text>
+            <text syncTime="79.023" offset="401988">That's the critical language here.</text>
+            <text syncTime="81.603" offset="412228">Before the District Court, the government conceded that the Board’s plan did not have a prohibited effect under this definition, but claimed that it violated Section 5 because it was enacted for a discriminatory purpose namely diluting the voting strength of the votes of black voters.</text>
+            <text syncTime="101.106" offset="490282">The District Court granted pre-clearance.</text>
+            <text syncTime="103.600" offset="500208">On appeal the first time around we vacated and remanded for further proceedings as to the Board’s purpose in adopting its plan.</text>
+            <text syncTime="111.733" offset="532809">On remand, the District Court again granted pre-clearance concluding that there was no evidence of discriminatory but non-retrogressive purpose.</text>
+            <text syncTime="121.531" offset="571993">I will explain shortly what a retrogressive purpose consist of.</text>
+            <text syncTime="126.998" offset="593831">The District Court left open the question whether Section 5 prohibits pre-clearance of a plan enacted with a non-retrogressive purpose.</text>
+            <text syncTime="137.592" offset="636254">We affirm.</text>
+            <text syncTime="139.200" offset="642628">Section 5 is an unusual provision.</text>
+            <text syncTime="141.612" offset="652345">In that it places the burden of proof on the party seeking to avoid a legal prohibition, rather than on the party seeking to assert.</text>
+            <text syncTime="150.045" offset="685991">That is to say the burden is on the covered jurisdiction to show that the proposed change, the critical language, does not have the purpose and will not have the effect of denying or abridging the right to vote on account of race or color.</text>
+            <text syncTime="166.270" offset="750984">In a case called Beer versus United States, we held that a proposed change to a districting scheme which allegedly diluted the minority vote, that has made it difficult for the minority to elect the candidate of its choice, could be denied preclearance under Section 5 only if it was retrogressive.</text>
+            <text syncTime="187.062" offset="834053">That is to say if it was worse in so far as the minority’s ability to elect their candidates was concerned than the districting scheme already in effect.</text>
+            <text syncTime="197.339" offset="875222">We gave various reasons for that result including the fact that the consequence of rejecting Section 5 preclearance is simply to leave the preexisting apportionment scheme in place, which may well be more diluted in its effect than the new one.</text>
+            <text syncTime="213.928" offset="941573">We say that the remedy for a vote dilution simpliciter as opposed to vote dilution which places minority voters in a worst position than they currently occupy is a suit under Section 2 of the Voting Rights Act, which will permit the court not only to disallow the new apportionment, but to invalidate the existing one but in which it will be the burden of the plaintiff to establish the dilution.</text>
+            <text syncTime="239.323" offset="1043137">The Beer case which I have just described, dealt with the effect prong of Section 5.</text>
+            <text syncTime="246.125" offset="1070304">In the present case, the government contends that in qualifying the term, ‘purpose’ the same phrase denying or abridging the right to vote on account of race or color is not limited to retrogression but means vote dilution more generally, so that a voting change which has the effect of diluting minority votes, though diluting them less than the existing system would be entitled to preclearance whereas a voting change which has that very same purpose would not.</text>
+            <text syncTime="276.995" offset="1193811">We reject that contention.</text>
+            <text syncTime="278.974" offset="1201753">The Government’s primary argument is that subjecting both prongs to the same limitation produces a purpose prong with a trivial reach covering only what the government calls incompetent retrogressions.</text>
+            <text syncTime="292.648" offset="1256401">If this were true and if it were adequate to justify giving the very same words different meanings when qualifying purpose and when qualifying effect.</text>
+            <text syncTime="303.030" offset="1297988">There would be cases in which we have applied such a construction to the innumerable statute barring conduct with a particular purpose or effect, yet we are aware of no such case.</text>
+            <text syncTime="314.290" offset="1343023">Moreover, the purpose prong has value and effect even when it does not cover conduct additional to that of a so-called incompetent retrogressive.</text>
+            <text syncTime="323.856" offset="1381266">The Government need only refute a jurisdiction's prima facie showing that a proposed voting change does not have a retrogressive purpose, and need not counter the jurisdiction's evidence regarding actual retrogressive effect.</text>
+            <text syncTime="338.305" offset="1439049">Although almost identical language in Section 2 of the Voting Rights Act and in the Fifteenth Amendment has been read to refer not only to retrogression but to discrimination more generally, giving the language different meaning in Section 5 is faithful to the different context in which the term "abridging" is used.</text>
+            <text syncTime="356.808" offset="1513132">We decided that question in Beer.</text>
+            <text syncTime="359.459" offset="1523686">A contrary reading would exacerbate the substantial federalism costs that preclearance already exacts and would perhaps raise concerns about Section 5 constitutionality.</text>
+            <text syncTime="371.707" offset="1572691">Justice Thomas has filed a concurring opinion, Justice Souter has filed an opinion concurring in part and dissenting part in which Justices Stevens, Ginsburg and Breyer have joined; Justice Stevens has filed a dissenting opinion in which justice Ginsburg has joined; Justice Breyer has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

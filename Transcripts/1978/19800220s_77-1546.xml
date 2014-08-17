@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="301976">/xml/cases/1978/77_1546/19800220o_77-1546.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1979/trs/77-1546op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="75.430">
+        <title>Stafford v. Briggs</title>
+        <section startTime="0.000" stopTime="70.489" revised="2014-01-22">
+          <heading>Opinion Announcement of Justice Potter Stewart</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="68.291">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="">I have the disposition to announce in two related cases, Stafford, United States Attorney against Briggs, and Colby, the Director of the CIA against Driver.</text>
+            <text syncTime="13.839" offset="55275">The first case coming from the Court of Appeals of the District of Columbia and the second from the First Circuit for reasons stated in an opinion the Court filed today, the judgment of the United States Court of Appeals for the District of Columbia Circuit in the first case and the judgment of the Court of Appeals for the First Circuit in the second are reversed.</text>
+            <text syncTime="41.062" offset="164153">And the cases are remanded for further proceedings consistent with the opinion filed today.</text>
+            <text syncTime="49.046" offset="196127">Mr. Justice White took no part in the consideration or decision of the case of either of these cases.</text>
+            <text syncTime="56.384" offset="225489">Mr. Justice Marshall took no part in the decision of either of these cases.</text>
+            <text syncTime="63.711" offset="254746">And Mr. Justice Stewart filed a dissent.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="68.291" stopTime="70.489">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="68.291" offset="273136">Which Mr. Justice Brennan joined.</text>
+          </turn>
+        </section>
+        <section startTime="70.489" stopTime="75.430" revised="2014-01-22">
+          <heading>Opinion Announcement of Chief Justice Warren E. Burger</heading>
+          <turn speaker="warren_e_burger" startTime="70.489" stopTime="75.430">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="70.489" offset="281913">Joined by Mr. Justice Brennan.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

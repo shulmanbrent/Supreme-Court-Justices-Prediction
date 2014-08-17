@@ -1,0 +1,23 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-08T13:17:17" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-08</identified>
+      </history>
+      <resources>
+        <audioFile size="140278">/xml/cases/1987/87_59/19880427o_87-59.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/87-59op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="14.890">
+        <title>Postal Service v. Letter Carriers</title>
+        <section startTime="0" stopTime="14.890">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="14.890">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80928">I have the opinion of the Court to announce the No. 87-59, United States Postal Service versus National Association of Letter Carriers.</text>
+            <text syncTime="9.798" offset="120112">In this case the writ of certiorari is dismissed as improvidently granted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

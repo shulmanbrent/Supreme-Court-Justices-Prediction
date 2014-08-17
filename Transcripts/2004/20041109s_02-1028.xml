@@ -1,0 +1,55 @@
+<transcript verified="true">
+      <history>
+        <transcribed>2004-11-09</transcribed>
+        <edit user="dleib" date="2012-08-12T16:21:41" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <identified user="dleib">2012-08-12</identified>
+        <verified user="jeffpar">2013-08-18</verified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1302149">/xml/cases/2004/02_1028/20041109o_02-1028.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/2004/02-1028_20041109-opinion.xml</sourceFile>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="287.415">
+        <title>Norfolk Southern Railway Company v. James N. Kirby, Proprietary Limited</title>
+        <section startTime="0.000" stopTime="287.415" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice Sandra Day O'Connor</heading>
+          <turn speaker="john_paul_stevens" startTime="0.000" stopTime="7.954">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in Norfolk Southern Railway against Kirby Engineering will be announced by Justice O'Connor.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="7.954" stopTime="287.415">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="7.954" offset="31765">This case comes to us on writ of certiorari to the Court of Appeals for the Eleventh Circuit.</text>
+            <text syncTime="13.672" offset="54648">This is a maritime case about a train wreck.</text>
+            <text syncTime="17.575" offset="70217">James Kirby, an Australian Manufacturing Company, sold 10 containers of machinery to a General Motors plant located outside Huntsville, Alabama.</text>
+            <text syncTime="28.275" offset="113058">It hired International Cargo Control, which I will call ICC, an Australian freight forwarding company, to arrange the delivery.</text>
+            <text syncTime="37.840" offset="151301">Because it does not itself actually moved cargo, ICC then hired Hamburg Sud, a German ocean shipping company to transport the machinery.</text>
+            <text syncTime="49.101" offset="196336">Hamburg Sud intern hired Norfolk Southern Railway to transport the machinery on its final leg from the port in Savannah, Georgia to the destination in Huntsville.</text>
+            <text syncTime="61.637" offset="246491">The Norfolk train carrying the goods derailed in route causing an alleged 1.5 million in damages.</text>
+            <text syncTime="70.098" offset="280346">Kirby and its insurers sued Norfolk Railroad in Federal District Court in Georgia alleging tort and contract claims.</text>
+            <text syncTime="78.893" offset="315559">Norfolk argued that Kirby's potential recovery could not exceed the amounts set forth in the liability limitations in the two contracts negotiated for the machinery's carriage, a contract between Kirby and ICC, and a contract between ICC and Hamburg Sud.</text>
+            <text syncTime="98.194" offset="392673">The District Court granted Norfolks motion for partial summary judgment.</text>
+            <text syncTime="102.568" offset="410227">A divided panel of the Eleventh Circuit reversed.</text>
+            <text syncTime="105.639" offset="422452">In an opinion filed with the Clerk of the Court today, we reverse the Eleventh Circuit judgment.</text>
+            <text syncTime="111.995" offset="447948">As a preliminary matter, we hold that federal law governs the interpretation of the two contracts at issue.</text>
+            <text syncTime="119.703" offset="478772">We think that the two contracts here are maritime contracts because their primary objective is to accomplish the transportation of goods by sea from Australia to the eastern coast of the United States.</text>
+            <text syncTime="135.153" offset="540526">While some state and Australian concerns are certainly implicated, they cannot be accommodated without defeating the federal interest in preserving the uniform meaning of maritime contracts and the uniformity of maritime law more generally.</text>
+            <text syncTime="152.148" offset="608549">Turning to the merits, we hold that Norfolk can take a shelter in the liability limitations contained in both of the contracts or as the shipping industry calls them, Bills of Lading.</text>
+            <text syncTime="164.458" offset="657763">The first bill of lading that ICC issued to Kirby says that its liability limitation should extend to any servant agent or other person including any independent contractor whose services have been used in order to perform the contract.</text>
+            <text syncTime="179.113" offset="716382">The plain language of that clause indicates that per its intent to extend liability limitations broadly.</text>
+            <text syncTime="186.872" offset="747416">Hunstville is about 366 miles inland from Savannah, and the parties must have anticipated that a land carrier services would be necessary for the contract's performance.</text>
+            <text syncTime="199.271" offset="797048">It is clear to us that a railroad like Norfolk was an intended beneficiary of the broadly written clause.</text>
+            <text syncTime="206.257" offset="824947">The second bill of lading that Hamburg Sud issued to ICC extends the limitation of the carriage of goods by Sea Act the limit of $500 per package unless expressly provided otherwise to potential damages on land in the course of delivery.</text>
+            <text syncTime="223.893" offset="895478">Applying a rule for our precedent about common carriage, we hold that Kirby is bound by the liability limitation in the contract between Hamburg Sud and the ICC.</text>
+            <text syncTime="234.638" offset="938527">While ICC was not Kirby's agent in every sense, it was for a single limited purpose in negotiating down stream limitations on liability.</text>
+            <text syncTime="245.993" offset="983876">Thus, it was able to bind Kirby when making a contract with Hamburg Sud about liability.</text>
+            <text syncTime="252.604" offset="1010416">This rule tracks practices in the international shipping industry.</text>
+            <text syncTime="257.045" offset="1028180">It promotes non-discrimination on common carriage and we think, produces an equitable result.</text>
+            <text syncTime="263.455" offset="1053780">Accordingly, Kirby cannot recover more than $500 per package from Norfolk and the judgment is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

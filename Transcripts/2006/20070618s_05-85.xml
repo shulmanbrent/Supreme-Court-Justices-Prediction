@@ -1,0 +1,58 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T16:01:20" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1877938">/xml/cases/2006/05_85/20070618o_05-85.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2006/trs/05-85_20070618-opinion.trs</sourceFile>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="446.981">
+        <title>Powerex Corp. v. Reliant Energy Services, Inc.</title>
+        <section startTime="0.000" stopTime="446.981" revised="2014-01-27">
+          <heading>Opinion Announcement of Justice Antonin Scalia</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="10.699">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="90013">Justice Scalia has our opinion this morning in case 05-85 PowerEx Corporation versus Reliant Energy.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="10.699" stopTime="446.981">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="10.699" offset="132749">This case is here on writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="16.331" offset="155319">The plaintiff’s respondents filed a suit in State Courts alleging that various companies in California’s Energy Market had conspired to fix prices in violation of State Law.</text>
+            <text syncTime="29.949" offset="209758">Some of the defendants filed cross-claims seeking indemnity from among other entities two federal agencies BC Hydro a Canadian Corporation that is wholly owned by British-Columbia and thus is a “foreign state” under the Foreign Sovereign Immunities Act and petitioner PowerEx which is a wholly owned subsidiary of BC Hydro.</text>
+            <text syncTime="57.009" offset="318010">These four cross-defendants removed the entire case to Federal Court with BC Hydro and the petitioner here PowerEx relying on the Foreign Sovereign Immunities Act which permits removal by foreign sovereigns.</text>
+            <text syncTime="75.031" offset="390108">The plaintiff’s respondents moved to remand the case back to State Court arguing that petitioner PowerEx was not a foreign state under FSIA and does not entitled to remove to Federal Court, and that the claims against the other three removing defendants the two Federal Agencies and BC Hydro a foreign state were barred by sovereign immunity.</text>
+            <text syncTime="98.752" offset="484984">The District Court agreed and remanded the entire case.</text>
+            <text syncTime="102.959" offset="501807">As relevant here petitioner appealed arguing that it was a foreign sovereign under FSIA.</text>
+            <text syncTime="110.105" offset="530333">The plaintiff’s respondents rejoin that the appeal was jurisdictionally barred by 28 U.S.C §1447(d) which provides “an order remanding a case to the State Court from which it was removed, is not reviewable on appeal, or otherwise.”</text>
+            <text syncTime="130.410" offset="611626">The Ninth Circuit held that §1447(d) did not precluded from considering petitioner’s appeal but it then rejected the appeal on the merits.</text>
+            <text syncTime="141.271" offset="655094">Affirming the District Court’s determination that petitioner was not a “foreign state” within the meaning of FSIA.</text>
+            <text syncTime="148.490" offset="683933">We granted certiorari to consider whether petitioner is a foreign state but we also ask the parties to address whether the Ninth Circuit was correct that appellate jurisdiction existed not withstanding §1447(d).</text>
+            <text syncTime="164.502" offset="747985">In an opinion filed with the clerk today we vacate the judgment of the Ninth Circuit in relevant part and hold that §1447(d) barred review of petitioner’s appeal.</text>
+            <text syncTime="177.250" offset="798976">As I described earlier §1447(d) provides “an order remanding a case to the State Court from which it was removed is not reviewable on appeal or otherwise.”</text>
+            <text syncTime="189.222" offset="846833">Despite this seeming categorical language our cases have interpreted the provision in a more limited fashion.</text>
+            <text syncTime="196.168" offset="874627">We have read §1447(d) in pari materia with §1447(c), so that only remand based on the grounds specified in §1447(c) are shielded from review by §1447(d).</text>
+            <text syncTime="214.188" offset="946725">What that means for this case given the language of §1447(c) and the proceedings below is that §1447(d) bars review only if the District Court remanded the case based on a lack of subject matter jurisdiction.</text>
+            <text syncTime="230.536" offset="1012135">At the outset, we reject petitioner’s claim that a case cannot be remanded for lack of subject matter jurisdiction within the meaning of §1447(c) if the case was properly removed in the first place.</text>
+            <text syncTime="244.143" offset="1066575">Section 1447(c) contains no such limitation in its text and its statutory history conclusively refutes it.</text>
+            <text syncTime="253.281" offset="1103042">We hold that when a District Court remands a properly removed case because it nonetheless lacks subject matter jurisdiction the remand is covered by §1447(c) and shield it from review by §1447(d).</text>
+            <text syncTime="266.857" offset="1157376">Of course, that still requires us to determine whether the District Court in this case remanded based on subject matter jurisdiction.</text>
+            <text syncTime="277.646" offset="1200531">One thing leads to another.</text>
+            <text syncTime="280.903" offset="1213592">As an initial matter it is clear from the record that the court was purporting to remand for lack of subject matter jurisdiction.</text>
+            <text syncTime="290.006" offset="1249954">We have never decided whether §1447(d) permits an Appellate Court to look behind the District Court’s characterization of the ground upon which it is remanding that is in the context of the present case to determine whether the District Court was correct, that if PowerEx was not a foreign sovereign and the other cross defendants had sovereign immunity there was no jurisdiction over claims against PowerEx.</text>
+            <text syncTime="317.924" offset="1361654">While we do not definitively resolve that question today we do hold that such review if permitted at all is limited to insuring that the characterization as lack of subject matter jurisdiction was colorable.</text>
+            <text syncTime="334.415" offset="1427587">Because the ground upon which the District Court based its remand was at least arguably jurisdiction will naturally hold that §1447(d) bars appellate review.</text>
+            <text syncTime="345.894" offset="1473562">So, we never will reach the point of whether the District Court was correct that PowerEx was not a foreign sovereign.</text>
+            <text syncTime="356.505" offset="1515985">The Ninth Circuit held that §1447(d) does not preclude reviewing a District Court’s substantive determinations that precede a remand order to whit it substantive determination that PowerEx was not a foreign sovereign.</text>
+            <text syncTime="371.944" offset="1577739">That holding appears to be premised on our decision in WACO versus United States Fidelity &amp; Guaranty Company the Ninth Circuit erred in relying on WACO because that case does not permit an appeal when as here there is no order separate from the un-reviewable remand order.</text>
+            <text syncTime="390.756" offset="1652971">Finally, we reject petitioner’s contention that Congress did not intend §1447(d) to govern suits properly removed under FSIA that argument is flatly refuted by a long standing precedent back to court from one of our cases absent a clear statutory comment to the contrary we assume that Congress is aware of the universality of the practice of denying appellate review of remand orders when Congress creates a new ground for removal.</text>
+            <text syncTime="426.437" offset="1795704">The judgment of the Ninth Circuit is accordingly vacated in part and the case remanded with instructions to dismiss petitioner’s appeal for want of jurisdiction.</text>
+            <text syncTime="435.355" offset="1831335">Justice Kennedy has filed a concurring opinion in which Justice Alito has joined.</text>
+            <text syncTime="440.255" offset="1850980">Justice Breyer has filed a dissenting opinion in which Justice Stevens has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

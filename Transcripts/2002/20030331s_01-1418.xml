@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2014-01-16T12:20:18" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="828601">/xml/cases/2002/01_1418/20030331o_01-1418.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2002/trs/01-1418_20030331-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="185.861">
+        <title>Archer v. Warner</title>
+        <section startTime="0.000" stopTime="185.861">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.391">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85156">The opinion of the Court in No. 01-1418 Archer against Warner will be announced by Justice Breyer.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="8.391" stopTime="185.861">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="8.391" offset="118697">The Bankruptcy Code provides that a debt shall not be dischargeable, and that means the debt survives bankruptcy ”to the extent” it is for money obtained by fraud.</text>
+            <text syncTime="23.385" offset="178674">Now, the question in this case is whether, the words that I have just read, can cover a debt under an agreement that settles and releases an earlier fraud claim, and we hold that it can.</text>
+            <text syncTime="37.805" offset="236353">The case, in essence, presents the following circumstance: A sues B in state court for money obtained by fraud, A and B then settled the lawsuit.</text>
+            <text syncTime="51.424" offset="290792">The settlement agreement provides that A, here said, that B would pay A $300,000, but B paid only $200,000,  then B went bankrupt, and A says  this remaining $100,000 debt survives bankruptcy because it is for money obtained by fraud.</text>
+            <text syncTime="73.579" offset="379399">B says “No it is not, it is not the money obtained by fraud rather it is for money promised in a settlement agreement”.</text>
+            <text syncTime="81.191" offset="409910">Now, the lower courts agreed with B; they said this settlement agreement worked a novation, it erased whatever old debt there was for fraud and it substituted a new debt which is really a contract debt and it is that new debt which is not for money obtained by fraud, so it is dischargeable in bankruptcy.</text>
+            <text syncTime="103.578" offset="499458">We do not agree with that view.</text>
+            <text syncTime="105.796" offset="508340">In our view you do not have to choose one or the other characterization, you do not have to say either for fraud or for contract, the debt could be both a contract related debt, which is embodied in a settlement agreement and it could also and more basically be a debt for money obtained by fraud.</text>
+            <text syncTime="124.502" offset="583154">At least, for the settled case itself was about fraud.</text>
+            <text syncTime="128.747" offset="600082">This conclusion in our view follows from an earlier Supreme Court case called Brown versus Felsen, there the Court essentially held, as we see it, that the debt embodied in a consent decree could amount to the debt for money obtained by fraud as well wherefore example the case where the consent decree ended was a fraud case.</text>
+            <text syncTime="151.007" offset="689107">We cannot find any significant difference between the consent decree in Brown and the settlement agreement here.</text>
+            <text syncTime="157.599" offset="715543">In both instances, we would follow Congress's desire that bankruptcy court makes the fullest possible inquiry to ensure that all debts arising out of fraud are accepted from discharge no matter what their form.</text>
+            <text syncTime="173.377" offset="778655">For these and other reasons set forth in the opinions, we reverse the Court of Appeals.</text>
+            <text syncTime="178.074" offset="797358">We remand for further proceedings.</text>
+            <text syncTime="180.562" offset="807389">Justice Thomas has filed a dissenting opinion which Justice Stevens has joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

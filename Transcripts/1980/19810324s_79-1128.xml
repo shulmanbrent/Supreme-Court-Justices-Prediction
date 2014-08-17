@@ -1,0 +1,36 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-01</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="469177">/xml/cases/1980/79_1128/19810324o_79-1128.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1980/trs/79-1128op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="94.240">
+        <title>Montana v. United States</title>
+        <section startTime="0" stopTime="94.240">
+          <heading/>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="8.122">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="92073">The judgment and opinion of the Court in Montana against the United States will be announced by Justice Stewart.</text>
+          </turn>
+          <turn speaker="potter_stewart" startTime="8.122" stopTime="93.033">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="8.122" offset="124465">This case No. 79-1128 is here by reason of the grant of a writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="18.491" offset="165947">The case concerns the sources and scope of the power of an Indian tribe to regulate hunting and fishing by non-Indians on lands within its reservation owned by non-Indians.</text>
+            <text syncTime="33.376" offset="225506">Relying on its purported ownership of the bed of the Big Horn River, on the treaties which created its reservation and on its inherent power as a sovereign, the Crow Tribe of Montana claims the authority to prohibit all hunting and fishing by nonmembers of the Tribe on non-Indian property within reservation boundaries.</text>
+            <text syncTime="58.216" offset="324876">We granted certiorari to review a decision of the United States Court of Appeals for the Ninth Circuit that substantially upheld this claim.</text>
+            <text syncTime="68.970" offset="367926">For the reason stated in the written opinion of this Court, the judgment of the Court of Appeals is set aside and the case is remanded for further proceedings.</text>
+            <text syncTime="79.695" offset="410767">Justice Stevens, while joining the opinion of the Court has filed a concurring opinion.</text>
+            <text syncTime="85.436" offset="433755">Justice Blackmun has filed an opinion dissenting in part which Justice Brennan and Justice Marshall have joined.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="93.033" stopTime="94.240">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="93.033" offset="464161">Thank you, Justice Stewart.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

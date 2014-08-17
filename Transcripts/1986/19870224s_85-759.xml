@@ -1,0 +1,40 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1987-02-24</transcribed>
+        <edit user="tschaefer" date="2012-08-27T12:15:22" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <identified user="tschaefer">2012-08-27</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T12:14:42" startTime="0.000" oldSpeaker="john_paul_stevens" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="457901">/xml/cases/1986/85_759/19870224o_85-759.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1986/85-759_19870224-opinion.xml</sourceFile>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="91.533">
+        <title>Maryland v. Garrison</title>
+        <section startTime="0.000" stopTime="8.593">
+          <heading>Announcement of Justice Stevens</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.593">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="91769">The opinion of the Court in No 85-759, Maryland against Garrison will be announced by Justice Stevens.</text>
+          </turn>
+        </section>
+        <section startTime="8.593" stopTime="91.533">
+          <heading>Announcement of Justice Stevens</heading>
+          <turn speaker="john_paul_stevens" startTime="8.593" stopTime="91.533">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="8.593" offset="126042">This is a Fourth Amendment case that comes to us from the Court of Appeals of the State of Maryland.</text>
+            <text syncTime="15.105" offset="152164">Baltimore police officers obtained and executed a warrant to search the person of one McWebb and "the premises known as 2036 Park Avenue, third floor apartment".</text>
+            <text syncTime="29.322" offset="209007">At the time they obtained the warrant and at the time they started the search they thought there was just one apartment on the third floor of this multi unit dwelling, but when they get on the scene and when the search was in progress they realized that there were two apartments there.</text>
+            <text syncTime="44.387" offset="269297">The contraband that they seize and pursuant to the warrant was in the respondent's apartment rather than in McWebb's apartment.</text>
+            <text syncTime="51.242" offset="296673">And the question is whether that search and the seizure were permissible under the Fourth Amendment.</text>
+            <text syncTime="57.853" offset="323109">We hold that judging the validity of the warrant on the basis of the facts as existed at the time the officers applied for the warrant, and the validity of the search at the time it was begun and at the time they found the material that the actions of the officers was objectively reasonable and therefore there was no violation of the Fourth Amendment.</text>
+            <text syncTime="80.126" offset="412239">Accordingly we reverse the contrary holding of the Court of Appeals of Maryland.</text>
+            <text syncTime="86.071" offset="435958">Justice Blackmun has filed a dissenting opinion in which Justice Brennan and Justice Marshall have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

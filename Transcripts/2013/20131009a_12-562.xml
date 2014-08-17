@@ -1,0 +1,1133 @@
+<transcript>
+      <history>
+        <transcribed minutes="60">2013-10-09T10:03</transcribed>
+      </history>
+      <resources>
+        <audioFile size="14714190">/xml/cases/2013/12_562/20131009a_12-562.mp3</audioFile>
+        <sourceFile>/data/sites/oyez.org/cases/2013/2013_12_562/12-562_20131009-argument_0.xml</sourceFile>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="elena_kagan" type="justice" gender="female" path="/justices/elena_kagan" image="/justices/elena_kagan/thumbnail.jpg">Elena Kagan</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="sonia_sotomayor" type="justice" gender="female" path="/justices/sonia_sotomayor" image="/justices/sonia_sotomayor/thumbnail.jpg">Sonia Sotomayor</speaker>
+        <speaker id="malcolm_l_stewart" type="advocate" gender="male" path="/advocates/ms/malcolm_l_stewart" image="/advocates/ms/malcolm_l_stewart/thumbnail.jpg">Malcolm L. Stewart</speaker>
+        <speaker id="gregory_g_garre" type="advocate" gender="male" path="/advocates/gg/gregory_g_garre" image="/advocates/gg/gregory_g_garre/thumbnail.jpg">Gregory G. Garre</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3665.881">
+        <title>United States v. Woods</title>
+        <section startTime="0.000" stopTime="1529.587">
+          <heading>Argument of Malcolm L. Stewart</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="6.919">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="107015">We will hear argument first this morning in Case 12-562, United States v. Woods.</text>
+            <text syncTime="6.546" offset="133137">Mr. Stewart?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="6.919" stopTime="80.219">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="6.919" offset="134600">Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="9.872" offset="146408">The merits question in this case is whether the substantial valuation misstatement penalty applies when a taxpayer overstates his basis in property in connection with the transaction that is later determined to be a sham.</text>
+            <text syncTime="22.475" offset="196876">The threshold jurisdictional question is whether the Court in this TEFRA partnership level proceeding has authority to decide that merits issue.</text>
+            <text syncTime="30.019" offset="227074">I'd like to begin with the jurisdictional question.</text>
+            <text syncTime="32.613" offset="237418">And before I focus the Court's attention on the text, I'd like to make two quick preliminary observations about jurisdiction.</text>
+            <text syncTime="39.359" offset="264377">The first is that the question we say is appropriate for resolution in partnership level proceedings is not whether any individual partner will actually be made to pay the penalty.</text>
+            <text syncTime="49.997" offset="306904">There's no question in this case that the determination whether the penalty will actually be imposed on individual partners, and if so, in what amount is properly reserved for partner level proceedings.</text>
+            <text syncTime="61.461" offset="352775">The question is simply whether the Court in the partnership level proceeding can make the threshold determination whether the sort of error that the IRS identifies on the partnership return can trigger a penalty down the road if the individual partner prepares his or her return in a manner consistent with the partnership return.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="80.219" stopTime="102.226">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="80.219" offset="427799">Excuse me.</text>
+            <text syncTime="80.499" offset="428948">I thought I understood that to be your point in your brief, but I -- there is one thing missing from here.</text>
+            <text syncTime="88.497" offset="460922">I also thought you were saying that you could impose the penalty before the amount was determined on the partnership level.</text>
+            <text syncTime="96.822" offset="494254">That the tax that you could, without a notice of deficiency, require a payment upfront.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="102.226" stopTime="141.897">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="102.226" offset="515884">There are two separate questions here.</text>
+            <text syncTime="104.551" offset="525183">The first is: What can be determined at the partnership level?</text>
+            <text syncTime="107.769" offset="538035">And once the partnership level proceedings are complete, there are subsidiary partner level proceedings.</text>
+            <text syncTime="114.594" offset="565307">And some partner level proceedings require a deficiency notice, some partner level proceedings do not.</text>
+            <text syncTime="119.780" offset="586101">Now, it is part of our position that once the applicability of the penalty has been determined at the partnership level, the penalty can then be imposed on individual partners in partner level proceedings without a deficiency notice.</text>
+            <text syncTime="133.401" offset="640540">It can still be challenged through a refund proceeding.</text>
+            <text syncTime="135.619" offset="649422">But because -- there's never the imposition of additional tax or penalties on the partnership itself.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="141.897" stopTime="175.633">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="141.897" offset="674499">That is the incongruity of your position in my mind.</text>
+            <text syncTime="146.318" offset="692262">You claim that the decision of -- of whether or not or what the true value is of the basis and how much needs to be paid can't be determined until the partnership level -- until the partner level determination.</text>
+            <text syncTime="164.762" offset="766032">Yet, you're claiming that you're entitled to an amount of money beforehand, before that decision is made.</text>
+            <text syncTime="173.024" offset="799051">There's a tension in my mind about that.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="175.633" stopTime="377.646">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="175.633" offset="809500">Let me explain, as best I can, the sequence of events that we think would unfold if this Court affirmed our view of the -- both held that the courts below had jurisdiction and agreed with our view of the way the penalty is supposed to operate.</text>
+            <text syncTime="191.282" offset="872089">If the Court agreed with the position that we take in Part 2 of our merits brief, namely, that a deduction that is claimed in connection with a transaction that is later determined to be a sham can trigger -- if they agree -- if you agree with us on that legal issue, then the IRS would examine the returns of the individual partners, and it would verify that they did, in fact, claim deductions in connection with this transaction because they would have this Court's agreement with the proposition that that's the sort of thing that can trigger the penalty.</text>
+            <text syncTime="225.065" offset="1007195">They would then determine what the amount of the overpayment -- of the underpayment was and they would presumably assess a 40 percent penalty on that.</text>
+            <text syncTime="232.453" offset="1036765">There would be a subsidiary question because the FPAA, the Final Partnership Administrative Adjustment, said the partnerships were shams.</text>
+            <text syncTime="241.652" offset="1073546">But it also said that the individual transactions, the purchases and sales of the options and the currency and the stock, they would be treated as though they had been engaged in -- by the individual partners.</text>
+            <text syncTime="254.101" offset="1123387">And so at the partner level, there might be further determinations about what -- what a relatively small amount of tax the individual partners would -- would owe on that.</text>
+            <text syncTime="264.191" offset="1163720">And then if a partner -- if a penalty were assessed on the partner, the partner would have to pay the penalty before challenging it in through a refund action.</text>
+            <text syncTime="274.672" offset="1205621">But -- but we might want to ask on what ground could the partner want to challenge the penalty at that point.</text>
+            <text syncTime="280.592" offset="1229340">The partner couldn't at that stage want to make the argument that's being made in this Court, namely, that this is just not the sort of situation to which the substantial valuation misstatement penalty applies, because that issue would have already been resolved against the partner in this proceeding by hypothesis, if the Court agrees with us on the merits.</text>
+            <text syncTime="300.114" offset="1307394">And so the partner would have had an opportunity to get that threshold legal issue resolved without prepaying the penalty first.</text>
+            <text syncTime="307.753" offset="1338009">Now, if an individual partner wanted to raise the good faith reasonable cause defects that's provided in 26 USC 6664(c), the partner would have to pay the penalty first before seeking a refund.</text>
+            <text syncTime="321.059" offset="1391195">But that's pretty clearly consistent with Congress's intent, because Congress specified in TEFRA itself that after the court in the partnership level proceeding has determined the applicability of the penalty, the partner can still, through refund proceedings, contend that the penalty was erroneously imposed.</text>
+            <text syncTime="340.519" offset="1469039">And that language tells us two things: It tells us first that Congress didn't see any necessary unfairness in requiring a partner to pay the penalty first before raising certain sorts of challenges.</text>
+            <text syncTime="353.484" offset="1520866">And it also indicates that by applicability, Congress must have meant something different from will the penalty ultimately be imposed, because if the partnership level determination that the penalty was applicable meant that all the requirements for imposition were satisfied, there'd be no room for the partner to argue down the road that the penalty was erroneously assessed after all.</text>
+            <text syncTime="375.241" offset="1607906">So--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="377.646" stopTime="414.645">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="377.646" offset="1617519">Mr. Stewart, can you explain the difference in the two proceedings?</text>
+            <text syncTime="383.674" offset="1641657">First, your position that the proper review is of the final partnership administrative adjustment.</text>
+            <text syncTime="392.797" offset="1678124">How would the penalty be adjudicated in that format, and if your -- if the taxpayer is right, that the adjudication must be made at the partner level proceeding, what would be the difference in the character of the adjudication?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="414.645" stopTime="486.805">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="414.645" offset="1765582">--When we say that the applicability of the penalty should be determined in the partnership level proceeding, all we mean is that the court in the partnership level proceeding should resolve the legal issue that is addressed in Part 2 of the respective briefs for the Petitioner and the Respondent.</text>
+            <text syncTime="430.578" offset="1829320">That is, the court should determine is the substantial valuation misstatement penalty the sort of penalty that can apply to a basis overstatement that is produced through a sham transaction.</text>
+            <text syncTime="443.229" offset="1879893">We wouldn't ask the court in the partnership level proceeding to go beyond that legal determination and to ask whether individual partners had actually underpaid their tax or whether they had actually misstated basis.</text>
+            <text syncTime="454.880" offset="1926496">It's always theoretically possible in a case like this that the partnership could be determined -- that the partner could participate in sham transactions, but by the time it was -- he had to file his own return, he could get cold feet or he could get legal advice that indicated this just isn't going to work.</text>
+            <text syncTime="472.405" offset="1996608">And so it's possible that the partner could prepare his return in a way that was lawful.</text>
+            <text syncTime="476.248" offset="2011968">And the IRS, after the partnership level proceedings were complete, would have to look at the partner return in order to see what that had -- what had happened.</text>
+            <text syncTime="484.040" offset="2043106">I think the main practical -- I'm sorry.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="486.805" stopTime="507.141">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="486.805" offset="2054182">I was just going to ask: If the question were determined of whether the sham transaction counts as an erroneous statement of the basis, if that were determined at the partner level and not in a partnership proceeding, would it be possible to have different outcomes--</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="507.141" stopTime="508.546">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="507.141" offset="2135475">Yes, absolutely.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="508.546" stopTime="509.889">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="508.546" offset="2141118">--with respect to different partners?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="509.889" stopTime="521.387">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="509.889" offset="2146551">Absolutely.</text>
+            <text syncTime="510.796" offset="2150104">And I think that's the main practical difference between the way the system would operate under our view of TEFRA and the way it would operate under Respondent's view.</text>
+            <text syncTime="520.496" offset="2188974">That is, under--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="521.387" stopTime="523.401">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="521.387" offset="2192527">And -- and you have to relitigate the same issue.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="523.401" stopTime="564.245">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="523.401" offset="2200573">--Exactly.</text>
+            <text syncTime="524.307" offset="2204230">Under Respondent's view, the IRS was not required to say anything at all in the FPAA about the potential imposition of basis overstatement penalties down the road.</text>
+            <text syncTime="536.068" offset="2251250">If the FPAA adjustments -- the shamming determination had been upheld at the partnership level, under Respondent's view, the IRS could then assess penalties against individual partners.</text>
+            <text syncTime="547.703" offset="2297748">And if the individual partners raised an objection, the same arguments that are raised in Part 2 of the Respondent's merits briefs, that would have to be litigated potentially by different judges in different partnership -- in different partner level proceedings with potentially inconsistent outcomes.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="564.245" stopTime="571.910">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="564.245" offset="2363995">Would it be a fair way to look at this to say that what you do at the partnership level is anything that doesn't require looking at an individual's tax return?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="571.910" stopTime="650.113">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="571.910" offset="2394610">I think that's a fair way to put it.</text>
+            <text syncTime="574.425" offset="2404641">And another way we would put it is: Any question that will necessarily have the same answer for all partners should presumptively be resolved at the partnership level.</text>
+            <text syncTime="583.546" offset="2441108">That is, the legal issue that's briefed in Part 2 of the parties' respective merits brief, we may be right, Respondent may be right, but the answer is going to be the same for all partners.</text>
+            <text syncTime="592.902" offset="2478620">Either this is the sort of basis overstatement that can trigger the penalty or it isn't.</text>
+            <text syncTime="598.197" offset="2499727">The second practical difference that I wanted to -- to allude to, at least briefly, between our position and the Respondent's is that 6226(f) is the provision that deals with the Court's jurisdiction in a partnership level proceeding.</text>
+            <text syncTime="609.300" offset="2544135">6221 is the provision that tells the IRS what it's supposed to do at the partnership level, and it also tells the IRS determine the applicability of any penalty that's related to an adjustment to a partnership item.</text>
+            <text syncTime="626.170" offset="2611635">Now -- now, one advantage of requiring the IRS to make at least this sort of threshold determination of penalties at the outset is that if the IRS makes an adjustment to a partnership item, and the IRS believes that it is the sort of adjustment that down the road could trigger the imposition of penalties, that's the sort of thing an individual partner would want to know in deciding whether to challenge the adjustment.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="650.113" stopTime="656.641">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="650.113" offset="2707453">Is it correct that your position would allow the IRS to evade the normal statute of limitations?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="656.641" stopTime="658.969">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="656.641" offset="2733575">I don't see--</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="658.969" stopTime="659.812">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="658.969" offset="2742875">Or deficiency?</text>
+            <text syncTime="659.187" offset="2743711">No?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="659.812" stopTime="701.108">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="659.812" offset="2746218">--I don't see how.</text>
+            <text syncTime="660.812" offset="2750189">I'm not sure exactly what argument you're referring to.</text>
+            <text syncTime="664.030" offset="2763041">But there are -- I mean, there are provisions that deal with the way the limitations periods runs, depending on when the partnership return is filed and when the partner returns are filed.</text>
+            <text syncTime="674.182" offset="2803688">But I don't see how that would happen.</text>
+            <text syncTime="675.853" offset="2810375">We -- we would still be subject in assessing penalties against any individual partners to whatever limitations period the code provides and either we would or would not have obtained a legal ruling on -- on the legal issue whether the penalties are -- are the sort that could follow from this partnership item adjustment, but I don't think it would have implications for the statute of limitations.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="701.108" stopTime="727.770">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="701.108" offset="2911417">Using the language of the statute that you just quoted, can you explain to us what is the adjustment of the partnership item?</text>
+            <text syncTime="711.964" offset="2954780">That is, the statute says,</text>
+            <text syncTime="714.041" offset="2963139">"Determine the applicability of any penalty which relates to the adjustment of a partnership item. "</text>
+            <text syncTime="720.928" offset="2990724">So what is -- what was the partnership item adjustment?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="727.770" stopTime="799.256">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="727.770" offset="3017996">Yes, Justice Ginsburg.</text>
+            <text syncTime="728.129" offset="3019459">This is on Page 6-A of the appendix to the Government's brief.</text>
+            <text syncTime="730.112" offset="3027400">And the adjustment to the partnership item is the shamming determination.</text>
+            <text syncTime="737.016" offset="3054986">The determination that the partnerships were not engaged in for business purposes, that they were engaged in purely as tax avoidance measures.</text>
+            <text syncTime="745.418" offset="3088631">And Respondent concedes that this is a partnership item, because Respondent concedes that the district court had authority to review the shamming determination, decide whether that determination was appropriate.</text>
+            <text syncTime="761.913" offset="3154564">And that concession necessarily depends upon the proposition that the determination of the partnerships are shams was an adjustment to a partnership item.</text>
+            <text syncTime="770.862" offset="3190404">And it makes sense for two reasons.</text>
+            <text syncTime="772.018" offset="3195002">First, because the determination whether these are valid partnerships necessarily underlies any other determination that the IRS would make about the proper tax treatment of items reported on the partnership return.</text>
+            <text syncTime="786.793" offset="3254143">And second, it is the sort of determination that is going to have one answer for every partner, either the partnership is a sham or it's not.</text>
+            <text syncTime="793.884" offset="3282460">But it can't be the case that a particular partnership is a sham with respect to some partners and not others.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="799.256" stopTime="822.076">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="799.256" offset="3303985">What Judge Sentelle said in his opinion for the D.C. Circuit is that based -- agreeing with everything you've said, that means that the misstatement of basis might be obvious on an individual partner's returns.</text>
+            <text syncTime="813.470" offset="3360827">What's wrong with it might be obvious.</text>
+            <text syncTime="814.891" offset="3366574">But it still is made on those returns, and therefore that doesn't fall as a partnership item.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="822.076" stopTime="849.548">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="822.076" offset="3395309">Now, we would agree with Judge Sentelle that outside basis, in and of itself, is not a partnership item.</text>
+            <text syncTime="828.416" offset="3420595">An outside basis, in and of itself, is not designated as one of the things that the court in a partnership level proceeding can determine.</text>
+            <text syncTime="835.663" offset="3449644">But there -- and usually, it would be inappropriate to determine outside basis at that stage, because typically, outside basis will vary from partner to partner.</text>
+            <text syncTime="843.614" offset="3481408">But there are some instances in which a court needs to determine outside basis--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="849.548" stopTime="852.564">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="849.548" offset="3505128">Excuse me.</text>
+            <text syncTime="850.236" offset="3507949">Why would it vary from partner to partner?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="852.564" stopTime="905.588">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="852.564" offset="3517248">--I mean, in the -- in the more typical case the outside basis would depend upon the amount that a particular partner had paid for his own partnership interest.</text>
+            <text syncTime="860.592" offset="3549327">And so in that situation, not every partner would necessarily have -- have paid the same thing.</text>
+            <text syncTime="865.854" offset="3570329">But there are fairly rare situations in which in order to make some determination that is specified in 6226(f), the court and the IRS along the way have to determine outside basis.</text>
+            <text syncTime="878.005" offset="3619022">And one example we gave on page 32 of our brief, we have a footnote that says, it's not implicated here, but outside basis is sometimes a component of a partnership item such as inside basis.</text>
+            <text syncTime="891.874" offset="3674506">And we cite a case that was ultimately decided by this Court, but it's a case in which a partnership took advantage of code proceedings that said you can step up your inside basis to max the outside bases of your partner, partners.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="905.588" stopTime="910.930">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="905.588" offset="3729363">Well, isn't it your position in this case that outside basis in this case is necessarily related to inside basis?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="910.930" stopTime="911.382">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="910.930" offset="3750679">I think -- I think--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="911.382" stopTime="913.975">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="911.382" offset="3752455">Or am I misstating that.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="913.975" stopTime="954.755">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="913.975" offset="3762904">--I think what we are saying is in order to determine whether the substantial valuation misstatement penalty would be triggered down the road, the IRS and the Court would have to make certain -- would have to decide what is the proper outside basis in a sham partnership.</text>
+            <text syncTime="930.750" offset="3829986">If a lawyer were asked for -- if a lawyer saw an adjustment that said we regard these partnerships as shams, and the lawyer were asked, does that mean that I could be subject to the substantial valuation misstatement penalty if I reported deductions on purported losses from that partnership, the only way the lawyer would answer that question is to ask: Well, what's true basis in a sham partnership?</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="954.755" stopTime="967.422">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="954.755" offset="3926013">But -- but if we were to write an opinion which says -- an opinion ruling in your favor, that in this case outside basis is necessarily related to inside basis in this transaction, you would say that's wrong?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="967.421" stopTime="971.138">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="967.421" offset="3976690">I wouldn't -- I wouldn't put it that way.</text>
+            <text syncTime="970.076" offset="3987244">I mean, I think in this--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="971.138" stopTime="972.872">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="971.138" offset="3991528">Why -- and why is that?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="972.872" stopTime="1017.200">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="972.872" offset="3998424">--Because I think that's not really the reason we're saying the Court needs to -- I pointed the Court to a different case in which outside basis had to be determined at the partnership level for a different reason; namely, because it was a -- in that case, it was a component of inside basis.</text>
+            <text syncTime="989.070" offset="4063208">And since inside basis is a partnership item, you can only determine that partnership item by reference to outside basis.</text>
+            <text syncTime="998.441" offset="4100719">Here we have a somewhat different argument.</text>
+            <text syncTime="1001.472" offset="4112840">We're saying the thing that had to be determined at the partnership level was the applicability of the penalties.</text>
+            <text syncTime="1007.422" offset="4136664">And the only way you can decide whether a substantial valuation misstatement penalty is applicable is to determine what would be true basis in a sham partnership.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1017.200" stopTime="1017.934">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1017.200" offset="4175743">Mr. Stewart--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1017.934" stopTime="1018.512">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1017.934" offset="4178669">Mr. Stewart--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1018.512" stopTime="1054.527">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1018.512" offset="4180968">--If we -- if we go over to the merits, if this case came up today and today we have a penalty that wasn't there originally and that is for a non -- noneconomic substance penalty, would -- would the government today be going under that noneconomic substance penalty or would it be going under the 6626(d)(3), that is the substantial valuation misstatement?</text>
+            <text syncTime="1052.481" offset="4316909">Or is it the government's option, it can pick one or the other?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="1054.527" stopTime="1071.051">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="1054.527" offset="4325059">I think it's the government's option.</text>
+            <text syncTime="1055.886" offset="4330493">And if you -- it may be helpful to look at page 18a of the appendix to -- to the Respondent's brief, because that actually reproduces the current version of the code that contains the 2010 penalty that -- that you're referring to.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1071.051" stopTime="1079.299">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1071.051" offset="4391201">If the government could choose either one, what would determine its choice?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="1079.299" stopTime="1273.049">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="1079.299" offset="4424115">I mean, in some instances, the government will -- the government will pick the one that it thinks is easiest to prove.</text>
+            <text syncTime="1087.046" offset="4455149">Some of the penalties are limited to 20 percent whereas some can be bumped up to 40 percent, and we would look for the 40 percent penalty.</text>
+            <text syncTime="1095.324" offset="4488272">But if I could, on page 18a, we're talking about Section 6662(b), and it says:</text>
+            <text syncTime="1102.116" offset="4515439">"Portion of underpayment to which section applies. "</text>
+            <text syncTime="1109.068" offset="4543234">And then it says:</text>
+            <text syncTime="1177.697" offset="4817728">"This section shall apply to the portion of any underpayment which is attributable to one or more of the following. "</text>
+            <text syncTime="1116.689" offset="4573745">and then it lists six items.</text>
+            <text syncTime="1118.344" offset="4580328">Subsection (3) is the substantial valuation misstatement penalty that we're relying on here.</text>
+            <text syncTime="1124.499" offset="4604987">Subsection (6) is a disallowance of claimed tax benefits by reason of a transaction lacking economic substance.</text>
+            <text syncTime="1131.386" offset="4632468">That's the -- the 2010 penalty.</text>
+            <text syncTime="1133.916" offset="4642604">Now, the two points I would make are: First, it's very clear that many, many cases that would fall under Subsection (6) would also fall under Subsection (1) or (2); that is, they could involve negligence or disregard of rules or regulations.</text>
+            <text syncTime="1146.818" offset="4694222">They could also involve a substantial understatement of income tax, which basically means any understatement of income tax that's 10 percent or more of the true tax owed.</text>
+            <text syncTime="1155.861" offset="4730375">And so if there's no incongruity in saying Subsection (6) should apply to some cases where (1) and (2) would also apply, there shouldn't be any greater incongruity in saying it can apply to some cases where Subsection (3) would apply.</text>
+            <text syncTime="1172.385" offset="4796517">The other point I would make pertains to the introductory language of that provision, and it says:</text>
+            <text syncTime="1184.817" offset="4846254">And I think the primary practical significance of the “ one or more ” language is that it functions as an anti-stacking provision.</text>
+            <text syncTime="1191.893" offset="4874571">It tells you it doesn't matter whether your underpayment triggers only one of these penalties or all six of them; you're still limited to 20 percent unless you can get the -- the 40 percent through some other provision.</text>
+            <text syncTime="1208.732" offset="4941862">So we can't take advantage of the fact that the -- that more than one penalty applies to a particular transaction by getting 20 percent on top of 20 percent on top of 20 percent.</text>
+            <text syncTime="1221.179" offset="4991704">But the very fact that Congress used that language</text>
+            <text syncTime="1222.898" offset="4998600">"which is attributable to one or more of the following. "</text>
+            <text syncTime="1226.912" offset="5014587">indicates that it anticipated situations in which particular underpayments would be attributable to more than one of those penalties.</text>
+            <text syncTime="1235.580" offset="5049278">It didn't see any anomaly in the idea that a penalty that triggers Subsection (3) could trigger Subsection (1) or (2).</text>
+            <text syncTime="1243.436" offset="5080729">And, again, there's no reason to think that there's a greater anomaly with respect to Subsection (6).</text>
+            <text syncTime="1246.905" offset="5094626">The other thing I would say is that in this case, (3) and -- if it arose in connection with a transaction that occurred today, (3) and (6) would be coterminous.</text>
+            <text syncTime="1257.433" offset="5136736">Either of them would apply.</text>
+            <text syncTime="1258.336" offset="5140288">But there will be plenty of cases in which a substantial valuation misstatement penalty on our view could be triggered by a legal error in computing basis, such as use of the wrong depreciation rate.</text>
+            <text syncTime="1272.112" offset="5195459">That would not--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1273.049" stopTime="1318.156">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1273.049" offset="5199116">Mr. Stewart, if I could focus at a somewhat higher level of abstraction.</text>
+            <text syncTime="1276.923" offset="5214685">I understand the general underlying thrust of your friend's position to be that overstatement of basis goes to, you know, miscalculations.</text>
+            <text syncTime="1290.199" offset="5267766">It was actually $20,000, you say it's $40,000, and that's where the penalty comes from.</text>
+            <text syncTime="1296.056" offset="5291172">Well, this case is quite different.</text>
+            <text syncTime="1297.742" offset="5297964">We are kind of wiping out the whole transaction and then you're kind of artificially saying, well, if you wipe out the whole thing, when you come to basis it should be this and that.</text>
+            <text syncTime="1305.520" offset="5328997">And -- and it's not sort of a fraud or misstatement with respect to the basis itself.</text>
+            <text syncTime="1311.191" offset="5351776">It follows from a broad sham determination and that sham determination is made at the partnership level, not the partner level.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="1318.156" stopTime="1372.041">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="1318.156" offset="5379570">--I guess the two things that -- or at least two things I would say in response to that are that here the whole point of the avoidance scheme was to create an artificially inflated basis.</text>
+            <text syncTime="1329.324" offset="5424292">That is, the high, high basis that's claimed on the individual s' returns was not simply a fortuitous result of an avoidance scheme that operated through some other means.</text>
+            <text syncTime="1339.476" offset="5464834">The whole point -- if you want to claim a loss on a transaction where you didn't incur an actual economic loss, you can do it either by under -- by understating the amount that you were paid for the asset or by overstating your basis.</text>
+            <text syncTime="1354.096" offset="5523348">And this is one of a number of tax avoidance schemes that operate by overstating basis.</text>
+            <text syncTime="1359.874" offset="5546440">So, it's true that the transaction was determined to be a sham, but the sham determination was intimately bound up with the fact that the whole purpose of the scheme was to create an inflated basis.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1372.041" stopTime="1393.500">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1372.041" offset="5595133">I understand that.</text>
+            <text syncTime="1372.666" offset="5597640">But if you were telling people what happened here -- maybe you would -- I don't know that your first statement would be: They overstated their basis.</text>
+            <text syncTime="1380.177" offset="5627629">I think you would say: They engaged in a completely sham transaction, which had -- which had some obvious, as the D.C. Circuit put it, some obvious consequences.</text>
+            <text syncTime="1389.049" offset="5663155">But still, the -- the driving determination was that it was a sham transaction.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="1393.500" stopTime="1510.188">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="1393.500" offset="5680919">I guess the -- the other couple of points I would make are, there's nothing illegal about engaging in a transaction that lacks economic substance.</text>
+            <text syncTime="1400.311" offset="5708191">That is, if the partners had engaged in these offsetting currency transactions but then had decided before filing their return that either we -- we no longer believe that this is right conduct or we believe we're going to get caught, and they had prepared their returns in a lawful way, nothing bad would have happened to them.</text>
+            <text syncTime="1421.052" offset="5791155">The -- the thing that subjects them to potential penalties is the fact that they claimed a large loss on their tax returns and they did that by claiming a large false basis in the -- the partnership.</text>
+            <text syncTime="1433.078" offset="5839325">The second thing I would say is, you know, when I took math in junior high and high school, the teacher would always tell us to show your work when you handed in an assignment, don't just give the answer at the end; indicate the process by which you arrived at that number.</text>
+            <text syncTime="1447.932" offset="5898675">And in essence, when the code says impose penalties on underpayments that are attributable to the following things, it says -- it means we're going to look at your work.</text>
+            <text syncTime="1457.804" offset="5938173">When we determine that you have paid too little tax, we're going to look at the calculation process by which you arrived at the amount on your own return and figure out where you went wrong.</text>
+            <text syncTime="1469.064" offset="5983208">And if they did that here, they would say the mistake these taxpayers made, the reason they didn't pay as much tax as they owed, was not that they claimed to have sold the assets -- it was not that they claimed to have sold the assets for less than they actually realized; it was that they claimed a basis that had -- had no founding in reality.</text>
+            <text syncTime="1488.337" offset="6060321">And the last thing I would say in -- in connection with that is it's no accident that this scheme operated through the creation of sham partnerships.</text>
+            <text syncTime="1499.021" offset="6103057">That is, if the taxpayers themselves had bought the offsetting long and short currency options, there would have been no colorable argument that they could have claimed the costs--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="1510.188" stopTime="1521.997">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="1510.188" offset="6147675">--Mr. Stewart, what -- what is this case a fight about?</text>
+            <text syncTime="1514.091" offset="6163348">And -- and -- I'm sorry.</text>
+            <text syncTime="1516.435" offset="6172752">Perhaps I'll just ask it on rebuttal, so you can save your time for rebuttal.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="1521.997" stopTime="1529.587">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="1521.997" offset="6194904">Thank you, counsel.</text>
+            <text syncTime="1523.792" offset="6202114">Mr. Garre.</text>
+          </turn>
+        </section>
+        <section startTime="1529.587" stopTime="3352.386">
+          <heading>Argument of Gregory G. Garre</heading>
+          <turn speaker="gregory_g_garre" startTime="1529.587" stopTime="1560.715">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="1529.587" offset="6225311">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1532.601" offset="6237327">On both jurisdiction and the merits, the Government is asking this Court to adopt an overly expansive interpretation of the code to reach a result that would upset the statutory scheme devised by Congress and lead to further problems down the road.</text>
+            <text syncTime="1544.689" offset="6285706">Now, on jurisdiction, I think the most important thing for the Court to recognize is that outside basis, the very thing, as you can tell from my friend's arguments on the merits, that the imposition of this penalty depends on is not a partnership item.</text>
+            <text syncTime="1559.715" offset="6345787">In fact--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="1560.715" stopTime="1609.227">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="1560.715" offset="6349862">Mr. Garre, it seems as though you and the Government agree on sort of the nature of this problem, right?</text>
+            <text syncTime="1565.587" offset="6369297">Which is you have a partnership item, which is the sham determination.</text>
+            <text syncTime="1567.258" offset="6375985">That leads to an adjustment in outside basis which, as you just said, is not a partnership item, is instead an affected item; and that leads to a penalty, right?</text>
+            <text syncTime="1580.503" offset="6428961">So there's kind of three things, two steps in the process.</text>
+            <text syncTime="1583.532" offset="6441082">And you say, well, that's not enough, essentially because the penalty has to directly relate to a partnership item.</text>
+            <text syncTime="1592.123" offset="6475459">And they say it is enough because it's okay if it indirectly relates to the partnership item.</text>
+            <text syncTime="1599.105" offset="6503358">And I guess the question is: In some sense you're both adding adjectives to the statute.</text>
+            <text syncTime="1603.103" offset="6519345">You add directly, they add indirectly.</text>
+            <text syncTime="1606.868" offset="6534391">How do we pick between those?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="1609.227" stopTime="1693.848">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="1609.227" offset="6543900">--Well, I think the Government is asking the Court to add a great deal more than that.</text>
+            <text syncTime="1612.834" offset="6558319">Just to go to the statutory text, with the provision at 6226, and it's on page 2A of the red brief, and what that says is that first it gives the Court jurisdiction to determine all partnership items.</text>
+            <text syncTime="1630.686" offset="6629686">Everybody agrees that outside basis is not a partnership item.</text>
+            <text syncTime="1633.825" offset="6642225">And then it gives jurisdiction to the Court to determine penalties that relate to partnership items.</text>
+            <text syncTime="1640.759" offset="6670019">And what -- and what the Government is asking this Court to do is essentially to read this to say that relates to partnership items or that relates to non-partnership affected items, like outside basis.</text>
+            <text syncTime="1653.145" offset="6719547">And the reason why the Court shouldn't do that is, first, in a scheme that divides the worlds into partnership items that can be determined at the partnership level and non-partnership items that must go to the partner level, when Congress says “ partnership item ”, that's significant.</text>
+            <text syncTime="1666.718" offset="6773882">It -- it adds defined terms of “ non-partnership item ” or “ affected item ”.</text>
+            <text syncTime="1670.108" offset="6787361">It said “ partnership item ”.</text>
+            <text syncTime="1671.013" offset="6791018">So we think that it necessarily excluded non-partnership affected items here and that's the way to read it.</text>
+            <text syncTime="1678.010" offset="6819022">And second, if you read the “ relates to ” as broadly as the Government says, then it makes no sense.</text>
+            <text syncTime="1683.789" offset="6842114">The partnership item here might as well say “ affected item ” because you're right, at some level of abstraction, you can always say that the penalty relates to the partnership item.</text>
+            <text syncTime="1692.771" offset="6878058">That's going to be true for lots of these.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1693.848" stopTime="1719.884">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1693.848" offset="6882342">But it doesn't just say partnership items.</text>
+            <text syncTime="1696.862" offset="6894463">Yes,</text>
+            <text syncTime="1697.862" offset="6898434">"A court in which jurisdiction a petition is filed shall have jurisdiction to determine all partnership items. "</text>
+            <text syncTime="1704.436" offset="6924661">But then it goes on:</text>
+            <text syncTime="1705.655" offset="6929572">"The proper allocation of such items among the partners and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item. "</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="1719.884" stopTime="1721.758">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="1719.884" offset="6986519">You're right, Justice Scalia, and--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1721.758" stopTime="1727.740">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1721.758" offset="6994042">What -- what can that possibly mean when you're talking about the applicability of any penalty?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="1727.740" stopTime="1729.334">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="1727.740" offset="7017970">--Well, let me tell you, Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1729.334" stopTime="1732.613">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1729.334" offset="7024344">That penalty is going to be applicable at the partner stage.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="1732.613" stopTime="1776.626">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="1732.613" offset="7037405">Justice Scalia, let me answer it this way: Partnerships can do many things, just like individuals and corporations, and they can engage in things that subject -- that trigger penalties.</text>
+            <text syncTime="1743.203" offset="7079724">A partnership can misreport its income.</text>
+            <text syncTime="1745.795" offset="7090173">A partnership can make a valuation misstatement.</text>
+            <text syncTime="1748.294" offset="7100099">A partnership can engage in negligence, and the court can determine those -- the applicability of those penalties.</text>
+            <text syncTime="1755.322" offset="7128207">Now it's true that down the road in -- in a mathematical adjustment, the court is looking to whether or not the partner repeated that error on its return.</text>
+            <text syncTime="1764.117" offset="7163420">But what's fundamentally different about this case is the penalty depends not on the partnership, just the partnership item; it depends on this outside basis determination that a court can't make.</text>
+            <text syncTime="1772.723" offset="7197902">I mean, to put it another way--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1776.626" stopTime="1783.983">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1776.626" offset="7213471">Well, are there cases in which the partnership is liable for a penalty?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="1783.983" stopTime="1786.747">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="1783.983" offset="7242937">--Ultimately, Your Honor, the partner--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1786.747" stopTime="1816.487">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1786.747" offset="7253908">I mean, I understand it's all passed through and so forth.</text>
+            <text syncTime="1788.230" offset="7259864">But suppose the partnership does something that's a sham, that's a fraud, and then -- and -- and files a partnership information return with that -- with that information.</text>
+            <text syncTime="1799.322" offset="7304272">But then the partners find out either because of a ruling of the court that it's void or because they have second thoughts that they're not going to do that, so they change their individual -- they change their -- their own tax return.</text>
+            <text syncTime="1812.534" offset="7357144">Could there be any penalty against the partnership in that instance?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="1816.487" stopTime="1822.937">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="1816.487" offset="7372922">--Your Honor, the partners don't actually -- the partnership does not pay the penalty, but the partner -- the partnership--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1822.937" stopTime="1826.965">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1822.937" offset="7398731">Would there be any penalty against the partners in that instance that I put?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="1826.965" stopTime="1828.871">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="1826.965" offset="7414822">--No, I don't believe so.</text>
+            <text syncTime="1827.933" offset="7418688">But the partnership--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1828.871" stopTime="1836.416">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1828.871" offset="7422450">Would there be criminal liability for filing a false information return?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="1836.416" stopTime="1850.143">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="1836.416" offset="7452648">--I mean, ultimately I think that would trickle down to the partners.</text>
+            <text syncTime="1839.775" offset="7466022">But, Your Honor, I think that there are two different schemes here.</text>
+            <text syncTime="1840.509" offset="7468948">One is where the partnership is doing things that actually does trigger the penalty.</text>
+            <text syncTime="1844.460" offset="7484831">Take the 2010 noneconomic substance transaction.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1846.942" stopTime="1857.735">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1846.942" offset="7494757">But then -- then that -- that just fortifies the point that Justice Scalia made, that the applicability of the penalty, it's -- it's always going to relate to the partners.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="1857.735" stopTime="1885.817">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="1857.735" offset="7537911">Yes and no, Your Honor.</text>
+            <text syncTime="1860.203" offset="7547733">Yes, in the sense that ultimately what you're looking in the proper proceeding is to determine whether or not the partner repeated the error that's on the partnership return.</text>
+            <text syncTime="1869.809" offset="7586186">But you can say at the partnership level that a penalty is -- is applicable because everything is complete.</text>
+            <text syncTime="1876.166" offset="7611577">All the elements can be determined.</text>
+            <text syncTime="1877.509" offset="7617010">The partnership has misreported its income.</text>
+            <text syncTime="1878.383" offset="7620458">In this case, you just can't say that, because outside basis isn't reported anywhere at all on the partnership--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1885.817" stopTime="1886.255">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1885.817" offset="7650238">So what?</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1886.255" stopTime="1886.864">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1886.255" offset="7652014">So what?</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1886.864" stopTime="1942.795">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1886.864" offset="7654417">So what?</text>
+            <text syncTime="1887.583" offset="7657343">That is, I mean, as I understand it, you agree that on the partnership level, the IRS could say the following in a hypothetical I'll now give you: The partnership says that this asset has a basis of $10 million.</text>
+            <text syncTime="1906.029" offset="7731113">We sold it for 8.</text>
+            <text syncTime="1908.497" offset="7740935">Therefore, the partnership has a loss of 2.</text>
+            <text syncTime="1912.089" offset="7755355">The IRS says the real value is not $10 million basis, it was a $2 million basis, and therefore, in fact, you don't have a loss of 2, you have a gain of 8.</text>
+            <text syncTime="1925.255" offset="7808017">Moreover, your understatement was more than 400 percent or whatever the percent is, you know, it was a -- it was huge.</text>
+            <text syncTime="1933.407" offset="7840618">It was an $8 million, you know, overstatement, and therefore, penalties of 400 percent attach.</text>
+            <text syncTime="1940.937" offset="7870711">Okay?</text>
+            <text syncTime="1942.171" offset="7875622">You agree they can say that.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="1942.795" stopTime="1945.356">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="1942.795" offset="7878130">--At the partnership level--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1945.356" stopTime="1945.763">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1945.356" offset="7888370">Yes.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="1945.763" stopTime="1947.060">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="1945.763" offset="7890042">--because you're talking about--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1947.060" stopTime="1947.716">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1947.060" offset="7895162">At the -- I'm correct.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="1947.716" stopTime="1948.527">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="1947.716" offset="7897879">--inside basis, not outside basis, correct.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1948.527" stopTime="2009.892">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1967.066" offset="7975201">Okay.</text>
+            <text syncTime="1949.246" offset="7903939">I understand you're making this.</text>
+            <text syncTime="1951.199" offset="7911776">But what they've actually done there, since it doesn't say anything about inside/outside, is they're saying: Partners, to the extent that you use this on your own return, remember, there's a 400 percent penalty attached.</text>
+            <text syncTime="1967.941" offset="7978754">You agree they can do that.</text>
+            <text syncTime="1969.128" offset="7983456">Now, what they've done here is they've said: There is no partnership.</text>
+            <text syncTime="1973.970" offset="8002891">So, to the extent that you use this as your -- as a basis, as you use this on your individual return, remember there's a 400 percent penalty attached, because 4 times zero or whatever it is.</text>
+            <text syncTime="1990.728" offset="8069869">You understand the mathematics.</text>
+            <text syncTime="1991.869" offset="8074466">So we haven't got any reference to inside/outside basis here.</text>
+            <text syncTime="1996.381" offset="8092439">In both cases, it seems to me they're doing roughly the same thing.</text>
+            <text syncTime="2000.553" offset="8109157">And so where in the statute does it say they can't do it?</text>
+            <text syncTime="2005.800" offset="8130159">They're saying, indeed, a penalty attaches to--</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2009.892" stopTime="2010.001">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2009.892" offset="8146564">Your Honor, I think--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2010.001" stopTime="2018.296">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2010.001" offset="8146982">--the use of this partnership by you, the partner, to reduce your taxes.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2018.296" stopTime="2018.670">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2018.296" offset="8180106">--And--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2018.670" stopTime="2028.932">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2018.670" offset="8181673">Now, to the extent you don't use it, of course, you don't have to pay anything.</text>
+            <text syncTime="2022.122" offset="8195466">But to the extent you use it, you have to pay whatever it is plus the 400 percent.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2028.932" stopTime="2072.428">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2028.932" offset="8222737">--What the court in doing -- what the court is doing in both of those situations is fundamentally different.</text>
+            <text syncTime="2034.381" offset="8244471">In one case, it's looking at the partnership return, looking at how the partnership reported the basis and determining that the basis overstatement penalty would apply because of the error committed by the partnership.</text>
+            <text syncTime="2048.595" offset="8301314">That is everything that we think the court can do under the statutory provision we just referred to, to determine the applicability of that penalty because it relates to a partnership item, the partnership's statement of its income or basis on the partnership return.</text>
+            <text syncTime="2062.418" offset="8356589">Now, what's happening here is the partner -- the penalty is applying to the partner's statement of basis.</text>
+            <text syncTime="2069.697" offset="8385742">That outside basis doesn't appear anywhere.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2072.428" stopTime="2089.954">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2072.428" offset="8396713">So then the question is -- the question is, do the words “ partnership item ” in the section “ scope of judicial review ” refer only to those items that the partnership in fact is concerned with?</text>
+            <text syncTime="2086.377" offset="8452511">Or do they consider the partnership itself?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2089.954" stopTime="2091.157">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2089.954" offset="8466826">Right.</text>
+            <text syncTime="2090.485" offset="8468915">And the three--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2091.157" stopTime="2092.360">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2091.157" offset="8471632">That's the issue.</text>
+            <text syncTime="2091.829" offset="8474244">Okay.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2092.360" stopTime="2095.297">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2092.360" offset="8476439">--And the three circuit courts that have addressed that have agreed with us.</text>
+            <text syncTime="2094.140" offset="8483544">And as Justice--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2095.297" stopTime="2102.715">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2095.297" offset="8488142">We're interpreting the word “ partnership items ” in that statute, and you are saying the partnership itself is not a partnership item.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2102.715" stopTime="2104.012">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2102.715" offset="8517817">--No, not at all, Your Honor.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2104.012" stopTime="2104.855">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2104.012" offset="8523041">What?</text>
+            <text syncTime="2104.527" offset="8525026">No?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2104.855" stopTime="2107.589">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2104.855" offset="8526385">What we're saying is outside basis is not a partnership item.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2107.589" stopTime="2120.176">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2107.589" offset="8537356">Oh, no, no.</text>
+            <text syncTime="2107.774" offset="8538088">But I'm -- that's just a question of how they use it on the return.</text>
+            <text syncTime="2110.649" offset="8549582">There are many ways in which a person could use a partnership item on the return.</text>
+            <text syncTime="2115.194" offset="8567763">If this is a partnership item -- I mean, a person might, for example, have no tax, in which case--</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2120.176" stopTime="2148.041">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2120.176" offset="8587616">Your Honor, I think that the confusion maybe is between the statement at issue here.</text>
+            <text syncTime="2126.127" offset="8611439">The statement at issue in this case is the basis that the partners reported on their individual returns as a result of these transactions.</text>
+            <text syncTime="2133.921" offset="8642682">If you go to the partnership return and go to page 169 of the Joint Appendix, and it may be difficult to find now because of these fold-outs, but you'll find what the partnership reported.</text>
+            <text syncTime="2144.339" offset="8684269">And it reported all of the transactions at issue and it reported accurately--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2148.041" stopTime="2152.381">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2148.041" offset="8699106">--I understand how someone could be confused, and I am genuinely confused.</text>
+            <text syncTime="2151.195" offset="8711750">I have read this several times.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2152.381" stopTime="2153.038">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2152.381" offset="8716452">--Right, and--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2153.038" stopTime="2172.967">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2153.038" offset="8719064">And the reason I'm confused is this: That I -- I understand your difference between the outside basis and the inside basis.</text>
+            <text syncTime="2163.066" offset="8759188">Now what I'm trying to do is to figure out, via the statute, I think like what Justice Scalia was trying to do, I think, where does that matter?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2172.967" stopTime="2176.826">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2172.967" offset="8798790">--Well, it matters in the scope of jurisdiction, Your Honor.</text>
+            <text syncTime="2175.967" offset="8810806">And again--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2176.826" stopTime="2192.819">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2176.826" offset="8814254">No, I understand that, too.</text>
+            <text syncTime="2178.357" offset="8820419">I'm just trying to get the precise words of the statute that it would make a difference, because in common sense it doesn't seem to me to make much difference, but -- but maybe in this statutory language it does.</text>
+            <text syncTime="2191.319" offset="8872246">So I want to know what words.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2192.819" stopTime="2200.878">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2192.819" offset="8878202">--The words that matter is “ partnership item ”.</text>
+            <text syncTime="2195.910" offset="8890636">This is a statutory scheme that -- that talks about non-partnership items and partnership items.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2200.878" stopTime="2213.857">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2200.878" offset="8910489">Okay.</text>
+            <text syncTime="2201.393" offset="8912579">Now you just told me.</text>
+            <text syncTime="2201.877" offset="8914460">I said that, I thought, and you said, no, it didn't, those weren't the right words.</text>
+            <text syncTime="2204.766" offset="8926058">But if you say those are the right words, then explain to me why a partnership item cannot include a partnership itself.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2213.857" stopTime="2228.867">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2213.857" offset="8962421">The partnership item, Your Honor, can include the partnership.</text>
+            <text syncTime="2217.637" offset="8977467">We're not -- we're not disputing that part of the sham determination.</text>
+            <text syncTime="2220.526" offset="8989066">My point is that the imposition of the penalty depends on an additional determination, which is a non-partnership item.</text>
+            <text syncTime="2227.493" offset="9016964">And the Court--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2228.867" stopTime="2255.903">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2228.867" offset="9022398">And in that sense, Mr. Garre, it strikes me as wrong to say the words in dispute are “ partnership item ”.</text>
+            <text syncTime="2233.646" offset="9041519">Actually, everybody agrees what</text>
+            <text syncTime="2235.488" offset="9048938">"partnership item: Means, what it includes, and what it doesn't include. "</text>
+            <text syncTime="2238.628" offset="9061477">"It doesn't include outside basis. "</text>
+            <text syncTime="2240.190" offset="9067746">"The government is perfectly happy to concede that. "</text>
+            <text syncTime="2243.001" offset="9078927">It seems as though the words in dispute are what does “ relate to ” mean and does “ relate to ” have to be “ relate to ” in this very direct way that excludes this intermediate step of adjusting outside basis.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2255.903" stopTime="2296.277">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2255.903" offset="9130545">--Right.</text>
+            <text syncTime="2256.622" offset="9133471">And the reason why -- and I think that gets back to partnership item, because if you read “ relates to ” in the broad sense that the government is asking you to read it, then in essence you are adding -- you're taking away the limitation of “ partnership item ” and you are adding words that says “ or affected item ”.</text>
+            <text syncTime="2274.505" offset="9204942">Because what they're saying is, look, anytime you have a partnership item that is in any way related to the imposition of a penalty down the road, then you can do it.</text>
+            <text syncTime="2284.969" offset="9246842">But another way of saying that, and the way that Congress would have said if it meant it was: Courts, you can determine the applicability of any penalty that relates to a partnership item or an affected item.</text>
+            <text syncTime="2295.043" offset="9287175">But Congress didn't say that.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2296.277" stopTime="2316.925">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2296.277" offset="9292086">But it is in addition to partnership item.</text>
+            <text syncTime="2296.964" offset="9294803">You say: Oh, you can't do that because it would add to partnership item.</text>
+            <text syncTime="2302.806" offset="9318208">But the statute does not say “ just partnership item ”.</text>
+            <text syncTime="2305.726" offset="9329911">It says</text>
+            <text syncTime="2308.350" offset="9340360">"partnership items, the proper allocation of such items, and the applicability of any penalty, addition to tax, or additional amount. "</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2316.925" stopTime="2317.424">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2316.925" offset="9374633">Right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2317.424" stopTime="2319.799">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2317.424" offset="9376618">It's in addition to partnership items.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2319.799" stopTime="2320.594">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2319.799" offset="9386127">Now--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2320.594" stopTime="2330.467">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2320.594" offset="9389366">And -- and it's, it seems to me, not enough to say, well, if you interpret that third part to go beyond partnership items, you're destroying the statute.</text>
+            <text syncTime="2329.654" offset="9425624">I don't think so.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2330.467" stopTime="2341.134">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2330.467" offset="9428863">--Our point is the one that the D.C. Circuit and the other circuits have adopted, which is that to make this determination you have to go beyond the partnership item; you have to determine a non-partnership item, and this grant of jurisdiction--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2341.134" stopTime="2351.349">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2341.134" offset="9471495">When would you not have to do that if you are applying the third item,</text>
+            <text syncTime="2347.147" offset="9495528">"the applicability of any penalty, addition to tax, or additional amount which relates to adjustment to a partnership? "</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2351.349" stopTime="2352.409">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2351.349" offset="9512351">--Again--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2352.409" stopTime="2355.128">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2352.409" offset="9516635">That will always require you to go down to the partner level.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2355.128" stopTime="2371.793">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2355.128" offset="9527502">--No.</text>
+            <text syncTime="2355.471" offset="9528860">When the penalty is -- is complete based on what the partnership has done, you can determine the applicability of the penalty.</text>
+            <text syncTime="2361.796" offset="9554146">You can say all of the elements are met because of what the partnership did.</text>
+            <text syncTime="2366.311" offset="9572223">And then later, you're only looking to whether or not the partners repeated that error.</text>
+            <text syncTime="2368.935" offset="9582672">Here, that's not -- that's not what's happening.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2371.793" stopTime="2396.111">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2371.793" offset="9594166">Mr. Garre, suppose the government had asserted this penalty under sub (6), or the transaction lacking economic substance.</text>
+            <text syncTime="2382.273" offset="9636066">Would you be -- would you say it doesn't make any difference, it's the same?</text>
+            <text syncTime="2386.068" offset="9651217">Or would you say that under (6) your argument is not applicable to that and the determination could be made at the partnership level?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2396.111" stopTime="2471.081">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2396.111" offset="9691446">We would, Your Honor.</text>
+            <text syncTime="2397.173" offset="9695626">The noneconomic substance penalty that Congress passed to cover this situation here solves all the problems.</text>
+            <text syncTime="2402.936" offset="9718718">As to jurisdiction, courts could determine it at the partnership level because looking to whether or not the partnership is a sham is a partnership item.</text>
+            <text syncTime="2411.495" offset="9752991">And so courts have jurisdiction to do that.</text>
+            <text syncTime="2413.214" offset="9759782">And of course that solves the merits question, too, because Congress actually addressed the situation here on the merits.</text>
+            <text syncTime="2418.665" offset="9781621">Instead we have the government trying to fit a square peg into a round hole.</text>
+            <text syncTime="2422.930" offset="9798653">I mean, on jurisdiction, before I go to the merits, I just want to talk about the practical consequences of this ruling.</text>
+            <text syncTime="2428.724" offset="9821849">It's very significant from the standpoint of the taxpayers.</text>
+            <text syncTime="2430.692" offset="9829686">What the government wants to do is funnel all these penalty determinations into a computational adjustment as opposed to the deficiency proceeding, which is a default rule under the statute, Section 6230.</text>
+            <text syncTime="2442.952" offset="9878796">And from the taxpayers' perspective, that has huge consequence.</text>
+            <text syncTime="2446.170" offset="9891648">It means that the taxpayers have to pay the refund up front, as Justice Sotomayor recognized.</text>
+            <text syncTime="2452.464" offset="9916831">That means that, even in disputed penalties, they've got to pay all that up front.</text>
+            <text syncTime="2455.572" offset="9929265">And then that limits their ability to challenge it.</text>
+            <text syncTime="2457.508" offset="9936997">It means they can't go to the Tax Court to challenge it.</text>
+            <text syncTime="2459.383" offset="9944520">They have to do it in a more expedited fashion.</text>
+            <text syncTime="2461.975" offset="9954865">The default rule is deficiency proceedings.</text>
+            <text syncTime="2464.505" offset="9965000">That is where Congress intended these penalty issues of the type that we have here that pertain to non-partnership items--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2471.081" stopTime="2493.978">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2471.081" offset="9991332">But let me ask you something.</text>
+            <text syncTime="2472.206" offset="9995825">There's no reason to go into a sham transaction except to misstate the outside basis in the individual partnership level.</text>
+            <text syncTime="2483.028" offset="10039084">So I -- it's low-hanging fruit, according to the D.C. court.</text>
+            <text syncTime="2491.182" offset="10071684">But why shouldn't you be able to pick it?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2493.978" stopTime="2495.165">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2493.978" offset="10082865">--Well--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2495.165" stopTime="2519.936">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2495.165" offset="10087671">I mean, it's sort of obvious, just as it's obvious that if a partnership item has a miscalculation that the partner is going to include it in their tax return later.</text>
+            <text syncTime="2507.442" offset="10136782">That's why we permit the penalty to be imposed up front and to pay the tax up front, because you're making an assumption that it's been included erroneously on the partner level.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2519.936" stopTime="2550.768">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2519.936" offset="10186728">--And then I think what you would be doing is assuming a fact necessary to the penalty, that outside basis was reported as zero, for purposes of finding jurisdiction, and we don't think the court could do that.</text>
+            <text syncTime="2530.853" offset="10230404">The government acknowledges that it -- that it's at least possible that the taxpayer, in a fit of conscience or having fully -- more fully understood the transactions, would not inflate its basis, it would report a zero basis, and yet nobody would know that in a partnership-level proceeding because the partners' outside basis isn't even before the court -- before the IRS or the court in that proceeding.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2550.768" stopTime="2608.322">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2550.768" offset="10310026">Try with me again.</text>
+            <text syncTime="2551.533" offset="10313056">Again, just try once more.</text>
+            <text syncTime="2552.689" offset="10317758">Suppose that a person owes a gift tax and what he gave to his children or whatever was in part an interest in a partnership.</text>
+            <text syncTime="2564.294" offset="10364151">Now go back to my example, all right, because I want to get -- my example is everybody agrees that the 8, 10 million versus 8 million, there's a penalty attached.</text>
+            <text syncTime="2575.430" offset="10408664">Well, he -- he doesn't take that into account when he gives the gift.</text>
+            <text syncTime="2580.067" offset="10427263">Now, if he did give the gift, it would -- he'd have to pay a tax on the gift, on his gift tax return.</text>
+            <text syncTime="2586.019" offset="10451087">Okay?</text>
+            <text syncTime="2587.113" offset="10455371">He -- they assess that on the -- they would assess that, wouldn't they, even though it's a gift tax return, not an -- not an income tax return.</text>
+            <text syncTime="2594.157" offset="10483583">MR. GARRE.</text>
+            <text syncTime="2595.812" offset="10490166">Right.</text>
+            <text syncTime="2596.405" offset="10492569">I mean ultimately--</text>
+            <text syncTime="2596.952" offset="10494764">--Okay.</text>
+            <text syncTime="2598.951" offset="10502809">So no matter what kind of return you use, no matter what the tax situation, if the partnership real -- real value makes a difference, you have to put it in, don't you?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2608.322" stopTime="2609.838">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2608.322" offset="10540217">In the individual return?</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2609.838" stopTime="2614.992">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2609.838" offset="10546277">Yes, yes, in individual gift tax return.</text>
+            <text syncTime="2610.743" offset="10549934">Maybe it's in a State tax return.</text>
+            <text syncTime="2613.398" offset="10560592">Maybe it's an income tax return.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2614.992" stopTime="2615.772">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2614.992" offset="10566966">You do, but the partner--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2615.772" stopTime="2621.286">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2615.772" offset="10570101">So it affects the taxpayer differently, and I'm just saying, why does it matter?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2621.286" stopTime="2621.864">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2621.286" offset="10592148">--Every--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2621.864" stopTime="2630.236">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2621.864" offset="10594447">--that the way this affects the taxpayer is through what you call his outside basis.</text>
+            <text syncTime="2628.658" offset="10621614">Why does that matter?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2630.236" stopTime="2634.984">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2630.236" offset="10627884">--Well, Your Honor, every partner's outside basis is going to vary in the typical situation.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2634.984" stopTime="2661.035">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2634.984" offset="10646901">Well, yes, yes.</text>
+            <text syncTime="2635.656" offset="10649617">But of course any -- in my example, too, it will vary.</text>
+            <text syncTime="2638.014" offset="10659022">Of course it will vary.</text>
+            <text syncTime="2639.669" offset="10665604">Some people will use -- have no tax to pay, no extra tax, because their -- their income tax that they paid was zero.</text>
+            <text syncTime="2646.369" offset="10692458">In fact, the government owed them a refund, so it didn't matter.</text>
+            <text syncTime="2649.649" offset="10705519">It varies in many ways.</text>
+            <text syncTime="2651.664" offset="10713670">So since it varies in many ways and varies by many returns, it might vary depending upon whether it affected your outside basis or something else.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2661.035" stopTime="2693.991">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2661.035" offset="10751077">And the fact that it can vary, Your Honor, is one of the reasons why Congress wanted these determinations made at the partner level.</text>
+            <text syncTime="2666.814" offset="10774169">And another thing on the jurisdictional question.</text>
+            <text syncTime="2669.985" offset="10786917">I don't think the Court could resolve this question looking only to the sham partnership situation here.</text>
+            <text syncTime="2675.155" offset="10807606">Sometimes transactions are shams, sometimes partnerships are shams, and the jurisdictional question or answer to the question should apply across the board.</text>
+            <text syncTime="2683.713" offset="10841774">And yet if you have a situation where you have only a transaction sham, then even the Government would have to acknowledge that basis could be affected in many different ways in that situation.</text>
+            <text syncTime="2692.991" offset="10878973">And, again, getting back--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2693.991" stopTime="2707.751">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2693.991" offset="10882943">Couldn't the Government have pursued this instead of saying, you know, it's a sham partnership, just -- just -- couldn't the Government simply have said that the partnership overstated its basis?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2707.751" stopTime="2741.347">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2707.751" offset="10938009">--It couldn't, because -- and it didn't, because again, if you go back to page 186 -- 169 of the Joint Appendix, everything about these transactions is accurately reported on that form which is in the partnership return.</text>
+            <text syncTime="2722.650" offset="10997568">The partnership actually reported a gain on these transactions.</text>
+            <text syncTime="2726.836" offset="11014287">The error comes in at the partner level and is only on the partner return in this situation.</text>
+            <text syncTime="2732.350" offset="11036334">And that's why you can't determine outside basis at the partnership level and that's why you can't determine the applicability of this penalty at the partnership level.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2741.347" stopTime="2758.637">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2741.347" offset="11072383">Now, I have a second question which I asked your friend as well.</text>
+            <text syncTime="2745.844" offset="11090355">Is he correct that if we rule for you, each partner may have a different result because different courts will find this to be a sham or not to be a sham?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2758.637" stopTime="2783.611">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2758.637" offset="11141555">No.</text>
+            <text syncTime="2759.762" offset="11146048">No, Your Honor, in this sense: If this Court resolves the merits question, then that -- that ruling whether the penalty applies or not in this context is going to apply to all partners.</text>
+            <text syncTime="2769.320" offset="11184292">So that -- that issue is not going to vary by partner.</text>
+            <text syncTime="2770.725" offset="11189830">What can happen by partner is different partners may have different outside basis.</text>
+            <text syncTime="2775.880" offset="11210519">Even in this situation, my friend acknowledged you could have a partner that nevertheless reports zero as his basis in this situation and not the--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2783.611" stopTime="2788.875">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2783.611" offset="11241448">Well, but why -- why wouldn't -- couldn't one court say I don't think it's a sham partnership?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2788.875" stopTime="2811.146">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2788.875" offset="11262450">--Well, that determination, Your Honor, is being made at the partnership level, and we agree that it can be made at that level, and that determination applies to all the partners.</text>
+            <text syncTime="2796.403" offset="11292543">There is no inconsistency about that.</text>
+            <text syncTime="2798.262" offset="11299962">The only question here is whether the -- the partnership level court can determine the applicability of the -- the basis misstatement penalty as the Government calls it.</text>
+            <text syncTime="2807.382" offset="11336533">And -- and it doesn't have jurisdiction to do that because it depends on that outside basis to do it.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="2811.146" stopTime="2812.879">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="2811.146" offset="11351580">But I think that--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2812.879" stopTime="2824.484">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2812.879" offset="11358476">You say that -- you say that that's not true because individual partners may respond differently to the partnership determination with respect to basis.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2824.484" stopTime="2825.124">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2824.484" offset="11404870">Yes.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2825.124" stopTime="2833.934">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2825.124" offset="11407482">Some of them are going to put in something else, but somebody may put in zero for a number of the reasons that the IRS's counsel suggested.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2833.934" stopTime="2834.684">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2833.934" offset="11442695">Yes.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2834.684" stopTime="2849.396">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2834.684" offset="11445725">And now, I suspect that those will be only in rare circumstances.</text>
+            <text syncTime="2837.199" offset="11455756">And I guess that's why the D.C. Circuit said, even though the result here may be obvious, it nonetheless depends on the outside basis determination.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2849.396" stopTime="2850.474">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2849.396" offset="11504553">Exactly.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="2850.474" stopTime="2874.964">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="2850.474" offset="11508837">And I think what I understand your friend to be saying is it's not just that it's obvious, but it's ineluctable, and therefore, it doesn't depend on the outside partnership determinations.</text>
+            <text syncTime="2858.970" offset="11542796">So does your case hinge on the perhaps unusual situations where you have one of these partners having a fit of conscience and decides to put down the real number or has some other adjustment to it?</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2874.964" stopTime="2918.136">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2874.964" offset="11606848">I -- I think largely, yes, but if I can explain that.</text>
+            <text syncTime="2878.478" offset="11620850">First, it presents the low-hanging fruit situation the D.C. Circuit resolved.</text>
+            <text syncTime="2883.476" offset="11640912">And we think they were right to say even if you think it's low hanging, you're forbidden to pick it.</text>
+            <text syncTime="2886.755" offset="11653973">Second, here the whole partnership is shammed, but there's certainly cases where individual transactions are shammed.</text>
+            <text syncTime="2891.551" offset="11673199">And if individual transactions are shammed, then the -- the outside basis can vary widely based on the individual circumstances of the partners.</text>
+            <text syncTime="2901.501" offset="11713010">And so there, in that situation, it's not at all obvious or -- or necessarily true that the basis is going to be overstated.</text>
+            <text syncTime="2914.621" offset="11765464">You have to look.</text>
+            <text syncTime="2915.715" offset="11769853">And, again, that's why it's a completely separate determination made--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2918.136" stopTime="2923.836">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2918.136" offset="11779466">Could you give me a concrete example, because I'm not quite sure about what you're talking about.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2923.836" stopTime="2959.932">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2923.836" offset="11802349">--Well, you could have a partnership, Your Honor, that engages in many transactions.</text>
+            <text syncTime="2927.694" offset="11817709">And the IRS would determine that one of the many transactions that it entered into was a sham.</text>
+            <text syncTime="2934.176" offset="11843622">That particular transaction was only designed for tax purposes.</text>
+            <text syncTime="2937.674" offset="11857624">But other transactions that it engaged in were legitimate.</text>
+            <text syncTime="2940.595" offset="11869327">Now, in this case, the IRS is saying that the whole -- everything the partnership did is a sham.</text>
+            <text syncTime="2944.078" offset="11883224">But in my case, some transactions are okay, some are different.</text>
+            <text syncTime="2946.374" offset="11892419">In that case, the individual partners' outside basis, they may have -- they may have tried to take advantage of the sham transaction, but yet, all the other transactions affect their basis as well in the partnership.</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="2959.932" stopTime="2978.970">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="2959.932" offset="11946649">I'm -- I'm a little confused on this example.</text>
+            <text syncTime="2964.022" offset="11963054">Presumably, it's only if they carried forward, which we're assuming they would have done, carried forward the outside basis, the penalty would have been determined just on that one transaction.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="2978.970" stopTime="3055.658">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="2978.970" offset="12022822">No, because, Your Honor, again, the penalty is based on what the individual partner claims as his basis, and that partner is going to be looking to everything that goes into his partnership interest, the costs or investment in the partnership, pertaining not only to the one transaction that we have hypothesized has been shammed, but many other transactions as well.</text>
+            <text syncTime="2997.729" offset="12097846">So you -- you can't conclude either that there's been any misstatement or that any misstatement triggers the valuation misstatement penalty here.</text>
+            <text syncTime="3004.960" offset="12126790">If I could talk a little bit about the merits.</text>
+            <text syncTime="3007.349" offset="12136403">On the merits, our fundamental question is that the valuation misstatement penalty that Congress devised in 1981 was not intended at all to apply to the fundamentally different situation here where the Government is claiming not that you misstated the correct amount of the value or that you didn't have an accurate amount of the value or the number that you put for basis or value, but that the thing that's the subject of the valuation or the basis doesn't exist at all.</text>
+            <text syncTime="3037.868" offset="12258447">I mean, we know if you look at the -- the pre-enactment history, the post-enactment history, we know that this is not what Congress had in mind.</text>
+            <text syncTime="3045.975" offset="12290839">If you look at the pre-enactment history, it's all about resolving a problem of a backlog of cases where taxpayers were misvaluing property and the tax would--</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="3055.658" stopTime="3071.464">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="3055.658" offset="12329604">--Well, that was the prototypical case, Mr. Garre.</text>
+            <text syncTime="3057.845" offset="12338382">There's no question that that's the central case that -- that Congress had in mind.</text>
+            <text syncTime="3063.218" offset="12359802">But it doesn't have to be the only case.</text>
+            <text syncTime="3065.200" offset="12367743">And they wrote words that seem to be applicable to this case as well as to the kind of case that you're talking about.</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="3071.464" stopTime="3079.227">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="3071.464" offset="12392821">--Your Honor, they have basis and we have context, punctuation, pre-enactment history, post-enactment history and structure.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="3079.227" stopTime="3083.225">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="3079.227" offset="12423854">I'm sorry.</text>
+            <text syncTime="3079.821" offset="12426257">You're saying they have text, and you have a bunch of other things.</text>
+            <text syncTime="3082.553" offset="12437124">[Laughter]</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="3083.225" stopTime="3199.976">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="3083.225" offset="12439841">No.</text>
+            <text syncTime="3083.834" offset="12442349">Not at all, Your Honor, because this is a valuation misstatement penalty.</text>
+            <text syncTime="3088.269" offset="12460008">The reference to “ or adjusted basis ” comes in a parenthetical, subordinate way.</text>
+            <text syncTime="3092.549" offset="12477144">And let me give you a hypothetical.</text>
+            <text syncTime="3094.329" offset="12484249">One of my associates came up with a good example, I think.</text>
+            <text syncTime="3097.657" offset="12497624">If you had a contract for a wedding that provided for flowers or plants in parentheses, you would -- you would understand that to mean flowers or plants like -- like lilies or ferns that would accompany flowers in the wedding.</text>
+            <text syncTime="3109.793" offset="12546107">You wouldn't read that to include an oak tree in the middle of the reception area.</text>
+            <text syncTime="3114.821" offset="12566274">Well, the Government's basis overstatement penalty is the oak tree in the middle of the reception area here.</text>
+            <text syncTime="3119.696" offset="12585709">The most common situation in which basis misstatements are made, the Government acknowledges throughout its brief, is where you misstate the price or cost of a good.</text>
+            <text syncTime="3128.612" offset="12621444">And yet, they're moving -- which is -- which is why the reference to adjusted basis makes sense in the statutory scheme here.</text>
+            <text syncTime="3136.437" offset="12652687">It covers that situation.</text>
+            <text syncTime="3137.828" offset="12658225">But -- but they're saying, you don't need to -- it goes far beyond that, not only to the prosaic situation as they call it, but to a situation where you're not complaining about whether the thing -- what the correct number is or what the correct amount is.</text>
+            <text syncTime="3152.244" offset="12715903">You're saying the thing doesn't exist at all.</text>
+            <text syncTime="3154.416" offset="12724576">I mean, if I donate a painting that I say is worth $1 million to a church and I put that on my return, but, in fact, it turns out that I didn't donate the painting, I may have committed a fraud.</text>
+            <text syncTime="3167.270" offset="12776089">I may have lied about contributing the painting, but I haven't made a valuation misstatement, nor have I misstated my basis.</text>
+            <text syncTime="3173.703" offset="12801794">And I think our -- our position is here that if you look at everything, as I mentioned, the words of the statute, the context in which a basis is -- appears, the structure, there's a graduated scheme that makes no sense with a zero basis situation, which is essentially a nullity.</text>
+            <text syncTime="3188.807" offset="12862189">If you look at the fact that Congress addressed this in 2010, not by amending the valuation misstatement penalty, but by enacting a penalty designed to apply to this situation, the noneconomic transaction situation.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3199.976" stopTime="3210.126">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3199.976" offset="12906911">So just to be clear, if this is -- 6 had been on the books, then you would have no quarrel with the Government 's position, they could do this at the partnership level and--</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="3210.126" stopTime="3213.797">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="3210.126" offset="12947453">Yes, absolutely.</text>
+            <text syncTime="3211.578" offset="12953304">That's the way Congress designed it.</text>
+            <text syncTime="3213.141" offset="12959573">And unless--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3213.797" stopTime="3216.077">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3213.797" offset="12962186">I didn't get the question.</text>
+            <text syncTime="3214.968" offset="12966783">If -- if what was--</text>
+          </turn>
+          <turn speaker="gregory_g_garre" startTime="3216.077" stopTime="3347.840">
+            <label>Mr. Gregory G. Garre</label>
+            <text syncTime="3216.077" offset="12971276">--If the noneconomic substance transaction penalty that was enacted in 2010 was on the books, what would happen is a court could determine the applicability of that penalty, which is based on what the partnership did at the partnership proceeding, and we would agree that penalty applies.</text>
+            <text syncTime="3229.665" offset="13025611">All the problems are solved by what Congress did to address this particular situation.</text>
+            <text syncTime="3234.165" offset="13043583">The Government is trying to put that square peg in a round hole.</text>
+            <text syncTime="3236.835" offset="13054346">And if you add everything up, I think what's -- what's interesting about the Government's reply brief is it doesn't contest that -- that if there's any ambiguity here, the statute has to be read in favor of the taxpayer.</text>
+            <text syncTime="3250.328" offset="13108262">And that's because of the canon that this Court has recognized that tax penalties are strictly construed in favor of the taxpayer.</text>
+            <text syncTime="3258.342" offset="13140341">Here, at a bare minimum, there is ambiguity as to whether the Congress that passed the valuation misstatement penalty ever intended it to apply to this fundamentally different situation where no one disagrees about the numbers reported on the return.</text>
+            <text syncTime="3273.741" offset="13201885">Again, if you go to the partnership return, the transactions are accurately reported.</text>
+            <text syncTime="3277.896" offset="13218499">If you go to the outside bases, it's true that they reported a loss, but that's because they were following the IRS' rules about how you treat contingent liabilities.</text>
+            <text syncTime="3286.955" offset="13254757">So that number is actually accurate under the IRS' rules.</text>
+            <text syncTime="3291.220" offset="13271893">That's why the IRS has to come up with a sham to get rid of the property altogether and say that we are going to pretend that it doesn't exist at all.</text>
+            <text syncTime="3298.528" offset="13301046">But, again, that's not a valuation misstatement.</text>
+            <text syncTime="3300.948" offset="13310764">When the penalty talks about correct amounts, about accuracy, about value, it's trying to get at the number that the thing is worth.</text>
+            <text syncTime="3307.134" offset="13335528">It is not concerned with a situation in which the IRS is claiming that the property doesn't exist at all.</text>
+            <text syncTime="3313.897" offset="13362591">That -- that is a different problem.</text>
+            <text syncTime="3315.708" offset="13369800">Congress addressed it in a direct way, in a noneconomic substance penalty.</text>
+            <text syncTime="3320.207" offset="13387773">So this Court doesn't have to worry about this problem being unaddressed.</text>
+            <text syncTime="3323.207" offset="13399789">But what it should do is correctly interpret the penalty that Congress enacted, which was on the books when these events occurred, which is the valuation misstatement penalty and not the all-encompassing basis overstatement penalty.</text>
+            <text syncTime="3336.796" offset="13454124">I think if you're going to read one of the amicus briefs, read the Shakow amicus brief.</text>
+            <text syncTime="3340.593" offset="13469379">It talks about all the additional situations which IRS or Congress never applied this penalty to which would be swept in by the government's position here today.</text>
+            <text syncTime="3347.278" offset="13496024">Thank you very much.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3347.840" stopTime="3352.386">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3347.840" offset="13498323">Thank you, counsel.</text>
+            <text syncTime="3350.043" offset="13507100">Mr. Stewart, you have five minutes left.</text>
+          </turn>
+        </section>
+        <section startTime="3352.386" stopTime="3665.805">
+          <heading>Rebuttal of Malcolm L. Stewart</heading>
+          <turn speaker="malcolm_l_stewart" startTime="3352.386" stopTime="3370.485">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="3352.386" offset="13516504">Mr. Chief Justice.</text>
+            <text syncTime="3359.352" offset="13544403">Justice Kagan, I agree with your point that on the jurisdictional issue the crucial contested language is “ relates to ” and the issue is whether the basis overstatement penalty here relates to the sham--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3370.485" stopTime="3395.179">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3370.485" offset="13588915">How does it not?</text>
+            <text syncTime="3371.907" offset="13594558">“ Partnership items ” is defined to include legal and factual determinations that underlie the determination, among other things, of income, credit, gain/loss.</text>
+            <text syncTime="3383.153" offset="13639593">Okay.</text>
+            <text syncTime="3383.965" offset="13642832">Whether there is a partnership at all does underlie the determination of whether the partnership return, which had all kinds of numbers on it, if it shows anything.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="3395.179" stopTime="3395.960">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="3395.179" offset="13687658">--That's correct.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3395.960" stopTime="3416.594">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3395.960" offset="13690793">All right.</text>
+            <text syncTime="3396.539" offset="13693092">So therefore it's a partnership item.</text>
+            <text syncTime="3397.616" offset="13697376">Does this penalty relate to a partnership item?</text>
+            <text syncTime="3400.208" offset="13707825">I don't want to say that you are right for the wrong reasons, so you better be sure I'm right.</text>
+            <text syncTime="3402.457" offset="13716811">That is, the -- the -- does it relate to a partnership item?</text>
+            <text syncTime="3409.377" offset="13744501">I just told you what a partnership item was.</text>
+            <text syncTime="3411.581" offset="13753278">It certainly seems to because zero is what it relates to.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="3416.594" stopTime="3417.077">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="3416.594" offset="13773340">I mean--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3417.077" stopTime="3419.561">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3417.077" offset="13775221">End of case?</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3419.561" stopTime="3421.000">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3419.561" offset="13785252">Perhaps--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3421.000" stopTime="3423.856">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3421.000" offset="13790999">It can't be that simple.</text>
+            <text syncTime="3421.900" offset="13794551">We have three courts here--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3423.856" stopTime="3450.047">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3423.856" offset="13802388">--Let me -- let me pose perhaps a less friendly question.</text>
+            <text syncTime="3428.198" offset="13819733">[Laughter]</text>
+            <text syncTime="3430.401" offset="13828615">What do you do with your friend's hypothetical?</text>
+            <text syncTime="3432.976" offset="13838855">On the tax returns you say: I gave a painting to a charity worth a million dollars, in fact he did not.</text>
+            <text syncTime="3440.709" offset="13869784">And he says: What you are doing is you are going to go in and say: That wasn't worth a million dollars; it was worth nothing.</text>
+            <text syncTime="3446.441" offset="13892772">When in fact what you should be saying is: You didn't give the painting at all.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="3450.047" stopTime="3465.103">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="3450.047" offset="13907191">--I think this is a different situation because the IRS did not determine that the underlying transactions, the purchases and sale of currency options and so forth, didn't occur.</text>
+            <text syncTime="3460.793" offset="13950137">It determined that the partnerships were shams.</text>
+            <text syncTime="3462.964" offset="13958809">And I think that this is an important point.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3465.103" stopTime="3470.429">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3465.103" offset="13967377">Well, but if you determine that the partnerships were shams, that's like saying that there were no partnerships.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="3470.429" stopTime="3471.461">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="3470.429" offset="13988693">There were no partnerships--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3471.461" stopTime="3478.192">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3471.461" offset="13992768">And if you say, you know, I didn't really give the painting, that means that there wasn't any painting.</text>
+            <text syncTime="3475.725" offset="14009905">It seems to me they're pretty closely parallel.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="3478.192" stopTime="3487.080">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="3478.192" offset="14019727">--But what the FPAA also said was, because there were no partnerships, the transactions should be treated as though they had -- were engaged in by the individual partners.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="3487.080" stopTime="3489.079">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="3487.080" offset="14055253">Maybe it was a frame with a blank canvas.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="3489.079" stopTime="3567.016">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="3489.079" offset="14063299">Well -- and I -- and I think, as -- as I was starting to say at the close of my opening argument, it's no accident that the partnerships were used to effectuate this scheme, because if the individuals had bought and sold the offsetting foreign currency options, they would have had no colorable rationale for contending that they were entitled to a deduction for the cost of the long option but they were not required to treat as income the amount they received from the short option.</text>
+            <text syncTime="3514.740" offset="14165908">It would have been absolutely clear that the transaction, taken as a whole, was a wash.</text>
+            <text syncTime="3519.567" offset="14185239">The only way that they could try to create the appearance of a paper loss was by manipulating the rules that govern the computation of basis in partnerships.</text>
+            <text syncTime="3528.938" offset="14222751">And so the shamming determination, in effect, was a determination that, for tax purposes, you can't try to take advantage of the Helmer rule that says that, for computing basis in a partnership, we will ignore the -- the contingent liability created by the short option.</text>
+            <text syncTime="3546.071" offset="14291296">The -- the one thing -- other thing I would say on the merits as to why we care about this case is that Respondent's argument doesn't just go to -- on -- on Subsection 3, doesn't just go to basis overstatements that are produced through sham transactions.</text>
+            <text syncTime="3562.034" offset="14355139">It goes to all basis overstatements that are produced through legal errors.</text>
+            <text syncTime="3566.157" offset="14371544">And I think that--</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3567.016" stopTime="3570.780">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3567.016" offset="14374992">Do you -- do you agree that the new legislation completely resolves this problem?</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="3570.780" stopTime="3611.062">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="3570.780" offset="14390039">--It completely resolves the specific problem posed by this -- almost completely resolves the specific problem.</text>
+            <text syncTime="3579.136" offset="14423475">Subsection 6 undoubtedly would cover this case.</text>
+            <text syncTime="3582.994" offset="14438940">Now Subsection 6, the trigger for having a 40 percent penalty rather than a 20 percent penalty is slightly different.</text>
+            <text syncTime="3589.616" offset="14465376">Under Subsection 6 you are -- if you disclose the relevant information on your tax return, then even if it's later determined that the transaction lacked economic substance, you would be subject only to the 20 percent penalty.</text>
+            <text syncTime="3602.096" offset="14515322">Under Subsection 3 you can get the 40 percent if the overstatement is 400 percent or more regardless of disclosure.</text>
+            <text syncTime="3608.858" offset="14542385">But it almost completely covers it.</text>
+            <text syncTime="3610.265" offset="14548027">But other -- other--</text>
+          </turn>
+          <turn speaker="sonia_sotomayor" startTime="3611.062" stopTime="3635.223">
+            <label>Justice Sonia Sotomayor</label>
+            <text syncTime="3611.062" offset="14551162">Could you -- could you go back just one moment to the practical point that your brother made?</text>
+            <text syncTime="3616.855" offset="14574359">Is this issue only about whether you collect the tax beforehand or after?</text>
+            <text syncTime="3621.415" offset="14592644">Because he says that they are bound in a partner-level proceeding to the finding that the outside basis was -- benefit was claimed in the partnership level it was zero.</text>
+          </turn>
+          <turn speaker="malcolm_l_stewart" startTime="3635.223" stopTime="3664.601">
+            <label>Mr. Malcolm L. Stewart</label>
+            <text syncTime="3635.223" offset="14647815">--With respect to jurisdiction, the question simply goes to the allocation of responsibilities between the partnership-level court and the partner-level court.</text>
+            <text syncTime="3645.734" offset="14689924">Now, when he says we are trying to avoid deficiency proceedings, I -- I think it ignores the fact that, under our reading, the important legal objections that Respondent has made to the penalty, and then he made the arguments that are set forth in Part 2 of their brief, can resolve -- under our theory, can be resolved at the partnership level without prepayment of penalties.</text>
+          </turn>
+          <turn speaker="john_g_roberts_jr" startTime="3664.601" stopTime="3665.881">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="3664.601">Thank you, counsel.</text>
+            <text syncTime="3665.805">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

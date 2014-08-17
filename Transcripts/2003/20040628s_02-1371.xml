@@ -1,0 +1,56 @@
+<transcript verified="true">
+      <history>
+        <transcribed>2004-06-28</transcribed>
+        <edit user="dleib" date="2012-08-12T16:08:17" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="david_h_souter"/>
+        <identified user="dleib">2012-08-12</identified>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2013-12-12T11:51:49" startTime="0.000" oldSpeaker="david_h_souter" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="1108957">/xml/cases/2003/02_1371/20040628o_02-1371.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/2003/02-1371_20040628-opinion.xml</sourceFile>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="229.347">
+        <title>Missouri v. Seibert</title>
+        <section startTime="0.000" stopTime="229.347" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice David H. Souter</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.922">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 02-1371, Missouri against Seibert will be announced by Justice Souter.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="9.922" stopTime="229.347">
+            <label>Justice David H. Souter</label>
+            <text syncTime="9.922" offset="39602">This case comes to us on writ of certiorari to the Supreme Court of Missouri.</text>
+            <text syncTime="17.154" offset="68545">The police arrested the respondent, Seibert, on a charge of murder and brought her to an interview room in the station house without giving her warnings required by the Miranda case about her right to remain silent and have the help of a lawyer.</text>
+            <text syncTime="32.219" offset="128836">An officer interrogated her for 30 or 40 minutes and elucidated a full confession.</text>
+            <text syncTime="37.617" offset="150465">After a 20-minute break, the officer recited Miranda warnings and obtained a signed waiver of rights.</text>
+            <text syncTime="43.887" offset="175543">He then resumed questioning and confronted Seibert with the statement she had given before the warnings.</text>
+            <text syncTime="49.349" offset="197381">She repeated her prior answers.</text>
+            <text syncTime="51.519" offset="206054">When she was charged with first degree murder, she sought to exclude her statement.</text>
+            <text syncTime="56.219" offset="224862">It was taken in violation of the Miranda warning requirement.</text>
+            <text syncTime="60.531" offset="242103">The officer testified that in giving no Miranda warnings at the start of interrogation, he had a used a technique in which he had been trained, question first, get a confession, then give Miranda warnings and question again until the suspect repeats the earlier confession.</text>
+            <text syncTime="76.715" offset="306782">The Trial Court admitted the statement given after the midstream Miranda recitation.</text>
+            <text syncTime="82.291" offset="329143">The jury convicted Seibert of second degree murder.</text>
+            <text syncTime="85.837" offset="343249">The Missouri Court of Appeals affirmed.</text>
+            <text syncTime="88.851" offset="355370">The Supreme Court of Missouri however, reversed on the ground that Seibert’s statement should not have been admitted into evidence because it had been taken in violation of Miranda.</text>
+            <text syncTime="100.158" offset="400614">We granted certiorari and in opinions filed today with the Clerk of Court, we affirm.</text>
+            <text syncTime="106.994" offset="427886">The object of Miranda is to inform a suspect of a genuine choice to speak to the police or remain silent.</text>
+            <text syncTime="113.894" offset="455576">By contrast, the object of the interrogation tactic at issue here is to render Miranda warnings ineffective by giving them only after a confession.</text>
+            <text syncTime="124.283" offset="497058">The object is to get an admissible confession the suspect would not make if he understood his rights at the outset.</text>
+            <text syncTime="131.563" offset="526211">And Miranda warnings given in these circumstances are likely to be ineffective to consider the facts of this case.</text>
+            <text syncTime="138.646" offset="554527">The unwarned interrogation was conducted in the station house and the questioning was systematic and exhaustive.</text>
+            <text syncTime="145.537" offset="582113">The warned phase of the questioning proceeded in the same place after only a short break.</text>
+            <text syncTime="151.253" offset="604996">The warning that anything you say can and will be used against you could lead into a reasonable inference that what the suspect has just said will be used with subsequent silence being of no avail.</text>
+            <text syncTime="166.359" offset="665391">And the police did not counter this possibility by advising Seibert that her prior statements could not be used against her.</text>
+            <text syncTime="173.528" offset="694021">Quite the opposite, the officer’s questions referred to the confession already given.</text>
+            <text syncTime="179.379" offset="717427">These circumstances so challenge the efficacy of the warnings that a reasonable person in the suspect’s shoes would not have understood that she had a choice to talk or remain silent.</text>
+            <text syncTime="190.729" offset="762880">Because we cannot reasonably conclude that the warnings given could serve Miranda's purpose, Seibert’s statements are inadmissible.</text>
+            <text syncTime="199.011" offset="796003">Justice Breyer has filed a concurring opinion; Justice Kennedy has filed an opinion concurring the judgment; Justice O’Connor has filed a dissenting opinion in which the Chief Justice, Justice Scalia, and Justice Thomas joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

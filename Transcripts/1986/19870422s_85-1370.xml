@@ -1,0 +1,42 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1987-04-22</transcribed>
+        <identified user="tschaefer">2012-08-23</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T12:15:11" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+        <edit user="jgoldman" date="2014-01-15T12:17:45" startTime="20.882" oldSpeaker="john_marshall" newSpeaker="thurgood_marshall"/>
+      </history>
+      <resources>
+        <audioFile size="411220">/xml/cases/1986/85_1370/19870422o_85-1370.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1986/85-1370_19870422-opinion.xml</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_marshall" type="justice" gender="male" path="/justices/john_marshall" image="/justices/john_marshall/thumbnail.jpg">John Marshall</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="thurgood_marshall" type="justice" gender="male" path="/justices/thurgood_marshall" image="/justices/thurgood_marshall/thumbnail.jpg">Thurgood Marshall</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="79.856">
+        <title>Arkansas Writers' Project, Inc. v. Ragland</title>
+        <section startTime="0.000" stopTime="20.882">
+          <heading>Announcement of Justice Marshall</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="20.882">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="91795">The opinions of the Court in three cases No. 85-1370, Arkansas Writers' Project versus Ragland, No. 85-1385 United States versus General Dynamics Corporation, and No. 85-1530 Brock versus Roadway Express will be announced by Justice Marshall.</text>
+          </turn>
+        </section>
+        <section startTime="20.882" stopTime="79.856">
+          <heading>Announcement of Justice Marshall</heading>
+          <turn speaker="thurgood_marshall" startTime="20.882" stopTime="79.856">
+            <label>Justice Marshall</label>
+            <text syncTime="20.882" offset="175282">85-1370 Arkansas Writers' Project is an appeal from the Arkansas Supreme Court.</text>
+            <text syncTime="29.793" offset="210913">There the appellant publishes a general interest magazine.</text>
+            <text syncTime="34.847" offset="231080">Under Arkansas law general interest magazine are subject to sales tax.</text>
+            <text syncTime="40.510" offset="253754">The newspapers and religious professional, traed and sports journals are exempt from tax.</text>
+            <text syncTime="48.112" offset="284161">Appellant maintained that this was discriminatory tax issue in violation of the First and Fourteenth Amendments.</text>
+            <text syncTime="56.711" offset="318538">But the Arkansas Supreme Court rejected this claim.</text>
+            <text syncTime="60.961" offset="335570">We reverse the judgment of the Arkansas Supreme Court and remand for further proceedings.</text>
+            <text syncTime="67.680" offset="362424">Justice Stevens has filed an opinion concurring in part and concurring in the judgment; Justice Scalia has filed a dissenting opinion in which the Chief Justice joins.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

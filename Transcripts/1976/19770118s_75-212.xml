@@ -1,0 +1,39 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-30</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="534689">/xml/cases/1976/75_212/19770118o_75-212.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1976/trs/75-212op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="108.510">
+        <title>United States v. Donovan</title>
+        <section startTime="0.000" stopTime="108.510" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Lewis F. Powell, Jr.</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="10.523">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="100534">The judgment and opinion of the Court in 75-212, United States against Donovan will be announced by Mr. Justice Powell.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="10.523" stopTime="105.306">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="10.523" offset="142539">This case here from the Sixth Circuit presents a number of issues under Title III of the Federal Wiretap Statute.</text>
+            <text syncTime="19.150" offset="177125">In an opinion filed today with the Clerk, the Court holds first that applications for judicial authorization of wiretaps must identify all persons whose relevant conversations the Government has probable cause to believe it will intercept.</text>
+            <text syncTime="36.896" offset="248074">The statutory requirements are not satisfied when the Government identifies only the principal target of the investigation.</text>
+            <text syncTime="46.646" offset="287048">The Court grab and holds that the Government must supply the issuing judge with sufficient information of other parties who are overheard to enable him to decide whether such parties must be notified of the interception.</text>
+            <text syncTime="60.171" offset="341174">Finally, we hold that under all the circumstances of this case, the failure of the Government to comply fully with these statutory obligations did not make the intercept unlawfully.</text>
+            <text syncTime="73.774" offset="395613">We therefore conclude that it was error to suppress the evidence obtained by these interceptions.</text>
+            <text syncTime="80.312" offset="421736">An order of the Court of Appeals is readdressed and the case is remanded to that Court.</text>
+            <text syncTime="86.814" offset="447754">The Chief Justice has filed a concurring opinion.</text>
+            <text syncTime="90.848" offset="463845">Mr. Justice Stevens has filed an opinion concurring in part and dissenting in part.</text>
+            <text syncTime="96.940" offset="488191">Mr. Justice Marshall has filed a dissenting opinion in which Mr. Justice Brennan concurs.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="105.306" stopTime="108.510">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="105.306" offset="521732">Thank you Mr. Justice Powell.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,55 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1993-04-26</transcribed>
+        <edit user="jclow26" date="2012-07-09T14:42:25" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <identified user="jclow26">2012-07-09</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:36:30" startTime="0.000" oldSpeaker="sandra_day_oconnor" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="835981">/xml/cases/1992/91_1306/19930426o_91-1306.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1992/91-1306_19930426-opinion.xml</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="188.552">
+        <title>United States v. Olano</title>
+        <section startTime="0.000" stopTime="4.981">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="4.981">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="81774">The opinion of the court in two cases will be announced by Justice O'Connor.</text>
+          </turn>
+        </section>
+        <section startTime="4.981" stopTime="188.552">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="sandra_day_oconnor" startTime="4.981" stopTime="188.552">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="4.981" offset="101627">The first is United States versus Olano.</text>
+            <text syncTime="9.798" offset="120958">This case comes to the Court on writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="16.101" offset="146140">Respondents were tried on criminal charges in the District Court.</text>
+            <text syncTime="20.531" offset="163798">Fourteen jurors were selected to hear the case.</text>
+            <text syncTime="23.946" offset="177487">Two alternate jurors were identified before the jury deliberations begun.</text>
+            <text syncTime="30.180" offset="202460">Without objection from the respondents, the District Court judge allowed the alternate jurors to attend the jury deliberations but specifically instructed them not to participate.</text>
+            <text syncTime="43.928" offset="257421">The respondents were convicted.</text>
+            <text syncTime="46.098" offset="266094">They argued on appeal at the presence of the alternate jurors during the jury deliberations violated Federal Rule of Criminal Procedure 24(c).</text>
+            <text syncTime="56.511" offset="307785">Because the respondents had not raised this claim on the District Court, the Court of Appeals applied the plain errors standard of Rule 53(b).</text>
+            <text syncTime="66.852" offset="349163">The court found that the violation of Rule 24(c) was indeed the plain error; it vacated the respondent's convictions.</text>
+            <text syncTime="75.000" offset="381764">In the opinion filed today, we clarify the standard for plain error review.</text>
+            <text syncTime="80.535" offset="403812">Rule 52(b) provides the Court of Appeals a limited authority to correct forfeited errors such as this:</text>
+            <text syncTime="88.529" offset="435890">First, there must indeed be an error, the defendant must not have waived his rights; second, the error must be plain which means clear or obvious; third, the error must affect substantial rights.</text>
+            <text syncTime="104.094" offset="498061">Normally, this means the error was prejudicial and normally the defendant must make a specific showing of prejudice.</text>
+            <text syncTime="112.162" offset="530349">In addition, the authority granted by Rule 52(b) is discretionary not mandatory.</text>
+            <text syncTime="118.311" offset="555008">The Court of Appeals should not exercise that discretion unless the error seriously affects the fairness, integrity, or the public reputation of the judicial proceedings.</text>
+            <text syncTime="130.217" offset="602551">In the case before us, the government concedes that the deviation from Rule 24(c) in letting the alternate set in the jury room was an error and that that error was plain.</text>
+            <text syncTime="142.409" offset="651348">However, we find the error did not affect substantial rights.</text>
+            <text syncTime="146.732" offset="668693">The presence of the alternate jurors during deliberations, like other intrusions in the jury room, must be analyzed for prejudicial impact.</text>
+            <text syncTime="156.222" offset="706623">The respondents have made no specific showing of prejudice and we will not presume prejudice here because the District Court specifically instructed the alternate jurors not to participate.</text>
+            <text syncTime="168.821" offset="756987">Thus, the Court of Appeals lack the authority to correct the error.</text>
+            <text syncTime="172.520" offset="771825">The judgment of the Court of Appeals accordingly is reversed in the case is remanded.</text>
+            <text syncTime="178.397" offset="795335">Justice Kennedy has filed a concurring opinion; Justice Stevens has filed a dissenting opinion joined by Justices White and Blackmun.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

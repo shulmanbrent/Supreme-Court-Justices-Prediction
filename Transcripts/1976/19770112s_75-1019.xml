@@ -1,0 +1,35 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-30</verified>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="345793">/xml/cases/1976/75_1019/19770112o_75-1019.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1976/trs/75-1019op.trs</sourceFile>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="61.270">
+        <title>Boston Stock Exchange v. State Tax Commission</title>
+        <section startTime="0.000" stopTime="61.270" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Byron R. White</heading>
+          <turn speaker="warren_e_burger" startTime="0.000" stopTime="10.841">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="0.000" offset="100555">The judgments and opinion of the Court in 75-1019, Boston Stock Exchange against the State Tax Commission will be announced by Mr. Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="10.841" stopTime="59.780">
+            <label>Justice Byron R. White</label>
+            <text syncTime="10.841" offset="143918">This case involves a New York State tax on the transfer of security under the law of what you understand is the ex-rated glory of the sale that is involved and takes place in New York that it takes place out of state.</text>
+            <text syncTime="29.894" offset="220091">The out of state exchanges and challenge the tax in New York Courts.</text>
+            <text syncTime="35.042" offset="240676">The New York Court of Appeals sustained the tax against a -- against the challenge that is based on a Commerce Clause.</text>
+            <text syncTime="41.863" offset="267948">We reverse that judgment.</text>
+            <text syncTime="44.205" offset="277352">In our view, the tax does represent discriminatory burden on the interstate commerce and then precisely, the kind of evil in which the Commerce Clause was in.</text>
+            <text syncTime="56.421" offset="326148">Accordingly, the judgment is reversed.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="59.780" stopTime="61.270">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="59.780" offset="339628">Thank you Mr. Justice White.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

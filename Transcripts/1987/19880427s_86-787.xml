@@ -1,0 +1,29 @@
+<transcript>
+      <history>
+        <edit user="jgoldman" date="2014-04-03T11:32:14" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-04-03</identified>
+      </history>
+      <resources>
+        <audioFile size="229076">/xml/cases/1987/86_787/19880427o_86-787.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1987/trs/86-787op.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="37.198">
+        <title>Hicks v. Feiock</title>
+        <section startTime="0" stopTime="37.198">
+          <heading>Opinion Announcement of Byron R. White</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="16.375">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="80909">The opinions of the Court in two cases No. 86-787, Hicks against Feiock No.86-2037, Landers versus National Railroad Passenger Corporation will be announced by Justice White.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="16.375" stopTime="37.198">
+            <label>Justice Byron R. White</label>
+            <text syncTime="16.375" offset="146320">For the reasons stated in opinion on file in the Hicks case, 86-787, the judgment of the Court of Appeals of California is vacated and remanded for further proceedings.</text>
+            <text syncTime="29.019" offset="196893">Justice O'Connor has filed the dissenting opinion in which the Chief Justice and Justice Scalia have joined.</text>
+            <text syncTime="33.780" offset="216014">Justice Kennedy did not participate in the case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

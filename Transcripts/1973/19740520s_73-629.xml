@@ -1,0 +1,28 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-08-28</verified>
+      </history>
+      <resources>
+        <audioFile size="411922">/xml/cases/1973/73_629/19740520o_73-629.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1973/trs/73-629op.trs</sourceFile>
+        <speaker id="potter_stewart" type="justice" gender="male" path="/justices/potter_stewart" image="/justices/potter_stewart/thumbnail.jpg">Potter Stewart</speaker>
+        <speaker id="warren_e_burger" type="justice" gender="male" path="/justices/warren_e_burger" image="/justices/warren_e_burger/thumbnail.jpg">Warren E. Burger</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="83.720">
+        <title>Kosydar v. National Cash Register Company</title>
+        <section startTime="0.000" stopTime="83.720" revised="2014-01-21">
+          <heading>Opinion Announcement of Justice Potter Stewart</heading>
+          <turn speaker="potter_stewart" startTime="0.000" stopTime="81.369">
+            <label>Justice Potter Stewart</label>
+            <text syncTime="0.000" offset="76800">And finally the last opinion and judgment that I am authorized to announce this morning is in the case of Robert J. Kosydar who is the tax commissioner of Ohio, petitioner in this case, against the National Cash Register Company, respondent number 73-629, a case which is here on writ of certiorari to the Supreme Court of Ohio.</text>
+            <text syncTime="28.554" offset="191007">In this case, the Supreme Court of Ohio held by a divided vote that the Import-Export Clause of the Constitution that is Article 1, Section 10, Clause 2, prevented the state from assessing an ad valorem property tax upon goods specially manufactured by the respondent company for shipment to customers overseas, but temporarily resting in the respondent’s warehouse in Dayton, Ohio.</text>
+            <text syncTime="59.819" offset="315977">Since the goods have not yet actually entered into the stream of international commerce, we hold, upon the reasoning and the authority of our prior decisions, that Ohio was constitutionally free to impose a tax upon the goods in question.</text>
+            <text syncTime="76.342" offset="382119">Accordingly we reverse the judgment of the Ohio Supreme Court.</text>
+          </turn>
+          <turn speaker="warren_e_burger" startTime="81.369" stopTime="83.720">
+            <label>Chief Justice Warren E. Burger</label>
+            <text syncTime="81.369" offset="402181">Thank you Mr. Justice Stewart.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

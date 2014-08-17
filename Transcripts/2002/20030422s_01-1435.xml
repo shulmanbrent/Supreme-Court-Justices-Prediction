@@ -1,0 +1,41 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2014-01-16T12:21:12" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="739237">/xml/cases/2002/01_1435/20030422o_01-1435.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2002/trs/01-1435_20030422-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="163.474">
+        <title>Clackamas Gastroenterology Associates, P. C. v. Wells</title>
+        <section startTime="0.000" stopTime="163.474">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.910">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85340">The opinion of the Court in No. 01-1435, Clackamas Gastroenterology Associates will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="9.910" stopTime="163.474">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="9.910" offset="124942">Respondent Deborah Wells was employed by a petitioner in Oregon Medical Clinic that is organized as a professional corporation.</text>
+            <text syncTime="20.039" offset="165484">After her termination, she brought this action against petitioner alleging unlawful discrimination on the basis of disability under Title I of the Americans with Disabilities Act.</text>
+            <text syncTime="31.996" offset="213236">Petitioner moved for summary judgment asserting that was not covered by the Act because it did not have 15 or more employees.</text>
+            <text syncTime="40.148" offset="245836">The accuracy of that assertion depends on whether the four doctors who serve as the clinic's four director shareholders are counted as employees.</text>
+            <text syncTime="51.003" offset="289304">Relying on an economic reliaties test, the District Court concluded that the four director shareholders were analogous to partners in the partnership and therefore were not employees.</text>
+            <text syncTime="63.204" offset="338101">On appeal, the divided panel of the Ninth Circuit reversed holding that the use of any corporation including a professional corporation precludes an examination to determine whether the entity is in fact a partnership.</text>
+            <text syncTime="78.600" offset="399645">We granted certiorari and now reverse the Court of Appeals and remand the case for further proceedings.</text>
+            <text syncTime="85.005" offset="425350">Though, the ADA does not helpfully define the term "employee", the statute says that an employee is an individual employed by an employer.</text>
+            <text syncTime="97.382" offset="474773">Our cases, construing that term in other context, tell us to look to common-law agency doctrine when filling the gap in the statutory text.</text>
+            <text syncTime="107.888" offset="516883">Particularly helpful is the common-law's definition of the master-servant relationship which focuses on the master's control over the servant.</text>
+            <text syncTime="116.609" offset="551678">In accord with the common-law's focus on the element of control the Equal Employment Opportunity Commission has adopted specific guidelines to be considered in determining whether a director shareholder is an employee subject to a firm's control or a person who operates independently and manages a business.</text>
+            <text syncTime="137.869" offset="636733">We are persuaded by the EEOC's guidelines and by its focus on the common-law touchstone of control.</text>
+            <text syncTime="146.185" offset="670065">Accordingly, we have decided to send to case back to the Ninth Circuit to consider whether the four doctors are employees of the clinic in light of the EEOC's guidelines.</text>
+            <text syncTime="157.879" offset="716772">Justice Ginsburg has filed a dissenting opinion which Justice Breyer joins.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,1491 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1995-11-06</transcribed>
+        <edit user="dleib" date="2012-07-25T22:08:32" startTime="3455.124" oldSpeaker="unknown_speaker" newSpeaker="antonin_scalia"/>
+        <identified user="dleib">2012-07-25</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="14106661">/xml/cases/1995/94_1785/19951106a_94-1785.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1995/94-1785_19951106-argument.xml</sourceFile>
+        <speaker id="stephen_g_breyer" type="justice" gender="male" path="/justices/stephen_g_breyer" image="/justices/stephen_g_breyer/thumbnail.jpg">Stephen G. Breyer</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="kent_l_jones" type="advocate" gender="male" path="/advocates/kj/kent_l_jones" image="/advocates/kj/kent_l_jones/thumbnail.jpg">Kent L. Jones</speaker>
+        <speaker id="glenn_p_schwartz" type="advocate" gender="male" path="/advocates/gs/glenn_p_schwartz" image="/advocates/gs/glenn_p_schwartz/thumbnail.jpg">Glenn P. Schwartz</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3490.567">
+        <title>Commissioner v. Lundy</title>
+        <section startTime="0.000" stopTime="1631.551">
+          <heading>Argument of Kent L. Jones</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.728">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="141182">We'll hear argument now in Number 94-1785, Commissioner of Internal Revenue v. Robert F. Lundy.</text>
+            <text syncTime="8.508" offset="175141">Mr. Jones.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="9.728" stopTime="98.005">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="9.728" offset="180052">Mr. Chief Justice and may it please the Court--</text>
+            <text syncTime="12.799" offset="192278">The tax court is an Article I court of limited jurisdiction.</text>
+            <text syncTime="16.863" offset="208578">This case concerns the limitations on the jurisdiction of the tax court to award refunds.</text>
+            <text syncTime="22.516" offset="231148">When a taxpayer commences a suit in tax court to review an asserted deficiency, the court may then also determine whether an overpayment was made.</text>
+            <text syncTime="31.572" offset="267406">Section 6512(b)(3) of the Internal Revenue Code, however, provides three detailed jurisdictional limits on the amount of the refund that the court may award.</text>
+            <text syncTime="42.990" offset="313068">Under section 6512(b)(3)(A), the court may award amounts paid after the notice of deficiency is issued.</text>
+            <text syncTime="50.624" offset="343579">Under 6512(b)(3)(C), the court may award amounts for which a claim for refund was made before the notice of deficiency was issued, but when, as in this case, there was neither subsequent payment or a prior refund claim, section 6512(b)(3)(B), which this case concerns, limit the jurisdiction of the tax court to award amounts that would be refundable under 6511(b)(2) if on the date the notice of deficiency was issued a claim for refund had been filed.</text>
+            <text syncTime="83.074" offset="473460">In turn, 6511(b)(2) allows a refund of amounts paid within 3 years prior to the claim for refund only if the claim for refund was made within 3 years from the time of the taxpayer's return, but when--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="98.005" stopTime="137.662">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="98.005" offset="533123">Mr. Jones, in subsection (B) that you're referring to it says that no credit or refund will be allowed unless it was paid within the period which would be applicable under 6511(b)(2)(C), or if on the date of the mailing of the notice of deficiency a claim had been filed, whether or not filed.</text>
+            <text syncTime="127.674" offset="651824">Now, that language is just incomprehensible.</text>
+            <text syncTime="131.407" offset="666766">What does that parenthetical mean?</text>
+            <text syncTime="133.598" offset="675543">Does it mean if it isn't filed we can deem it to have been filed?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="137.662" stopTime="153.272">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="137.662" offset="691739">--That's... what it means is that, whether or not a claim for refund had actually been filed, the court is to apply these statutes as if a claim for refund was filed on that date.</text>
+            <text syncTime="148.310" offset="734371">That was... no one has doubted, I think, that that is the meaning of that provision.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="153.272" stopTime="155.453">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="153.272" offset="754224">And is that what should be done in this case?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="155.453" stopTime="176.908">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="155.453" offset="762896">Yes.</text>
+            <text syncTime="156.174" offset="765822">In this case, because the taxpayer had failed to file a return before the date of the notice of deficiency, 6512(b)(3)(B) operates, and what it operates to do is to require the court to apply 6511(b)(2) as if a claim for refund was filed on the date the notice of deficiency was issued.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="176.908" stopTime="183.432">
+            <label>Justice David H. Souter</label>
+            <text syncTime="176.908" offset="848787">Why does it say, whether or not, since subsection (C) covers the case in which it had been filed before that?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="183.432" stopTime="195.898">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="183.432" offset="874909">Yes, it... subsection (C) applies if a claim had been filed before that date.</text>
+            <text syncTime="189.764" offset="900196">Subsection (B) says you are to assume a claim is filed on that date, whether or not one had been filed.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="195.898" stopTime="200.312">
+            <label>Justice David H. Souter</label>
+            <text syncTime="195.898" offset="924751">Why didn't it just say that it wasn't, or if it wasn't?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="200.312" stopTime="220.318">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="200.312" offset="942410">I think one of the reasons it might put it that way is because if you read the rest of subsection (B) it goes on to say, a claim based upon whatever grounds the tax court determined an overpayment was made.</text>
+            <text syncTime="213.242" offset="994132">Now, what that refers to is a basic distinction between district court and tax court jurisdiction.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="220.318" stopTime="220.899">
+            <label>Justice David H. Souter</label>
+            <text syncTime="220.318" offset="1022449">Oh, I see.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="220.899" stopTime="244.684">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="220.899" offset="1024748">The district court only has jurisdiction to consider a judicial claim that is based upon precisely the administrative claim.</text>
+            <text syncTime="228.994" offset="1057140">If there's any material variance between the district court claim and the administrative claim, the district court claim has no jurisdiction, but in the tax court there is no requirement of an administrative claim.</text>
+            <text syncTime="239.952" offset="1100921">The court may award a refund based upon any ground for which it determines an overpayment.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="244.684" stopTime="248.117">
+            <label>Justice David H. Souter</label>
+            <text syncTime="244.684" offset="1119833">Well, in that respect the taxpayer is better off to be in the tax court.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="248.117" stopTime="260.866">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="248.117" offset="1133626">It... the taxpayer has a broader refund argument in the tax courts.</text>
+            <text syncTime="250.561" offset="1143344">He has whatever argument he can come up with, but the price that is paid is that the amount of refund that can be awarded is subject to the very specific and detailed jurisdiction provisions--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="260.866" stopTime="288.534">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="260.866" offset="1184617">Mr. Jones, can I ask you a question about (B), the same... the one that is at issue here?</text>
+            <text syncTime="265.628" offset="1203634">It says, if a refund claim had been filed.</text>
+            <text syncTime="269.190" offset="1217845">Now, if on that date... I guess it was September 26, 1990... before receiving a notice of deficiency the taxpayer had decided that he ought to file a refund claim because he realized that they had overwithheld, what document would he have then filed?</text>
+            <text syncTime="286.504" offset="1287122">Would it not have been a return?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="288.534" stopTime="290.765">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="288.534" offset="1295272">--He could have filed a return, but--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="290.765" stopTime="292.187">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="290.765" offset="1304153">What else?</text>
+            <text syncTime="291.536" offset="1307288">Is there any--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="292.187" stopTime="293.266">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="292.187" offset="1309900">--Yes.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="293.266" stopTime="297.269">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="293.266" offset="1314184">--other form that the IRS uses that would have enabled him to claim a refund without filing a return?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="297.269" stopTime="305.694">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="297.269" offset="1330171">I think the right answer to your question is that courts have routinely held that refund claims can be submitted informally, that they don't have to be on a return--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="305.694" stopTime="311.209">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="305.694" offset="1363922">But is there any Internal Revenue form that provides for seeking a refund without filing a return?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="311.209" stopTime="320.206">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="311.209" offset="1385969">--There are... there isn't an Internal Revenue form that, of course, is exactly what you've described, a return that includes a claim for refund.</text>
+            <text syncTime="319.235" offset="1418047">There's also--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="320.206" stopTime="327.379">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="320.206" offset="1421913">But is there an Internal Revenue form that seeks a refund without filing a return?</text>
+            <text syncTime="324.397" offset="1438736">I don't think there is, but if there is, would you identify it for me?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="327.379" stopTime="328.661">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="327.379" offset="1450648">--It would be the amended return form.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="328.661" stopTime="332.023">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="328.661" offset="1455768">The amended return form, which is a kind of return.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="332.023" stopTime="332.902">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="332.023" offset="1469247">It is an amended return.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="332.902" stopTime="338.856">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="332.902" offset="1472695">But there's no way, is there, to file a claim for refund at that date without also filing a return?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="338.856" stopTime="345.351">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="338.856" offset="1496519">No, sir, I'm sorry, I must disagree.</text>
+            <text syncTime="341.307" offset="1506341">The courts have routinely held that you can file a refund claim informally.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="345.351" stopTime="354.299">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="345.351" offset="1522537">But there's no form.</text>
+            <text syncTime="346.182" offset="1525881">There's no regular IRS form that the average taxpayer who has overwithheld can go to the office and say, would you give me the refund form.</text>
+            <text syncTime="353.277" offset="1554198">What would he get?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="354.299" stopTime="361.095">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="354.299" offset="1558377">There's no IRS form, but there is... but you don't have to use an IRS form to make a refund claim, according to the courts.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="361.095" stopTime="369.800">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="361.095" offset="1585544">How is the average taxpayer to know that?</text>
+            <text syncTime="363.866" offset="1596620">If he went to the IRS, what would they tell him to do?</text>
+            <text syncTime="367.447" offset="1610935">If he went to a lawyer, what would he tell him to do?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="369.800" stopTime="372.462">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="369.800" offset="1620340">If they went to the IRS, the IRS would probably ask him to file a return--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="372.462" stopTime="373.330">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="372.462" offset="1630998">Correct.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="373.330" stopTime="374.472">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="373.330" offset="1634446">--which this taxpayer hasn't done.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="374.472" stopTime="419.482">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="374.472" offset="1639043">And that raises a question, Mr. Jones.</text>
+            <text syncTime="377.714" offset="1652000">As I understand it, this provision, as you read it, favors the taxpayer when the taxpayer has filed a return.</text>
+            <text syncTime="384.738" offset="1680108">We get into this problem with the taxpayer who hasn't filed a return, and at some point in the exchanges between the IRS and the Service, the taxpayer was told, file your return soon, and if you don't, then we'll prepare a substitute return for you.</text>
+            <text syncTime="405.802" offset="1764326">Can you explain how that would have played out if the Service, instead of sending the notice of deficiency, had first filed a substituted return for the taxpayer?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="419.482" stopTime="444.048">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="419.482" offset="1819079">A substituted return is... it's lingo, if you'll pardon the expression.</text>
+            <text syncTime="425.536" offset="1843321">It is not a return.</text>
+            <text syncTime="427.857" offset="1852516">A substituted return is simply an internal document that the IRS prepares to set forth their calculations based upon what they think the taxpayer's liability is.</text>
+            <text syncTime="438.042" offset="1893267">The return that 6511 refers to is specifically the return filed by the taxpayer.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="444.048" stopTime="446.831">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="444.048" offset="1917300">So that substituted return would not have counted--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="446.831" stopTime="447.969">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="446.831" offset="1928480">No.</text>
+            <text syncTime="447.418" offset="1930779">It would--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="447.969" stopTime="448.910">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="447.969" offset="1932973">--to serve as the return.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="448.910" stopTime="450.651">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="448.910" offset="1936735">--It cannot be the taxpayer's return.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="450.651" stopTime="454.032">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="450.651" offset="1943735">Does the taxpayer get a copy of the substituted return?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="454.032" stopTime="469.664">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="454.032" offset="1957215">It isn't sent to the taxpayer.</text>
+            <text syncTime="456.845" offset="1968500">What's sent to the taxpayer is the notice of deficiency, which includes the calculations.</text>
+            <text syncTime="460.457" offset="1982919">Whether the taxpayer can see the underlying basis for it, I don't have any doubt that they can see it, but I don't believe that it's routinely sent.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="469.664" stopTime="475.320">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="469.664" offset="2019804">But they don't attach the substituted return to the notice of deficiency.</text>
+            <text syncTime="473.126" offset="2033597">They have the same calculation, but not the form.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="475.320" stopTime="525.151">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="475.320" offset="2042374">I can't say definitively.</text>
+            <text syncTime="477.470" offset="2051046">I'm sorry, Justice Kennedy, I don't know, but what I am confident about is that this thing that we call a substituted return is not a return of the taxpayer, it is simply... for example, a taxpayer, we might have a W-2.</text>
+            <text syncTime="490.610" offset="2103605">It might show some information about income and withholdings.</text>
+            <text syncTime="494.524" offset="2119278">That might have been all that we know.</text>
+            <text syncTime="496.213" offset="2125966">For example, that might have been all that we know in this case, and based upon that limited knowledge, we "prepare a substituted return", but what we're really doing is filling in the blanks as best we know.</text>
+            <text syncTime="506.230" offset="2166090">The definition of a return in the code I think is best described in 6611(h), which talks about a return in processable form.</text>
+            <text syncTime="515.486" offset="2203079">A return... it must be a document filed by the taxpayer that purports to be a return, and that contains all of the information from which the taxpayer's entire liability--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="525.151" stopTime="527.645">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="525.151" offset="2241740">But does the code define the term, claim, as used in this section?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="527.645" stopTime="531.506">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="527.645" offset="2251667">--A claim for refund has been defined judicially.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="531.506" stopTime="533.587">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="531.506" offset="2267131">I... that wasn't my question.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="533.587" stopTime="537.420">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="533.587" offset="2275491">I'm not familiar with a definition of a claim for refund in the--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="537.420" stopTime="543.684">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="537.420" offset="2290851">Well then, why should we look at the definition of return?</text>
+            <text syncTime="539.460" offset="2299001">We're asking... the question is, what does the word claim mean in this section--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="543.684" stopTime="544.515">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="543.684" offset="2315824">--Well, Justice--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="544.515" stopTime="547.827">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="544.515" offset="2319167">--and you've just told me the only way you can file a claim is by filing a return--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="547.827" stopTime="548.476">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="547.827" offset="2332438">--No, sir, I didn't.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="548.476" stopTime="550.079">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="548.476" offset="2335050">--but yet the claim doesn't include the term, return.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="550.079" stopTime="557.893">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="550.079" offset="2341424">I did not say that.</text>
+            <text syncTime="550.700" offset="2343931">The courts have held quite clearly that you can file a claim informally, and you don't have to use a return, and let me be specific, a claim for refund--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="557.893" stopTime="561.085">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="557.893" offset="2372666">You can file a claim informally without first having filed a return?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="561.085" stopTime="562.677">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="561.085" offset="2385518">--Absolutely.</text>
+            <text syncTime="561.706" offset="2387922">A claim for refund--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="562.677" stopTime="564.959">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="562.677" offset="2391788">What case gives us an example of that?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="564.959" stopTime="575.805">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="564.959" offset="2400983">--In our brief, in our reply brief we cite the Salzman Treatise, which elaborates a lot of cases that deal with this subject.</text>
+            <text syncTime="573.763" offset="2436196">A claim is--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="575.805" stopTime="580.049">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="575.805" offset="2444346">Do I understand correctly that it wouldn't have made any difference as long as he didn't file a return?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="580.049" stopTime="580.890">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="580.049" offset="2461378">--Yes.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="580.890" stopTime="596.960">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="580.890" offset="2464722">As you read the statute, he must have filed a return first.</text>
+            <text syncTime="583.051" offset="2473290">He could have filed a formal, informal, all the claims in the world, and on your reading of the statute it would not have made any difference.</text>
+            <text syncTime="590.137" offset="2501711">What he had to file, what he didn't file before the notice of a deficiency was not a claim, but a return.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="596.960" stopTime="613.431">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="596.960" offset="2528983">That's absolutely correct.</text>
+            <text syncTime="598.562" offset="2535357">The statute makes the distinction between taxpayers who have been delinquent in filing returns and taxpayers who have not, and by its very words it provides an abbreviated period of recovery for taxpayers who have not filed a return before the notice of deficiency was issued.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="613.431" stopTime="629.103">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="613.431" offset="2594811">Mr. Jones, other than this, rather unusual circumstances of this case, is there any other time that the 2-year look back period would apply under this subsection?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="629.103" stopTime="633.146">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="629.103" offset="2657505">Well, it applies whenever--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="633.146" stopTime="638.401">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="633.146" offset="2673701">Does it apply only to circumstances of this case, and in no other instance?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="638.401" stopTime="651.989">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="638.401" offset="2694704">--It applies routinely when the taxpayer has not filed a return before the notice of deficiency is issued.</text>
+            <text syncTime="644.716" offset="2719990">That would be the... you only get the 3-year look back if you have filed the return before the claim for refund arises.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="651.989" stopTime="673.114">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="651.989" offset="2749038">Now, has the IRS been totally consistent in its position and interpretation of this statute?</text>
+            <text syncTime="662.776" offset="2792193">It seems rather inconsistent with the position the Government took in the Miller case in the Ninth Circuit, and with the Revenue Ruling 76-511.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="673.114" stopTime="793.618">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="673.114" offset="2833571">There's a long answer to that question which I'd like to give, and I'd like to try to give it in a logical order.</text>
+            <text syncTime="679.058" offset="2857394">The first part of the answer to the question is, has the Government been consistent about tax court cases, and the answer to that is plainly yes.</text>
+            <text syncTime="687.516" offset="2891144">Since 1957, in Revenue Ruling 57-354, which is quoted at page 48 of the petition appendix, the Commissioner has stated that the status of a claim for refund must be determined as of the time it is filed and that if, as the time it is filed, no return has then been filed, you only get a 2-year look back period.</text>
+            <text syncTime="707.640" offset="2971706">The tax court has consistently reached the same conclusion under its own jurisdiction since the early 1970's.</text>
+            <text syncTime="715.505" offset="3003158">The suggestion that our position in this case is newly minted simply ignores this historical record, and moreover, factually, the suggestion of respondent that we would routinely pay refund claims in this context is demonstrably incorrect, as the tax court found, because 6512(a) of the Internal Revenue Code says that if a notice of deficiency is issued, and the taxpayer files a claim in tax court, then no refund or credit shall be allowed except as the tax court determines, so in tax court cases the Commissioner has no administrative authority to award a refund.</text>
+            <text syncTime="754.130" offset="3157698">We are deprived of it by statute.</text>
+            <text syncTime="755.921" offset="3164803">Now, the question that you're really, I think, focusing on is, have we been the same about district court cases and tax court cases, and I think... there's a short answer to that and a long explanation.</text>
+            <text syncTime="768.560" offset="3215376">The short answer is, it is not perfectly clear whether in each and every situation the refund periods are supposed to be the same in district court and tax court cases, and there is no basis for assuming that Congress intended them to always be the same, and I'd like to explain the latter part first.</text>
+            <text syncTime="786.732" offset="3288101">There's no reason to think Congress necessarily intended the same periods always to apply in district court and tax court.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="793.618" stopTime="833.835">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="793.618" offset="3315582">Mr. Jones, may I derail you just for a moment to go back to where you were in the tax court?</text>
+            <text syncTime="800.123" offset="3341600">One might wonder whether the Commissioner was always consistent in the tax court because part of the history of this case that initially this taxpayer, that the answer in the... to the petition in the tax court didn't raise a time bar, and in fact the taxpayer got a letter that said, you're going to get a refund check, and then it was over a year after the initial answer that the amendment was made to assert the time bar.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="833.835" stopTime="850.368">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="833.835" offset="3476496">I believe that you've accurately described the facts, Justice Ginsburg, but I also believe that the Commissioner raising the defense in this case is something that he has... she, in this case, has consistently done since the issue has been presented.</text>
+            <text syncTime="846.885" offset="3528637">The fact that there may have been a delay in it's assertion in this case--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="850.368" stopTime="862.164">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="850.368" offset="3542638">It's not just a delay.</text>
+            <text syncTime="851.299" offset="3546295">There just wasn't... there was an answer.</text>
+            <text syncTime="853.359" offset="3554550">The time bar was obvious from the start, and yet over a year went by without this being asserted.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="862.164" stopTime="912.897">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="862.164" offset="3589763">--It is... I think it's fair to say that it's relatively common for defenses to be amended, for answers to be amended, and I would hope the Court wouldn't draw any inference from that in this case.</text>
+            <text syncTime="874.914" offset="3640754">There's really no reason to.</text>
+            <text syncTime="876.924" offset="3648800">I mean, as I emphasized just a point ago, we don't have authority to make a refund in a tax court case unless the tax court has determined an overpayment, so we have to... when we think a refund might be appropriate, we have to submit an agreed order that falls within the jurisdiction of the tax court.</text>
+            <text syncTime="893.346" offset="3714524">It may have been... and I'm speculating here.</text>
+            <text syncTime="896.267" offset="3726227">It may have been that in preparing a draft of some kind of agreed order to submit in this case, that it then occurred to counsel, oh, wait a minute, this case isn't within the tax court's jurisdiction.</text>
+            <text syncTime="906.714" offset="3768023">It may be that that's the mechanics that led to this being asserted at the time that it was.</text>
+            <text syncTime="911.808" offset="3788398">Now--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="912.897" stopTime="929.350">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="912.897" offset="3792682">Mr. Jones, can I just follow up, because I didn't think I got a complete answer to my question.</text>
+            <text syncTime="916.339" offset="3806475">I asked if there were cases involving claims for refunds such as the notations... and you referred on pages 14 and 15 of your reply brief... in which those informal claims had been made without there having previously been filed any return at all.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="929.350" stopTime="931.791">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="929.350" offset="3858511">--And I--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="931.791" stopTime="934.122">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="931.791" offset="3868333">And which of those do you think fits that category?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="934.122" stopTime="939.827">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="934.122" offset="3877633">--I'm sorry, Justice Stevens, I cannot tell you, as I stand here, which of those cases might involve those facts, but I would like--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="939.827" stopTime="940.986">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="939.827" offset="3900411">Do you think any of them involve that?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="940.986" stopTime="957.499">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="940.986" offset="3905113">--I would think they might well, and I would be speculating, but let me point out, because you seem... this is something important to you, and I want to emphasize it.</text>
+            <text syncTime="947.932" offset="3932908">Congress wrote this statute.</text>
+            <text syncTime="949.582" offset="3939491">Congress wrote it anticipating that there would be situations where claims for refund were filed at a time when no return had been filed.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="957.499" stopTime="958.478">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="957.499" offset="3971151">How do you know that?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="958.478" stopTime="970.665">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="958.478" offset="3975017">I know that because section 6511 (a) provides a limited look back for situations where the claim for refund is filed at a time that no return had been filed.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="970.665" stopTime="971.266">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="970.665" offset="4023814">Correct.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="971.266" stopTime="981.324">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="971.266" offset="4026217">So Congress anticipated that claims for refund could, in fact, be filed where no return had been filed, and provided for a 2-year look back period and, in fact, that's this case.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="981.324" stopTime="983.566">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="981.324" offset="4066446">That would be that no return had previously been filed.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="983.566" stopTime="984.307">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="983.566" offset="4075432">Absolutely.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="984.307" stopTime="991.479">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="984.307" offset="4078358">But that doesn't mean that there could be cases in which the claim for refund could ever be filed without simultaneously filing a return.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="991.479" stopTime="995.454">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="991.479" offset="4107092">If the claim for refund and the return were filed simultaneously--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="995.454" stopTime="996.215">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="995.454" offset="4122975">Which they normally would be.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="996.215" stopTime="997.554">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="996.215" offset="4126005">--Which they often are.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="997.554" stopTime="998.345">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="997.554" offset="4131334">Normally.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="998.345" stopTime="1002.727">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="998.345" offset="4134469">Most... ordinarily may be, but certainly or not necessarily required--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1002.727" stopTime="1019.690">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1002.727" offset="4152023">Except that you can't give me an example in adjudicated cases of one having been filed without the other.</text>
+            <text syncTime="1007.432" offset="4170831">That is, of the claim for refund having been filed without the return, which seems to me makes it very reasonable to assume that when Congress used the term, claim, they used it to apply to the document on which the claim is normally made.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1019.690" stopTime="1026.675">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1019.690" offset="4219941">--Justice Stevens, if we were to assume that a claim for refund and a return was the same thing, then very little--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1026.675" stopTime="1034.710">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1026.675" offset="4247840">Oh, I don't suggest that at all.</text>
+            <text syncTime="1028.166" offset="4253796">I'm just suggesting that you cannot file a claim for refund without also having either previously or simultaneously filed a return.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1034.710" stopTime="1035.621">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1034.710" offset="4279918">--Well, Justice--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1035.621" stopTime="1037.251">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1035.621" offset="4283575">And you haven't given me a contrary example.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1037.251" stopTime="1082.912">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1037.251" offset="4290158">--Well, this is such a case.</text>
+            <text syncTime="1038.893" offset="4296741">Congress imputed the claim for refund, but setting that aside, Justice Stevens, frankly you would have to write out almost all of 6511(a) to support that view, because first of all the second clause of the first sentence of 6511(a) said that, and if the claim for refund is filed at a time when no return has been filed, then you get a 2-year look back period.</text>
+            <text syncTime="1059.626" offset="4379602">So to suggest... I mean, you can't suggest that Congress didn't think that a claim for refund and a return were independent documents that could be filed in different orders.</text>
+            <text syncTime="1069.752" offset="4420144">Congress clearly contemplated that, and clearly also provided an abbreviated period, an abbreviated look back period for the taxpayer who fails to file the return before he files the refund claim.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1082.912" stopTime="1103.325">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1082.912" offset="4472806">Mr. Jones, can I ask something about the Government's theory of why, when the return is later filed, after the deficiency has been assessed, you do not thereupon get the benefit of the 3-year period?</text>
+            <text syncTime="1099.451" offset="4538949">I think I may disagree with you as to the reason, though perhaps not as to the result.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1103.325" stopTime="1114.982">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1103.325" offset="4554413">Well, the reason that we see is that section 6512(b)(3) provides a detailed set of answers to these questions.</text>
+            <text syncTime="1109.820" offset="4580431">It says that you can base a refund on a refund claim filed before--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1114.982" stopTime="1117.684">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1114.982" offset="4601015">Where are you reading from, Mr. Jones?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1117.684" stopTime="1185.969">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1117.684" offset="4611882">--6512(b)(3)(C) says that you can award a refund based upon a prior refund claim filed before a notice of deficiency.</text>
+            <text syncTime="1126.190" offset="4645842">6512(b)(3)(B) says you can award a refund based upon a claim assumed to arise on the date of the notice of deficiency.</text>
+            <text syncTime="1135.366" offset="4682622">There is no basis for engrafting onto this statute an additional refund jurisdiction for subsequent refund claims, which is what the court of appeals theories would require.</text>
+            <text syncTime="1146.562" offset="4727344">You'd have to be adding a clause to the statute, and you'd be adding a clause to the statute that would contradict the clauses that would already exist.</text>
+            <text syncTime="1154.899" offset="4760676">Now, this Court has said on several occasions that the jurisdictional limitations on refunds are limited waivers of sovereign immunity that must be strictly applied and strictly adhered to by the judiciary.</text>
+            <text syncTime="1168.078" offset="4813443">In this case, the court of appeals acknowledged that it was not applying the statute as Congress wrote it.</text>
+            <text syncTime="1173.710" offset="4836013">The court said, we will not use the imputed refund claim under 6512(b)(3)(B) to decide whether a 2-year or 3-year look back period applies, but that is precisely what Congress told them to do.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1185.969" stopTime="1192.383">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1185.969" offset="4885019">You just before were saying... you were asked the question, has the Government always been consistent.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1192.383" stopTime="1193.224">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1192.383" offset="4910619">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1193.224" stopTime="1206.442">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1193.224" offset="4914067">And then you said, it's been consistent in the tax court, and then you said, well, in the court of claims for the refunds, it seems to be a little different, and I was wondering if you'd said everything you wanted to say there, or if you wanted to say a little more--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1206.442" stopTime="1272.588">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1206.442" offset="4966939">I'd like to try to briefly describe that, because time is limited.</text>
+            <text syncTime="1210.676" offset="4983866">There is no reason to think they have to be the same.</text>
+            <text syncTime="1214.039" offset="4997241">The jurisdiction of the tax court and the district court have always been different.</text>
+            <text syncTime="1217.559" offset="5011347">The district court had a common law jurisdiction to award refunds against the collector, had a statutory authority, ultimately had a statutory authority to award claims against the United States long before the tax court came into existence, and when the tax court came into existence, it was only allowed as an administrative wing in the Treasury Department to review the notice of deficiency.</text>
+            <text syncTime="1238.633" offset="5095670">It couldn't even talk about overpayments until 1928, and it wasn't until 1988, just 7 years ago, that the tax court was allowed to enter an order requiring that a refund be made.</text>
+            <text syncTime="1249.942" offset="5140914">Moreover, as I've already described, the jurisdiction of the courts is different, even as we stand here, because of the variance of the claim doctrine, and so there's no reason to assume, ab initio, that in establishing or in merging these disparate jurisdictions, that... and in using the terminology that is peculiar to tax court litigation in doing so, that you're always going to reach the same result.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1272.588" stopTime="1274.839">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1272.588" offset="5231507">--It's still a little odd, though, isn't it, in the--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1274.839" stopTime="1276.960">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1274.839" offset="5240493">At most, it's odd--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1276.960" stopTime="1286.016">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1276.960" offset="5248957">--I take it... it's April 15, for the last year, right.</text>
+            <text syncTime="1279.962" offset="5260973">This is right.</text>
+            <text syncTime="1280.843" offset="5264526">Then you have... if you file your return within 2 years, you're home free.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1286.016" stopTime="1286.557">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1286.016" offset="5285215">--Yes.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1286.557" stopTime="1290.480">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1286.557" offset="5287409">No problem.</text>
+            <text syncTime="1287.248" offset="5290126">If you wait till after 3 years, you've had it.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1290.480" stopTime="1291.379">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1290.480" offset="5303082">In either court.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1291.379" stopTime="1309.180">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1291.379" offset="5306635">In either court.</text>
+            <text syncTime="1292.101" offset="5309561">Now we're talking about that key middle year between 2 years and 3, and if you go into the tax court, on your reading of it, it's a race.</text>
+            <text syncTime="1299.766" offset="5340176">If they get the deficiency notice out before you file your return, you only get the 2-year look back, so you've had it.</text>
+            <text syncTime="1306.188" offset="5365881">If you're in the court of claims... is that right?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1309.180" stopTime="1312.124">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1309.180" offset="5377897">No, I don't think so.</text>
+            <text syncTime="1310.091" offset="5381450">It's not a race.</text>
+            <text syncTime="1310.772" offset="5384166">I don't want you to ever think it's a race.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1312.124" stopTime="1314.056">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1312.124" offset="5389600">I don't mean to be pejorative.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1314.056" stopTime="1315.857">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1314.056" offset="5397332">Let me explain why... because they don't have to go to tax court.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1315.857" stopTime="1352.314">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1315.857" offset="5404542">No, no, wait.</text>
+            <text syncTime="1317.099" offset="5409558">If... I didn't mean... I mucked it up by saying this pejoratively.</text>
+            <text syncTime="1321.772" offset="5428261">I'm just trying to find out what happens.</text>
+            <text syncTime="1323.294" offset="5434322">In the tax court, during that key year... nothing's happened, 2 years have gone by.</text>
+            <text syncTime="1328.069" offset="5453443">Now, during the next year, if the notice of deficiency comes out, forget it.</text>
+            <text syncTime="1333.320" offset="5474446">If, before the notice of deficiency comes out, the taxpayer wakes up and files his return, then you get back the 3 years.</text>
+            <text syncTime="1342.037" offset="5509241">That's correct, isn't it.</text>
+            <text syncTime="1343.279" offset="5514256">But in the court of claims, if the notice of deficiency comes out, the taxpayer can wake up then and file the return, and then he'll get the 3-year look back.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1352.314" stopTime="1365.092">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1352.314" offset="5550410">I don't think there's an answer to the last part of your point, and that's what I'd like to address.</text>
+            <text syncTime="1356.666" offset="5567755">In the Ninth Circuit decision in the Miller case, the Court concluded that these refund periods were identical in district court and tax court cases.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1365.092" stopTime="1365.853">
+            <label>Unknown Speaker</label>
+            <text syncTime="1365.092" offset="5601505">But they're wrong, aren't they?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1365.853" stopTime="1366.774">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1365.853" offset="5604535">I think--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="1366.774" stopTime="1375.640">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="1366.774" offset="5608193">I mean, that's because they did that, they thought you could file a return forever, but they forget if you file a return 50 years later, you're only going to get 3-year look back.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1375.640" stopTime="1392.119">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1375.640" offset="5643719">--I don't think that they are obviously wrong.</text>
+            <text syncTime="1378.441" offset="5654900">I think that they make a textual point, and I need to argue both sides of this, and I want to explain that at the beginning, because my point is, the essential point is, it doesn't matter.</text>
+            <text syncTime="1388.078" offset="5693456">It isn't critical.</text>
+            <text syncTime="1389.278" offset="5698263">What's critical in this case is, what is the tax court's jurisdiction.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1392.119" stopTime="1401.727">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1392.119" offset="5709652">But what does matter is your approach to reading this statute, and I understand what you say about the tax court.</text>
+            <text syncTime="1398.635" offset="5735670">You've got to apply this literally.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1401.727" stopTime="1402.368">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1401.727" offset="5748000">That's right.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1402.368" stopTime="1423.591">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1402.368" offset="5750612">And yet Judge Wiggins didn't apply the limitation there applicable literally.</text>
+            <text syncTime="1408.682" offset="5775899">He seemed to be looking for some... one of the reasons that he gave for a construction that as far as I can see varied from what you said in your revenue ruling, one of the reasons that he gave is there ought to be symmetry between the tax court and the district court claims court.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1423.591" stopTime="1432.297">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1423.591" offset="5835458">Yes, and our first point is that there is no reason to assume there's symmetry when both the history and the text of the provisions is not symmetrical... are not symmetrical.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1432.297" stopTime="1437.152">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1432.297" offset="5870358">You've given us an example of symmetry, of a symmetry in the taxpayer's favor in the tax court--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1437.152" stopTime="1438.241">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1437.152" offset="5889688">That's correct.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1438.241" stopTime="1470.133">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1438.241" offset="5894077">--and answered my question.</text>
+            <text syncTime="1438.842" offset="5896480">May I ask you another technical question which probably doesn't matter either, but if the taxpayer had let 2 years go but had filed no return, more than 2 years had passed since the last tax payment, then made an administrative claim and followed that by going into the district court, he would be in exactly the same position he's in here, wouldn't he?</text>
+            <text syncTime="1460.376" offset="5982684">He'd be out.</text>
+            <text syncTime="1462.928" offset="5992820">He couldn't... he couldn't file his claim in the district court, and then say, oh, wait a minute, I forgot to file a return--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1470.133" stopTime="1470.804">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1470.133" offset="6021659">Oh, I see.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1470.804" stopTime="1476.308">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1470.804" offset="6024375">--and then file a return and get the 3-year period.</text>
+            <text syncTime="1473.186" offset="6033884">On your reading he'd be just as stuck as he is here.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1476.308" stopTime="1485.755">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1476.308" offset="6046318">The subsequent return would not affect the prior refund claim.</text>
+            <text syncTime="1482.863" offset="6072545">It wouldn't validate the timing of the prior refund claim.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1485.755" stopTime="1486.416">
+            <label>Unknown Speaker</label>
+            <text syncTime="1485.755" offset="6084144">Because it's--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1486.416" stopTime="1488.676">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1486.416" offset="6086756">Because the statute says that.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1488.676" stopTime="1490.159">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1488.676" offset="6095846">--Because the reading of the, within 3 years from--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1490.159" stopTime="1490.830">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1490.159" offset="6101802">That's correct.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1490.830" stopTime="1491.238">
+            <label>Unknown Speaker</label>
+            <text syncTime="1490.830" offset="6104415">--implies before.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1491.238" stopTime="1492.440">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1491.238" offset="6106086">That's what the Richards court said--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1492.440" stopTime="1496.504">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1492.440" offset="6110893">So he'd be in the same boat, in my hypo, in the district court that he's in here.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1496.504" stopTime="1497.675">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1496.504" offset="6127193">--That is correct.</text>
+            <text syncTime="1497.094" offset="6129492">But let me--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1497.675" stopTime="1502.088">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1497.675" offset="6131791">Could he... in Justice Souter's hypothetical could he dismiss the district court action and start all over again?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1502.088" stopTime="1536.020">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1502.088" offset="6149450">--Hypothetically, and then we'd have the problem that Miller addresses, and the only thing I want to say about Miller in the brief time that's remaining is that the Service has ruled to the contrary about district court cases that even a late return might allow a 3-year look back period in the district court, but I do want to point out that that ruling doesn't explain its analysis.</text>
+            <text syncTime="1523.261" offset="6234191">We don't know, in reading it, whether it's based upon a textual analysis or upon administrative grace.</text>
+            <text syncTime="1529.305" offset="6258328">We don't have administrative grace in tax court cases.</text>
+            <text syncTime="1532.217" offset="6270031">That's another difference between tax court and district court cases.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1536.020" stopTime="1548.637">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1536.020" offset="6285182">The Revenue Ruling, you say you don't know whether that's administrative grace, that's why... but the Revenue Ruling for that particular taxpayer, because of the 3-year look back period, came out that the taxpayer didn't get the refund.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1548.637" stopTime="1549.628">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1548.637" offset="6335651">On the facts of that ruling.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="1549.628" stopTime="1553.672">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="1549.628" offset="6339621">And wouldn't that have been the same thing in Miller, that... wouldn't the tax--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1553.672" stopTime="1579.568">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1553.672" offset="6355817">No, I don't... I'm sorry.</text>
+            <text syncTime="1554.760" offset="6360206">I believe in Miller the return was filed more than 2 but less than 3 years after its due date, whereas in the ruling it involved a return filed more than 3 years after its due date.</text>
+            <text syncTime="1563.416" offset="6394792">These are very... the intricacies of the intertwining of these provisions are complicated.</text>
+            <text syncTime="1568.592" offset="6415481">I just want to end by explaining once again that on this Court's decisions, what we should look at is the jurisdictional provisions of the tax court.</text>
+            <text syncTime="1576.706" offset="6447977">They should not be amended, they should be enforced, and--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1579.568" stopTime="1593.897">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1579.568" offset="6459366">--Mr. Jones, you do have... even in tax court cases, you would have administrative discretion, the week before sending a notice of deficiency, to send a letter to the taxpayer saying we're about to file a notice of deficiency.</text>
+            <text syncTime="1589.984" offset="6501058">You'll get 3 years if you promptly file a return.</text>
+            <text syncTime="1592.207" offset="6509940">That you could do, couldn't you?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1593.897" stopTime="1597.209">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1593.897" offset="6516731">--What we did do was, 90 days before we issued the notice of deficiency--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="1597.209" stopTime="1597.850">
+            <label>Unknown Speaker</label>
+            <text syncTime="1597.209" offset="6530002">My question is, you could do that, couldn't you?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1597.850" stopTime="1598.681">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1597.850" offset="6532509">--we told him that we were about to.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1598.681" stopTime="1602.492">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1598.681" offset="6535853">And if he'd been smart enough, he then could have filed a return right away and been protected.</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1602.492" stopTime="1606.406">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1602.492" offset="6551109">The tax court opinions on this are of long standing, Justice Stevens.</text>
+            <text syncTime="1604.874" offset="6560617">I would like to reserve--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1606.406" stopTime="1610.991">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1606.406" offset="6566782">But I just want to be sure, I am correct, he could have protected himself then by immediately filing a return, couldn't he?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1610.991" stopTime="1613.910">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1610.991" offset="6585068">--Hypothetically, he could have protected himself.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="1613.910" stopTime="1618.505">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="1613.910" offset="6596771">And you would have had administrative discretion to tell him that that option was open to him, would you not?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="1618.505" stopTime="1628.730">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="1618.505" offset="6615161">Justice Stevens, I have to answer that question yes, because obviously we would have discretion to tell every taxpayer everything we know, if we had the time.</text>
+            <text syncTime="1625.718" offset="6644000">I would like to reserve the balance of my time for rebuttal.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1628.730" stopTime="1631.551">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1628.730" offset="6656016">Very well, Mr. Jones.</text>
+            <text syncTime="1630.332" offset="6662495">Mr. Schwartz, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="1631.551" stopTime="3371.492">
+          <heading>Argument of Glenn P. Schwartz</heading>
+          <turn speaker="glenn_p_schwartz" startTime="1631.551" stopTime="1681.937">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1631.551" offset="6667301">Mr. Chief Justice, and may it please the Court--</text>
+            <text syncTime="1634.676" offset="6679840">Justice Stevens identified the core issue in the interpretation of 6512(b)(3)(B).</text>
+            <text syncTime="1643.760" offset="6716202">The key question is, what is meant by the word claim in that statute?</text>
+            <text syncTime="1650.885" offset="6744624">Under the interpretation of the IRS, the claim is a defective claim, because if Congress intended, and it must have, that that claim be valid, then it would have to be on a Federal income tax return for the following reasons.</text>
+            <text syncTime="1668.145" offset="6813691">A return is required to be filed under 6011, but 6011 does not define what a return is, nor do the regulations, but the case law has--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1681.937" stopTime="1688.049">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1681.937" offset="6868862">Well, the Solicitor General said that the code does define a return.</text>
+            <text syncTime="1685.867" offset="6884640">You're saying that the code doesn't define a return.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="1688.049" stopTime="1690.072">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1688.049" offset="6893313">--The code does not define a return, Your Honor.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1690.072" stopTime="1706.380">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1690.072" offset="6901463">But the one thing the code clearly does is distinguish, at least in 6511, between claim and return, so presumably it... there is no reason, I guess, to assume that it was... that it was assuming a possible identity.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="1706.380" stopTime="1738.632">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1706.380" offset="6966664">Your Honor, a claim and a return can be different documents.</text>
+            <text syncTime="1710.995" offset="6985159">For example, for taxes other than an income tax, Form 843 is used, the claim for refund form.</text>
+            <text syncTime="1717.278" offset="7010237">Prior 1976, a Form 843 claim could be used in lieu of an amended return, but whereas here an original return has not been filed, a valid claim for refund, and Congress must have meant that that claim be valid, must be on a Federal income tax return for these reasons.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1738.632" stopTime="1758.487">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1738.632" offset="7095709">Before you give me the reasons, would you respond to this (b)(3)(C) deals specifically with the case in which a return has been filed.</text>
+            <text syncTime="1750.659" offset="7143775">Doesn't that suggest that claim in (b)(3)(B) was referring to a claim in which a return had not been filed?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="1758.487" stopTime="1772.859">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1758.487" offset="7175122">I don't believe so, Your Honor.</text>
+            <text syncTime="1760.029" offset="7181286">I... the proper... the question is, what does Congress mean by claim in (b)(3)(B)?</text>
+            <text syncTime="1769.496" offset="7219112">That's the question, and it has to mean a valid claim.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1772.859" stopTime="1785.896">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1772.859" offset="7232591">Well, certainly you'd read (C), which comes right along next to it and also contains the word claim, in deciding what claim means in (B).</text>
+            <text syncTime="1783.495" offset="7275118">They're not totally independent sections.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="1785.896" stopTime="1793.980">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1785.896" offset="7284731">That's correct, Your Honor, but the claim in (B) still has to be a valid claim, and I would like to explain what a valid claim has to be.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1793.980" stopTime="1809.151">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1793.980" offset="7317019">Before you do that, you've left me in some confusion.</text>
+            <text syncTime="1796.982" offset="7329035">I was astounded to hear you say that Justice Stevens had put his finger on the crux of the question.</text>
+            <text syncTime="1802.208" offset="7349933">The point he raised was not raised in your brief, as far as I know.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="1809.151" stopTime="1810.643">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1809.151" offset="7377727">Oh, yes, Your Honor, I devoted--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1810.643" stopTime="1834.127">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1810.643" offset="7383683">He claimed... well, he is questioning whether the claim might not constitute a return.</text>
+            <text syncTime="1822.250" offset="7430181">Your brief doesn't say that the claim constituted the filing of the return.</text>
+            <text syncTime="1826.442" offset="7446900">To the contrary, it says the later filing of the return constitutes the claim.</text>
+            <text syncTime="1829.944" offset="7460901">That's quite different, it seems to me.</text>
+            <text syncTime="1833.116" offset="7473544">Well, which is it?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="1834.127" stopTime="1834.979">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1834.127" offset="7477620">--Your Honor--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1834.979" stopTime="1838.610">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1834.979" offset="7481068">I mean, do you think the claim constitutes the return, or the later return constitutes the claim?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="1838.610" stopTime="1853.359">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1838.610" offset="7495592">--Your Honor, we have alternative arguments.</text>
+            <text syncTime="1840.593" offset="7503533">The--</text>
+            <text syncTime="1841.762" offset="7508131">[Laughter]</text>
+            <text syncTime="1842.312" offset="7510429">Our first argument is that the statute doesn't provide for a deemed claim at all, it provides a reference date for application of the limitation period.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1853.359" stopTime="1854.891">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1853.359" offset="7554524">Yes, I understand that.</text>
+            <text syncTime="1854.050" offset="7557345">That has nothing to do--</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="1854.891" stopTime="1855.532">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1854.891" offset="7560689">All right... okay.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1855.532" stopTime="1857.483">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1855.532" offset="7563301">--with what's the claim and what's the return.</text>
+            <text syncTime="1856.792" offset="7568317">But I thought your brief--</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="1857.483" stopTime="1858.094">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1857.483" offset="7571033">Your Honor--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1858.094" stopTime="1861.246">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1858.094" offset="7573541">--as far as the word claim and return, I thought your position was the later return was the claim.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="1861.246" stopTime="1877.796">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1861.246" offset="7586080">--We've devoted four or five or six pages of our brief to the question of, if it is assumed that there is a deemed claim, if that's what the language means, and we don't concede that, then the deemed claim must have been a valid claim, and the only valid claim that could be filed under these circumstances--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1877.796" stopTime="1878.567">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1877.796" offset="7652326">Is the later return.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="1878.567" stopTime="1879.576">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1878.567" offset="7655357">--is a return.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1879.576" stopTime="1885.711">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1879.576" offset="7659432">Yes, and that's not what Justice Stevens was questioning about at all.</text>
+            <text syncTime="1882.618" offset="7671553">Either you misunderstood him, or--</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="1885.711" stopTime="1960.510">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1885.711" offset="7683987">Perhaps I misunderstood him, but the core issue with respect to this statute is what is meant by the word claim.</text>
+            <text syncTime="1890.615" offset="7703631">Claim has to mean return.</text>
+            <text syncTime="1893.307" offset="7714393">Claim, again, is not defined in the statute or in the regs, but the regs under 6011 do say that you should make returns in accordance with the applicable Treasury regulations.</text>
+            <text syncTime="1904.995" offset="7761100">Now, a claim... a return has been defined under case law as meaning any document which contains sufficient information to allow the IRS to determine tax liability.</text>
+            <text syncTime="1916.601" offset="7807494">Now, the IRS in its construction of this section has ignored... in every brief it submitted to the tax court, the Fourth Circuit and this Court, the last phrase of the statute treats it as surplusage, stating the grounds upon which the tax court finds that there's an overpayment.</text>
+            <text syncTime="1935.823" offset="7884398">In fact, the IRS went so far as to excise it from its quotation of the statute on page 5 of its reply brief, but this language is important, because if the claim referred to in 6512(b)(3)(B) states the grounds upon which the tax court finds that there is an overpayment, that would constitute the same information that would be on a return, because the--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1960.510" stopTime="1965.863">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1960.510" offset="7983141">--The Government's position is that (b)(3)(B) doesn't refer to any real claim.</text>
+            <text syncTime="1963.882" offset="7996620">It's a hypothetical claim.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="1965.863" stopTime="1988.550">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="1965.863" offset="8004562">--Well, it's... even if it's a hypothetical claim, it has to be something, and it has to be a valid claim.</text>
+            <text syncTime="1970.468" offset="8022952">A valid claim has to be a return.</text>
+            <text syncTime="1973.640" offset="8035700">The statutory language requires that it state the grounds upon which the tax court finds there's a overpayment.</text>
+            <text syncTime="1979.724" offset="8060046">In this very case, the IRS employed the taxpayer's return to determine that there was, in fact, an overpayment.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1988.550" stopTime="2001.126">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1988.550" offset="8095363">Mr. Schwartz, under your interpretation, when would section 6512(b)(3)(B) ever act as a bar to claiming a refund?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2001.126" stopTime="2013.295">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2001.126" offset="8145623">Your Honor, if the notice of deficiency was mailed more than 3 years from the due date of the return, that would be at a time when the taxpayer could not have--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2013.295" stopTime="2021.582">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2013.295" offset="8194315">But you don't look to that subsection to give me that answer.</text>
+            <text syncTime="2016.597" offset="8207481">What... when would that subsection serve as a bar under your view?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2021.582" stopTime="2025.664">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2021.582" offset="8227438">--I don't understand the question, Your Honor.</text>
+            <text syncTime="2024.742" offset="8240082">The--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2025.664" stopTime="2038.492">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2025.664" offset="8243739">It just seemed to me that under your interpretation, (b)(3)(B) just would never apply to give effect to your--</text>
+            <text syncTime="2037.630" offset="8291700">--It's never a bar, but it's a tolling provision, isn't that your answer?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2038.492" stopTime="2060.696">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2038.492" offset="8295148">--Your Honor, our view of 6512(b)(3)(B) is that it's basically... if the statute of limitations was open to the taxpayer on the date that the notice was mailed, then it's open to him in the tax court, that he... the tax court can grant him a refund, so if the notice was mailed after 3 years from the due date, then under no circumstances could the taxpayer recover.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2060.696" stopTime="2069.963">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2060.696" offset="8383964">Well, I think everybody agrees with that.</text>
+            <text syncTime="2062.649" offset="8391696">So the statute of limitations wouldn't have run, on your theory, but the bar to recovery of money would have.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2069.963" stopTime="2114.462">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2069.963" offset="8420953">That's correct.</text>
+            <text syncTime="2072.275" offset="8430253">The statute of limitations on filing, in theory, as Justice Breyer suggested, that goes on forever.</text>
+            <text syncTime="2079.920" offset="8460764">Treasury Reg 6402-3(a)(5) says that a return showing an overpayment constitutes a claim for refund, and it's deemed filed on the same day, so a return filed several years after the due date would be a timely claim, but the limitation on amount would limit the taxpayer to the amount paid in the 3 years preceding the filing of the return, so there's no danger of stale claims, and there's no danger of a stale claim here.</text>
+            <text syncTime="2109.980" offset="8581032">The second reason that this--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2114.462" stopTime="2131.404">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2114.462" offset="8599004">On that... in that same vein, then can you tell us under what circumstances the 2-year look back would apply when the Commissioner... when the Commissioner sends a notice of deficiency?</text>
+            <text syncTime="2126.239" offset="8646129">The Commissioner sends a notice of deficiency.</text>
+            <text syncTime="2128.740" offset="8656055">When would the 2-year look back ever come into play?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2131.404" stopTime="2178.394">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2131.404" offset="8666713">--The 2-year look back would come into play the same way it would come into play if we were not dealing with the tax court, and that is where the 2 years from the date the tax is paid provides for a longer period of limitation than 3 years from the date the return was filed, and that could come up in connection with an audit.</text>
+            <text syncTime="2148.905" offset="8736722">For example, if a taxpayer, 1990 tax year, his due date is April 15, 1991.</text>
+            <text syncTime="2156.149" offset="8765770">That's the date that the taxes are paid, and pursuant to an audit 2 years later he makes an additional payment.</text>
+            <text syncTime="2162.474" offset="8791056">He has 2 years to claim a refund for the taxes paid pursuant to the audit, but only 3 years to claim the taxes that were paid on the due date.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2178.394" stopTime="2184.807">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2178.394" offset="8854691">So your view of the 2-year look back is, it can only work to the taxpayers advantage--</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2184.807" stopTime="2185.848">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2184.807" offset="8880395">That is correct.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2185.848" stopTime="2193.015">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2185.848" offset="8884470">--when it turns out to be longer than the 3 years from the return filing.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2193.015" stopTime="2199.978">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2193.015" offset="8913205">That is correct.</text>
+            <text syncTime="2193.656" offset="8915713">In the case of a return required tax, the only 2-year rule that applies is the first 2-year rule.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2199.978" stopTime="2233.420">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2199.978" offset="8940999">How do you square your notion that claim means a valid claim, that is, a claim accompanying a return, with the language of 6511(a), which says a claim for credit or refund of an overpayment in respect to which the taxpayer is required to file a return shall be filed within 3 years, blah, blah, blah, and then at the end of that sentence, or if no return was filed by the taxpayer within 2 years from the time the tax was paid.</text>
+            <text syncTime="2228.168" offset="9053848">That clearly contemplates a claim being made without a return having been filed.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2233.420" stopTime="2241.225">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2233.420" offset="9074851">Your Honor, there are several reasons why that second 2-year rule does not apply to a taxpayer who's required to file a return.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2241.225" stopTime="2254.023">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2241.225" offset="9105989">I'm not... I don't want to know when the 2-year rule... I want to know how it squares with your notion that when the statute says claim, it means a valid claim, that is, a claim accompanied by a tax return.</text>
+            <text syncTime="2252.163" offset="9149770">That's your principle.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2254.023" stopTime="2261.457">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2254.023" offset="9157189">My principle is that a valid claim for refund where no original return has been filed must be on a tax return.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2261.457" stopTime="2269.144">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2261.457" offset="9186968">Must be on a tax return.</text>
+            <text syncTime="2262.558" offset="9191357">Well, that doesn't square with the language of 6511(a).</text>
+            <text syncTime="2264.940" offset="9200865">It clearly contemplates a claim where no return has been filed.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2269.144" stopTime="2278.010">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2269.144" offset="9217688">That's for nonreturn required taxes.</text>
+            <text syncTime="2270.844" offset="9224480">That second 2-year rule is for nonreturn required taxes, such as transferee liability.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2278.010" stopTime="2286.864">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2278.010" offset="9253215">It doesn't read that way.</text>
+            <text syncTime="2279.629" offset="9259693">Claim for credit of any tax in respect of which tax, the taxpayer is required to file a return.</text>
+            <text syncTime="2284.965" offset="9281009">Where are you reading from?</text>
+            <text syncTime="2285.853" offset="9284562">6511(a).</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2286.864" stopTime="2475.651">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2286.864" offset="9288637">Your Honor, may I explain?</text>
+            <text syncTime="2289.346" offset="9298563">The... there are two or three reasons why that second 2-year rule where no return has been filed does not apply to Mr. Lundy.</text>
+            <text syncTime="2298.513" offset="9335135">The first is, if... the first 3-year rule, 3 years from the date the return is filed, or 2 years from the date the tax is paid, whichever is later, covers all possible situations, because if you assume that an original claim could be filed that was not a return, it would be covered by that first 2-year rule, making the second 2-year rule surplusage.</text>
+            <text syncTime="2320.970" offset="9424996">The second reason is, if the... if it was possible to file a claim for refund that... where no original return has been filed, it would be limited by the first 2-year rule, because the first 2-year rule would provide a longer period of time than the 3-year rule, so that the second 2-year rule would be surplusage.</text>
+            <text syncTime="2342.885" offset="9512663">The second reason is, if, as the IRS contends, that the first sentence of 6511(a) applies to return required taxes, including the second 2-year rule, or if no return was required, and the second sentence of 6511(a) applies to stamps, then there's no rule to recover nonreturn required taxes, so that second 2-year rule, which is surplusage for a return required tax, must apply to nonreturn required tax.</text>
+            <text syncTime="2375.367" offset="9642648">Third, as originally enacted in 1954, the statute provided for a limitation period of 3 years from the due date.</text>
+            <text syncTime="2386.563" offset="9687370">It was an absolute minimum 3-year period, so that that second 2-year rule, or if no... 2 years from the date the tax was paid if no return was filed, could not possibly apply to a return required tax.</text>
+            <text syncTime="2399.442" offset="9738883">In fact, the tax court in this very case stated that under the '54 code as originally enacted, the taxpayer would have been entitled to a refund even under the deemed claim theory because it was filed within 3 years from the due date.</text>
+            <text syncTime="2417.625" offset="9811608">Now, Congress in 1958 extended that period of time.</text>
+            <text syncTime="2423.007" offset="9833133">The amendment in 1958 was to improve the taxpayer's position to provide that he would be able... because the Commissioner could assess a deficiency within 3 years from the date the return was filed, but the taxpayer was limited to 3 years from the date the return was due, so as the tax court acknowledged that he could have recovered under the language as originally enacted, the tax court judge acknowledged that the purpose of the '58 amendment was to extend the time for filing, and yet what the tax court said was, somehow Congress did not perhaps analyze all the effects of this language.</text>
+            <text syncTime="2465.904" offset="10004705">And Your Honor, I submit that this legislative history is convincing evidence that a taxpayer is entitled to a minimum of 3 years.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2475.651" stopTime="2507.081">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2475.651" offset="10043784">I don't really see how you avoid the language.</text>
+            <text syncTime="2477.903" offset="10052771">I mean, it's... I've been struggling with it.</text>
+            <text syncTime="2480.256" offset="10062175">It seems just like somebody says... to your son you say, I'll give you all the ice cream you could have eaten at the drug store if you'd been there.</text>
+            <text syncTime="2489.440" offset="10098851">I mean, if, it sort of means... I can't get it work any other way.</text>
+            <text syncTime="2494.265" offset="10118181">It's working like a that.</text>
+            <text syncTime="2496.355" offset="10126540">It's working like, I'll tell you how much I'll give you.</text>
+            <text syncTime="2498.477" offset="10135004">I'll give you the amount you could have eaten if you'd been there.</text>
+            <text syncTime="2500.690" offset="10143886">And then if you twist it around the way you want to twist it, the thing sort of hangs in the air.</text>
+            <text syncTime="2505.611" offset="10163530">I can't figure out how to get there.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2507.081" stopTime="2508.804">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2507.081" offset="10169486">You're talking about the--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2508.804" stopTime="2515.278">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2508.804" offset="10176382">Of (B), the key language here, 6512(b)(3)(B).</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2515.278" stopTime="2516.288">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2515.278" offset="10202191">--Oh--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2516.288" stopTime="2547.621">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2516.288" offset="10206266">It looks like... the question, it seemed to me is whether that comma after (d) means that you should read the if like a which, whereas they want to read it like a that, and I don't see how you can avoid it, to tell you the truth.</text>
+            <text syncTime="2529.828" offset="10260392">I put that so you can explain to me how you could.</text>
+            <text syncTime="2532.910" offset="10272722">One way is, you get the word claim to mean refund, you see.</text>
+            <text syncTime="2538.244" offset="10294142">I mean, you get... not refund, return.</text>
+            <text syncTime="2540.307" offset="10302397">You get the word claim to include a return.</text>
+            <text syncTime="2542.017" offset="10309189">That would do it, except you run into problems elsewhere across the page, where they quite clearly distinguish it.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2547.621" stopTime="2548.402">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2547.621" offset="10331654">--Well--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2548.402" stopTime="2550.503">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2548.402" offset="10334789">But I can't think of any other way to do it.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2550.503" stopTime="2554.796">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2550.503" offset="10343148">--Your Honor, I d like to get back to the claim.</text>
+            <text syncTime="2553.665" offset="10355791">I would like to address--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2554.796" stopTime="2557.969">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2554.796" offset="10360284">Yes.</text>
+            <text syncTime="2555.407" offset="10362792">Yes, if claim includes return, then you've got it.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2557.969" stopTime="2559.348">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2557.969" offset="10373032">--Right.</text>
+            <text syncTime="2558.540" offset="10375331">There's two--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2559.348" stopTime="2573.878">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2559.348" offset="10378570">But the difficulty with that is that only the section before they talk about claims and they talk about returns, and there's a whole phrase there that doesn't make too much sense unless they mean to leave open the possibility that you could have a claim that didn't have a return.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2573.878" stopTime="2574.438">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2573.878" offset="10436666">--Well--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2574.438" stopTime="2579.961">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2574.438" offset="10438860">But then is there any other... are you... is there any other reading of this language that gets you where you want?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2579.961" stopTime="2584.445">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2579.961" offset="10461012">--Well, the legislative history.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2584.445" stopTime="2600.754">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2584.445" offset="10478880">I understand... I like legislative history, too, but nonetheless you do have to deal with the language that they enacted, and that's why I'm looking to see is there any other reading of that language, other than a claim including the word return, that will get you where you want to go.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2600.754" stopTime="2618.416">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2600.754" offset="10544186">Well, Your Honor, the IRS has contended that the language is plain throughout the litigation, but it is not plain.</text>
+            <text syncTime="2608.301" offset="10574384">Our interpretation of the statute is that... the statute doesn't say, as if a claim was... had been filed, or assuming that.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2618.416" stopTime="2619.638">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2618.416" offset="10614821">It doesn't.</text>
+            <text syncTime="2619.097" offset="10617538">It says, if.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2619.638" stopTime="2620.069">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2619.638" offset="10619732">If.</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2620.069" stopTime="2620.890">
+            <label>Unknown Speaker</label>
+            <text syncTime="2620.069" offset="10621404">That's right.</text>
+            <text syncTime="2620.499" offset="10623076">I--</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2620.890" stopTime="2621.289">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2620.890" offset="10624643">And if is a conditional.</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="2621.289" stopTime="2638.301">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="2621.289" offset="10626315">--Yes.</text>
+            <text syncTime="2621.769" offset="10628196">Well, you can use it, though, and that's why I use the ice cream example, I'll give you all you could have eaten if you'd been there.</text>
+            <text syncTime="2628.064" offset="10653378">That's all... that doesn't mean, if you had been there, then something else would have happened.</text>
+            <text syncTime="2632.748" offset="10672082">It's a limitation.</text>
+            <text syncTime="2634.328" offset="10678455">It means how much you're going to get.</text>
+            <text syncTime="2635.901" offset="10684725">So we use the word if sometimes like that.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2638.301" stopTime="2744.061">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2638.301" offset="10694338">In this context, Your Honor... the problem has arisen because Congress took the short cut of incorporating the general statute of limitations under 6512, and the triggering points, the triggering points for the limitation periods in 6511 are couched in terms of claim for refund, because an administrative claim for refund is a prerequisite to the granting of an administrative refund or the jurisdiction of the district court.</text>
+            <text syncTime="2671.343" offset="10826518">So it... the statute's not self executing when it's incorporated by reference into 6512, and so there had to be a reference to the word claim to trigger the limitation periods in 6511, because the taxpayer would not have filed a claim for refund in the tax court because that's not a prerequisite, and this has always been interpreted as a reference date for application of the limitation periods in the tax court, so that if the statute was open to the taxpayer on that date, if he could have filed a timely claim for refund on the date that the notice was mailed, he's entitled to a refund in the tax court.</text>
+            <text syncTime="2713.060" offset="10993388">That's the understanding of Congress.</text>
+            <text syncTime="2717.665" offset="11011778">On page 22 of our brief, we quote from a 60... 1963 Senate report, and it says, since the 1954 enactment, moreover, the Internal Revenue Service has in practice interpreted the law as permitting the refund of amounts where valid claims have been timely filed, as well as where those claims could have been filed on the date of the mailing of the notice of deficiency.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2744.061" stopTime="2746.853">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2744.061" offset="11117417">What did the 1962 Senate report accompany?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2746.853" stopTime="2771.019">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2746.853" offset="11128493">It accompanied the addition of a provision that allowed... the provision accompanied (b)(3)(C), which allows the tax court to grant a refund where the claims have been filed prior to the mailing of the notice of deficiency.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2771.019" stopTime="2773.330">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2771.019" offset="11225251">That's not one of the sections involved here.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2773.330" stopTime="2781.315">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2773.330" offset="11234446">It's not, but this clearly indicates the existence of a longstanding administrative practice and Senate approval--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2781.315" stopTime="2796.436">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2781.315" offset="11266420">Well, it indicates the approval by a Senate committee of something that has been done over a period of years, or that the Senate committee thinks has been done over a period of years.</text>
+            <text syncTime="2791.493" offset="11307066">I mean, are we supposed to take that as a substitute for reading the statutes and the rulings?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2796.436" stopTime="2810.543">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2796.436" offset="11326919">--No, Your Honor, but I think a fair reading of the statute is that there is no deemed claim, that it's a reference date so that the taxpayer is... if he could have filed a valid claim for refund on the date the notice was mailed, he's entitled to a refund.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2810.543" stopTime="2816.788">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2810.543" offset="11383344">That's a plausible argument.</text>
+            <text syncTime="2812.035" offset="11389300">I don't think much is added to it by quoting a 1962 Senate report.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2816.788" stopTime="2859.206">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2816.788" offset="11408317">Well, Your Honor, there's other evidence of the longstanding administrative practice of the Service to grant refunds under these circumstances.</text>
+            <text syncTime="2824.422" offset="11438828">For one, I would... the explosion of cases that occurred since 1991 and 1992, this Court in Fribourg Navigation stated that where you have an explosion in litigation where before there was none, it is strong evidence of the longstanding administrative practice.</text>
+            <text syncTime="2840.434" offset="11502880">You have the facts of this very case, where once the taxpayer dropped his petition in the mail box, under the IRS theory of this case, he was barred by the statute of limitations, and yet the IRS answered the complaint, they dealt with him for a year, they made him submit 160-some pages of documents--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2859.206" stopTime="2880.670">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2859.206" offset="11577904">Well, I don't think he was barred by the statute of limitations.</text>
+            <text syncTime="2861.919" offset="11588771">Assuming that he made a tremendous amount of money and filed a return 10 years down the line, I assume that... and that return had been filed promptly, I assume that within the period of that look back he could have gotten the earlier refund that he was seeking, couldn't he, or am I wrong about that?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2880.670" stopTime="2895.578">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2880.670" offset="11663794">--No, Your Honor.</text>
+            <text syncTime="2881.291" offset="11666302">Once he petitions the tax court under 6512(a) he's precluded from thereafter going to the district court, so he was out of luck, and once he filed that petition in the tax court, he had no way of ever getting his refund back.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2895.578" stopTime="2903.285">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2895.578" offset="11723458">Well, I guess I'm assuming that he promptly dismisses and then later on makes money, pays the money, and then asks for some of it back.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2903.285" stopTime="2920.958">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2903.285" offset="11754282">But the tax court acquires deficiency and refund jurisdiction the moment that the taxpayer files his petition in response to the notice.</text>
+            <text syncTime="2911.571" offset="11787406">Once that occurs, he's thereafter barred from going to the district court and seeking a refund, so he sort of got caught in the crack.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2920.958" stopTime="2922.447">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2920.958" offset="11824918">He can't dismiss?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2922.447" stopTime="2928.421">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2922.447" offset="11830873">No.</text>
+            <text syncTime="2923.489" offset="11835053">Once the tax court acquires jurisdiction, that's it.</text>
+            <text syncTime="2927.720" offset="11851980">He's out of luck.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2928.421" stopTime="2931.753">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2928.421" offset="11854802">He cannot dismiss--</text>
+            <text syncTime="2929.562" offset="11859399">--I understand this--</text>
+            <text syncTime="2930.691" offset="11863892">--He cannot dismiss the suit that he brought?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2931.753" stopTime="2934.634">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2931.753" offset="11868176">He's not bringing the suit.</text>
+            <text syncTime="2933.085" offset="11873505">He's responding to the notice of deficiency.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="2934.634" stopTime="2937.747">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="2934.634" offset="11879670">I understand, but he's the one that takes the initiative in getting it before the tax court.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2937.747" stopTime="2948.804">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2937.747" offset="11892104">Your Honor, my understanding is that once he files a petition, that's final.</text>
+            <text syncTime="2941.670" offset="11907778">The tax court acquires jurisdiction, and thereafter the tax court is precluded... excuse me, the taxpayer is precluded from ever going to another court.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2948.804" stopTime="2953.769">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2948.804" offset="11936304">Well, what is your... do you have a textual basis for that understanding that he cannot dismiss?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2953.769" stopTime="2954.948">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2953.769" offset="11956157">6512(a), Your Honor.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2954.948" stopTime="2955.769">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2954.948" offset="11960963">Does it say he can't dismiss?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2955.769" stopTime="2960.552">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2955.769" offset="11964202">I don't have the statute in front of me--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="2960.552" stopTime="2961.273">
+            <label>Unknown Speaker</label>
+            <text syncTime="2960.552" offset="11983324">Okay.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2961.273" stopTime="2964.895">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2961.273" offset="11986250">--but it precludes him from thereafter filing a suit in the district court.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2964.895" stopTime="2969.257">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2964.895" offset="12000669">So long as he stays in the tax court, but if he gets out of the tax court--</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2969.257" stopTime="2970.959">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2969.257" offset="12018119">He can't get out of the tax court, Your Honor.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2970.959" stopTime="2972.509">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2970.959" offset="12025015">--He cannot dismiss.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2972.509" stopTime="2973.370">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2972.509" offset="12031180">That's correct.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2973.370" stopTime="2992.935">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2973.370" offset="12034629">But in answer to the question about, couldn't you revive a stale claim by paying a little bit years down the road, don't you... aren't you still bound by the look back period that you can't go more than 3 years... you can't get back money that you paid more than 3 years ago?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="2992.935" stopTime="2997.096">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="2992.935" offset="12112891">You mean assuming that he somehow would be able to file a refund suit?</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="2997.096" stopTime="3019.391">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="2997.096" offset="12129505">In other words, doesn't the look... the very purpose of the look back provision to stop that kind of thing where you, many years down the road, pay a small piece, a small overpayment, claim that back, and then... and use that as leverage to go 7 years back to get the rest of the overpayment?</text>
+            <text syncTime="3016.099" offset="12205574">Isn't that the very purpose of having these look back provisions?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3019.391" stopTime="3070.816">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3019.391" offset="12218740">Yes, but the look back rule is the teeth of the limitation provisions, and prevents stale claims.</text>
+            <text syncTime="3025.526" offset="12243190">But Your Honor, this case is very much like Williams, because the very purpose of the tax court is to assist taxpayers like Mr. Lundy to allow him to contest an asserted deficiency without first... without prepaying, and yet, once he filed his petition in the tax court, he was in a position where he had no realistic alternative, and no remedy, because his only choice once that notice of deficiency is mailed to him is either to prepay the tax and file a suit in the district court, or go to the tax court, where he forfeits his refund, so that remedy--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3070.816" stopTime="3078.002">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3070.816" offset="12424375">Maybe that's one of the penalties for not filing a tax return when you're supposed to.</text>
+            <text syncTime="3074.800" offset="12440362">I mean, there are all sorts of penalties.</text>
+            <text syncTime="3076.350" offset="12446527">Isn't it conceivable that this is one of them?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3078.002" stopTime="3085.678">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3078.002" offset="12453110">--Your Honor, there are penalties.</text>
+            <text syncTime="3079.124" offset="12457603">There's a penalty for late filing, 6651, but confiscation of your refund is not one of those penalties.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3085.678" stopTime="3099.877">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3085.678" offset="12483830">Well, that remains to be seen.</text>
+            <text syncTime="3087.650" offset="12491771">I mean--</text>
+            <text syncTime="3088.381" offset="12494697">[Laughter]</text>
+            <text syncTime="3088.891" offset="12496682">But the mere notion that this is unthinkable doesn't strike me as self evident.</text>
+            <text syncTime="3094.994" offset="12521133">I mean, we begin with a taxpayer who didn't file a tax return when he should have.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3099.877" stopTime="3122.834">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3099.877" offset="12540673">That's correct, Your Honor, but if we assume that Mr. Lundy had a neighbor in the same position who overpaid his '87 income taxes, the return was due on April 15, '88, and he also was late filing, but he never got a notice of deficiency, he filed on the same date, on December 28, more than 2 but less than 3 years, he'd get his refund.</text>
+            <text syncTime="3120.921" offset="12624787">Mr. Lundy didn't.</text>
+            <text syncTime="3122.123" offset="12629593">Or--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3122.834" stopTime="3130.668">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3122.834" offset="12632415">Which is an inducement to the taxpayer to get moving.</text>
+            <text syncTime="3127.957" offset="12652999">I mean, you can't say it's irrational.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3130.668" stopTime="3132.050">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3130.668" offset="12663762">--But Your Honor--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3132.050" stopTime="3139.543">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3132.050" offset="12669300">No taxpayer would be in this bind if they filed the tax return with 2 years, is that right?</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3139.543" stopTime="3150.460">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3139.543" offset="12699288">--That's correct, but Congress has afforded taxpayers a 3-year grace period, and this is taken away from them by the mailing of a notice of deficiency.</text>
+            <text syncTime="3149.601" offset="12739517">Why--</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="3150.460" stopTime="3160.337">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="3150.460" offset="12742965">That's the question.</text>
+            <text syncTime="3151.121" offset="12745577">Has Congress done that, or has Congress said, if you wait beyond 2 years, you're in jeopardy of getting that notice of deficiency first.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3160.337" stopTime="3163.890">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3160.337" offset="12782462">--But Congress has not said that.</text>
+            <text syncTime="3161.739" offset="12788104">That's nowhere to be found in the statute.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3163.890" stopTime="3168.402">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3163.890" offset="12796673">That's what we're arguing about in this case, I take it.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3168.402" stopTime="3170.866">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3168.402" offset="12814749">Well, Your Honor--</text>
+          </turn>
+          <turn speaker="stephen_g_breyer" startTime="3170.866" stopTime="3191.228">
+            <label>Justice Stephen G. Breyer</label>
+            <text syncTime="3170.866" offset="12824571">I still don't see how you read the statute... I mean, you know, I... it makes sense for Congress to say, everybody gets 3 years.</text>
+            <text syncTime="3176.649" offset="12847768">It also makes sense to say, if you don't file your return, you get 2 years.</text>
+            <text syncTime="3179.611" offset="12859575">Maybe they ought to say, 2 years if you don't file your return, 3 years if you do.</text>
+            <text syncTime="3183.252" offset="12874100">Maybe it's a little different, whether it's... but what does it say?</text>
+            <text syncTime="3187.515" offset="12891236">I can't work out... I mean, I can't figure out any way to get it--</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3191.228" stopTime="3203.605">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3191.228" offset="12906073">--Our interpretation is that the taxpayer is in the same position in the tax court as he would be in the district court, the claims court, or filing an administrative claim for refund.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3203.605" stopTime="3249.887">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3203.605" offset="12955602">--How would Congress have said what the Government says it said more clearly than what is here?</text>
+            <text syncTime="3210.540" offset="12983291">You apparently... I gather from an earlier comment you apparently think it would have been, the problem is that (3)(B), what was it, 6512(b)(3)(B) does not say, as if on the date of mailing, but just if on the date of the mailing, but it couldn't possibly say as if.</text>
+            <text syncTime="3229.723" offset="13059987">Within the period which would be applicable, as if on the date of the mailing?</text>
+            <text syncTime="3234.806" offset="13080362">No.</text>
+            <text syncTime="3235.347" offset="13082557">I mean, the way to say what the Government says it says is precisely what is written here, within the period that would be applicable under section 6511 if on the date, not as if.</text>
+            <text syncTime="3246.674" offset="13127801">I wouldn't put an as in there.</text>
+            <text syncTime="3248.464" offset="13135011">They would be totally incoherent.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3249.887" stopTime="3252.659">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3249.887" offset="13140653">But that's what the Government does in all of its briefs.</text>
+            <text syncTime="3251.387" offset="13146713">They say, as if--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3252.659" stopTime="3253.290">
+            <label>Unknown Speaker</label>
+            <text syncTime="3252.659" offset="13151729">No, no--</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3253.290" stopTime="3254.219">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3253.290" offset="13154341">--assuming that.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3254.219" stopTime="3272.700">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3254.219" offset="13157998">--No, you say that it requires as if, in order to get their interpretation, but it seems to me their interpretation is precisely what's written there... within the period which would be applicable if the notice of deficiency had been filed.</text>
+            <text syncTime="3267.768" offset="13212229">I don't know how you get an as if there.</text>
+            <text syncTime="3271.402" offset="13226753">It doesn't make sense at all.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3272.700" stopTime="3275.582">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3272.700" offset="13231977">The language is not clear, Your Honor.</text>
+            <text syncTime="3273.702" offset="13235948">My time is limited.</text>
+            <text syncTime="3274.871" offset="13240650">I--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3275.582" stopTime="3276.163">
+            <label>Unknown Speaker</label>
+            <text syncTime="3275.582" offset="13243471">It seems perfectly clear to me.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3276.163" stopTime="3340.586">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3276.163" offset="13245770">--My time is limited.</text>
+            <text syncTime="3278.577" offset="13255487">I'd like to take the opportunity to persuade you that the claim should be considered a return.</text>
+            <text syncTime="3282.918" offset="13272833">There are two other reasons that claim in this context must be considered to be return.</text>
+            <text syncTime="3288.432" offset="13294880">Treasury Reg 6502-2(b) requires that a claim contain the detailed statement of the grounds upon which the claim is based.</text>
+            <text syncTime="3297.467" offset="13331033">That, again, is the same information that if on a document submitted to the IRS under case law and under a '74 revenue ruling would constitute a return and finally, and most important, Regulation 6402-3(a)(1) requires, whereas here no original return has been filed, that the taxpayer must file his claim on a return.</text>
+            <text syncTime="3322.204" offset="13429985">So the IRS is asking you to ignore its own regulations and treat the claim referred to in 6512(b)(3)(B) as a defective claim, and I think that's an impermissible construction.</text>
+            <text syncTime="3335.084" offset="13481499">I think you have to attribute to Congress an intent that that claim is a valid claim.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3340.586" stopTime="3354.005">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3340.586" offset="13503442">Whereas I guess you take the position that in 6511(a) the term claim can include valid claims and invalid claims that have to be corrected to become valid, and the 2-year rule would apply to the invalid claim.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3354.005" stopTime="3355.507">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3354.005" offset="13557149">Well, Your Honor--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3355.507" stopTime="3357.257">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3355.507" offset="13563210">And then if... you know, one filed without a return.</text>
+          </turn>
+          <turn speaker="glenn_p_schwartz" startTime="3357.257" stopTime="3368.456">
+            <label>Mr. Glenn P. Schwartz</label>
+            <text syncTime="3357.257" offset="13570106">--Well, I think the key thing here is that a claim filed on a return, that a return showing an overpayment, is the equivalent of a claim under the Treasury regs... own regulations.</text>
+            <text syncTime="3367.765" offset="13612215">Thank you.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3368.456" stopTime="3371.492">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3368.456" offset="13614932">Thank you, Mr. Schwartz.</text>
+            <text syncTime="3369.226" offset="13618067">Mr. Jones, you have 2 minutes remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3371.492" stopTime="3490.567">
+          <heading>Rebuttal of Kent L. Jones</heading>
+          <turn speaker="kent_l_jones" startTime="3371.492" stopTime="3455.124">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="3371.492" offset="13627053">Thank you.</text>
+            <text syncTime="3373.842" offset="13636457">The principal contention that Respondent raises here was not addressed by the court of appeals and has not been accepted by any court.</text>
+            <text syncTime="3381.114" offset="13665610">That contention is that a claim for refund and a return are synonymous concepts.</text>
+            <text syncTime="3385.830" offset="13684418">Congress plainly didn't intend that.</text>
+            <text syncTime="3388.300" offset="13694344">They use the terms quite distinctly and separately.</text>
+            <text syncTime="3390.852" offset="13704584">They make the periods of limitation and the refund periods depend upon which came first and how long apart they were, so to reach the conclusion that respondent seeks would literally make nonsense out of 6511(a), 6511(b), and 6512(b).</text>
+            <text syncTime="3408.123" offset="13773652">No court has supported that assertion.</text>
+            <text syncTime="3411.515" offset="13787236">The suggestion that somehow this problem would be cured if the respondent could have filed a timely claim is simply off the point.</text>
+            <text syncTime="3420.572" offset="13823389">A taxpayer can always file a claim for refund at any time, but that doesn't alter the limitations that apply when the refund claim is filed.</text>
+            <text syncTime="3428.866" offset="13856617">For example, in this case, if they had filed... if respondent had filed a refund claim on the date the notice of deficiency was issued, he would have been limited to the 2-year refund period, because as of that date he had filed no return.</text>
+            <text syncTime="3442.405" offset="13910743">Respondent simply ignores what's the principal dilemma that he faces.</text>
+            <text syncTime="3446.218" offset="13925998">That is, that he was delinquent in filing his return, and Congress made that delinquency relevant in determining the refund jurisdiction of the tax court.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="3455.124" stopTime="3460.698">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="3455.124" offset="13961629">--The question, Mr. Jones... you can answer yes or no... can a taxpayer dismiss a petition filed with the tax court?</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="3460.698" stopTime="3462.449">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="3460.698" offset="13983886">If I could answer yes or no--</text>
+          </turn>
+          <turn speaker="unknown_speaker" startTime="3462.449" stopTime="3462.937">
+            <label>Unknown Speaker</label>
+            <text syncTime="3462.449" offset="13990886">Once a tax court has him--</text>
+          </turn>
+          <turn speaker="kent_l_jones" startTime="3462.937" stopTime="3488.416">
+            <label>Mr. Kent L. Jones</label>
+            <text syncTime="3462.937" offset="13992872">--Justice Scalia, I certainly would.</text>
+            <text syncTime="3463.829" offset="13996424">I have to admit, I don't know.</text>
+            <text syncTime="3465.231" offset="14002067">I have looked at 6512(a).</text>
+            <text syncTime="3467.401" offset="14010740">It doesn't say.</text>
+            <text syncTime="3468.403" offset="14014710">It simply says that when you have this tax court case, no other court can decide whether there's a refund, and neither can the Commissioner.</text>
+            <text syncTime="3475.847" offset="14044490">It doesn't say whether that case could be dismissed and a subsequent case filed.</text>
+            <text syncTime="3479.760" offset="14060163">It's possible the Commissioner has taken a position on that, so I'm reluctant to make an argument on it not knowing what position we may have taken.</text>
+            <text syncTime="3487.174" offset="14089838">Thank you very much.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3488.416" stopTime="3490.567">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3488.416" offset="14094749">Thank you, Mr. Jones.</text>
+            <text syncTime="3489.067" offset="14097362">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

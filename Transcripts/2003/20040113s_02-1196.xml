@@ -1,0 +1,48 @@
+<transcript verified="true">
+      <history>
+        <transcribed>2004-01-13</transcribed>
+        <edit user="dleib" date="2012-08-12T15:47:02" startTime="26.000" oldSpeaker="unknown_speaker" newSpeaker="sandra_day_oconnor"/>
+        <identified user="dleib">2012-08-12</identified>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2013-12-12T11:50:55" startTime="26.000" oldSpeaker="sandra_day_oconnor" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile leader="26000" size="993791">/xml/cases/2003/02_1196/20040113o_02-1196.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/2003/02-1196_20040113-opinion.xml</sourceFile>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="26.000" stopTime="226.612">
+        <title>Securities and Exchange Commission v. Edwards</title>
+        <section startTime="26.000" stopTime="34.473">
+          <heading>Announcement of Justice O'Connor</heading>
+          <turn speaker="william_h_rehnquist" startTime="26.000" stopTime="34.473">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="26.000" offset="191309">The opinion of the Court in No. 02-1196 Securities and Exchange Commission versus Edwards will be announced by Justice O’Connor.</text>
+          </turn>
+        </section>
+        <section startTime="34.473" stopTime="226.612">
+          <heading>Announcement of Justice O’connor</heading>
+          <turn speaker="sandra_day_oconnor" startTime="34.473" stopTime="226.612">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="34.473" offset="225164">This case is here on writ of certiorari to the Eleventh Circuit.</text>
+            <text syncTime="38.300" offset="240524">The respondent, Charles Edwards, was the chief executive officer and sole shareholder of a company called ETS Payphones.</text>
+            <text syncTime="48.081" offset="279603">ETS sold payphones to the public packaged with an agreement under which the purchaser would lease the payphone back to the ETS for a fixed monthly payment.</text>
+            <text syncTime="59.567" offset="325579">These payments amounted to approximately a 14% annual return on the purchaser’s investment.</text>
+            <text syncTime="67.130" offset="355776">ETS was unable to meet its obligations under the leaseback agreements and filed for bankruptcy.</text>
+            <text syncTime="73.745" offset="382317">The Securities and Exchange Commission then initiated this civil enforcement action claiming that the sale and leaseback arrangements were subject to the registration requirements and anti-fraud provisions of the federal securities law.</text>
+            <text syncTime="89.768" offset="446369">The District Court concluded that the arrangements were investment contracts, one of the investment instruments included in the definition of security in the Securities Act in 1933 and the Securities Exchange Act of 1934.</text>
+            <text syncTime="106.228" offset="512198">The Eleventh Circuit disagreed.</text>
+            <text syncTime="108.462" offset="521184">It read our prior cases to require that an investment contract offer either capital appreciation or participation in earnings and thus, to exclude schemes such as this one that offered a fixed rate of return.</text>
+            <text syncTime="124.357" offset="584713">In our opinion filed today, we conclude that an investment scheme promising a fixed rate of return can be an investment contract and thus a security subject to the federal securities law.</text>
+            <text syncTime="138.734" offset="642183">In our 1946 decision in SEC versus Howey, we established that the test for determining whether a scheme is an investment contract is whether the scheme involves an investment of money in a common enterprise with profits to come solely from the efforts of others.</text>
+            <text syncTime="158.266" offset="720341">When we spoke of profits, we were referring simply to the income or return that investors seek on their investment.</text>
+            <text syncTime="166.072" offset="751584">Thus, there is no reason to distinguish between promises of fixed returns and promises of variable returns for purposes of this test.</text>
+            <text syncTime="175.626" offset="789827">Moreover, excluding fix return schemes from the securities laws would open up and easily exploit a loophole and would leave unregulated a set of schemes particularly attractive to those most vulnerable to investment fraud.</text>
+            <text syncTime="191.048" offset="851476">In light of these factors, it is not surprising that the SEC has consistently rejected the limited reading of investment contract that respondent advances, and we do the same.</text>
+            <text syncTime="204.853" offset="906751">The decision of the Court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

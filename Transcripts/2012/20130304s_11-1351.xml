@@ -1,0 +1,52 @@
+<transcript verified="true">
+      <history>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="1451742">/xml/cases/2012/11_1351/20130304o_11-1351.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/11-1351_20130304-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="ruth_bader_ginsburg" type="justice" gender="female" path="/justices/ruth_bader_ginsburg" image="/justices/ruth_bader_ginsburg/thumbnail.jpg">Ruth Bader Ginsburg</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="336.504">
+        <title>Levin v. United States</title>
+        <section startTime="0" stopTime="336.504">
+          <heading>Opinion Announcement of Ruth Bader Ginsburg</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="7.137">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="105472">Justice Ginsburg has our opinion this morning in case 11-1351, Levin versus United States.</text>
+          </turn>
+          <turn speaker="ruth_bader_ginsburg" startTime="7.137" stopTime="336.504">
+            <label>Justice Ruth Bader Ginsburg</label>
+            <text syncTime="7.137" offset="133998">This case involves the interaction between two federal statutes, the Federal Tort Claims Act and the Gonzalez Act.</text>
+            <text syncTime="17.766" offset="176525">The Tort Claims Act waives the sovereign immunity of the United States from tort suits subject to several exceptions.</text>
+            <text syncTime="27.545" offset="215604">The exception key to this case is known as the intentional tort exception.</text>
+            <text syncTime="34.182" offset="242145">It preserves the Government's immunity from claims arising out of among other things, assaults or batteries committed by federal employees.</text>
+            <text syncTime="46.289" offset="290628">The petitioner, Steven Alan Levin was injured during a medical operation performed by a surgeon serving in the U.S. Navy.</text>
+            <text syncTime="57.294" offset="334618">Seeking monetary redress, Levin filed suit under the Tort Claims Act naming the United States and the surgeon as defendants.</text>
+            <text syncTime="67.645" offset="375996">He alleged that the surgeon committed a battery by performing the operation despite Levin's pre-surgery withdrawal of consent.</text>
+            <text syncTime="78.876" offset="420927">The Government moved to release the surgeon from the suit so that the United States would be the sole defendant.</text>
+            <text syncTime="86.261" offset="450497">It invoked the first provision of the Gonzalez Act, 10 U.S.C. 1089 (a), which shields medical personnel serving in the military from liability for acts they commit within the scope of their employment.</text>
+            <text syncTime="102.991" offset="517371">Tort suits involving military medical personnel, thus must proceed if at all exclusively against the United States under the Tort Claims Act.</text>
+            <text syncTime="115.614" offset="567839">After the District Court released the surgeon, the Government moved to dismiss Levin's battery claim.</text>
+            <text syncTime="122.435" offset="595111">The Tort Claims Act afforded Levin no remedy, the government argued, because the intentional tort exception contained in that act bars battery claims against the United States.</text>
+            <text syncTime="135.684" offset="648192">To counter that argument, Levin relied on a later provision of the Gonzalez Act, Section 1089 (e) which reads, “For purposes of the Gonzalez Act, the Tort Claims Act acts intentional tort exception shall not apply to any claim arising out of a negligent or wrongful act in the performance of medical functions.”</text>
+            <text syncTime="161.606" offset="751846">That provision, Levin urged, abrogates the Tort Claims Act intentional tort exception when the injured party alleges malpractice by a military doctor.</text>
+            <text syncTime="174.870" offset="804927">And the abrogation allows him to seek damages from the United States.</text>
+            <text syncTime="180.714" offset="828228">The District Court affirmed by the Ninth Circuit granted the Government's motion to dismiss.</text>
+            <text syncTime="186.420" offset="851111">Those courts thought that 1089 (e), the provision on which Levin relied, served only to buttress the immunity from personal liability extended to military personnel in 1089 (a) and gave no green light to Levin's suit against the United States under the Tort Claims Act.</text>
+            <text syncTime="210.982" offset="949332">We reverse and hold that the Gonzalez Act abrogates the Tort Claims Act's intentional tort exception for claims alleging that a military doctor operated without the patient's consent, Section 1089 (e) states in no uncertain terms that the intentional tort exception shall not apply.</text>
+            <text syncTime="235.955" offset="1049224">The introductory clause to that provision simply limits the reach of the “shall not apply instruction” to claims covered by the Gonzalez Act, that is claims against military medical personnel.</text>
+            <text syncTime="250.611" offset="1107843">We are not persuaded by the Government's contrary reading of 1089 (e).</text>
+            <text syncTime="255.697" offset="1128218">According to the Government, 1089 (e) instructs courts to pretend that the Tort Claims Act intentional tort exception does not immunize the Government against liability for battery claims even though the exception does in fact provides such shelter.</text>
+            <text syncTime="275.779" offset="1208571">This -- let's pretend reading, it seems to us quite unnatural that Congress intended 1089 (e) only to safeguard the personnel immunity already extended to military medical personnel by 1089 (a).</text>
+            <text syncTime="290.912" offset="1269070">One would expect Congress to have said just that and surely not to decree that the intentional tort exception shall not apply.</text>
+            <text syncTime="300.238" offset="1306373">In some because Levin has asserted the battery claim arising out of the conduct of a military doctor covered by the Gonzalez Act.</text>
+            <text syncTime="310.406" offset="1347020">Section 1089 (e) authorizes Levin to proceed against the United States under the Tort Claims Act free from the bar of the intentional tort exception.</text>
+            <text syncTime="321.716" offset="1392264">Our decision reversing the Ninth Circuit's judgment is unanimous with one qualification.</text>
+            <text syncTime="328.238" offset="1418386">Justice Scalia does not join footnote six and seven which contain citations to Senate Reports.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

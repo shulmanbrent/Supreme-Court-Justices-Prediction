@@ -1,0 +1,60 @@
+<transcript verified="true">
+      <history>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="1190915">/xml/cases/2012/11_796/20130513o_11-796.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/11-796_20130513-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="elena_kagan" type="justice" gender="male" path="/justices/elena_kagan" image="/justices/elena_kagan/thumbnail.jpg">Elena Kagan</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="271.032">
+        <title>Bowman v. Monsanto</title>
+        <section startTime="0" stopTime="271.032">
+          <heading>Opinion Announcement of Elena Kagan</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="6.974">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="106496">Justice Kagan has our opinion this morning in case 11-796, Bowman versus Monsanto Company.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="6.974" stopTime="271.032">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="6.974" offset="134290">Monsanto invented and then patented a genetic modification that enables soybean plants to survive exposure to glyphosate, the active ingredient in many herbicides.</text>
+            <text syncTime="19.056" offset="182669">Monsanto calls seeds carrying this trait, Roundup Ready seeds.</text>
+            <text syncTime="25.134" offset="207015">Monsanto will only sell Roundup Ready seed to farmers who sign a licensing agreement.</text>
+            <text syncTime="30.461" offset="228331">That agreement allows farmers to plant one and only crop of soybeans from the Roundup Ready seed they purchase.</text>
+            <text syncTime="37.797" offset="257588">The farmer can then consume the harvested beans or sell them as a commodity.</text>
+            <text syncTime="42.951" offset="278277">But the farmer cannot do according to the agreement is saved and replants the soybeans he harvests.</text>
+            <text syncTime="50.236" offset="307430">The petitioner in this case, Vernon Bowman, is a farmer who likes Roundup Ready technology.</text>
+            <text syncTime="56.536" offset="332612">For his first soybean crop each year, Bowman purchased Roundup Ready seed from a Monsanto affiliate and complied with the terms of the agreement, I just described.</text>
+            <text syncTime="66.999" offset="374408">But for his riskier, second soybean crop of each season, Bowman wanted a way to rip the benefits of Monsanto's technology without paying its premium prices.</text>
+            <text syncTime="79.091" offset="422787">The answer, Bowman decided, lay and buying seeds from the local grain elevator.</text>
+            <text syncTime="84.648" offset="445043">Soybeans from a grain elevator are meant for consumption, but because soybeans are themselves seeds nothing prevented Bowman from planting them.</text>
+            <text syncTime="94.865" offset="485898">And because most Indiana farmers used Roundup Ready seed, Bowman suspected that most of the grain elevator soybeans he purchased would carry the Roundup Ready trait.</text>
+            <text syncTime="107.344" offset="535845">He was right.</text>
+            <text syncTime="108.765" offset="541487">When Bowman planted the grain elevator soybeans and applied glyphosate to his fields most of the soybeans plants survived.</text>
+            <text syncTime="116.666" offset="573147">Bowman then saved seed from that crop of Roundup Ready beans for his second planting the next year, and Bowman repeated that process year after year for eight years.</text>
+            <text syncTime="128.038" offset="618600">So, he was able to produce eight crops a Roundup Ready soybeans all without buying any seed from Monsanto.</text>
+            <text syncTime="137.080" offset="654754">When Monsanto discovered this practice, it sued Bowman for patent infringement.</text>
+            <text syncTime="141.849" offset="673876">The question here is whether Bowman can defend against Monsanto suit based on what's called the ?doctrine of patent exhaustion.</text>
+            <text syncTime="150.701" offset="709298">Under that doctrine, the authorized sale of a patented article gives the purchaser or any subsequent owner like Bowman the right to use or resell that article without the patent holder's permission.</text>
+            <text syncTime="165.318" offset="767707">The District Court held a patented exhaustion did not protect Bowman's conduct and ordered him to pay damages to Monsanto.</text>
+            <text syncTime="173.774" offset="801562">The Federal Circuit affirmed.</text>
+            <text syncTime="176.156" offset="811071">We also agree.</text>
+            <text syncTime="177.916" offset="818072">We hold that patent exhaustion does not allow a farmer to reproduce patented seeds through planting and harvesting without the patent holders permission.</text>
+            <text syncTime="188.267" offset="859554">As I just explained, exhaustion prevents a patent holder from controlling the use or resale of a patented article after that article is sold.</text>
+            <text syncTime="198.055" offset="898633">The patent exhaustion has always been limited to the specific article sold.</text>
+            <text syncTime="203.126" offset="918904">It does not entitled the purchaser of a patented item to replicate that item at will.</text>
+            <text syncTime="208.954" offset="942310">That limit exists for a simple reason.</text>
+            <text syncTime="211.740" offset="953386">If anyone who bought a patented invention could make and sell new copies of that invention, then the patent would not be of much value.</text>
+            <text syncTime="220.870" offset="989957">That principle decides this case.</text>
+            <text syncTime="223.508" offset="1000511">Here, Bowman bought soybeans, most of which contained Monsanto's invention.</text>
+            <text syncTime="228.526" offset="1020573">He planted those beans, he applied glyphosate to the plants killing any that did not contain Monsanto's invention, and then he harvested the resulting Roundup Ready soybeans ending up with many, many more of those patented beans than he started with.</text>
+            <text syncTime="245.060" offset="1086715">That is how you make new copies of a patented item when that item is a seed.</text>
+            <text syncTime="250.549" offset="1108658">And so the exhaustion doctrine does not shield Bowman's activity.</text>
+            <text syncTime="255.057" offset="1126630">If the rule were otherwise patents on seeds would be largely worthless because as soon as the first few seeds were sold, anyone else could reproduce and sell them.</text>
+            <text syncTime="266.082" offset="1170725">Accordingly, we affirm the Federal Circuit, our opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

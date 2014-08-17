@@ -1,0 +1,49 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:09:51" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="1001579">/xml/cases/2001/00_927/20020109o_00-927.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2001/trs/00-927_20020109-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="228.519">
+        <title>Chao v. Mallard Bay Drilling, Inc.</title>
+        <section startTime="0.000" stopTime="228.519">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.547">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="87502">The opinion of the court No. 00-927, Chao, Secretary of Labor versus Mallard Bay Drilling will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="9.547" stopTime="228.519">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="9.547" offset="125641">This case comes to us from the United States Court of Appeals for the Fifth Circuit.</text>
+            <text syncTime="14.651" offset="146016">It involves an oil and gas exploration barge known as Rig 52 which belongs to the respondent, Mallard Bay Drilling.</text>
+            <text syncTime="25.149" offset="188021">While its crew was drilling a well in the territory of waters of Louisiana, Rig 52 exploded as a result of a gas leak.</text>
+            <text syncTime="33.909" offset="223130">Four members of the crew were killed and two were injured.</text>
+            <text syncTime="37.525" offset="237549">The United States Coast Guard investigated the incident but did not accused Mallard Bay of violating any Coast Guard Regulations.</text>
+            <text syncTime="45.079" offset="267747">The coast guard’s report explained its limits however by noting that Rig 52 was an uninspected vessel as opposed to an inspected vessel, which meant that the barge was not comprehensively regulated by the Coast Guard.</text>
+            <text syncTime="60.743" offset="330441">Based largely on information from the guard's report, the Occupational Safety and Health Administration cited Mallard Bay for three violations of the Occupational Safety and Health Act.</text>
+            <text syncTime="72.724" offset="378297">In the OSHA administered proceeding, Mallard Bay challenge OSHA’s jurisdiction to issue this citations, arguing that the guard possess exclusive statutory authority to regulate occupational safety and health standards on vessels in navigable waters.</text>
+            <text syncTime="89.156" offset="444126">The Administrative Law Judge rejected the challenge and assessed the penalty against Mallard Bay for its violations of the Act.</text>
+            <text syncTime="97.282" offset="476622">The Fifth Circuit reversed holding that the Coast Guard possessed exclusive jurisdiction over working conditions of board vessels such as Rig 52, thereby precluding OSHA from applying its regulations to both inspected and uninspected vessels.</text>
+            <text syncTime="113.329" offset="540779">Because other Courts of Appeals had not endorsed such extensive pre-emption of OSHA’s regulation, we granted certiorari to resolve the conflict.</text>
+            <text syncTime="121.720" offset="574320">We reversed the decision below and conclude that OSHA had jurisdiction to issue the citations against Mallard Bay.</text>
+            <text syncTime="129.067" offset="603682">The statute bars OSHA from regulating working conditions “with respect to which other federal agencies exercise statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.”</text>
+            <text syncTime="146.022" offset="671495">Whether OSHA’s jurisdiction is preempted in a given case thus depends on whether another federal agency has exercise its authority to regulate the working conditions in questions.</text>
+            <text syncTime="157.483" offset="717366">As its language of the statute makes clear, mere possession by another agency of unexercised authorities is not enough to displace OSHA’s jurisdiction, nor is another federal agencies minimal exercise of authority with respect to a limited class of working conditions.</text>
+            <text syncTime="174.005" offset="783509">The parties do not dispute that the Coast Guards comprehensive regulation of inspected vessels has preempted OSHA’s authority to regulate those vessels.</text>
+            <text syncTime="183.720" offset="822379">However, concerning uninspected vessels like Rig 52, the Coast Guards Regulatory Authority is much more limited.</text>
+            <text syncTime="192.312" offset="856651">In this case, the working conditions that were the subject of OSHA’s citations related to inland drilling operations on uninspected vessels.</text>
+            <text syncTime="200.438" offset="889252">Because the Coast Guard has neither affirmatively regulated such working conditions nor asserted comprehensive regulatory jurisdiction over them and uninspected vessels.</text>
+            <text syncTime="210.696" offset="930212">The Coast Guard has not exercised its preemptive authority.</text>
+            <text syncTime="214.717" offset="946304">As a result, the jurisdiction is not preempted and as I say we reversed the judgment of the Court of Appeal.</text>
+            <text syncTime="222.033" offset="975561">Except for Justice Scalia who did not participate in the decision, our opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

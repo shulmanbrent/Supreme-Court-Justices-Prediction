@@ -1,0 +1,847 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1993-03-30</transcribed>
+        <edit user="tschaefer" date="2012-08-15T19:27:47" startTime="3309.610" oldSpeaker="unknown_speaker" newSpeaker="byron_r_white"/>
+        <identified user="tschaefer">2012-08-15</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+      </history>
+      <resources>
+        <audioFile size="14032984">/xml/cases/1992/92_102/19930330a_92-102.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1992/92-102_19930330-argument.xml</sourceFile>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="sandra_day_oconnor" type="justice" gender="female" path="/justices/sandra_day_oconnor" image="/justices/sandra_day_oconnor/thumbnail.jpg">Sandra Day O'Connor</speaker>
+        <speaker id="anthony_m_kennedy" type="justice" gender="male" path="/justices/anthony_m_kennedy" image="/justices/anthony_m_kennedy/thumbnail.jpg">Anthony M. Kennedy</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="michael_h_gottesman" type="advocate" gender="male" path="/advocates/mg/michael_h_gottesman" image="/advocates/mg/michael_h_gottesman/thumbnail.jpg">Michael H. Gottesman</speaker>
+        <speaker id="charles_fried" type="advocate" gender="male" path="/advocates/cf/charles_fried" image="/advocates/cf/charles_fried/thumbnail.jpg">Charles Fried</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="3474.042">
+        <title>Daubert v. Merrell Dow Pharmaceuticals, Inc.</title>
+        <section startTime="0.000" stopTime="1654.774">
+          <heading>Argument of Michael H. Gottesman</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.949">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="132915">We'll hear argument now in Number 92-102, William Daubert v. Merrell Dow Pharmaceuticals, Inc.--</text>
+            <text syncTime="10.088" offset="173248">Mr. Gottesman.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="10.949" stopTime="338.445">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="10.949" offset="176696">Mr. Chief Justice and may it please the Court:</text>
+            <text syncTime="13.751" offset="187877">Jason Daubert was born missing a part of his right arm and lacking three fingers on one of his hands.</text>
+            <text syncTime="23.147" offset="225493">Eric Schuller was born missing one of his hands and with one leg shorter than the other.</text>
+            <text syncTime="28.891" offset="248376">In both instances their parents had taken Bendectin during the first 2 months of their pregnancy, the period in which the limbs are forming in the fetus.</text>
+            <text syncTime="42.180" offset="301562">There were no other indications of what might have accounted for these birth defects.</text>
+            <text syncTime="48.793" offset="327997">There were no genetic histories, or anything else of the like.</text>
+            <text syncTime="52.076" offset="341163">Each of these petitioners, with their parents, sued in the State courts of California alleging that the birth defects had been caused by Bendectin and alleging further that Merrell Dow, the sole manufacturer of Bendectin, had been culpable as a matter of State tort law in the manufacture and the distribution of the drug.</text>
+            <text syncTime="75.371" offset="434368">Among other things, the allegations are that Merrell had concealed the discoveries in its own laboratories of the effects that this drug had on animals that were tested and that it did not provide a warning consistent with what its own internal knowledge was of the propensities of the drug.</text>
+            <text syncTime="93.205" offset="505735">If the cases had remained in State court, it is clear that the expert testimony about causation that is the subject before you today, that that expert testimony would have been admissible as a matter of California law, and we have asserted... and the assertion is not challenged... that that evidence would also have been sufficient as a matter of California law to prove causation in this case.</text>
+            <text syncTime="118.801" offset="608030">But Merrell Dow removed both cases to Federal court on diversity grounds, where they were consolidated, and ultimately Merrell moved for summary judgment.</text>
+            <text syncTime="130.277" offset="654006">Its motion did not go to the question of culpability but solely to the question of causation, and its contention about causation was that Bendectin does not, in fact, cause birth defects in humans and that the petitioners would be unable to come forward with any admissible evidence that it does.</text>
+            <text syncTime="155.393" offset="754420">And they anticipated in the motion that the petitioners indeed would have experts who say that there is causation, but their contention was that testimony would not be admissible under the Federal Rules of Evidence, and in consequence the petitioners would have no admissible evidence to prove causation.</text>
+            <text syncTime="174.087" offset="829235">Now, the petitioners countered with affidavits and testimonies of eight experts, and I think it's important to note that these are experts several of whom are very highly credentialed and important scientists in their field.</text>
+            <text syncTime="190.118" offset="893287">One, Adrian Gross, has been the chief of toxicology for the Environmental Protection Agency and the chief of pathology at the Food and Drug Administration, in both roles responsible for making these very kinds of determinations about causation.</text>
+            <text syncTime="206.208" offset="957653">Another, Shanna Swan, is the chief epidemiologist for the State of California, responsible for determining the causes of birth defects, and on... we have described others in our brief.</text>
+            <text syncTime="217.435" offset="1002584">Each of these eight experts in their affidavits and testimony expressed their opinion that it is likelier than not that Bendectin is a teratogen in humans at the normal therapeutic dose, that is, that it causes birth defects in humans, and each has recited that the methodology by which they arrived at that conclusion is the methodology which is regularly and commonly employed by scientists in their fields for making these kinds of determinations.</text>
+            <text syncTime="249.167" offset="1129539">Indeed, as is shown, and as the two governmental experts testified, the methodology they used here is precisely that which they use every day in the performance of their governmental functions, and governmental regulations which we have cited in our briefs say the same thing.</text>
+            <text syncTime="266.759" offset="1199860">Now, what is striking, and I think needs to be noticed, is that in this record there is nothing that challenges that the methodology that these eight experts employ is not the common and regular methodology for making these determinations.</text>
+            <text syncTime="284.219" offset="1269764">Merrell did not, in response to these affidavits, make any record demonstration, did not cite a single person who claimed that this methodology was not appropriately employed, but both courts below, responding to and accepting the contention made by Merrell Dow, concluded that the proper measure for determining admissibility of expert testimony under the Federal Rules of Evidence is that which was prescribed in the Frye test, namely that the methods and the principles on which the experts' opinions are based must be those that are generally accepted in the scientific community, and applying that standard, both courts said that that had not been demonstrated in this case by the petitioner.</text>
+            <text syncTime="332.452" offset="1462652">Now, that poses the question of statutory construction that this case presents.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="338.445" stopTime="352.333">
+            <label>Justice Byron R. White</label>
+            <text syncTime="338.445" offset="1486685">Do you say that even under the Frye test this evidence would be admissible, or as we take the case it's either Frye applies or it doesn't?</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="352.333" stopTime="367.294">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="352.333" offset="1542169">Well, it was the contention below, the Ninth Circuit having already adopted the Frye case before this case, the petitioners were obliged to argue to the Ninth Circuit that this evidence is admissible even under the general acceptance test of Frye's--</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="367.294" stopTime="368.756">
+            <label>Justice Byron R. White</label>
+            <text syncTime="367.294" offset="1602042">What base... is that issue here?</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="368.756" stopTime="484.814">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="368.756" offset="1607893">--It is here only in the sense that the sole reason the Ninth Circuit gave for saying that this was not generally accepted was its conclusion, again not drawn from the record, that scientists will not accept the opinions of experts and their methodologies unless those experts have published and had peer review of the opinions that they proffer.</text>
+            <text syncTime="393.162" offset="1705486">Now, we do contend that as an assertion of what constitutes general acceptance, even were that the test, that that is an incorrect and a... not only incorrect as a matter of fact, because the record shows that indeed scientists do, and a number of scientific organizations have cited that... that it is both incorrect as a statement of science and incorrect as a construction of the Federal rules.</text>
+            <text syncTime="418.889" offset="1808409">That is, that Publication and peer review is not a prerequisite for the admission of scientific expert testimony under the Federal rules.</text>
+            <text syncTime="428.356" offset="1846339">But Your Honor has shaped, I think, the way in which the statutory construction issue has to be addressed here.</text>
+            <text syncTime="435.050" offset="1873088">The first question is whether the test that the Ninth Circuit applied is indeed the correct construction of this Federal statute.</text>
+            <text syncTime="442.595" offset="1903286">That is, does it require general acceptance?</text>
+            <text syncTime="444.698" offset="1911645">If the answer to that is no, and there seems to be a rather wide consensus among the various groups in this case that it should be no, the Court then does have to address, I think, well, what is the correct construction of the Federal rules so that, whether it's going to decide this itself or remand for reconsideration, there will be a determination of what the standard is.</text>
+            <text syncTime="467.183" offset="2001611">And what I'd like to do is go through the statutory construction analysis in that two-step way, first demonstrating that general acceptance is not the test, which I think is rather the easier point, and then addressing what is the correct instruction, as to which--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="484.814" stopTime="538.259">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="484.814" offset="2072141">In making that argument, Mr. Gottesman, I hope you will address whether under Rule 702 the words, "scientific knowledge", tell us anything about what's required.</text>
+            <text syncTime="504.278" offset="2149986">Webster's Dictionary defines 702 doesn't suggest some notion of accepted knowledge.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="538.259" stopTime="637.765">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="538.259" offset="2285927">--Well, let me jump ahead to that, Your Honor, although I do want to ultimately get back to laying a firmer foundation.</text>
+            <text syncTime="544.994" offset="2312886">702 says that if scientific knowledge will assist the court a qualified expert may testify thereto.</text>
+            <text syncTime="555.411" offset="2354473">We agree that the word "thereto" qualifies the words, "scientific knowledge", so really the question is what is the importance of the word "thereto" as it relates to scientific knowledge?</text>
+            <text syncTime="566.759" offset="2399926">What the advisory committee note says... and we suggest that this is very informative.</text>
+            <text syncTime="572.703" offset="2423645">I'd like to read it and then relate it to this case:</text>
+            <text syncTime="574.616" offset="2431377">"The rule recognizes that an expert on the stand may give a dissertation or exposition of scientific or other principles relevant to the case, leaving the trier of fact to apply them to the facts. "</text>
+            <text syncTime="587.465" offset="2482682">Now, it then goes on and says,</text>
+            <text syncTime="590.277" offset="2493966">"The use of opinions is not abolished by the rule, however. "</text>
+            <text syncTime="593.556" offset="2507132">"It will continue to be permissible for the expert to take the further step of suggesting the inference which should be drawn from applying the specialized knowledge to the fact. "</text>
+            <text syncTime="605.174" offset="2553526">so that what the drafters contemplated in 702 is that the expert would set forth what is known scientifically, and from that would be permitted to infer what should be concluded from that.</text>
+            <text syncTime="621.827" offset="2620190">Now, in this case, if you read the testimony of these experts, they are putting forth scientific knowledge on every page.</text>
+            <text syncTime="630.212" offset="2653731">They go through an explanation of what all of the animal studies have shown, how to interpret them, what their significance is--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="637.765" stopTime="654.087">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="637.765" offset="2683929">Yes, but you--</text>
+            <text syncTime="638.647" offset="2687482">--Mr. Gottesman, does Rule 702 and 703 together give the trial court some discretion in allowing someone who is called to the stand and is qualified as an expert by showing background and so forth?</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="654.087" stopTime="680.915">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="654.087" offset="2749235">--Yes.</text>
+            <text syncTime="657.050" offset="2761042">Rule 703 provides in terms that if the expert is drawing on facts and data which have been generated by others, as, indeed, our experts were, that those facts and data must be such as are reasonably relied upon by experts in that field for making determinations such as are before the Court.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="680.915" stopTime="683.529">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="680.915" offset="2856546">And that's a preliminary decision to be made by the trial judge.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="683.529" stopTime="705.455">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="683.529" offset="2866995">Absolutely, and in this case the record shows without contradiction that the facts and data upon which these experts relied are indeed precisely the facts and data upon which all experts rely in making determinations of whether it is likelier than not that a particular toxin is causing--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="705.455" stopTime="717.272">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="705.455" offset="2954662">So it's your position that once a witness is qualified as an expert, he can testify to anything within the area of his expertise.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="717.272" stopTime="727.100">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="717.272" offset="3001996">--He... assuming that what he's testifying to is what the court needs help on.</text>
+            <text syncTime="723.506" offset="3026864">There are two links to... there's a need in this case to--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="727.100" stopTime="731.664">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="727.100" offset="3041284">Well, I, you know, assume we weren't interested in weather conditions in this case.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="731.664" stopTime="732.980">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="731.664" offset="3059570">--Right.</text>
+            <text syncTime="731.914" offset="3060510">That's right.</text>
+            <text syncTime="732.430" offset="3062600">I mean--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="732.980" stopTime="755.629">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="732.980" offset="3064794">So it's a matter of relevance, but within the area of causation with respect to birth defects, once any of these experts were qualified as a witness, they could testify as to matters of causation without reference to the methodology of the studies they relied upon.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="755.629" stopTime="829.031">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="755.629" offset="3155387">--I think the answer is yes and no, Your Honor.</text>
+            <text syncTime="758.731" offset="3167821">They do have to satisfy the requirement of 703 that the facts and data that they're relying on are those that scientists reasonably relied upon.</text>
+            <text syncTime="767.271" offset="3201989">That said, the office of sections 702 and 703 are completed.</text>
+            <text syncTime="772.624" offset="3223410">There are still two gateways that may lead a court to determine that that evidence is not admissible.</text>
+            <text syncTime="780.477" offset="3254757">One is section 403, which says that even as to otherwise admissible testimony, the court can make on a case-by-case basis... and this Court has said that it is to be determined on a case-by-case basis by the district court... the court can make a calculation of whether the probative value of that testimony is substantially outweighed by the danger of misleading, confusing, or prejudicing the jury.</text>
+            <text syncTime="806.435" offset="3358619">But it does not follow... even if it is in the court's mind that the probative value is low, it does not automatically follow that it is outweighed by a danger of... and incidentally, I want to be clear we don't think that in this case one could say that the probative value is low, but even if a court thought that, it doesn't follow that the jury is going to be confused or misled.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="829.031" stopTime="833.633">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="829.031" offset="3449003">Are there any other rules of evidence that qualify?</text>
+            <text syncTime="832.531" offset="3463005">You said that was the first--</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="833.633" stopTime="833.813">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="833.633" offset="3467393">Right.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="833.813" stopTime="836.044">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="833.813" offset="3468125">--That you'd have to look at, and the second is?</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="836.044" stopTime="870.227">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="836.044" offset="3477006">The other, and I think the more important safeguard, is not in the rules of evidence.</text>
+            <text syncTime="838.815" offset="3488082">The more important safeguard is that a court is entitled to direct a verdict, or in the words of the new Federal rules to direct a judgment, and likewise to grant summary judgment, if it concludes that even though there may be a scintilla of evidence supporting the petitioners' position, it is overwhelmingly refuted by the contrary evidence such that no reasonable juror could conclude on this body of evidence that the point for which the expert is contesting is true.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="870.227" stopTime="891.172">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="870.227" offset="3613784">Well, but before we get to that point, I notice that section 702 that Justice O'Connor inquired about is not part of your calculus, so that once the expert is qualified, subject to the other two sections you mention, he can testify to any area within his expertise whether or not it is based on studies.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="891.172" stopTime="898.556">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="891.172" offset="3697584">Well, Your Honor, no... 703, we suggest, is... 703 is the provision in the Federal rules--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="898.556" stopTime="901.346">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="898.556" offset="3727051">But you give no effect to 702 in this calculus.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="901.346" stopTime="951.655">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="901.346" offset="3738231">--We do, Your Honor.</text>
+            <text syncTime="901.957" offset="3740739">702 and 703 each have their proper office.</text>
+            <text syncTime="905.890" offset="3756412">703 is the provision that addresses the same thing that the Frye rule did.</text>
+            <text syncTime="911.043" offset="3776997">That is, it says... its title is</text>
+            <text syncTime="913.597" offset="3787237">"Bases for the Opinions of Experts: What is the Foundation that will be required for an expert's testimony to be admissible. "</text>
+            <text syncTime="922.743" offset="3823808">and it spells out what those bases are, and it includes what one might say is a watered down version of the Frye rule, the requirement that the facts and data upon which the expert testifies be those that are reasonably relied upon by scientists.</text>
+            <text syncTime="938.325" offset="3886188">The office of 702, we suggest, is quite different.</text>
+            <text syncTime="941.807" offset="3900086">The two are not both talking about the same thing, as respondent argues.</text>
+            <text syncTime="946.561" offset="3919103">This was a very carefully drafted statute.</text>
+            <text syncTime="949.452" offset="3930701">Years were spent by draftsmen putting it together.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="951.655" stopTime="994.575">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="951.655" offset="3939478">Yes, but both refer to scientific knowledge, in effect.</text>
+            <text syncTime="955.436" offset="3954629">I mean, that's the basis, and I notice there are a number of briefs filed here, amicus briefs by people from the scientific community, and they all tell us that scientific knowledge is more than just one person's opinion, that the essence is that it has to be capable of being tested, and something that isn't tested can't be said to be reliable, and if it isn't reliable, it can't assist the trier of fact.</text>
+            <text syncTime="986.078" offset="4077196">Now, doesn't that suggest that there's a role for the trial judge in determining at the outset what comes in?</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="994.575" stopTime="1122.298">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="994.575" offset="4111155">Your Honor, there is, I think, a confusion of two interfaces that I would like to suggest will explain the role of the arguments that Your Honor has just referred to about things have to be tested and validated and the like.</text>
+            <text syncTime="1009.325" offset="4170192">There are, if you will, two different scientific modalities.</text>
+            <text syncTime="1014.207" offset="4189731">One is when we are trying to decide that something has been conclusively established so that we can declare it to be a law of science, and there it is undoubtedly true, scientists do not say, we have now satisfied ourselves that there is an established truth, another law of gravity, if you will, until we arrive at a point of certainty that is replicable, conclusive, et cetera, et cetera, but we live in a world of uncertainty, and for many purposes we can't wait until science arrives at the conclusive answer.</text>
+            <text syncTime="1052.652" offset="4343436">Professor Nesson in his extremely cogent article makes this point and makes it, I think, as effectively as it appears anywhere in the literature:</text>
+            <text syncTime="1060.877" offset="4376350">"There are several contexts in which we are called upon to decide things even though science doesn't have a conclusive answer, and we have to do the best we can. "</text>
+            <text syncTime="1070.634" offset="4415429">He cites as an example the physician who has to decide how to treat a patient.</text>
+            <text syncTime="1075.176" offset="4433611">If the physician needs to know, in order to do that, what is the cause, the physician doesn't say well, I give up, science hasn't got a conclusive answer yet.</text>
+            <text syncTime="1084.553" offset="4471122">The physician says, I will have to make a judgment of what is likelier than not the cause based upon the materials at hand, and Professor Nesson argues, and, we submit, persuasively, that that is the same thing that a court is called upon to do when in a state of scientific uncertainty it has to decide whether causation occurred.</text>
+            <text syncTime="1104.236" offset="4549803">The issue here is not whether the plaintiffs can prove this scientific proposition to the degree of certainly that would make it like the law of gravity.</text>
+            <text syncTime="1113.702" offset="4587628">The issue is whether the plaintiffs can demonstrate that it is likelier or not that this is causing that, and the methodology--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1122.298" stopTime="1136.840">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1122.298" offset="4622006">And maybe the issue is whether the judge can review the expert's determination about the probabilities in this area of uncertainty.</text>
+            <text syncTime="1130.904" offset="4656487">I don't... you say that the expert has to be an expert.</text>
+            <text syncTime="1134.887" offset="4672370">He has to be qualified as an expert in the field.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1136.840" stopTime="1137.131">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1136.840" offset="4680206">--Indeed.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1137.131" stopTime="1173.185">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1137.131" offset="4681356">The data, you acknowledge, by reason of 703 has to be of a sort that the community would normally rely upon, but there remains the last step, and that is the expert's applying these data to the scientific problem that is relevant to the case and coming up with his conclusion.</text>
+            <text syncTime="1158.125" offset="4765366">Is it your position that so long as an individual is an expert, whatever conclusion he arrives at on the basis of this data that other experts consider relevant data must be accepted by the court?</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1173.185" stopTime="1188.476">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1173.185" offset="4825552">Your Honor, yes, subject to Rule 403 and subject to the power that a judge always exercises as a matter of substantive law to say that no reasonable juror could possibly be persuaded in light of the imbalance of the others--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1188.476" stopTime="1194.279">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1188.476" offset="4886783">Well but, no, that just goes to whether his testimony is refuted by a lot of other testimony.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1194.279" stopTime="1194.450">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1194.279" offset="4909979">--That's right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1194.450" stopTime="1200.152">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1194.450" offset="4910711">I mean, if his is the only testimony, presumably the jury could accept it.</text>
+            <text syncTime="1198.463" offset="4926698">What about section 401?</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1200.152" stopTime="1208.217">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1200.152" offset="4933490">Section 401 defines relevance as anything that makes... that tends to show... I don't... I forget the exact word.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1208.217" stopTime="1210.651">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1208.217" offset="4965777">It means evidence having any tendency--</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1210.651" stopTime="1211.042">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1210.651" offset="4975495">Any tendency, right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1211.042" stopTime="1217.737">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1211.042" offset="4977062">--To make the existence of any fact that is of consequence to the determination of the action more probable or less probable than it--</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1217.737" stopTime="1218.037">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1217.737" offset="5003811">That's right.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1218.037" stopTime="1219.049">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1218.037" offset="5004961">--Would be without the evidence.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1219.049" stopTime="1220.309">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1219.049" offset="5009036">Now, let me suggest what we have--</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="1220.309" stopTime="1235.509">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="1220.309" offset="5014051">Now, can't... on the basis of that, can't the court make a judgment that even though the data is of the sort the scientific community would accept, and even though this individual has wonderful credentials, it really just doesn't parse?</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1235.509" stopTime="1361.796">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1235.509" offset="5074864">--Well, Your Honor, I could imagine that there would be a case such as that.</text>
+            <text syncTime="1238.611" offset="5087299">This certainly is not it.</text>
+            <text syncTime="1239.612" offset="5091269">It certainly... there is a tendency to... proving the point, to know, as these experts have testified and cited published reports for, and that the Government has confirmed, that Bendectin causes limb defects in animals.</text>
+            <text syncTime="1254.393" offset="5150411">It certainly tends to prove the causation point that in vitro studies have identified exactly what it is that Bendectin does that causes the limb reductions, and that is that it impairs a particular substance whose function is to bind the cartilage cells and thus to create the limbs.</text>
+            <text syncTime="1276.378" offset="5238391">This is Dr. Newman's testimony from the in vitro studies of this.</text>
+            <text syncTime="1281.623" offset="5259393">And it is probative to know that that substance, which is impaired by Bendectin in animals, is the same substance that performs the same mission in binding the cartilage cells and forming the predicate for the limbs in human beings, and it is probative to know that the chemical composition in Bendectin is extremely close in composition to the chemical composition of other chemicals which are widely believed to be teratogens in humans, and it is probative to know that when studies were done on human populations, a larger proportion of the women who took Bendectin gave birth to children with limb defects than the proportion who did not.</text>
+            <text syncTime="1328.674" offset="5447579">All of this is probative.</text>
+            <text syncTime="1331.085" offset="5457193">What the lower courts have said was yes, but prove to us to a degree of statistical certainty which would give us 95 percent confidence that the human epidemiological data is reflective, that these higher numbers for the mothers who used Bendectin were not the product of random chance but in fact are demonstrating the linkage between this drug and the symptoms observed.</text>
+            <text syncTime="1361.315" offset="5578087">It is--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1361.796" stopTime="1367.291">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1361.796" offset="5580073">Did the court of appeals, Mr. Gottesman, actually say that you had to prove to a 95-per-cent certainty?</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1367.291" stopTime="1369.854">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1367.291" offset="5602015">--It's not quite clear, Your Honor.</text>
+            <text syncTime="1368.572" offset="5607135">The district court clearly did.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1369.854" stopTime="1372.658">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1369.854" offset="5612255">I thought you said a minute ago that it did.</text>
+            <text syncTime="1371.076" offset="5617166">You said, the courts.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1372.658" stopTime="1451.034">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1372.658" offset="5623540">Well, I'm sorry.</text>
+            <text syncTime="1373.019" offset="5624899">The district court clearly did.</text>
+            <text syncTime="1374.581" offset="5631168">The court of appeals said that Shanna Swan and Jay Glasser, the two epidemiologists... well, let me back up a minute.</text>
+            <text syncTime="1383.817" offset="5668157">The court of appeals definitely said explicitly you can't prove your case just on the basis of animal and chemical data, and they said that although there are four experts' affidavits saying that in appropriate cases you can make a determination that it is likelier than not just from animal and chemical data, and saying that that is the view of the Government agencies for which they work, and in the absence of any contradictory evidence from the other side.</text>
+            <text syncTime="1412.867" offset="5784350">Both lower courts said you can't do it from that.</text>
+            <text syncTime="1415.110" offset="5793336">The court of appeals didn't say exactly what the epidemiological evidence would have to prove, except that it plainly rejected what was demonstrated, and what was demonstrated by Shanna Swan was that if you used a degree of confidence lower than 95 percent but still sufficient to prove the point as likelier than not, the epidemiological evidence is positive, so that implicitly the Ninth Circuit was saying we will not accept that showing at least if you have not published your results.</text>
+            <text syncTime="1450.293" offset="5934084">Now--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1451.034" stopTime="1493.953">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1451.034" offset="5937010">Mr. Gottesman, is it fair to say that what you are telling us is that once an expert has been qualified as an expert in the field, and once the expert has at least made a showing or a showing is at least possible that the expert has based some opinion on the kind of facts and data that 703 refer to, that the testimony of the expert himself, that he is competent to express an opinion on probability... i.e., the 51 percent or better chance... is sufficient to satisfy the foundation or knowledge requirement of 702?</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1493.953" stopTime="1495.543">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1493.953" offset="6108686">--Yes, Your Honor.</text>
+            <text syncTime="1495.082" offset="6113179">That is--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1495.543" stopTime="1506.593">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1495.543" offset="6115060">So that any expert who says, I can testify to a probability, necessarily qualifies as competent to... or as having satisfied the foundational requirement of 702.</text>
+            <text syncTime="1505.591" offset="6155184">It's as simple as that.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1506.593" stopTime="1517.853">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1506.593" offset="6159259">--Yes, subject to the back... again, assuming that he has satisfied 703 and subject to the back-ups of 403 and the power of the court to direct a verdict in appropriate cases.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="1517.853" stopTime="1533.540">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="1517.853" offset="6204295">So, Mr. Gottesman, you in essence reject the view of, let's say, the Third Circuit in the Downing case and the view expressed here by the Solicitor General that there are certain foundation requirements the court would look at?</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1533.540" stopTime="1553.990">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1533.540" offset="6266988">I would say that we believe that Congress rejected it, Your Honor.</text>
+            <text syncTime="1536.453" offset="6278691">Congress relied, as this Court has repeatedly said, on the adversarial process to demonstrate that a marginal expert's testimony is, in fact, marginal.</text>
+            <text syncTime="1545.519" offset="6314949">There are some who disagree with that.</text>
+            <text syncTime="1548.043" offset="6325085">There are arguments that the rules should be changed, but we think that's the proper reading of the rules as they presently exist.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1553.990" stopTime="1572.512">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1553.990" offset="6348804">It seems to me, counsel, that 703 simply says that underlying background facts and data are admissible if the expert reasonably relied upon them, but that does not go to the question of the qualification of the expert to speak to the subject under 702.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1572.512" stopTime="1591.928">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1572.512" offset="6422887">Well, the qualifications in this case have not been challenged, Your Honor.</text>
+            <text syncTime="1576.155" offset="6437516">These experts are... at least, it is not disputed that they are qualified to testify.</text>
+            <text syncTime="1581.410" offset="6458518">We agree that of course the expert's qualifications to testify on the subject that he's being asked to testify about are within the power of the court to determine.</text>
+            <text syncTime="1590.146" offset="6493418">Section 702 expressly says that.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1591.928" stopTime="1629.043">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1591.928" offset="6500523">But... maybe I'll just modify Justice Kennedy's question slightly.</text>
+            <text syncTime="1596.111" offset="6517346">You are saying that 702 in effect substitutes for the foundational requirement.</text>
+            <text syncTime="1601.425" offset="6538557">We'll assume the expert is qualified.</text>
+            <text syncTime="1604.226" offset="6549738">The question is whether there is a foundation for the opinion, and you are simply saying that provided the expert can be said to have relied upon facts and data and provided that the expert is indeed qualified as an expert in the field, that the readiness of the expert to couch his testimony in terms of a probability judgment is a sufficient satisfaction of the foundational requirement of 702.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1629.043" stopTime="1630.505">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1629.043" offset="6649003">That's correct, Your Honor, and we think the--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="1630.505" stopTime="1644.565">
+            <label>Justice David H. Souter</label>
+            <text syncTime="1630.505" offset="6654855">Every expert basically is guaranteed qualification at least, or is guaranteed success on foundation, so long as it is his own opinion that he does have a foundation.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="1644.565" stopTime="1650.682">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="1644.565" offset="6711175">--And it is within the area of his expertise, that's correct, subject again to 403.</text>
+            <text syncTime="1648.409" offset="6726535">I would like to reserve the remainder of my time, if I might.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="1650.682" stopTime="1654.774">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="1650.682" offset="6735625">Very well, Mr. Gottesman.</text>
+            <text syncTime="1652.993" offset="6744820">Mr. Fried, we'll hear from you.</text>
+          </turn>
+        </section>
+        <section startTime="1654.774" stopTime="3404.550">
+          <heading>Argument of Charles Fried</heading>
+          <turn speaker="charles_fried" startTime="1654.774" stopTime="1813.574">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="1654.774" offset="6751926">Thank you, Mr. Chief Justice, and may it please the Court:</text>
+            <text syncTime="1660.239" offset="6773868">In our view, scientific knowledge, which is what Rule 702 allows an expert to testify to, is that body of propositions which have been produced by the methods and procedures of science, and it is the heart of our claim that the propositions offered by petitioner's witnesses have not been produced by the methods and procedures of science.</text>
+            <text syncTime="1693.209" offset="6905735">As the Court in the Turpin case said regarding petitioner's crucial witness here... and I say crucial, because it is the only witness.</text>
+            <text syncTime="1705.327" offset="6954218">Dr. Palmer, he's the only witness to testify that it is his opinion that Bendectin caused the limb defects of these petitioners... said of Dr. Palmer,</text>
+            <text syncTime="1717.446" offset="7002597">"Personal opinion, not science, is testifying here. "</text>
+            <text syncTime="1722.540" offset="7022972">"No known basis is offered. "</text>
+            <text syncTime="1725.282" offset="7033944">So we do not speak about propositions that have attained the level of certainty of the laws of gravity.</text>
+            <text syncTime="1732.187" offset="7061633">I think that this contention shows the whole procedure of the petitioners and their amici attack on what not only this Court... not only on the courts below but a number of courts have done.</text>
+            <text syncTime="1749.559" offset="7131119">They caricature what it is that the courts below have said about the requirement of publication and peer review.</text>
+            <text syncTime="1758.746" offset="7167899">None of those courts have said, and it would have been an absurd thing to say, that scientific opinions or propositions may not be testified to if they have not been published.</text>
+            <text syncTime="1770.342" offset="7214188">There are many scientific opinions which are either too particular, too fresh, or of too limited interest to be able to attain publication.</text>
+            <text syncTime="1783.211" offset="7265702">What these courts have said is that publication and dissemination to the scientific community is a factor.</text>
+            <text syncTime="1792.849" offset="7304259">The Downing-DeLuca court, say the Third Circuit, specifically said that it is a factor in determining the reliability of scientific evidence whether it has been exposed... and I believe I used the Third Circuit's own words... exposed to scientific scrutiny.</text>
+            <text syncTime="1811.311" offset="7378133">Now, publication and peer review--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1813.574" stopTime="1818.678">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1813.574" offset="7387119">Is that formulation that you've just given us a modification of the Frye rule?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="1818.678" stopTime="1829.744">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="1818.678" offset="7407599">--Your Honor, it is a specification, an explication of the approach which the Frye rule exemplifies.</text>
+            <text syncTime="1829.063" offset="7449082">We think--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1829.744" stopTime="1833.577">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1829.744" offset="7451798">That sounds to me like a modification.</text>
+            <text syncTime="1832.556" offset="7463083">[Laughter]</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="1833.577" stopTime="1836.139">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="1833.577" offset="7467158">--Well, if you will, it's a modification.</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="1836.139" stopTime="1853.330">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="1836.139" offset="7477398">And I think it's important because one reading of the Ninth Circuit is that it... opinion, not the only reading, but I think one reading of the Ninth Circuit is that it relied on the Frye rule per se, without this modification or explication that we're discussing.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="1853.330" stopTime="2057.649">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="1853.330" offset="7546153">Well, as to the opinion of the Ninth Circuit, I think that is virtually... that opinion is virtually a summary affirmance.</text>
+            <text syncTime="1861.895" offset="7580425">There are some judges who take about 5 pages for a summary affirmance.</text>
+            <text syncTime="1865.398" offset="7594427">In fact, the Ninth Circuit specifically stated that it was incorporating the judgments on the same packet of opinions in the First, the D.C., and the Fifth Circuits, as they said,</text>
+            <text syncTime="1880.499" offset="7654822">"for the reasons stated by our sister circuits. "</text>
+            <text syncTime="1883.861" offset="7668301">and those opinions are very detailed, go into the witnesses' testimony in great detail, and that is incorporated by reference.</text>
+            <text syncTime="1894.529" offset="7710933">The Ninth Circuit, having seen that the Federal courts have passed on this a number of times, simply incorporated that by reference.</text>
+            <text syncTime="1903.495" offset="7746877">Now, it's quite clear that the Ninth Circuit was relying on Rule 702.</text>
+            <text syncTime="1909.501" offset="7770910">It cited the Solomon case, and the Solomon case is a 702 case.</text>
+            <text syncTime="1915.426" offset="7794525">The district court relied on Rule 703.</text>
+            <text syncTime="1920.709" offset="7815736">The Lynch court, the First Circuit, whose opinion was adopted by reference by the Ninth Circuit, relied on 703 and 403.</text>
+            <text syncTime="1931.394" offset="7858473">Now, Frye, I think, is simply a shorthand way of designating an approach, and this is another one of the caricatures which the petitioners are required to emit in order to take a very general approach and make it seem extreme.</text>
+            <text syncTime="1951.076" offset="7937153">The Frye rule is a very brief sentence in a very brief opinion in 1923.</text>
+            <text syncTime="1957.170" offset="7961499">It represents an approach.</text>
+            <text syncTime="1960.393" offset="7974456">It is an approach which says, and it was familiar in the Federal courts, it was stated very well by Judge Hand in 1901, that the courts must look to scientific standards to validate scientific claims.</text>
+            <text syncTime="1975.322" offset="8034120">Now, that approach, which I submit is very general, is an approach which reappears in the Federal rules, and why should it not?</text>
+            <text syncTime="1985.290" offset="8074035">The very words which Justice O'Connor was emphasizing... scientific knowledge... bring that approach into the Federal rules.</text>
+            <text syncTime="1994.636" offset="8111442">Why should that approach have been abandoned without a word?</text>
+            <text syncTime="1999.499" offset="8130877">Now, if there had been something like a determinate rule... the Frye rule... then there would be an argument, and I would think we would be in equipoise at best but the Frye rule itself is a rather ambiguous... very ambiguous statement.</text>
+            <text syncTime="2018.972" offset="8208722">If you look at what the Frye rule itself is... let me read it to you from that decision:</text>
+            <text syncTime="2024.067" offset="8229098">"The thing from which the deduction is made must be sufficiently established to have gained general acceptance in the particular field in which it belongs. "</text>
+            <text syncTime="2033.953" offset="8268699">That leaves many questions unanswered, and what I suggest is, it is representative of an approach that there must be a foundation, the foundation must be a foundation in scientific knowledge, and that the courts look to the community of science and to scientific standards to validate scientific claims.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="2057.649" stopTime="2060.493">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="2057.649" offset="8363472">Who was the author of the Frye opinion?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2060.493" stopTime="2070.293">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2060.493" offset="8374861">You had me there, Mr. Justice... Justice Blackmun.</text>
+            <text syncTime="2065.288" offset="8393983">I'm afraid I can't tell you.</text>
+            <text syncTime="2066.119" offset="8397326">I should know... I beg your pardon?</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="2070.293" stopTime="2074.655">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="2070.293" offset="8414045">So should I.</text>
+            <text syncTime="2071.813" offset="8420105">[Laughter]</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2074.655" stopTime="2155.398">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2074.655" offset="8431495">May I return to the publication and peer review factor, because a factor is all that it is.</text>
+            <text syncTime="2085.013" offset="8472873">There are many circumstances, as the Solicitor General points out, where publication and peer review would be impossible and inappropriate.</text>
+            <text syncTime="2093.998" offset="8508817">This is not such a circumstance.</text>
+            <text syncTime="2096.820" offset="8520102">What the petitioners' witnesses were seeking to do was to propose a general proposition about the chemical properties of a much-studied subject.</text>
+            <text syncTime="2112.191" offset="8581646">The substance under consideration, Bendectin, had been studied for over a generation and had generated a vast body of published research.</text>
+            <text syncTime="2123.849" offset="8628249">What the Ninth Circuit and the other circuits have been saying, and here the Fifth Circuit is particularly explicit, in that circumstance where witnesses are seeking to build upon in order to contradict a vast body of unanimous published research, then they must operate in pari materia.</text>
+            <text syncTime="2145.032" offset="8712990">They, too, must submit their research with a clear statement of their premises, their methodologies, their conclusions.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2155.398" stopTime="2162.453">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2155.398" offset="8754473">Well, that... Mr. Fried, that's fine if you're trying to get a Ph.D., but how do the rules of evidence justify that requirement?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2162.453" stopTime="2190.723">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2162.453" offset="8782685">The rules of evidence, Mr. Chief Justice, require that the testimony be to scientific knowledge.</text>
+            <text syncTime="2170.809" offset="8816122">Scientific knowledge is knowledge produced by the methods and procedures of science, and under certain circumstances there is no more elementary method of science than the method of dissemination for criticism, replication, and review by the scientific community.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2190.723" stopTime="2194.106">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2190.723" offset="8895743">How can we know that on this record?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2194.106" stopTime="2219.772">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2194.106" offset="8909326">I think that is a matter of which judicial notice may be taken, that replication, that the community of science is the test of what is science is one of the most elementary facts of which educated men and women are aware, that science is not personal opinion.</text>
+            <text syncTime="2216.330" offset="8998143">It has been stated many times by many courts.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2219.772" stopTime="2240.696">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2219.772" offset="9011935">Mr. Fried, could I ask you a question about the studies in this case, the animal studies as an example?</text>
+            <text syncTime="2224.855" offset="9032311">Now, let's assume that maybe they don't really tell us anything about human beings, and therefore an opinion based on them might not be relevant or helpful, but are the animal studies themselves, insofar as they prove anything about animals, scientific knowledge within the meaning of the rule in your view?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2240.696" stopTime="2297.894">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2240.696" offset="9095632">These animal studies, if properly conducted, and some of them were, are scientific knowledge, without doubt.</text>
+            <text syncTime="2248.320" offset="9126143">The opinion based upon them is an opinion which does not comport with Rule 703, because Rule 703... and here the advisory committee notes are particularly important... does not speak only of the type of information, but also the selection of information, and the reference there to public opinion research in the advisory committee note, Your Honor, makes that quite explicit, that certainly to prove... in the Zippo case which they cite, to prove that there's confusion one would use survey data, but one would have to use survey data in a way that survey data specialists use survey data, and that's--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="2297.894" stopTime="2311.714">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="2297.894" offset="9324464">Just a little more... just stick with the animal studies for a moment.</text>
+            <text syncTime="2301.177" offset="9337526">If we assume they are scientific knowledge, what is it in 703... what language in 703 makes it impermissible for an expert to express an opinion based on that scientific knowledge?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2311.714" stopTime="2355.898">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2311.714" offset="9379739">--Animal data are not reasonably relied on by experts in the field to reach a conclusion about human teratogenicity at least in the face of an overwhelming burden of human data which points in the opposite direction.</text>
+            <text syncTime="2335.291" offset="9473989">Animal studies are, indeed, used.</text>
+            <text syncTime="2338.453" offset="9486633">They are used by the FDA, they are used quite generally to raise a suspicion.</text>
+            <text syncTime="2343.388" offset="9506381">They are like a scaffolding, but when the building is up, the animal studies drop away.</text>
+            <text syncTime="2351.224" offset="9537728">The animal studies cannot support a building which will not stand--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2355.898" stopTime="2385.309">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2355.898" offset="9556432">Mr. Fried, again, how are we supposed to know this?</text>
+            <text syncTime="2360.391" offset="9574404">I mean, if someone on behalf of the defendants had testified to this effect, that would be something in the record that we could take notice of and perhaps the trial court could have taken note, but you know, you're a lawyer, you're not a doctor, and here you are telling me that certain things are so in the scientific field.</text>
+            <text syncTime="2382.908" offset="9664474">You may know, but I don't.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2385.309" stopTime="2409.314">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2385.309" offset="9674087">--Well, there were introduced among other things a number of learned treatises on exactly this point about he importance of human studies in this... in the birth defects area, and how human studies trump animal studies, so there were... learned treatises were introduced.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2409.314" stopTime="2410.115">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2409.314" offset="9770113">This was introduced in this case?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2410.115" stopTime="2411.516">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2410.115" offset="9773353">Yes, Your Honor.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2411.516" stopTime="2412.637">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2411.516" offset="9778891">In the trial court.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2412.637" stopTime="2472.869">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2412.637" offset="9783384">And they were also introduced in a number of the other case whose records were submitted in this case.</text>
+            <text syncTime="2421.543" offset="9819015">Furthermore, the Canadian study which was introduced by defendants, which was a meta-analysis of all the human studies, made this statement, and finally the petitioners' own witnesses, some of them... not all of them, but their own witnesses stated that it is inappropriate to reach conclusions about human teratogenicity on the basis of animal studies.</text>
+            <text syncTime="2450.513" offset="9934894">There is one well-known textbook which points out that there are 1,200 known animal teratogens and only 30 known human teratogens, so the court quite properly, under Rule 104(a), reached this conclusion, and I would take it that that is a determination by the two courts below, and not only the two courts below, a number of other courts.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2472.869" stopTime="2476.281">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2472.869" offset="10024337">Well, what does Rule 104(a) say?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2476.281" stopTime="2508.202">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2476.281" offset="10038025">Rule 104(a) allows the trial court, indeed, requires the trial court to make a preliminary foundational inquiry whether a proper foundation has been laid for any testimony, whether it's opinion testimony based on personal observation, or scientific testimony.</text>
+            <text syncTime="2501.718" offset="10139694">That authorizes the court to make a foundational inquiry, which is, indeed, what happened here.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="2508.202" stopTime="2510.376">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="2508.202" offset="10165712">Did the court of appeals rely on 104(a)?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2510.376" stopTime="2526.878">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2510.376" offset="10174384">I believe it cited 104(a), but I can't say that with certainty.</text>
+            <text syncTime="2516.069" offset="10197163">That was in any case the... that is in any case the authorization to the courts to engage in this inquiry.</text>
+            <text syncTime="2524.735" offset="10231854">I believe that this Court in the Bourjaily case--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2526.878" stopTime="2550.953">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2526.878" offset="10240422">Mr. Fried, I take it that your answer to the questions of the Chief Justice and Justice Stevens are that you place principally reliance on Rule 703, and you say that this was not evidence on which an expert could reasonably rely.</text>
+            <text syncTime="2542.428" offset="10302593">I had thought the purpose of 703 was just to allow the admission in evidence of facts that are essentially hearsay facts.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2550.953" stopTime="2554.294">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2550.953" offset="10336657">--It allows... Rule 703--</text>
+          </turn>
+          <turn speaker="anthony_m_kennedy" startTime="2554.294" stopTime="2557.997">
+            <label>Justice Anthony M. Kennedy</label>
+            <text syncTime="2554.294" offset="10350032">And that gives no really necessary play to Rule 702 at all.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2557.997" stopTime="2604.690">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2557.997" offset="10364869">--Well, it is our position, elaborated in the brief, that 703 confirms and works along with 702.</text>
+            <text syncTime="2566.295" offset="10397993">703 allows an expert to base his opinion on hearsay evidence on the premise that the hearsay evidence is being used in a way, in accordance with the principle of 702... that is, to allow the expert to testify to scientific knowledge... otherwise one would have the anomalous result that an expert may not rely on hearsay evidence in a way that's aberrant, but may rely on personal observation in a way that is aberrant, and we--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2604.690" stopTime="2619.158">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2604.690" offset="10551593">Mr. Fried, may I inquire what the standard of appellate review is of decisions to exclude scientific evidence testimony?</text>
+            <text syncTime="2614.864" offset="10592344">Is it de novo, or do we have an abuse of discretion standard?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2619.158" stopTime="2665.320">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2619.158" offset="10609480">--The general criteria which were stated in the courts here are criteria of law.</text>
+            <text syncTime="2625.192" offset="10633617">The application of those criteria to a particular fact situation is a discretionary judgment.</text>
+            <text syncTime="2634.629" offset="10671338">However, where you have recurring fact situations... indeed, an identical fact situation, which is in fact what you have here, then the correct application of a general standard should yield a uniform result, and it becomes an abuse of discretion to apply that general standard incorrectly to a recurring fact situation, and courts of appeals, as the Fifth Circuit did--</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2665.320" stopTime="2668.705">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2665.320" offset="10794113">I'm a little lost.</text>
+            <text syncTime="2666.031" offset="10797039">Is it an abuse of discretion standard?</text>
+            <text syncTime="2668.464" offset="10806757">[Laughter]</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2668.705" stopTime="2690.769">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2668.705" offset="10807697">--It's an abuse of discretion standard in a particular case.</text>
+            <text syncTime="2672.708" offset="10823684">The criteria are legal standards, and therefore are reviewable de novo, and where the facts do not vary from case to case, then the application of standard to facts must indeed be uniform.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2690.769" stopTime="2701.117">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2690.769" offset="10895991">Can you also tell me whether the so-called Frye principle was followed in civil cases generally, or was it just in the criminal field?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2701.117" stopTime="2738.681">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2701.117" offset="10937369">I am informed... actually, I'm informed by petitioners' counsel... that there are no instances of Frye being cited in civil cases prior to the Federal rules, but it is also the case that expert testimony had not become an important problem at that point.</text>
+            <text syncTime="2721.980" offset="11020752">There is nothing in the statement of the Frye rules to suggest, or the approach to suggest that this is a matter only of interest in a criminal context where, by the way, it binds prosecution as well as defense.</text>
+          </turn>
+          <turn speaker="sandra_day_oconnor" startTime="2738.681" stopTime="2755.051">
+            <label>Justice Sandra Day O'Connor</label>
+            <text syncTime="2738.681" offset="11087625">Mr.--</text>
+            <text syncTime="2739.362" offset="11090342">--Would you mind commenting before you're through on the proposed standard of the Solicitor General, your former office, and that of Judge Becker in the Downing case?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2755.051" stopTime="2822.457">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2755.051" offset="11153036">In our view, the standard offered by the Solicitor General does not differ from the standard we offer.</text>
+            <text syncTime="2764.739" offset="11191802">Rather, it is a matter of emphasis.</text>
+            <text syncTime="2766.979" offset="11200788">We do not say that dissemination, clear statement, an offer for peer review after dissemination... this is not some bureaucratic requirement... is a necessary or sufficient condition for admissibility.</text>
+            <text syncTime="2781.129" offset="11257421">The Solicitor General does not say so.</text>
+            <text syncTime="2783.681" offset="11267557">We both say that in the circumstances of this case, where petitioners' testimony seeks to comment on, build on and refute a vast body of published statement, and there is no exigency, there are no pressing needs, that that factor is determinate.</text>
+            <text syncTime="2803.834" offset="11348223">The Third Circuit also recognized that exposure to scientific scrutiny is a factor, and if something is a factor there must be cases in which the factor is determinate, and we say this is that case.</text>
+            <text syncTime="2818.265" offset="11405901">So we do not think there is a great difference between us, except of emphasis.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2822.457" stopTime="2838.570">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2822.457" offset="11422724">Mr. Fried, there is, I take it, a difference between the SG's and Judge Becker's view on the Frye test on the admissibility of an opinion based upon what the Solicitor General called a significant minority view.</text>
+            <text syncTime="2836.257" offset="11477895">I take it Frye would not let that in.</text>
+            <text syncTime="2837.769" offset="11483955">Is that true?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2838.570" stopTime="2958.612">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2838.570" offset="11487194">Yes, and I think that the Solicitor General is correct there.</text>
+            <text syncTime="2843.853" offset="11508301">This is very nicely illustrated by the controversy petitioners raise particularly in connection with the testimony of Dr. Swan about the so-called Rothman mode of analysis.</text>
+            <text syncTime="2857.283" offset="11562009">Now, the tests which petitioners seek to refute have all been done by a particular statistical technique requiring a 95-percent confidence level.</text>
+            <text syncTime="2868.429" offset="11606626">Dr. Rothman, who is petitioners' amicus, offers a different statistical technique involving nested confidence intervals, displaying a vast amount of data.</text>
+            <text syncTime="2878.979" offset="11648735">That is a minority view.</text>
+            <text syncTime="2880.758" offset="11655945">We do not claim, the Solicitor General does not claim, I don't think it would be reasonable to claim that the Dr. Rothman procedure is ipso facto inadmissible.</text>
+            <text syncTime="2892.116" offset="11701294">That would not be proper.</text>
+            <text syncTime="2894.066" offset="11709131">What is the case is that Dr. Swan, so far as we know, never used the Dr. Rothman principle.</text>
+            <text syncTime="2901.982" offset="11740791">She simply pointed at it and said that I have something here which contradicts everything else using these other techniques, and that shows why clear statement, dissemination to the scientific community, an invitation for replication and comment, where all that is possible, is absolutely crucial.</text>
+            <text syncTime="2925.189" offset="11833578">If Dr. Swan had such a Rothman... such a Rothman analysis, she should have published it.</text>
+            <text syncTime="2933.415" offset="11866492">She never has.</text>
+            <text syncTime="2934.814" offset="11872135">In 18... sorry, in 1987 she testified, no, I haven't published it yet... not yet.</text>
+            <text syncTime="2942.950" offset="11904631">This testimony was offered in 1989.</text>
+            <text syncTime="2946.701" offset="11919677">In 1993, so far as we know, she still has not clearly stated her premises, set them out, and allowed the scientific community to comment upon them.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2958.612" stopTime="2974.374">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2958.612" offset="11967325">So the significance of the minority view is in part a function of circumstantial evidence, in a way.</text>
+            <text syncTime="2966.096" offset="11997209">It is to be assessed in part by a court based on the way the person claiming to offer it has behaved in the past.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2974.374" stopTime="2977.376">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2974.374" offset="12030332">Well, I don't believe Your Honor--</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="2977.376" stopTime="2981.670">
+            <label>Justice David H. Souter</label>
+            <text syncTime="2977.376" offset="12042348">I.e., has the person stepped up to the plate and subjected this to scrutiny or has the person not?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="2981.670" stopTime="3022.538">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="2981.670" offset="12059589">--Well, it's not a comment on the behavior of the witness.</text>
+            <text syncTime="2984.882" offset="12072442">It's a comment on the behavior, if you wish, of the proposition... Has the proposition stepped up to the plate +/?</text>
+            <text syncTime="2991.567" offset="12099086">and it's quite interesting that in the First Circuit case, the Lynch case, Dr. Swan had been forced to say something about her premises and methods, and the First Circuit went into it in some detail and totally devastated it as arbitrary and unexplained and quite unreliable.</text>
+            <text syncTime="3011.472" offset="12178708">That illustrates the importance of the publication peer review factor, and it is only a factor, in appropriate cases.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3022.538" stopTime="3039.618">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3022.538" offset="12223011">Let me ask you a nuts-and-bolts question.</text>
+            <text syncTime="3024.338" offset="12230221">Let's assume that we agree that Frye is too starchy a standard and we, like you, would find a place for the Solicitor General's view in construing 702.</text>
+            <text syncTime="3037.718" offset="12283720">What should we do in this case?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3039.618" stopTime="3051.596">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3039.618" offset="12291348">Oh, I think quite clearly that in this case there was a judgment, and that judgment was well-based, and the decision should be affirmed.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3051.596" stopTime="3071.290">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3051.596" offset="12339204">Should we adopt the Solicitor General's... let's... and I'm not suggesting that I'm about to do it, but if I were, should I take this opportunity to urge adoption of the Solicitor General's standards, or should I send this case... affirm this case with a view that the Solicitor General's standard is open for development in the lower Federal courts?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3071.290" stopTime="3132.149">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3071.290" offset="12417989">Well, the most striking thing is the Solicitor General in applying his standard concludes that the decision should be affirmed and that the Solicitor General's standards clearly lead to the denial of admissibility in this case.</text>
+            <text syncTime="3088.451" offset="12486639">It's been so often said that the Court sits to review judgments and not to revise opinions.</text>
+            <text syncTime="3094.716" offset="12511717">The opinion in the Ninth Circuit may be viewed as a little breezy and a little summary, but I think the reason for that is the Ninth Circuit said the Federal courts had seen these same witnesses, this same testimony over and over again.</text>
+            <text syncTime="3111.787" offset="12580053">It has parsed these witnesses and this testimony over and over again.</text>
+            <text syncTime="3117.129" offset="12601369">The Brock case is meticulous in its parsing.</text>
+            <text syncTime="3120.012" offset="12612863">The Lynch case is meticulous in its parsing, and the Ninth Circuit said, for the reasons in those circuits, as well as for the reasons they give, we rule this inadmissible.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="3132.149" stopTime="3137.292">
+            <label>Justice David H. Souter</label>
+            <text syncTime="3132.149" offset="12661451">But those cases weren't parsing the... based on the Solicitor General's standards.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3137.292" stopTime="3161.693">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3137.292" offset="12682035">The Brock case is very revealing in this.</text>
+            <text syncTime="3141.666" offset="12699485">The Brock case speaks my language, I believe, and the Solicitor General's language.</text>
+            <text syncTime="3146.751" offset="12719860">The Brock case says, we don't say that this is the be-all and the end-all, the failure to state and disseminate and open to scrutiny.</text>
+            <text syncTime="3154.608" offset="12751312">What we do say is that it's very important here.</text>
+            <text syncTime="3158.431" offset="12766567">It certainly gets our attention.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3161.693" stopTime="3166.216">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3161.693" offset="12779628">Mr. Fried, is it not true that in Brock they didn't hold the testimony inadmissible, they held it insufficient?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3166.216" stopTime="3174.660">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3166.216" offset="12797705">They held it insufficient because they were acting on JNOV.</text>
+            <text syncTime="3170.846" offset="12816200">They had already been... it had admitted and the court was--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3174.660" stopTime="3177.992">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3174.660" offset="12831455">Under Brock, then, we would have to assume this testimony was admissible.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3177.992" stopTime="3180.904">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3177.992" offset="12844830">--I don't believe that that assumption is--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3180.904" stopTime="3182.086">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3180.904" offset="12856428">At last, that's what the Ninth Circuit said about Brock.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3182.086" stopTime="3214.117">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3182.086" offset="12861235">--Brock was a sufficiency rather than an admissibility case.</text>
+            <text syncTime="3187.569" offset="12883178">I would suggest, Justice Stevens, that if a court says, this is evidence which is so unreliable, which is so marginal that no jury could rest an opinion on it, that that is the equivalent of saying, it is also not evidence which constitutes scientific knowledge, or which, if considered by the jury, would not mislead, prejudice--</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3214.117" stopTime="3231.518">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3214.117" offset="12989339">Well, that may be, but I suppose one possible disposition in this very case, if we weren't sure about the admissibility but we thought they'd applied the wrong standard, would be to send it back and either say, review the admissibility issue again, or, the evidence is admissible but you may still grant your summary judgment for the defendants, as they did in Brock.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3231.518" stopTime="3261.648">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3231.518" offset="13058930">--Well, it's striking that the Brock court as well as the Ninth Circuit treated those two standards as really interchangeable.</text>
+            <text syncTime="3242.124" offset="13101353">You can either do it on summary judgment or you can do it as to admissibility.</text>
+            <text syncTime="3247.318" offset="13122146">In both cases, what we are talking about, Justice Stevens, is the duty and authority of a Federal judge to assure that a jury verdict either has been or will be rationally based.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3261.648" stopTime="3268.563">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3261.648" offset="13179406">But are you taking the position that if we held the testimony to be admissible we must necessarily say the motion for summary judgment should be denied?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3268.563" stopTime="3272.707">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3268.563" offset="13207096">Well, I would certainly hesitate a while before I said that.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="3272.707" stopTime="3275.990">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="3272.707" offset="13223710">I would think you would, yes.</text>
+            <text syncTime="3273.817" offset="13228099">[Laughter]</text>
+            <text syncTime="3274.498" offset="13230815">But that seems to be your argument.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3275.990" stopTime="3291.000">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3275.990" offset="13236771">I would say that the Ninth Circuit and the Fifth Circuit were treating those as interchangeable issues, as was the Turpin decision in the Sixth Circuit on summary judgment.</text>
+            <text syncTime="3287.687" offset="13283583">They were treating those as equivalent issues.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3291.000" stopTime="3304.777">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3291.000" offset="13296853">Well, was it a submission on summary judgment that summary judgment should be granted because the plaintiff could not come up with admissible testimony?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3304.777" stopTime="3307.319">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3304.777" offset="13351919">That was the decision in this case.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3307.319" stopTime="3307.499">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3307.319" offset="13362159">Yes.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3307.499" stopTime="3309.610">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3307.499" offset="13362891">That was the decision in the Lynch case.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3309.610" stopTime="3309.791">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3309.610" offset="13371354">Yes.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3309.791" stopTime="3325.643">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3309.791" offset="13371981">That was the decision in the Richardson case, and those cases also were incorporated by reference by the Ninth Circuit quite explicitly, and they did not... and they were not summary judgment, they were indeed admissibility cases.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3325.643" stopTime="3333.489">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3325.643" offset="13435406">Well, do you think those cases... all of those cases spoke your language?</text>
+            <text syncTime="3331.857" offset="13460275">[Laughter]</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3333.489" stopTime="3368.161">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3333.489" offset="13466858">Well, I don't know whether they would speak my language in another case, but what they said was to emphasize a factor which is dispositive here.</text>
+            <text syncTime="3344.535" offset="13510953">I cannot believe that the Lynch court or the Richardson court would say of an opinion about what caused a particular accident that that opinion had to be published or peer-reviewed... certainly not.</text>
+            <text syncTime="3358.196" offset="13565601">Those cases referred to publication and peer review in the context of the circumstances, in the context of that case.</text>
+          </turn>
+          <turn speaker="byron_r_white" startTime="3368.161" stopTime="3370.805">
+            <label>Justice Byron R. White</label>
+            <text syncTime="3368.161" offset="13605516">Why do you think this factor is determinative in this case?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3370.805" stopTime="3382.285">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3370.805" offset="13616069">It is determinative because the petitioners seek to overcome and, indeed, use published peer review material.</text>
+            <text syncTime="3380.903" offset="13656507">I thank the Court for its attention.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="3382.285" stopTime="3386.466">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="3382.285" offset="13662045">Professor Fried, there are Harvard Law School professors on both sides of this case, aren't there?</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3386.466" stopTime="3394.483">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3386.466" offset="13678763">Yes.</text>
+            <text syncTime="3390.190" offset="13693601">There are Harvard law professors all over the Court this week, Your Honor.</text>
+            <text syncTime="3393.351" offset="13706244">[Laughter]</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="3394.483" stopTime="3398.606">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="3394.483" offset="13710842">I thought you could lead us out of the wilderness and get together up there.</text>
+          </turn>
+          <turn speaker="charles_fried" startTime="3398.606" stopTime="3400.858">
+            <label>Mr. Charles Fried</label>
+            <text syncTime="3398.606" offset="13727246">I hoped I had, Your Honor.</text>
+            <text syncTime="3400.237" offset="13733829">Thank you.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3400.858" stopTime="3404.550">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3400.858" offset="13736337">Thank you, Mr. Fried.</text>
+            <text syncTime="3402.357" offset="13742293">Mr. Gottesman, you have 1 minute remaining.</text>
+          </turn>
+        </section>
+        <section startTime="3404.550" stopTime="3474.042">
+          <heading>Rebuttal of Michael H. Gottesman</heading>
+          <turn speaker="michael_h_gottesman" startTime="3404.550" stopTime="3471.099">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="3404.550" offset="13751070">Thank you, Your Honor.</text>
+            <text syncTime="3405.309" offset="13754100">The Brock court expressly said the testimony was admissible.</text>
+            <text syncTime="3408.662" offset="13767475">The question of whether it's sufficient to... on the merits is a question of State law, not Federal, and it's our contention you would have to look to California law to decide whether California would agree, for example, with the District of Columbia that this evidence was sufficient.</text>
+            <text syncTime="3422.973" offset="13824735">The human data does not in this case trump the animal data.</text>
+            <text syncTime="3427.776" offset="13843962">The human data here is that a larger percentage of women who took Bendectin gave birth to children with limb defects.</text>
+            <text syncTime="3433.692" offset="13867681">The question is, how confident can we be that that is in fact probative of causation, not at a 95 percent level, but what Drs. Swan and Glassman said was applying the Rothman technique, a published technique and doing the arithmetic, that you find that this does link causation likelier than not.</text>
+            <text syncTime="3455.847" offset="13956288">Professor Fried said that in 1975 the problem of experts was not perceived as it was now.</text>
+            <text syncTime="3462.612" offset="13983351">Look at the advisory committee note to Rule 706.</text>
+            <text syncTime="3466.055" offset="13997039">That note says we are worried about shopping for experts, we were worried for venal experts--</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3471.099" stopTime="3472.300">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3471.099" offset="14017310">Thank you, Mr. Gottesman.</text>
+          </turn>
+          <turn speaker="michael_h_gottesman" startTime="3472.300" stopTime="3472.480">
+            <label>Mr. Michael H. Gottesman</label>
+            <text syncTime="3472.300" offset="14022012">--Thank you, Your Honor.</text>
+          </turn>
+          <turn speaker="william_h_rehnquist" startTime="3472.480" stopTime="3474.042">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="3472.480" offset="14022744">The case is submitted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T12:10:59" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="703780">/xml/cases/1986/86_71/19870421o_86-71.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1986/trs/86-71_19870421-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="lewis_f_powell_jr" type="justice" gender="male" path="/justices/lewis_f_powell_jr" image="/justices/lewis_f_powell_jr/thumbnail.jpg">Lewis F. Powell, Jr.</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="152.999">
+        <title>CTS Corporation v. Dynamics Corporation of America</title>
+        <section startTime="0.000" stopTime="152.999">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.763">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="91783">The opinion of the Court in No. 86-71, CTS Corporation versus Dynamics Corporation of America and a related case will be announced by Justice Powell.</text>
+          </turn>
+          <turn speaker="lewis_f_powell_jr" startTime="10.763" stopTime="152.999">
+            <label>Justice Lewis F. Powell, Jr.</label>
+            <text syncTime="10.763" offset="134833">This case is here from the Court of Appeals for the Seventh Circuit.</text>
+            <text syncTime="15.118" offset="152178">The case presents two questions as to the validity of Indiana's Control Share Acquisition Act.</text>
+            <text syncTime="22.397" offset="181331">First, whether the Federal Williams Act preempts the Indiana law; second, whether the state law violates the Dormant Commerce Clause.</text>
+            <text syncTime="33.458" offset="225530">The Indiana Act applies to tender offers.</text>
+            <text syncTime="36.599" offset="238173">It limits the voting rights that an entity gains when it purchases a specified percentage of the shares of an Indiana corporation.</text>
+            <text syncTime="46.521" offset="277775">It provides that the purchaser does not acquire voting rights unless the remaining shareholders vote to grant such rights.</text>
+            <text syncTime="55.842" offset="315078">Appellee, Dynamics Corporation, made a tender offer for 18% of the shares of appellant CTS, a corporation of Indiana.</text>
+            <text syncTime="69.233" offset="368681">When CTS invoked the provisions of the Indiana Act, Dynamics sought and obtained an injunction from a Federal District Court in Illinois.</text>
+            <text syncTime="81.014" offset="415806">That court concluded that the Indiana law is preempted by the Williams Act and also violates the Commerce Clause.</text>
+            <text syncTime="90.412" offset="453422">The Court of Appeals affirmed.</text>
+            <text syncTime="93.647" offset="466274">For the reason stated in an opinion filed today with the Clerk, we reverse.</text>
+            <text syncTime="98.158" offset="484351">We hold that the Indiana Act does not conflict with any expressed provision of the Williams Act nor does it undermine the basic purposes of that Act.</text>
+            <text syncTime="108.594" offset="526147">Similarly, we conclude that the Indiana law does not violate the Commerce Clause.</text>
+            <text syncTime="113.788" offset="546836">The Indiana statute applies evenhandedly to tender offers, whether they are initiated by residents of Indiana or residents of other states.</text>
+            <text syncTime="124.333" offset="589050">Also, the Indiana statute applies only to the governance of Indiana corporations.</text>
+            <text syncTime="132.050" offset="619979">Therefore, there is little or no risk of inconsistent regulation by other states.</text>
+            <text syncTime="139.834" offset="651117">Justice Scalia has filed an opinion concurring in part and concurring in the judgment; Justice White has filed a dissenting opinion, in part of which Justices Blackmun and Stevens have joined.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

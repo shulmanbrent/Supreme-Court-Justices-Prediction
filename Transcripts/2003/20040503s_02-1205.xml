@@ -1,0 +1,35 @@
+<transcript verified="true">
+      <history>
+        <transcribed>2004-05-03</transcribed>
+        <edit user="dleib" date="2012-08-12T15:47:51" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_paul_stevens"/>
+        <identified user="dleib">2012-08-12</identified>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2013-12-12T11:50:17" startTime="0.000" oldSpeaker="john_paul_stevens" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2013-12-12</identified>
+        <verified user="jeffpar">2014-02-01</verified>
+      </history>
+      <resources>
+        <audioFile size="513297">/xml/cases/2003/02_1205/20040503o_02-1205.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/2003/02-1205_20040503-opinion.xml</sourceFile>
+        <speaker id="john_paul_stevens" type="justice" gender="male" path="/justices/john_paul_stevens" image="/justices/john_paul_stevens/thumbnail.jpg">John Paul Stevens</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="80.553">
+        <title>Jones v. R. R. Donnelley &amp; Sons Company</title>
+        <section startTime="0.000" stopTime="80.553" revised="2014-02-01">
+          <heading>Opinion Announcement of Justice John Paul Stevens</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.518">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="0">The opinion of the Court in No. 02-1205 Jones versus R. R. Donnelley and Sons will be announced by Justice Stevens.</text>
+          </turn>
+          <turn speaker="john_paul_stevens" startTime="9.518" stopTime="80.553">
+            <label>Justice John Paul Stevens</label>
+            <text syncTime="9.518" offset="38034">In 1990, Congress enacted a catchall four years statute of limitations applicable to all causes of action arising under acts of Congress thereafter enacted.</text>
+            <text syncTime="22.201" offset="88712">The question in this case is whether that limitations period applies to a cause of action rising under 42 U.S.C. 1981, a statute that was originally enacted after the Civil War but amended in important respects in 1991.</text>
+            <text syncTime="38.869" offset="155376">The claim asserted by the petitioners in this case would not have stated a violation of the 1981 as originally enacted but it does state a violation of the amended statute.</text>
+            <text syncTime="49.559" offset="198217">For reasons stated in an opinion filed with the Clerk, contrary to the views of the Court of Appeals, we conclude that the claim arose under the amended statute and that the four years statute limitations applies.</text>
+            <text syncTime="61.830" offset="247223">Our opinion is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

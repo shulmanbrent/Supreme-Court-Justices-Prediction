@@ -1,0 +1,43 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:12:53" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="733925">/xml/cases/1990/89_1283/19901127o_89-1283.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/89-1283_19901127-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="164.989">
+        <title>Arcadia, Ohio v. Ohio Power Company</title>
+        <section startTime="0.000" stopTime="164.989">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="8.944">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73967">The opinion of the Court in No. 89-1283, Arcadia Ohio versus Ohio Power Company will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="8.944" stopTime="164.989">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="8.944" offset="109703">This case is on certiorari from the Court of Appeals for the District of Columbia Circuit.</text>
+            <text syncTime="15.165" offset="134571">Arcadia Ohio and 14 other petitioners, that purchase wholesale electricity from Ohio Power, challenged a rate increase filed by Ohio Power in 1982.</text>
+            <text syncTime="26.052" offset="178143">The Federal Energy Regulatory Commission, in the exercise of its jurisdiction to assure adjust and reasonable rates, disallowed that portion of Ohio Power's rates attributable to Ohio Power's cost of coal.</text>
+            <text syncTime="39.507" offset="231956">Ohio Power's coal was purchased primarily from its own subsidiary, the Southern Ohio Coal Company at cost.</text>
+            <text syncTime="49.306" offset="271139">Southern Ohio Coal Company bears the regrettable acronym of SOCCO.</text>
+            <text syncTime="54.127" offset="290470">Ohio Power argued that because its acquisition of SOCCO had been approved by the Securities and Exchange Commission, and because the approval orders indicated that that coal would be priced at cost, FERC could not disallow that portion of Ohio Power's costs which reflected these coals charges.</text>
+            <text syncTime="73.290" offset="367061">Ohio Power based its argument on Section 318 of the Federal Power Act which provides that when the SEC and FERC regulate the same subject matter, the regulation of the SEC takes precedence.</text>
+            <text syncTime="85.105" offset="414290">Because the SEC had regulated the price of coal, Ohio Power argued FERC was not permitted through its rates jurisdiction to regulate in effect the same subject matter.</text>
+            <text syncTime="94.467" offset="451802">The Court of Appeals agreed and we granted certiorari.</text>
+            <text syncTime="97.936" offset="465699">In the unanimous opinion, we now reverse because Section 318 has no application to this case.</text>
+            <text syncTime="104.485" offset="491822">Section 318 begins with a carefully detailed clause listing the subjects with respect to which the SEC preemption rule applies.</text>
+            <text syncTime="113.740" offset="528916">That clause ends with the phrase "or any other subject matter" but we do not believe that that phrase stands alone as a parallel object of the proposition with respect to.</text>
+            <text syncTime="125.545" offset="576145">Instead, it is part of the fourth enumerated category of parallel FERC and SEC regulation which reads "the acquisition or disposition of any security, capital, assets, facilities, or any other subject matter" so read, Section 318 does not apply to the alleged conflict that exists in this case.</text>
+            <text syncTime="145.734" offset="656811">Accordingly, we reverse the judgment and because there are other issues, that the Court of Appeals found it unnecessary to reach because of its application of Section 318, we remand the case for further proceedings.</text>
+            <text syncTime="156.876" offset="701428">Justice Stevens joined the court's opinion and filed a concurring opinion in which Justice Marshall joined.</text>
+            <text syncTime="162.335" offset="723267">Justice Souter took no part.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

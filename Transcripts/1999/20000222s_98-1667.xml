@@ -1,0 +1,44 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T11:44:48" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="965638">/xml/cases/1999/98_1667/20000222o_98-1667.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1999/trs/98-1667_20000222-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="220.343">
+        <title>Baral v. United States</title>
+        <section startTime="0.000" stopTime="220.343">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.679">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="84267">The opinion of the Court in No. 98-1667, Baral against the United States will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="7.679" stopTime="220.343">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="7.679" offset="114883">This case comes to us on a writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit.</text>
+            <text syncTime="15.297" offset="145394">Petitioner Baral is a taxpayer.</text>
+            <text syncTime="18.418" offset="157932">In 1988, petitioner’s employer withheld a portion of petitioner’s wages and remitted it to the Internal Revenue Service toward petitioner’s tax liability for the tax year 1988.</text>
+            <text syncTime="32.505" offset="214252">Petitioner remitted an additional amount to the IRS as estimated income tax.</text>
+            <text syncTime="38.683" offset="238912">Although, petitioner obtained an extension of time for filing his tax return until August 15, 1989, he missed his deadline and did not file the return until June 1, 1993.</text>
+            <text syncTime="53.306" offset="297426">On this return, he claimed that the two remittances exceeded his tax liability for the 1988 tax year and requested a credit toward his 1989 tax liability.</text>
+            <text syncTime="66.646" offset="350820">The IRS denied the requested credit concluding that petitioner’s claim exceeded the ceiling imposed by Internal Revenue Code Section 6511(b) which limits the amount of credit or refund of overpaid tax to the portion of the overpaid tax that was paid within the period immediately preceding the filing of the claim equal to three years plus any extension of time.</text>
+            <text syncTime="94.356" offset="461684">Here that period began on February 1, 1990 and ended on June 1, 1993.</text>
+            <text syncTime="102.629" offset="494703">The IRS determined that the two remittances have been paid on April 15, 1989, that is before and outside the period described by Section 6511(b).</text>
+            <text syncTime="117.450" offset="554053">Petitioner then brought suit in Federal District Court which ruled in favor of the IRS.</text>
+            <text syncTime="123.401" offset="577772">The Court of Appeals affirmed explaining that Code Section 6513 plainly establishes that remittances of a holding tax and estimated income tax are deemed paid for the purpose of Section 6511 on the due date of the taxpayer’s return for the relevant year.</text>
+            <text syncTime="142.473" offset="654154">Here that due date was April 15, 1989.</text>
+            <text syncTime="146.954" offset="672022">In an opinion filed with the Clerk, we affirm the judgment of the Court of Appeals as that court observe Section 6513 plainly indicates that the remittances at issue here are considered paid on April 15, 1989 so that they fall outside the period described by Section 6511.</text>
+            <text syncTime="168.135" offset="756763">Because neither these nor any other remittances towards the overpaid tax was paid within the relevant period, the ceiling on petitioner’s credit or refund is zero and the IRS was correct to deny the requested credit.</text>
+            <text syncTime="183.100" offset="816636">We reject petitioner’s contention that Section 6513 indicates only when remittances of withholding tax or estimated income tax are deemed paid and that Section 6513 says nothing about when income tax was paid.</text>
+            <text syncTime="202.339" offset="893540">This contention rests on the mistaken premise that the withholding tax and the estimated income tax are taxes in their own right, separate from the income tax; they are instead methods for collecting the income tax.</text>
+            <text syncTime="217.850" offset="955607">The opinion of the court is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,63 @@
+<transcript verified="true">
+      <history>
+        <identified user="jeffpar">2014-01-20</identified>
+        <verified user="jeffpar">2014-01-24</verified>
+      </history>
+      <resources>
+        <audioFile size="1171709">/xml/cases/2012/11_817/20130219o_11-817.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2012/trs/11-817_20130219-opinion.trs</sourceFile>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+        <speaker id="elena_kagan" type="justice" gender="male" path="/justices/elena_kagan" image="/justices/elena_kagan/thumbnail.jpg">Elena Kagan</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="266.496">
+        <title>Florida v. Harris</title>
+        <section startTime="0" stopTime="266.496">
+          <heading>Opinion Announcement of Elena Kagan</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="6.856">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="105472">Justice Kagan has our opinion this morning in case 11-817, Florida against Harris.</text>
+          </turn>
+          <turn speaker="elena_kagan" startTime="6.856" stopTime="266.496">
+            <label>Justice Elena Kagan</label>
+            <text syncTime="6.856" offset="132848">In this case, a drug detection dog alerted at a truck, signaling the drugs were inside.</text>
+            <text syncTime="13.614" offset="159911">The question we consider is how a Court should determine whether that kind of alert provides a police officer with probable cause to search the vehicle.</text>
+            <text syncTime="22.825" offset="196692">Our opinion first discusses the wrong approach and then describes the right one.</text>
+            <text syncTime="28.024" offset="217485">Officer William Wheetley pulled over a truck with an expired license plate while on patrol with Aldo.</text>
+            <text syncTime="34.649" offset="244025">A dog trained to detect certain narcotics.</text>
+            <text syncTime="38.199" offset="258236">After the driver, Clayton Harris, refuse to consent to a search.</text>
+            <text syncTime="42.382" offset="274954">Wheetley had Aldo sniffed the drug's exterior the truck's exterior.</text>
+            <text syncTime="46.521" offset="291464">In a way, this Court has previously approved.</text>
+            <text syncTime="49.795" offset="304630">Aldo alerted at the driver side door.</text>
+            <text syncTime="53.114" offset="317900">On that basis, Wheetley decided he had probable cause to search the truck.</text>
+            <text syncTime="57.902" offset="337021">And in that search, he found illegal ingredients for making methamphetamine.</text>
+            <text syncTime="63.414" offset="359069">Harris challenged the search is legality, arguing that Aldo's alert did not give Wheetley the probable cause to search.</text>
+            <text syncTime="70.314" offset="386654">The Florida Supreme Court agreed.</text>
+            <text syncTime="72.645" offset="395954">At first, he said that a dog's alert provides probably cause only if the dog is a reliable detector of narcotics.</text>
+            <text syncTime="80.442" offset="427196">And then it held that to show the dog is reliable, the state must produce extensive documentary evidence on a variety of matters including statistics about how the dog has performed in the field.</text>
+            <text syncTime="92.426" offset="475157">How many times the dog's alerts have lead to the discovery of drugs and how many times they have not.</text>
+            <text syncTime="98.353" offset="498876">Because Wheetley didn't have those records, the Court held, he didn't have a sufficient basis to search Harris's truck.</text>
+            <text syncTime="105.809" offset="528656">Today, we reverse that decision.</text>
+            <text syncTime="108.357" offset="538896">We agree that a dog must be reliable for its alert to provide probable cause for a search, but we disagree with the Florida Supreme Court about how to establish the dog's reliability.</text>
+            <text syncTime="119.998" offset="585394">In evaluating, whether police have probable cause, we have rejected rigid rules in favor of a flexible inquiry into the totality of the circumstances.</text>
+            <text syncTime="129.731" offset="624368">The Florida Supreme Court's approach was wrong first and foremost because it required the states to tick off every item in a lengthy evidentiary checklist in order to show probably cause.</text>
+            <text syncTime="141.499" offset="671389">That's inconsistent with our instructions to balance all the evidence relevant to reliability in a more holistic way.</text>
+            <text syncTime="149.054" offset="701586">Making matters worse, the Court treated records of a dog's field performance as the gold standard in evidence.</text>
+            <text syncTime="154.939" offset="725201">When in most cases, those records have relatively limited import.</text>
+            <text syncTime="159.772" offset="744532">That's because a dog might have been right to alert even if no drugs are found.</text>
+            <text syncTime="164.436" offset="763131">Maybe the drugs were too well-hidden or maybe they would just recently remove and the dog responded to a lingering odor.</text>
+            <text syncTime="171.767" offset="792492">For reasons like that, the better way to asses a dog's reliability is through the controlled testing that is a standard part of training and certification programs.</text>
+            <text syncTime="181.640" offset="831990">The Florida Court put too much weight on the dog's field performance and too little on its certification and training.</text>
+            <text syncTime="188.928" offset="861142">We make clear today that a Court should evaluate a dog's reliability in the same way it assesses probable cause and other contexts.</text>
+            <text syncTime="196.453" offset="891235">By the telling the state to put on its best case, allowing the defendant to rebut it, and then weighing all the evidence presented.</text>
+            <text syncTime="203.923" offset="921119">If the State has offered evidence that a dog performs reliably in finding drugs in controlled testing environments and the defendant has not contested that showing, then the Court should fine probable cause.</text>
+            <text syncTime="216.682" offset="972110">If the defendant has challenged the state's case by contending, for example, that the dog was inadequately trained or that the officer improperly cued the animal, then the Court should balance that evidence against the states.</text>
+            <text syncTime="229.578" offset="1023728">The ultimate question is whether all the facts surrounding a dog's alert viewed through the lens of common sense would make a reasonably prudent person to think that a search would reveal evidence of a crime.</text>
+            <text syncTime="242.372" offset="1074928">Here, that test was satisfied.</text>
+            <text syncTime="244.624" offset="1083914">The state offered ample evidence of Aldo's training and his superior performance in controlled testing.</text>
+            <text syncTime="251.252" offset="1110455">Harris did not contest that evidence and offered no other valid reason to think that Aldo was not a reliable detector of drugs.</text>
+            <text syncTime="259.524" offset="1143474">Accordingly, the Florida Supreme Court should have found probable cause.</text>
+            <text syncTime="264.264" offset="1162491">Our decision is unanimous.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

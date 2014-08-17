@@ -1,0 +1,55 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T15:55:19" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1157374">/xml/cases/2005/05_416/20060622o_05-416.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2005/trs/05-416_20060622-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="samuel_alito_jr" type="justice" gender="male" path="/justices/samuel_alito_jr" image="/justices/samuel_alito_jr/thumbnail.jpg">Samuel A. Alito, Jr.</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="267.180">
+        <title>Woodford v. Ngo</title>
+        <section startTime="0.000" stopTime="267.180">
+          <heading/>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="9.510">
+            <label>Justice Jr.</label>
+            <text syncTime="0.000" offset="88652">Justice Alito has the opinion in 05-416, Woodford versus Ngo.</text>
+          </turn>
+          <turn speaker="samuel_alito_jr" startTime="9.510" stopTime="267.180">
+            <label>Justice Samuel A. Alito, Jr.</label>
+            <text syncTime="9.510" offset="126686">This case comes to us on writ of certiorari to the United States Court of Appeals for the 9th Circuit.</text>
+            <text syncTime="15.458" offset="150405">Petitioners are California prison officials, and respondent is a prisoner who was in their custody.</text>
+            <text syncTime="22.003" offset="176632">In October of 2000, respondent was placed in administrative segregation for alleged misconduct in the San Quentin Prison chapel.</text>
+            <text syncTime="32.494" offset="218533">Two months later, he was returned to the general population; but he claims that he was excluded from participating in a variety of religious activities.</text>
+            <text syncTime="41.942" offset="256358">Respondent filed a challenge to this exclusion under California’s administrative prison grievance system six months later.</text>
+            <text syncTime="50.268" offset="289690">California law gives prisoners 15 working days to file such a grievance, and respondent’s grievance accordingly was rejected as untimely.</text>
+            <text syncTime="59.967" offset="328456">After unsuccessfully appealing that decision internally, respondent filed the underlying lawsuit against petitioners in Federal District Court.</text>
+            <text syncTime="68.362" offset="361997">The District Court dismissed respondent’s suit for failing to exhaust administrative remedies, as required by the exhaustion provision of the Prison Litigation Reform Act, the PLRA.</text>
+            <text syncTime="80.890" offset="412152">Respondent appealed and the 9th Circuit reversed, holding that respondent had exhausted administrative remedies, because no such remedies were any longer available.</text>
+            <text syncTime="90.640" offset="451127">This decision was consistent with the decision of the 6th Circuit, but conflicted with decisions of four other Courts of Appeals.</text>
+            <text syncTime="98.678" offset="483310">We granted certiorari and now reverse.</text>
+            <text syncTime="101.540" offset="494804">The PLRA states that a prisoner may not bring an action with respect to prison conditions until such administrative remedies as are available are exhausted.</text>
+            <text syncTime="111.956" offset="536391">We hold that this means that a prisoner must properly exhaust administrative remedies, which includes compliance with time limits.</text>
+            <text syncTime="120.305" offset="569828">The PLRA refers to administrative remedies, and in administrative law, the general rule is that courts should not topple over administrative decisions unless the administrative body not only has erred, but has erred against objection made at the time appropriate under its practice.</text>
+            <text syncTime="138.502" offset="642657">That is the United States versus Tucker Truck Lines.</text>
+            <text syncTime="141.622" offset="655091">This doctrine serves several purposes: it gives agencies a fair opportunity to fix their own mistakes before being held into federal court, and it discourages disregard of agency procedures; it also promotes efficiency, as meritorious claims are often settled at the administrative level, and a loss at that level may convince a party not to seek a remedy in federal court.</text>
+            <text syncTime="164.955" offset="748401">Because exhaustion requirements are designed to deal with parties who may not want to exhaust their administrative remedies, administrative law creates an incentive for parties to give the agency a fair opportunity to consider their claims.</text>
+            <text syncTime="179.287" offset="805765">Administrative law does this by requiring proper exhaustion as a condition for going to federal court.</text>
+            <text syncTime="185.185" offset="829380">The reason for requiring proper exhaustion is straightforward:  no adjudicative system can function effectively if parties are free to disregard its procedural rules.</text>
+            <text syncTime="195.896" offset="872221">The law of habeas corpus also requires proper exhaustion, but it uses different terminology.</text>
+            <text syncTime="201.695" offset="895418">The text and general scheme of the PLRA show that the Act adopts the administrative-law concept of proper exhaustion.</text>
+            <text syncTime="209.942" offset="928332">The Act was intended to reduce the quantity and improve the quality of prisoner litigation, and proper exhaustion is needed to serve these ends.</text>
+            <text syncTime="218.294" offset="961769">Proper exhaustion gives state officials an adequate opportunity to consider and resolve meritorious claims, and it creates a record for a subsequent review of claims that cannot be resolved.</text>
+            <text syncTime="229.775" offset="1007744">The interpretation urged by respondent would thwart the purposes of the PLRA.</text>
+            <text syncTime="235.539" offset="1030732">It would permit prisoners to deliberately bypass prison grievance systems, and respondent has not identified any statute or case that allows this.</text>
+            <text syncTime="245.379" offset="1070125">We are confident that Congress did not create such an ineffectual scheme here.</text>
+            <text syncTime="251.488" offset="1094575">We reverse the judgment of the Court of Appeals for the 9th Circuit and remand the case for proceedings consistent with this opinion.</text>
+            <text syncTime="258.340" offset="1121952">Justice Breyer has filed an opinion concurring in the judgment; Justice Stevens has filed a dissent, in which Justices Souter and Ginsburg join.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

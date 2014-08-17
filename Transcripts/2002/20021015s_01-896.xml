@@ -1,0 +1,24 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2014-01-16T12:28:29" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="139227">/xml/cases/2002/01_896/20021015o_01-896.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2002/trs/01-896_20021015-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="13.714">
+        <title>Ford Motor Co. v. McCauley</title>
+        <section startTime="0" stopTime="13.714">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="13.714">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="84579">I have the opinion of the Court to announce in No. 01-896, Ford Motor Company versus McCauley.</text>
+            <text syncTime="8.417" offset="118225">The petition for writ of certiorari is dismissed as improvidently granted.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,24 @@
+<transcript verified="true">
+      <history>
+        <edit user="jgoldman" date="2013-09-02T15:46:02" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <verified user="jgoldman">2013-09-02</verified>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="148985">/xml/cases/1999/99_391/20000403o_99-391.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1999/trs/99-391_20000403-opinion.trs</sourceFile>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="16.352">
+        <title>Free v. Abbott Laboratories Inc.</title>
+        <section startTime="0" stopTime="16.352">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="16.352">
+            <label>Chief Justice William H. Rehnquist</label>
+            <text syncTime="0.000" offset="83783">I have the opinion of the Court to announce in No. 99-391, Free versus Abbott Laboratories Inc.</text>
+            <text syncTime="8.339" offset="117115">The judgment is affirmed by an equally divided Court.</text>
+            <text syncTime="11.863" offset="131221">Justice O’Connor took no part in the consideration or decision of this case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

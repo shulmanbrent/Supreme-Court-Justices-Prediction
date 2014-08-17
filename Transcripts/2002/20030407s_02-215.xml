@@ -1,0 +1,31 @@
+<transcript verified="true">
+      <history>
+        <verified user="jeffpar">2013-08-18</verified>
+        <edit user="jgoldman" date="2014-01-16T12:26:35" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="201308">/xml/cases/2002/02_215/20030407o_02-215.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2002/trs/02-215_20030407-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="antonin_scalia" type="justice" gender="male" path="/justices/antonin_scalia" image="/justices/antonin_scalia/thumbnail.jpg">Antonin Scalia</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="29.074">
+        <title>PacifiCare Health Systems, Inc. v. Book</title>
+        <section startTime="0.000" stopTime="29.074">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="9.145">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="85011">The opinion of the Court in No. 02-215 PacificCare Health Systems Inc. versus Book will be announced by Justice Scalia.</text>
+          </turn>
+          <turn speaker="antonin_scalia" startTime="9.145" stopTime="29.074">
+            <label>Justice Antonin Scalia</label>
+            <text syncTime="9.145" offset="121582">This case is here on writ of certiorari in the United States Court of Appeals for the Eleventh Circuit.</text>
+            <text syncTime="15.086" offset="145302">For the reason set forth in an opinion filed with the Clerk today, we reverse the judgment of the Eleventh Circuit and remand the case.</text>
+            <text syncTime="22.600" offset="175395">The opinion is unanimous.</text>
+            <text syncTime="24.523" offset="183022">Justice Thomas took no part in the consideration or decision of the case.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

@@ -1,0 +1,34 @@
+<transcript verified="true">
+      <history>
+        <transcribed>1993-03-24</transcribed>
+        <identified user="dleib">2012-07-11</identified>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:37:59" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="195407">/xml/cases/1992/91_1695/19930324o_91-1695.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/transcripts/identified/1992/91-1695_19930324-opinion.xml</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="byron_r_white" type="justice" gender="male" path="/justices/byron_r_white" image="/justices/byron_r_white/thumbnail.jpg">Byron R. White</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="28.395">
+        <title>Pioneer Investment Services Company v. Brunswick Associates Limited Partnership</title>
+        <section startTime="0.000" stopTime="10.331">
+          <heading>Announcement of Chief Justice Rehnquist</heading>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="10.331">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="81827">The opinion of the Court in No. 91-1695, Pioneer Investments Services Co. versus Brunswick Associated Ltd will be announced by Justice White.</text>
+          </turn>
+        </section>
+        <section startTime="10.331" stopTime="28.395">
+          <heading>Announcement of Justice White</heading>
+          <turn speaker="byron_r_white" startTime="10.331" stopTime="28.395">
+            <label>Justice Byron R. White</label>
+            <text syncTime="10.331" offset="123100">As the opinion on file with the Clerk will indicate, and for the reasons stated therein, the judgment of the Court of Appeals for the Sixth Circuit is affirmed.</text>
+            <text syncTime="20.079" offset="162075">Justice O'Connor has filed a dissenting opinion; Justices Scalia, Souter and Thomas have joined that opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

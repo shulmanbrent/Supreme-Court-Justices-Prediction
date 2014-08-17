@@ -1,0 +1,38 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-15T14:11:11" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-15</identified>
+      </history>
+      <resources>
+        <audioFile size="443952">/xml/cases/1990/90_368/19910613o_90-368.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/1990/trs/90-368_19910613-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="harry_a_blackmun" type="justice" gender="male" path="/justices/harry_a_blackmun" image="/justices/harry_a_blackmun/thumbnail.jpg">Harry A. Blackmun</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="92.499">
+        <title>Toibb v. Radloff</title>
+        <section startTime="0.000" stopTime="92.499">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="7.015">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="73954">The opinion of the Court in No. 90-368 Toibb against Radloff will be announced by Justice Blackmun.</text>
+          </turn>
+          <turn speaker="harry_a_blackmun" startTime="7.015" stopTime="92.499">
+            <label>Justice Harry A. Blackmun</label>
+            <text syncTime="7.015" offset="101957">This is a bankruptcy case that comes to us from the Court of Appeals for the Eighth Circuit.</text>
+            <text syncTime="13.237" offset="126826">We took it because of the conflict in the lower courts.</text>
+            <text syncTime="17.057" offset="142081">It concerns the interplay of chapters 7, 11, and in a way, 13 of the Bankruptcy Code.</text>
+            <text syncTime="25.390" offset="175414">Specifically, it has to do with a conversion by an individual of his chapter seven case to one under chapter eleven's reorganization provisions.</text>
+            <text syncTime="36.692" offset="220658">The Bankruptcy Court of Saint Louis allowed the conversion, but when the petitioner's reorganization plan was filed, that court dismissed the petition finding at that time that he did not qualify for relief under chapter 11 because he was not engaged in an ongoing business.</text>
+            <text syncTime="58.249" offset="306862">The District Court for the Eastern District of Missouri affirmed and so did the Court of Appeals.</text>
+            <text syncTime="63.830" offset="329223">We hold that the code's language permits individual debtors not engaged in business to file for relief under chapter 11.</text>
+            <text syncTime="72.521" offset="364018">We acknowledge that, that chapter was intended primarily for the use of business debtors.</text>
+            <text syncTime="78.009" offset="385961">But the code contains no ongoing business requirement for a chapter-11-reorganization.</text>
+            <text syncTime="84.282" offset="411038">And the judgment of the Court of Appeals is, therefore, is reversed.</text>
+            <text syncTime="87.142" offset="422427">Justice Stevens has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

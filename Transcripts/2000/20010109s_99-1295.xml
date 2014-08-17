@@ -1,0 +1,45 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2014-01-16T12:09:02" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="william_h_rehnquist"/>
+        <identified user="jgoldman">2014-01-16</identified>
+      </history>
+      <resources>
+        <audioFile size="811820">/xml/cases/2000/99_1295/20010109o_99-1295.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2000/trs/99-1295_20010109-opinion.trs</sourceFile>
+        <speaker id="unknown_speaker" type="other" gender="unknown" path="" image="/others/thumbnails/unknown1-60.jpg">Unknown Speaker</speaker>
+        <speaker id="clarence_thomas" type="justice" gender="male" path="/justices/clarence_thomas" image="/justices/clarence_thomas/thumbnail.jpg">Clarence Thomas</speaker>
+        <speaker id="william_h_rehnquist" type="justice" gender="male" path="/justices/william_h_rehnquist" image="/justices/william_h_rehnquist/thumbnail.jpg">William H. Rehnquist</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="179.722">
+        <title>Gitlitz v. Commissioner of Internal Revenue</title>
+        <section startTime="0.000" stopTime="179.722">
+          <heading/>
+          <turn speaker="william_h_rehnquist" startTime="0.000" stopTime="11.549">
+            <label>Chief Justice Rehnquist</label>
+            <text syncTime="0.000" offset="92930">The opinion of the Court in No. 99-1295, Gitlitz against the Commissioner of Internal Revenue will be announced by Justice Thomas.</text>
+          </turn>
+          <turn speaker="clarence_thomas" startTime="11.549" stopTime="179.722">
+            <label>Justice Clarence Thomas</label>
+            <text syncTime="11.549" offset="139114">This case comes to us on the a writ of certiorari to the United States of Court of Appeals for the Tenth Circuit.</text>
+            <text syncTime="17.744" offset="163879">Petitioners are shareholders in an insolvent Subchapter S corporation that excluded discharge of indebtedness from its gross income.</text>
+            <text syncTime="27.865" offset="204316">Petitioners pass through this their pro rata shares of the discharge of indebtedness as income to their individual tax returns.</text>
+            <text syncTime="36.801" offset="240052">Accordingly, increased their basis in corporate stock and deducted their losses.</text>
+            <text syncTime="43.977" offset="268786">The commissioner denied the deductions and the Tax Court affirmed that denial.</text>
+            <text syncTime="51.184" offset="297626">The Court of Appeals affirm the Tax Court holding that before petitioners could pass through the discharge of indebtedness income to increase their basis, they had to reduce the S Corporation’s tax attributes by the amount of discharge of indebtedness.</text>
+            <text syncTime="68.697" offset="367634">By doing that it would have absorbed all of the losses at the corporate level and there would have been nothing to pass through to the taxpayers.</text>
+            <text syncTime="77.822" offset="404205">In an opinion filed with the Clerk today, we reverse.</text>
+            <text syncTime="81.502" offset="418938">Section 61(a)(12) of the Internal Revenue Code states that discharge of indebtedness is generally included in gross income.</text>
+            <text syncTime="91.048" offset="457077">Section 108 merely permits insolvent S corporations to exclude discharge of indebtedness from gross income, and Section 108(e)(1) specifically presumes that discharge of indebtedness remains an item of income.</text>
+            <text syncTime="108.912" offset="528548">Discharge of indebtedness income of an insolvent S corporation is therefore subject to pass through as an item of income to shareholders.</text>
+            <text syncTime="119.585" offset="571180">Section 108(b)(4)(A) directs that tax attribute deductions shall be made after the determination of the tax imposed for the taxable year of the discharge.</text>
+            <text syncTime="131.922" offset="620603">To compute the tax imposed the shareholders must pass through the S corporation’s items of income, increase their basis in corporate stock and take deductions.</text>
+            <text syncTime="143.337" offset="666266">Therefore the pass through must occur before the S corporation’s tax attributes are reduced.</text>
+            <text syncTime="149.851" offset="692283">In that way it is not absorbed at the corporate level and remains available to the taxpayer.</text>
+            <text syncTime="156.275" offset="717988">In this case petitioners did pass through the S corporation’s discharge of indebtedness income, increased their basis, and take their deductions without having already reduced the S corporation’s tax attributes.</text>
+            <text syncTime="169.233" offset="769815">They therefore were entitled to the claim deductions.</text>
+            <text syncTime="172.255" offset="781936">Justice Breyer has filed a dissenting opinion.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>

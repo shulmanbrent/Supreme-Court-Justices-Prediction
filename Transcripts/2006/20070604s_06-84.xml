@@ -1,0 +1,58 @@
+<transcript verified="true">
+      <history>
+        <verified user="jgoldman">2013-09-02</verified>
+        <edit user="jgoldman" date="2013-12-12T16:03:58" startTime="0.000" oldSpeaker="unknown_speaker" newSpeaker="john_g_roberts_jr"/>
+        <identified user="jgoldman">2013-12-12</identified>
+      </history>
+      <resources>
+        <audioFile size="1489908">/xml/cases/2006/06_84/20070604o_06-84.mp3</audioFile>
+        <sourceFile>/data/sites/nas3-oyez.kentlaw.edu/cases/2006/trs/06-84_20070604-opinion.trs</sourceFile>
+        <speaker id="david_h_souter" type="justice" gender="male" path="/justices/david_h_souter" image="/justices/david_h_souter/thumbnail.jpg">David H. Souter</speaker>
+        <speaker id="john_g_roberts_jr" type="justice" gender="male" path="/justices/john_g_roberts_jr" image="/justices/john_g_roberts_jr/thumbnail.jpg">John G. Roberts, Jr.</speaker>
+      </resources>
+      <episode startTime="0.000" stopTime="350.015">
+        <title>Safeco Ins. Co. of America v. Burr</title>
+        <section startTime="0.000" stopTime="350.015" revised="2014-01-27">
+          <heading>Opinion Announcement of Justice David H. Souter</heading>
+          <turn speaker="john_g_roberts_jr" startTime="0.000" stopTime="14.043">
+            <label>Chief Justice John G. Roberts, Jr.</label>
+            <text syncTime="0.000" offset="89849">Justice Souter has our opinion this morning in 06-84, Safeco Insurance Company versus Burr, and the consolidated case 06-100, GEICO General Insurance versus Edo.</text>
+          </turn>
+          <turn speaker="david_h_souter" startTime="14.043" stopTime="350.015">
+            <label>Justice David H. Souter</label>
+            <text syncTime="14.043" offset="145960">These cases come to us on a writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</text>
+            <text syncTime="19.677" offset="168530">The Fair Credit Reporting Act required notice to any consumer who suffers from what the act calls “adverse action” based in whole or in part on any information in the consumer report which includes, credit reports and credit scores.</text>
+            <text syncTime="36.723" offset="236657">This notice tells the consumer about the adverse action and gives details about how to dispute the accuracy of the report used.</text>
+            <text syncTime="44.354" offset="267168">For purposes of this case, the act defines an “adverse action” as “an increase in any charge for any insurance existing or applied for.”</text>
+            <text syncTime="54.466" offset="307710">Under the act “consumers can sue businesses that fail to comply and if the business’ violation is willful the effected the consumer is entitled to actual statutory and punitive damages.”</text>
+            <text syncTime="66.816" offset="357029">GEICO the petitioner in number 06-100 took respondent Edo’s credit score into account when it issued him a new insurance policy.</text>
+            <text syncTime="77.093" offset="398198">Since the rate that Edo received was the same he would have gotten if GEICO had not looked at his credit score at all, the GEICO did not send him an “adverse action” notice.</text>
+            <text syncTime="88.748" offset="444801">Edo sued GEICO alleging that it had willfully violated the act’s notice requirement but the district court granted summary judgment to GEICO.</text>
+            <text syncTime="98.695" offset="484611">Safeco the petitioner in 06-84 also took credit information into account when it issued new insurance policies to respondents Charles Burr, and Shannon Massey.</text>
+            <text syncTime="111.387" offset="535393">Since Safeco did not think that the notice requirement applied to initial rates of a new insurance it did not give them notice.</text>
+            <text syncTime="118.415" offset="563501">Burr and Massey joined a proposed class action against Safeco alleging willful violation of the act.</text>
+            <text syncTime="125.260" offset="590878">The District Court granted summary judgment for Safeco.</text>
+            <text syncTime="128.986" offset="605715">The Court of Appeals for the Ninth Circuit reversed in both cases.</text>
+            <text syncTime="132.879" offset="621284">It held that an “adverse action” occurs whenever a consumer would have gotten a lower rate if his credit score had been more favorable and that the notice requirement applies to initial charges for new insurance policies.</text>
+            <text syncTime="146.397" offset="675410">It also held that an insurer willfully fails to comply with the act if it acts with “reckless disregard” of the act’s requirements and the Court of Appeals remanded both cases for further proceedings.</text>
+            <text syncTime="161.195" offset="734551">In an opinion filed with the clerk today we reverse the judgments in both cases.</text>
+            <text syncTime="167.288" offset="758897">Where willfulness is a statutory condition of civil liability, we have taken it to cover not only knowing violations of a standard, but reckless ones as well.</text>
+            <text syncTime="176.831" offset="797140">This construction is consistent with common law usage.</text>
+            <text syncTime="180.286" offset="810933">Since congress was presumably aware of the background and didn’t point in a different direction we agree with the Ninth Circuit the willful failure covers reckless violations of the act.</text>
+            <text syncTime="191.319" offset="855028">We also agree that an initial rate charged for new insurance can be an increase in an insurance charge as the act uses that term in “adverse action” requiring notice.</text>
+            <text syncTime="207.023" offset="917931">This reading fits with the act’s broad statement of purpose and it is unlikely that congress meant to distinguish newly insured from renewal applicants in this context.</text>
+            <text syncTime="218.255" offset="962861">Notice is not required however unless the credit report is a necessary condition of the increase.</text>
+            <text syncTime="224.451" offset="987625">This is the most natural reading of the act’s based on language and congress probably meant to prompt consumer challenges only when the consumer would gain something, if the challenge succeeded.</text>
+            <text syncTime="237.825" offset="1041124">This conclusion leads us to hold that the comparative baseline for determining whether an initial rate is a disadvantageous increase, is what the applicant would have gotten, if his credit report had not been considered, this we think best reflects the concern for practical consequences that congress showed in adopting the causation requirement.</text>
+            <text syncTime="264.822" offset="1149062">Therefore, Edo was not entitled to notice and GEICO didn’t violate the act.</text>
+            <text syncTime="270.130" offset="1170273">Safeco on the other hand may have violated the act but we find that if it did it did not act recklessly.</text>
+            <text syncTime="277.470" offset="1199635">The common law regards “recklessness” as conduct entailing an objectively high risk of harm, which here would be a risk of course of violating the act.</text>
+            <text syncTime="289.974" offset="1249686">Safeco did not have the benefit of guidance from the Courts of Appeals or the Federal Trade Commission and his reading of the act had a reasonable foundation in the statutory text.</text>
+            <text syncTime="300.871" offset="1293258">Since we cannot say that Safeco’s reading was even objectively unreasonable it falls well short of raising the high risk of violating the act necessary for reckless liability.</text>
+            <text syncTime="312.022" offset="1337875">Justice Scalia joins the opinion as to all but footnotes 11 and 15 and some of you can guess what is in footnotes 11 and 15.</text>
+            <text syncTime="324.098" offset="1386149">Justice Thomas and Justice Alito join as to all but part III-A and Justice Stevens and Justice Ginsburg joined parts I, II, III-A and IV-B.</text>
+            <text syncTime="337.552" offset="1439962">Justice Stevens has filed an opinion concurring in part and in the judgment in which Justice Ginsburg joins and Justice Thomas has filed an opinion concurring in part in which Justice Alito joins.</text>
+          </turn>
+        </section>
+      </episode>
+    </transcript>
