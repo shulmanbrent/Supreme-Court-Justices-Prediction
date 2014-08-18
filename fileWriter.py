@@ -12,9 +12,9 @@ def main():
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
     #for each transcript in the corpus
     for index, file in enumerate(utilities.get_corpus_files()):
-        #open specific transcript
+        #open specific transcript as object
         transcript = transcriptObject(file)
-        print ''.join((transcript.case_name))
+
         #creates newpath for the folder/directory and creates it
         #caseName[:100] = helps limit file name size
         newpath = os.path.join(os.getcwd(),
