@@ -52,10 +52,10 @@ def remove_common_words_option():
 #@return = tokenized arry of words
 def remove_punctuation(w):
     w = [token for token in w if token not in set(string.punctuation)]
-    return ''.join(w)   
+    return w   
 
 #@input = tokenized array of words
 #@return = tokenized arry of words w/o common words
 def remove_common_words(w):
     w = [token for token in w if token not in stopwords.words('english')]
-    return ''.join(w)
+    return w
