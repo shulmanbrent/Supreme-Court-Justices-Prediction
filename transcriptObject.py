@@ -10,8 +10,9 @@ class transcriptObject():
     
     #@return = cleaned title
     def getCaseName(self):
-        return ''.join(utilities.remove_punctuation(self.getSoup().title.text))
-    
+        temp = ''.join(self.getSoup().title.text)
+        temp = nltk.wordpunct_tokenize(temp)
+        return ' '.join(utilities.remove_punctuation(temp))
     #@return = year the case was first brought to lower court
     def getCaseYear(self):
         return self.file[:4]
