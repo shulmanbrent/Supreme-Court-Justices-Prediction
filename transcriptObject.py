@@ -13,6 +13,7 @@ class transcriptObject():
         temp = ''.join(self.getSoup().title.text)
         temp = nltk.wordpunct_tokenize(temp)
         return ' '.join(utilities.remove_punctuation(temp))
+        
     #@return = year the case was first brought to lower court
     def getCaseYear(self):
         return self.file[:4]
@@ -23,11 +24,12 @@ class transcriptObject():
     #@return = tuple of the date of the cases arguement to the supreme court
     #@format = (year, month, day)
     def getDateOfArg(self):
+        desc = ['day', 'month', 'year']
         year = self.file_name[0:4]
         month = self.file_name[4:6]
         day = self.file_name[6:8]
-        date_of_arg = (year,month,day)
-        return date_of_arg
+        date_of_arg = [day, month, year]
+        return dict(zip(desc, date_of_arg))
 
     #@return = transcript XML file for use with BeautifulSoup API
     def getSoup(self):
