@@ -19,7 +19,12 @@ class transcriptObject():
         return self.file[:4]
     
     def getDocketNumber(self):
-        return self.file.replace('.xml', '')[15:]
+        docket = self.file.replace('.xml', '')[15:]
+        clean_docket = []
+        for char in list(docket):
+            if char.isdigit() or char == '-':
+                clean_docket.append(char)
+        return ''.join(clean_docket)
 
     #@return = tuple of the date of the cases arguement to the supreme court
     #@format = (year, month, day)
@@ -46,14 +51,20 @@ class transcriptObject():
                                  'type': speaker['type'],
                                  'gender': speaker['gender']} )
         return speakerInfo
-    
+
     #@return = full directory path of transcript on users disk
     def getFullPath(self):
         return os.path.join(os.getcwd(),
                             'Transcripts', 
                             self.getCaseYear(), 
                             self.getFileName())                    
-                
+    
+    
+    def getSpeakerIds(self):
+        speakerIds = []
+        for speaker in self.speaker_info:
+            speakerIds.append(speaker['id'])
+        return speakerIds                
     
     
     #transcript object class constructor
@@ -73,6 +84,7 @@ class transcriptObject():
         self.full_file_path = self.getFullPath()  
 
         self.speaker_info = self.getSpeakerInfo()
+        self.speaker_ids = self.getSpeakerIds()
 
 
 
